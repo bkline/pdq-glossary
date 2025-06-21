@@ -1,0 +1,38 @@
+<GlossaryTerm id="CDR0000046636"><TermName>tumor marker</TermName><TermPronunciation>(TOO-mer MAR-ker)</TermPronunciation><TermDefinition><DefinitionText>A substance
+          found in tissue, blood, bone marrow, or other body fluids
+          that may be a sign of cancer or certain benign (noncancer)
+          conditions. Many tumor markers are proteins made by both
+          normal cells and cancer cells, but they are made in higher
+          amounts by cancer cells. Genetic changes in tumor tissue,
+          such as gene mutations, patterns of gene expression, and
+          other changes in tumor DNA or RNA, are also being used as
+          tumor markers. A tumor marker may be used with other tests
+          to help diagnose cancer. It may also be used to help plan
+          treatment, give a likely prognosis, and find out how well
+          treatment is working or if cancer has come back. Examples
+          of tumor markers include CA-125 (in ovarian cancer),
+          estrogen receptor and progesterone receptor (in breast
+          cancer), CEA (in colon cancer), PCA3 mRNA and PSA (in
+          prostate cancer), and EGFR gene mutation (in non-small cell
+          lung cancer).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709841" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor marker&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709842" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;marcador tumoral&quot;" language="es" id="_4"/><SpanishTermName>marcador tumoral</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se encuentra en
+tejidos, sangre, médula ósea u otros líquidos del cuerpo, y
+que a veces es un signo de cáncer o determinadas afecciones
+benignas (no cancerosas). Muchos marcadores tumorales son
+proteínas elaboradas por células normales y cancerosas,
+pero que se producen en cantidades más altas en las células
+cancerosas. Además, también se usan como marcadores
+tumorales los cambios genéticos en el tejido tumoral, como
+las mutaciones en genes, las formas de expresión de genes y
+otros cambios en el ADN o ARN del tumor. Es posible usar un
+marcador tumoral con otras pruebas para ayudar a
+diagnosticar el cáncer. Los marcadores también son útiles
+para planificar el tratamiento, dar un pronóstico y
+determinar la eficacia de un tratamiento o si el cáncer
+regresó. Los ejemplos de marcadores tumorales son el CA-125
+(cáncer de ovario), los receptores de estrógeno y
+progesterona (cáncer de mama), el ACE (cáncer de colon), el
+ARNm de PCA3 y el PSA (cáncer de próstata), y la mutación
+en el gen <GeneName>EGFR</GeneName> (cáncer de pulmón de
+células no pequeñas).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-01-10</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet">Tumor
+Markers</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-marcadores-de-tumores">Marcadores
+tumorales</RelatedExternalRef></RelatedInformation></GlossaryTerm>
