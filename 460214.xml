@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000460214"><TermName>risk assessment</TermName><TermPronunciation>(… uh-SES-ment)</TermPronunciation><TermDefinition><DefinitionText>The quantitative or qualitative assessment of an individual’s risk of carrying a certain gene mutation, or developing a particular disorder, or of having a child with a certain disorder; sometimes done by using mathematical or statistical models incorporating such factors as personal health history, family medical history and ethnic background.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A process used to estimate the risk that a certain event will happen. In medicine, this may include a person’s risk of having a child with a certain condition or disease, such as cancer.  It may also be used to estimate the risk of carrying a certain gene mutation (change), or of having an adverse event (unexpected medical problem) in response to certain types of drugs or other substances. A risk assessment may be done  by collecting information about a person’s age, sex, personal and family medical history, ethnic background, lifestyle, and other factors and using statistics tools to calculate risk.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736986" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;risk assessment&quot;" language="en" id="_2"/><MediaLink ref="CDR0000767708" type="audio/mpeg" alt="" language="es" id="_6"/><SpanishTermName>evaluación del riesgo</SpanishTermName><SpanishTermDefinition><DefinitionText>Evaluación cuantitativa o cualitativa del riesgo de una persona de ser portador de una mutación génica determinada, de presentar un trastorno específico, o de tener un hijo con un trastorno determinado. A veces se hace con modelos matemáticos o estadísticos que incorporan factores como los antecedentes médicos personales, la historia familiar y  el origen étnico. También se llama valoración del riesgo.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Proceso que se usa para calcular el riesgo de que algo suceda. En medicina, esto incluye el riesgo de tener un hijo con cierta afección o enfermedad, como el cáncer. A veces también se usa para calcular el riesgo de ser portador de cierta mutación (cambio) en un  gen, o de presentar una reacción adversa (problema médico inesperado) a ciertos tipos de medicamentos u otras sustancias. Una evaluación del riesgo  se hace al reunir información de la persona (como edad, sexo, antecedentes médicos personales e historia familiar, origen étnico, estilo de vida y otros factores), y al usar herramientas estadísticas para calcular el riesgo. También se llama valoración del riesgo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk">Risk Factors for Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo">Factores de riesgo del cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460214">
+  <TermName>risk assessment</TermName>
+  <TermPronunciation>(… uh-SES-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The quantitative or qualitative assessment of an individual’s risk of carrying a certain gene mutation, or developing a particular disorder, or of having a child with a certain disorder; sometimes done by using mathematical or statistical models incorporating such factors as personal health history, family medical history and ethnic background.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A process used to estimate the risk that a certain event will happen. In medicine, this may include a person’s risk of having a child with a certain condition or disease, such as cancer.  It may also be used to estimate the risk of carrying a certain gene mutation (change), or of having an adverse event (unexpected medical problem) in response to certain types of drugs or other substances. A risk assessment may be done  by collecting information about a person’s age, sex, personal and family medical history, ethnic background, lifestyle, and other factors and using statistics tools to calculate risk.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736986" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;risk assessment&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000767708" type="audio/mpeg" alt="" language="es" id="_6"/>
+  <SpanishTermName>evaluación del riesgo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Evaluación cuantitativa o cualitativa del riesgo de una persona de ser portador de una mutación génica determinada, de presentar un trastorno específico, o de tener un hijo con un trastorno determinado. A veces se hace con modelos matemáticos o estadísticos que incorporan factores como los antecedentes médicos personales, la historia familiar y  el origen étnico. También se llama valoración del riesgo.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso que se usa para calcular el riesgo de que algo suceda. En medicina, esto incluye el riesgo de tener un hijo con cierta afección o enfermedad, como el cáncer. A veces también se usa para calcular el riesgo de ser portador de cierta mutación (cambio) en un  gen, o de presentar una reacción adversa (problema médico inesperado) a ciertos tipos de medicamentos u otras sustancias. Una evaluación del riesgo  se hace al reunir información de la persona (como edad, sexo, antecedentes médicos personales e historia familiar, origen étnico, estilo de vida y otros factores), y al usar herramientas estadísticas para calcular el riesgo. También se llama valoración del riesgo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk">Risk Factors for Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo">Factores de riesgo del cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

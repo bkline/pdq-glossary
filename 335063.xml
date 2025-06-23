@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000335063"><TermName>chloroma</TermName><TermPronunciation>(kloh-ROH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that is made up of myeloblasts (a type of immature white blood cell) and forms outside the bone marrow and blood. The tumor cells may look green when viewed under a microscope. Chloromas can occur anywhere in the body. They most commonly occur in people with acute myeloid leukemia or a myeloproliferative disorder. Also called extramedullary myeloid tumor, granulocytic sarcoma, and myeloid sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731525" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chloroma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731524" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cloroma&quot;" language="es" id="_4"/><SpanishTermName>cloroma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer raro que se compone de mieloblastos (tipo de glóbulo blanco inmaduro) y que se forma fuera de la médula ósea y la sangre. Las células del tumor a veces se ven de color verde cuando se observan al microscopio.  Es posible que el cloroma se origine en cualquier parte del cuerpo. Por lo general, se presenta en personas con leucemia mielógena aguda o un trastorno mieloproliferativo. También se llama sarcoma granulocítico, sarcoma mieloide y tumor mieloide extramedular.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished><DateLastModified>2021-12-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335063">
+  <TermName>chloroma</TermName>
+  <TermPronunciation>(kloh-ROH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that is made up of myeloblasts (a type of immature white blood cell) and forms outside the bone marrow and blood. The tumor cells may look green when viewed under a microscope. Chloromas can occur anywhere in the body. They most commonly occur in people with acute myeloid leukemia or a myeloproliferative disorder. Also called extramedullary myeloid tumor, granulocytic sarcoma, and myeloid sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731525" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chloroma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731524" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cloroma&quot;" language="es" id="_4"/>
+  <SpanishTermName>cloroma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer raro que se compone de mieloblastos (tipo de glóbulo blanco inmaduro) y que se forma fuera de la médula ósea y la sangre. Las células del tumor a veces se ven de color verde cuando se observan al microscopio.  Es posible que el cloroma se origine en cualquier parte del cuerpo. Por lo general, se presenta en personas con leucemia mielógena aguda o un trastorno mieloproliferativo. También se llama sarcoma granulocítico, sarcoma mieloide y tumor mieloide extramedular.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+  <DateLastModified>2021-12-30</DateLastModified>
+</GlossaryTerm>

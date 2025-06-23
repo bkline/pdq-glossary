@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000425374"><TermName>linkage analysis</TermName><TermPronunciation>(LING-kij uh-NA-lih-sis)</TermPronunciation><TermDefinition><DefinitionText>A gene-hunting technique that traces patterns of disease in high-risk families. Linkage analysis attempts to locate a disease-causing gene by identifying genetic markers of known chromosomal location that are co-inherited with the gene or trait of interest.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736970" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linkage analysis&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804199" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;análisis de ligamiento&quot;" language="es" id="_4"/><SpanishTermName>análisis de ligamiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de detección de genes en el que se indaga la distribución de una enfermedad en familias de riesgo alto. Con este método se intenta ubicar un gen causal de enfermedad mediante la identificación de marcadores genéticos con ubicación cromosómica conocida que se heredan junto con el gen o rasgo de interés. También se llama análisis de vinculación.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-03-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000425374">
+  <TermName>linkage analysis</TermName>
+  <TermPronunciation>(LING-kij uh-NA-lih-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene-hunting technique that traces patterns of disease in high-risk families. Linkage analysis attempts to locate a disease-causing gene by identifying genetic markers of known chromosomal location that are co-inherited with the gene or trait of interest.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736970" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linkage analysis&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804199" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;análisis de ligamiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>análisis de ligamiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de detección de genes en el que se indaga la distribución de una enfermedad en familias de riesgo alto. Con este método se intenta ubicar un gen causal de enfermedad mediante la identificación de marcadores genéticos con ubicación cromosómica conocida que se heredan junto con el gen o rasgo de interés. También se llama análisis de vinculación.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-03-24</DateFirstPublished>
+</GlossaryTerm>

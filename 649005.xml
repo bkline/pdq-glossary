@@ -1,4 +1,23 @@
-<GlossaryTerm id="CDR0000649005"><TermName>pharmacist</TermName><TermPronunciation>(FAR-muh-sist)</TermPronunciation><TermDefinition><DefinitionText>A health professional who has special training in preparing and dispensing (giving out) prescription drugs. Pharmacists have been taught how drugs work, how to use them, and their side effects.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pharmacist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;farmacéutico&quot;" language="es" id="_4"/><SpanishTermName>farmacéutico</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la salud que ha recibido formación especial para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000649005">
+  <TermName>pharmacist</TermName>
+  <TermPronunciation>(FAR-muh-sist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A health professional who has special training in preparing and dispensing (giving out) prescription drugs. Pharmacists have been taught how drugs work, how to use them, and their side effects.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pharmacist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;farmacéutico&quot;" language="es" id="_4"/>
+  <SpanishTermName>farmacéutico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la salud que ha recibido formación especial para
 preparar y dispensar (entregar) medicamentos de venta con receta, así como educación sobre la forma en que estos funcionan,
 cómo usarlos y sus efectos
-secundarios. También se llama farmaceuta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-13</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+secundarios. También se llama farmaceuta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-13</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

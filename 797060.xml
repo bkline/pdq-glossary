@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797060"><TermName>umbrella trial</TermName><TermPronunciation>(um-BREH-luh TRY-ul)</TermPronunciation><TermDefinition><DefinitionText>A type of clinical trial that tests how well new drugs or other substances work in patients who have the same type of cancer but different gene mutations (changes) or biomarkers. In umbrella trials, patients receive treatment based on the specific mutation or biomarker found in their cancer. The drugs being tested may change during the trial, as new targets and drugs are found. Umbrella trials may allow new drugs to be tested and approved more quickly than traditional clinical trials.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798833" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;umbrella trial&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798832" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensayo en paraguas&quot;" language="es" id="_4"/><SpanishTermName>ensayo en paraguas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de ensayo clínico en el que se prueba la eficacia de nuevos medicamentos u otras sustancias en pacientes que tienen el mismo tipo de cáncer pero presentan distintas mutaciones (cambios) en los genes o distintos biomarcadores. Para el ensayo en paraguas, los pacientes reciben tratamiento según la mutación o biomarcador específico que se detectó en el cáncer. A veces se cambian los medicamentos durante el ensayo, a medida que se encuentran nuevos objetivos y medicamentos. Mediante este tipo de ensayo, es posible hacer pruebas y obtener la aprobación de medicamentos nuevos más rápido que a través de los ensayos clínicos tradicionales. También se llama estudio en paraguas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797060">
+  <TermName>umbrella trial</TermName>
+  <TermPronunciation>(um-BREH-luh TRY-ul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of clinical trial that tests how well new drugs or other substances work in patients who have the same type of cancer but different gene mutations (changes) or biomarkers. In umbrella trials, patients receive treatment based on the specific mutation or biomarker found in their cancer. The drugs being tested may change during the trial, as new targets and drugs are found. Umbrella trials may allow new drugs to be tested and approved more quickly than traditional clinical trials.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798833" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;umbrella trial&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798832" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensayo en paraguas&quot;" language="es" id="_4"/>
+  <SpanishTermName>ensayo en paraguas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de ensayo clínico en el que se prueba la eficacia de nuevos medicamentos u otras sustancias en pacientes que tienen el mismo tipo de cáncer pero presentan distintas mutaciones (cambios) en los genes o distintos biomarcadores. Para el ensayo en paraguas, los pacientes reciben tratamiento según la mutación o biomarcador específico que se detectó en el cáncer. A veces se cambian los medicamentos durante el ensayo, a medida que se encuentran nuevos objetivos y medicamentos. Mediante este tipo de ensayo, es posible hacer pruebas y obtener la aprobación de medicamentos nuevos más rápido que a través de los ensayos clínicos tradicionales. También se llama estudio en paraguas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-25</DateFirstPublished>
+</GlossaryTerm>

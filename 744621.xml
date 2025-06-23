@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000744621"><TermName>stage IV intraocular melanoma of the ciliary body and choroid</TermName><TermPronunciation>(... IN-truh-AH-kyoo-ler MEH-luh-NOH-muh ... SIH-lee-ayr-ee BAH-dee ... KOR-oyd)</TermPronunciation><TermDefinition><DefinitionText>The tumor may be any size and has spread (1) to one or more nearby lymph nodes or to the eye socket separate from the primary tumor; or (2) to other parts of the body, such as the liver, lung, bone, brain, or tissue under the skin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000746288" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV intraocular melanoma of the ciliary body and choroid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000746289" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma ocular de cuerpo ciliar y coroides en estadio IV&quot;" language="es" id="_4"/><SpanishTermName>melanoma ocular de cuerpo ciliar y coroides en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor es de cualquier tamaño y se diseminó  a 1) uno o más ganglios linfáticos cercanos, o la órbita ocular, y está separado del tumor primario; o  2) a otras partes del cuerpo, como el hígado, el pulmón, el hueso, el encéfalo o el tejido debajo de la piel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-01-09</DateFirstPublished><DateLastModified>2018-07-02</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258015" url="/types/eye/patient/intraocular-melanoma-treatment-pdq">Intraocular (Uveal) Melanoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000537037" url="/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-pdq">Tratamiento del melanoma ocular uveal</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000744621">
+  <TermName>stage IV intraocular melanoma of the ciliary body and choroid</TermName>
+  <TermPronunciation>(... IN-truh-AH-kyoo-ler MEH-luh-NOH-muh ... SIH-lee-ayr-ee BAH-dee ... KOR-oyd)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor may be any size and has spread (1) to one or more nearby lymph nodes or to the eye socket separate from the primary tumor; or (2) to other parts of the body, such as the liver, lung, bone, brain, or tissue under the skin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000746288" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV intraocular melanoma of the ciliary body and choroid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000746289" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma ocular de cuerpo ciliar y coroides en estadio IV&quot;" language="es" id="_4"/>
+  <SpanishTermName>melanoma ocular de cuerpo ciliar y coroides en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor es de cualquier tamaño y se diseminó  a 1) uno o más ganglios linfáticos cercanos, o la órbita ocular, y está separado del tumor primario; o  2) a otras partes del cuerpo, como el hígado, el pulmón, el hueso, el encéfalo o el tejido debajo de la piel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-01-09</DateFirstPublished>
+  <DateLastModified>2018-07-02</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258015" url="/types/eye/patient/intraocular-melanoma-treatment-pdq">Intraocular (Uveal) Melanoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000537037" url="/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-pdq">Tratamiento del melanoma ocular uveal</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000778722"><TermName>depth of coverage</TermName><TermPronunciation>(... KUH-veh-rij)</TermPronunciation><TermDefinition><DefinitionText>Refers to the number of times a nucleotide is read during sequencing. A greater depth of coverage can increase confidence in the final results. Deep coverage aids in differentiating sequencing errors from single nucleotide polymorphisms. This can be specifically useful when a patient has a mosaicism or when a tumor is heterogeneous for a mutation.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000780347" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;depth of coverage&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804316" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;profundidad de cobertura&quot;" language="es" id="_4"/><SpanishTermName>profundidad de cobertura</SpanishTermName><SpanishTermDefinition><DefinitionText>Se refiere al número de veces que se lee un nucleótido durante la secuenciación. Una mayor profundidad de cobertura  aumenta la confianza en los resultados finales. La profundidad de cobertura ayuda a diferenciar los polimorfismos de un solo nucleótido de los errores de secuenciación. Esto es particularmente útil cuando un paciente presenta un mosaicismo o cuando el tumor es heterogéneo para una mutación. También se llama profundidad de lectura.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2016-02-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000778722">
+  <TermName>depth of coverage</TermName>
+  <TermPronunciation>(... KUH-veh-rij)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Refers to the number of times a nucleotide is read during sequencing. A greater depth of coverage can increase confidence in the final results. Deep coverage aids in differentiating sequencing errors from single nucleotide polymorphisms. This can be specifically useful when a patient has a mosaicism or when a tumor is heterogeneous for a mutation.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000780347" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;depth of coverage&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804316" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;profundidad de cobertura&quot;" language="es" id="_4"/>
+  <SpanishTermName>profundidad de cobertura</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se refiere al número de veces que se lee un nucleótido durante la secuenciación. Una mayor profundidad de cobertura  aumenta la confianza en los resultados finales. La profundidad de cobertura ayuda a diferenciar los polimorfismos de un solo nucleótido de los errores de secuenciación. Esto es particularmente útil cuando un paciente presenta un mosaicismo o cuando el tumor es heterogéneo para una mutación. También se llama profundidad de lectura.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-02-08</DateFirstPublished>
+</GlossaryTerm>

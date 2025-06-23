@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000389271"><TermName>green tea extract</TermName><TermPronunciation>(green tee EK-strakt)</TermPronunciation><TermDefinition><DefinitionText>A mixture that is prepared from the leaves of the Camellia sinensis plant. It contains substances called flavonoids and polyphenols, which are antioxidants. Antioxidants help protect cells from damage caused by certain chemicals that may increase the risk of cancer and other diseases. Green tea extract may be taken to treat certain conditions. It is also being studied in the prevention of cancer and other diseases.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730790" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;green tea extract&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730791" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extracto de té verde&quot;" language="es" id="_4"/><SpanishTermName>extracto de té verde</SpanishTermName><SpanishTermDefinition><DefinitionText>Mezcla que se prepara con las hojas de la planta <ScientificName>Camellia sinensis</ScientificName>.  Contiene sustancias con efecto antioxidante que se llaman flavonoides y polifenoles.  Los antioxidantes ayudan a proteger las células del daño de ciertas sustancias químicas que aumenta el riesgo de cáncer y otras enfermedades. El extracto de té verde a veces se consume como tratamiento para ciertas afecciones o problemas de salud. También está en estudio para la prevención del cáncer y otras enfermedades.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-08-24</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000719565" url="/about-cancer/treatment/cam/patient/prostate-supplements-pdq">Prostate Cancer, Nutrition, and Dietary Supplements</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000773657" url="/espanol/cancer/tratamiento/mca/paciente/prostata-suplementos-pdq">Cáncer de próstata, nutrición y suplementos alimenticios</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000389271">
+  <TermName>green tea extract</TermName>
+  <TermPronunciation>(green tee EK-strakt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A mixture that is prepared from the leaves of the Camellia sinensis plant. It contains substances called flavonoids and polyphenols, which are antioxidants. Antioxidants help protect cells from damage caused by certain chemicals that may increase the risk of cancer and other diseases. Green tea extract may be taken to treat certain conditions. It is also being studied in the prevention of cancer and other diseases.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730790" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;green tea extract&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730791" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extracto de té verde&quot;" language="es" id="_4"/>
+  <SpanishTermName>extracto de té verde</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Mezcla que se prepara con las hojas de la planta 
+      <ScientificName>Camellia sinensis</ScientificName>
+      .  Contiene sustancias con efecto antioxidante que se llaman flavonoides y polifenoles.  Los antioxidantes ayudan a proteger las células del daño de ciertas sustancias químicas que aumenta el riesgo de cáncer y otras enfermedades. El extracto de té verde a veces se consume como tratamiento para ciertas afecciones o problemas de salud. También está en estudio para la prevención del cáncer y otras enfermedades.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-08-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000719565" url="/about-cancer/treatment/cam/patient/prostate-supplements-pdq">Prostate Cancer, Nutrition, and Dietary Supplements</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000773657" url="/espanol/cancer/tratamiento/mca/paciente/prostata-suplementos-pdq">Cáncer de próstata, nutrición y suplementos alimenticios</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

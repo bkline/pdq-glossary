@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000792696"><TermName>psychosocial support</TermName><TermPronunciation>(SY-koh-SOH-shul suh-PORT)</TermPronunciation><TermDefinition><DefinitionText>In medicine, support given to help meet the mental, emotional, social, and spiritual needs of patients and their families. Diseases, such as cancer, can affect a patient’s thoughts, feelings, moods, beliefs, ways of coping, and relationships with family, friends, and co-workers. There are different kinds of psychosocial support that can help cancer patients. These include counseling, education, group support, and spiritual support.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795257" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychosocial support&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795256" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apoyo psicosocial&quot;" language="es" id="_4"/><SpanishTermName>apoyo psicosocial</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, apoyo que se brinda para ayudar a satisfacer las necesidades mentales, emocionales, sociales y espirituales de los pacientes y sus familias. Las enfermedades, como el cáncer, pueden afectar los pensamientos, los sentimientos, los estados de ánimo, las creencias, las maneras de enfrentar situaciones difíciles y las relaciones con la familia, los amigos y los compañeros de trabajo. Hay distintas formas de apoyo psicosocial que pueden ayudar a los pacientes de cáncer. Entre ellas, la orientación, la educación, los grupos de apoyo y el apoyo espiritual. También se llama asistencia psicosocial y ayuda psicosocial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-06-04</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792696">
+  <TermName>psychosocial support</TermName>
+  <TermPronunciation>(SY-koh-SOH-shul suh-PORT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, support given to help meet the mental, emotional, social, and spiritual needs of patients and their families. Diseases, such as cancer, can affect a patient’s thoughts, feelings, moods, beliefs, ways of coping, and relationships with family, friends, and co-workers. There are different kinds of psychosocial support that can help cancer patients. These include counseling, education, group support, and spiritual support.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795257" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychosocial support&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795256" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apoyo psicosocial&quot;" language="es" id="_4"/>
+  <SpanishTermName>apoyo psicosocial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, apoyo que se brinda para ayudar a satisfacer las necesidades mentales, emocionales, sociales y espirituales de los pacientes y sus familias. Las enfermedades, como el cáncer, pueden afectar los pensamientos, los sentimientos, los estados de ánimo, las creencias, las maneras de enfrentar situaciones difíciles y las relaciones con la familia, los amigos y los compañeros de trabajo. Hay distintas formas de apoyo psicosocial que pueden ayudar a los pacientes de cáncer. Entre ellas, la orientación, la educación, los grupos de apoyo y el apoyo espiritual. También se llama asistencia psicosocial y ayuda psicosocial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-06-04</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000789734"><TermName>mammary duct ectasia</TermName><TermPronunciation>(MA-muh-ree dukt ek-TAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>A benign (not cancer) condition in which a milk duct under the nipple widens and thickens. This can cause the milk duct to become blocked and fluid to build up inside it. There are usually no symptoms, but sometimes there may be a thick nipple discharge or redness or tenderness of the nipple and nearby breast tissue. Mammary duct ectasia is most common in women who are near menopause or have gone through it. Also called breast duct ectasia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801284" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mammary duct ectasia&quot;" language="en" id="_4"/><MediaLink ref="CDR0000791534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ectasia de conducto mamario&quot;" language="es" id="_3"/><SpanishTermName>ectasia de conducto mamario</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección benigna (no cancerosa) por la que un conducto galactóforo debajo del pezón se ensancha y engrosa. Esto a veces bloquea dicho conducto y causa que se acumule líquido en su interior. No suele producir síntomas, pero en ocasiones el pezón presenta secreción espesa, o hay  enrojecimiento o sensibilidad en el pezón y el tejido mamario cercano. La ectasia de conducto mamario es más común en las mujeres que se acercan a la menopausia o que ya pasaron por ella. También se llama ectasia canalicular de la glándula mamaria y ectasia ductal mamaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789734">
+  <TermName>mammary duct ectasia</TermName>
+  <TermPronunciation>(MA-muh-ree dukt ek-TAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A benign (not cancer) condition in which a milk duct under the nipple widens and thickens. This can cause the milk duct to become blocked and fluid to build up inside it. There are usually no symptoms, but sometimes there may be a thick nipple discharge or redness or tenderness of the nipple and nearby breast tissue. Mammary duct ectasia is most common in women who are near menopause or have gone through it. Also called breast duct ectasia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801284" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mammary duct ectasia&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000791534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ectasia de conducto mamario&quot;" language="es" id="_3"/>
+  <SpanishTermName>ectasia de conducto mamario</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección benigna (no cancerosa) por la que un conducto galactóforo debajo del pezón se ensancha y engrosa. Esto a veces bloquea dicho conducto y causa que se acumule líquido en su interior. No suele producir síntomas, pero en ocasiones el pezón presenta secreción espesa, o hay  enrojecimiento o sensibilidad en el pezón y el tejido mamario cercano. La ectasia de conducto mamario es más común en las mujeres que se acercan a la menopausia o que ya pasaron por ella. También se llama ectasia canalicular de la glándula mamaria y ectasia ductal mamaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-18</DateFirstPublished>
+</GlossaryTerm>

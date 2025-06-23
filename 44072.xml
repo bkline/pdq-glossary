@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044072"><TermName>oxidative stress</TermName><TermPronunciation>(OK-sih-DAY-tiv ...)</TermPronunciation><TermDefinition><DefinitionText>A condition that may occur when there are too many unstable molecules called free radicals in the body and not enough antioxidants to get rid of them. This can lead to cell and tissue damage. There are many factors that may lead to oxidative stress, including obesity, poor diet, smoking, drinking alcohol, taking certain medicines, and exposure to environmental factors such as radiation, toxins, air pollution, pesticides, and sunlight. Long-term oxidative stress may play a role in aging and the development of chronic inflammation, cancer, and other diseases.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704128" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oxidative stress&quot;" language="en" id="_4"/><MediaLink ref="CDR0000704129" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estr?s oxidativo&quot;" language="es" id="_3"/><SpanishTermName>estrés oxidativo</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección que se presenta cuando hay demasiadas moléculas inestables llamadas radicales libres en el cuerpo y no hay suficientes antioxidantes para eliminarlas. Es posible que esto ocasione daños en las células y los tejidos. Hay varios factores que quizás causen estrés oxidativo, como la obesidad, la mala alimentación, el hábito de fumar, el consumo de bebidas alcohólicas, el uso de ciertos medicamentos y la exposición a factores ambientales como la radiación, las toxinas, la contaminación del aire, los plaguicidas y la luz solar. El estrés oxidativo a largo plazo tal vez intervenga en el envejecimiento y en la aparición de inflamación crónica, cáncer y otras enfermedades.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-08-05</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044072">
+  <TermName>oxidative stress</TermName>
+  <TermPronunciation>(OK-sih-DAY-tiv ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition that may occur when there are too many unstable molecules called free radicals in the body and not enough antioxidants to get rid of them. This can lead to cell and tissue damage. There are many factors that may lead to oxidative stress, including obesity, poor diet, smoking, drinking alcohol, taking certain medicines, and exposure to environmental factors such as radiation, toxins, air pollution, pesticides, and sunlight. Long-term oxidative stress may play a role in aging and the development of chronic inflammation, cancer, and other diseases.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704128" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oxidative stress&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000704129" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estr?s oxidativo&quot;" language="es" id="_3"/>
+  <SpanishTermName>estrés oxidativo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección que se presenta cuando hay demasiadas moléculas inestables llamadas radicales libres en el cuerpo y no hay suficientes antioxidantes para eliminarlas. Es posible que esto ocasione daños en las células y los tejidos. Hay varios factores que quizás causen estrés oxidativo, como la obesidad, la mala alimentación, el hábito de fumar, el consumo de bebidas alcohólicas, el uso de ciertos medicamentos y la exposición a factores ambientales como la radiación, las toxinas, la contaminación del aire, los plaguicidas y la luz solar. El estrés oxidativo a largo plazo tal vez intervenga en el envejecimiento y en la aparición de inflamación crónica, cáncer y otras enfermedades.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-08-05</DateLastModified>
+</GlossaryTerm>

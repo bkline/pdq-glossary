@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000756464"><TermName>fresolimumab</TermName><TermPronunciation>(FREH-soh-LIM-yoo-mab)</TermPronunciation><TermDefinition><DefinitionText>A substance being
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000756464">
+  <TermName>fresolimumab</TermName>
+  <TermPronunciation>(FREH-soh-LIM-yoo-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being
           studied in the treatment of breast cancer that has spread
           to other parts of the body. It is also being studied in the
           treatment of other cancers and conditions.
@@ -9,7 +14,15 @@
           keep cancer cells from growing and prevent the growth of
           new blood vessels that tumors need to grow. It is a type of
           monoclonal antibody and a type of antiangiogenesis
-          agent. Also called anti-TGF-beta monoclonal antibody GC1008 and GC1008.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000760884" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fresolimumab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000760883" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fresolimumab&quot;" language="es" id="_4"/><SpanishTermName>fresolimumab</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio
+          agent. Also called anti-TGF-beta monoclonal antibody GC1008 and GC1008.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000760884" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fresolimumab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000760883" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fresolimumab&quot;" language="es" id="_4"/>
+  <SpanishTermName>fresolimumab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio
 para el tratamiento del cáncer de mama que se diseminó a
 otras partes del cuerpo. También está en estudio para el
 tratamiento de otros cánceres y afecciones.
@@ -18,4 +31,10 @@ proteína llamada factor de crecimiento transformante beta
 (TGF-β), que se encuentra en algunas células cancerosas.
 Es posible que el fresolimumab impida la multiplicación de las células cancerosas y el crecimiento de los vasos sanguíneos nuevos que los tumores necesitan para crecer. Es
 un tipo de anticuerpo monoclonal y de
-antiangiogénico. También se llama anticuerpo monoclonal anti-TGF-ß GC1008 y GC1008.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-03-10</DateFirstPublished><DateLastModified>2014-03-10</DateLastModified></GlossaryTerm>
+antiangiogénico. También se llama anticuerpo monoclonal anti-TGF-ß GC1008 y GC1008.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-03-10</DateFirstPublished>
+  <DateLastModified>2014-03-10</DateLastModified>
+</GlossaryTerm>

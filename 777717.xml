@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000777717"><TermName>uridine triacetate</TermName><TermPronunciation>(YOOR-ih-deen try-A-seh-tayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used in the emergency treatment of adults and children who receive too much fluorouracil or capecitabine or who have heart or central nervous system toxicity or other serious side effects that occur within 4 days of ending treatment with these drugs. Uridine triacetate may help protect healthy cells from some of the side effects caused by certain anticancer drugs. It is a type of chemoprotective agent and a type of pyrimidine analog. Also called PN401, triacetyluridine, and Vistogard.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000778412" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;uridine triacetate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000778413" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;triacetato de uridina&quot;" language="es" id="_4"/><SpanishTermName>triacetato de uridina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa como tratamiento de urgencia en adultos y niños que reciben demasiado fluorouracilo o capecitabina, sufren toxicidad en el corazón o el sistema nervioso central, o tienen otros efectos secundarios graves dentro de los 4 días que siguen al tratamiento con estos medicamentos. El triacetato de uridina a veces ayuda a proteger  las células sanas de algunos efectos secundarios de ciertos medicamentos anticancerosos. Es un tipo de quimioprotector y de análogo de la pirimidina. También se llama PN401, triacetiluridina y Vistogard.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-12-31</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000777651" url="/about-cancer/treatment/drugs/uridinetriacetate">Uridine Triacetate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000777717">
+  <TermName>uridine triacetate</TermName>
+  <TermPronunciation>(YOOR-ih-deen try-A-seh-tayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used in the emergency treatment of adults and children who receive too much fluorouracil or capecitabine or who have heart or central nervous system toxicity or other serious side effects that occur within 4 days of ending treatment with these drugs. Uridine triacetate may help protect healthy cells from some of the side effects caused by certain anticancer drugs. It is a type of chemoprotective agent and a type of pyrimidine analog. Also called PN401, triacetyluridine, and Vistogard.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000778412" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;uridine triacetate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000778413" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;triacetato de uridina&quot;" language="es" id="_4"/>
+  <SpanishTermName>triacetato de uridina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa como tratamiento de urgencia en adultos y niños que reciben demasiado fluorouracilo o capecitabina, sufren toxicidad en el corazón o el sistema nervioso central, o tienen otros efectos secundarios graves dentro de los 4 días que siguen al tratamiento con estos medicamentos. El triacetato de uridina a veces ayuda a proteger  las células sanas de algunos efectos secundarios de ciertos medicamentos anticancerosos. Es un tipo de quimioprotector y de análogo de la pirimidina. También se llama PN401, triacetiluridina y Vistogard.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-12-31</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000777651" url="/about-cancer/treatment/drugs/uridinetriacetate">Uridine Triacetate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

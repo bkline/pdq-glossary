@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000803473"><TermName>RTEL1 gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in maintaining telomeres (the ends of chromosomes) and in repairing DNA. Mutations (changes) in the <GeneName>RTEL1</GeneName> gene have been found in a rare, inherited condition called dyskeratosis congenita, which causes abnormal changes in the skin and nails and white patches inside the mouth. People with this condition have an increased risk of bone marrow failure (a condition in which the bone marrow does not make enough blood cells), myelodysplastic syndrome, pulmonary fibrosis (scarring of the lungs), and certain types of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805307" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;RTEL1 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen RTEL1&quot;" language="es" id="_4"/><SpanishTermName>gen RTEL1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en el mantenimiento de los telómeros (extremos de los cromosomas) y en la reparación del ADN. Se han encontrado mutaciones (cambios) del gen <GeneName>RTEL1</GeneName> en una afección hereditaria rara llamada disqueratosis congénita, que causa cambios anormales en la piel y en las uñas, así como manchas blancas en el interior de la boca. Las personas con esta afección tienen un aumento del riesgo de  insuficiencia de la médula ósea (afección por la que la médula ósea no produce suficientes células sanguíneas), síndrome mielodisplásico, fibrosis pulmonar (cicatrización de los pulmones   ) y ciertos tipos de cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803473">
+  <TermName>RTEL1 gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in maintaining telomeres (the ends of chromosomes) and in repairing DNA. Mutations (changes) in the 
+      <GeneName>RTEL1</GeneName>
+       gene have been found in a rare, inherited condition called dyskeratosis congenita, which causes abnormal changes in the skin and nails and white patches inside the mouth. People with this condition have an increased risk of bone marrow failure (a condition in which the bone marrow does not make enough blood cells), myelodysplastic syndrome, pulmonary fibrosis (scarring of the lungs), and certain types of cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805307" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;RTEL1 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen RTEL1&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen RTEL1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en el mantenimiento de los telómeros (extremos de los cromosomas) y en la reparación del ADN. Se han encontrado mutaciones (cambios) del gen 
+      <GeneName>RTEL1</GeneName>
+       en una afección hereditaria rara llamada disqueratosis congénita, que causa cambios anormales en la piel y en las uñas, así como manchas blancas en el interior de la boca. Las personas con esta afección tienen un aumento del riesgo de  insuficiencia de la médula ósea (afección por la que la médula ósea no produce suficientes células sanguíneas), síndrome mielodisplásico, fibrosis pulmonar (cicatrización de los pulmones   ) y ciertos tipos de cáncer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+</GlossaryTerm>

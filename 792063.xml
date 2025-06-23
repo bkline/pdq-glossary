@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000792063"><TermName>lutetium Lu 177-dotatate</TermName><TermPronunciation>(loo-TEE-shee-um … DOH-tuh-tayt)</TermPronunciation><TermDefinition><DefinitionText>A radioactive drug used to treat adults and children aged 12 years and older with gastroenteropancreatic neuroendocrine tumors that are somatostatin receptor positive. It is also being studied in the treatment of other types of cancer.  Lutetium Lu 177-dotatate binds to a protein called somatostatin receptor, which is found on some neuroendocrine tumor cells. Lutetium Lu 177-dotatate builds up in these cells and gives off radiation that may kill them. It is a type of radioconjugate and a type of somatostatin analog. Also called Lutathera.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793342" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lutetium Lu 177-dotatate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793341" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lutecio Lu 177-dotatate&quot;" language="es" id="_4"/><SpanishTermName>lutecio Lu 177-dotatate</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento radiactivo que se usa para el tratamiento de adultos y niños de 12 años o más con tumores neuroendocrinos gastroenteropancreáticos positivos para el receptor de la somatostatina. También está en estudio para el tratamiento de otros tipos de cáncer. El lutecio Lu 177-dotatate se une a una proteína llamada receptor de la somatostatina que se encuentra en algunas células de tumores neuroendocrinos. El lutecio Lu 177-dotatate se acumula en estas células y emite una radiación que tal vez las destruya. Es un tipo de radioconjugado y de análogo de la somatostatina. También se llama Lutathera y lutecio Lu 177-dotatato.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-06</DateFirstPublished><DateLastModified>2024-04-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000792116" url="/about-cancer/treatment/drugs/lutetiumLu177-dotatate">Lutetium Lu 177-Dotatate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792063">
+  <TermName>lutetium Lu 177-dotatate</TermName>
+  <TermPronunciation>(loo-TEE-shee-um … DOH-tuh-tayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive drug used to treat adults and children aged 12 years and older with gastroenteropancreatic neuroendocrine tumors that are somatostatin receptor positive. It is also being studied in the treatment of other types of cancer.  Lutetium Lu 177-dotatate binds to a protein called somatostatin receptor, which is found on some neuroendocrine tumor cells. Lutetium Lu 177-dotatate builds up in these cells and gives off radiation that may kill them. It is a type of radioconjugate and a type of somatostatin analog. Also called Lutathera.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793342" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lutetium Lu 177-dotatate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793341" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lutecio Lu 177-dotatate&quot;" language="es" id="_4"/>
+  <SpanishTermName>lutecio Lu 177-dotatate</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento radiactivo que se usa para el tratamiento de adultos y niños de 12 años o más con tumores neuroendocrinos gastroenteropancreáticos positivos para el receptor de la somatostatina. También está en estudio para el tratamiento de otros tipos de cáncer. El lutecio Lu 177-dotatate se une a una proteína llamada receptor de la somatostatina que se encuentra en algunas células de tumores neuroendocrinos. El lutecio Lu 177-dotatate se acumula en estas células y emite una radiación que tal vez las destruya. Es un tipo de radioconjugado y de análogo de la somatostatina. También se llama Lutathera y lutecio Lu 177-dotatato.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-06</DateFirstPublished>
+  <DateLastModified>2024-04-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000792116" url="/about-cancer/treatment/drugs/lutetiumLu177-dotatate">Lutetium Lu 177-Dotatate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

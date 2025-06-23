@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797862"><TermName>buttock</TermName><TermPronunciation>(BUH-tuk)</TermPronunciation><TermDefinition><DefinitionText>One of two round, fleshy mounds of tissue behind the pelvis. The buttocks are made up of fat and thick muscle tissue that help support the body while sitting. The muscles in the buttocks are also used to move the hips and thighs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799543" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;buttock&quot;" language="en" id="_4"/><MediaLink ref="CDR0000799542" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nalga&quot;" language="es" id="_5"/><SpanishTermName>nalga</SpanishTermName><SpanishTermDefinition><DefinitionText>Uno de  dos montículos de tejido curvos y carnosos situados detrás de la pelvis. Las nalgas están formadas por grasa y músculo grueso que ayudan a sostener el cuerpo al estar sentado. Los músculos de las nalgas también se usan para mover las caderas y los muslos. También se llama glúteo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-08-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797862">
+  <TermName>buttock</TermName>
+  <TermPronunciation>(BUH-tuk)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One of two round, fleshy mounds of tissue behind the pelvis. The buttocks are made up of fat and thick muscle tissue that help support the body while sitting. The muscles in the buttocks are also used to move the hips and thighs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799543" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;buttock&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000799542" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nalga&quot;" language="es" id="_5"/>
+  <SpanishTermName>nalga</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Uno de  dos montículos de tejido curvos y carnosos situados detrás de la pelvis. Las nalgas están formadas por grasa y músculo grueso que ayudan a sostener el cuerpo al estar sentado. Los músculos de las nalgas también se usan para mover las caderas y los muslos. También se llama glúteo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-08-23</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000802870"><TermName>COL7A1 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a type of collagen that plays an important role in strengthening and supporting the layers of the skin. Mutations (changes) in the <GeneName>COL7A1</GeneName> gene may cause the skin to become easily damaged. <GeneName>COL7A1</GeneName> gene mutations have been found in an inherited condition called dystrophic epidermolysis bullosa. People with this condition have an increased risk of developing squamous cell skin cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805201" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;COL7A1 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen COL7A1&quot;" language="es" id="_4"/><SpanishTermName>gen COL7A1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a un tipo de colágeno que cumple una función importante en el fortalecimiento y el sostén de las capas de la piel. Es posible que las mutaciones (cambios) en el gen <GeneName>COL7A1</GeneName> hagan que la piel se dañe con facilidad. Se han encontrado mutaciones del gen <GeneName>COL7A1</GeneName> en una afección hereditaria llamada epidermólisis ampollosa distrófica. Las personas con esta afección tienen un riesgo más alto de presentar cáncer de piel de células escamosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-23</DateFirstPublished><DateLastModified>2021-02-19</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/col7a1/">COL7A1 gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802870">
+  <TermName>COL7A1 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a type of collagen that plays an important role in strengthening and supporting the layers of the skin. Mutations (changes) in the 
+      <GeneName>COL7A1</GeneName>
+       gene may cause the skin to become easily damaged. 
+      <GeneName>COL7A1</GeneName>
+       gene mutations have been found in an inherited condition called dystrophic epidermolysis bullosa. People with this condition have an increased risk of developing squamous cell skin cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805201" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;COL7A1 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen COL7A1&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen COL7A1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a un tipo de colágeno que cumple una función importante en el fortalecimiento y el sostén de las capas de la piel. Es posible que las mutaciones (cambios) en el gen 
+      <GeneName>COL7A1</GeneName>
+       hagan que la piel se dañe con facilidad. Se han encontrado mutaciones del gen 
+      <GeneName>COL7A1</GeneName>
+       en una afección hereditaria llamada epidermólisis ampollosa distrófica. Las personas con esta afección tienen un riesgo más alto de presentar cáncer de piel de células escamosas.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-23</DateFirstPublished>
+  <DateLastModified>2021-02-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/col7a1/">COL7A1 gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

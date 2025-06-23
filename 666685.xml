@@ -1,1 +1,28 @@
-<GlossaryTerm id="CDR0000666685"><TermName>adult progeria</TermName><TermPronunciation>(uh-DULT proh-JEER-ee-uh)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder marked by rapid aging that begins in early adolescence or young adulthood and an increased risk of cancer. Signs and symptoms include shorter-than-average height, thinning and graying hair, skin changes, thin arms and legs, voice changes, and unusual facial features. This disorder can also lead to health problems, such as cataracts, skin ulcers, severe hardening of the arteries, diabetes, osteoporosis, and fertility problems. People with adult progeria have an increased risk of cancer, especially thyroid cancer, skin cancer, and sarcoma (a type of bone or soft tissue cancer). Adult progeria is caused by a mutation (change) in the WRN gene, which makes a protein involved in DNA repair. Also called Werner syndrome and WS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726016" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adult progeria&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;progeria en adultos&quot;" language="es" id="_4"/><SpanishTermName>progeria en adultos</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro caracterizado por un envejecimiento rápido que comienza al principio de la adolescencia o de la adultez  y que aumenta el riesgo de cáncer. Los signos y síntomas incluyen  estatura más baja que el promedio, pelo canoso y delgado, cambios en la piel, brazos y piernas delgadas, cambios en la voz y rasgos faciales inusuales.   Este trastorno a veces también produce otros problemas médicos, como cataratas, úlceras de la piel, endurecimiento grave de las arterias, diabetes, osteoporosis y problemas de fertilidad. Las personas con progeria en adultos tienen un riesgo alto de cáncer, en especial, cáncer de tiroides, cáncer de piel y sarcoma (tipo de cáncer de hueso o de tejido blando). La causa de la progeria en adultos es una mutación (cambio) en el gen <GeneName>WRN</GeneName> que da origen a una proteína que participa en la reparación del ADN. También se llama síndrome de Werner y SW.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-06-04</DateFirstPublished><DateLastModified>2020-02-13</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7885/werner-syndrome">Werner syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/werner-syndrome/">Werner syndrome (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000666685">
+  <TermName>adult progeria</TermName>
+  <TermPronunciation>(uh-DULT proh-JEER-ee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder marked by rapid aging that begins in early adolescence or young adulthood and an increased risk of cancer. Signs and symptoms include shorter-than-average height, thinning and graying hair, skin changes, thin arms and legs, voice changes, and unusual facial features. This disorder can also lead to health problems, such as cataracts, skin ulcers, severe hardening of the arteries, diabetes, osteoporosis, and fertility problems. People with adult progeria have an increased risk of cancer, especially thyroid cancer, skin cancer, and sarcoma (a type of bone or soft tissue cancer). Adult progeria is caused by a mutation (change) in the WRN gene, which makes a protein involved in DNA repair. Also called Werner syndrome and WS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726016" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adult progeria&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;progeria en adultos&quot;" language="es" id="_4"/>
+  <SpanishTermName>progeria en adultos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario raro caracterizado por un envejecimiento rápido que comienza al principio de la adolescencia o de la adultez  y que aumenta el riesgo de cáncer. Los signos y síntomas incluyen  estatura más baja que el promedio, pelo canoso y delgado, cambios en la piel, brazos y piernas delgadas, cambios en la voz y rasgos faciales inusuales.   Este trastorno a veces también produce otros problemas médicos, como cataratas, úlceras de la piel, endurecimiento grave de las arterias, diabetes, osteoporosis y problemas de fertilidad. Las personas con progeria en adultos tienen un riesgo alto de cáncer, en especial, cáncer de tiroides, cáncer de piel y sarcoma (tipo de cáncer de hueso o de tejido blando). La causa de la progeria en adultos es una mutación (cambio) en el gen 
+      <GeneName>WRN</GeneName>
+       que da origen a una proteína que participa en la reparación del ADN. También se llama síndrome de Werner y SW.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-06-04</DateFirstPublished>
+  <DateLastModified>2020-02-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7885/werner-syndrome">Werner syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/werner-syndrome/">Werner syndrome (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

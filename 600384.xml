@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000600384"><TermName>CNV</TermName><TermDefinition><DefinitionText>A variation in the number of copies of a particular sequence of DNA present in the genome of an individual. CNVs include insertions, deletions, and duplications of segments of DNA. They account for a significant number of the genetic variations between individuals. CNVs may also be associated with specific traits or disorders. Also called copy number variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><SpanishTermName>CNV</SpanishTermName><SpanishTermDefinition><DefinitionText>Cambio en el número de copias de una secuencia particular de ADN en el genoma de un individuo. Las CNV incluyen inserciones, deleciones y duplicaciones de segmentos de ADN y explican una proporción importante de la variabilidad genética entre individuos. Además, en ocasiones también se relacionan con rasgos o trastornos específicos. También se llama variación en el número de copias.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2008-07-08</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=40">Copy Number Variation (CNV) (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Variacion-en-el-n%C3%BAmero-de-copias">Variación en el número de copias (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000600384">
+  <TermName>CNV</TermName>
+  <TermDefinition>
+    <DefinitionText>A variation in the number of copies of a particular sequence of DNA present in the genome of an individual. CNVs include insertions, deletions, and duplications of segments of DNA. They account for a significant number of the genetic variations between individuals. CNVs may also be associated with specific traits or disorders. Also called copy number variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>CNV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cambio en el número de copias de una secuencia particular de ADN en el genoma de un individuo. Las CNV incluyen inserciones, deleciones y duplicaciones de segmentos de ADN y explican una proporción importante de la variabilidad genética entre individuos. Además, en ocasiones también se relacionan con rasgos o trastornos específicos. También se llama variación en el número de copias.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-07-08</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=40">Copy Number Variation (CNV) (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Variacion-en-el-n%C3%BAmero-de-copias">Variación en el número de copias (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

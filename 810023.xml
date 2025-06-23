@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000810023"><TermName>cell division</TermName><TermPronunciation>(sel dih-VIH-zhun)</TermPronunciation><TermDefinition><DefinitionText>The process by which a single parent cell splits to form new cells, known as daughter cells. There are two types of cell division: mitosis and meiosis. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cell division&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812215" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;división celular&quot;" language="es" id="_4"/><SpanishTermName>división celular</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso por el que una célula madre se divide para formar dos nuevas células, conocidas como células hijas. Hay dos tipos de división celular: la mitosis y la meiosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-12-28</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://medlineplus.gov/genetics/understanding/howgeneswork/cellsdivide/" UseWith="en">How do cells divide? (MedlinePlus)</RelatedExternalRef><RelatedExternalRef xref="https://medlineplus.gov/spanish/genetica/entender/comofuncionangenes/celuladivision/" UseWith="es">¿Cómo se dividen las células? (MedlinePlus)</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000044766" UseWith="en" audience="Patients">mitosis</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000044766" UseWith="es" audience="Patients">mitosis</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000044765" UseWith="en" audience="Patients">meiosis</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000044765" UseWith="es" audience="Patients">meiosis</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810023">
+  <TermName>cell division</TermName>
+  <TermPronunciation>(sel dih-VIH-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The process by which a single parent cell splits to form new cells, known as daughter cells. There are two types of cell division: mitosis and meiosis. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cell division&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812215" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;división celular&quot;" language="es" id="_4"/>
+  <SpanishTermName>división celular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso por el que una célula madre se divide para formar dos nuevas células, conocidas como células hijas. Hay dos tipos de división celular: la mitosis y la meiosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-12-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://medlineplus.gov/genetics/understanding/howgeneswork/cellsdivide/" UseWith="en">How do cells divide? (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef xref="https://medlineplus.gov/spanish/genetica/entender/comofuncionangenes/celuladivision/" UseWith="es">¿Cómo se dividen las células? (MedlinePlus)</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000044766" UseWith="en" audience="Patients">mitosis</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000044766" UseWith="es" audience="Patients">mitosis</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000044765" UseWith="en" audience="Patients">meiosis</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000044765" UseWith="es" audience="Patients">meiosis</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

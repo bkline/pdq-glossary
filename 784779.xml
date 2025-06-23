@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000784779"><TermName>2-dimensional mammography</TermName><TermPronunciation>(2-dih-MEN-shuh-nul ma-MAH-gruh-fee)</TermPronunciation><TermDefinition><DefinitionText>A procedure that uses x-rays to take pictures of the inside of the breast. The pictures are usually taken from two different angles, and a computer or x-ray film is used to make 2-D pictures of the breast. 2-dimensional mammography is used to check for breast cancer and other changes in the breast, such as abnormal lumps, cysts, or calcifications (calcium deposits). Also called 2-D mammography.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000789251" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;2-dimensional mammography&quot;" language="en" id="_3"/><MediaLink ref="CDR0000789252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mamografía bidimensional&quot;" language="es" id="_4"/><SpanishTermName>mamografía bidimensional</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento en el que se usan rayos X para crear imágenes del interior de la mama (seno) desde dos ángulos diferentes. Se emplea una computadora o una película de radiografía para generar imágenes bidimensionales (2D) de la mama. La mamografía bidimensional se utiliza para detectar cáncer de mama u otros cambios mamarios, como  masas anormales, quistes o calcificaciones (depósitos de calcio). También se llama mamografía 2D.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-04-28</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/mammograms-fact-sheet">Mammograms</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mamografias" UseWith="es">Mamografías</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784779">
+  <TermName>2-dimensional mammography</TermName>
+  <TermPronunciation>(2-dih-MEN-shuh-nul ma-MAH-gruh-fee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure that uses x-rays to take pictures of the inside of the breast. The pictures are usually taken from two different angles, and a computer or x-ray film is used to make 2-D pictures of the breast. 2-dimensional mammography is used to check for breast cancer and other changes in the breast, such as abnormal lumps, cysts, or calcifications (calcium deposits). Also called 2-D mammography.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000789251" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;2-dimensional mammography&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000789252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mamografía bidimensional&quot;" language="es" id="_4"/>
+  <SpanishTermName>mamografía bidimensional</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento en el que se usan rayos X para crear imágenes del interior de la mama (seno) desde dos ángulos diferentes. Se emplea una computadora o una película de radiografía para generar imágenes bidimensionales (2D) de la mama. La mamografía bidimensional se utiliza para detectar cáncer de mama u otros cambios mamarios, como  masas anormales, quistes o calcificaciones (depósitos de calcio). También se llama mamografía 2D.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-04-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/mammograms-fact-sheet">Mammograms</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mamografias" UseWith="es">Mamografías</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

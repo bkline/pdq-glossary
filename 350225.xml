@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000350225"><TermName>BB-10901</TermName><TermDefinition><DefinitionText>A substance being studied in the treatment of some types of cancer, including Wilms tumor, neuroblastoma, rhabdomyosarcoma, and other types of soft tissue sarcoma. BB-10901 contains a monoclonal antibody that binds to a protein called CD56 on some types of cancer cells. It also contains an anticancer drug called DM1, which may help kill cancer cells after BB-10901 binds to them. BB-10901 is a type of antibody-drug conjugate. Also called lorvotuzumab mertansine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BB-10901</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer, como el tumor de Wilms, el neuroblastoma, el rabdomiosarcoma y otros tipos de sarcoma de tejido blando. BB-10901 contiene un anticuerpo monoclonal que se une a una proteína que se llama CD56 en algunos tipos de células cancerosas. También contiene un medicamento contra el cáncer llamado DM1, que ayuda a destruir las células cancerosas después de que BB-10901 se une a ellas. BB-10901 es un tipo de conjugado anticuerpo-fármaco. También se llama lorvotuzumab mertansina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-12-23</DateFirstPublished><DateLastModified>2017-03-03</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000350225">
+  <TermName>BB-10901</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of some types of cancer, including Wilms tumor, neuroblastoma, rhabdomyosarcoma, and other types of soft tissue sarcoma. BB-10901 contains a monoclonal antibody that binds to a protein called CD56 on some types of cancer cells. It also contains an anticancer drug called DM1, which may help kill cancer cells after BB-10901 binds to them. BB-10901 is a type of antibody-drug conjugate. Also called lorvotuzumab mertansine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BB-10901</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer, como el tumor de Wilms, el neuroblastoma, el rabdomiosarcoma y otros tipos de sarcoma de tejido blando. BB-10901 contiene un anticuerpo monoclonal que se une a una proteína que se llama CD56 en algunos tipos de células cancerosas. También contiene un medicamento contra el cáncer llamado DM1, que ayuda a destruir las células cancerosas después de que BB-10901 se une a ellas. BB-10901 es un tipo de conjugado anticuerpo-fármaco. También se llama lorvotuzumab mertansina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-12-23</DateFirstPublished>
+  <DateLastModified>2017-03-03</DateLastModified>
+</GlossaryTerm>

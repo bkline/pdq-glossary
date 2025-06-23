@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000799827"><TermName>stage 0 HPV-negative oropharyngeal carcinoma in situ</TermName><TermPronunciation>(... NEH-guh-tiv OR-oh-fuh-RIN-jee-ul KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>Abnormal cells are found in the lining of the oropharynx (throat). These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801114" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 HPV-negative oropharyngeal carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801115" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de orofaringe negativo para el VPH in situ en estadio 0&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de orofaringe negativo para el VPH in situ en estadio 0</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio 0, se encuentran células anormales en el revestimiento de la orofaringe (garganta). Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-11-08</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256822" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799827">
+  <TermName>stage 0 HPV-negative oropharyngeal carcinoma in situ</TermName>
+  <TermPronunciation>(... NEH-guh-tiv OR-oh-fuh-RIN-jee-ul KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal cells are found in the lining of the oropharynx (throat). These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801114" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 HPV-negative oropharyngeal carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801115" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de orofaringe negativo para el VPH in situ en estadio 0&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de orofaringe negativo para el VPH in situ en estadio 0</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio 0, se encuentran células anormales en el revestimiento de la orofaringe (garganta). Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-11-08</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256822" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

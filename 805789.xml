@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805789"><TermName>glandular epithelium</TermName><TermPronunciation>(GLAN-juh-ler eh-pih-THEE-lee-um)</TermPronunciation><TermDefinition><DefinitionText>A type of tissue that lines certain internal organs and makes and releases substances in the body, such as mucous, digestive juices, and other fluids. Glandular epithelium is commonly found in the breast, lung, stomach, colon, pancreas, prostate, uterus, and cervix. Also called glandular tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808474" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glandular epithelium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000808475" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;epitelio glandular&quot;" language="es" id="_4"/><SpanishTermName>epitelio glandular</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tejido que reviste ciertos órganos internos. El epitelio glandular elabora y secreta sustancias en el cuerpo, como moco, jugos digestivos y otros líquidos. Por lo general se encuentra en la mama, el pulmón, el estómago, el colon, el páncreas, la próstata, el útero y el cuello uterino. También se llama tejido glandular.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-12-30</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805789">
+  <TermName>glandular epithelium</TermName>
+  <TermPronunciation>(GLAN-juh-ler eh-pih-THEE-lee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of tissue that lines certain internal organs and makes and releases substances in the body, such as mucous, digestive juices, and other fluids. Glandular epithelium is commonly found in the breast, lung, stomach, colon, pancreas, prostate, uterus, and cervix. Also called glandular tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808474" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glandular epithelium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000808475" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;epitelio glandular&quot;" language="es" id="_4"/>
+  <SpanishTermName>epitelio glandular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tejido que reviste ciertos órganos internos. El epitelio glandular elabora y secreta sustancias en el cuerpo, como moco, jugos digestivos y otros líquidos. Por lo general se encuentra en la mama, el pulmón, el estómago, el colon, el páncreas, la próstata, el útero y el cuello uterino. También se llama tejido glandular.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-12-30</DateFirstPublished>
+</GlossaryTerm>

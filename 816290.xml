@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000816290"><TermName>PPN</TermName><TermDefinition><DefinitionText>A form of short-term nutritional support that is given directly into the bloodstream through a catheter placed into a vein. PPN bypasses the digestive system and may be given when a person has a disease or condition that affects their ability to absorb nutrients through the digestive system. PPN is supplemental nutrition that is given when a person cannot get enough calories or the right amount of nutrients that their body needs from the food they are eating. Also called partial parenteral nutrition.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>NPP</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma de apoyo nutricional a corto plazo que se administra directamente en el torrente sanguíneo  mediante un catéter que se coloca en una vena. La NPP no pasa por el aparato digestivo y, en ocasiones, se administra cuando la persona  tiene una enfermedad o afección que afecta su capacidad para absorber nutrientes a través del aparato digestivo. La NPP es una nutrición complementaria que se administra cuando la persona no puede obtener suficientes calorías, o los nutrientes que el cuerpo necesita, de los alimentos que come. También se llama APP y nutrición parenteral parcial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-08-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816290">
+  <TermName>PPN</TermName>
+  <TermDefinition>
+    <DefinitionText>A form of short-term nutritional support that is given directly into the bloodstream through a catheter placed into a vein. PPN bypasses the digestive system and may be given when a person has a disease or condition that affects their ability to absorb nutrients through the digestive system. PPN is supplemental nutrition that is given when a person cannot get enough calories or the right amount of nutrients that their body needs from the food they are eating. Also called partial parenteral nutrition.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>NPP</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de apoyo nutricional a corto plazo que se administra directamente en el torrente sanguíneo  mediante un catéter que se coloca en una vena. La NPP no pasa por el aparato digestivo y, en ocasiones, se administra cuando la persona  tiene una enfermedad o afección que afecta su capacidad para absorber nutrientes a través del aparato digestivo. La NPP es una nutrición complementaria que se administra cuando la persona no puede obtener suficientes calorías, o los nutrientes que el cuerpo necesita, de los alimentos que come. También se llama APP y nutrición parenteral parcial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-08-01</DateFirstPublished>
+</GlossaryTerm>

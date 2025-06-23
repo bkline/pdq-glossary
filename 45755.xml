@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045755"><TermName>local therapy</TermName><TermPronunciation>(LOH-kul THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment that is directed to a specific organ or limited area of the body, such as the breast or an abnormal growth on the skin. Examples of local therapy used in cancer are surgery, radiation therapy, cryotherapy, laser therapy, and topical therapy (medicine in a lotion or cream that is applied to the skin). Also called localized therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707191" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;local therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707192" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia local&quot;" language="es" id="_4"/><SpanishTermName>tratamiento local</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento que se dirige a un órgano específico o área limitada del cuerpo, como una mama, o un bulto o tumor anormal en la piel. Los siguientes son ejemplos de tratamientos locales que se usan para tratar el cáncer: cirugía, radioterapia, crioterapia, terapia láser y terapia tópica (medicamento en forma de loción o crema que se aplica sobre la piel). También se llama terapia local y tratamiento localizado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-05-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045755">
+  <TermName>local therapy</TermName>
+  <TermPronunciation>(LOH-kul THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that is directed to a specific organ or limited area of the body, such as the breast or an abnormal growth on the skin. Examples of local therapy used in cancer are surgery, radiation therapy, cryotherapy, laser therapy, and topical therapy (medicine in a lotion or cream that is applied to the skin). Also called localized therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707191" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;local therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707192" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia local&quot;" language="es" id="_4"/>
+  <SpanishTermName>tratamiento local</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento que se dirige a un órgano específico o área limitada del cuerpo, como una mama, o un bulto o tumor anormal en la piel. Los siguientes son ejemplos de tratamientos locales que se usan para tratar el cáncer: cirugía, radioterapia, crioterapia, terapia láser y terapia tópica (medicamento en forma de loción o crema que se aplica sobre la piel). También se llama terapia local y tratamiento localizado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-05-19</DateLastModified>
+</GlossaryTerm>

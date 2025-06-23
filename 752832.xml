@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000752832"><TermName>adenocarcinoma in situ</TermName><TermPronunciation>(A-deh-noh-KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>A condition in which abnormal cells are found in the glandular tissue, which lines certain internal organs and makes and releases substances in the body, such as mucus, digestive juices, and other fluids. These abnormal cells may become cancer and spread into nearby normal tissue. Adenocarcinoma in situ occurs most often in the cervix and lung. Also called AIS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000757943" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenocarcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000757942" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenocarcinoma in situ&quot;" language="es" id="_4"/><SpanishTermName>adenocarcinoma in situ</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en el tejido glandular que reviste algunos órganos internos. Este tipo de tejido elabora y secreta en el cuerpo sustancias, como moco, jugos digestivos y otros líquidos. Es posible que las células anormales se vuelvan cancerosas y se diseminen a los tejidos normales cercanos. El adenocarcinoma in situ se presenta con mayor frecuencia en el cuello uterino y los pulmones. También se llama AIS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-11-05</DateFirstPublished><DateLastModified>2022-05-05</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000810192" url="/types/cervical/screening/abnormal-hpv-pap-test-results">HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000810505" url="/espanol/tipos/cuello-uterino/deteccion/resultados-anormales-pruebas-vph-pap">Resultados anormales de las pruebas del VPH y de Pap para la detección del cáncer de cuello uterino</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000752832">
+  <TermName>adenocarcinoma in situ</TermName>
+  <TermPronunciation>(A-deh-noh-KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which abnormal cells are found in the glandular tissue, which lines certain internal organs and makes and releases substances in the body, such as mucus, digestive juices, and other fluids. These abnormal cells may become cancer and spread into nearby normal tissue. Adenocarcinoma in situ occurs most often in the cervix and lung. Also called AIS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000757943" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenocarcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000757942" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenocarcinoma in situ&quot;" language="es" id="_4"/>
+  <SpanishTermName>adenocarcinoma in situ</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en el tejido glandular que reviste algunos órganos internos. Este tipo de tejido elabora y secreta en el cuerpo sustancias, como moco, jugos digestivos y otros líquidos. Es posible que las células anormales se vuelvan cancerosas y se diseminen a los tejidos normales cercanos. El adenocarcinoma in situ se presenta con mayor frecuencia en el cuello uterino y los pulmones. También se llama AIS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-11-05</DateFirstPublished>
+  <DateLastModified>2022-05-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000810192" url="/types/cervical/screening/abnormal-hpv-pap-test-results">HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000810505" url="/espanol/tipos/cuello-uterino/deteccion/resultados-anormales-pruebas-vph-pap">Resultados anormales de las pruebas del VPH y de Pap para la detección del cáncer de cuello uterino</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

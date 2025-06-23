@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000589406"><TermName>ITP</TermName><TermDefinition><DefinitionText>A condition in which platelets (blood cells that cause blood clots to form) are destroyed by the immune system. The low platelet count causes easy bruising and bleeding, which may be seen as purple areas in the skin, mucous membranes, and outer linings of organs. Also called idiopathic thrombocytopenic purpura, immune thrombocytopenia, and immune thrombocytopenic purpura.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PTI</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que el sistema inmunitario destruye las plaquetas (células sanguíneas que forman coágulos de sangre). Cuando el recuento de plaquetas es bajo, aparecen moretones y sangrado con facilidad; estos se presentan como áreas púrpuras en la piel, las membranas mucosas y las capas exteriores de los órganos. También se llama púrpura trombocitopénica idiopática, púrpura trombocitopénica inmunitaria y trombocitopenia inmunitaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-03-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000589406">
+  <TermName>ITP</TermName>
+  <TermDefinition>
+    <DefinitionText>A condition in which platelets (blood cells that cause blood clots to form) are destroyed by the immune system. The low platelet count causes easy bruising and bleeding, which may be seen as purple areas in the skin, mucous membranes, and outer linings of organs. Also called idiopathic thrombocytopenic purpura, immune thrombocytopenia, and immune thrombocytopenic purpura.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PTI</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que el sistema inmunitario destruye las plaquetas (células sanguíneas que forman coágulos de sangre). Cuando el recuento de plaquetas es bajo, aparecen moretones y sangrado con facilidad; estos se presentan como áreas púrpuras en la piel, las membranas mucosas y las capas exteriores de los órganos. También se llama púrpura trombocitopénica idiopática, púrpura trombocitopénica inmunitaria y trombocitopenia inmunitaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-03-10</DateFirstPublished>
+</GlossaryTerm>

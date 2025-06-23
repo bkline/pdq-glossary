@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000460156"><TermName>informative</TermName><TermPronunciation>(in-FOR-muh-tiv)</TermPronunciation><TermDefinition><DefinitionText>In genetic testing, a test result that reveals definitively the presence or absence of the germline genetic alteration associated with the hereditary disorder being assessed. In linkage analysis, the ability to distinguish between maternally inherited and paternally inherited DNA markers (polymorphisms) within or near a given gene of interest.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736951" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;informative&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804223" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;informativo&quot;" language="es" id="_4"/><SpanishTermName>informativo</SpanishTermName><SpanishTermDefinition><DefinitionText>Se usa para describir el resultado de una prueba genética que indica de manera concluyente la presencia o ausencia de una alteración genética de la línea germinal asociada con el trastorno hereditario en estudio. En el análisis de ligamiento se refiere a la capacidad de diferenciar los marcadores del ADN (polimorfismos) de herencia materna y de herencia paterna que están dentro de un gen de interés o cerca de este gen.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460156">
+  <TermName>informative</TermName>
+  <TermPronunciation>(in-FOR-muh-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In genetic testing, a test result that reveals definitively the presence or absence of the germline genetic alteration associated with the hereditary disorder being assessed. In linkage analysis, the ability to distinguish between maternally inherited and paternally inherited DNA markers (polymorphisms) within or near a given gene of interest.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736951" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;informative&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804223" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;informativo&quot;" language="es" id="_4"/>
+  <SpanishTermName>informativo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se usa para describir el resultado de una prueba genética que indica de manera concluyente la presencia o ausencia de una alteración genética de la línea germinal asociada con el trastorno hereditario en estudio. En el análisis de ligamiento se refiere a la capacidad de diferenciar los marcadores del ADN (polimorfismos) de herencia materna y de herencia paterna que están dentro de un gen de interés o cerca de este gen.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

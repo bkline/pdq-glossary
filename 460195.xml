@@ -1,29 +1,63 @@
-<GlossaryTerm id="CDR0000460195"><TermName>mutation analysis</TermName><TermPronunciation>(myoo-TAY-shun uh-NA-lih-sis)</TermPronunciation><TermDefinition><DefinitionText>A germline
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460195">
+  <TermName>mutation analysis</TermName>
+  <TermPronunciation>(myoo-TAY-shun uh-NA-lih-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A germline
           genetic testing method targeted to detect a specific
           variant or mutation (such as a deleterious
-          <GeneName>MSH2</GeneName> variant previously identified in
+          
+      <GeneName>MSH2</GeneName>
+       variant previously identified in
           a family), panel of variants (such as the 3
-          <GeneName>BRCA</GeneName> pathogenic variants comprising
+          
+      <GeneName>BRCA</GeneName>
+       pathogenic variants comprising
           the founder mutation panel for individuals of Ashkenazi
           Jewish ancestry) or type of variant (such as large
-          deletions or insertions in the <GeneName>BRCA1</GeneName>
+          deletions or insertions in the 
+      <GeneName>BRCA1</GeneName>
+      
           gene). This type of testing is distinct from complete gene
           sequencing or variant scanning. The latter are designed to
           detect most variants in the region being tested. Current
           usage also applies this term to any genetic
-          test.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736971" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutation analysis&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;análisis de mutaciones&quot;" language="es" id="_4"/><SpanishTermName>análisis de mutaciones</SpanishTermName><SpanishTermDefinition><DefinitionText>Método para el análisis genético
+          test.
+    </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736971" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutation analysis&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;análisis de mutaciones&quot;" language="es" id="_4"/>
+  <SpanishTermName>análisis de mutaciones</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Método para el análisis genético
 de la línea germinal dirigido a la detección de una
 mutación o variante específica (como una variante deletérea
-en <GeneName>MSH2</GeneName> identificada antes en una
+en 
+      <GeneName>MSH2</GeneName>
+       identificada antes en una
 familia), un panel de variantes (como el panel de las 3
-variantes patógenas en <GeneName>BRCA</GeneName> que abarca
+variantes patógenas en 
+      <GeneName>BRCA</GeneName>
+       que abarca
 las mutaciones fundadoras de personas de ascendencia judía
 asquenazí) o un tipo de variante (como una deleción o
-inserción grande en el gen <GeneName>BRCA1</GeneName>).
+inserción grande en el gen 
+      <GeneName>BRCA1</GeneName>
+      ).
 Este tipo de prueba es diferente de la secuenciación de un
 gen completo o de la exploración de variantes.
 Estos últimos
 están diseñados para detectar la
 mayoría de las variantes en la región en estudio. En la
 actualidad este término también se refiere a cualquier
-prueba genética.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+prueba genética.
+    </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

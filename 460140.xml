@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000460140"><TermName>consultand</TermName><TermPronunciation>(kon-SUL-tand)</TermPronunciation><TermDefinition><DefinitionText>An individual who presents for genetic counseling.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A person who is receiving genetic counseling.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736940" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consultand&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804212" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consultante&quot;" language="es" id="_4"/><SpanishTermName>consultante</SpanishTermName><SpanishTermDefinition><DefinitionText>Persona que asiste a una consulta de asesoramiento genético.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Persona que recibe asesoramiento genético.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460140">
+  <TermName>consultand</TermName>
+  <TermPronunciation>(kon-SUL-tand)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An individual who presents for genetic counseling.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A person who is receiving genetic counseling.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736940" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consultand&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804212" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consultante&quot;" language="es" id="_4"/>
+  <SpanishTermName>consultante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Persona que asiste a una consulta de asesoramiento genético.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Persona que recibe asesoramiento genético.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

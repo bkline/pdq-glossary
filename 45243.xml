@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045243"><TermName>treosulfan</TermName><TermPronunciation>(TREE-oh-SUL-fan)</TermPronunciation><TermDefinition><DefinitionText>A drug given with fludarabine phosphate before a donor hematopoietic stem cell transplant in adults and children aged 1 year and older with acute myeloid leukemia or myelodysplastic syndrome. It is also being studied in the treatment of other types of cancer. Treosulfan may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called Grafapex.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730827" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;treosulfan&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;treosulfano&quot;" language="es" id="_4"/><SpanishTermName>treosulfano</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se administra con el fosfato de fludarabina antes de un trasplante de células madre hematopoyéticas de donante en adultos y niños de 1 año o más con leucemia mieloide aguda o síndrome mielodisplásico. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que el treosulfano dañe el ADN de las células cancerosas, lo que impide que se dividan y las destruye. Es un tipo de alquilante. También se llama Grafapex.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2025-02-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045243">
+  <TermName>treosulfan</TermName>
+  <TermPronunciation>(TREE-oh-SUL-fan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug given with fludarabine phosphate before a donor hematopoietic stem cell transplant in adults and children aged 1 year and older with acute myeloid leukemia or myelodysplastic syndrome. It is also being studied in the treatment of other types of cancer. Treosulfan may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called Grafapex.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730827" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;treosulfan&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;treosulfano&quot;" language="es" id="_4"/>
+  <SpanishTermName>treosulfano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se administra con el fosfato de fludarabina antes de un trasplante de células madre hematopoyéticas de donante en adultos y niños de 1 año o más con leucemia mieloide aguda o síndrome mielodisplásico. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que el treosulfano dañe el ADN de las células cancerosas, lo que impide que se dividan y las destruye. Es un tipo de alquilante. También se llama Grafapex.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2025-02-12</DateLastModified>
+</GlossaryTerm>

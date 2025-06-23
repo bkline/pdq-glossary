@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000644742"><TermName>percutaneous endoscopic tube</TermName><TermPronunciation>(per-kyoo-TAY-nee-us en-doh-SKAH-pik gas-TROS-toh-mee toob)</TermPronunciation><TermDefinition><DefinitionText>A tube inserted through the wall of the abdomen directly into the stomach. It allows air and fluid to leave the stomach and can be used to give drugs and liquids, including liquid food, to the patient. Giving food through a percutaneous endoscopic tube is a type of enteral nutrition. Also called gastrostomy tube and PEG tube.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;percutaneous endoscopic tube&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sonda de gastrostomía endoscópica percutánea&quot;" language="es" id="_7"/><SpanishTermName>sonda de gastrostomía endoscópica percutánea</SpanishTermName><SpanishTermDefinition><DefinitionText>Tubo que se introduce a través de la pared del abdomen directo al estómago para permitir la salida de aire y líquido del estómago. También sirve para administrar medicamentos, suero y alimentos líquidos. La administración de alimentos por  un tubo endoscópico percutáneo es un tipo de nutrición entérica. También se llama sonda de gastrostomía, tubo de gastrostomía endoscópica percutánea, tubo endoscópico percutáneo y tubo PEG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-13</DateFirstPublished><DateLastModified>2009-11-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644742">
+  <TermName>percutaneous endoscopic tube</TermName>
+  <TermPronunciation>(per-kyoo-TAY-nee-us en-doh-SKAH-pik gas-TROS-toh-mee toob)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A tube inserted through the wall of the abdomen directly into the stomach. It allows air and fluid to leave the stomach and can be used to give drugs and liquids, including liquid food, to the patient. Giving food through a percutaneous endoscopic tube is a type of enteral nutrition. Also called gastrostomy tube and PEG tube.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;percutaneous endoscopic tube&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sonda de gastrostomía endoscópica percutánea&quot;" language="es" id="_7"/>
+  <SpanishTermName>sonda de gastrostomía endoscópica percutánea</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tubo que se introduce a través de la pared del abdomen directo al estómago para permitir la salida de aire y líquido del estómago. También sirve para administrar medicamentos, suero y alimentos líquidos. La administración de alimentos por  un tubo endoscópico percutáneo es un tipo de nutrición entérica. También se llama sonda de gastrostomía, tubo de gastrostomía endoscópica percutánea, tubo endoscópico percutáneo y tubo PEG.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-13</DateFirstPublished>
+  <DateLastModified>2009-11-13</DateLastModified>
+</GlossaryTerm>

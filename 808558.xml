@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000808558"><TermName>endometrial stromal sarcoma</TermName><TermPronunciation>(EN-doh-MEE-tree-ul STROH-mul sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that forms in the connective tissue of the lining of the uterus. It may also form in the ovaries, cervix, and vagina, but this is very uncommon. Endometrial stromal sarcomas may be low grade or high grade, depending on how abnormal the cancer cells look under a microscope and how quickly the cancer cells are likely to grow and spread. They usually occur before menopause in women between 40 and 50 years of age. Also called ESS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000810317" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endometrial stromal sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000810997" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma del estroma endometrial&quot;" language="es" id="_4"/><SpanishTermName>sarcoma del estroma endometrial</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer raro que se forma en el tejido conjuntivo del revestimiento del útero. También se forma en los ovarios, el cuello uterino y la vagina, pero esto es muy poco frecuente. El sarcoma del estroma endometrial es de grado bajo o grado alto, según cuán anormales se ven las células cancerosas al microscopio y la rapidez con la que se multiplican y se diseminan. Suele aparecer antes de la menopausia en mujeres de entre 40 y 50 años. También se llama SEE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-05-31</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000257805" url="/types/uterine/patient/uterine-sarcoma-treatment-pdq">Uterine Sarcoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000452962" url="/espanol/tipos/uterino/paciente/tratamiento-sarcoma-uterino-pdq">Tratamiento del sarcoma uterino</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808558">
+  <TermName>endometrial stromal sarcoma</TermName>
+  <TermPronunciation>(EN-doh-MEE-tree-ul STROH-mul sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that forms in the connective tissue of the lining of the uterus. It may also form in the ovaries, cervix, and vagina, but this is very uncommon. Endometrial stromal sarcomas may be low grade or high grade, depending on how abnormal the cancer cells look under a microscope and how quickly the cancer cells are likely to grow and spread. They usually occur before menopause in women between 40 and 50 years of age. Also called ESS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000810317" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endometrial stromal sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000810997" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma del estroma endometrial&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma del estroma endometrial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer raro que se forma en el tejido conjuntivo del revestimiento del útero. También se forma en los ovarios, el cuello uterino y la vagina, pero esto es muy poco frecuente. El sarcoma del estroma endometrial es de grado bajo o grado alto, según cuán anormales se ven las células cancerosas al microscopio y la rapidez con la que se multiplican y se diseminan. Suele aparecer antes de la menopausia en mujeres de entre 40 y 50 años. También se llama SEE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-05-31</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000257805" url="/types/uterine/patient/uterine-sarcoma-treatment-pdq">Uterine Sarcoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000452962" url="/espanol/tipos/uterino/paciente/tratamiento-sarcoma-uterino-pdq">Tratamiento del sarcoma uterino</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

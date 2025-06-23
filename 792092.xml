@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000792092"><TermName>low-dose radiation therapy</TermName><TermPronunciation>(loh-dose RAY-dee-AY-shun THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Radiation treatment in which the total dose of radiation is less than that given in standard radiation therapy. In low-dose radiation therapy, the total dose may be given in fewer treatments or over a shorter period of time (fewer days or weeks) than standard radiation therapy. This may cause less damage to nearby healthy tissue.  </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793620" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;low-dose radiation therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793621" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radioterapia de dosis baja&quot;" language="es" id="_4"/><SpanishTermName>radioterapia de dosis baja</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento de radiación para el que se usa una dosis total de radiación menor que la administrada en la radioterapia estándar. En la radioterapia de dosis baja, la dosis total se administra durante menos veces o durante un período más corto (menos días o semanas) que la radioterapia estándar. Es posible que esto dañe menos el tejido sano cercano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-04-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792092">
+  <TermName>low-dose radiation therapy</TermName>
+  <TermPronunciation>(loh-dose RAY-dee-AY-shun THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Radiation treatment in which the total dose of radiation is less than that given in standard radiation therapy. In low-dose radiation therapy, the total dose may be given in fewer treatments or over a shorter period of time (fewer days or weeks) than standard radiation therapy. This may cause less damage to nearby healthy tissue.  </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793620" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;low-dose radiation therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793621" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radioterapia de dosis baja&quot;" language="es" id="_4"/>
+  <SpanishTermName>radioterapia de dosis baja</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento de radiación para el que se usa una dosis total de radiación menor que la administrada en la radioterapia estándar. En la radioterapia de dosis baja, la dosis total se administra durante menos veces o durante un período más corto (menos días o semanas) que la radioterapia estándar. Es posible que esto dañe menos el tejido sano cercano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-04-17</DateFirstPublished>
+</GlossaryTerm>

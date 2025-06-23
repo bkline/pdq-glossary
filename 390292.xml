@@ -1,10 +1,35 @@
-<GlossaryTerm id="CDR0000390292"><TermName>late effect</TermName><TermPronunciation>(layt eh-FEKT)</TermPronunciation><TermDefinition><DefinitionText>A health
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000390292">
+  <TermName>late effect</TermName>
+  <TermPronunciation>(layt eh-FEKT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A health
           problem that occurs months or years after a disease is
           diagnosed or after treatment has ended. Late effects may be
           caused by cancer or cancer treatment. They may include
           physical, mental, and social problems and second
-          cancers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;late effect&quot;" language="en" id="_5"/><MediaLink ref="CDR0000731461" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efectos tardíos&quot;" language="es" id="_4"/><SpanishTermName>efecto tardío</SpanishTermName><SpanishTermDefinition><DefinitionText>Problema de salud que se
+          cancers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;late effect&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000731461" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efectos tardíos&quot;" language="es" id="_4"/>
+  <SpanishTermName>efecto tardío</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Problema de salud que se
 presenta meses o años después del diagnóstico de una
 enfermedad o después de que terminó el tratamiento. El cáncer o los tratamientos de esta enfermedad a veces causan efectos tardíos, como
 problemas físicos, mentales y sociales, además de segundos
-cánceres. También se llama efecto a largo plazo y efecto secundario tardío.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-10-25</DateFirstPublished><DateLastModified>2012-08-14</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/coping/survivorship/late-effects" UseWith="en">Late Effects of Cancer Treatment</RelatedExternalRef><RelatedSummaryRef UseWith="en" href="CDR0000373791" url="/types/childhood-cancers/late-effects-pdq">Late Effects of Treatment for Childhood Cancer</RelatedSummaryRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/sobrellevar/supervivencia/efectos-tardios">Efectos secundarios tardíos del tratamiento de cáncer</RelatedExternalRef><RelatedSummaryRef UseWith="es" href="CDR0000429650" url="/espanol/tipos/infantil/efectos-tardios-pdq">Efectos tardíos del tratamiento anticanceroso en la niñez</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+cánceres. También se llama efecto a largo plazo y efecto secundario tardío.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-10-25</DateFirstPublished>
+  <DateLastModified>2012-08-14</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/coping/survivorship/late-effects" UseWith="en">Late Effects of Cancer Treatment</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="en" href="CDR0000373791" url="/types/childhood-cancers/late-effects-pdq">Late Effects of Treatment for Childhood Cancer</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/sobrellevar/supervivencia/efectos-tardios">Efectos secundarios tardíos del tratamiento de cáncer</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000429650" url="/espanol/tipos/infantil/efectos-tardios-pdq">Efectos tardíos del tratamiento anticanceroso en la niñez</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

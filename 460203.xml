@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000460203"><TermName>phenotype</TermName><TermPronunciation>(FEE-noh-tipe)</TermPronunciation><TermDefinition><DefinitionText>The observable characteristics or traits in an individual based on the expression of their genes. The phenotype is determined by the individual's genotype and possibly influenced by other factors, such as environmental factors or other genetic modifiers.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>The physical, biochemical, and behavioral traits that can be observed in a person. Some examples of a person’s phenotype are height, eye color, hair color, blood type, behavior, and the presence of certain diseases. A phenotype is based on a person’s genes and some environmental factors, such as diet, exercise, and smoking.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736977" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phenotype&quot;" language="en" id="_2"/><MediaLink ref="CDR0000802511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fenotipo&quot;" language="es" id="_4"/><SpanishTermName>fenotipo</SpanishTermName><SpanishTermDefinition><DefinitionText>Características o rasgos observables de un individuo que son consecuencia  de la expresión de sus genes. El genotipo del individuo y algunos elementos, como factores ambientales u otros modificadores genéticos, determinan el fenotipo.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Características físicas, bioquímicas y del comportamiento que se pueden observar. Algunos rasgos del fenotipo de una persona son la estatura, el color de los ojos y el pelo, el tipo de sangre, el comportamiento y la presencia de determinadas enfermedades. El fenotipo depende de los genes de la persona y de algunos factores del medio ambiente, como la alimentación, el ejercicio y el consumo de cigarrillos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=152">Phenotype (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Fenotipo">Fenotipo (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460203">
+  <TermName>phenotype</TermName>
+  <TermPronunciation>(FEE-noh-tipe)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The observable characteristics or traits in an individual based on the expression of their genes. The phenotype is determined by the individual's genotype and possibly influenced by other factors, such as environmental factors or other genetic modifiers.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The physical, biochemical, and behavioral traits that can be observed in a person. Some examples of a person’s phenotype are height, eye color, hair color, blood type, behavior, and the presence of certain diseases. A phenotype is based on a person’s genes and some environmental factors, such as diet, exercise, and smoking.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736977" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phenotype&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000802511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fenotipo&quot;" language="es" id="_4"/>
+  <SpanishTermName>fenotipo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Características o rasgos observables de un individuo que son consecuencia  de la expresión de sus genes. El genotipo del individuo y algunos elementos, como factores ambientales u otros modificadores genéticos, determinan el fenotipo.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Características físicas, bioquímicas y del comportamiento que se pueden observar. Algunos rasgos del fenotipo de una persona son la estatura, el color de los ojos y el pelo, el tipo de sangre, el comportamiento y la presencia de determinadas enfermedades. El fenotipo depende de los genes de la persona y de algunos factores del medio ambiente, como la alimentación, el ejercicio y el consumo de cigarrillos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=152">Phenotype (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Fenotipo">Fenotipo (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

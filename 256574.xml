@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000256574"><TermName>prophylactic</TermName><TermPronunciation>(PROH-fih-LAK-tik)</TermPronunciation><TermDefinition><DefinitionText>In medicine, something that prevents or protects.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prophylactic&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;profiláctico&quot;" language="es" id="_4"/><SpanishTermName>profiláctico</SpanishTermName><SpanishTermDefinition><DefinitionText>En medicina, algo que previene y protege.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2002-07-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000256574">
+  <TermName>prophylactic</TermName>
+  <TermPronunciation>(PROH-fih-LAK-tik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, something that prevents or protects.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prophylactic&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;profiláctico&quot;" language="es" id="_4"/>
+  <SpanishTermName>profiláctico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En medicina, algo que previene y protege.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2002-07-19</DateLastModified>
+</GlossaryTerm>

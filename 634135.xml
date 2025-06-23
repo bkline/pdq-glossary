@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000634135"><TermName>satellite tumor</TermName><TermPronunciation>(SA-teh-lite TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A group of tumor cells in an area near the primary (original) tumor. In melanoma, satellite tumors occur within 2 centimeters of the primary tumor, on or under the skin, and can be seen without a microscope. Satellite tumors may also be found in other types of cancer, including cancers of the breast, lung, liver, and brain. Having a satellite tumor is a sign that the cancer has spread from where it first formed.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000723107" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;satellite tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000723106" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor satélite&quot;" language="es" id="_4"/><SpanishTermName>tumor satélite</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de células tumorales en un área cercana al tumor primario (original). En el melanoma, los tumores satélite aparecen a 2 cm del tumor primario, en la piel o debajo de esta, y se ven sin un microscopio. También se encuentran tumores satélite en otros tipos de cáncer, como los cánceres de mama, pulmón, hígado y encéfalo. Tener un tumor satélite es un signo de que el cáncer se diseminó desde el lugar de origen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-01-30</DateFirstPublished><DateLastModified>2018-07-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000634135">
+  <TermName>satellite tumor</TermName>
+  <TermPronunciation>(SA-teh-lite TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of tumor cells in an area near the primary (original) tumor. In melanoma, satellite tumors occur within 2 centimeters of the primary tumor, on or under the skin, and can be seen without a microscope. Satellite tumors may also be found in other types of cancer, including cancers of the breast, lung, liver, and brain. Having a satellite tumor is a sign that the cancer has spread from where it first formed.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000723107" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;satellite tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000723106" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor satélite&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor satélite</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de células tumorales en un área cercana al tumor primario (original). En el melanoma, los tumores satélite aparecen a 2 cm del tumor primario, en la piel o debajo de esta, y se ven sin un microscopio. También se encuentran tumores satélite en otros tipos de cáncer, como los cánceres de mama, pulmón, hígado y encéfalo. Tener un tumor satélite es un signo de que el cáncer se diseminó desde el lugar de origen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-01-30</DateFirstPublished>
+  <DateLastModified>2018-07-19</DateLastModified>
+</GlossaryTerm>

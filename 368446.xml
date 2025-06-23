@@ -1,3 +1,29 @@
-<GlossaryTerm id="CDR0000368446"><TermName>stage I nonmelanoma skin cancer on the head and neck (not on the eyelid)</TermName><TermPronunciation>(… non-MEH-luh-NOH-muh skin KAN-ser ...)</TermPronunciation><TermDefinition><DefinitionText>The tumor is 2
-          centimeters or smaller. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711559" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I nonmelanoma skin cancer on the head and neck (not on the eyelid)&quot;" language="en" id="_5"/><MediaLink ref="CDR0000711560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de piel no melanoma de cabeza y cuello (que no es de párpado) en estadio I&quot;" language="es" id="_6"/><MediaLink ref="CDR0000598469" type="image/jpeg" alt="Stage I nonmelanoma skin cancer of the head and neck; drawing shows cancer in the epidermis (the outer layer of the skin). An inset shows that the tumor is 2 centimeters or smaller and that 2 centimeters is about the size of a peanut. Also shown are the dermis (the inner layer of the skin) and the subcutaneous tissue below the dermis." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Stage I nonmelanoma skin cancer of the head and neck. The tumor is 2 centimeters or smaller.</Caption></MediaLink><SpanishTermName>cáncer de piel no melanoma de cabeza y cuello (que no es de párpado) en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor mide 2 cm o
-menos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-05-28</DateFirstPublished><DateLastModified>2020-02-25</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258035" url="/types/skin/patient/skin-treatment-pdq">Skin Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256809" url="/espanol/tipos/piel/paciente/tratamiento-piel-pdq">Tratamiento del cáncer de piel</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000368446">
+  <TermName>stage I nonmelanoma skin cancer on the head and neck (not on the eyelid)</TermName>
+  <TermPronunciation>(… non-MEH-luh-NOH-muh skin KAN-ser ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is 2
+          centimeters or smaller. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711559" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I nonmelanoma skin cancer on the head and neck (not on the eyelid)&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000711560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de piel no melanoma de cabeza y cuello (que no es de párpado) en estadio I&quot;" language="es" id="_6"/>
+  <MediaLink ref="CDR0000598469" type="image/jpeg" alt="Stage I nonmelanoma skin cancer of the head and neck; drawing shows cancer in the epidermis (the outer layer of the skin). An inset shows that the tumor is 2 centimeters or smaller and that 2 centimeters is about the size of a peanut. Also shown are the dermis (the inner layer of the skin) and the subcutaneous tissue below the dermis." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Stage I nonmelanoma skin cancer of the head and neck. The tumor is 2 centimeters or smaller.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de piel no melanoma de cabeza y cuello (que no es de párpado) en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor mide 2 cm o
+menos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-05-28</DateFirstPublished>
+  <DateLastModified>2020-02-25</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258035" url="/types/skin/patient/skin-treatment-pdq">Skin Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256809" url="/espanol/tipos/piel/paciente/tratamiento-piel-pdq">Tratamiento del cáncer de piel</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

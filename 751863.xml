@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000751863"><TermName>HBOC syndrome</TermName><TermPronunciation>(… SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>An inherited disorder in which the risk of breast cancer (especially before the age of 50) and ovarian cancer is higher than normal.  Most cases of HBOC syndrome are caused by certain mutations (changes) in the BRCA1 or the BRCA2 gene. People with HBOC syndrome may also have an increased risk of other types of cancer, including pancreatic cancer, prostate cancer, and melanoma. Also called hereditary breast and ovarian cancer syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000754459" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HBOC syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000754460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de CMOH&quot;" language="es" id="_4"/><SpanishTermName>síndrome de CMOH</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario que produce aumento del riesgo de cáncer de mama (en especial, antes de los 50 años de edad) y cáncer de ovario. La causa de la mayor parte de los casos de síndrome de CMOH son ciertas mutaciones (cambios) en los genes <GeneName>BRCA1</GeneName> o <GeneName>BRCA2</GeneName>. Es posible que en las personas con síndrome de CMOH también aumente el riesgo de otros tipos de cáncer, como el cáncer de páncreas, el cáncer de próstata y el melanoma. También se llama síndrome de cáncer de mama y ovario hereditario y síndrome de HBOC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-10-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet">Genetic Testing for Inherited Cancer Susceptibility Syndromes</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/hoja-informativa-pruebas-geneticas">Pruebas genéticas para detectar el riesgo de cáncer hereditario</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/12351/brca1-hereditary-breast-and-ovarian-cancer-syndrome">BRCA1 hereditary breast and ovarian cancer syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/12352/brca2-hereditary-breast-and-ovarian-cancer-syndrome">BRCA2 hereditary breast and ovarian cancer syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000751863">
+  <TermName>HBOC syndrome</TermName>
+  <TermPronunciation>(… SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An inherited disorder in which the risk of breast cancer (especially before the age of 50) and ovarian cancer is higher than normal.  Most cases of HBOC syndrome are caused by certain mutations (changes) in the BRCA1 or the BRCA2 gene. People with HBOC syndrome may also have an increased risk of other types of cancer, including pancreatic cancer, prostate cancer, and melanoma. Also called hereditary breast and ovarian cancer syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000754459" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HBOC syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000754460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de CMOH&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de CMOH</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario que produce aumento del riesgo de cáncer de mama (en especial, antes de los 50 años de edad) y cáncer de ovario. La causa de la mayor parte de los casos de síndrome de CMOH son ciertas mutaciones (cambios) en los genes 
+      <GeneName>BRCA1</GeneName>
+       o 
+      <GeneName>BRCA2</GeneName>
+      . Es posible que en las personas con síndrome de CMOH también aumente el riesgo de otros tipos de cáncer, como el cáncer de páncreas, el cáncer de próstata y el melanoma. También se llama síndrome de cáncer de mama y ovario hereditario y síndrome de HBOC.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-10-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet">Genetic Testing for Inherited Cancer Susceptibility Syndromes</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/hoja-informativa-pruebas-geneticas">Pruebas genéticas para detectar el riesgo de cáncer hereditario</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/12351/brca1-hereditary-breast-and-ovarian-cancer-syndrome">BRCA1 hereditary breast and ovarian cancer syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/12352/brca2-hereditary-breast-and-ovarian-cancer-syndrome">BRCA2 hereditary breast and ovarian cancer syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

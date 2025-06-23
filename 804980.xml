@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000804980"><TermName>complex fibroadenoma</TermName><TermPronunciation>(KOM-plex FY-broh-a-deh-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of benign (not cancer) tumor that usually forms in the breast and is made up of fibrous (connective) and glandular tissue. In complex fibroadenomas, other abnormal tissue changes are also present. These changes may include cysts, calcifications, scar-like tissue, and hyperplasia (an increase in the number of cells in the breast ducts or lobes). Complex fibroadenomas are more common in older women and may slightly increase the risk of breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806851" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;complex fibroadenoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806852" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibroadenoma complejo&quot;" language="es" id="_4"/><SpanishTermName>fibroadenoma complejo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tumor benigno (no canceroso) que suele formarse en la mama y se compone de tejido fibroso (conjuntivo) y tejido glandular. Los fibroadenomas complejos van acompañados de otros cambios anormales en el tejido, como quistes, calcificaciones, cicatrices e hiperplasia (aumento del número de células en los conductos o lóbulos mamarios). Los fibroadenomas complejos son más frecuentes  en las mujeres de más edad y quizás aumenten un poco el riesgo de cáncer de mama. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-08-09</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000523438" UseWith="en" audience="Patients">fibroadenoma</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000523438" UseWith="es" audience="Patients">fibroadenoma</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804980">
+  <TermName>complex fibroadenoma</TermName>
+  <TermPronunciation>(KOM-plex FY-broh-a-deh-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of benign (not cancer) tumor that usually forms in the breast and is made up of fibrous (connective) and glandular tissue. In complex fibroadenomas, other abnormal tissue changes are also present. These changes may include cysts, calcifications, scar-like tissue, and hyperplasia (an increase in the number of cells in the breast ducts or lobes). Complex fibroadenomas are more common in older women and may slightly increase the risk of breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806851" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;complex fibroadenoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806852" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibroadenoma complejo&quot;" language="es" id="_4"/>
+  <SpanishTermName>fibroadenoma complejo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tumor benigno (no canceroso) que suele formarse en la mama y se compone de tejido fibroso (conjuntivo) y tejido glandular. Los fibroadenomas complejos van acompañados de otros cambios anormales en el tejido, como quistes, calcificaciones, cicatrices e hiperplasia (aumento del número de células en los conductos o lóbulos mamarios). Los fibroadenomas complejos son más frecuentes  en las mujeres de más edad y quizás aumenten un poco el riesgo de cáncer de mama. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-08-09</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000523438" UseWith="en" audience="Patients">fibroadenoma</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000523438" UseWith="es" audience="Patients">fibroadenoma</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000045771"><TermName>malignancy</TermName><TermPronunciation>(muh-LIG-nun-see)</TermPronunciation><TermDefinition><DefinitionText>A term for
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045771">
+  <TermName>malignancy</TermName>
+  <TermPronunciation>(muh-LIG-nun-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term for
           diseases in which abnormal cells divide without control and
           can invade nearby tissues. Malignant cells
           can also spread to other parts of the body through the
@@ -15,7 +20,15 @@
           myeloma are malignancies that begin in the
           cells of the immune system. Central nervous system cancers
           are malignancies that begin in the tissues of
-          the brain and spinal cord. Also called cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707215" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;malignancy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia maligna&quot;" language="es" id="_4"/><SpanishTermName>neoplasia maligna</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que describe las
+          the brain and spinal cord. Also called cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707215" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;malignancy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia maligna&quot;" language="es" id="_4"/>
+  <SpanishTermName>neoplasia maligna</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que describe las
 enfermedades en las que hay células anormales que se
 multiplican sin control e invaden los tejidos cercanos. Es
 posible que las células de las neoplasias malignas también
@@ -32,6 +45,15 @@ donde se forman las células sanguíneas, como la médula
 anormales. El linfoma y el mieloma múltiple afectan las
 células del sistema inmunitario. Las neoplasias malignas
 del sistema nervioso central empiezan en los tejidos del
-encéfalo y la médula espinal. También se llama cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-06-10</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/understanding/what-is-cancer">What
-Is Cancer? </RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/naturaleza/que-es/">¿Qué
-es el cáncer?</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+encéfalo y la médula espinal. También se llama cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-06-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/understanding/what-is-cancer">What
+Is Cancer? </RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/naturaleza/que-es/">¿Qué
+es el cáncer?</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000721252"><TermName>ALK gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein that is involved in cell growth. Mutated (changed) forms of the ALK gene and protein have been found in some types of cancer, including neuroblastoma, non-small cell lung cancer, and anaplastic large cell lymphoma. These changes may increase the growth of cancer cells. Checking for changes in the ALK gene in tumor tissue may help to plan cancer treatment. Also called anaplastic lymphoma kinase gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734657" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ALK gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000734658" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen ALK&quot;" language="es" id="_4"/><SpanishTermName>gen ALK</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la multiplicación de las células.   Se han encontrado formas mutadas (cambiadas) del gen <GeneName>ALK</GeneName> y de su proteína en algunos tipos de cáncer, como el neuroblastoma, el cáncer de pulmón de células no pequeñas y el linfoma anaplásico de células grandes.  Es posible que estos cambios aumenten la multiplicación de células cancerosas. Saber si el tejido tumoral tiene cambios en el gen <GeneName>ALK</GeneName> ayuda a planificar el tratamiento del cáncer. También se llama gen de la cinasa del linfoma anaplásico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-02-06</DateFirstPublished><DateLastModified>2020-11-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000721252">
+  <TermName>ALK gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene that makes a protein that is involved in cell growth. Mutated (changed) forms of the ALK gene and protein have been found in some types of cancer, including neuroblastoma, non-small cell lung cancer, and anaplastic large cell lymphoma. These changes may increase the growth of cancer cells. Checking for changes in the ALK gene in tumor tissue may help to plan cancer treatment. Also called anaplastic lymphoma kinase gene.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734657" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ALK gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000734658" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen ALK&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen ALK</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la multiplicación de las células.   Se han encontrado formas mutadas (cambiadas) del gen 
+      <GeneName>ALK</GeneName>
+       y de su proteína en algunos tipos de cáncer, como el neuroblastoma, el cáncer de pulmón de células no pequeñas y el linfoma anaplásico de células grandes.  Es posible que estos cambios aumenten la multiplicación de células cancerosas. Saber si el tejido tumoral tiene cambios en el gen 
+      <GeneName>ALK</GeneName>
+       ayuda a planificar el tratamiento del cáncer. También se llama gen de la cinasa del linfoma anaplásico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-02-06</DateFirstPublished>
+  <DateLastModified>2020-11-24</DateLastModified>
+</GlossaryTerm>

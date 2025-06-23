@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046398"><TermName>gastric atrophy</TermName><TermPronunciation>(GAS-trik A-troh-fee)</TermPronunciation><TermDefinition><DefinitionText>A condition marked by thinning of the inner lining of the stomach wall and the loss of gland cells in the lining that release substances that help with digestion. It may be caused by infection with the bacterium H. pylori or by certain autoimmune conditions. Gastric atrophy may increase the risk of stomach cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708668" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastric atrophy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708667" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atrofia gástrica&quot;" language="es" id="_4"/><SpanishTermName>atrofia gástrica</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección caracterizada por el adelgazamiento del revestimiento interno de la pared del estómago y por la pérdida de las células glandulares en dicho revestimiento que producen sustancias que ayudan con la digestión.   Las causas son la infección por la bacteria <ScientificName>Helicobacter pylori</ScientificName> o ciertas afecciones autoinmunitarias.   La atrofia gástrica en ocasiones aumenta el riesgo de cáncer de estómago. También se llama atrofia de la mucosa del estómago y atrofia de la mucosa gástrica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2011-12-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046398">
+  <TermName>gastric atrophy</TermName>
+  <TermPronunciation>(GAS-trik A-troh-fee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition marked by thinning of the inner lining of the stomach wall and the loss of gland cells in the lining that release substances that help with digestion. It may be caused by infection with the bacterium H. pylori or by certain autoimmune conditions. Gastric atrophy may increase the risk of stomach cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708668" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastric atrophy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708667" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atrofia gástrica&quot;" language="es" id="_4"/>
+  <SpanishTermName>atrofia gástrica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Afección caracterizada por el adelgazamiento del revestimiento interno de la pared del estómago y por la pérdida de las células glandulares en dicho revestimiento que producen sustancias que ayudan con la digestión.   Las causas son la infección por la bacteria 
+      <ScientificName>Helicobacter pylori</ScientificName>
+       o ciertas afecciones autoinmunitarias.   La atrofia gástrica en ocasiones aumenta el riesgo de cáncer de estómago. También se llama atrofia de la mucosa del estómago y atrofia de la mucosa gástrica.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2011-12-13</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044700"><TermName>onset of action</TermName><TermPronunciation>(... AK-shun)</TermPronunciation><TermDefinition><DefinitionText>The length of time it takes for a medicine to start to work.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705853" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;onset of action&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705854" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inicio de la acción&quot;" language="es" id="_4"/><SpanishTermName>inicio de la acción</SpanishTermName><SpanishTermDefinition><DefinitionText>Tiempo que toma un medicamento para comenzar a actuar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044700">
+  <TermName>onset of action</TermName>
+  <TermPronunciation>(... AK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The length of time it takes for a medicine to start to work.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705853" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;onset of action&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705854" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inicio de la acción&quot;" language="es" id="_4"/>
+  <SpanishTermName>inicio de la acción</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tiempo que toma un medicamento para comenzar a actuar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000651171"><TermName>acute bacterial prostatitis</TermName><TermPronunciation>(uh-KYOOT bak-TEER-ee-ul PROS-tuh-TY-tis)</TermPronunciation><TermDefinition><DefinitionText>Inflammation of the prostate gland that begins suddenly and gets worse quickly. It is caused by a bacterial infection. Symptoms include fever and chills, body aches, pain in the lower back and genital area, a burning feeling during urination, and problems with emptying the bladder all the way.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726483" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acute bacterial prostatitis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726484" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatitis bacteriana aguda&quot;" language="es" id="_4"/><SpanishTermName>prostatitis bacteriana aguda</SpanishTermName><SpanishTermDefinition><DefinitionText>Inflamación de la próstata que comienza de modo súbito y empeora rápidamente, y que se produce por una infección bacteriana. Los síntomas incluyen fiebre y escalofríos, dolores en el cuerpo, dolor en la parte baja de la espalda y el área genital, sensación de ardor cuando se orina y problemas para vaciar la vejiga por completo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-08-26</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/prostate/understanding-prostate-changes" UseWith="en">Understanding Prostate Changes and Conditions</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata" UseWith="es">Significado de los cambios en la próstata: Guía de salud para los hombres</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000651171">
+  <TermName>acute bacterial prostatitis</TermName>
+  <TermPronunciation>(uh-KYOOT bak-TEER-ee-ul PROS-tuh-TY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Inflammation of the prostate gland that begins suddenly and gets worse quickly. It is caused by a bacterial infection. Symptoms include fever and chills, body aches, pain in the lower back and genital area, a burning feeling during urination, and problems with emptying the bladder all the way.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726483" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acute bacterial prostatitis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726484" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatitis bacteriana aguda&quot;" language="es" id="_4"/>
+  <SpanishTermName>prostatitis bacteriana aguda</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Inflamación de la próstata que comienza de modo súbito y empeora rápidamente, y que se produce por una infección bacteriana. Los síntomas incluyen fiebre y escalofríos, dolores en el cuerpo, dolor en la parte baja de la espalda y el área genital, sensación de ardor cuando se orina y problemas para vaciar la vejiga por completo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-08-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/prostate/understanding-prostate-changes" UseWith="en">Understanding Prostate Changes and Conditions</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata" UseWith="es">Significado de los cambios en la próstata: Guía de salud para los hombres</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

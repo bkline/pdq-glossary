@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000793499"><TermName>lymph node biopsy</TermName><TermPronunciation>(limf node BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which all or part of a lymph node is removed and checked under a microscope for signs of infection or disease, such as cancer. There are several types of lymph node biopsies, including excisional biopsy (removal of entire lymph node), incisional biopsy (removal of part of a lymph node), core needle biopsy (removal of tissue from a lymph node using a wide needle), and fine-needle aspiration biopsy (removal of tissue from a lymph node using a thin needle).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymph node biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795181" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia de ganglio linfático&quot;" language="es" id="_4"/><SpanishTermName>biopsia de ganglio linfático</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento mediante el que se extrae un ganglio linfático completo o parte de este y se observa al microscopio para detectar signos de infección o enfermedad, como un cáncer. Hay varios tipos de biopsias de ganglio linfático: biopsia por escisión (extracción completa de un ganglio linfático), biopsia por incisión (extracción de parte de un ganglio linfático), biopsia por punción con aguja gruesa (extracción de tejido de un ganglio linfático mediante una aguja ancha) y biopsia por aspiración con aguja fina (extracción de tejido de un ganglio linfático mediante una aguja fina).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-07-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793499">
+  <TermName>lymph node biopsy</TermName>
+  <TermPronunciation>(limf node BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which all or part of a lymph node is removed and checked under a microscope for signs of infection or disease, such as cancer. There are several types of lymph node biopsies, including excisional biopsy (removal of entire lymph node), incisional biopsy (removal of part of a lymph node), core needle biopsy (removal of tissue from a lymph node using a wide needle), and fine-needle aspiration biopsy (removal of tissue from a lymph node using a thin needle).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymph node biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795181" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia de ganglio linfático&quot;" language="es" id="_4"/>
+  <SpanishTermName>biopsia de ganglio linfático</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento mediante el que se extrae un ganglio linfático completo o parte de este y se observa al microscopio para detectar signos de infección o enfermedad, como un cáncer. Hay varios tipos de biopsias de ganglio linfático: biopsia por escisión (extracción completa de un ganglio linfático), biopsia por incisión (extracción de parte de un ganglio linfático), biopsia por punción con aguja gruesa (extracción de tejido de un ganglio linfático mediante una aguja ancha) y biopsia por aspiración con aguja fina (extracción de tejido de un ganglio linfático mediante una aguja fina).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-07-02</DateFirstPublished>
+</GlossaryTerm>

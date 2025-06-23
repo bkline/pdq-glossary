@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000441252"><TermName>living will</TermName><TermPronunciation>(LIH-ving wil)</TermPronunciation><TermDefinition><DefinitionText>A type of advance directive that states the specific types of medical care that a person wishes to receive if that person is no longer able to make medical decisions because of a terminal illness or being permanently unconscious. A living will usually has instructions about whether to use certain treatments to help keep a person alive, such as the use of dialysis (kidney) machines, breathing tubes, feeding tubes, and CPR. In the United States, the laws for living wills may be different for each state, and not every state may allow them.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;living will&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;testamento vital&quot;" language="es" id="_4"/><SpanishTermName>testamento vital</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de instrucciones por adelantado en las que se especifica los tipos específicos de atención médica que la persona desea recibir en caso de que no pueda tomar decisiones médicas debido a una enfermedad terminal o la pérdida permanente de conciencia. El testamento vital suele tener instrucciones sobre el uso de ciertos tratamientos para prolongar la vida, como el uso de máquinas de diálisis (para el riñón), tubos para respirar, sondas de alimentación y reanimación cardiorrespiratoria (RCR). En los Estados Unidos, las leyes vigentes que rigen los testamentos vitales a veces son diferentes en cada estado y es posible que no se permitan en algunos estados.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2018-12-17</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/managing-care/advance-directives">Advance Directives</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000430404" UseWith="en" audience="Patients">advance directive</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000430404" UseWith="es" audience="Patients">instrucciones por adelantado</RelatedGlossaryTermRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer/instrucciones-adelantadas">Instrucciones por adelantado</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000441252">
+  <TermName>living will</TermName>
+  <TermPronunciation>(LIH-ving wil)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of advance directive that states the specific types of medical care that a person wishes to receive if that person is no longer able to make medical decisions because of a terminal illness or being permanently unconscious. A living will usually has instructions about whether to use certain treatments to help keep a person alive, such as the use of dialysis (kidney) machines, breathing tubes, feeding tubes, and CPR. In the United States, the laws for living wills may be different for each state, and not every state may allow them.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;living will&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;testamento vital&quot;" language="es" id="_4"/>
+  <SpanishTermName>testamento vital</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de instrucciones por adelantado en las que se especifica los tipos específicos de atención médica que la persona desea recibir en caso de que no pueda tomar decisiones médicas debido a una enfermedad terminal o la pérdida permanente de conciencia. El testamento vital suele tener instrucciones sobre el uso de ciertos tratamientos para prolongar la vida, como el uso de máquinas de diálisis (para el riñón), tubos para respirar, sondas de alimentación y reanimación cardiorrespiratoria (RCR). En los Estados Unidos, las leyes vigentes que rigen los testamentos vitales a veces son diferentes en cada estado y es posible que no se permitan en algunos estados.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2018-12-17</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/managing-care/advance-directives">Advance Directives</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000430404" UseWith="en" audience="Patients">advance directive</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000430404" UseWith="es" audience="Patients">instrucciones por adelantado</RelatedGlossaryTermRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/manejo-del-cancer/instrucciones-adelantadas">Instrucciones por adelantado</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

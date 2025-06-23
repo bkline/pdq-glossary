@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000644773"><TermName>intra-arterial brachytherapy</TermName><TermPronunciation>(IN-truh-ar-TEER-ee-ul BRAY-kee-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A type of radiation therapy used to treat liver cancer or cancer that has spread to the liver. A thin, flexible tube is used to inject tiny beads that hold the radioactive substance yttrium Y 90 into the main blood vessel that carries blood to the liver. The beads collect in the tumor and in blood vessels near the tumor, and the yttrium Y 90 gives off radiation. This destroys the blood vessels that the tumor needs to grow and kills the cancer cells. Intra-arterial brachytherapy is a type of internal radiation therapy. Also called radioembolization.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726292" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intra-arterial brachytherapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726293" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;braquiterapia intraarterial&quot;" language="es" id="_4"/><SpanishTermName>braquiterapia intraarterial</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de radioterapia que se usa para tratar el cáncer de hígado o un cáncer que se diseminó al hígado. Se usa un tubo delgado y flexible para inyectar microesferas cargadas con la sustancia radiactiva itrio Y 90 en el vaso sanguíneo principal que conduce al hígado.   Estas microesferas se acumulan en el tumor y en los vasos sanguíneos cerca del tumor. El itrio Y 90 emite radiación que destruye los vasos sanguíneos que el tumor necesita para crecer y elimina las células cancerosas.   La braquiterapia intraarterial es un tipo de radioterapia interna.   También se llama radioembolización.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-13</DateFirstPublished><DateLastModified>2017-07-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644773">
+  <TermName>intra-arterial brachytherapy</TermName>
+  <TermPronunciation>(IN-truh-ar-TEER-ee-ul BRAY-kee-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of radiation therapy used to treat liver cancer or cancer that has spread to the liver. A thin, flexible tube is used to inject tiny beads that hold the radioactive substance yttrium Y 90 into the main blood vessel that carries blood to the liver. The beads collect in the tumor and in blood vessels near the tumor, and the yttrium Y 90 gives off radiation. This destroys the blood vessels that the tumor needs to grow and kills the cancer cells. Intra-arterial brachytherapy is a type of internal radiation therapy. Also called radioembolization.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726292" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intra-arterial brachytherapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726293" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;braquiterapia intraarterial&quot;" language="es" id="_4"/>
+  <SpanishTermName>braquiterapia intraarterial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de radioterapia que se usa para tratar el cáncer de hígado o un cáncer que se diseminó al hígado. Se usa un tubo delgado y flexible para inyectar microesferas cargadas con la sustancia radiactiva itrio Y 90 en el vaso sanguíneo principal que conduce al hígado.   Estas microesferas se acumulan en el tumor y en los vasos sanguíneos cerca del tumor. El itrio Y 90 emite radiación que destruye los vasos sanguíneos que el tumor necesita para crecer y elimina las células cancerosas.   La braquiterapia intraarterial es un tipo de radioterapia interna.   También se llama radioembolización.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-13</DateFirstPublished>
+  <DateLastModified>2017-07-14</DateLastModified>
+</GlossaryTerm>

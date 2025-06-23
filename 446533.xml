@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000446533"><TermName>levels of evidence</TermName><TermPronunciation>(LEH-vulz ... EH-vih-dents)</TermPronunciation><TermDefinition><DefinitionText>A ranking system used to describe the strength of the results measured in a clinical trial or research study. The design of the study (such as a case report for an individual patient or a randomized double-blinded controlled clinical trial) and the endpoints measured (such as survival or quality of life) affect the strength of the evidence.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714569" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;levels of evidence&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714568" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;niveles de evidencia científica&quot;" language="es" id="_9"/><SpanishTermName>niveles de evidencia científica</SpanishTermName><SpanishTermDefinition><DefinitionText>Sistema de clasificación para describir la solidez de los resultados medidos en un ensayo clínico o estudio de investigación. El diseño del estudio (como un informe de caso para un paciente individual o un ensayo clínico controlado y aleatorizado con enmascaramiento doble) y los criterios de valoración medidos (como la supervivencia o la calidad de vida) afectan la solidez de la evidencia científica. También se llama grados de comprobación científica, grados de evidencia y niveles de comprobación científica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446533">
+  <TermName>levels of evidence</TermName>
+  <TermPronunciation>(LEH-vulz ... EH-vih-dents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A ranking system used to describe the strength of the results measured in a clinical trial or research study. The design of the study (such as a case report for an individual patient or a randomized double-blinded controlled clinical trial) and the endpoints measured (such as survival or quality of life) affect the strength of the evidence.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714569" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;levels of evidence&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714568" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;niveles de evidencia científica&quot;" language="es" id="_9"/>
+  <SpanishTermName>niveles de evidencia científica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sistema de clasificación para describir la solidez de los resultados medidos en un ensayo clínico o estudio de investigación. El diseño del estudio (como un informe de caso para un paciente individual o un ensayo clínico controlado y aleatorizado con enmascaramiento doble) y los criterios de valoración medidos (como la supervivencia o la calidad de vida) afectan la solidez de la evidencia científica. También se llama grados de comprobación científica, grados de evidencia y niveles de comprobación científica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

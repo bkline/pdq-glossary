@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000644779"><TermName>tumescent mastectomy</TermName><TermPronunciation>(too-MEH-sent ma-STEK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>A type of surgery to remove the breast. The breast is injected with a liquid mixture of salts and small amounts of two drugs. These drugs are lidocaine, to numb the area, and epinephrine, to narrow blood vessels and reduce bleeding. Tumescent mastectomy is usually used to treat breast cancer in elderly patients.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726302" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumescent mastectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726303" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastectomía tumescente&quot;" language="es" id="_4"/><SpanishTermName>mastectomía tumescente</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cirugía para extirpar la mama (seno). Se inyecta en la mama una mezcla líquida de sales y pequeñas cantidades de lidocaína para adormecer el área y epinefrina para estrechar los vasos sanguíneos y reducir el sangrado. La mastectomía tumescente, por lo general, se usa para el tratamiento del cáncer de mama en personas de edad avanzada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644779">
+  <TermName>tumescent mastectomy</TermName>
+  <TermPronunciation>(too-MEH-sent ma-STEK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of surgery to remove the breast. The breast is injected with a liquid mixture of salts and small amounts of two drugs. These drugs are lidocaine, to numb the area, and epinephrine, to narrow blood vessels and reduce bleeding. Tumescent mastectomy is usually used to treat breast cancer in elderly patients.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726302" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumescent mastectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726303" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastectomía tumescente&quot;" language="es" id="_4"/>
+  <SpanishTermName>mastectomía tumescente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cirugía para extirpar la mama (seno). Se inyecta en la mama una mezcla líquida de sales y pequeñas cantidades de lidocaína para adormecer el área y epinefrina para estrechar los vasos sanguíneos y reducir el sangrado. La mastectomía tumescente, por lo general, se usa para el tratamiento del cáncer de mama en personas de edad avanzada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-13</DateFirstPublished>
+</GlossaryTerm>

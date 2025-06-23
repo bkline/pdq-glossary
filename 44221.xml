@@ -1,13 +1,40 @@
-<GlossaryTerm id="CDR0000044221"><TermName>skeleton</TermName><TermPronunciation>(SKEH-leh-tun)</TermPronunciation><TermDefinition><DefinitionText>The framework
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044221">
+  <TermName>skeleton</TermName>
+  <TermPronunciation>(SKEH-leh-tun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The framework
           that supports the soft tissues of vertebrate animals and
           protects many of their internal organs. The skeletons of
           vertebrates are made of bone and/or
-          cartilage.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;skeleton&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esqueleto&quot;" language="es" id="_4"/><MediaLink ref="CDR0000797738" type="image/jpeg" alt="Drawing of a skeleton of a young girl." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">The human skeleton. The skeleton is the framework of bones and cartilage that supports and protects the soft tissues and the internal organs of the body.</Caption></MediaLink><MediaLink ref="CDR0000797738" type="image/jpeg" alt="Ilustración del esqueleto de una niña." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Esqueleto humano. El esqueleto es la estructura de huesos y cartílago que sostiene y protege los tejidos blandos y los órganos internos del cuerpo.</Caption></MediaLink><SpanishTermName>esqueleto</SpanishTermName><SpanishTermDefinition><DefinitionText>Armazón que sostiene los
+          cartilage.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;skeleton&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esqueleto&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000797738" type="image/jpeg" alt="Drawing of a skeleton of a young girl." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">The human skeleton. The skeleton is the framework of bones and cartilage that supports and protects the soft tissues and the internal organs of the body.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000797738" type="image/jpeg" alt="Ilustración del esqueleto de una niña." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Esqueleto humano. El esqueleto es la estructura de huesos y cartílago que sostiene y protege los tejidos blandos y los órganos internos del cuerpo.</Caption>
+  </MediaLink>
+  <SpanishTermName>esqueleto</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Armazón que sostiene los
 tejidos blandos de los animales vertebrados y protege
 muchos de sus órganos internos. Los esqueletos de los
 vertebrados están hechos de hueso y
-cartílago.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/by-body-location">Cancers
+cartílago.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/by-body-location">Cancers
 by Body Location/System:
-Musculoskeletal</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/por-partes-cuerpo">El
+Musculoskeletal</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/por-partes-cuerpo">El
 cáncer según su ubicación en el cuerpo: aparato
-locomotor</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+locomotor</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

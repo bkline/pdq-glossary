@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046306"><TermName>lymphangiogram</TermName><TermPronunciation>(lim-FAN-jee-oh-gram)</TermPronunciation><TermDefinition><DefinitionText>An x-ray or computer image of the lymphatic system. A dye is injected into the body to make the lymphatic vessels and lymph nodes easier to see in the image. A lymphangiogram may be used to check for blockages or leaks in the lymphatic system and to help diagnose certain conditions, such as lymphedema or lymphoma. It may also be used with a lymph node biopsy to find out whether cancer has spread.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708011" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphangiogram&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708012" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfangiograma&quot;" language="es" id="_4"/><SpanishTermName>linfangiograma</SpanishTermName><SpanishTermDefinition><DefinitionText>Radiografía o imagen por computadora del sistema linfático. Se inyecta un tinte en el cuerpo para que los vasos y los ganglios linfáticos se vean con más claridad en la imagen. El linfangiograma sirve para comprobar si hay obstrucciones o fugas en el sistema linfático y para ayudar a diagnosticar determinadas afecciones, como el linfedema o el linfoma. A veces también se hace con una biopsia de ganglio linfático para averiguar si el cáncer se diseminó. También se llama linfadenograma y linfograma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2024-03-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046306">
+  <TermName>lymphangiogram</TermName>
+  <TermPronunciation>(lim-FAN-jee-oh-gram)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An x-ray or computer image of the lymphatic system. A dye is injected into the body to make the lymphatic vessels and lymph nodes easier to see in the image. A lymphangiogram may be used to check for blockages or leaks in the lymphatic system and to help diagnose certain conditions, such as lymphedema or lymphoma. It may also be used with a lymph node biopsy to find out whether cancer has spread.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708011" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphangiogram&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708012" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfangiograma&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfangiograma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Radiografía o imagen por computadora del sistema linfático. Se inyecta un tinte en el cuerpo para que los vasos y los ganglios linfáticos se vean con más claridad en la imagen. El linfangiograma sirve para comprobar si hay obstrucciones o fugas en el sistema linfático y para ayudar a diagnosticar determinadas afecciones, como el linfedema o el linfoma. A veces también se hace con una biopsia de ganglio linfático para averiguar si el cáncer se diseminó. También se llama linfadenograma y linfograma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2024-03-01</DateLastModified>
+</GlossaryTerm>

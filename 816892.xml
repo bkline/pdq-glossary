@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816892"><TermName>sample size</TermName><TermPronunciation>(SAM-pul ...)</TermPronunciation><TermDefinition><DefinitionText>The number of participants involved in the different treatment groups. A larger sample size provides stronger evidence, as it as associated with greater statistical power.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817429" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sample size&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817430" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tamaño de la muestra&quot;" language="es" id="_4"/><SpanishTermName>tamaño de la muestra</SpanishTermName><SpanishTermDefinition><DefinitionText>Número de participantes en los distintos grupos de tratamiento. Una muestra de mayor tamaño proporciona evidencia más sólida, ya que se relaciona con una mayor potencia estadística.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816892">
+  <TermName>sample size</TermName>
+  <TermPronunciation>(SAM-pul ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The number of participants involved in the different treatment groups. A larger sample size provides stronger evidence, as it as associated with greater statistical power.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817429" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sample size&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817430" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tamaño de la muestra&quot;" language="es" id="_4"/>
+  <SpanishTermName>tamaño de la muestra</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Número de participantes en los distintos grupos de tratamiento. Una muestra de mayor tamaño proporciona evidencia más sólida, ya que se relaciona con una mayor potencia estadística.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-16</DateFirstPublished>
+</GlossaryTerm>

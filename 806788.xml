@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000806788"><TermName>operation</TermName><TermPronunciation>(ah-per-AY-shun)</TermPronunciation><TermDefinition><DefinitionText>A procedure to remove or repair a part of the body or to find out whether disease is present.  Also called surgery.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808510" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;operation&quot;" language="en" id="_5"/><MediaLink ref="CDR0000808511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;operación&quot;" language="es" id="_6"/><SpanishTermName>operación</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para extirpar o reparar una parte del cuerpo, o para determinar si hay una enfermedad. También se llama cirugía, intervención quirúrgica y operación quirúrgica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-11-08</DateFirstPublished><DateLastModified>2021-11-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806788">
+  <TermName>operation</TermName>
+  <TermPronunciation>(ah-per-AY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure to remove or repair a part of the body or to find out whether disease is present.  Also called surgery.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808510" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;operation&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000808511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;operación&quot;" language="es" id="_6"/>
+  <SpanishTermName>operación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para extirpar o reparar una parte del cuerpo, o para determinar si hay una enfermedad. También se llama cirugía, intervención quirúrgica y operación quirúrgica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-11-08</DateFirstPublished>
+  <DateLastModified>2021-11-08</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000390283"><TermName>throat cancer</TermName><TermPronunciation>(throte KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the pharynx or larynx. Most throat cancers are squamous cell carcinomas (cancers that begin in thin, flat cells that look like fish scales under a microscope).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713160" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;throat cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713159" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de garganta&quot;" language="es" id="_4"/><MediaLink ref="CDR0000813315" type="image/jpeg" alt="Anatomy of the throat; drawing shows the pharynx, which includes the nasopharynx, oropharynx, and hypopharynx. Also shown are the adenoids, tonsils, larynx, esophagus, and trachea." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Anatomy of the throat. The throat is a hollow, muscular tube inside the neck that acts as a passageway for air to enter the lungs and for food and liquid to enter the esophagus. It contains many structures, including the adenoids, tonsils, pharynx (the nasopharynx, oropharynx, and hypopharynx), larynx, esophagus, and trachea. </Caption></MediaLink><MediaLink ref="CDR0000813376" type="image/jpeg" alt="Anatomía de la garganta. En el dibujo se observa la faringe y se señalan sus partes, que incluyen la nasofaringe, la orofaringe y la hipofaringe. Además, se señala una adenoide, una amígdala, la laringe, y la primera parte del esófago y la tráquea en el cuello." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía de la garganta. La garganta es un tubo muscular hueco dentro del cuello, que cumple una función de conducto por donde pasa el aire a los pulmones, y los alimentos y bebidas al esófago. La garganta contiene varias estructuras, como las adenoides, las amígdalas, la faringe (nasofaringe, orofaringe e hipofaringe),  la laringe, el esófago y la tráquea.</Caption></MediaLink><SpanishTermName>cáncer de garganta</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos de la faringe o la laringe. La mayoría de los cánceres de garganta son carcinomas de células escamosas (cáncer que comienza en unas células delgadas y planas que, cuando se observan al microscopio, se parecen a las escamas de los peces).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-10-25</DateFirstPublished><DateLastModified>2023-06-15</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/head-and-neck">Head and Neck Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/cabeza-cuello">Cáncer de cabeza y cuello</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000390283">
+  <TermName>throat cancer</TermName>
+  <TermPronunciation>(throte KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the pharynx or larynx. Most throat cancers are squamous cell carcinomas (cancers that begin in thin, flat cells that look like fish scales under a microscope).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713160" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;throat cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713159" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de garganta&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000813315" type="image/jpeg" alt="Anatomy of the throat; drawing shows the pharynx, which includes the nasopharynx, oropharynx, and hypopharynx. Also shown are the adenoids, tonsils, larynx, esophagus, and trachea." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Anatomy of the throat. The throat is a hollow, muscular tube inside the neck that acts as a passageway for air to enter the lungs and for food and liquid to enter the esophagus. It contains many structures, including the adenoids, tonsils, pharynx (the nasopharynx, oropharynx, and hypopharynx), larynx, esophagus, and trachea. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000813376" type="image/jpeg" alt="Anatomía de la garganta. En el dibujo se observa la faringe y se señalan sus partes, que incluyen la nasofaringe, la orofaringe y la hipofaringe. Además, se señala una adenoide, una amígdala, la laringe, y la primera parte del esófago y la tráquea en el cuello." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía de la garganta. La garganta es un tubo muscular hueco dentro del cuello, que cumple una función de conducto por donde pasa el aire a los pulmones, y los alimentos y bebidas al esófago. La garganta contiene varias estructuras, como las adenoides, las amígdalas, la faringe (nasofaringe, orofaringe e hipofaringe),  la laringe, el esófago y la tráquea.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de garganta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos de la faringe o la laringe. La mayoría de los cánceres de garganta son carcinomas de células escamosas (cáncer que comienza en unas células delgadas y planas que, cuando se observan al microscopio, se parecen a las escamas de los peces).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-10-25</DateFirstPublished>
+  <DateLastModified>2023-06-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/head-and-neck">Head and Neck Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/cabeza-cuello">Cáncer de cabeza y cuello</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

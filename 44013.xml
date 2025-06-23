@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044013"><TermName>connective tissue</TermName><TermPronunciation>(kuh-NEK-tiv TIH-shoo)</TermPronunciation><TermDefinition><DefinitionText>Tissue that supports, protects, and gives structure to other tissues and organs in the body. Connective tissue also stores fat, helps move nutrients and other substances between tissues and organs, and helps repair damaged tissue. Connective tissue is made up of cells, fibers, and a gel-like substance. Types of connective tissue include bone, cartilage, fat, blood, and lymphatic tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704041" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;connective tissue&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704042" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido conjuntivo&quot;" language="es" id="_4"/><SpanishTermName>tejido conjuntivo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tejido que sostiene, protege y estructura otros tejidos y órganos del cuerpo. El tejido conjuntivo también almacena grasa, ayuda a desplazar nutrientes y otras sustancias entre los tejidos y los órganos, además de reparar daños en los tejidos. El tejido conjuntivo está compuesto por células, fibras y una sustancia gelatinosa. El hueso, el cartílago, la grasa, la sangre y el tejido linfático son tipos de tejido conjuntivo. También se llama tejido conectivo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-04-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044013">
+  <TermName>connective tissue</TermName>
+  <TermPronunciation>(kuh-NEK-tiv TIH-shoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Tissue that supports, protects, and gives structure to other tissues and organs in the body. Connective tissue also stores fat, helps move nutrients and other substances between tissues and organs, and helps repair damaged tissue. Connective tissue is made up of cells, fibers, and a gel-like substance. Types of connective tissue include bone, cartilage, fat, blood, and lymphatic tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704041" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;connective tissue&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704042" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido conjuntivo&quot;" language="es" id="_4"/>
+  <SpanishTermName>tejido conjuntivo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tejido que sostiene, protege y estructura otros tejidos y órganos del cuerpo. El tejido conjuntivo también almacena grasa, ayuda a desplazar nutrientes y otras sustancias entre los tejidos y los órganos, además de reparar daños en los tejidos. El tejido conjuntivo está compuesto por células, fibras y una sustancia gelatinosa. El hueso, el cartílago, la grasa, la sangre y el tejido linfático son tipos de tejido conjuntivo. También se llama tejido conectivo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-04-17</DateLastModified>
+</GlossaryTerm>

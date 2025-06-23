@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044806"><TermName>hepatic veno-occlusive disease</TermName><TermPronunciation>(heh-PA-tik VEE-noh-uh-KLOO-siv dih-ZEEZ)</TermPronunciation><TermDefinition><DefinitionText>A condition in which some of the veins in the liver are blocked. This causes a decrease in blood flow inside the liver and may lead to liver damage. Signs and symptoms include weight gain, yellowing of the skin and whites of the eyes, dark-colored urine, and increased liver size. It may occur at some point in time after radiation therapy to the liver and bile ducts or after high-dose anticancer drugs were given before a stem cell transplant. Also called sinusoidal obstruction syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hepatic veno-occlusive disease&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad veno-oclusiva hepática&quot;" language="es" id="_4"/><SpanishTermName>enfermedad venooclusiva hepática</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que algunas venas del hígado se bloquean. Esto disminuye el flujo de sangre dentro de este órgano y es posible que se produzca daño. Los signos y síntomas son aumento de peso, color amarillento de la piel y la parte blanca del ojo, además  de orina de color oscuro y aumento de tamaño del hígado. Esta enfermedad a veces ocurre después de la radioterapia dirigida al hígado y las vías biliares, o después de recibir dosis altas de los medicamentos contra el cáncer que se administran en preparación para un trasplante de células madre. También se llama enfermedad oclusiva venosa hepática y síndrome de obstrucción sinusoidal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2012-06-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044806">
+  <TermName>hepatic veno-occlusive disease</TermName>
+  <TermPronunciation>(heh-PA-tik VEE-noh-uh-KLOO-siv dih-ZEEZ)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which some of the veins in the liver are blocked. This causes a decrease in blood flow inside the liver and may lead to liver damage. Signs and symptoms include weight gain, yellowing of the skin and whites of the eyes, dark-colored urine, and increased liver size. It may occur at some point in time after radiation therapy to the liver and bile ducts or after high-dose anticancer drugs were given before a stem cell transplant. Also called sinusoidal obstruction syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hepatic veno-occlusive disease&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad veno-oclusiva hepática&quot;" language="es" id="_4"/>
+  <SpanishTermName>enfermedad venooclusiva hepática</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que algunas venas del hígado se bloquean. Esto disminuye el flujo de sangre dentro de este órgano y es posible que se produzca daño. Los signos y síntomas son aumento de peso, color amarillento de la piel y la parte blanca del ojo, además  de orina de color oscuro y aumento de tamaño del hígado. Esta enfermedad a veces ocurre después de la radioterapia dirigida al hígado y las vías biliares, o después de recibir dosis altas de los medicamentos contra el cáncer que se administran en preparación para un trasplante de células madre. También se llama enfermedad oclusiva venosa hepática y síndrome de obstrucción sinusoidal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2012-06-13</DateLastModified>
+</GlossaryTerm>

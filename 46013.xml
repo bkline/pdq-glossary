@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046013"><TermName>Barrett esophagus</TermName><TermPronunciation>(BAYR-et ee-SAH-fuh-gus)</TermPronunciation><TermDefinition><DefinitionText>A condition in which the cells lining the lower part of the esophagus have changed or been replaced with abnormal cells that could lead to cancer of the esophagus. The backing up of stomach contents (reflux) may irritate the esophagus and, over time, cause Barrett esophagus.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707586" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Barrett esophagus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707585" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esófago de Barrett&quot;" language="es" id="_4"/><SpanishTermName>esófago de Barrett</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la cual las células que revisten la parte inferior del esófago cambian o se reemplazan por células anormales que, a veces, causan cáncer de esófago. Es posible que el reflujo (cuando se devuelve el contenido del estómago) produzca irritación en el esófago y, con el tiempo, conduzca al esófago de Barrett. También se llama esofagitis de Barrett y síndrome de Barrett.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-09-21</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062888" url="/types/esophageal/patient/esophageal-prevention-pdq">Esophageal Cancer Prevention</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000757229" url="/espanol/tipos/esofago/paciente/prevencion-esofago-pdq">Prevención del cáncer de esófago</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046013">
+  <TermName>Barrett esophagus</TermName>
+  <TermPronunciation>(BAYR-et ee-SAH-fuh-gus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which the cells lining the lower part of the esophagus have changed or been replaced with abnormal cells that could lead to cancer of the esophagus. The backing up of stomach contents (reflux) may irritate the esophagus and, over time, cause Barrett esophagus.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707586" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Barrett esophagus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707585" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esófago de Barrett&quot;" language="es" id="_4"/>
+  <SpanishTermName>esófago de Barrett</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la cual las células que revisten la parte inferior del esófago cambian o se reemplazan por células anormales que, a veces, causan cáncer de esófago. Es posible que el reflujo (cuando se devuelve el contenido del estómago) produzca irritación en el esófago y, con el tiempo, conduzca al esófago de Barrett. También se llama esofagitis de Barrett y síndrome de Barrett.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-09-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062888" url="/types/esophageal/patient/esophageal-prevention-pdq">Esophageal Cancer Prevention</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000757229" url="/espanol/tipos/esofago/paciente/prevencion-esofago-pdq">Prevención del cáncer de esófago</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

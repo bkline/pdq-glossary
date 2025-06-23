@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000781533"><TermName>benign vascular tumor</TermName><TermPronunciation>(beh-NINE VAS-kyoo-ler TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A type of benign (not cancer) tumor that forms from cells that make blood vessels or lymph vessels. Benign vascular tumors may occur anywhere in the body, and a patient may have several tumors in different parts of the body. They may grow large and sometimes spread to nearby tissue. The most common type of benign vascular tumor is hemangioma, which usually occurs in infants and goes away on its own.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;benign vascular tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor vascular benigno&quot;" language="es" id="_4"/><SpanishTermName>tumor vascular benigno</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tumor benigno (no canceroso) que surge de las células que  forman los vasos sanguíneos o linfáticos. Los tumores vasculares benignos surgen en cualquier parte del cuerpo y es posible que un paciente tenga varios tumores en diferentes partes del cuerpo. A veces, estos tumores crecen mucho y  se diseminan al tejido cercano. El tipo más frecuente de tumor vascular benigno es el hemangioma que, por lo general, se presenta en lactantes y desaparece solo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781533">
+  <TermName>benign vascular tumor</TermName>
+  <TermPronunciation>(beh-NINE VAS-kyoo-ler TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of benign (not cancer) tumor that forms from cells that make blood vessels or lymph vessels. Benign vascular tumors may occur anywhere in the body, and a patient may have several tumors in different parts of the body. They may grow large and sometimes spread to nearby tissue. The most common type of benign vascular tumor is hemangioma, which usually occurs in infants and goes away on its own.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;benign vascular tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor vascular benigno&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor vascular benigno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tumor benigno (no canceroso) que surge de las células que  forman los vasos sanguíneos o linfáticos. Los tumores vasculares benignos surgen en cualquier parte del cuerpo y es posible que un paciente tenga varios tumores en diferentes partes del cuerpo. A veces, estos tumores crecen mucho y  se diseminan al tejido cercano. El tipo más frecuente de tumor vascular benigno es el hemangioma que, por lo general, se presenta en lactantes y desaparece solo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+</GlossaryTerm>

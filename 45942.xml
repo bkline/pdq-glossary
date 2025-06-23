@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045942"><TermName>watchful waiting</TermName><TermPronunciation>(WACH-ful WAY-ting)</TermPronunciation><TermDefinition><DefinitionText>Closely watching a patient’s condition but not giving any treatment unless signs or symptoms appear or change. Watchful waiting may be used when the risks of treatment or repeated tests, such as biopsies, are greater than the possible benefits. During watchful waiting, certain exams and tests may be done periodically to monitor the condition. Watchful waiting is sometimes used in certain types of prostate cancer. It is a type of expectant management.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707490" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;watchful waiting&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707489" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;observación cautelosa&quot;" language="es" id="_7"/><SpanishTermName>observación cautelosa</SpanishTermName><SpanishTermDefinition><DefinitionText>Observación minuciosa de la afección de un paciente sin administrar tratamiento, a menos que aparezcan signos o síntomas o que estos cambien. Es posible usar la observación cautelosa cuando los riesgos del tratamiento o de repetir exámenes, como biopsias, superan los posibles beneficios. Durante la observación cautelosa, se hacen con regularidad ciertas pruebas y exámenes para controlar la afección. La observación cautelosa es un tipo de conducta expectante que a veces se utiliza para ciertos tipos de cáncer de próstata. También se llama espera vigilante y observación de los síntomas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-12-20</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045942">
+  <TermName>watchful waiting</TermName>
+  <TermPronunciation>(WACH-ful WAY-ting)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Closely watching a patient’s condition but not giving any treatment unless signs or symptoms appear or change. Watchful waiting may be used when the risks of treatment or repeated tests, such as biopsies, are greater than the possible benefits. During watchful waiting, certain exams and tests may be done periodically to monitor the condition. Watchful waiting is sometimes used in certain types of prostate cancer. It is a type of expectant management.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707490" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;watchful waiting&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707489" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;observación cautelosa&quot;" language="es" id="_7"/>
+  <SpanishTermName>observación cautelosa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Observación minuciosa de la afección de un paciente sin administrar tratamiento, a menos que aparezcan signos o síntomas o que estos cambien. Es posible usar la observación cautelosa cuando los riesgos del tratamiento o de repetir exámenes, como biopsias, superan los posibles beneficios. Durante la observación cautelosa, se hacen con regularidad ciertas pruebas y exámenes para controlar la afección. La observación cautelosa es un tipo de conducta expectante que a veces se utiliza para ciertos tipos de cáncer de próstata. También se llama espera vigilante y observación de los síntomas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-12-20</DateLastModified>
+</GlossaryTerm>

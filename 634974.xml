@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000634974"><TermName>pulmonary specialist</TermName><TermPronunciation>(PUL-muh-NAYR-ee SPEH-shuh-list)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in diagnosing and treating diseases of the lungs. Also called pulmonologist.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pulmonary specialist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pulmonólogo&quot;" language="es" id="_4"/><SpanishTermName>pulmonólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de enfermedades de los pulmones. También se llama especialista en pulmonología y neumólogo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-02-12</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000634974">
+  <TermName>pulmonary specialist</TermName>
+  <TermPronunciation>(PUL-muh-NAYR-ee SPEH-shuh-list)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in diagnosing and treating diseases of the lungs. Also called pulmonologist.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pulmonary specialist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pulmonólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>pulmonólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de enfermedades de los pulmones. También se llama especialista en pulmonología y neumólogo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-02-12</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

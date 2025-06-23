@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000800543"><TermName>pain expression</TermName><TermPronunciation>(payn ek-SPREH-shun)</TermPronunciation><TermDefinition><DefinitionText>Refers to the way in which a person shows that he or she is in pain. People can express pain verbally or through changes in behavior, such as crying, moaning, groaning, facial grimacing, restlessness, agitation, or depression. Other examples of pain expression include trouble moving around (such as limping), guarding an area of pain on the body, flinching when touched, and trouble sleeping or eating. People may express pain in different ways depending on many external factors, including their family, social interactions, and culture.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802606" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pain expression&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802607" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;expresión del dolor&quot;" language="es" id="_4"/><SpanishTermName>expresión del dolor</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma en que una persona manifiesta el dolor. Las personas expresan el dolor en forma verbal y mediante cambios en su comportamiento (lloran, se lamentan, gimen, hacen muecas, se muestran intranquilos, inquietos o deprimidos). Otras formas de expresar el dolor son las dificultades para moverse (como cojear), la protección del área dolorosa,  el estremecimiento cuando se lo toca, y los problemas para dormir y alimentarse. Las personas expresan el dolor de diferentes maneras en función de muchos factores externos, incluso su familia, las interacciones sociales y la cultura.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-05</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/pain">Pain in People with Cancer</RelatedExternalRef><RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/dolor">Dolor</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800543">
+  <TermName>pain expression</TermName>
+  <TermPronunciation>(payn ek-SPREH-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Refers to the way in which a person shows that he or she is in pain. People can express pain verbally or through changes in behavior, such as crying, moaning, groaning, facial grimacing, restlessness, agitation, or depression. Other examples of pain expression include trouble moving around (such as limping), guarding an area of pain on the body, flinching when touched, and trouble sleeping or eating. People may express pain in different ways depending on many external factors, including their family, social interactions, and culture.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802606" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pain expression&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802607" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;expresión del dolor&quot;" language="es" id="_4"/>
+  <SpanishTermName>expresión del dolor</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma en que una persona manifiesta el dolor. Las personas expresan el dolor en forma verbal y mediante cambios en su comportamiento (lloran, se lamentan, gimen, hacen muecas, se muestran intranquilos, inquietos o deprimidos). Otras formas de expresar el dolor son las dificultades para moverse (como cojear), la protección del área dolorosa,  el estremecimiento cuando se lo toca, y los problemas para dormir y alimentarse. Las personas expresan el dolor de diferentes maneras en función de muchos factores externos, incluso su familia, las interacciones sociales y la cultura.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-05</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/pain">Pain in People with Cancer</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/dolor">Dolor</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

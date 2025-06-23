@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000798458"><TermName>Polivy</TermName><TermPronunciation>(poh-LIH-vee)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs  to treat adults with certain types of diffuse large B-cell lymphoma.  It is also being studied in the treatment of other types of cancer. Polivy contains a monoclonal antibody that binds to a protein called CD79B, which is found on B cells (a type of white blood cell) and some lymphoma cells. It also contains an anticancer drug, which may help kill cancer cells. Polivy is a type of antibody-drug conjugate. Also called polatuzumab vedotin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798901" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Polivy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798900" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Polivy&quot;" language="es" id="_4"/><SpanishTermName>Polivy</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento de adultos que presentan ciertos tipos de linfoma difuso de células B  grandes. También  está en estudio para el tratamiento de otros tipos de cáncer.  Polivy contiene un anticuerpo monoclonal que se une a una proteína llamada CD79B, que se encuentra en las células B (un tipo de glóbulo blanco) y en algunas células de linfoma. También contiene un fármaco contra el cáncer que quizás ayude a destruir células cancerosas. Polivy es un tipo de conjugado anticuerpo-fármaco. También se llama polatuzumab vedotina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-06-25</DateFirstPublished><DateLastModified>2023-04-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000798438" url="/about-cancer/treatment/drugs/polatuzumabvedotin-piiq">Polatuzumab Vedotin-piiq</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798458">
+  <TermName>Polivy</TermName>
+  <TermPronunciation>(poh-LIH-vee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with other drugs  to treat adults with certain types of diffuse large B-cell lymphoma.  It is also being studied in the treatment of other types of cancer. Polivy contains a monoclonal antibody that binds to a protein called CD79B, which is found on B cells (a type of white blood cell) and some lymphoma cells. It also contains an anticancer drug, which may help kill cancer cells. Polivy is a type of antibody-drug conjugate. Also called polatuzumab vedotin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798901" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Polivy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798900" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Polivy&quot;" language="es" id="_4"/>
+  <SpanishTermName>Polivy</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento de adultos que presentan ciertos tipos de linfoma difuso de células B  grandes. También  está en estudio para el tratamiento de otros tipos de cáncer.  Polivy contiene un anticuerpo monoclonal que se une a una proteína llamada CD79B, que se encuentra en las células B (un tipo de glóbulo blanco) y en algunas células de linfoma. También contiene un fármaco contra el cáncer que quizás ayude a destruir células cancerosas. Polivy es un tipo de conjugado anticuerpo-fármaco. También se llama polatuzumab vedotina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-06-25</DateFirstPublished>
+  <DateLastModified>2023-04-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000798438" url="/about-cancer/treatment/drugs/polatuzumabvedotin-piiq">Polatuzumab Vedotin-piiq</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

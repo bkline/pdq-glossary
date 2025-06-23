@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044278"><TermName>disseminate</TermName><TermPronunciation>(dih-SEH-mih-NAYT)</TermPronunciation><TermDefinition><DefinitionText>In medicine, disseminate means to scatter or spread widely throughout the body’s tissues or organs. For example, cancer cells can break away from the original (primary) tumor, travel through the blood or lymph system, and disseminate to other organs or tissues in the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704403" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disseminate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704402" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diseminar&quot;" language="es" id="_4"/><SpanishTermName>diseminar</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la medicina, que algo se disemine significa que se esparce o se distribuye de forma amplia por los tejidos u órganos del cuerpo. Por ejemplo, las células cancerosas en ocasiones se desprenden del tumor original (primario) y se diseminan a otros órganos o tejidos del cuerpo a través de la sangre o el sistema linfático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-02-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044278">
+  <TermName>disseminate</TermName>
+  <TermPronunciation>(dih-SEH-mih-NAYT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, disseminate means to scatter or spread widely throughout the body’s tissues or organs. For example, cancer cells can break away from the original (primary) tumor, travel through the blood or lymph system, and disseminate to other organs or tissues in the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704403" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disseminate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704402" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diseminar&quot;" language="es" id="_4"/>
+  <SpanishTermName>diseminar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la medicina, que algo se disemine significa que se esparce o se distribuye de forma amplia por los tejidos u órganos del cuerpo. Por ejemplo, las células cancerosas en ocasiones se desprenden del tumor original (primario) y se diseminan a otros órganos o tejidos del cuerpo a través de la sangre o el sistema linfático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-02-24</DateLastModified>
+</GlossaryTerm>

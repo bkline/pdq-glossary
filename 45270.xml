@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045270"><TermName>estrogen receptor positive</TermName><TermPronunciation>(ES-truh-jin reh-SEP-ter PAH-zih-tiv)</TermPronunciation><TermDefinition><DefinitionText>Describes cells that have a protein that binds to the hormone estrogen. Cancer cells that are estrogen receptor positive may need estrogen to grow. These cells may stop growing or die when treated with substances that block the binding  and actions of estrogen.  Also called ER positive.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705236" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estrogen receptor positive&quot;" language="en" id="_4"/><MediaLink ref="CDR0000705237" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para el receptor de estrógeno&quot;" language="es" id="_5"/><SpanishTermName>positiva para el receptor de estrógeno</SpanishTermName><SpanishTermDefinition><DefinitionText>Característica de una célula que tiene una proteína que se une a la hormona estrógeno. Las células cancerosas positivas para el receptor de estrógeno a veces necesitan estrógeno para multiplicarse, de manera que es posible que dejen de multiplicarse o se destruyan cuando se tratan con sustancias que bloquean la unión del estrógeno y la acción de esta hormona. También se llama positiva para ER.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-11-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045270">
+  <TermName>estrogen receptor positive</TermName>
+  <TermPronunciation>(ES-truh-jin reh-SEP-ter PAH-zih-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes cells that have a protein that binds to the hormone estrogen. Cancer cells that are estrogen receptor positive may need estrogen to grow. These cells may stop growing or die when treated with substances that block the binding  and actions of estrogen.  Also called ER positive.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705236" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estrogen receptor positive&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000705237" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para el receptor de estrógeno&quot;" language="es" id="_5"/>
+  <SpanishTermName>positiva para el receptor de estrógeno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Característica de una célula que tiene una proteína que se une a la hormona estrógeno. Las células cancerosas positivas para el receptor de estrógeno a veces necesitan estrógeno para multiplicarse, de manera que es posible que dejen de multiplicarse o se destruyan cuando se tratan con sustancias que bloquean la unión del estrógeno y la acción de esta hormona. También se llama positiva para ER.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-11-19</DateLastModified>
+</GlossaryTerm>

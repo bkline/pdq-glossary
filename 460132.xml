@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000460132"><TermName>carrier</TermName><TermPronunciation>(KAYR-ee-er)</TermPronunciation><TermDefinition><DefinitionText>In classical genetics, an individual who carries one deleterious allele for an autosomal recessive disorder. In clinical discussions, may refer to an individual who carries a deleterious allele that predisposes to disease.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>In genetics, a person who has one copy of a mutated (changed) disease-causing gene but has no symptoms or mild symptoms. Carriers can pass on the mutated gene to a biological child. If a child inherits one mutated copy of a gene from each parent, they will usually show symptoms of the disease or condition.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736933" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carrier&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804205" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;portador&quot;" language="es" id="_4"/><SpanishTermName>portador</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la genética clásica se refiere a una persona que tiene un alelo deletéreo propio de un trastorno autosómico recesivo. En análisis de casos clínicos, a veces se refiere a una persona que porta un alelo deletéreo que predispone a una enfermedad.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>En el campo de la genética, persona que tiene una copia de un gen mutado (cambiado) que causa una enfermedad, pero que no presenta síntomas, ni siquiera leves. Es posible que un portador pase el gen mutado a sus hijos biológicos. Si un niño hereda de cada padre una copia del gen mutado, por lo general, presenta síntomas de la enfermedad o afección.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=23">Carrier (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Portador">Portador (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460132">
+  <TermName>carrier</TermName>
+  <TermPronunciation>(KAYR-ee-er)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In classical genetics, an individual who carries one deleterious allele for an autosomal recessive disorder. In clinical discussions, may refer to an individual who carries a deleterious allele that predisposes to disease.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>In genetics, a person who has one copy of a mutated (changed) disease-causing gene but has no symptoms or mild symptoms. Carriers can pass on the mutated gene to a biological child. If a child inherits one mutated copy of a gene from each parent, they will usually show symptoms of the disease or condition.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736933" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carrier&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804205" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;portador&quot;" language="es" id="_4"/>
+  <SpanishTermName>portador</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la genética clásica se refiere a una persona que tiene un alelo deletéreo propio de un trastorno autosómico recesivo. En análisis de casos clínicos, a veces se refiere a una persona que porta un alelo deletéreo que predispone a una enfermedad.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la genética, persona que tiene una copia de un gen mutado (cambiado) que causa una enfermedad, pero que no presenta síntomas, ni siquiera leves. Es posible que un portador pase el gen mutado a sus hijos biológicos. Si un niño hereda de cada padre una copia del gen mutado, por lo general, presenta síntomas de la enfermedad o afección.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=23">Carrier (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Portador">Portador (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

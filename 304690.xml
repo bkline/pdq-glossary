@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000304690"><TermName>cerebellar hemangioblastoma</TermName><TermPronunciation>(SAYR-eh-BEH-ler hee-MAN-jee-oh-blas-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A benign, slow-growing tumor in the cerebellum (part of the brain at the back of the head), made up of abnormal blood vessel growth. People with von Hippel-Landau disease have an increased risk of developing hemangioblastomas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710143" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cerebellar hemangioblastoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710144" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemangioblastoma cerebeloso&quot;" language="es" id="_4"/><SpanishTermName>hemangioblastoma cerebeloso</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor benigno de crecimiento lento en el cerebelo (porción del encéfalo ubicada en la parte posterior de la cabeza) que se origina por un crecimiento anormal de los vasos sanguíneos. Las personas con la enfermedad de Von Hippel-Landau tienen un mayor riesgo de padecer hemangioblastomas. También se llama hemangioblastoma de cerebelo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><DateLastModified>2007-03-20</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304690">
+  <TermName>cerebellar hemangioblastoma</TermName>
+  <TermPronunciation>(SAYR-eh-BEH-ler hee-MAN-jee-oh-blas-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A benign, slow-growing tumor in the cerebellum (part of the brain at the back of the head), made up of abnormal blood vessel growth. People with von Hippel-Landau disease have an increased risk of developing hemangioblastomas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710143" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cerebellar hemangioblastoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710144" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemangioblastoma cerebeloso&quot;" language="es" id="_4"/>
+  <SpanishTermName>hemangioblastoma cerebeloso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor benigno de crecimiento lento en el cerebelo (porción del encéfalo ubicada en la parte posterior de la cabeza) que se origina por un crecimiento anormal de los vasos sanguíneos. Las personas con la enfermedad de Von Hippel-Landau tienen un mayor riesgo de padecer hemangioblastomas. También se llama hemangioblastoma de cerebelo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <DateLastModified>2007-03-20</DateLastModified>
+</GlossaryTerm>

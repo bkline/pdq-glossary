@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000044581"><TermName>bacillus Calmette-Guérin</TermName><TermPronunciation>(buh-SIH-lus KAL-met-gay-RIN)</TermPronunciation><TermDefinition><DefinitionText>A weakened form of the bacterium <ScientificName>Mycobacterium bovis</ScientificName> (bacillus Calmette-Guérin) that does not cause disease. Bacillus Calmette-Guérin is used in a solution to stimulate the immune system in the treatment of bladder cancer and as a vaccine to prevent tuberculosis. Also called BCG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000703919" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bacillus Calmette-Guérin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000703920" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bacilo de Calmette-Guérin&quot;" language="es" id="_4"/><SpanishTermName>bacilo de Calmette-Guérin</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma atenuada de la bacteria <ScientificName>Mycobacterium bovis</ScientificName> (bacilo de Calmette-Guérin) que no causa enfermedad. El    bacilo de Calmette-Guérin se usa en una solución para  estimular al sistema inmunitario durante el tratamiento del cáncer de vejiga y como vacuna para prevenir la tuberculosis. También se llama bacilo de Calmette y Guérin y BCG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-11-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044581">
+  <TermName>bacillus Calmette-Guérin</TermName>
+  <TermPronunciation>(buh-SIH-lus KAL-met-gay-RIN)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A weakened form of the bacterium 
+      <ScientificName>Mycobacterium bovis</ScientificName>
+       (bacillus Calmette-Guérin) that does not cause disease. Bacillus Calmette-Guérin is used in a solution to stimulate the immune system in the treatment of bladder cancer and as a vaccine to prevent tuberculosis. Also called BCG.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000703919" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bacillus Calmette-Guérin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000703920" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bacilo de Calmette-Guérin&quot;" language="es" id="_4"/>
+  <SpanishTermName>bacilo de Calmette-Guérin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Forma atenuada de la bacteria 
+      <ScientificName>Mycobacterium bovis</ScientificName>
+       (bacilo de Calmette-Guérin) que no causa enfermedad. El    bacilo de Calmette-Guérin se usa en una solución para  estimular al sistema inmunitario durante el tratamiento del cáncer de vejiga y como vacuna para prevenir la tuberculosis. También se llama bacilo de Calmette y Guérin y BCG.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-11-30</DateLastModified>
+</GlossaryTerm>

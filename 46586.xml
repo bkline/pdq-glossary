@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046586"><TermName>somatic mutation</TermName><TermPronunciation>(soh-MA-tik myoo-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>In the context of cancer genetics, somatic mutation refers to a mutation in DNA that occurs before or during tumor development. This type of mutation is not present within the germline (sperm and egg). Also called somatic variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>An alteration in DNA that occurs after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These alterations can (but do not always) cause cancer or other diseases. Also called somatic variant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;somatic mutation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708983" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación somática&quot;" language="es" id="_4"/><SpanishTermName>mutación somática</SpanishTermName><SpanishTermDefinition><DefinitionText>En el entorno de la genética del cáncer, una mutación somática es aquella mutación que se produce en el ADN antes de o durante la formación del tumor. Este tipo de mutación no está presente en la línea germinal (espermatozoides y óvulos). También se llama variante somática.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Alteración del ADN que ocurre después de la concepción. Las mutaciones somáticas se pueden presentar en cualquiera de las células del cuerpo, excepto en las células germinativas (espermatozoides y óvulos), y, por lo tanto, no pasan a los hijos o hijas. En ocasiones, estas alteraciones causan cáncer u otras enfermedades. También se llama variante somática.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-10-10</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046586">
+  <TermName>somatic mutation</TermName>
+  <TermPronunciation>(soh-MA-tik myoo-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In the context of cancer genetics, somatic mutation refers to a mutation in DNA that occurs before or during tumor development. This type of mutation is not present within the germline (sperm and egg). Also called somatic variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>An alteration in DNA that occurs after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These alterations can (but do not always) cause cancer or other diseases. Also called somatic variant.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;somatic mutation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708983" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación somática&quot;" language="es" id="_4"/>
+  <SpanishTermName>mutación somática</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el entorno de la genética del cáncer, una mutación somática es aquella mutación que se produce en el ADN antes de o durante la formación del tumor. Este tipo de mutación no está presente en la línea germinal (espermatozoides y óvulos). También se llama variante somática.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración del ADN que ocurre después de la concepción. Las mutaciones somáticas se pueden presentar en cualquiera de las células del cuerpo, excepto en las células germinativas (espermatozoides y óvulos), y, por lo tanto, no pasan a los hijos o hijas. En ocasiones, estas alteraciones causan cáncer u otras enfermedades. También se llama variante somática.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-10-10</DateLastModified>
+</GlossaryTerm>

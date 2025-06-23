@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046009"><TermName>stage III adrenocortical cancer</TermName><TermPronunciation>(... uh-DREE-noh-KOR-tih-kul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor  is any size and has spread to (1) nearby lymph nodes; or (2) nearby tissues, organs (kidney, diaphragm, pancreas, spleen, or liver), or large blood vessels (renal vein or vena cava) and may have spread to nearby lymph nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707578" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III adrenocortical cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707577" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de corteza suprarrenal en estadio III&quot;" language="es" id="_4"/><SpanishTermName>cáncer de corteza suprarrenal en estadio III</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor es de cualquier tamaño y se diseminó a: 1) ganglios linfáticos cercanos; o 2) tejidos u órganos cercanos (riñón, diafragma, páncreas, bazo o hígado), o vasos sanguíneos grandes (vena renal o vena cava), y es posible que se haya diseminado a los ganglios linfáticos cercanos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-01-05</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000269044" url="/types/adrenocortical/patient/adrenocortical-treatment-pdq">Adrenocortical Carcinoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000559804" url="/espanol/tipos/suprarrenal/paciente/tratamiento-corteza-suprarrenal-pdq">Tratamiento del carcinoma de corteza suprarrenal</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046009">
+  <TermName>stage III adrenocortical cancer</TermName>
+  <TermPronunciation>(... uh-DREE-noh-KOR-tih-kul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor  is any size and has spread to (1) nearby lymph nodes; or (2) nearby tissues, organs (kidney, diaphragm, pancreas, spleen, or liver), or large blood vessels (renal vein or vena cava) and may have spread to nearby lymph nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707578" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III adrenocortical cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707577" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de corteza suprarrenal en estadio III&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de corteza suprarrenal en estadio III</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor es de cualquier tamaño y se diseminó a: 1) ganglios linfáticos cercanos; o 2) tejidos u órganos cercanos (riñón, diafragma, páncreas, bazo o hígado), o vasos sanguíneos grandes (vena renal o vena cava), y es posible que se haya diseminado a los ganglios linfáticos cercanos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-01-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000269044" url="/types/adrenocortical/patient/adrenocortical-treatment-pdq">Adrenocortical Carcinoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000559804" url="/espanol/tipos/suprarrenal/paciente/tratamiento-corteza-suprarrenal-pdq">Tratamiento del carcinoma de corteza suprarrenal</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000791173"><TermName>gestational carrier</TermName><TermPronunciation>(jeh-STAY-shuh-nul KAYR-ee-er)</TermPronunciation><TermDefinition><DefinitionText>A woman who carries and gives birth to a baby for a person who is not able to have children. Eggs from an egg donor are fertilized in the laboratory with sperm from a sperm donor to make an embryo. The embryo is implanted in the uterus of the gestational carrier, who carries the baby until birth. The gestational carrier is not genetically related to the baby and is not the biological mother. Also called gestational surrogate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792176" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gestational carrier&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792177" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;portadora gestacional&quot;" language="es" id="_4"/><SpanishTermName>portadora gestacional</SpanishTermName><SpanishTermDefinition><DefinitionText>Mujer que lleva en su vientre un bebé, en lugar de una persona que no puede tener hijos, hasta dar a luz. Los óvulos de una donante se fecundan en el laboratorio con los espermatozoides de un donante para formar un embrión. El embrión se implanta en el útero de la portadora gestacional, quien continúa el embarazo hasta que nace el bebé. La portadora gestacional no tiene un vínculo genético con el bebé y no es su madre biológica. También se llama gestante subrogada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-12-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791173">
+  <TermName>gestational carrier</TermName>
+  <TermPronunciation>(jeh-STAY-shuh-nul KAYR-ee-er)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A woman who carries and gives birth to a baby for a person who is not able to have children. Eggs from an egg donor are fertilized in the laboratory with sperm from a sperm donor to make an embryo. The embryo is implanted in the uterus of the gestational carrier, who carries the baby until birth. The gestational carrier is not genetically related to the baby and is not the biological mother. Also called gestational surrogate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792176" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gestational carrier&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792177" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;portadora gestacional&quot;" language="es" id="_4"/>
+  <SpanishTermName>portadora gestacional</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Mujer que lleva en su vientre un bebé, en lugar de una persona que no puede tener hijos, hasta dar a luz. Los óvulos de una donante se fecundan en el laboratorio con los espermatozoides de un donante para formar un embrión. El embrión se implanta en el útero de la portadora gestacional, quien continúa el embarazo hasta que nace el bebé. La portadora gestacional no tiene un vínculo genético con el bebé y no es su madre biológica. También se llama gestante subrogada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-12-18</DateFirstPublished>
+</GlossaryTerm>

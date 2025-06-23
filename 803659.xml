@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000803659"><TermName>Soltamox</TermName><TermPronunciation>(SOL-tah-mox)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of breast cancer in women and men, to prevent invasive breast cancer in women who have had ductal carcinoma in situ (abnormal cells in the ducts of the breast), and to prevent breast cancer in women who are at a high risk of developing the disease. It is also being studied in the treatment of other types of cancer. Soltamox blocks the effects of the hormone estrogen in breast tissue, which may help keep breast cancer cells from growing. It is a type of selective estrogen receptor modulator (SERM).  Also called tamoxifen citrate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805335" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Soltamox&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805336" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Soltamox&quot;" language="es" id="_4"/><SpanishTermName>Soltamox</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de mama en mujeres y hombres. También se usa para prevenir el cáncer de mama invasivo en mujeres que tuvieron un carcinoma ductal <Emphasis>in situ</Emphasis> (células anormales en los conductos de la mama) y para prevenir el cáncer de mama en mujeres con riesgo alto de presentar esta enfermedad.  Además, está en estudio para el tratamiento de otros tipos de cáncer. Soltamox bloquea los efectos de la hormona estrógeno en el tejido de la mama, y es posible que esto evite la multiplicación de las células cancerosas de la mama. Es un tipo de modulador selectivo del receptor de estrógeno (MSRE).  También se llama citrato de tamoxifeno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-12-17</DateFirstPublished><DateLastModified>2020-12-17</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000502250" url="/about-cancer/treatment/drugs/tamoxifencitrate">Tamoxifen Citrate</RelatedDrugSummaryRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/breast-hormone-therapy-fact-sheet">Hormone Therapy for Breast Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-terapia-hormonal-seno">Terapia hormonal para el cáncer de seno</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803659">
+  <TermName>Soltamox</TermName>
+  <TermPronunciation>(SOL-tah-mox)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of breast cancer in women and men, to prevent invasive breast cancer in women who have had ductal carcinoma in situ (abnormal cells in the ducts of the breast), and to prevent breast cancer in women who are at a high risk of developing the disease. It is also being studied in the treatment of other types of cancer. Soltamox blocks the effects of the hormone estrogen in breast tissue, which may help keep breast cancer cells from growing. It is a type of selective estrogen receptor modulator (SERM).  Also called tamoxifen citrate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805335" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Soltamox&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805336" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Soltamox&quot;" language="es" id="_4"/>
+  <SpanishTermName>Soltamox</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de mama en mujeres y hombres. También se usa para prevenir el cáncer de mama invasivo en mujeres que tuvieron un carcinoma ductal 
+      <Emphasis>in situ</Emphasis>
+       (células anormales en los conductos de la mama) y para prevenir el cáncer de mama en mujeres con riesgo alto de presentar esta enfermedad.  Además, está en estudio para el tratamiento de otros tipos de cáncer. Soltamox bloquea los efectos de la hormona estrógeno en el tejido de la mama, y es posible que esto evite la multiplicación de las células cancerosas de la mama. Es un tipo de modulador selectivo del receptor de estrógeno (MSRE).  También se llama citrato de tamoxifeno.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-12-17</DateFirstPublished>
+  <DateLastModified>2020-12-17</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000502250" url="/about-cancer/treatment/drugs/tamoxifencitrate">Tamoxifen Citrate</RelatedDrugSummaryRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/breast-hormone-therapy-fact-sheet">Hormone Therapy for Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-terapia-hormonal-seno">Terapia hormonal para el cáncer de seno</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

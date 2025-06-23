@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000443576"><TermName>immature teratoma</TermName><TermPronunciation>(IH-muh-CHOOR TAYR-uh-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of germ cell tumor that is often made up of several different types of tissue, such as hair, muscle, and bone. Immature teratomas have cells that look very different from normal cells under a microscope. They are usually malignant (cancer) and may spread to other parts of the body. Some immature teratomas make enzymes or hormones that may cause signs and symptoms of disease. Immature teratomas usually occur in the sacrum or tailbone in newborns or in the ovaries of girls at the start of puberty.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714676" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immature teratoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714677" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;teratoma inmaduro&quot;" language="es" id="_4"/><SpanishTermName>teratoma inmaduro</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tumor de células germinativas que suele estar compuesto de muchos tipos diferentes de tejido, como pelo, músculo y hueso. Los teratomas inmaduros tienen células con un aspecto muy diferente al de las células normales cuando se observan al microscopio. Por lo general, son malignos (cáncer) y es posible que se diseminen a otras partes del cuerpo. Algunos teratomas inmaduros elaboran enzimas  u hormonas que a veces causan signos y síntomas de enfermedad. Los teratomas inmaduros con frecuencia surgen en el sacro o en el hueso coccígeo de recién nacidos, o aparecen en los ovarios de niñas al comienzo de la pubertad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-14</DateFirstPublished><DateLastModified>2018-02-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000443576">
+  <TermName>immature teratoma</TermName>
+  <TermPronunciation>(IH-muh-CHOOR TAYR-uh-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of germ cell tumor that is often made up of several different types of tissue, such as hair, muscle, and bone. Immature teratomas have cells that look very different from normal cells under a microscope. They are usually malignant (cancer) and may spread to other parts of the body. Some immature teratomas make enzymes or hormones that may cause signs and symptoms of disease. Immature teratomas usually occur in the sacrum or tailbone in newborns or in the ovaries of girls at the start of puberty.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714676" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immature teratoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714677" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;teratoma inmaduro&quot;" language="es" id="_4"/>
+  <SpanishTermName>teratoma inmaduro</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tumor de células germinativas que suele estar compuesto de muchos tipos diferentes de tejido, como pelo, músculo y hueso. Los teratomas inmaduros tienen células con un aspecto muy diferente al de las células normales cuando se observan al microscopio. Por lo general, son malignos (cáncer) y es posible que se diseminen a otras partes del cuerpo. Algunos teratomas inmaduros elaboran enzimas  u hormonas que a veces causan signos y síntomas de enfermedad. Los teratomas inmaduros con frecuencia surgen en el sacro o en el hueso coccígeo de recién nacidos, o aparecen en los ovarios de niñas al comienzo de la pubertad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-14</DateFirstPublished>
+  <DateLastModified>2018-02-13</DateLastModified>
+</GlossaryTerm>

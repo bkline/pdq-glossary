@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000386525"><TermName>sideropenic dysphagia</TermName><TermPronunciation>(SIH-der-oh-PEE-nik dis-FAY-jee-uh)</TermPronunciation><TermDefinition><DefinitionText>A disorder marked by anemia caused by iron deficiency, and a web-like growth of membranes in the throat that makes swallowing difficult. Having sideropenic dysphagia may increase the risk of developing esophageal cancer. Also called Paterson-Kelly syndrome and Plummer-Vinson syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731794" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sideropenic dysphagia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731795" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disfagia sideropénica&quot;" language="es" id="_4"/><SpanishTermName>disfagia sideropénica</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno que se caracteriza por anemia a causa de la falta de hierro y el crecimiento de una red de membranas en la garganta que hace que sea difícil tragar. Es posible que la disfagia sideropénica aumente el riesgo de presentar cáncer de esófago. También se llama síndrome de Paterson-Kelly y síndrome de Plummer-Vinson.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-08-24</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8259/paterson-kelly-syndrome">Plummer Vinson syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/ency/article/001158.htm">Plummer-Vinson syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001158.htm">Síndrome de Plummer-Vinson (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000386525">
+  <TermName>sideropenic dysphagia</TermName>
+  <TermPronunciation>(SIH-der-oh-PEE-nik dis-FAY-jee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A disorder marked by anemia caused by iron deficiency, and a web-like growth of membranes in the throat that makes swallowing difficult. Having sideropenic dysphagia may increase the risk of developing esophageal cancer. Also called Paterson-Kelly syndrome and Plummer-Vinson syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731794" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sideropenic dysphagia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731795" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disfagia sideropénica&quot;" language="es" id="_4"/>
+  <SpanishTermName>disfagia sideropénica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno que se caracteriza por anemia a causa de la falta de hierro y el crecimiento de una red de membranas en la garganta que hace que sea difícil tragar. Es posible que la disfagia sideropénica aumente el riesgo de presentar cáncer de esófago. También se llama síndrome de Paterson-Kelly y síndrome de Plummer-Vinson.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-08-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8259/paterson-kelly-syndrome">Plummer Vinson syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/ency/article/001158.htm">Plummer-Vinson syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001158.htm">Síndrome de Plummer-Vinson (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

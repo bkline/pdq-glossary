@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803670"><TermName>pediatric intensivist</TermName><TermPronunciation>(pee-dee-A-trik in-TEN-sih-vist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in diagnosing and treating children who are seriously ill or injured. Pediatric intensivists use special procedures, treatments, and medicines to care for children who are usually in a pediatric intensive care unit of a hospital. Pediatric intensivists coordinate the overall care of these children, including treatment given by other specialists.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805343" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric intensivist&quot;" language="en" id="_5"/><MediaLink ref="CDR0000805344" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intensivista pediátrico&quot;" language="es" id="_6"/><SpanishTermName>intensivista pediátrico</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de traumatismos o enfermedades graves en la niñez. Las personas que se dedican a esta especialidad utilizan procedimientos especiales, tratamientos y medicamentos para la atención de menores de edad que suelen hospitalizarse en una unidad de cuidados intensivos pediátricos. Además, coordinan la atención general de estos pacientes, incluso el tratamiento administrado por otros especialistas. También se llama especialista en medicina intensiva pediátrica, médico intensivista pediatra y pediatra intensivista.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803670">
+  <TermName>pediatric intensivist</TermName>
+  <TermPronunciation>(pee-dee-A-trik in-TEN-sih-vist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in diagnosing and treating children who are seriously ill or injured. Pediatric intensivists use special procedures, treatments, and medicines to care for children who are usually in a pediatric intensive care unit of a hospital. Pediatric intensivists coordinate the overall care of these children, including treatment given by other specialists.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805343" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric intensivist&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000805344" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intensivista pediátrico&quot;" language="es" id="_6"/>
+  <SpanishTermName>intensivista pediátrico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de traumatismos o enfermedades graves en la niñez. Las personas que se dedican a esta especialidad utilizan procedimientos especiales, tratamientos y medicamentos para la atención de menores de edad que suelen hospitalizarse en una unidad de cuidados intensivos pediátricos. Además, coordinan la atención general de estos pacientes, incluso el tratamiento administrado por otros especialistas. También se llama especialista en medicina intensiva pediátrica, médico intensivista pediatra y pediatra intensivista.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-23</DateFirstPublished>
+</GlossaryTerm>

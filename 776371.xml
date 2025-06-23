@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000776371"><TermName>endemic</TermName><TermPronunciation>(en-DEH-mik)</TermPronunciation><TermDefinition><DefinitionText>In medicine, describes a disease that is constantly present in a certain geographic area or in a certain group of people. For example, endemic Burkitt lymphoma (a type of non-Hodgkin lymphoma) is seen at constant levels in certain parts of Africa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000780322" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endemic&quot;" language="en" id="_3"/><MediaLink ref="CDR0000780321" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endémica&quot;" language="es" id="_4"/><SpanishTermName>endémica</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, describe una enfermedad que está constantemente presente en cierta región geográfica o en cierto grupo de personas. Por ejemplo, el linfoma de Burkitt endémico (un tipo de linfoma no Hodgkin) se observa en niveles constantes en ciertas partes de África.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-02-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776371">
+  <TermName>endemic</TermName>
+  <TermPronunciation>(en-DEH-mik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, describes a disease that is constantly present in a certain geographic area or in a certain group of people. For example, endemic Burkitt lymphoma (a type of non-Hodgkin lymphoma) is seen at constant levels in certain parts of Africa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000780322" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endemic&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000780321" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endémica&quot;" language="es" id="_4"/>
+  <SpanishTermName>endémica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, describe una enfermedad que está constantemente presente en cierta región geográfica o en cierto grupo de personas. Por ejemplo, el linfoma de Burkitt endémico (un tipo de linfoma no Hodgkin) se observa en niveles constantes en ciertas partes de África.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-02-17</DateFirstPublished>
+</GlossaryTerm>

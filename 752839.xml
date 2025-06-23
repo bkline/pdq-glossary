@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000752839"><TermName>ASC-H</TermName><TermDefinition><DefinitionText>A finding of abnormal cells in a Pap test. It means there are abnormal squamous cells in the tissue that lines the outer part of the cervix. ASC-H may be a sign of a high-grade squamous intraepithelial lesion (HSIL), which may become cervical cancer if untreated. More testing may be needed. Also called atypical squamous cells, cannot exclude a high-grade lesion.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ASC-H</SpanishTermName><SpanishTermDefinition><DefinitionText>Hallazgo de células anormales en una prueba de Pap. Esto significa que hay células escamosas anormales en el tejido que reviste la parte exterior del cuello uterino. Es posible que  el hallazgo de ASC-H sea un signo de una lesión  escamosa intraepitelial de alto grado (HSIL), que si no se trata se puede convertir en cáncer de cuello uterino. Cuando se  obtiene este resultado por lo general es necesario hacer más pruebas. También se llama células escamosas atípicas, no se puede descartar lesión intraepitelial escamosa de alto grado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-11-05</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000810192" url="/types/cervical/screening/abnormal-hpv-pap-test-results">HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000810505" url="/espanol/tipos/cuello-uterino/deteccion/resultados-anormales-pruebas-vph-pap">Resultados anormales de las pruebas del VPH y de Pap para la detección del cáncer de cuello uterino</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000752839">
+  <TermName>ASC-H</TermName>
+  <TermDefinition>
+    <DefinitionText>A finding of abnormal cells in a Pap test. It means there are abnormal squamous cells in the tissue that lines the outer part of the cervix. ASC-H may be a sign of a high-grade squamous intraepithelial lesion (HSIL), which may become cervical cancer if untreated. More testing may be needed. Also called atypical squamous cells, cannot exclude a high-grade lesion.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ASC-H</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hallazgo de células anormales en una prueba de Pap. Esto significa que hay células escamosas anormales en el tejido que reviste la parte exterior del cuello uterino. Es posible que  el hallazgo de ASC-H sea un signo de una lesión  escamosa intraepitelial de alto grado (HSIL), que si no se trata se puede convertir en cáncer de cuello uterino. Cuando se  obtiene este resultado por lo general es necesario hacer más pruebas. También se llama células escamosas atípicas, no se puede descartar lesión intraepitelial escamosa de alto grado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-11-05</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000810192" url="/types/cervical/screening/abnormal-hpv-pap-test-results">HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000810505" url="/espanol/tipos/cuello-uterino/deteccion/resultados-anormales-pruebas-vph-pap">Resultados anormales de las pruebas del VPH y de Pap para la detección del cáncer de cuello uterino</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000784324"><TermName>health insurance premium</TermName><TermPronunciation>(helth in-SHOOR-ents PREE-mee-um)</TermPronunciation><TermDefinition><DefinitionText>The amount of money that a patient pays monthly to a health insurance company for health care coverage. Coverage may include visits to the doctor, laboratory tests, prescription medicines, and hospital stays.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788390" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;health insurance premium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788391" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prima del seguro médico&quot;" language="es" id="_4"/><SpanishTermName>prima del seguro médico</SpanishTermName><SpanishTermDefinition><DefinitionText>Cantidad de dinero que el paciente paga por mes a la compañía de seguro médico para la cobertura de atención sanitaria. La cobertura puede incluir las consultas médicas, las pruebas de laboratorio, los medicamentos recetados y las hospitalizaciones.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-03</DateFirstPublished><DateLastModified>2024-02-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784324">
+  <TermName>health insurance premium</TermName>
+  <TermPronunciation>(helth in-SHOOR-ents PREE-mee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The amount of money that a patient pays monthly to a health insurance company for health care coverage. Coverage may include visits to the doctor, laboratory tests, prescription medicines, and hospital stays.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788390" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;health insurance premium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788391" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prima del seguro médico&quot;" language="es" id="_4"/>
+  <SpanishTermName>prima del seguro médico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cantidad de dinero que el paciente paga por mes a la compañía de seguro médico para la cobertura de atención sanitaria. La cobertura puede incluir las consultas médicas, las pruebas de laboratorio, los medicamentos recetados y las hospitalizaciones.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-03</DateFirstPublished>
+  <DateLastModified>2024-02-08</DateLastModified>
+</GlossaryTerm>

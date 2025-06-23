@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045743"><TermName>keratinocyte growth factor</TermName><TermPronunciation>(KAYR-uh-TIH-noh-site grothe FAK-ter)</TermPronunciation><TermDefinition><DefinitionText>A natural substance that stimulates the growth of epithelial cells in the skin and in the lining of the mouth, stomach, and intestines. A form of keratinocyte growth factor made in the laboratory is called recombinant human keratinocyte growth factor. Also called KGF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707175" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;keratinocyte growth factor&quot;" language="en" id="_5"/><MediaLink ref="CDR0000707176" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;factor de crecimiento de queratinocitos&quot;" language="es" id="_6"/><SpanishTermName>factor de crecimiento de queratinocitos</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia natural que estimula el crecimiento de células epiteliales en la piel y en el revestimiento de la boca, el estómago y los intestinos. Una forma de esta sustancia que se produce en el laboratorio se llama factor de crecimiento de queratinocitos humano recombinante. También se llama KGF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2008-02-05</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045743">
+  <TermName>keratinocyte growth factor</TermName>
+  <TermPronunciation>(KAYR-uh-TIH-noh-site grothe FAK-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A natural substance that stimulates the growth of epithelial cells in the skin and in the lining of the mouth, stomach, and intestines. A form of keratinocyte growth factor made in the laboratory is called recombinant human keratinocyte growth factor. Also called KGF.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707175" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;keratinocyte growth factor&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000707176" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;factor de crecimiento de queratinocitos&quot;" language="es" id="_6"/>
+  <SpanishTermName>factor de crecimiento de queratinocitos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia natural que estimula el crecimiento de células epiteliales en la piel y en el revestimiento de la boca, el estómago y los intestinos. Una forma de esta sustancia que se produce en el laboratorio se llama factor de crecimiento de queratinocitos humano recombinante. También se llama KGF.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2008-02-05</DateLastModified>
+</GlossaryTerm>

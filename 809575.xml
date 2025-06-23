@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000809575"><TermName>HIF</TermName><TermDefinition><DefinitionText>One of a group of proteins that play an important role in how cells respond to changing levels of oxygen. When oxygen levels in cells are low, HIFs activate certain genes involved in cell growth and survival. This allows the cells to function and survive even in low oxygen conditions. HIFs may be made in larger than normal amounts by some types of cancer cells. This may cause cancer cells to grow and spread to other parts of the body. Also called hypoxia-inducible factor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>HIF</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que pertenece a un grupo de proteínas que cumplen una función importante en la respuesta celular a los cambios en las concentraciones de oxígeno. Cuando las concentraciones de oxígeno en las células son bajas, el HIF activa ciertos genes que participan en la multiplicación y supervivencia de las células. Esto permite que funcionen y subsistan en condiciones de poco oxígeno. A veces, algunos tipos de células cancerosas producen cantidades del  HIF  más altas de lo normal. Es posible que esto haga que las células cancerosas se multipliquen y se diseminen a otras partes del cuerpo. También se llama factor inducible por hipoxia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809575">
+  <TermName>HIF</TermName>
+  <TermDefinition>
+    <DefinitionText>One of a group of proteins that play an important role in how cells respond to changing levels of oxygen. When oxygen levels in cells are low, HIFs activate certain genes involved in cell growth and survival. This allows the cells to function and survive even in low oxygen conditions. HIFs may be made in larger than normal amounts by some types of cancer cells. This may cause cancer cells to grow and spread to other parts of the body. Also called hypoxia-inducible factor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>HIF</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que pertenece a un grupo de proteínas que cumplen una función importante en la respuesta celular a los cambios en las concentraciones de oxígeno. Cuando las concentraciones de oxígeno en las células son bajas, el HIF activa ciertos genes que participan en la multiplicación y supervivencia de las células. Esto permite que funcionen y subsistan en condiciones de poco oxígeno. A veces, algunos tipos de células cancerosas producen cantidades del  HIF  más altas de lo normal. Es posible que esto haga que las células cancerosas se multipliquen y se diseminen a otras partes del cuerpo. También se llama factor inducible por hipoxia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-05</DateFirstPublished>
+</GlossaryTerm>

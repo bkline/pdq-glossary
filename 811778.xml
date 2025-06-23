@@ -1,2 +1,24 @@
-<GlossaryTerm id="CDR0000811778"><TermName>human papillomavirus 18</TermName><TermPronunciation>(HYOO-mun PA-pih-LOH-muh-VY-rus …)</TermPronunciation><TermDefinition><DefinitionText>A type of HPV that is transmitted sexually and causes cancers of the cervix, anus, oropharynx (the middle part of the throat, behind the mouth), vagina, vulva, and penis. A long-lasting infection with human papillomavirus 18 can cause cell changes that, if not treated, may worsen over time and become cancer. Human papillomavirus 18 and HPV 16 are responsible for most HPV-related cancers. Also called HPV 18.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814004" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;human papillomavirus 18&quot;" language="en" id="_5"/><MediaLink ref="CDR0000814005" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;virus del papiloma humano 18&quot;" language="es" id="_6"/><SpanishTermName>virus del papiloma humano 18</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de VPH que se transmite por vía sexual y causa cáncer de cuello uterino, ano, orofaringe (parte media de la garganta, ubicada por detrás de la boca), vagina, vulva y pene. Una infección duradera por el virus del papiloma humano 18 puede producir cambios celulares que, si no se tratan, tal vez empeoren con el tiempo y se conviertan en cáncer. Los tipos 16 y 18 son responsables de la mayoría de los cánceres relacionados con el VPH. También se llama papilomavirus humano 18, virus 18 del papiloma humano y VPH 18.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-07-07</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer" UseWith="en">HPV and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/vph-y-cancer?redirect=true">El virus del papiloma humano (VPH) y el cáncer
-</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811778">
+  <TermName>human papillomavirus 18</TermName>
+  <TermPronunciation>(HYOO-mun PA-pih-LOH-muh-VY-rus …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of HPV that is transmitted sexually and causes cancers of the cervix, anus, oropharynx (the middle part of the throat, behind the mouth), vagina, vulva, and penis. A long-lasting infection with human papillomavirus 18 can cause cell changes that, if not treated, may worsen over time and become cancer. Human papillomavirus 18 and HPV 16 are responsible for most HPV-related cancers. Also called HPV 18.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814004" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;human papillomavirus 18&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000814005" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;virus del papiloma humano 18&quot;" language="es" id="_6"/>
+  <SpanishTermName>virus del papiloma humano 18</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de VPH que se transmite por vía sexual y causa cáncer de cuello uterino, ano, orofaringe (parte media de la garganta, ubicada por detrás de la boca), vagina, vulva y pene. Una infección duradera por el virus del papiloma humano 18 puede producir cambios celulares que, si no se tratan, tal vez empeoren con el tiempo y se conviertan en cáncer. Los tipos 16 y 18 son responsables de la mayoría de los cánceres relacionados con el VPH. También se llama papilomavirus humano 18, virus 18 del papiloma humano y VPH 18.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-07-07</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer" UseWith="en">HPV and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/vph-y-cancer?redirect=true">El virus del papiloma humano (VPH) y el cáncer
+</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

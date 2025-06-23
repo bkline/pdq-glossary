@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000789800"><TermName>out-of-pocket cost</TermName><TermPronunciation>(…PAH-kit …)</TermPronunciation><TermDefinition><DefinitionText>In medicine, the amount of money a patient pays for medical expenses that are not covered by a health insurance plan. Out-of-pocket costs include deductibles, coinsurance, copayments, and costs for noncovered health care services.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;out-of-pocket cost&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792212" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastos por cuenta propia&quot;" language="es" id="_4"/><SpanishTermName>gastos por cuenta propia</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, la cantidad de dinero que paga un paciente de su propio bolsillo por los gastos médicos que un plan de seguro médico no cubre. Los gastos por cuenta propia son los deducibles, el coseguro, los copagos y otros costos de servicios de atención de la salud no cubiertos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-10-12</DateFirstPublished><DateLastModified>2024-02-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789800">
+  <TermName>out-of-pocket cost</TermName>
+  <TermPronunciation>(…PAH-kit …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, the amount of money a patient pays for medical expenses that are not covered by a health insurance plan. Out-of-pocket costs include deductibles, coinsurance, copayments, and costs for noncovered health care services.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;out-of-pocket cost&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792212" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastos por cuenta propia&quot;" language="es" id="_4"/>
+  <SpanishTermName>gastos por cuenta propia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, la cantidad de dinero que paga un paciente de su propio bolsillo por los gastos médicos que un plan de seguro médico no cubre. Los gastos por cuenta propia son los deducibles, el coseguro, los copagos y otros costos de servicios de atención de la salud no cubiertos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-10-12</DateFirstPublished>
+  <DateLastModified>2024-02-08</DateLastModified>
+</GlossaryTerm>

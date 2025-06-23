@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045338"><TermName>toremifene citrate</TermName><TermPronunciation>(tor-EH-mih-feen SIH-trayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat postmenopausal women with breast cancer that has spread to other parts of the body. It is used in patients whose cancer is estrogen receptor positive (ER+) or when it is not known if the cancer is ER+ or estrogen receptor negative (ER-). Toremifene citrate blocks the effects of the hormone estrogen in breast tissue, which may help keep breast cancer cells from growing. It is a type of selective estrogen receptor modulator (SERM). Also called Fareston.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730894" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toremifene citrate&quot;" language="en" id="_5"/><MediaLink ref="CDR0000730895" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citrato de toremifeno&quot;" language="es" id="_6"/><SpanishTermName>citrato de toremifeno</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de mujeres posmenopáusicas con cáncer de mama que se diseminó a otras partes del cuerpo. Se utiliza en pacientes cuyo cáncer es positivo para el receptor de estrógeno (ER+), o cuando no se sabe si el cáncer es ER+ o es negativo para ese receptor (ER-). El citrato de toremifeno  bloquea los efectos de la hormona estrógeno en el tejido de la mama, lo que quizás impida la multiplicación de células cancerosas en la mama. Es un tipo de modulador selectivo del receptor de estrógeno (MSRE). También se llama Fareston.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-10-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000650664" url="/about-cancer/treatment/drugs/toremifene">Toremifene Citrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045338">
+  <TermName>toremifene citrate</TermName>
+  <TermPronunciation>(tor-EH-mih-feen SIH-trayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat postmenopausal women with breast cancer that has spread to other parts of the body. It is used in patients whose cancer is estrogen receptor positive (ER+) or when it is not known if the cancer is ER+ or estrogen receptor negative (ER-). Toremifene citrate blocks the effects of the hormone estrogen in breast tissue, which may help keep breast cancer cells from growing. It is a type of selective estrogen receptor modulator (SERM). Also called Fareston.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730894" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toremifene citrate&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000730895" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citrato de toremifeno&quot;" language="es" id="_6"/>
+  <SpanishTermName>citrato de toremifeno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de mujeres posmenopáusicas con cáncer de mama que se diseminó a otras partes del cuerpo. Se utiliza en pacientes cuyo cáncer es positivo para el receptor de estrógeno (ER+), o cuando no se sabe si el cáncer es ER+ o es negativo para ese receptor (ER-). El citrato de toremifeno  bloquea los efectos de la hormona estrógeno en el tejido de la mama, lo que quizás impida la multiplicación de células cancerosas en la mama. Es un tipo de modulador selectivo del receptor de estrógeno (MSRE). También se llama Fareston.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-10-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000650664" url="/about-cancer/treatment/drugs/toremifene">Toremifene Citrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

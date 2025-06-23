@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044495"><TermName>desmoplastic small round cell tumor</TermName><TermPronunciation>(DES-moh-PLAS-tik ... TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare, aggressive cancer that usually affects young males and usually is located in the abdomen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704661" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;desmoplastic small round cell tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704660" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor desmoplásico de células pequeñas redondas&quot;" language="es" id="_4"/><SpanishTermName>tumor desmoplásico de células pequeñas redondas</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer raro y muy maligno que, por lo general, afecta a hombres jóvenes y suele localizase en el abdomen. También se llama tumor de células redondas pequeñas desmoplásico y tumor desmoplásico de células redondas pequeñas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044495">
+  <TermName>desmoplastic small round cell tumor</TermName>
+  <TermPronunciation>(DES-moh-PLAS-tik ... TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, aggressive cancer that usually affects young males and usually is located in the abdomen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704661" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;desmoplastic small round cell tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704660" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor desmoplásico de células pequeñas redondas&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor desmoplásico de células pequeñas redondas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer raro y muy maligno que, por lo general, afecta a hombres jóvenes y suele localizase en el abdomen. También se llama tumor de células redondas pequeñas desmoplásico y tumor desmoplásico de células redondas pequeñas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

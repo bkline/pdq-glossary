@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000641933"><TermName>alveolar soft part sarcoma</TermName><TermPronunciation>(al-VEE-oh-ler … sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A soft tissue tumor that is most common in older children and teenagers. It begins in the soft supporting tissue that connects and surrounds the organs and other tissues. Alveolar soft part sarcoma usually occurs in the legs, but can also occur in the arms, hands, head, or neck. It can cause the growth of new blood vessels that help the tumor grow and spread. Also called ASPS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722868" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alveolar soft part sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722867" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma alveolar de partes blandas&quot;" language="es" id="_7"/><SpanishTermName>sarcoma alveolar de partes blandas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor de tejido blando que es más frecuente en niños mayores y adolescentes.   Surge en el tejido conjuntivo blando que rodea y conecta los órganos y otros tejidos.   El sarcoma alveolar de partes blandas suele presentarse en las piernas, pero también se presenta en los brazos, las manos, la cabeza o el cuello.   Es capaz de producir  vasos sanguíneos nuevos que ayudan a que el tumor crezca y se disemine. También se llama SAPB, sarcoma alveolar de tejidos blandos y sarcoma de parte blanda alveolar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-10-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000641933">
+  <TermName>alveolar soft part sarcoma</TermName>
+  <TermPronunciation>(al-VEE-oh-ler … sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A soft tissue tumor that is most common in older children and teenagers. It begins in the soft supporting tissue that connects and surrounds the organs and other tissues. Alveolar soft part sarcoma usually occurs in the legs, but can also occur in the arms, hands, head, or neck. It can cause the growth of new blood vessels that help the tumor grow and spread. Also called ASPS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722868" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alveolar soft part sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722867" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma alveolar de partes blandas&quot;" language="es" id="_7"/>
+  <SpanishTermName>sarcoma alveolar de partes blandas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de tejido blando que es más frecuente en niños mayores y adolescentes.   Surge en el tejido conjuntivo blando que rodea y conecta los órganos y otros tejidos.   El sarcoma alveolar de partes blandas suele presentarse en las piernas, pero también se presenta en los brazos, las manos, la cabeza o el cuello.   Es capaz de producir  vasos sanguíneos nuevos que ayudan a que el tumor crezca y se disemine. También se llama SAPB, sarcoma alveolar de tejidos blandos y sarcoma de parte blanda alveolar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-10-05</DateFirstPublished>
+</GlossaryTerm>

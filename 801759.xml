@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801759"><TermName>upper jaw</TermName><TermPronunciation>(UH-per jaw)</TermPronunciation><TermDefinition><DefinitionText>The bones that form the upper part of the jaw, the roof of the mouth, and parts of the eye socket and nose. The upper jaw holds the top teeth in place and supports muscles involved in chewing and facial expressions. It is a major bone in the face. Also called maxilla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802743" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;upper jaw&quot;" language="en" id="_4"/><MediaLink ref="CDR0000802744" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;maxilar superior&quot;" language="es" id="_5"/><SpanishTermName>maxilar superior</SpanishTermName><SpanishTermDefinition><DefinitionText>Hueso grande de la cara en la parte superior de la quijada, que forma el paladar duro (techo de la boca) y parte de la órbita (cavidad del ojo) y de la nariz. En el maxilar superior se encuentran los dientes superiores y se fijan los músculos de la masticación y de la expresión de la cara.  También se llama hueso maxilar superior y maxila.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-06-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801759">
+  <TermName>upper jaw</TermName>
+  <TermPronunciation>(UH-per jaw)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The bones that form the upper part of the jaw, the roof of the mouth, and parts of the eye socket and nose. The upper jaw holds the top teeth in place and supports muscles involved in chewing and facial expressions. It is a major bone in the face. Also called maxilla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802743" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;upper jaw&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000802744" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;maxilar superior&quot;" language="es" id="_5"/>
+  <SpanishTermName>maxilar superior</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hueso grande de la cara en la parte superior de la quijada, que forma el paladar duro (techo de la boca) y parte de la órbita (cavidad del ojo) y de la nariz. En el maxilar superior se encuentran los dientes superiores y se fijan los músculos de la masticación y de la expresión de la cara.  También se llama hueso maxilar superior y maxila.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-06-11</DateFirstPublished>
+</GlossaryTerm>

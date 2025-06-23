@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000512895"><TermName>REM sleep</TermName><TermPronunciation>(… sleep)</TermPronunciation><TermDefinition><DefinitionText>The phase of sleep in which most dreams occur. During REM sleep, a person’s brain activity, breathing, heart rate, and blood pressure increase, and the eyes move rapidly while closed. The muscles in the arms and legs become temporarily unable to move. REM sleep is thought to play an important role in memory and learning. During normal sleep, a person goes through four to five sleep cycles that last about 90 minutes each and include both REM sleep and non-REM sleep (light to deep sleep).   Also called rapid eye movement sleep.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733234" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;REM sleep&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733233" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sueño MOR&quot;" language="es" id="_4"/><SpanishTermName>sueño MOR</SpanishTermName><SpanishTermDefinition><DefinitionText>Fase del sueño en la que se sueña más. Durante el  sueño de movimientos oculares rápidos (sueño MOR), aumentan la actividad cerebral, la respiración, la frecuencia cardíaca y la presión arterial de una persona mientras los ojos están cerrados y se mueven con rapidez. No es posible mover los músculos de los brazos ni de las piernas de manera temporal. Se cree que este tipo de sueño desempeña una función importante en la memoria y el aprendizaje. Durante el sueño normal, una persona pasa por 4 o 5 ciclos del sueño que duran unos 90 minutos cada uno e incluyen el sueño de movimientos oculares rápidos y el sueño sin movimientos oculares rápidos  (sueño deligero a profundo). También se llama etapa MOR del sueño, fase REM del sueño, sueño de movimientos oculares rápidos y sueño REM.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-14</DateFirstPublished><DateLastModified>2022-03-15</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="es" href="CDR0000256649" url="/espanol/cancer/tratamiento/efectos-secundarios/insomnio/trastornos-del-sueno-pdq">Trastornos del sueño</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000512895">
+  <TermName>REM sleep</TermName>
+  <TermPronunciation>(… sleep)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The phase of sleep in which most dreams occur. During REM sleep, a person’s brain activity, breathing, heart rate, and blood pressure increase, and the eyes move rapidly while closed. The muscles in the arms and legs become temporarily unable to move. REM sleep is thought to play an important role in memory and learning. During normal sleep, a person goes through four to five sleep cycles that last about 90 minutes each and include both REM sleep and non-REM sleep (light to deep sleep).   Also called rapid eye movement sleep.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733234" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;REM sleep&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733233" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sueño MOR&quot;" language="es" id="_4"/>
+  <SpanishTermName>sueño MOR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Fase del sueño en la que se sueña más. Durante el  sueño de movimientos oculares rápidos (sueño MOR), aumentan la actividad cerebral, la respiración, la frecuencia cardíaca y la presión arterial de una persona mientras los ojos están cerrados y se mueven con rapidez. No es posible mover los músculos de los brazos ni de las piernas de manera temporal. Se cree que este tipo de sueño desempeña una función importante en la memoria y el aprendizaje. Durante el sueño normal, una persona pasa por 4 o 5 ciclos del sueño que duran unos 90 minutos cada uno e incluyen el sueño de movimientos oculares rápidos y el sueño sin movimientos oculares rápidos  (sueño deligero a profundo). También se llama etapa MOR del sueño, fase REM del sueño, sueño de movimientos oculares rápidos y sueño REM.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-14</DateFirstPublished>
+  <DateLastModified>2022-03-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256649" url="/espanol/cancer/tratamiento/efectos-secundarios/insomnio/trastornos-del-sueno-pdq">Trastornos del sueño</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

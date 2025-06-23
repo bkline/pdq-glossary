@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000808310"><TermName>industrial hemp</TermName><TermPronunciation>(in-DUH-stree-ul hemp)</TermPronunciation><TermDefinition><DefinitionText>An herb that comes from a variant of the <Emphasis>Cannabis sativa</Emphasis> plant and contains fiber, seeds, and oil used to make many different industrial and consumer products. These include textiles, building materials, paper, fabrics, soap, food, dietary supplements, and cosmetics. Industrial hemp and marijuana come from the same species of <Emphasis>Cannabis sativa</Emphasis>, but the industrial hemp  variant contains very low levels of delta-9-THC (the main active chemical in marijuana that causes drug-like effects in the body). The industrial hemp and marijuana variants of <Emphasis>Cannabis sativa</Emphasis> have their own chemical and genetic makeup and are regulated, grown, and used in different ways. Also called hemp.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000810315" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;industrial hemp&quot;" language="en" id="_4"/><MediaLink ref="CDR0000810993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáñamo industrial&quot;" language="es" id="_5"/><SpanishTermName>cáñamo industrial</SpanishTermName><SpanishTermDefinition><DefinitionText>Variedad de la planta <Emphasis>Cannabis sativa</Emphasis>. Es una hierba que contiene fibra, semillas y aceite que se usan para fabricar múltiples productos industriales y de consumo, como textiles, materiales de construcción, papel, telas, jabón, alimentos, suplementos alimentarios y cosméticos. El cáñamo industrial  y la marihuana pertenecen a la misma especie <Emphasis>Cannabis sativa</Emphasis>, pero el cáñamo industrial contiene concentraciones muy bajas de delta-9-THC (principal sustancia química activa que produce efectos de droga en el cuerpo). El cáñamo industrial y la  marihuana tienen distinta  composición química y genética. Además, se regulan, cultivan y se utilizan de formas diferentes. También se llama cáñamo común y cáñamo textil.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808310">
+  <TermName>industrial hemp</TermName>
+  <TermPronunciation>(in-DUH-stree-ul hemp)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      An herb that comes from a variant of the 
+      <Emphasis>Cannabis sativa</Emphasis>
+       plant and contains fiber, seeds, and oil used to make many different industrial and consumer products. These include textiles, building materials, paper, fabrics, soap, food, dietary supplements, and cosmetics. Industrial hemp and marijuana come from the same species of 
+      <Emphasis>Cannabis sativa</Emphasis>
+      , but the industrial hemp  variant contains very low levels of delta-9-THC (the main active chemical in marijuana that causes drug-like effects in the body). The industrial hemp and marijuana variants of 
+      <Emphasis>Cannabis sativa</Emphasis>
+       have their own chemical and genetic makeup and are regulated, grown, and used in different ways. Also called hemp.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000810315" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;industrial hemp&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000810993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáñamo industrial&quot;" language="es" id="_5"/>
+  <SpanishTermName>cáñamo industrial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Variedad de la planta 
+      <Emphasis>Cannabis sativa</Emphasis>
+      . Es una hierba que contiene fibra, semillas y aceite que se usan para fabricar múltiples productos industriales y de consumo, como textiles, materiales de construcción, papel, telas, jabón, alimentos, suplementos alimentarios y cosméticos. El cáñamo industrial  y la marihuana pertenecen a la misma especie 
+      <Emphasis>Cannabis sativa</Emphasis>
+      , pero el cáñamo industrial contiene concentraciones muy bajas de delta-9-THC (principal sustancia química activa que produce efectos de droga en el cuerpo). El cáñamo industrial y la  marihuana tienen distinta  composición química y genética. Además, se regulan, cultivan y se utilizan de formas diferentes. También se llama cáñamo común y cáñamo textil.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-02</DateFirstPublished>
+</GlossaryTerm>

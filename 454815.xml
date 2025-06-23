@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000454815"><TermName>sleep stage</TermName><TermPronunciation>(sleep stayj)</TermPronunciation><TermDefinition><DefinitionText>One of four stages of the sleep cycle based on the type of brain activity that occurs during the stage. Stages one, two, and three occur during non-rapid eye movement (non-REM) sleep, which is when a person first falls asleep and then moves from a light sleep into a deep sleep. Stage four occurs during REM sleep, which is when the eyes move rapidly while closed and when most dreams occur. During normal sleep, a person goes through  four to five sleep cycles that last about 90 minutes each and include both non-REM sleep and REM sleep.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733021" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sleep stage&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733022" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;etapa del sueño&quot;" language="es" id="_4"/><SpanishTermName>etapa del sueño</SpanishTermName><SpanishTermDefinition><DefinitionText>Una de las cuatro etapas del ciclo del sueño que se define según el tipo de actividad que ocurre en el cerebro. Las etapas 1, 2 y 3, se producen durante el sueño sin movimientos oculares rápidos, que es cuando una persona se queda dormida y pasa de un sueño ligero a uno profundo. La etapa 4 tiene lugar cuando los ojos cerrados se mueven de forma rápida y es cuando se producen la mayoría de los sueños. Durante el sueño normal, una persona pasa por 4 o 5 ciclos del sueño, que duran unos 90 minutos cada uno e incluyen el sueño de movimientos oculares rápidos (sueño MOR) y el sueño sin movimientos oculares rápidos (sueño sin MOR). También se llama estadio del sueño y fase del sueño.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-14</DateFirstPublished><DateLastModified>2022-03-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000454815">
+  <TermName>sleep stage</TermName>
+  <TermPronunciation>(sleep stayj)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One of four stages of the sleep cycle based on the type of brain activity that occurs during the stage. Stages one, two, and three occur during non-rapid eye movement (non-REM) sleep, which is when a person first falls asleep and then moves from a light sleep into a deep sleep. Stage four occurs during REM sleep, which is when the eyes move rapidly while closed and when most dreams occur. During normal sleep, a person goes through  four to five sleep cycles that last about 90 minutes each and include both non-REM sleep and REM sleep.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733021" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sleep stage&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733022" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;etapa del sueño&quot;" language="es" id="_4"/>
+  <SpanishTermName>etapa del sueño</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Una de las cuatro etapas del ciclo del sueño que se define según el tipo de actividad que ocurre en el cerebro. Las etapas 1, 2 y 3, se producen durante el sueño sin movimientos oculares rápidos, que es cuando una persona se queda dormida y pasa de un sueño ligero a uno profundo. La etapa 4 tiene lugar cuando los ojos cerrados se mueven de forma rápida y es cuando se producen la mayoría de los sueños. Durante el sueño normal, una persona pasa por 4 o 5 ciclos del sueño, que duran unos 90 minutos cada uno e incluyen el sueño de movimientos oculares rápidos (sueño MOR) y el sueño sin movimientos oculares rápidos (sueño sin MOR). También se llama estadio del sueño y fase del sueño.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-14</DateFirstPublished>
+  <DateLastModified>2022-03-15</DateLastModified>
+</GlossaryTerm>

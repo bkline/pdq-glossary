@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000793872"><TermName>binimetinib</TermName><TermPronunciation>(BIH-nee-MEH-tih-nib)</TermPronunciation><TermDefinition><DefinitionText>A drug used with encorafenib to treat melanoma that has spread or cannot be removed by surgery and has a certain mutation (change) in the <GeneName>BRAF</GeneName> gene. It is also being studied in the treatment of other types of cancer. Binimetinib blocks proteins called MEK1 and MEK2, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called Mektovi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795172" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;binimetinib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795171" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;binimetinib&quot;" language="es" id="_4"/><SpanishTermName>binimetinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con encorafenib para el tratamiento del melanoma que se diseminó o que no se puede extirpar con cirugía, y que tiene cierta mutación (cambio) en el gen <GeneName>BRAF</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. El binimetinib bloquea las proteínas MEK1 y MEK2, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama Mektovi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-07-16</DateFirstPublished><DateLastModified>2021-09-28</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000793920" url="/about-cancer/treatment/drugs/binimetinib">Binimetinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793872">
+  <TermName>binimetinib</TermName>
+  <TermPronunciation>(BIH-nee-MEH-tih-nib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used with encorafenib to treat melanoma that has spread or cannot be removed by surgery and has a certain mutation (change) in the 
+      <GeneName>BRAF</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Binimetinib blocks proteins called MEK1 and MEK2, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called Mektovi.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795172" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;binimetinib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795171" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;binimetinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>binimetinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa con encorafenib para el tratamiento del melanoma que se diseminó o que no se puede extirpar con cirugía, y que tiene cierta mutación (cambio) en el gen 
+      <GeneName>BRAF</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. El binimetinib bloquea las proteínas MEK1 y MEK2, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama Mektovi.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-07-16</DateFirstPublished>
+  <DateLastModified>2021-09-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000793920" url="/about-cancer/treatment/drugs/binimetinib">Binimetinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

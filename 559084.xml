@@ -1,1 +1,45 @@
-<GlossaryTerm id="CDR0000559084"><TermName>WAGR syndrome</TermName><TermPronunciation>(... SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare, genetic disorder that is present at birth and has two or more of the following features: <Strong>W</Strong>ilms tumor (a type of kidney cancer), <Strong>A</Strong>niridia (little or no iris, which is the colored part of the eye), defects in the <Strong>G</Strong>enitourinary tract (organs of the reproductive and urinary systems), and a <Strong>R</Strong>ange of developmental delays. This syndrome occurs when part of chromosome 11 is missing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721237" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;WAGR syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721238" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome WAGR&quot;" language="es" id="_4"/><SpanishTermName>síndrome WAGR</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno genético raro que está presente en el nacimiento y tiene, al menos, dos de las siguientes características: tumor de <Strong>W</Strong>ilms (tipo de cáncer de riñón), <Strong>A</Strong>niridia (ausencia parcial o total del iris, la parte del ojo que tiene color), anomalías en el sistema <Strong>G</Strong>enitourinario (órganos de los aparatos reproductivo y urinario), o una variedad de <Strong>R</Strong>etrasos o alteraciones del desarrollo. Este síndrome se debe a que  falta una parte del cromosoma 11.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-07-06</DateFirstPublished><DateLastModified>2023-10-25</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/5528/wilms-tumor-aniridia-genitourinary-anomalies-mental-retardation-syndrome">WAGR syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/wagr-syndrome/">WAGR syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13723/sindrome-wagr">Síndrome WAGR (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000559084">
+  <TermName>WAGR syndrome</TermName>
+  <TermPronunciation>(... SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A rare, genetic disorder that is present at birth and has two or more of the following features: 
+      <Strong>W</Strong>
+      ilms tumor (a type of kidney cancer), 
+      <Strong>A</Strong>
+      niridia (little or no iris, which is the colored part of the eye), defects in the 
+      <Strong>G</Strong>
+      enitourinary tract (organs of the reproductive and urinary systems), and a 
+      <Strong>R</Strong>
+      ange of developmental delays. This syndrome occurs when part of chromosome 11 is missing.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721237" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;WAGR syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721238" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome WAGR&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome WAGR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno genético raro que está presente en el nacimiento y tiene, al menos, dos de las siguientes características: tumor de 
+      <Strong>W</Strong>
+      ilms (tipo de cáncer de riñón), 
+      <Strong>A</Strong>
+      niridia (ausencia parcial o total del iris, la parte del ojo que tiene color), anomalías en el sistema 
+      <Strong>G</Strong>
+      enitourinario (órganos de los aparatos reproductivo y urinario), o una variedad de 
+      <Strong>R</Strong>
+      etrasos o alteraciones del desarrollo. Este síndrome se debe a que  falta una parte del cromosoma 11.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-07-06</DateFirstPublished>
+  <DateLastModified>2023-10-25</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/5528/wilms-tumor-aniridia-genitourinary-anomalies-mental-retardation-syndrome">WAGR syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/wagr-syndrome/">WAGR syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13723/sindrome-wagr">Síndrome WAGR (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

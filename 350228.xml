@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000350228"><TermName>etoposide phosphate</TermName><TermPronunciation>(ee-toh-POH-side FOS-fayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to treat small cell lung cancer and certain types of testicular cancer. It is also being studied in the treatment of other types of cancer. Etoposide phosphate blocks a certain enzyme needed for cell division and DNA repair, and it may kill cancer cells. It is a type of podophyllotoxin derivative and a type of topoisomerase inhibitor. Also called Etopophos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;etoposide phosphate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fosfato de etopósido&quot;" language="es" id="_4"/><SpanishTermName>fosfato de etopósido</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento  del cáncer de pulmón de células pequeñas y ciertos tipos de cáncer de testículo. También está en estudio para el tratamiento de otros tipos de cáncer. El fosfato de etopósido bloquea una enzima necesaria para la multiplicación celular y la reparación del ADN, y es posible que destruya células cancerosas. Es un derivado de la podofilotoxina y un tipo de inhibidor de la topoisomerasa. También se llama Etopophos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-12-23</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000590263" url="/about-cancer/treatment/drugs/etoposidephosphate">Etoposide Phosphate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000350228">
+  <TermName>etoposide phosphate</TermName>
+  <TermPronunciation>(ee-toh-POH-side FOS-fayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with other drugs to treat small cell lung cancer and certain types of testicular cancer. It is also being studied in the treatment of other types of cancer. Etoposide phosphate blocks a certain enzyme needed for cell division and DNA repair, and it may kill cancer cells. It is a type of podophyllotoxin derivative and a type of topoisomerase inhibitor. Also called Etopophos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;etoposide phosphate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fosfato de etopósido&quot;" language="es" id="_4"/>
+  <SpanishTermName>fosfato de etopósido</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento  del cáncer de pulmón de células pequeñas y ciertos tipos de cáncer de testículo. También está en estudio para el tratamiento de otros tipos de cáncer. El fosfato de etopósido bloquea una enzima necesaria para la multiplicación celular y la reparación del ADN, y es posible que destruya células cancerosas. Es un derivado de la podofilotoxina y un tipo de inhibidor de la topoisomerasa. También se llama Etopophos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-12-23</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000590263" url="/about-cancer/treatment/drugs/etoposidephosphate">Etoposide Phosphate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

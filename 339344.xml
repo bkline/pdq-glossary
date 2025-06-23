@@ -1,1 +1,39 @@
-<GlossaryTerm id="CDR0000339344"><TermName>penetrance</TermName><TermPronunciation>(PEH-neh-trunts)</TermPronunciation><TermDefinition><DefinitionText>Penetrance refers to the likelihood that a clinical condition will occur when a particular genotype is present. For adult-onset diseases, penetrance is usually described by the individual carrier's age, sex, and organ site. For example, the penetrance for breast cancer in female carriers of BRCA1 pathogenic variants is often quoted by age 50 years and by age 70 years. </DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>Describes how likely it is that a person who has a certain disease-causing mutation (change) in a gene will show signs and symptoms of the disease. Not everyone who has the mutation will develop the disease. For example, some people who have a BRCA1 or BRCA2 gene mutation will develop cancer during their lifetime, but others will not. Currently, there is no way to know which people who have a cancer-causing mutation will develop cancer.  Complete penetrance means that every person who has the mutation will show signs and symptoms of the disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736966" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;penetrance&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804195" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;penetrancia&quot;" language="es" id="_4"/><SpanishTermName>penetrancia</SpanishTermName><SpanishTermDefinition><DefinitionText>Describe la probabilidad de que una persona con una mutación (cambio) en un gen que produce una enfermedad,  muestre signos y síntomas de la enfermedad. No todas las personas que tienen una mutación presentarán la enfermedad. Por ejemplo, algunas personas con mutaciones en los genes <GeneName>BRCA1</GeneName> o <GeneName>BRCA2</GeneName> presentarán cáncer en el curso de su vida, pero otras no lo harán. En la actualidad, no hay forma de determinar cuáles personas con una mutación que produce cáncer presentarán cáncer. Penetrancia completa significa que todas las personas con la mutación mostrarán signos y síntomas de la enfermedad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Se refiere a la probabilidad de que una afección se manifieste en presencia de un genotipo específico. Para enfermedades que comienzan durante la edad adulta, la penetrancia con frecuencia se describe según el sitio orgánico, la edad y el sexo del portador. Por ejemplo, la penetrancia para el cáncer de mama en las mujeres portadoras de variantes patógenas de <GeneName>BRCA1</GeneName> a menudo se  indica a los 50 y 70 años.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000339344">
+  <TermName>penetrance</TermName>
+  <TermPronunciation>(PEH-neh-trunts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Penetrance refers to the likelihood that a clinical condition will occur when a particular genotype is present. For adult-onset diseases, penetrance is usually described by the individual carrier's age, sex, and organ site. For example, the penetrance for breast cancer in female carriers of BRCA1 pathogenic variants is often quoted by age 50 years and by age 70 years. </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>Describes how likely it is that a person who has a certain disease-causing mutation (change) in a gene will show signs and symptoms of the disease. Not everyone who has the mutation will develop the disease. For example, some people who have a BRCA1 or BRCA2 gene mutation will develop cancer during their lifetime, but others will not. Currently, there is no way to know which people who have a cancer-causing mutation will develop cancer.  Complete penetrance means that every person who has the mutation will show signs and symptoms of the disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736966" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;penetrance&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804195" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;penetrancia&quot;" language="es" id="_4"/>
+  <SpanishTermName>penetrancia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Describe la probabilidad de que una persona con una mutación (cambio) en un gen que produce una enfermedad,  muestre signos y síntomas de la enfermedad. No todas las personas que tienen una mutación presentarán la enfermedad. Por ejemplo, algunas personas con mutaciones en los genes 
+      <GeneName>BRCA1</GeneName>
+       o 
+      <GeneName>BRCA2</GeneName>
+       presentarán cáncer en el curso de su vida, pero otras no lo harán. En la actualidad, no hay forma de determinar cuáles personas con una mutación que produce cáncer presentarán cáncer. Penetrancia completa significa que todas las personas con la mutación mostrarán signos y síntomas de la enfermedad.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Se refiere a la probabilidad de que una afección se manifieste en presencia de un genotipo específico. Para enfermedades que comienzan durante la edad adulta, la penetrancia con frecuencia se describe según el sitio orgánico, la edad y el sexo del portador. Por ejemplo, la penetrancia para el cáncer de mama en las mujeres portadoras de variantes patógenas de 
+      <GeneName>BRCA1</GeneName>
+       a menudo se  indica a los 50 y 70 años.
+    </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-03</DateFirstPublished>
+</GlossaryTerm>

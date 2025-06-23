@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045307"><TermName>stage II anal cancer</TermName><TermPronunciation>(... AY-nul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage II anal cancer is divided into stages IIA and IIB. In stage IIA, the tumor is larger than 2 centimeters but not larger than 5 centimeters. In stage IIB, the tumor is larger than 5 centimeters.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705293" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II anal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705292" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano en estadio II&quot;" language="es" id="_4"/><SpanishTermName>cáncer de ano en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer de ano en estadio II se divide en los estadios IIA y IIB. En el estadio IIA, el tumor mide más de 2 cm, pero no más de 5 cm. En el estadio IIB, el tumor mide más de 5 cm.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-01-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258179" url="/types/anal/patient/anal-treatment-pdq">Anal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256763" url="/espanol/tipos/ano/paciente/tratamiento-ano-pdq">Tratamiento del cáncer de ano</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045307">
+  <TermName>stage II anal cancer</TermName>
+  <TermPronunciation>(... AY-nul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage II anal cancer is divided into stages IIA and IIB. In stage IIA, the tumor is larger than 2 centimeters but not larger than 5 centimeters. In stage IIB, the tumor is larger than 5 centimeters.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705293" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II anal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705292" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de ano en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer de ano en estadio II se divide en los estadios IIA y IIB. En el estadio IIA, el tumor mide más de 2 cm, pero no más de 5 cm. En el estadio IIB, el tumor mide más de 5 cm.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-01-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258179" url="/types/anal/patient/anal-treatment-pdq">Anal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256763" url="/espanol/tipos/ano/paciente/tratamiento-ano-pdq">Tratamiento del cáncer de ano</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

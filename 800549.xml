@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000800549"><TermName>PDGFRA gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein that is involved in cell division and cell survival. Mutated (changed) forms of the PDGFRA gene and protein have been found in some types of cancer, including gastrointestinal stromal tumors and chronic eosinophilic leukemia. These changes may increase the growth of cancer cells. Checking for changes in the PDGFRA gene in tumor tissue may help diagnose some types of cancer and plan treatment. Also called platelet-derived growth factor receptor alpha gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802612" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PDGFRA gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802613" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen PDGFRA&quot;" language="es" id="_4"/><SpanishTermName>gen PDGFRA</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la división de las células y en la supervivencia celular. Se han encontrado formas mutadas (cambiadas) del gen <GeneName>PDGFRA</GeneName> y de su proteína en algunos tipos de cáncer, como los tumores de estroma gastrointestinal y la leucemia eosinofílica crónica. Es posible que estos cambios aumenten la multiplicación de células cancerosas. Saber si el tejido tumoral tiene cambios en el gen <GeneName>PDGFRA</GeneName>  quizás ayude a diagnosticar algunos tipos de cáncer y planificar el tratamiento. También se llama gen del receptor alfa del factor de crecimiento derivado de plaquetas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-05</DateFirstPublished><DateLastModified>2020-11-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800549">
+  <TermName>PDGFRA gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene that makes a protein that is involved in cell division and cell survival. Mutated (changed) forms of the PDGFRA gene and protein have been found in some types of cancer, including gastrointestinal stromal tumors and chronic eosinophilic leukemia. These changes may increase the growth of cancer cells. Checking for changes in the PDGFRA gene in tumor tissue may help diagnose some types of cancer and plan treatment. Also called platelet-derived growth factor receptor alpha gene.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802612" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PDGFRA gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802613" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen PDGFRA&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen PDGFRA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la división de las células y en la supervivencia celular. Se han encontrado formas mutadas (cambiadas) del gen 
+      <GeneName>PDGFRA</GeneName>
+       y de su proteína en algunos tipos de cáncer, como los tumores de estroma gastrointestinal y la leucemia eosinofílica crónica. Es posible que estos cambios aumenten la multiplicación de células cancerosas. Saber si el tejido tumoral tiene cambios en el gen 
+      <GeneName>PDGFRA</GeneName>
+        quizás ayude a diagnosticar algunos tipos de cáncer y planificar el tratamiento. También se llama gen del receptor alfa del factor de crecimiento derivado de plaquetas.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-05</DateFirstPublished>
+  <DateLastModified>2020-11-24</DateLastModified>
+</GlossaryTerm>

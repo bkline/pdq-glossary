@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000710949"><TermName>Xalkori</TermName><TermPronunciation>(zal-KOR-ee)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of ALK-positive inflammatory myofibroblastic tumors in adults and children aged 1 year and older, ALK-positive systemic anaplastic large cell lymphoma in young adults and children aged 1 year and older, and ALK-positive or ROS1-positive non-small cell lung cancer. It is also being studied in the treatment of other types of cancer. Xalkori blocks certain proteins made by the <GeneName>ALK </GeneName> and <GeneName>ROS1</GeneName> genes, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called crizotinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733080" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Xalkori&quot;" language="en" id="_5"/><MediaLink ref="CDR0000733079" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Xalkori&quot;" language="es" id="_4"/><SpanishTermName>Xalkori</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de tumores miofibroblásticos inflamatorios positivos para ALK en adultos y en niños de 1 año o más, linfoma anaplásico de células grandes sistémico positivo para ALK en adultos jóvenes y en niños de 1 año o más, y cáncer de pulmón de células no pequeñas positivo para ALK o positivo para ROS1.  También está en estudio para el tratamiento de otros tipos de cáncer. Xalkori bloquea ciertas proteínas que se originan de los genes <GeneName>ALK</GeneName> y <GeneName>ROS1</GeneName>, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama crizotinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-10-04</DateFirstPublished><DateLastModified>2022-07-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000710816" url="/about-cancer/treatment/drugs/crizotinib">Crizotinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000710949">
+  <TermName>Xalkori</TermName>
+  <TermPronunciation>(zal-KOR-ee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat certain types of ALK-positive inflammatory myofibroblastic tumors in adults and children aged 1 year and older, ALK-positive systemic anaplastic large cell lymphoma in young adults and children aged 1 year and older, and ALK-positive or ROS1-positive non-small cell lung cancer. It is also being studied in the treatment of other types of cancer. Xalkori blocks certain proteins made by the 
+      <GeneName>ALK </GeneName>
+       and 
+      <GeneName>ROS1</GeneName>
+       genes, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called crizotinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733080" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Xalkori&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000733079" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Xalkori&quot;" language="es" id="_4"/>
+  <SpanishTermName>Xalkori</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de tumores miofibroblásticos inflamatorios positivos para ALK en adultos y en niños de 1 año o más, linfoma anaplásico de células grandes sistémico positivo para ALK en adultos jóvenes y en niños de 1 año o más, y cáncer de pulmón de células no pequeñas positivo para ALK o positivo para ROS1.  También está en estudio para el tratamiento de otros tipos de cáncer. Xalkori bloquea ciertas proteínas que se originan de los genes 
+      <GeneName>ALK</GeneName>
+       y 
+      <GeneName>ROS1</GeneName>
+      , lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama crizotinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-10-04</DateFirstPublished>
+  <DateLastModified>2022-07-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000710816" url="/about-cancer/treatment/drugs/crizotinib">Crizotinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,39 @@
-<GlossaryTerm id="CDR0000813577"><TermName>non-cardia gastric cancer</TermName><TermPronunciation>(non-KAR-dee-uh GAS-trik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A type of stomach cancer that begins in the mucous-producing cells in the inner lining of the main part of the stomach. This includes the fundus, body, antrum, and pylorus. Risk factors associated with non-cardia gastric cancer include chronic infection with the bacterium <ScientificName>H. pylori</ScientificName>, smoking tobacco, and consuming too much salt in the diet. Most non-cardia gastric cancers are adenocarcinomas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815667" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;non-cardia gastric cancer&quot;" language="en" id="_5"/><MediaLink ref="CDR0000815668" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer gástrico no cardial&quot;" language="es" id="_6"/><MediaLink ref="CDR0000791862" type="image/jpeg" alt="Drawing of the stomach showing the cardia, the fundus, the body, the antrum, and the pylorus." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">The stomach is an organ in the upper abdomen. It can be divided into the cardia and the non-cardia, which includes the fundus, the body, the antrum, and the pylorus. The stomach is part of the digestive system.</Caption></MediaLink><MediaLink ref="CDR0000792160" type="image/jpeg" alt="Imagen del estómago en la que se observa el cardias, el fondo, el cuerpo, el antro y el conducto pilórico." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El estómago es un órgano que se encuentra en la parte superior del abdomen. En la imagen se observa el cardias y el resto del estómago (región no cardial), que incluye el fondo, el cuerpo, el antro y el conducto pilórico. El estómago forma parte del aparato digestivo.</Caption></MediaLink><SpanishTermName>cáncer gástrico no cardial</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer de estómago que surge en las células productoras de mucosa que se encuentran en el revestimiento interno de la parte principal del estómago. Esta abarca el fondo, el cuerpo, el antro y el conducto pilórico. Los factores de riesgo relacionados con el cáncer gástrico no cardial incluyen la infección crónica por la bacteria <ScientificName>H. pylori</ScientificName>, el consumo de tabaco y el exceso de sal en la alimentación. La mayoría de los cánceres gástricos no cardiales son adenocarcinomas. También se llama cáncer de estómago no cardial y cáncer gástrico fuera del cardias.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-27</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/stomach" UseWith="en">What Is Stomach Cancer?</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/estomago">¿Qué es el cáncer de estómago?</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet" UseWith="en">Helicobacter pylori (H. pylori) and Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/hoja-informativa-h-pylori" UseWith="es">Helicobacter pylori y el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813577">
+  <TermName>non-cardia gastric cancer</TermName>
+  <TermPronunciation>(non-KAR-dee-uh GAS-trik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A type of stomach cancer that begins in the mucous-producing cells in the inner lining of the main part of the stomach. This includes the fundus, body, antrum, and pylorus. Risk factors associated with non-cardia gastric cancer include chronic infection with the bacterium 
+      <ScientificName>H. pylori</ScientificName>
+      , smoking tobacco, and consuming too much salt in the diet. Most non-cardia gastric cancers are adenocarcinomas.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815667" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;non-cardia gastric cancer&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000815668" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer gástrico no cardial&quot;" language="es" id="_6"/>
+  <MediaLink ref="CDR0000791862" type="image/jpeg" alt="Drawing of the stomach showing the cardia, the fundus, the body, the antrum, and the pylorus." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">The stomach is an organ in the upper abdomen. It can be divided into the cardia and the non-cardia, which includes the fundus, the body, the antrum, and the pylorus. The stomach is part of the digestive system.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000792160" type="image/jpeg" alt="Imagen del estómago en la que se observa el cardias, el fondo, el cuerpo, el antro y el conducto pilórico." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El estómago es un órgano que se encuentra en la parte superior del abdomen. En la imagen se observa el cardias y el resto del estómago (región no cardial), que incluye el fondo, el cuerpo, el antro y el conducto pilórico. El estómago forma parte del aparato digestivo.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer gástrico no cardial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Tipo de cáncer de estómago que surge en las células productoras de mucosa que se encuentran en el revestimiento interno de la parte principal del estómago. Esta abarca el fondo, el cuerpo, el antro y el conducto pilórico. Los factores de riesgo relacionados con el cáncer gástrico no cardial incluyen la infección crónica por la bacteria 
+      <ScientificName>H. pylori</ScientificName>
+      , el consumo de tabaco y el exceso de sal en la alimentación. La mayoría de los cánceres gástricos no cardiales son adenocarcinomas. También se llama cáncer de estómago no cardial y cáncer gástrico fuera del cardias.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-27</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/stomach" UseWith="en">What Is Stomach Cancer?</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/estomago">¿Qué es el cáncer de estómago?</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet" UseWith="en">Helicobacter pylori (H. pylori) and Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/hoja-informativa-h-pylori" UseWith="es">Helicobacter pylori y el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

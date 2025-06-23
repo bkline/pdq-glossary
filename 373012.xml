@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000373012"><TermName>glutathione S-transferase</TermName><TermPronunciation>(GLOO-tuh-THY-one ... TRANZ-feh-rays)</TermPronunciation><TermDefinition><DefinitionText>A family of enzymes involved in metabolism and in making toxic compounds less harmful to the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glutathione S-transferase&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glutatión S-transferasa&quot;" language="es" id="_4"/><SpanishTermName>glutatión S-transferasa</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de enzimas que participa en el metabolismo y en hacer que los compuestos tóxicos sean menos dañinos para el cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-05-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000373012">
+  <TermName>glutathione S-transferase</TermName>
+  <TermPronunciation>(GLOO-tuh-THY-one ... TRANZ-feh-rays)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A family of enzymes involved in metabolism and in making toxic compounds less harmful to the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glutathione S-transferase&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glutatión S-transferasa&quot;" language="es" id="_4"/>
+  <SpanishTermName>glutatión S-transferasa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de enzimas que participa en el metabolismo y en hacer que los compuestos tóxicos sean menos dañinos para el cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-05-28</DateFirstPublished>
+</GlossaryTerm>

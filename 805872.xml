@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000805872"><TermName>belzutifan</TermName><TermPronunciation>(bel-ZOO-tih-fan)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with renal cell carcinoma (a type of kidney cancer) that is advanced and adults with certain cancers linked to von Hippel-Lindau disease that do not need surgery right away, including renal cell carcinoma, central nervous system hemangioblastoma (a type of blood vessel tumor), and pancreatic neuroendocrine tumor. It is also being studied in the treatment of other types of cancer. Belzutifan blocks a certain protein, which may help keep tumor cells from growing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Also called Welireg.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806874" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;belzutifan&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806875" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;belzutifán&quot;" language="es" id="_4"/><SpanishTermName>belzutifán</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con carcinoma de células renales (tipo de cáncer de riñón) en estadio avanzado y de adultos con determinados cánceres relacionados con la enfermedad de Von Hippel-Lindau que no necesitan de cirugía inmediata, como carcinoma de células renales, hemangioblastoma del sistema nervioso central (tipo de tumor de vasos sanguíneos) o tumor neuroendocrino de páncreas. También está en estudio para el tratamiento de otros tipos de cáncer. El belzutifán bloquea cierta proteína, lo que quizás ayude a impedir la multiplicación de células cancerosas y las destruya. Es posible que también prevenga la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. También se llama Welireg.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-09-07</DateFirstPublished><DateLastModified>2024-01-10</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000806069" url="/about-cancer/treatment/drugs/belzutifan">Belzutifan</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805872">
+  <TermName>belzutifan</TermName>
+  <TermPronunciation>(bel-ZOO-tih-fan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with renal cell carcinoma (a type of kidney cancer) that is advanced and adults with certain cancers linked to von Hippel-Lindau disease that do not need surgery right away, including renal cell carcinoma, central nervous system hemangioblastoma (a type of blood vessel tumor), and pancreatic neuroendocrine tumor. It is also being studied in the treatment of other types of cancer. Belzutifan blocks a certain protein, which may help keep tumor cells from growing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Also called Welireg.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806874" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;belzutifan&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806875" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;belzutifán&quot;" language="es" id="_4"/>
+  <SpanishTermName>belzutifán</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con carcinoma de células renales (tipo de cáncer de riñón) en estadio avanzado y de adultos con determinados cánceres relacionados con la enfermedad de Von Hippel-Lindau que no necesitan de cirugía inmediata, como carcinoma de células renales, hemangioblastoma del sistema nervioso central (tipo de tumor de vasos sanguíneos) o tumor neuroendocrino de páncreas. También está en estudio para el tratamiento de otros tipos de cáncer. El belzutifán bloquea cierta proteína, lo que quizás ayude a impedir la multiplicación de células cancerosas y las destruya. Es posible que también prevenga la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. También se llama Welireg.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-09-07</DateFirstPublished>
+  <DateLastModified>2024-01-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000806069" url="/about-cancer/treatment/drugs/belzutifan">Belzutifan</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

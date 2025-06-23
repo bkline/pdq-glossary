@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000806984"><TermName>T315I mutation</TermName><TermPronunciation>(… myoo-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A type of mutation (change) in the BCR::ABL1 fusion protein, which is an abnormal protein found in most people with chronic myelogenous leukemia and in some with acute lymphoblastic leukemia. The T315I mutation may make cancer cells resistant (unable to respond) to anticancer drugs called tyrosine kinase inhibitors. Checking for the T315I mutation in cancer cells may help plan cancer treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000809772" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;T315I mutation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000809773" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación T315I&quot;" language="es" id="_4"/><SpanishTermName>mutación T315I</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de mutación (cambio) en la proteína de fusión BCR::ABL1, una proteína anormal que se encuentra en la mayoría de las personas con leucemia mielógena crónica y en algunas con leucemia linfoblástica aguda. La mutación  T315I a veces hace que las células cancerosas sean resistentes (incapaces de responder) a los medicamentos contra el cáncer llamados inhibidores de tirosina–cinasas. Es posible que detectar la mutación T315I en las células cancerosas ayude a planificar el tratamiento contra el cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-03-16</DateFirstPublished><DateLastModified>2024-10-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806984">
+  <TermName>T315I mutation</TermName>
+  <TermPronunciation>(… myoo-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of mutation (change) in the BCR::ABL1 fusion protein, which is an abnormal protein found in most people with chronic myelogenous leukemia and in some with acute lymphoblastic leukemia. The T315I mutation may make cancer cells resistant (unable to respond) to anticancer drugs called tyrosine kinase inhibitors. Checking for the T315I mutation in cancer cells may help plan cancer treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000809772" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;T315I mutation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000809773" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación T315I&quot;" language="es" id="_4"/>
+  <SpanishTermName>mutación T315I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de mutación (cambio) en la proteína de fusión BCR::ABL1, una proteína anormal que se encuentra en la mayoría de las personas con leucemia mielógena crónica y en algunas con leucemia linfoblástica aguda. La mutación  T315I a veces hace que las células cancerosas sean resistentes (incapaces de responder) a los medicamentos contra el cáncer llamados inhibidores de tirosina–cinasas. Es posible que detectar la mutación T315I en las células cancerosas ayude a planificar el tratamiento contra el cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-03-16</DateFirstPublished>
+  <DateLastModified>2024-10-29</DateLastModified>
+</GlossaryTerm>

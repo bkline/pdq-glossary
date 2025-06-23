@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797630"><TermName>episcleritis</TermName><TermPronunciation>(EH-pih-skleh-RY-tis)</TermPronunciation><TermDefinition><DefinitionText>A condition in which the thin layer of tissue that covers the sclera (the white part of the eye) becomes inflamed. The cause is usually not known, but it may occur with certain inflammatory conditions, such as lupus and rheumatoid arthritis. Signs and symptoms include redness, swelling, tenderness, mild pain in the eye, and sensitivity to light. Episcleritis usually does not affect vision and often goes away without treatment. Also called bulbar conjunctivitis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;episcleritis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000799561" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;epiescleritis&quot;" language="es" id="_4"/><SpanishTermName>epiescleritis</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se inflama la capa delgada de tejido que cubre la esclerótica (la parte blanca del ojo). Con frecuencia no se conoce la causa, pero puede presentarse en ciertas afecciones inflamatorias, como en el lupus y en la artritis reumatoide. Los signos y síntomas son enrojecimiento, hinchazón, dolor en el ojo e hipersensibilidad a la luz. La  epiescleritis por lo general no afecta la visión y a menudo desaparece sin tratamiento. También se llama episcleritis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797630">
+  <TermName>episcleritis</TermName>
+  <TermPronunciation>(EH-pih-skleh-RY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which the thin layer of tissue that covers the sclera (the white part of the eye) becomes inflamed. The cause is usually not known, but it may occur with certain inflammatory conditions, such as lupus and rheumatoid arthritis. Signs and symptoms include redness, swelling, tenderness, mild pain in the eye, and sensitivity to light. Episcleritis usually does not affect vision and often goes away without treatment. Also called bulbar conjunctivitis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;episcleritis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000799561" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;epiescleritis&quot;" language="es" id="_4"/>
+  <SpanishTermName>epiescleritis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se inflama la capa delgada de tejido que cubre la esclerótica (la parte blanca del ojo). Con frecuencia no se conoce la causa, pero puede presentarse en ciertas afecciones inflamatorias, como en el lupus y en la artritis reumatoide. Los signos y síntomas son enrojecimiento, hinchazón, dolor en el ojo e hipersensibilidad a la luz. La  epiescleritis por lo general no afecta la visión y a menudo desaparece sin tratamiento. También se llama episcleritis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-25</DateFirstPublished>
+</GlossaryTerm>

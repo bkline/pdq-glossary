@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803559"><TermName>pharmacologic substance</TermName><TermPronunciation>(FAR-muh-koh-LAH-jik SUB-stunts)</TermPronunciation><TermDefinition><DefinitionText>The main ingredient in a medicine that causes the desired effect of the medicine. Some medicines contain more than one pharmacologic substance that act in different ways in the body. Also called active pharmaceutical ingredient, API, and drug substance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805331" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pharmacologic substance&quot;" language="en" id="_4"/><MediaLink ref="CDR0000805332" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sustancia farmacéutica&quot;" language="es" id="_5"/><SpanishTermName>sustancia farmacéutica</SpanishTermName><SpanishTermDefinition><DefinitionText>El ingrediente principal de un medicamento, responsable del efecto deseado. Algunos medicamentos contienen más de una sustancia farmacéutica que actúa de diferentes maneras en el cuerpo. También se llama agente farmacológico, IFA, ingrediente farmacéutico activo y principio activo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803559">
+  <TermName>pharmacologic substance</TermName>
+  <TermPronunciation>(FAR-muh-koh-LAH-jik SUB-stunts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The main ingredient in a medicine that causes the desired effect of the medicine. Some medicines contain more than one pharmacologic substance that act in different ways in the body. Also called active pharmaceutical ingredient, API, and drug substance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805331" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pharmacologic substance&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000805332" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sustancia farmacéutica&quot;" language="es" id="_5"/>
+  <SpanishTermName>sustancia farmacéutica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El ingrediente principal de un medicamento, responsable del efecto deseado. Algunos medicamentos contienen más de una sustancia farmacéutica que actúa de diferentes maneras en el cuerpo. También se llama agente farmacológico, IFA, ingrediente farmacéutico activo y principio activo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-10</DateFirstPublished>
+</GlossaryTerm>

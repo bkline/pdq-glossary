@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000527371"><TermName>obesity</TermName><TermPronunciation>(oh-BEE-sih-tee)</TermPronunciation><TermDefinition><DefinitionText>A common, chronic disease marked by an abnormally high, unhealthy amount of body fat. Having obesity can lead to many health problems, including heart disease, stroke, high blood pressure, diabetes, sleep apnea, arthritis, kidney disease, and certain types of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718443" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;obesity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718445" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;obesidad&quot;" language="es" id="_4"/><SpanishTermName>obesidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad crónica común que se caracteriza por una acumulación anormal de grasa en el cuerpo, que no es saludable. Es posible que la obesidad produzca muchos problemas de salud, como enfermedades del corazón, enfermedad cerebrovascular, presión arterial alta, diabetes, apnea del sueño, artritis, enfermedades de los riñones y ciertos tipos de cáncer. También se llama adiposis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-04-13</DateFirstPublished><DateLastModified>2021-11-23</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity">Obesity</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad">Obesidad</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000527371">
+  <TermName>obesity</TermName>
+  <TermPronunciation>(oh-BEE-sih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A common, chronic disease marked by an abnormally high, unhealthy amount of body fat. Having obesity can lead to many health problems, including heart disease, stroke, high blood pressure, diabetes, sleep apnea, arthritis, kidney disease, and certain types of cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718443" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;obesity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718445" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;obesidad&quot;" language="es" id="_4"/>
+  <SpanishTermName>obesidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad crónica común que se caracteriza por una acumulación anormal de grasa en el cuerpo, que no es saludable. Es posible que la obesidad produzca muchos problemas de salud, como enfermedades del corazón, enfermedad cerebrovascular, presión arterial alta, diabetes, apnea del sueño, artritis, enfermedades de los riñones y ciertos tipos de cáncer. También se llama adiposis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-04-13</DateFirstPublished>
+  <DateLastModified>2021-11-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity">Obesity</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad">Obesidad</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

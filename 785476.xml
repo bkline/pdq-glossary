@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000785476"><TermName>primary renal myoepithelial carcinoma</TermName><TermPronunciation>(PRY-mayr-ee REE-nul MY-oh-eh-pih-THEE-lee-ul KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that forms in the kidney. Primary renal myoepithelial carcinoma often grows quickly and spreads to other parts of the body, especially in children. The cancer cells may have a certain genetic change called a translocation (part of one chromosome switches places with part of another chromosome).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788399" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary renal myoepithelial carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788398" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma mioepitelial renal primario&quot;" language="es" id="_4"/><SpanishTermName>carcinoma mioepitelial renal primario</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo poco frecuente de cáncer que se forma en el riñón. El carcinoma mioepitelial renal primario a menudo crece rápido y se disemina a otras partes del cuerpo; en particular, en los niños. Es posible que las células cancerosas tengan un cierto cambio genético que se llama translocación (parte de un cromosoma cambia de lugar con una parte de otro cromosoma).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000785476">
+  <TermName>primary renal myoepithelial carcinoma</TermName>
+  <TermPronunciation>(PRY-mayr-ee REE-nul MY-oh-eh-pih-THEE-lee-ul KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that forms in the kidney. Primary renal myoepithelial carcinoma often grows quickly and spreads to other parts of the body, especially in children. The cancer cells may have a certain genetic change called a translocation (part of one chromosome switches places with part of another chromosome).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788399" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary renal myoepithelial carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788398" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma mioepitelial renal primario&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma mioepitelial renal primario</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo poco frecuente de cáncer que se forma en el riñón. El carcinoma mioepitelial renal primario a menudo crece rápido y se disemina a otras partes del cuerpo; en particular, en los niños. Es posible que las células cancerosas tengan un cierto cambio genético que se llama translocación (parte de un cromosoma cambia de lugar con una parte de otro cromosoma).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-20</DateFirstPublished>
+</GlossaryTerm>

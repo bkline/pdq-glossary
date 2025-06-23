@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000792337"><TermName>apalutamide</TermName><TermPronunciation>(A-puh-LOO-tuh-mide)</TermPronunciation><TermDefinition><DefinitionText>A drug used to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792337">
+  <TermName>apalutamide</TermName>
+  <TermPronunciation>(A-puh-LOO-tuh-mide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to
           treat prostate cancer that has spread to other parts of the
           body and is castration sensitive (has responded to
           treatments that lower testosterone levels) and prostate
@@ -11,7 +16,15 @@
           hormones) and may cause cancer cells to grow.
           Apalutamide blocks these proteins
           and may keep cancer cells from growing. It is a type of
-          antiandrogen. Also called Erleada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apalutamide&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793334" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apalutamida&quot;" language="es" id="_4"/><SpanishTermName>apalutamida</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+          antiandrogen. Also called Erleada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apalutamide&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793334" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apalutamida&quot;" language="es" id="_4"/>
+  <SpanishTermName>apalutamida</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento del cáncer de próstata que se diseminó a otras partes
 del cuerpo y que es sensible a la castración (respondió a
 los tratamientos que disminuyen la concentración de
@@ -25,4 +38,13 @@ células de cáncer de próstata. Estas proteínas se unen a
 los andrógenos (hormonas masculinas) y a veces hacen que las células cancerosas se multipliquen.
 La apalutamida bloquea estas proteínas y es
 posible que impida la multiplicación de células cancerosas.
-Es un tipo de antiandrógeno. También se llama Erleada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-16</DateFirstPublished><DateLastModified>2020-10-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000792335" url="/about-cancer/treatment/drugs/apalutamide">Apalutamide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+Es un tipo de antiandrógeno. También se llama Erleada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-16</DateFirstPublished>
+  <DateLastModified>2020-10-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000792335" url="/about-cancer/treatment/drugs/apalutamide">Apalutamide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044066"><TermName>nonblinded</TermName><TermPronunciation>(non-BLINE-ded)</TermPronunciation><TermDefinition><DefinitionText>A type of study in which both the health providers and the patients are aware of the drug or treatment being given. Also called open label study.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704117" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nonblinded&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704116" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sin enmascaramiento&quot;" language="es" id="_4"/><SpanishTermName>sin enmascaramiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de estudio en el que tanto los proveedores de la salud como los pacientes conocen el medicamento o el tratamiento que se administra. También se llama al descubierto, estudio sin anonimato, no enmascarado y sin anonimato.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044066">
+  <TermName>nonblinded</TermName>
+  <TermPronunciation>(non-BLINE-ded)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of study in which both the health providers and the patients are aware of the drug or treatment being given. Also called open label study.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704117" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nonblinded&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704116" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sin enmascaramiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>sin enmascaramiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de estudio en el que tanto los proveedores de la salud como los pacientes conocen el medicamento o el tratamiento que se administra. También se llama al descubierto, estudio sin anonimato, no enmascarado y sin anonimato.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

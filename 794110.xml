@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000794110"><TermName>broad ligament</TermName><TermPronunciation>(brod LIH-guh-ment)</TermPronunciation><TermDefinition><DefinitionText>The layer of tissue that connects the sides of the uterus to the walls and floor of the pelvis. The broad ligament covers the uterus, ovaries, and fallopian tubes. It also includes nerves and blood vessels to these organs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796127" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;broad ligament&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796126" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ligamento ancho&quot;" language="es" id="_4"/><SpanishTermName>ligamento ancho</SpanishTermName><SpanishTermDefinition><DefinitionText>Capa de tejido que conecta los lados del útero con las paredes y el piso de la pelvis. El ligamento ancho cubre el útero, los ovarios y las trompas de Falopio. También contiene nervios y vasos sanguíneos que van a estos órganos. También se llama ligamento ancho del útero.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-08-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794110">
+  <TermName>broad ligament</TermName>
+  <TermPronunciation>(brod LIH-guh-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The layer of tissue that connects the sides of the uterus to the walls and floor of the pelvis. The broad ligament covers the uterus, ovaries, and fallopian tubes. It also includes nerves and blood vessels to these organs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796127" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;broad ligament&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796126" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ligamento ancho&quot;" language="es" id="_4"/>
+  <SpanishTermName>ligamento ancho</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Capa de tejido que conecta los lados del útero con las paredes y el piso de la pelvis. El ligamento ancho cubre el útero, los ovarios y las trompas de Falopio. También contiene nervios y vasos sanguíneos que van a estos órganos. También se llama ligamento ancho del útero.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-08-17</DateFirstPublished>
+</GlossaryTerm>

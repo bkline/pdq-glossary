@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000803179"><TermName>XPA gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in repairing damaged DNA. Mutations (changes) in the <GeneName>XPA</GeneName> gene may keep cells from repairing their DNA, which may cause abnormal cells, including cancer cells, to grow. <GeneName>XPA</GeneName> gene mutations have been found in an inherited condition called xeroderma pigmentosum. People with this condition have a very high risk of developing skin cancer and other types of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805245" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;XPA gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805246" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen XPA&quot;" language="es" id="_4"/><SpanishTermName>gen XPA</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la reparación del ADN dañado. Las mutaciones (cambios) en el gen  <GeneName>XPA</GeneName> quizás impidan que las células reparen su ADN, lo que en ocasiones produce la multiplicación  de células anormales, incluso células cancerosas. Se han encontrado mutaciones del gen <GeneName>XPA</GeneName> en una afección hereditaria llamada xeroderma pigmentoso. Las personas con esta afección tienen un riesgo muy alto de presentar cáncer de piel y otros tipos de cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/xpa/">XPA gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803179">
+  <TermName>XPA gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in repairing damaged DNA. Mutations (changes) in the 
+      <GeneName>XPA</GeneName>
+       gene may keep cells from repairing their DNA, which may cause abnormal cells, including cancer cells, to grow. 
+      <GeneName>XPA</GeneName>
+       gene mutations have been found in an inherited condition called xeroderma pigmentosum. People with this condition have a very high risk of developing skin cancer and other types of cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805245" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;XPA gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805246" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen XPA&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen XPA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la reparación del ADN dañado. Las mutaciones (cambios) en el gen  
+      <GeneName>XPA</GeneName>
+       quizás impidan que las células reparen su ADN, lo que en ocasiones produce la multiplicación  de células anormales, incluso células cancerosas. Se han encontrado mutaciones del gen 
+      <GeneName>XPA</GeneName>
+       en una afección hereditaria llamada xeroderma pigmentoso. Las personas con esta afección tienen un riesgo muy alto de presentar cáncer de piel y otros tipos de cáncer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/xpa/">XPA gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

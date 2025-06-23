@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000269413"><TermName>brostallicin hydrochloride</TermName><TermPronunciation>(brah-STAH-lih-sin HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of cancer. Brostallicin hydrochloride binds to DNA and may kill cancer cells.  It may also help other drugs kill cancer cells. It is a type of DNA minor groove binding agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709937" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;brostallicin hydrochloride&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de brostalicina&quot;" language="es" id="_4"/><SpanishTermName>clorhidrato de brostalicina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de cáncer. El clorhidrato de brostalicina se une al ADN y es posible que elimine células cancerosas. A veces, también ayuda a otros medicamentos a destruir células cancerosas. Es un tipo de sustancia que aglutina los surcos menores del ADN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2002-12-21</DateFirstPublished><DateLastModified>2009-11-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000269413">
+  <TermName>brostallicin hydrochloride</TermName>
+  <TermPronunciation>(brah-STAH-lih-sin HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of cancer. Brostallicin hydrochloride binds to DNA and may kill cancer cells.  It may also help other drugs kill cancer cells. It is a type of DNA minor groove binding agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709937" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;brostallicin hydrochloride&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de brostalicina&quot;" language="es" id="_4"/>
+  <SpanishTermName>clorhidrato de brostalicina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de cáncer. El clorhidrato de brostalicina se une al ADN y es posible que elimine células cancerosas. A veces, también ayuda a otros medicamentos a destruir células cancerosas. Es un tipo de sustancia que aglutina los surcos menores del ADN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2002-12-21</DateFirstPublished>
+  <DateLastModified>2009-11-13</DateLastModified>
+</GlossaryTerm>

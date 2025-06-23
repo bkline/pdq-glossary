@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000791170"><TermName>traditional surrogate</TermName><TermPronunciation>(truh-DIH-shuh-nul SER-uh-gut)</TermPronunciation><TermDefinition><DefinitionText>A woman who carries and gives birth to a baby for a person who is not able to have children. The woman who is the traditional surrogate can either get pregnant by artificial insemination with sperm from a sperm donor, or her eggs can be fertilized in the laboratory with sperm from a sperm donor to make an embryo. The embryo is implanted in the uterus of the traditional surrogate, who carries the baby until birth. The traditional surrogate is genetically related to the baby and is the biological mother.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792172" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;traditional surrogate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792173" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gestante subrogada tradicional&quot;" language="es" id="_4"/><SpanishTermName>gestante subrogada tradicional</SpanishTermName><SpanishTermDefinition><DefinitionText>Mujer que lleva en su vientre un bebé, en lugar de una persona que no puede tener hijos, hasta dar a luz. La mujer que es gestante subrogada tradicional queda embarazada por  inseminación artificial con espermatozoides de un donante, o sus propios óvulos se fecundan en el laboratorio con espermatozoides de un donante para formar un embrión. El embrión se implanta en el útero de la gestante subrogada tradicional, quien continúa el embarazo hasta que nace el bebé. La gestante subrogada tradicional tiene un vínculo genético con el bebé y es su madre biológica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-12-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791170">
+  <TermName>traditional surrogate</TermName>
+  <TermPronunciation>(truh-DIH-shuh-nul SER-uh-gut)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A woman who carries and gives birth to a baby for a person who is not able to have children. The woman who is the traditional surrogate can either get pregnant by artificial insemination with sperm from a sperm donor, or her eggs can be fertilized in the laboratory with sperm from a sperm donor to make an embryo. The embryo is implanted in the uterus of the traditional surrogate, who carries the baby until birth. The traditional surrogate is genetically related to the baby and is the biological mother.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792172" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;traditional surrogate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792173" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gestante subrogada tradicional&quot;" language="es" id="_4"/>
+  <SpanishTermName>gestante subrogada tradicional</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Mujer que lleva en su vientre un bebé, en lugar de una persona que no puede tener hijos, hasta dar a luz. La mujer que es gestante subrogada tradicional queda embarazada por  inseminación artificial con espermatozoides de un donante, o sus propios óvulos se fecundan en el laboratorio con espermatozoides de un donante para formar un embrión. El embrión se implanta en el útero de la gestante subrogada tradicional, quien continúa el embarazo hasta que nace el bebé. La gestante subrogada tradicional tiene un vínculo genético con el bebé y es su madre biológica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-12-18</DateFirstPublished>
+</GlossaryTerm>

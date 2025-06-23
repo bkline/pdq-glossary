@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803521"><TermName>clinical validity</TermName><TermPronunciation>(KLIH-nih-kul vuh-LIH-dih-tee)</TermPronunciation><TermDefinition><DefinitionText>A term that refers to the predictive value of a test for a given clinical outcome (e.g., the likelihood that cancer will develop in someone with a positive test). Clinical validity is primarily determined by the sensitivity and specificity with which a test identifies individuals with a defined clinical condition within a given population. The clinical validity of a genetic test is the likelihood that cancer will develop in someone with a positive test result. </DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000804484" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clinical validity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804485" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;validez clínica&quot;" language="es" id="_4"/><SpanishTermName>validez clínica</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se refiere al valor predictivo de una prueba para un desenlace clínico determinado (por ejemplo, la verosimilitud de que una persona con un resultado positivo de una prueba presente un cáncer). La validez clínica se determina sobre todo por la sensibilidad y la especificidad de la prueba para identificar a las personas con una afección clínica determinada dentro de una población específica. La validez clínica de una prueba genética es la verosimilitud de que una persona con un resultado positivo presente un cáncer.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2020-11-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803521">
+  <TermName>clinical validity</TermName>
+  <TermPronunciation>(KLIH-nih-kul vuh-LIH-dih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term that refers to the predictive value of a test for a given clinical outcome (e.g., the likelihood that cancer will develop in someone with a positive test). Clinical validity is primarily determined by the sensitivity and specificity with which a test identifies individuals with a defined clinical condition within a given population. The clinical validity of a genetic test is the likelihood that cancer will develop in someone with a positive test result. </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804484" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clinical validity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804485" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;validez clínica&quot;" language="es" id="_4"/>
+  <SpanishTermName>validez clínica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se refiere al valor predictivo de una prueba para un desenlace clínico determinado (por ejemplo, la verosimilitud de que una persona con un resultado positivo de una prueba presente un cáncer). La validez clínica se determina sobre todo por la sensibilidad y la especificidad de la prueba para identificar a las personas con una afección clínica determinada dentro de una población específica. La validez clínica de una prueba genética es la verosimilitud de que una persona con un resultado positivo presente un cáncer.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-11-24</DateFirstPublished>
+</GlossaryTerm>

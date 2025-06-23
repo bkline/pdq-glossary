@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000776580"><TermName>VAC regimen</TermName><TermPronunciation>(... REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat rhabdomyosarcoma in children. It is also used to treat certain types of ovarian germ cell tumors. VAC regimen includes the drugs vincristine sulfate, dactinomycin (actinomycin-D), and cyclophosphamide. Also called VAC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000778396" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VAC regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000778397" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen VAC&quot;" language="es" id="_4"/><SpanishTermName>régimen VAC</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del rabdomiosarcoma en niños. También se utiliza para tratar ciertos tipos de tumores de células germinativas del ovario. El régimen VAC incluye los medicamentos sulfato de vincristina, dactinomicina (actinomicina-D) y ciclofosfamida. También se llama VAC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-12-08</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000776557" url="/about-cancer/treatment/drugs/VAC">VAC</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776580">
+  <TermName>VAC regimen</TermName>
+  <TermPronunciation>(... REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat rhabdomyosarcoma in children. It is also used to treat certain types of ovarian germ cell tumors. VAC regimen includes the drugs vincristine sulfate, dactinomycin (actinomycin-D), and cyclophosphamide. Also called VAC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000778396" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VAC regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000778397" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen VAC&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen VAC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del rabdomiosarcoma en niños. También se utiliza para tratar ciertos tipos de tumores de células germinativas del ovario. El régimen VAC incluye los medicamentos sulfato de vincristina, dactinomicina (actinomicina-D) y ciclofosfamida. También se llama VAC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-12-08</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000776557" url="/about-cancer/treatment/drugs/VAC">VAC</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046672"><TermName>stage III adult soft tissue sarcoma of the trunk, arms, and legs</TermName><TermPronunciation>(... uh-DULT ... TIH-shoo sar-KOH-muh ...)</TermPronunciation><TermDefinition><DefinitionText>Stage III is divided into stages IIIA and IIIB. In stage IIIA, the tumor is larger than 5 centimeters but not larger than 10 centimeters and is mid grade or high grade.  Mid-grade and high-grade cancer cells look more abnormal under a microscope and grow and spread more quickly than low-grade cancer cells. In stage IIIB, the tumor is larger than 10 centimeters and is mid grade or high grade.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709906" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III soft tissue sarcoma of the trunk, arms, and legs&quot;" language="en" id="_5"/><MediaLink ref="CDR0000709905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de tejido blando del tronco y las extremidades en estadio III en adultos&quot;" language="es" id="_6"/><SpanishTermName>sarcoma de tejido blando del tronco y las extremidades en estadio III en adultos</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio III se divide en los estadios IIIA y IIIB. En el estadio IIIA, el tumor mide más de 5 cm, pero no más de 10 cm y es de grado intermedio o alto. Las células cancerosas de grado intermedio o alto se ven más anormales cuando se observan al microscopio; además se multiplican y diseminan más rápido que las células cancerosas de grado bajo. En el estadio IIIB, el tumor mide más de 10 cm y es de grado intermedio o alto.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-06-25</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258102" url="/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq">Soft Tissue Sarcoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000520407" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq">Tratamiento del sarcoma de tejido blando</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046672">
+  <TermName>stage III adult soft tissue sarcoma of the trunk, arms, and legs</TermName>
+  <TermPronunciation>(... uh-DULT ... TIH-shoo sar-KOH-muh ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage III is divided into stages IIIA and IIIB. In stage IIIA, the tumor is larger than 5 centimeters but not larger than 10 centimeters and is mid grade or high grade.  Mid-grade and high-grade cancer cells look more abnormal under a microscope and grow and spread more quickly than low-grade cancer cells. In stage IIIB, the tumor is larger than 10 centimeters and is mid grade or high grade.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709906" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III soft tissue sarcoma of the trunk, arms, and legs&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000709905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de tejido blando del tronco y las extremidades en estadio III en adultos&quot;" language="es" id="_6"/>
+  <SpanishTermName>sarcoma de tejido blando del tronco y las extremidades en estadio III en adultos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio III se divide en los estadios IIIA y IIIB. En el estadio IIIA, el tumor mide más de 5 cm, pero no más de 10 cm y es de grado intermedio o alto. Las células cancerosas de grado intermedio o alto se ven más anormales cuando se observan al microscopio; además se multiplican y diseminan más rápido que las células cancerosas de grado bajo. En el estadio IIIB, el tumor mide más de 10 cm y es de grado intermedio o alto.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-06-25</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258102" url="/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq">Soft Tissue Sarcoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000520407" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq">Tratamiento del sarcoma de tejido blando</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

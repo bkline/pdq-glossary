@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000046649"><TermName>vital</TermName><TermPronunciation>(VY-tul)</TermPronunciation><TermDefinition><DefinitionText>Necessary to maintain life. Breathing is a vital function.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709866" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vital&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709865" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vital&quot;" language="es" id="_4"/><SpanishTermName>vital</SpanishTermName><SpanishTermDefinition><DefinitionText>Necesario para mantener la vida. La respiración es una función vital.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046649">
+  <TermName>vital</TermName>
+  <TermPronunciation>(VY-tul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Necessary to maintain life. Breathing is a vital function.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709866" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vital&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709865" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vital&quot;" language="es" id="_4"/>
+  <SpanishTermName>vital</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Necesario para mantener la vida. La respiración es una función vital.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

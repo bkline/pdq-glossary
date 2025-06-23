@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000785630"><TermName>DOT</TermName><TermDefinition><DefinitionText>A procedure that uses light waves to create 3-dimensional (3-D) pictures of tissues inside the body. The pictures are created by a computer linked to the light source. DOT may be used to look at blood flow to the tissues and to measure changes in the amount of oxygen in them. This may help show the difference between normal and abnormal tissue. DOT may be especially useful for looking at soft tissue, such as breast and brain tissue. It is being studied as an imaging test to help diagnose early-stage breast cancer and other conditions. Also called diffuse optical tomography.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>DOT</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se utilizan ondas de luz a fin de crear imágenes tridimensionales  (3D) de los tejidos del interior del cuerpo. Una computadora conectada a la fuente de luz crea las imágenes. La DOT se puede usar para observar el flujo de sangre que llega a los tejidos y medir los cambios en el cantidad de oxígeno en estos. Es posible que esto ayude a señalar las diferencias entre los tejidos normales  y anormales. La DOT puede ser especialmente útil para examinar el tejido blando, como el tejido de la mama y del encéfalo. Esta prueba con imágenes está en estudio para ayudar a diagnosticar el cáncer de mama en estadio temprano y otras afecciones. También se llama tomografía óptica difusa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-05-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000785630">
+  <TermName>DOT</TermName>
+  <TermDefinition>
+    <DefinitionText>A procedure that uses light waves to create 3-dimensional (3-D) pictures of tissues inside the body. The pictures are created by a computer linked to the light source. DOT may be used to look at blood flow to the tissues and to measure changes in the amount of oxygen in them. This may help show the difference between normal and abnormal tissue. DOT may be especially useful for looking at soft tissue, such as breast and brain tissue. It is being studied as an imaging test to help diagnose early-stage breast cancer and other conditions. Also called diffuse optical tomography.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>DOT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para el que se utilizan ondas de luz a fin de crear imágenes tridimensionales  (3D) de los tejidos del interior del cuerpo. Una computadora conectada a la fuente de luz crea las imágenes. La DOT se puede usar para observar el flujo de sangre que llega a los tejidos y medir los cambios en el cantidad de oxígeno en estos. Es posible que esto ayude a señalar las diferencias entre los tejidos normales  y anormales. La DOT puede ser especialmente útil para examinar el tejido blando, como el tejido de la mama y del encéfalo. Esta prueba con imágenes está en estudio para ayudar a diagnosticar el cáncer de mama en estadio temprano y otras afecciones. También se llama tomografía óptica difusa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-05-10</DateFirstPublished>
+</GlossaryTerm>

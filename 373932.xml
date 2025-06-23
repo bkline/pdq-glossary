@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000373932"><TermName>dietary supplement</TermName><TermPronunciation>(DY-uh-TAYR-ee SUH-pleh-ment)</TermPronunciation><TermDefinition><DefinitionText>A product that is added to the diet. A dietary supplement is taken by mouth and usually contains one or more dietary ingredients. Examples of dietary ingredients include vitamins, minerals, herbs, amino acids, and enzymes. A person should talk with their health care provider before taking dietary supplements, as some may have side effects or interact with other dietary supplements and medicines. Also called nutritional supplement.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711126" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dietary supplement&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711125" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;suplemento alimenticio&quot;" language="es" id="_7"/><SpanishTermName>suplemento alimenticio</SpanishTermName><SpanishTermDefinition><DefinitionText>Producto que se añade a la alimentación (dieta). Un suplemento alimenticio se toma por la boca y, por lo general, contiene uno o varios componentes, como vitaminas, minerales, hierbas, aminoácidos y enzimas. Antes de tomar  suplementos se debe consultar con el proveedor de atención de la salud, ya que algunos tienen efectos secundarios o pueden interactuar con otros suplementos alimenticios o con medicamentos. También se llama complemento alimenticio, suplemento alimentario, suplemento dietético y suplemento nutricional.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-06-10</DateFirstPublished><DateLastModified>2024-08-01</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000805098" url="/about-cancer/treatment/cam/patient/dietary-interactions-pdq">Cancer Therapy Interactions With Foods and Dietary Supplements</RelatedSummaryRef><RelatedExternalRef UseWith="en" xref="https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements">FDA 101: Dietary Supplements</RelatedExternalRef><RelatedSummaryRef UseWith="es" href="CDR0000812465" url="/espanol/cancer/tratamiento/mca/paciente/interacciones-alimentos-suplementos-pdq">Interacciones de los alimentos y suplementos alimenticios con el tratamiento del cáncer</RelatedSummaryRef><RelatedExternalRef xref="https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/introduccion-basica-los-suplementos-dieteticos" UseWith="es">Introducción básica a los suplementos dietéticos</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000373932">
+  <TermName>dietary supplement</TermName>
+  <TermPronunciation>(DY-uh-TAYR-ee SUH-pleh-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A product that is added to the diet. A dietary supplement is taken by mouth and usually contains one or more dietary ingredients. Examples of dietary ingredients include vitamins, minerals, herbs, amino acids, and enzymes. A person should talk with their health care provider before taking dietary supplements, as some may have side effects or interact with other dietary supplements and medicines. Also called nutritional supplement.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711126" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dietary supplement&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711125" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;suplemento alimenticio&quot;" language="es" id="_7"/>
+  <SpanishTermName>suplemento alimenticio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Producto que se añade a la alimentación (dieta). Un suplemento alimenticio se toma por la boca y, por lo general, contiene uno o varios componentes, como vitaminas, minerales, hierbas, aminoácidos y enzimas. Antes de tomar  suplementos se debe consultar con el proveedor de atención de la salud, ya que algunos tienen efectos secundarios o pueden interactuar con otros suplementos alimenticios o con medicamentos. También se llama complemento alimenticio, suplemento alimentario, suplemento dietético y suplemento nutricional.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-06-10</DateFirstPublished>
+  <DateLastModified>2024-08-01</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000805098" url="/about-cancer/treatment/cam/patient/dietary-interactions-pdq">Cancer Therapy Interactions With Foods and Dietary Supplements</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements">FDA 101: Dietary Supplements</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000812465" url="/espanol/cancer/tratamiento/mca/paciente/interacciones-alimentos-suplementos-pdq">Interacciones de los alimentos y suplementos alimenticios con el tratamiento del cáncer</RelatedSummaryRef>
+    <RelatedExternalRef xref="https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/introduccion-basica-los-suplementos-dieteticos" UseWith="es">Introducción básica a los suplementos dietéticos</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

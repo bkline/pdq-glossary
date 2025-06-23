@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000658776"><TermName>Ensure</TermName><TermPronunciation>(en-SHER)</TermPronunciation><TermDefinition><DefinitionText>A type of nutrition drink that may help people who cannot get all the nutrients they need from foods and other drinks. Ensure has vitamins, minerals, protein, and fats. It may be added to a person’s diet to help build strong bones, rebuild muscle and strength, and help the body heal after injury or surgery. Ensure may be taken by mouth or given through tube feeding.  Ensure is a type of polymeric enteral nutrition formula and a type of dietary supplement.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726119" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ensure&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726118" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ensure&quot;" language="es" id="_4"/><SpanishTermName>Ensure</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de bebida nutricional que ayuda a aquellas personas que no pueden obtener todos los nutrientes necesarios de los alimentos y otras bebidas. Ensure contiene vitaminas, minerales, proteínas y grasas. Se añade al régimen alimentario de las personas para contribuir a formar huesos fuertes, recuperar los músculos y la fuerza,  y ayudar al cuerpo a sanar después de una lesión o cirugía.   Es posible tomarlo por boca o administrarlo mediante alimentación por sonda.   Ensure es un tipo de complemento alimentario y de fórmula polimérica de nutrición enteral.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-03-30</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000658776">
+  <TermName>Ensure</TermName>
+  <TermPronunciation>(en-SHER)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of nutrition drink that may help people who cannot get all the nutrients they need from foods and other drinks. Ensure has vitamins, minerals, protein, and fats. It may be added to a person’s diet to help build strong bones, rebuild muscle and strength, and help the body heal after injury or surgery. Ensure may be taken by mouth or given through tube feeding.  Ensure is a type of polymeric enteral nutrition formula and a type of dietary supplement.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726119" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ensure&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726118" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ensure&quot;" language="es" id="_4"/>
+  <SpanishTermName>Ensure</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de bebida nutricional que ayuda a aquellas personas que no pueden obtener todos los nutrientes necesarios de los alimentos y otras bebidas. Ensure contiene vitaminas, minerales, proteínas y grasas. Se añade al régimen alimentario de las personas para contribuir a formar huesos fuertes, recuperar los músculos y la fuerza,  y ayudar al cuerpo a sanar después de una lesión o cirugía.   Es posible tomarlo por boca o administrarlo mediante alimentación por sonda.   Ensure es un tipo de complemento alimentario y de fórmula polimérica de nutrición enteral.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-03-30</DateFirstPublished>
+</GlossaryTerm>

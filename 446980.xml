@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000446980"><TermName>bowel function</TermName><TermPronunciation>(BOW-ul FUNK-shun)</TermPronunciation><TermDefinition><DefinitionText>The way the intestines work in terms of how often there are bowel movements, the ability to control when to have a bowel movement, and whether the stools are hard and dry as in constipation or watery as in diarrhea.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bowel function&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;funcionamiento intestinal&quot;" language="es" id="_4"/><SpanishTermName>funcionamiento intestinal</SpanishTermName><SpanishTermDefinition><DefinitionText>Manera como los intestinos funcionan en cuanto a las evacuaciones intestinales: frecuencia, capacidad de controlar el momento en que suceden y aspecto de las heces (duras y secas como  en el estreñimiento, o acuosas como en la diarrea). También se llama función intestinal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446980">
+  <TermName>bowel function</TermName>
+  <TermPronunciation>(BOW-ul FUNK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The way the intestines work in terms of how often there are bowel movements, the ability to control when to have a bowel movement, and whether the stools are hard and dry as in constipation or watery as in diarrhea.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bowel function&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;funcionamiento intestinal&quot;" language="es" id="_4"/>
+  <SpanishTermName>funcionamiento intestinal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Manera como los intestinos funcionan en cuanto a las evacuaciones intestinales: frecuencia, capacidad de controlar el momento en que suceden y aspecto de las heces (duras y secas como  en el estreñimiento, o acuosas como en la diarrea). También se llama función intestinal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

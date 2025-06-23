@@ -1,3 +1,21 @@
-<GlossaryTerm id="CDR0000045521"><TermName>FR901228</TermName><TermDefinition><DefinitionText>A drug used to treat adults with cutaneous T-cell lymphoma that has already been treated with at least one other type of systemic therapy.  It is also being studied in the treatment of other types of cancer. FR901228 blocks certain enzymes needed for cell division and may kill cancer cells. It is a type of depsipeptide and a type of histone deacetylase inhibitor. Also called Istodax and romidepsin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>FR901228</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con linfoma cutáneo de células T para el que ya recibieron por lo menos otro tipo de terapia sistémica. También está en estudio para el tratamiento de
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045521">
+  <TermName>FR901228</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with cutaneous T-cell lymphoma that has already been treated with at least one other type of systemic therapy.  It is also being studied in the treatment of other types of cancer. FR901228 blocks certain enzymes needed for cell division and may kill cancer cells. It is a type of depsipeptide and a type of histone deacetylase inhibitor. Also called Istodax and romidepsin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>FR901228</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con linfoma cutáneo de células T para el que ya recibieron por lo menos otro tipo de terapia sistémica. También está en estudio para el tratamiento de
 otros tipos de cáncer. FR901228 bloquea ciertas enzimas necesarias para la división celular y es posible que destruya células cancerosas. Es un tipo de depsipéptido
-y de inhibidor de la histona–desacetilasa. También se llama Istodax y romidepsina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000659493" url="/about-cancer/treatment/drugs/romidepsin">Romidepsin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+y de inhibidor de la histona–desacetilasa. También se llama Istodax y romidepsina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000659493" url="/about-cancer/treatment/drugs/romidepsin">Romidepsin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

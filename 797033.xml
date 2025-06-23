@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000797033"><TermName>panic disorder</TermName><TermPronunciation>(PA-nik dis-OR-der)</TermPronunciation><TermDefinition><DefinitionText>A type of anxiety
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797033">
+  <TermName>panic disorder</TermName>
+  <TermPronunciation>(PA-nik dis-OR-der)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of anxiety
           disorder in which a person has repeated panic attacks when
           there is no actual danger. Panic attacks are sudden periods
           of intense anxiety or fear that may cause irrational
@@ -9,5 +14,22 @@
           several minutes or longer. People with a panic disorder
           often worry that the panic attacks will happen again and
           try to avoid places or situations in which they have
-          occurred.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798880" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;panic disorder&quot;" language="en" id="_4"/><MediaLink ref="CDR0000798881" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno de pánico&quot;" language="es" id="_5"/><SpanishTermName>trastorno de pánico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de trastorno de ansiedad por el que la persona tiene crisis de pánico o angustia que se repiten, cuando no hay un peligro verdadero. Las crisis de pánico son períodos de ansiedad o miedo intensos y de inicio brusco que a veces producen pensamientos 
-          o acciones irracionales. Durante una crisis de pánico, la persona puede presentar dolor en el tórax,  dificultad para respirar, latidos cardíacos rápidos, sudoración, temblor, mareo y sensación de peligro inminente o de pérdida de control. Por lo general, estas crisis duran varios minutos o más. Con frecuencia, a las personas con este trastorno les preocupa que las crisis de pánico se repitan  y tratan de evitar los lugares o las situaciones en los que estas ocurrieron. También se llama trastorno de angustia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-25</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000269124" url="/about-cancer/coping/feelings/anxiety-distress-pdq">Adjustment to Cancer: Anxiety and Distress</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000269587" url="/espanol/cancer/sobrellevar/sentimientos/ansiedad-sufrimiento-pdq">Adaptación al cáncer: ansiedad y sufrimiento</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+          occurred.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798880" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;panic disorder&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000798881" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno de pánico&quot;" language="es" id="_5"/>
+  <SpanishTermName>trastorno de pánico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de trastorno de ansiedad por el que la persona tiene crisis de pánico o angustia que se repiten, cuando no hay un peligro verdadero. Las crisis de pánico son períodos de ansiedad o miedo intensos y de inicio brusco que a veces producen pensamientos 
+          o acciones irracionales. Durante una crisis de pánico, la persona puede presentar dolor en el tórax,  dificultad para respirar, latidos cardíacos rápidos, sudoración, temblor, mareo y sensación de peligro inminente o de pérdida de control. Por lo general, estas crisis duran varios minutos o más. Con frecuencia, a las personas con este trastorno les preocupa que las crisis de pánico se repitan  y tratan de evitar los lugares o las situaciones en los que estas ocurrieron. También se llama trastorno de angustia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-25</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000269124" url="/about-cancer/coping/feelings/anxiety-distress-pdq">Adjustment to Cancer: Anxiety and Distress</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000269587" url="/espanol/cancer/sobrellevar/sentimientos/ansiedad-sufrimiento-pdq">Adaptación al cáncer: ansiedad y sufrimiento</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

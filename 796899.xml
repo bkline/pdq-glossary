@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796899"><TermName>psychotropic substance</TermName><TermPronunciation>(SY-koh-TROH-pik SUB-stunts)</TermPronunciation><TermDefinition><DefinitionText>A drug or other substance that affects how the brain works and causes changes in mood, awareness, thoughts, feelings, or behavior. Examples of psychotropic substances include alcohol, caffeine, nicotine, marijuana, and certain pain medicines. Many illegal drugs, such as heroin, LSD, cocaine, and amphetamines are also psychotropic substances. Also called psychoactive substance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798074" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychotropic substance&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798072" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sustancia psicotrópica&quot;" language="es" id="_4"/><SpanishTermName>sustancia psicotrópica</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento u otra sustancia que afecta el funcionamiento del encéfalo y provoca cambios en el estado de ánimo, la percepción, los pensamientos, los sentimientos o el comportamiento. Algunos ejemplos de sustancia psicotrópicas son el alcohol, la cafeína, la nicotina, la marihuana y ciertos medicamentos para aliviar el dolor. Muchas drogas ilegales, como la heroína, el LSD, la cocaína y las anfetaminas son también sustancia psicotrópicas. También se llama sustancia psicoactiva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796899">
+  <TermName>psychotropic substance</TermName>
+  <TermPronunciation>(SY-koh-TROH-pik SUB-stunts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug or other substance that affects how the brain works and causes changes in mood, awareness, thoughts, feelings, or behavior. Examples of psychotropic substances include alcohol, caffeine, nicotine, marijuana, and certain pain medicines. Many illegal drugs, such as heroin, LSD, cocaine, and amphetamines are also psychotropic substances. Also called psychoactive substance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798074" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychotropic substance&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798072" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sustancia psicotrópica&quot;" language="es" id="_4"/>
+  <SpanishTermName>sustancia psicotrópica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento u otra sustancia que afecta el funcionamiento del encéfalo y provoca cambios en el estado de ánimo, la percepción, los pensamientos, los sentimientos o el comportamiento. Algunos ejemplos de sustancia psicotrópicas son el alcohol, la cafeína, la nicotina, la marihuana y ciertos medicamentos para aliviar el dolor. Muchas drogas ilegales, como la heroína, el LSD, la cocaína y las anfetaminas son también sustancia psicotrópicas. También se llama sustancia psicoactiva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

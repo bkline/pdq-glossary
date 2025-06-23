@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000689749"><TermName>post-marketing surveillance trial</TermName><TermPronunciation>(post-MAR-keh-ting ser-VAY-lents TRY-ul)</TermPronunciation><TermDefinition><DefinitionText>A type of clinical trial that studies the side effects caused over time by a new treatment after it has been approved and is on the market. These trials look for side effects that were not seen in earlier trials and may also study how well a new treatment works over a long period of time. Post-marketing surveillance trials may include thousands of people. Also called phase 4 clinical trial and phase IV clinical trial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732937" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;post-marketing surveillance trial&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensayo de vigilacia posterior a la comercialización&quot;" language="es" id="_4"/><SpanishTermName>ensayo de vigilancia posterior a la comercialización</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de ensayo clínico en el que se estudian los efectos secundarios de un tratamiento nuevo a lo largo del tiempo después de su aprobación y comercialización. En estos ensayos, se buscan los efectos secundarios que no se observaron en los ensayos anteriores y quizás se estudie también la eficacia del tratamiento nuevo cuando se usa durante un período largo. En los ensayos de vigilancia posteriores a la comercialización a veces se incluyen a miles de personas. También se llama ensayo clínico de fase 4, ensayo clínico de fase IV, ensayo de farmacovigilancia, estudio de poscomercialización, estudio de uso terapéutico y estudio de vigilancia posterior a la comercialización.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-08-26</DateFirstPublished><DateLastModified>2015-09-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000689749">
+  <TermName>post-marketing surveillance trial</TermName>
+  <TermPronunciation>(post-MAR-keh-ting ser-VAY-lents TRY-ul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of clinical trial that studies the side effects caused over time by a new treatment after it has been approved and is on the market. These trials look for side effects that were not seen in earlier trials and may also study how well a new treatment works over a long period of time. Post-marketing surveillance trials may include thousands of people. Also called phase 4 clinical trial and phase IV clinical trial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732937" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;post-marketing surveillance trial&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensayo de vigilacia posterior a la comercialización&quot;" language="es" id="_4"/>
+  <SpanishTermName>ensayo de vigilancia posterior a la comercialización</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de ensayo clínico en el que se estudian los efectos secundarios de un tratamiento nuevo a lo largo del tiempo después de su aprobación y comercialización. En estos ensayos, se buscan los efectos secundarios que no se observaron en los ensayos anteriores y quizás se estudie también la eficacia del tratamiento nuevo cuando se usa durante un período largo. En los ensayos de vigilancia posteriores a la comercialización a veces se incluyen a miles de personas. También se llama ensayo clínico de fase 4, ensayo clínico de fase IV, ensayo de farmacovigilancia, estudio de poscomercialización, estudio de uso terapéutico y estudio de vigilancia posterior a la comercialización.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-08-26</DateFirstPublished>
+  <DateLastModified>2015-09-29</DateLastModified>
+</GlossaryTerm>

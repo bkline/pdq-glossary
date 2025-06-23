@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045513"><TermName>sirolimus</TermName><TermPronunciation>(sih-ROH-lih-mus)</TermPronunciation><TermDefinition><DefinitionText>A drug used to keep the body from rejecting organ and bone marrow transplants. Sirolimus blocks certain white blood cells that can reject foreign tissues and organs.  It also blocks a protein that is involved in cell division. It is a type of antibiotic, a type of immunosuppressant, and a type of serine/threonine kinase inhibitor. Sirolimus was previously called rapamycin.  Also called Rapamune.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sirolimus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705561" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sirólimus&quot;" language="es" id="_4"/><SpanishTermName>sirólimus</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para impedir que el cuerpo rechace los trasplantes de órganos y médula ósea. El sirólimus impide que  ciertos glóbulos blancos rechacen tejidos y órganos ajenos. También bloquea una proteína que participa en la  multiplicación de las células. Es un tipo de antibiótico, de inmunodepresor y de inhibidor de la cinasa serina/treonina. El sirólimus antes se llamaba rapamicina. También se llama Rapamune.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2009-09-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045513">
+  <TermName>sirolimus</TermName>
+  <TermPronunciation>(sih-ROH-lih-mus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to keep the body from rejecting organ and bone marrow transplants. Sirolimus blocks certain white blood cells that can reject foreign tissues and organs.  It also blocks a protein that is involved in cell division. It is a type of antibiotic, a type of immunosuppressant, and a type of serine/threonine kinase inhibitor. Sirolimus was previously called rapamycin.  Also called Rapamune.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sirolimus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705561" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sirólimus&quot;" language="es" id="_4"/>
+  <SpanishTermName>sirólimus</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para impedir que el cuerpo rechace los trasplantes de órganos y médula ósea. El sirólimus impide que  ciertos glóbulos blancos rechacen tejidos y órganos ajenos. También bloquea una proteína que participa en la  multiplicación de las células. Es un tipo de antibiótico, de inmunodepresor y de inhibidor de la cinasa serina/treonina. El sirólimus antes se llamaba rapamicina. También se llama Rapamune.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2009-09-30</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045492"><TermName>prednisone</TermName><TermPronunciation>(PRED-nih-sone)</TermPronunciation><TermDefinition><DefinitionText>A drug used to reduce inflammation and lower the body’s immune response.  It is used with other drugs to treat leukemia, lymphoma, and mycosis fungoides (a type of skin lymphoma).    It is also used alone or with other drugs to prevent or treat many other conditions.  These include conditions related to cancer and its treatment, such as anemia (a low level of red blood cells) and allergic reactions. Prednisone is a type of therapeutic glucocorticoid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705535" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prednisone&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prednisona&quot;" language="es" id="_4"/><SpanishTermName>prednisona</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para reducir la inflamación y la respuesta inmunitaria del cuerpo. Se utiliza con otros medicamentos para el tratamiento de la leucemia, el linfoma, la micosis fungoide (tipo de linfoma de piel). También se usa solo o con otros medicamentos para prevenir o tratar muchas otras afecciones, como  las relacionadas con el cáncer y su tratamiento, entre ellas, la anemia (concentración baja de glóbulos rojos) y  las reacciones alérgicas. La prednisona es un tipo de glucocorticoide terapéutico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000652391" url="/about-cancer/treatment/drugs/prednisone">Prednisone</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045492">
+  <TermName>prednisone</TermName>
+  <TermPronunciation>(PRED-nih-sone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to reduce inflammation and lower the body’s immune response.  It is used with other drugs to treat leukemia, lymphoma, and mycosis fungoides (a type of skin lymphoma).    It is also used alone or with other drugs to prevent or treat many other conditions.  These include conditions related to cancer and its treatment, such as anemia (a low level of red blood cells) and allergic reactions. Prednisone is a type of therapeutic glucocorticoid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705535" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prednisone&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prednisona&quot;" language="es" id="_4"/>
+  <SpanishTermName>prednisona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para reducir la inflamación y la respuesta inmunitaria del cuerpo. Se utiliza con otros medicamentos para el tratamiento de la leucemia, el linfoma, la micosis fungoide (tipo de linfoma de piel). También se usa solo o con otros medicamentos para prevenir o tratar muchas otras afecciones, como  las relacionadas con el cáncer y su tratamiento, entre ellas, la anemia (concentración baja de glóbulos rojos) y  las reacciones alérgicas. La prednisona es un tipo de glucocorticoide terapéutico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000652391" url="/about-cancer/treatment/drugs/prednisone">Prednisone</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000758612"><TermName>OFF regimen</TermName><TermPronunciation>(… REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat pancreatic cancer. It includes the drugs oxaliplatin, fluorouracil, and leucovorin (folinic acid). Also called OFF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000762450" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;OFF regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000762451" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Régimen OFF&quot;" language="es" id="_4"/><SpanishTermName>Régimen OFF</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer de páncreas.  Incluye los medicamentos oxaliplatino, fluorouracilo y leucovorina (ácido folínico). También se llama OFF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-05-29</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000759137" url="/about-cancer/treatment/drugs/OFF">OFF</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000758612">
+  <TermName>OFF regimen</TermName>
+  <TermPronunciation>(… REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat pancreatic cancer. It includes the drugs oxaliplatin, fluorouracil, and leucovorin (folinic acid). Also called OFF.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000762450" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;OFF regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000762451" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Régimen OFF&quot;" language="es" id="_4"/>
+  <SpanishTermName>Régimen OFF</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer de páncreas.  Incluye los medicamentos oxaliplatino, fluorouracilo y leucovorina (ácido folínico). También se llama OFF.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-05-29</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000759137" url="/about-cancer/treatment/drugs/OFF">OFF</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

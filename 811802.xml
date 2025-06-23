@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000811802"><TermName>alisertib sodium</TermName><TermPronunciation>(A-lih-SER-tib SOH-dee-um)</TermPronunciation><TermDefinition><DefinitionText>A substance that binds to a protein called Aurora A kinase and blocks its activity. Aurora A kinase plays an important role in cell division and may be found on some cancer cells. Blocking this protein may help keep cancer cells from growing and may kill them. Alisertib sodium is being studied in the treatment of some types of cancer. It is a type of protein kinase inhibitor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814024" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alisertib sodium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814025" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alisertib sódico&quot;" language="es" id="_4"/><SpanishTermName>alisertib sódico</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se une a una proteína, cuya actividad bloquea, llamada cinasa Aurora A. La cinasa Aurora A tiene una función importante en la división celular y se puede encontrar en algunas células cancerosas. Al bloquear dicha proteína, quizás ayude a evitar la multiplicación de células cancerosas y es posible que las destruya. El alisertib está en estudio para el tratamiento de algunos tipos de cáncer. Es un tipo de inhibidor de proteínas cinasas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-07-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811802">
+  <TermName>alisertib sodium</TermName>
+  <TermPronunciation>(A-lih-SER-tib SOH-dee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that binds to a protein called Aurora A kinase and blocks its activity. Aurora A kinase plays an important role in cell division and may be found on some cancer cells. Blocking this protein may help keep cancer cells from growing and may kill them. Alisertib sodium is being studied in the treatment of some types of cancer. It is a type of protein kinase inhibitor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814024" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alisertib sodium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814025" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alisertib sódico&quot;" language="es" id="_4"/>
+  <SpanishTermName>alisertib sódico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que se une a una proteína, cuya actividad bloquea, llamada cinasa Aurora A. La cinasa Aurora A tiene una función importante en la división celular y se puede encontrar en algunas células cancerosas. Al bloquear dicha proteína, quizás ayude a evitar la multiplicación de células cancerosas y es posible que las destruya. El alisertib está en estudio para el tratamiento de algunos tipos de cáncer. Es un tipo de inhibidor de proteínas cinasas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-07-07</DateFirstPublished>
+</GlossaryTerm>

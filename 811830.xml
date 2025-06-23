@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000811830"><TermName>ESR1 gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes one of the two main types of estrogen receptor (ER) proteins. These proteins bind to and receive signals from the hormone estrogen. They are found inside the cells of female reproductive tissue, breast tissue, and many other types of tissue, and some cancer cells. Once activated by estrogen, ER proteins control the activity of certain genes that play an important role in cell growth and metabolism, sexual development, pregnancy, and other reproductive functions. Mutations (changes) in the <GeneName>ESR1</GeneName> gene can cause the ER protein to be too active or found in higher-than-normal amounts on or in some types of cancer cells, such as breast or endometrial cancer cells. This may cause cancer cells to grow and spread. It may also make cancer cells not respond to certain anticancer drugs. The protein made by the <GeneName>ESR1</GeneName> gene is a type of nuclear hormone receptor and a type of transcription factor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814026" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ESR1 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814027" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen ESR1&quot;" language="es" id="_4"/><SpanishTermName>gen ESR1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a uno de los dos tipos principales de proteínas receptoras de estrógenos (ER o receptor de estrógeno). Estas proteínas se unen a la hormona estrógeno y reciben sus señales. Se encuentran en el interior de las células del tejido reproductor femenino, el tejido mamario y muchos otros tipos de tejido, así como en algunas células cancerosas. Una vez activadas por los estrógenos, las proteínas receptoras de estrógenos controlan la actividad de determinados genes que desempeñan una función importante en la multiplicación y el metabolismo celular, el desarrollo sexual, el embarazo y otras funciones reproductivas. Las mutaciones (cambios) en el gen <GeneName>ESR1</GeneName> producen que la proteína receptora de estrógenos sea demasiado activa o se encuentre en cantidades superiores a las normales en algunos tipos de células cancerosas, como las células de cáncer de mama o de endometrio. Esto tal vez hace  que las células cancerosas se multipliquen y se diseminen y que no respondan a ciertos medicamentos contra el cáncer. La proteína que se origina del gen <GeneName>ESR1</GeneName> es un tipo de receptor hormonal nuclear y de factor de transcripción.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-07-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811830">
+  <TermName>ESR1 gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes one of the two main types of estrogen receptor (ER) proteins. These proteins bind to and receive signals from the hormone estrogen. They are found inside the cells of female reproductive tissue, breast tissue, and many other types of tissue, and some cancer cells. Once activated by estrogen, ER proteins control the activity of certain genes that play an important role in cell growth and metabolism, sexual development, pregnancy, and other reproductive functions. Mutations (changes) in the 
+      <GeneName>ESR1</GeneName>
+       gene can cause the ER protein to be too active or found in higher-than-normal amounts on or in some types of cancer cells, such as breast or endometrial cancer cells. This may cause cancer cells to grow and spread. It may also make cancer cells not respond to certain anticancer drugs. The protein made by the 
+      <GeneName>ESR1</GeneName>
+       gene is a type of nuclear hormone receptor and a type of transcription factor.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814026" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ESR1 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814027" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen ESR1&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen ESR1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a uno de los dos tipos principales de proteínas receptoras de estrógenos (ER o receptor de estrógeno). Estas proteínas se unen a la hormona estrógeno y reciben sus señales. Se encuentran en el interior de las células del tejido reproductor femenino, el tejido mamario y muchos otros tipos de tejido, así como en algunas células cancerosas. Una vez activadas por los estrógenos, las proteínas receptoras de estrógenos controlan la actividad de determinados genes que desempeñan una función importante en la multiplicación y el metabolismo celular, el desarrollo sexual, el embarazo y otras funciones reproductivas. Las mutaciones (cambios) en el gen 
+      <GeneName>ESR1</GeneName>
+       producen que la proteína receptora de estrógenos sea demasiado activa o se encuentre en cantidades superiores a las normales en algunos tipos de células cancerosas, como las células de cáncer de mama o de endometrio. Esto tal vez hace  que las células cancerosas se multipliquen y se diseminen y que no respondan a ciertos medicamentos contra el cáncer. La proteína que se origina del gen 
+      <GeneName>ESR1</GeneName>
+       es un tipo de receptor hormonal nuclear y de factor de transcripción.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-07-07</DateFirstPublished>
+</GlossaryTerm>

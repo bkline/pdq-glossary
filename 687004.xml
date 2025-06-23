@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000687004"><TermName>MLPA</TermName><TermDefinition><DefinitionText>A laboratory method commonly used for the detection of unusual copy number changes (insertions or deletions) of genomic sequences. Also called multiplex ligation-dependent probe amplification.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><SpanishTermName>MLPA</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio que suele utilizarse para la detección de cambios anormales en el número de copias (inserciones o deleciones) de secuencias genómicas. También se llama amplificación múltiple de sondas dependiente de ligamiento.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2010-10-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000687004">
+  <TermName>MLPA</TermName>
+  <TermDefinition>
+    <DefinitionText>A laboratory method commonly used for the detection of unusual copy number changes (insertions or deletions) of genomic sequences. Also called multiplex ligation-dependent probe amplification.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>MLPA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio que suele utilizarse para la detección de cambios anormales en el número de copias (inserciones o deleciones) de secuencias genómicas. También se llama amplificación múltiple de sondas dependiente de ligamiento.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-10-08</DateFirstPublished>
+</GlossaryTerm>

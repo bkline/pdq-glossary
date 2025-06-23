@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000789686"><TermName>pathologic complete response</TermName><TermPronunciation>(PA-thuh-LAH-jik kum-PLEET reh-SPONTS)</TermPronunciation><TermDefinition><DefinitionText>The lack of all signs of cancer in tissue samples removed during surgery or biopsy after treatment with radiation or chemotherapy. To find out if there is a pathologic complete response, a pathologist checks the tissue samples under a microscope to see if there are still cancer cells left after the anticancer treatment. Knowing if the cancer is in pathologic complete response may help show how well treatment is working or if the cancer will come back. Also called pathologic complete remission.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pathologic complete response&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;respuesta patológica completa&quot;" language="es" id="_4"/><SpanishTermName>respuesta patológica completa</SpanishTermName><SpanishTermDefinition><DefinitionText>Ausencia de todos los signos de cáncer en muestras de tejido obtenidas durante una cirugía o una biopsia después del tratamiento con radiación o quimioterapia. Para determinar si hay una respuesta patológica completa, un patólogo observa las muestras de tejido al microscopio para comprobar si todavía quedan células cancerosas después del tratamiento contra el cáncer. Saber si el cáncer muestra una respuesta patológica completa ayuda a comprobar si el tratamiento funciona o si el cáncer va a volver. También se llama remisión patológica completa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789686">
+  <TermName>pathologic complete response</TermName>
+  <TermPronunciation>(PA-thuh-LAH-jik kum-PLEET reh-SPONTS)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The lack of all signs of cancer in tissue samples removed during surgery or biopsy after treatment with radiation or chemotherapy. To find out if there is a pathologic complete response, a pathologist checks the tissue samples under a microscope to see if there are still cancer cells left after the anticancer treatment. Knowing if the cancer is in pathologic complete response may help show how well treatment is working or if the cancer will come back. Also called pathologic complete remission.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pathologic complete response&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;respuesta patológica completa&quot;" language="es" id="_4"/>
+  <SpanishTermName>respuesta patológica completa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ausencia de todos los signos de cáncer en muestras de tejido obtenidas durante una cirugía o una biopsia después del tratamiento con radiación o quimioterapia. Para determinar si hay una respuesta patológica completa, un patólogo observa las muestras de tejido al microscopio para comprobar si todavía quedan células cancerosas después del tratamiento contra el cáncer. Saber si el cáncer muestra una respuesta patológica completa ayuda a comprobar si el tratamiento funciona o si el cáncer va a volver. También se llama remisión patológica completa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-18</DateFirstPublished>
+</GlossaryTerm>

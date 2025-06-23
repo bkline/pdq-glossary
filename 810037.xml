@@ -1,1 +1,14 @@
-<GlossaryTerm id="CDR0000810037"><TermName>Level of evidence C2</TermName><TermDefinition><DefinitionText>Case series or other observational study design including trials with nonconsecutive cases with an endpoint of event-free survival, disease-free survival, or progression-free survival differences.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia C2</SpanishTermName><SpanishTermDefinition><DefinitionText>Serie de casos u otro diseño de estudio observacional, incluso ensayos de casos no consecutivos, en el que se usa como un criterio de valoración la diferencia en la supervivencia sin complicaciones, la supervivencia sin enfermedad o la supervivencia sin progresión.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-30</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810037">
+  <TermName>Level of evidence C2</TermName>
+  <TermDefinition>
+    <DefinitionText>Case series or other observational study design including trials with nonconsecutive cases with an endpoint of event-free survival, disease-free survival, or progression-free survival differences.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia C2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Serie de casos u otro diseño de estudio observacional, incluso ensayos de casos no consecutivos, en el que se usa como un criterio de valoración la diferencia en la supervivencia sin complicaciones, la supervivencia sin enfermedad o la supervivencia sin progresión.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-30</DateFirstPublished>
+</GlossaryTerm>

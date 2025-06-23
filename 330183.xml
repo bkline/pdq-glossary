@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000330183"><TermName>subjective improvement</TermName><TermPronunciation>(sub-JEK-tiv im-PROOV-ment)</TermPronunciation><TermDefinition><DefinitionText>In medicine, a term that describes an improvement in a patient's health or well-being based on what is reported by the patient and not what is measured or observed by a health care provider. An example of subjective improvement is when a patient says they feel better.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731036" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;subjective improvement&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731037" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mejoría subjetiva&quot;" language="es" id="_4"/><SpanishTermName>mejoría subjetiva</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, término que describe la  mejora en la salud o el bienestar de un paciente de acuerdo con lo que informa este y no con lo que mide u observa el proveedor de atención de la salud. Un ejemplo de mejoría subjetiva es cuando un paciente dice que se siente mejor. También se llama mejora subjetiva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-08-24</DateFirstPublished><DateLastModified>2024-03-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000330183">
+  <TermName>subjective improvement</TermName>
+  <TermPronunciation>(sub-JEK-tiv im-PROOV-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, a term that describes an improvement in a patient's health or well-being based on what is reported by the patient and not what is measured or observed by a health care provider. An example of subjective improvement is when a patient says they feel better.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731036" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;subjective improvement&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731037" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mejoría subjetiva&quot;" language="es" id="_4"/>
+  <SpanishTermName>mejoría subjetiva</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, término que describe la  mejora en la salud o el bienestar de un paciente de acuerdo con lo que informa este y no con lo que mide u observa el proveedor de atención de la salud. Un ejemplo de mejoría subjetiva es cuando un paciente dice que se siente mejor. También se llama mejora subjetiva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-08-24</DateFirstPublished>
+  <DateLastModified>2024-03-01</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000638194"><TermName>mastitis</TermName><TermPronunciation>(ma-STY-tis)</TermPronunciation><TermDefinition><DefinitionText>A condition in which breast tissue is inflamed. It is usually caused by an infection and is most often seen in nursing mothers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000723083" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastitis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000723082" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastitis&quot;" language="es" id="_4"/><SpanishTermName>mastitis</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección en la cual el tejido de la mama se inflama. Por lo general, la causa es una infección y se observa más a menudo en madres que amamantan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000638194">
+  <TermName>mastitis</TermName>
+  <TermPronunciation>(ma-STY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which breast tissue is inflamed. It is usually caused by an infection and is most often seen in nursing mothers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000723083" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastitis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000723082" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastitis&quot;" language="es" id="_4"/>
+  <SpanishTermName>mastitis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección en la cual el tejido de la mama se inflama. Por lo general, la causa es una infección y se observa más a menudo en madres que amamantan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-04-10</DateFirstPublished>
+</GlossaryTerm>

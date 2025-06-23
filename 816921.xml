@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816921"><TermName>dropouts</TermName><TermPronunciation>(DRAHP-owts)</TermPronunciation><TermDefinition><DefinitionText>In a clinical trial, the withdrawal of participation prior to the occurrence of the primary endpoint. Dropouts are a key source of missing data.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817445" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dropouts&quot;" language="en" id="_4"/><MediaLink ref="CDR0000817446" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abandono de un estudio clínico&quot;" language="es" id="_5"/><SpanishTermName>abandono de un estudio clínico</SpanishTermName><SpanishTermDefinition><DefinitionText>Retirada de un paciente de un ensayo clínico antes de alcanzar el criterio principal de valoración. El abandono de un estudio clínico es un motivo importante de la ausencia de datos en estos estudios. También se llama retirada de un estudio clínico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816921">
+  <TermName>dropouts</TermName>
+  <TermPronunciation>(DRAHP-owts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In a clinical trial, the withdrawal of participation prior to the occurrence of the primary endpoint. Dropouts are a key source of missing data.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817445" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dropouts&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000817446" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abandono de un estudio clínico&quot;" language="es" id="_5"/>
+  <SpanishTermName>abandono de un estudio clínico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Retirada de un paciente de un ensayo clínico antes de alcanzar el criterio principal de valoración. El abandono de un estudio clínico es un motivo importante de la ausencia de datos en estos estudios. También se llama retirada de un estudio clínico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-16</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045278"><TermName>stage II lip and oral cavity cancer</TermName><TermPronunciation>(... OR-ul KA-vih-tee KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor (1) is 2 centimeters or smaller and the deepest point of tumor invasion is greater than 5 millimeters; or (2) is larger than 2 centimeters but not larger than 4 centimeters and the deepest point of tumor invasion is 10 millimeters or less.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II lip and oral cavity cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de labio y de cavidad oral en estadio II&quot;" language="es" id="_4"/><SpanishTermName>cáncer de labio y de cavidad oral en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio II, se presenta una de las siguientes situaciones: 1) El tumor mide 2 cm o menos y se diseminó a más de 5 mm de profundidad. 2)         El tumor mide más de 2 cm, pero no más de 4 cm, y se diseminó a 10 mm o menos de profundidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-09-04</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258017" url="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000486932" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq">Tratamiento del cáncer de labio y de cavidad oral en adultos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045278">
+  <TermName>stage II lip and oral cavity cancer</TermName>
+  <TermPronunciation>(... OR-ul KA-vih-tee KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor (1) is 2 centimeters or smaller and the deepest point of tumor invasion is greater than 5 millimeters; or (2) is larger than 2 centimeters but not larger than 4 centimeters and the deepest point of tumor invasion is 10 millimeters or less.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II lip and oral cavity cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de labio y de cavidad oral en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de labio y de cavidad oral en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio II, se presenta una de las siguientes situaciones: 1) El tumor mide 2 cm o menos y se diseminó a más de 5 mm de profundidad. 2)         El tumor mide más de 2 cm, pero no más de 4 cm, y se diseminó a 10 mm o menos de profundidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-09-04</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258017" url="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000486932" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq">Tratamiento del cáncer de labio y de cavidad oral en adultos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

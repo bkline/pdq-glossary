@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000671174"><TermName>nonsense mutation</TermName><TermPronunciation>(NON-sens myoo-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A genetic alteration that causes the premature termination of a protein. The altered protein may be partially or completely inactivated, resulting in a change or loss of protein function.  Also called nonsense variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A change in the DNA sequence of a gene that signals the cell to stop making the protein before it is complete. This results in a shorter protein that may not function. Also called nonsense variant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736922" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nonsense mutation&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación terminadora&quot;" language="es" id="_4"/><SpanishTermName>mutación terminadora</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética que ocasiona la terminación prematura de una proteína. Es posible que esto produzca la inactivación parcial o total de la proteína alterada lo que conlleva cambio o pérdida de la función proteica. También se llama mutación de parada, mutación finalizadora, mutación sin sentido y variante sin sentido.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Cambio en la secuencia de ADN de un gen que indica a la célula que detenga la elaboración de una proteína antes de que esté terminada. Esto produce una proteína más corta, que en ocasiones no es funcional. También se llama mutación de parada, mutación finalizadora, mutación sin sentido y variante sin sentido.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-19</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Nonsense-Mutation">Nonsense Mutation (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Mutacion-sin-sentido">Mutación sin sentido (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000671174">
+  <TermName>nonsense mutation</TermName>
+  <TermPronunciation>(NON-sens myoo-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic alteration that causes the premature termination of a protein. The altered protein may be partially or completely inactivated, resulting in a change or loss of protein function.  Also called nonsense variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A change in the DNA sequence of a gene that signals the cell to stop making the protein before it is complete. This results in a shorter protein that may not function. Also called nonsense variant.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736922" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nonsense mutation&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación terminadora&quot;" language="es" id="_4"/>
+  <SpanishTermName>mutación terminadora</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración genética que ocasiona la terminación prematura de una proteína. Es posible que esto produzca la inactivación parcial o total de la proteína alterada lo que conlleva cambio o pérdida de la función proteica. También se llama mutación de parada, mutación finalizadora, mutación sin sentido y variante sin sentido.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Cambio en la secuencia de ADN de un gen que indica a la célula que detenga la elaboración de una proteína antes de que esté terminada. Esto produce una proteína más corta, que en ocasiones no es funcional. También se llama mutación de parada, mutación finalizadora, mutación sin sentido y variante sin sentido.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-19</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Nonsense-Mutation">Nonsense Mutation (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Mutacion-sin-sentido">Mutación sin sentido (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

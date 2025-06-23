@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000467830"><TermName>baseline</TermName><TermPronunciation>(BAYS-line)</TermPronunciation><TermDefinition><DefinitionText>An initial measurement of a condition that is taken at an early time point and used for comparison over time to look for changes. For example, the size of a tumor will be measured before treatment (baseline) and then afterwards to see if the treatment had an effect.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716752" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;baseline&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716753" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor inicial&quot;" language="es" id="_4"/><SpanishTermName>valor inicial</SpanishTermName><SpanishTermDefinition><DefinitionText>Medición inicial de un estado o situación que se hace en un momento temprano y se usa para comparar los cambios a medida que pasa el tiempo. Por ejemplo, el tamaño de un tumor se medirá antes del tratamiento (valor inicial) y después del mismo para comprobar si el tratamiento tuvo un efecto. También se llama punto de comparación, valor basal, valor de referencia y valoración inicial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-11</DateFirstPublished><DateLastModified>2018-01-31</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000467830">
+  <TermName>baseline</TermName>
+  <TermPronunciation>(BAYS-line)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An initial measurement of a condition that is taken at an early time point and used for comparison over time to look for changes. For example, the size of a tumor will be measured before treatment (baseline) and then afterwards to see if the treatment had an effect.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716752" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;baseline&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716753" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor inicial&quot;" language="es" id="_4"/>
+  <SpanishTermName>valor inicial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medición inicial de un estado o situación que se hace en un momento temprano y se usa para comparar los cambios a medida que pasa el tiempo. Por ejemplo, el tamaño de un tumor se medirá antes del tratamiento (valor inicial) y después del mismo para comprobar si el tratamiento tuvo un efecto. También se llama punto de comparación, valor basal, valor de referencia y valoración inicial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-11</DateFirstPublished>
+  <DateLastModified>2018-01-31</DateLastModified>
+</GlossaryTerm>

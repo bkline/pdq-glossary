@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000783162"><TermName>radiation cystitis</TermName><TermPronunciation>(RAY-dee-AY-shun sis-TY-tis)</TermPronunciation><TermDefinition><DefinitionText>Inflammation
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783162">
+  <TermName>radiation cystitis</TermName>
+  <TermPronunciation>(RAY-dee-AY-shun sis-TY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Inflammation
           of the lining of the bladder caused by radiation therapy to
           the pelvis, including the bladder. Symptoms include pain
           and a burning feeling while urinating, blood in the urine,
@@ -6,4 +11,17 @@
           to control the flow of urine, bladder spasms, and pain in
           the pelvis. Some symptoms of radiation cystitis may go away
           after radiation therapy has ended, but others may continue
-          over time.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785394" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiation cystitis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785393" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cistitis por radiación&quot;" language="es" id="_4"/><SpanishTermName>cistitis por radiación</SpanishTermName><SpanishTermDefinition><DefinitionText>Inflamación del revestimiento de la vejiga causada por la radioterapia dirigida a la pelvis, incluso a la vejiga. Los síntomas incluyen dolor y sensación de ardor al orinar, sangre en la orina, sensación de necesidad de orinar con frecuencia o de forma inmediata, incapacidad de controlar el flujo de la orina, espasmos de la vejiga y dolor en la pelvis. Algunos síntomas de la cistitis por radiación desaparecen después de terminar la radioterapia, pero otros continuan durante un período de tiempo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-21</DateFirstPublished></GlossaryTerm>
+          over time.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785394" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiation cystitis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785393" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cistitis por radiación&quot;" language="es" id="_4"/>
+  <SpanishTermName>cistitis por radiación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Inflamación del revestimiento de la vejiga causada por la radioterapia dirigida a la pelvis, incluso a la vejiga. Los síntomas incluyen dolor y sensación de ardor al orinar, sangre en la orina, sensación de necesidad de orinar con frecuencia o de forma inmediata, incapacidad de controlar el flujo de la orina, espasmos de la vejiga y dolor en la pelvis. Algunos síntomas de la cistitis por radiación desaparecen después de terminar la radioterapia, pero otros continuan durante un período de tiempo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-21</DateFirstPublished>
+</GlossaryTerm>

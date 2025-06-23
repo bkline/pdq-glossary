@@ -1,8 +1,26 @@
-<GlossaryTerm id="CDR0000782534"><TermName>myxofibrosarcoma</TermName><TermPronunciation>(MIK-soh-FY-broh-sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782534">
+  <TermName>myxofibrosarcoma</TermName>
+  <TermPronunciation>(MIK-soh-FY-broh-sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of
           cancer that forms in fibrous (connective) tissue, usually
           in or just under the skin of the arms and legs. There may
           be more than one tumor, and it sometimes spreads to nearby
           tissue or to other parts of the body. Myxofibrosarcoma may
           also recur (come back) after treatment. It may occur in
           children, but is most common in older adults. It is a type
-          of soft tissue sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785406" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;myxofibrosarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785407" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mixofibrosarcoma&quot;" language="es" id="_4"/><SpanishTermName>mixofibrosarcoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo poco frecuente de cáncer que se forma en el tejido fibroso (conjuntivo), habitualmente en la piel o justo debajo de la piel de los brazos y las piernas. Es posible que haya más de un tumor y, a veces, se disemina al tejido cercano u otras partes del cuerpo. El mixofibrosarcoma también puede recidivar (volver) después del tratamiento. Se puede presentar en niños, pero es más común en los adultos de edad avanzada. Es un tipo de sarcoma de tejido blando.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished></GlossaryTerm>
+          of soft tissue sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785406" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;myxofibrosarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785407" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mixofibrosarcoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>mixofibrosarcoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo poco frecuente de cáncer que se forma en el tejido fibroso (conjuntivo), habitualmente en la piel o justo debajo de la piel de los brazos y las piernas. Es posible que haya más de un tumor y, a veces, se disemina al tejido cercano u otras partes del cuerpo. El mixofibrosarcoma también puede recidivar (volver) después del tratamiento. Se puede presentar en niños, pero es más común en los adultos de edad avanzada. Es un tipo de sarcoma de tejido blando.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+</GlossaryTerm>

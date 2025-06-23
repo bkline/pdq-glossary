@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816917"><TermName>active treatment</TermName><TermPronunciation>(AK-tiv TREET-ment)</TermPronunciation><TermDefinition><DefinitionText>In a clinical trial, a positive control group that receives a known, proven active intervention.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817443" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;active treatment&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817444" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento activo&quot;" language="es" id="_4"/><SpanishTermName>tratamiento activo</SpanishTermName><SpanishTermDefinition><DefinitionText>En un ensayo clínico, grupo de control positivo que recibe una intervención activa conocida y probada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816917">
+  <TermName>active treatment</TermName>
+  <TermPronunciation>(AK-tiv TREET-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In a clinical trial, a positive control group that receives a known, proven active intervention.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817443" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;active treatment&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817444" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento activo&quot;" language="es" id="_4"/>
+  <SpanishTermName>tratamiento activo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En un ensayo clínico, grupo de control positivo que recibe una intervención activa conocida y probada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-16</DateFirstPublished>
+</GlossaryTerm>

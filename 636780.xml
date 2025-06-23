@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000636780"><TermName>GWAS</TermName><TermDefinition><DefinitionText>A study that compares DNA markers across the genome (the complete genetic material in a person) in people with a disease or trait to people without the disease or trait. These studies may uncover clues to help prevent, diagnose, and treat disease. Also called genome-wide association study.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A method used to identify inherited genetic variants associated with risk for a particular disease or trait. A GWAS looks at the entire genome for genetic variants, usually single nucleotide polymorphisms (SNPs), that tend to occur more often in individuals with the disease or trait being studied than in those without the disease or trait. Also called genome-wide association study.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000734665" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;GWAS&quot;" language="en" id="_3"/><SpanishTermName>GWAS</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio en el que se comparan los marcadores de ADN en todo el genoma (material genético completo de una persona) de las personas con una enfermedad o rasgo con el de las personas que no tienen la enfermedad o el rasgo. Es posible que estos estudios permitan descubrir información clave para prevenir, diagnosticar y tratar una enfermedad. También se llama EAGC y estudio de asociación del genoma completo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Método que se usa para identificar las variantes genéticas hereditarias relacionadas con el riesgo de una enfermedad o un rasgo específico. Con este método  se inspecciona el genoma completo en busca de variantes genéticas, por lo general, polimorfismos de un solo nucleótido   (SNP), que son más frecuentes en las personas con la enfermedad o rasgo en estudio que en aquellas sin la enfermedad o el rasgo. También se llama EAGC y estudio de asociación del genoma completo.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2009-02-26</DateFirstPublished><DateLastModified>2013-04-23</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies">Genome-Wide Association Studies (GWAS) (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Estudio-de-asociacion-de-genoma-completo">Estudio de asociación de genoma completo (GWAS) (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000636780">
+  <TermName>GWAS</TermName>
+  <TermDefinition>
+    <DefinitionText>A study that compares DNA markers across the genome (the complete genetic material in a person) in people with a disease or trait to people without the disease or trait. These studies may uncover clues to help prevent, diagnose, and treat disease. Also called genome-wide association study.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A method used to identify inherited genetic variants associated with risk for a particular disease or trait. A GWAS looks at the entire genome for genetic variants, usually single nucleotide polymorphisms (SNPs), that tend to occur more often in individuals with the disease or trait being studied than in those without the disease or trait. Also called genome-wide association study.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734665" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;GWAS&quot;" language="en" id="_3"/>
+  <SpanishTermName>GWAS</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio en el que se comparan los marcadores de ADN en todo el genoma (material genético completo de una persona) de las personas con una enfermedad o rasgo con el de las personas que no tienen la enfermedad o el rasgo. Es posible que estos estudios permitan descubrir información clave para prevenir, diagnosticar y tratar una enfermedad. También se llama EAGC y estudio de asociación del genoma completo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Método que se usa para identificar las variantes genéticas hereditarias relacionadas con el riesgo de una enfermedad o un rasgo específico. Con este método  se inspecciona el genoma completo en busca de variantes genéticas, por lo general, polimorfismos de un solo nucleótido   (SNP), que son más frecuentes en las personas con la enfermedad o rasgo en estudio que en aquellas sin la enfermedad o el rasgo. También se llama EAGC y estudio de asociación del genoma completo.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-02-26</DateFirstPublished>
+  <DateLastModified>2013-04-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies">Genome-Wide Association Studies (GWAS) (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Estudio-de-asociacion-de-genoma-completo">Estudio de asociación de genoma completo (GWAS) (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

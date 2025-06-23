@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000669655"><TermName>bone marrow aspiration and biopsy</TermName><TermPronunciation>(bone MAYR-oh AS-pih-RAY-shun ... BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A procedure in
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000669655">
+  <TermName>bone marrow aspiration and biopsy</TermName>
+  <TermPronunciation>(bone MAYR-oh AS-pih-RAY-shun ... BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in
           which a small sample of bone marrow (soft, sponge-like
           tissue in the center of most bones) and bone is removed. A
           small area of skin and the surface of the bone underneath
@@ -8,7 +13,21 @@
           is then removed and the needle is rotated to remove a
           sample of the bone and the bone marrow. Both the bone
           marrow and bone samples are sent to a laboratory to be
-          looked at under a microscope.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bone marrow aspiration and biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aspiración de la médula ósea y biopsia&quot;" language="es" id="_4"/><MediaLink ref="CDR0000554337" type="image/jpeg" alt="Bone marrow aspiration and biopsy; drawing shows a patient lying face down on a table and a bone marrow needle being inserted into the hip bone. An inset shows a close up of the needle being inserted through the skin and hip bone into the bone marrow." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope.</Caption></MediaLink><MediaLink ref="CDR0000584849" type="image/jpeg" alt="Aspiración de la médula ósea y biopsia; el dibujo muestra a un paciente acostado boca abajo en una camilla y una aguja para médula ósea que se inserta en el hueso de la cadera. El recuadro muestra la aguja para médula ósea que se inserta a través de la piel hasta la médula ósea del hueso de la cadera." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Aspiración  de la médula ósea y biopsia. Después de adormecer un área pequeña de la piel, se inserta una aguja para médula ósea en el hueso de la cadera del paciente. Se extraen muestras de sangre, hueso y médula ósea para examinarlas bajo un microscopio.  </Caption></MediaLink><SpanishTermName>aspiración de la médula ósea y biopsia</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento
+          looked at under a microscope.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bone marrow aspiration and biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aspiración de la médula ósea y biopsia&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000554337" type="image/jpeg" alt="Bone marrow aspiration and biopsy; drawing shows a patient lying face down on a table and a bone marrow needle being inserted into the hip bone. An inset shows a close up of the needle being inserted through the skin and hip bone into the bone marrow." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000584849" type="image/jpeg" alt="Aspiración de la médula ósea y biopsia; el dibujo muestra a un paciente acostado boca abajo en una camilla y una aguja para médula ósea que se inserta en el hueso de la cadera. El recuadro muestra la aguja para médula ósea que se inserta a través de la piel hasta la médula ósea del hueso de la cadera." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Aspiración  de la médula ósea y biopsia. Después de adormecer un área pequeña de la piel, se inserta una aguja para médula ósea en el hueso de la cadera del paciente. Se extraen muestras de sangre, hueso y médula ósea para examinarlas bajo un microscopio.  </Caption>
+  </MediaLink>
+  <SpanishTermName>aspiración de la médula ósea y biopsia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento
 mediante el cual se extrae una muestra de hueso y de médula
 ósea (tejido esponjoso y suave que se encuentra en el
 centro de la mayoría de los huesos). Se adormece con un anestésico un área
@@ -18,4 +37,10 @@ líquida con una jeringa adherida a la aguja. Después, se quita
 la jeringa y se hace rotar la aguja para extraer una
 muestra de hueso y de médula ósea. Estas muestras se envían
 a un laboratorio para observarlas al
-microscopio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-03-30</DateFirstPublished><DateLastModified>2010-07-07</DateLastModified></GlossaryTerm>
+microscopio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-03-30</DateFirstPublished>
+  <DateLastModified>2010-07-07</DateLastModified>
+</GlossaryTerm>

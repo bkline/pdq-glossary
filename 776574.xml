@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000776574"><TermName>Yondelis</TermName><TermPronunciation>(yon-DEH-lis)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat liposarcoma and leiomyosarcoma (types of soft tissue sarcoma) that cannot be removed by surgery or have spread to other parts of the body. It is used in patients who have already been treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer. Yondelis may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called ecteinascidin, ET 743, and trabectedin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000777162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yondelis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000777161" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yondelis&quot;" language="es" id="_4"/><SpanishTermName>Yondelis</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del liposarcoma y el leiomiosarcoma (tipos de sarcoma de tejido blando) que no se pueden extirpar mediante cirugía o que se diseminaron a otras partes del cuerpo. Se utiliza en pacientes que recibieron otros medicamentos contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Yondelis destruya células cancerosas porque daña su ADN y evita su multiplicación. Es un tipo de alquilante. También se llama ecteinascidina, ET 743 y trabectedina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-11-03</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000776577" url="/about-cancer/treatment/drugs/trabectedin">Trabectedin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776574">
+  <TermName>Yondelis</TermName>
+  <TermPronunciation>(yon-DEH-lis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat liposarcoma and leiomyosarcoma (types of soft tissue sarcoma) that cannot be removed by surgery or have spread to other parts of the body. It is used in patients who have already been treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer. Yondelis may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called ecteinascidin, ET 743, and trabectedin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000777162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yondelis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000777161" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yondelis&quot;" language="es" id="_4"/>
+  <SpanishTermName>Yondelis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del liposarcoma y el leiomiosarcoma (tipos de sarcoma de tejido blando) que no se pueden extirpar mediante cirugía o que se diseminaron a otras partes del cuerpo. Se utiliza en pacientes que recibieron otros medicamentos contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Yondelis destruya células cancerosas porque daña su ADN y evita su multiplicación. Es un tipo de alquilante. También se llama ecteinascidina, ET 743 y trabectedina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-11-03</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000776577" url="/about-cancer/treatment/drugs/trabectedin">Trabectedin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

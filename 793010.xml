@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000793010"><TermName>stage IIID melanoma</TermName><TermPronunciation>(... MEH-luh-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Stage III is divided into stages IIIA, IIIB, IIIC, and IIID. In stage IIID, the tumor is more than 4 millimeters thick, with ulceration (a break in the skin). Cancer is found: (1) in four or more lymph nodes, or in any number of lymph nodes that are matted together; or (2) in two or more lymph nodes and/or in any number of lymph nodes that are matted together. There are microsatellite tumors, satellite tumors, and/or in-transit metastases on or under the skin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796141" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IIID melanoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796140" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma en estadio IIID&quot;" language="es" id="_4"/><SpanishTermName>melanoma en estadio IIID</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio III se divide en los estadios IIIA, IIIB, IIIC y IIID. En el estadio IIID, el tumor mide más de 4 mm de grosor y hay ulceración (rotura de la piel). Se encuentra cáncer en uno de los siguientes sitios: 1) 4 o más ganglios linfáticos, o en una cantidad cualquiera de ganglios linfáticos apelmazados; 2) 2 o más ganglios linfáticos, o en una cantidad cualquiera de ganglios linfáticos apelmazados, y hay tumores microsatélites, tumores satélites o metástasis en tránsito en la piel o debajo de esta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-09-28</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062713" url="/types/skin/patient/melanoma-treatment-pdq">Melanoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256816" url="/espanol/tipos/piel/paciente/tratamiento-melanoma-pdq">Tratamiento del melanoma</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793010">
+  <TermName>stage IIID melanoma</TermName>
+  <TermPronunciation>(... MEH-luh-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage III is divided into stages IIIA, IIIB, IIIC, and IIID. In stage IIID, the tumor is more than 4 millimeters thick, with ulceration (a break in the skin). Cancer is found: (1) in four or more lymph nodes, or in any number of lymph nodes that are matted together; or (2) in two or more lymph nodes and/or in any number of lymph nodes that are matted together. There are microsatellite tumors, satellite tumors, and/or in-transit metastases on or under the skin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796141" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IIID melanoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796140" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma en estadio IIID&quot;" language="es" id="_4"/>
+  <SpanishTermName>melanoma en estadio IIID</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio III se divide en los estadios IIIA, IIIB, IIIC y IIID. En el estadio IIID, el tumor mide más de 4 mm de grosor y hay ulceración (rotura de la piel). Se encuentra cáncer en uno de los siguientes sitios: 1) 4 o más ganglios linfáticos, o en una cantidad cualquiera de ganglios linfáticos apelmazados; 2) 2 o más ganglios linfáticos, o en una cantidad cualquiera de ganglios linfáticos apelmazados, y hay tumores microsatélites, tumores satélites o metástasis en tránsito en la piel o debajo de esta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-09-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062713" url="/types/skin/patient/melanoma-treatment-pdq">Melanoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256816" url="/espanol/tipos/piel/paciente/tratamiento-melanoma-pdq">Tratamiento del melanoma</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

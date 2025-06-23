@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000044496"><TermName>DIEP flap</TermName><TermPronunciation>(… flap)</TermPronunciation><TermDefinition><DefinitionText>A type of breast reconstruction in which blood vessels called deep inferior epigastric perforators (DIEP), and the skin and fat connected to them are removed from the lower abdomen and used for reconstruction. Muscle is left in place.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;DIEP flap&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727967" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;colgajo de DIEP&quot;" language="es" id="_4"/><SpanishTermName>colgajo de DIEP</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de reconstrucción de la mama para la que se obtiene, de la parte inferior del abdomen, una porción de piel y tejido unido a unos vasos sanguíneos llamados perforantes epigástricos inferiores (DIEP, en inglés), que luego se utiliza para la reconstrucción de la mama. El músculo se deja en su lugar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/reconstruction-fact-sheet">Breast Reconstruction After Mastectomy</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-reconstruccion">Reconstrucción del seno después de una mastectomía</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044496">
+  <TermName>DIEP flap</TermName>
+  <TermPronunciation>(… flap)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of breast reconstruction in which blood vessels called deep inferior epigastric perforators (DIEP), and the skin and fat connected to them are removed from the lower abdomen and used for reconstruction. Muscle is left in place.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;DIEP flap&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727967" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;colgajo de DIEP&quot;" language="es" id="_4"/>
+  <SpanishTermName>colgajo de DIEP</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de reconstrucción de la mama para la que se obtiene, de la parte inferior del abdomen, una porción de piel y tejido unido a unos vasos sanguíneos llamados perforantes epigástricos inferiores (DIEP, en inglés), que luego se utiliza para la reconstrucción de la mama. El músculo se deja en su lugar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/reconstruction-fact-sheet">Breast Reconstruction After Mastectomy</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-reconstruccion">Reconstrucción del seno después de una mastectomía</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

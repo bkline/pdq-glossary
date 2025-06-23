@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000616060"><TermName>active surveillance</TermName><TermPronunciation>(AK-tiv ser-VAY-lents)</TermPronunciation><TermDefinition><DefinitionText>Closely watching a patient’s condition but not giving any treatment unless there are changes in test results that show the condition is getting worse. Active surveillance may be used to avoid or delay the need for treatments such as radiation therapy or surgery, which can cause side effects or other problems. During active surveillance, certain exams and tests, such as blood tests, imaging tests, and biopsies, are done on a regular schedule to monitor the condition. Active surveillance may be used in certain types of prostate cancer and in some other types of cancer. It is a type of expectant management.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721150" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;active surveillance&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721149" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vigilancia activa&quot;" language="es" id="_4"/><SpanishTermName>vigilancia activa</SpanishTermName><SpanishTermDefinition><DefinitionText>Observación minuciosa de la afección de un paciente sin administrar tratamiento, a menos que cambien los resultados de las pruebas e indiquen que la afección está empeorando. Es posible usar la vigilancia activa para retrasar o evitar la administración de tratamientos (como radioterapia o cirugía) que a veces producen efectos secundarios u otros problemas. Durante la vigilancia activa, ciertos exámenes y pruebas (como análisis de sangre, pruebas con imágenes y biopsias) se hacen con regularidad para controlar la afección. La vigilancia activa es un tipo de conducta expectante que se utiliza para ciertos tipos de cáncer, como el  de próstata.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-26</DateFirstPublished><DateLastModified>2023-12-20</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000616060">
+  <TermName>active surveillance</TermName>
+  <TermPronunciation>(AK-tiv ser-VAY-lents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Closely watching a patient’s condition but not giving any treatment unless there are changes in test results that show the condition is getting worse. Active surveillance may be used to avoid or delay the need for treatments such as radiation therapy or surgery, which can cause side effects or other problems. During active surveillance, certain exams and tests, such as blood tests, imaging tests, and biopsies, are done on a regular schedule to monitor the condition. Active surveillance may be used in certain types of prostate cancer and in some other types of cancer. It is a type of expectant management.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721150" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;active surveillance&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721149" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vigilancia activa&quot;" language="es" id="_4"/>
+  <SpanishTermName>vigilancia activa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Observación minuciosa de la afección de un paciente sin administrar tratamiento, a menos que cambien los resultados de las pruebas e indiquen que la afección está empeorando. Es posible usar la vigilancia activa para retrasar o evitar la administración de tratamientos (como radioterapia o cirugía) que a veces producen efectos secundarios u otros problemas. Durante la vigilancia activa, ciertos exámenes y pruebas (como análisis de sangre, pruebas con imágenes y biopsias) se hacen con regularidad para controlar la afección. La vigilancia activa es un tipo de conducta expectante que se utiliza para ciertos tipos de cáncer, como el  de próstata.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-26</DateFirstPublished>
+  <DateLastModified>2023-12-20</DateLastModified>
+</GlossaryTerm>

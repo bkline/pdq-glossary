@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000759132"><TermName>BiCNU</TermName><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of brain tumors,  Hodgkin lymphoma, and non-Hodgkin lymphoma and with prednisone to treat multiple myeloma.  It is also being studied in the treatment of other types of cancer. BiCNU damages the cell's DNA and may kill cancer cells. It is a type of alkylating agent and a type of nitrosourea. Also called BCNU and carmustine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BiCNU</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de tumores de encéfalo, linfoma de Hodgkin y linfoma no Hodgkin. Además, se usa con prednisona para el tratamiento del mieloma múltiple. También está en estudio para el tratamiento de otros tipos de cáncer. BiCNU daña el DNA de las células y es posible que destruya células cancerosas. Es un tipo de alquilante y de nitrosourea. También se llama BCNU y carmustina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-06-19</DateFirstPublished><DateLastModified>2020-12-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000761705" url="/about-cancer/treatment/drugs/carmustine">Carmustine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000759132">
+  <TermName>BiCNU</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of brain tumors,  Hodgkin lymphoma, and non-Hodgkin lymphoma and with prednisone to treat multiple myeloma.  It is also being studied in the treatment of other types of cancer. BiCNU damages the cell's DNA and may kill cancer cells. It is a type of alkylating agent and a type of nitrosourea. Also called BCNU and carmustine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BiCNU</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de tumores de encéfalo, linfoma de Hodgkin y linfoma no Hodgkin. Además, se usa con prednisona para el tratamiento del mieloma múltiple. También está en estudio para el tratamiento de otros tipos de cáncer. BiCNU daña el DNA de las células y es posible que destruya células cancerosas. Es un tipo de alquilante y de nitrosourea. También se llama BCNU y carmustina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-06-19</DateFirstPublished>
+  <DateLastModified>2020-12-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000761705" url="/about-cancer/treatment/drugs/carmustine">Carmustine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

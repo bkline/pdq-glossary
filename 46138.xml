@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046138"><TermName>taxane</TermName><TermPronunciation>(TAK-sayn)</TermPronunciation><TermDefinition><DefinitionText>A type of drug that blocks cell growth by stopping mitosis (cell division). Taxanes interfere with microtubules (cellular structures that help move chromosomes during mitosis). They are used to treat cancer. A taxane is a type of mitotic inhibitor and a type of antimicrotubule agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;taxane&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707733" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;taxano&quot;" language="es" id="_4"/><SpanishTermName>taxano</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento que impide la multiplicación celular al detener la mitosis (división celular). Los taxanos interfieren con los microtúbulos (estructuras celulares que ayudan al movimiento de los cromosomas durante la mitosis). Se usan para el tratamiento del cáncer. Un taxano es un tipo de medicamento antimicrotúbulo y de inhibidor mitótico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2010-07-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046138">
+  <TermName>taxane</TermName>
+  <TermPronunciation>(TAK-sayn)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of drug that blocks cell growth by stopping mitosis (cell division). Taxanes interfere with microtubules (cellular structures that help move chromosomes during mitosis). They are used to treat cancer. A taxane is a type of mitotic inhibitor and a type of antimicrotubule agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;taxane&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707733" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;taxano&quot;" language="es" id="_4"/>
+  <SpanishTermName>taxano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento que impide la multiplicación celular al detener la mitosis (división celular). Los taxanos interfieren con los microtúbulos (estructuras celulares que ayudan al movimiento de los cromosomas durante la mitosis). Se usan para el tratamiento del cáncer. Un taxano es un tipo de medicamento antimicrotúbulo y de inhibidor mitótico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2010-07-06</DateLastModified>
+</GlossaryTerm>

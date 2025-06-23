@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046439"><TermName>endocrinologist</TermName><TermPronunciation>(EN-doh-krih-NAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in diagnosing and treating disorders of the endocrine system (the glands and organs that make hormones). These disorders include diabetes, infertility, and thyroid, adrenal, and pituitary gland problems.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708742" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocrinologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708741" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocrinólogo&quot;" language="es" id="_4"/><SpanishTermName>endocrinólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que ha recibido formación en el diagnóstico y tratamiento de los trastornos del sistema endocrino (glándulas y órganos que elaboran hormonas). Estos trastornos incluyen diabetes, esterilidad, así como enfermedades de la tiroides, las glándulas suprarrenales y la hipófisis. También se llama especialista en endocrinología.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-06-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046439">
+  <TermName>endocrinologist</TermName>
+  <TermPronunciation>(EN-doh-krih-NAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in diagnosing and treating disorders of the endocrine system (the glands and organs that make hormones). These disorders include diabetes, infertility, and thyroid, adrenal, and pituitary gland problems.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708742" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocrinologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708741" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocrinólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>endocrinólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que ha recibido formación en el diagnóstico y tratamiento de los trastornos del sistema endocrino (glándulas y órganos que elaboran hormonas). Estos trastornos incluyen diabetes, esterilidad, así como enfermedades de la tiroides, las glándulas suprarrenales y la hipófisis. También se llama especialista en endocrinología.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-06-17</DateLastModified>
+</GlossaryTerm>

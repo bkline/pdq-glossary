@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000801564"><TermName>cancer prevention vaccine</TermName><TermPronunciation>(KAN-ser pree-VEN-shun vak-SEEN)</TermPronunciation><TermDefinition><DefinitionText>A type of vaccine that helps protect the body against infection with viruses that can cause certain types of cancer later in life. Two types of cancer prevention vaccines are approved in the United States. The human papillomavirus (HPV) vaccine, Gardasil 9, prevents infection with certain types of HPV that can cause cancers of the cervix, vagina, vulva, anus, penis, and oropharynx (throat). The hepatitis B virus (HBV) vaccine prevents infection that can cause serious liver disease, including liver cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804356" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cancer prevention vaccine&quot;" language="en" id="_4"/><MediaLink ref="CDR0000804357" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vacuna preventiva contra el cáncer&quot;" language="es" id="_5"/><SpanishTermName>vacuna preventiva contra el cáncer</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de vacuna que ayuda a evitar la infección por virus que causan cáncer más tarde en la vida. Dos tipos de estas vacunas se aprobaron en los Estados Unidos: la vacuna contra el virus del papiloma humano (VPH), Gardasil 9, que previene la infección por ciertos tipos de VPH que causan cáncer de cuello uterino, vagina, vulva, ano, pene y orofaringe (garganta); y la vacuna contra el virus de la hepatitis B (VHB) que previene la infección que causa  enfermedad  hepática grave, incluso cáncer de hígado. También se llama vacuna de prevención contra el cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-02</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet" UseWith="en">Human Papillomavirus (HPV) Vaccines</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/hoja-informativa-vacuna-vph">Vacunas contra el virus del papiloma humano (VPH)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801564">
+  <TermName>cancer prevention vaccine</TermName>
+  <TermPronunciation>(KAN-ser pree-VEN-shun vak-SEEN)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of vaccine that helps protect the body against infection with viruses that can cause certain types of cancer later in life. Two types of cancer prevention vaccines are approved in the United States. The human papillomavirus (HPV) vaccine, Gardasil 9, prevents infection with certain types of HPV that can cause cancers of the cervix, vagina, vulva, anus, penis, and oropharynx (throat). The hepatitis B virus (HBV) vaccine prevents infection that can cause serious liver disease, including liver cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804356" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cancer prevention vaccine&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000804357" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vacuna preventiva contra el cáncer&quot;" language="es" id="_5"/>
+  <SpanishTermName>vacuna preventiva contra el cáncer</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de vacuna que ayuda a evitar la infección por virus que causan cáncer más tarde en la vida. Dos tipos de estas vacunas se aprobaron en los Estados Unidos: la vacuna contra el virus del papiloma humano (VPH), Gardasil 9, que previene la infección por ciertos tipos de VPH que causan cáncer de cuello uterino, vagina, vulva, ano, pene y orofaringe (garganta); y la vacuna contra el virus de la hepatitis B (VHB) que previene la infección que causa  enfermedad  hepática grave, incluso cáncer de hígado. También se llama vacuna de prevención contra el cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-02</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet" UseWith="en">Human Papillomavirus (HPV) Vaccines</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/hoja-informativa-vacuna-vph">Vacunas contra el virus del papiloma humano (VPH)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000533839"><TermName>MSI</TermName><TermDefinition><DefinitionText>A change that occurs in certain cells (such as cancer cells) in which the number of repeated DNA bases in a microsatellite (a short, repeated sequence of DNA) is different from what it was when the microsatellite was inherited. MSI may be caused by mistakes that don’t get corrected when DNA is copied in a cell. It is found most often in colorectal cancer, gastric cancer, and endometrial cancer, but it may also be found in many other types of cancer. Knowing whether a cancer has MSI may help plan the best treatment. Also called microsatellite instability.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A characteristic of cells that contain an abnormality in DNA mismatch repair. The presence of MSI can be a marker of a germline pathogenic variant in one of the DNA mismatch repair genes, as in the case of Lynch syndrome. MSI can also occur sporadically. Also called microsatellite instability.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><SpanishTermName>IMS</SpanishTermName><SpanishTermDefinition><DefinitionText>Cambio que se presenta en ciertas células (como las células cancerosas) en el cual el número de bases repetidas del ADN en un microsatélite (secuencia de ADN corta y repetida) es diferente del número que se heredó. Es posible que la causa de la IMS sean errores que no se corrigen cuando se copia el ADN de la célula. Esta alteración se encuentra más a menudo en el cáncer colorrectal, el cáncer de estómago y el cáncer de endometrio, pero también se encuentra en otros tipos de cáncer. Saber si un cáncer tiene IMS quizás ayude a planificar el tratamiento más eficaz. También se llama inestabilidad microsatelital y MSI.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Característica de las células que exhiben una anormalidad en la reparación de los errores de emparejamiento del DNA. La IMS se usa como marcador de una variante patógena de la línea germinal en uno de los genes que participan en la reparación de los errores de emparejamiento del DNA, como en el síndrome de Lynch. La IMS también ocurre de manera esporádica. También se llama inestabilidad microsatelital y MSI.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-02-05</DateFirstPublished><DateLastModified>2019-10-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000533839">
+  <TermName>MSI</TermName>
+  <TermDefinition>
+    <DefinitionText>A change that occurs in certain cells (such as cancer cells) in which the number of repeated DNA bases in a microsatellite (a short, repeated sequence of DNA) is different from what it was when the microsatellite was inherited. MSI may be caused by mistakes that don’t get corrected when DNA is copied in a cell. It is found most often in colorectal cancer, gastric cancer, and endometrial cancer, but it may also be found in many other types of cancer. Knowing whether a cancer has MSI may help plan the best treatment. Also called microsatellite instability.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A characteristic of cells that contain an abnormality in DNA mismatch repair. The presence of MSI can be a marker of a germline pathogenic variant in one of the DNA mismatch repair genes, as in the case of Lynch syndrome. MSI can also occur sporadically. Also called microsatellite instability.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>IMS</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cambio que se presenta en ciertas células (como las células cancerosas) en el cual el número de bases repetidas del ADN en un microsatélite (secuencia de ADN corta y repetida) es diferente del número que se heredó. Es posible que la causa de la IMS sean errores que no se corrigen cuando se copia el ADN de la célula. Esta alteración se encuentra más a menudo en el cáncer colorrectal, el cáncer de estómago y el cáncer de endometrio, pero también se encuentra en otros tipos de cáncer. Saber si un cáncer tiene IMS quizás ayude a planificar el tratamiento más eficaz. También se llama inestabilidad microsatelital y MSI.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Característica de las células que exhiben una anormalidad en la reparación de los errores de emparejamiento del DNA. La IMS se usa como marcador de una variante patógena de la línea germinal en uno de los genes que participan en la reparación de los errores de emparejamiento del DNA, como en el síndrome de Lynch. La IMS también ocurre de manera esporádica. También se llama inestabilidad microsatelital y MSI.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-02-05</DateFirstPublished>
+  <DateLastModified>2019-10-08</DateLastModified>
+</GlossaryTerm>

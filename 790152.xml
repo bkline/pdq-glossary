@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000790152"><TermName>public health insurance</TermName><TermPronunciation>(PUH-blik helth in-SHOOR-ents)</TermPronunciation><TermDefinition><DefinitionText>A program run by U.S. federal, state, or local governments in which people have some or all of their health care costs paid for by the government. The two main types of public health insurance are Medicare and Medicaid. Medicare is a federal health insurance program for people aged 65 years or older and people with certain disabilities. Medicaid is a public health insurance program for some individuals and families with a low income or disabilities.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792183" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;public health insurance&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seguro médico público&quot;" language="es" id="_4"/><SpanishTermName>seguro médico público</SpanishTermName><SpanishTermDefinition><DefinitionText>En los Estados Unidos, es un programa dirigido por el Gobierno federal, estatal o local, en el que el gobierno paga todos los costos de atención de la salud de las personas, o una parte de estos. Los dos tipos principales de seguro médico público son  Medicare y Medicaid. Medicare es un programa de seguro médico federal para personas de 65 años o más, y personas con determinadas discapacidades.  Medicaid es un programa de seguro médico público para algunas personas  y familias con ingresos bajos o discapacidades. También se llama seguro de enfermedad público y seguro de salud público.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-10-12</DateFirstPublished><DateLastModified>2024-02-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790152">
+  <TermName>public health insurance</TermName>
+  <TermPronunciation>(PUH-blik helth in-SHOOR-ents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A program run by U.S. federal, state, or local governments in which people have some or all of their health care costs paid for by the government. The two main types of public health insurance are Medicare and Medicaid. Medicare is a federal health insurance program for people aged 65 years or older and people with certain disabilities. Medicaid is a public health insurance program for some individuals and families with a low income or disabilities.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792183" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;public health insurance&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seguro médico público&quot;" language="es" id="_4"/>
+  <SpanishTermName>seguro médico público</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En los Estados Unidos, es un programa dirigido por el Gobierno federal, estatal o local, en el que el gobierno paga todos los costos de atención de la salud de las personas, o una parte de estos. Los dos tipos principales de seguro médico público son  Medicare y Medicaid. Medicare es un programa de seguro médico federal para personas de 65 años o más, y personas con determinadas discapacidades.  Medicaid es un programa de seguro médico público para algunas personas  y familias con ingresos bajos o discapacidades. También se llama seguro de enfermedad público y seguro de salud público.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-10-12</DateFirstPublished>
+  <DateLastModified>2024-02-06</DateLastModified>
+</GlossaryTerm>

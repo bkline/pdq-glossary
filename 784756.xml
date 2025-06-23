@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000784756"><TermName>CEV</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat retinoblastoma in children. It includes the drugs carboplatin, etoposide, and vincristine. Also called CEV regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CEV</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del retinoblastoma en niños. Incluye los medicamentos carboplatino, etopósido y vincristina. También se llama régimen CEV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-11-03</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000784806" url="/about-cancer/treatment/drugs/CEV">CEV</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784756">
+  <TermName>CEV</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat retinoblastoma in children. It includes the drugs carboplatin, etoposide, and vincristine. Also called CEV regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CEV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del retinoblastoma en niños. Incluye los medicamentos carboplatino, etopósido y vincristina. También se llama régimen CEV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-11-03</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000784806" url="/about-cancer/treatment/drugs/CEV">CEV</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

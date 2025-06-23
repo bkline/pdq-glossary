@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044450"><TermName>PR positive</TermName><TermPronunciation>(... PAH-zih-tiv)</TermPronunciation><TermDefinition><DefinitionText>Describes cells that have a protein that binds to the hormone progesterone. Cancer cells that are PR positive may need progesterone to grow. These cells may stop growing or die when treated with substances that block the binding and actions of progesterone. Also called progesterone receptor positive.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734702" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PR positive&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802505" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para PR&quot;" language="es" id="_4"/><SpanishTermName>positiva para PR</SpanishTermName><SpanishTermDefinition><DefinitionText>Característica de una célula que tiene una proteína que se une a la hormona progesterona. Las células cancerosas positivas para PR a veces necesitan progesterona para multiplicarse, de manera que es posible que dejen de multiplicarse o se destruyan cuando se tratan con sustancias que bloquean la unión de la progesterona y la acción de esta hormona. También se llama positiva para el receptor de progesterona y positiva para RP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-11-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044450">
+  <TermName>PR positive</TermName>
+  <TermPronunciation>(... PAH-zih-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes cells that have a protein that binds to the hormone progesterone. Cancer cells that are PR positive may need progesterone to grow. These cells may stop growing or die when treated with substances that block the binding and actions of progesterone. Also called progesterone receptor positive.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734702" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PR positive&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802505" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para PR&quot;" language="es" id="_4"/>
+  <SpanishTermName>positiva para PR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Característica de una célula que tiene una proteína que se une a la hormona progesterona. Las células cancerosas positivas para PR a veces necesitan progesterona para multiplicarse, de manera que es posible que dejen de multiplicarse o se destruyan cuando se tratan con sustancias que bloquean la unión de la progesterona y la acción de esta hormona. También se llama positiva para el receptor de progesterona y positiva para RP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-11-19</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000814189"><TermName>toripalimab</TermName><TermPronunciation>(TOR-ih-PA-lih-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with certain types of nasopharyngeal cancer (a type of head and neck cancer). It is also being studied in the treatment of other types of cancer. Toripalimab binds to a protein called PD-1, which is found on T cells (a type of immune cell). Blocking this protein may help the immune system kill cancer cells. Toripalimab is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Loqtorzi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814921" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toripalimab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814922" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toripalimab&quot;" language="es" id="_4"/><SpanishTermName>toripalimab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de nasofaringe (tipo de cáncer de cabeza y cuello). También está en estudio para el tratamiento de otros tipos de cáncer. El toripalimab se une a una proteína llamada PD-1, que se encuentra en las células T (tipo de célula inmunitaria). Es posible que al bloquear esta proteína ayude al sistema inmunitario a destruir células cancerosas. El toripalimab es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Loqtorzi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-11-01</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000814429" url="/about-cancer/treatment/drugs/toripalimab-tpzi">Toripalimab-tpzi</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814189">
+  <TermName>toripalimab</TermName>
+  <TermPronunciation>(TOR-ih-PA-lih-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults with certain types of nasopharyngeal cancer (a type of head and neck cancer). It is also being studied in the treatment of other types of cancer. Toripalimab binds to a protein called PD-1, which is found on T cells (a type of immune cell). Blocking this protein may help the immune system kill cancer cells. Toripalimab is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Loqtorzi.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814921" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toripalimab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814922" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toripalimab&quot;" language="es" id="_4"/>
+  <SpanishTermName>toripalimab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de nasofaringe (tipo de cáncer de cabeza y cuello). También está en estudio para el tratamiento de otros tipos de cáncer. El toripalimab se une a una proteína llamada PD-1, que se encuentra en las células T (tipo de célula inmunitaria). Es posible que al bloquear esta proteína ayude al sistema inmunitario a destruir células cancerosas. El toripalimab es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Loqtorzi.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-11-01</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000814429" url="/about-cancer/treatment/drugs/toripalimab-tpzi">Toripalimab-tpzi</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

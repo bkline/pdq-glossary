@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000304719"><TermName>fertile</TermName><TermPronunciation>(FER-til)</TermPronunciation><TermDefinition><DefinitionText>Able to produce children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709904" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fertile&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709903" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fértil&quot;" language="es" id="_4"/><SpanishTermName>fértil</SpanishTermName><SpanishTermDefinition><DefinitionText>Capaz de tener hijos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-mujeres">Cuestiones de fecundidad en las mujeres con cáncer: niñas y adultas</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304719">
+  <TermName>fertile</TermName>
+  <TermPronunciation>(FER-til)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Able to produce children.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709904" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fertile&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709903" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fértil&quot;" language="es" id="_4"/>
+  <SpanishTermName>fértil</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Capaz de tener hijos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-mujeres">Cuestiones de fecundidad en las mujeres con cáncer: niñas y adultas</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

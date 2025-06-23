@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000798788"><TermName>NTHL1 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in the repair of DNA damage. Mutations (changes) in the NTHL1 gene may keep cells from repairing their damaged DNA, which may cause cancer cells to grow. The mutated NTHL1 gene has been found in some patients with an inherited condition called familial adenomatous polyposis 3 (FAP3). FAP3 causes many polyps (abnormal growths) to form on the inner walls of the colon and rectum, which may lead to colorectal cancer. People who have mutations  in NTHL1 may also be at increased risk of developing other types of cancer, including endometrial, small intestine, skin, breast, and pancreatic cancers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NTHL1 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801035" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen NTHL1&quot;" language="es" id="_4"/><SpanishTermName>gen NTHL1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la reparación del daño al ADN. Es posible que las mutaciones (cambios) en el gen <GeneName>NTHL1</GeneName> eviten que las células reparen el daño al ADN, lo que quizás cause la multiplicación de células cancerosas. Se han encontrado formas mutadas del gen <GeneName>NTHL1 </GeneName> en algunos pacientes con una afección hereditaria llamada poliposis adenomatosa familiar de tipo 3 (PAF3). Esta afección hace que se formen muchos pólipos (bultos anormales) en las paredes internas del colon y el recto, lo que en ocasiones deriva en cáncer colorrectal. Es posible que las personas que tienen mutaciones en el gen <GeneName>NTHL1</GeneName> también tengan un riesgo alto de presentar otros tipos de cáncer, como cánceres de endometrio, intestino delgado, piel, mama y páncreas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-01-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798788">
+  <TermName>NTHL1 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene that makes a protein involved in the repair of DNA damage. Mutations (changes) in the NTHL1 gene may keep cells from repairing their damaged DNA, which may cause cancer cells to grow. The mutated NTHL1 gene has been found in some patients with an inherited condition called familial adenomatous polyposis 3 (FAP3). FAP3 causes many polyps (abnormal growths) to form on the inner walls of the colon and rectum, which may lead to colorectal cancer. People who have mutations  in NTHL1 may also be at increased risk of developing other types of cancer, including endometrial, small intestine, skin, breast, and pancreatic cancers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NTHL1 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801035" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen NTHL1&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen NTHL1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la reparación del daño al ADN. Es posible que las mutaciones (cambios) en el gen 
+      <GeneName>NTHL1</GeneName>
+       eviten que las células reparen el daño al ADN, lo que quizás cause la multiplicación de células cancerosas. Se han encontrado formas mutadas del gen 
+      <GeneName>NTHL1 </GeneName>
+       en algunos pacientes con una afección hereditaria llamada poliposis adenomatosa familiar de tipo 3 (PAF3). Esta afección hace que se formen muchos pólipos (bultos anormales) en las paredes internas del colon y el recto, lo que en ocasiones deriva en cáncer colorrectal. Es posible que las personas que tienen mutaciones en el gen 
+      <GeneName>NTHL1</GeneName>
+       también tengan un riesgo alto de presentar otros tipos de cáncer, como cánceres de endometrio, intestino delgado, piel, mama y páncreas.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-01-13</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044759"><TermName>fatty breast tissue</TermName><TermPronunciation>(FA-tee brest TIH-shoo)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe breast tissue that is made up of almost all fatty tissue. Fatty breast tissue does not look dense on a mammogram, which may make it easier to find tumors or other changes in the breast. Fatty breast tissue is more common in older women than in younger women. Fatty breast tissue is one of four categories used to describe a level of breast density seen on a mammogram.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705927" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fatty breast tissue&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705928" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido mamario graso&quot;" language="es" id="_7"/><SpanishTermName>tejido mamario graso</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para describir el tejido de mama predominantemente graso (adiposo). En una mamografía, la grasa no se ve densa, lo que hace que sea más fácil encontrar tumores u otros cambios en la mama. Este tipo de tejido es más común en las mujeres mayores que en las jóvenes. El tejido mamario graso es una de las cuatro categorías que se usan para describir el grado de densidad mamaria que se observa en una mamografía. También se llama tejido graso de la mama y tejido mamario adiposo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-04-28</DateLastModified><RelatedInformation><RelatedGlossaryTermRef href="CDR0000335487" UseWith="en" audience="Patients">breast density</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000335487" UseWith="es" audience="Patients">densidad de la mama</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044759">
+  <TermName>fatty breast tissue</TermName>
+  <TermPronunciation>(FA-tee brest TIH-shoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe breast tissue that is made up of almost all fatty tissue. Fatty breast tissue does not look dense on a mammogram, which may make it easier to find tumors or other changes in the breast. Fatty breast tissue is more common in older women than in younger women. Fatty breast tissue is one of four categories used to describe a level of breast density seen on a mammogram.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705927" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fatty breast tissue&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705928" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido mamario graso&quot;" language="es" id="_7"/>
+  <SpanishTermName>tejido mamario graso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para describir el tejido de mama predominantemente graso (adiposo). En una mamografía, la grasa no se ve densa, lo que hace que sea más fácil encontrar tumores u otros cambios en la mama. Este tipo de tejido es más común en las mujeres mayores que en las jóvenes. El tejido mamario graso es una de las cuatro categorías que se usan para describir el grado de densidad mamaria que se observa en una mamografía. También se llama tejido graso de la mama y tejido mamario adiposo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-04-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000335487" UseWith="en" audience="Patients">breast density</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000335487" UseWith="es" audience="Patients">densidad de la mama</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

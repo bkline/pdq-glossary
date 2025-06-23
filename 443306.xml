@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000443306"><TermName>oral contraceptive pill</TermName><TermPronunciation>(OR-ul KON-truh-SEP-tiv ...)</TermPronunciation><TermDefinition><DefinitionText>A pill used to prevent pregnancy. It contains hormones that block the release of eggs from the ovaries. Most oral contraceptives include estrogen and progestin. Also called birth control pill.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714797" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oral contraceptive pill&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714796" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;píldora anticonceptiva oral&quot;" language="es" id="_4"/><SpanishTermName>píldora anticonceptiva oral</SpanishTermName><SpanishTermDefinition><DefinitionText>Píldora que se usa para prevenir el embarazo. Contiene hormonas que impiden que los ovarios liberen óvulos. La mayoría de los anticonceptivos orales contienen estrógeno y progestina. También se llama anticonceptivo oral, contraceptivo oral, píldora anticonceptiva y píldora contraceptiva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-14</DateFirstPublished><DateLastModified>2006-04-17</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet" UseWith="en">Oral Contraceptives and Cancer Risk</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-pildoras-anticonceptivas">Píldoras anticonceptivas y el riesgo de cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000443306">
+  <TermName>oral contraceptive pill</TermName>
+  <TermPronunciation>(OR-ul KON-truh-SEP-tiv ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A pill used to prevent pregnancy. It contains hormones that block the release of eggs from the ovaries. Most oral contraceptives include estrogen and progestin. Also called birth control pill.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714797" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oral contraceptive pill&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714796" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;píldora anticonceptiva oral&quot;" language="es" id="_4"/>
+  <SpanishTermName>píldora anticonceptiva oral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Píldora que se usa para prevenir el embarazo. Contiene hormonas que impiden que los ovarios liberen óvulos. La mayoría de los anticonceptivos orales contienen estrógeno y progestina. También se llama anticonceptivo oral, contraceptivo oral, píldora anticonceptiva y píldora contraceptiva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-14</DateFirstPublished>
+  <DateLastModified>2006-04-17</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet" UseWith="en">Oral Contraceptives and Cancer Risk</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-pildoras-anticonceptivas">Píldoras anticonceptivas y el riesgo de cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

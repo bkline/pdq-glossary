@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000270853"><TermName>ataxia-telangiectasia</TermName><TermPronunciation>(uh-TAK-see-uh-teh-LAN-jee-ek-TAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited, progressive, degenerative disease of childhood that causes loss of muscle control, a weakened immune system, and an increased risk of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709788" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ataxia-telangiectasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709787" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ataxia-telangiectasia&quot;" language="es" id="_4"/><SpanishTermName>ataxia-telangiectasia</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad hereditaria rara, progresiva y degenerativa propia de la niñez que causa pérdida del control muscular, debilita el sistema inmunitario y aumenta el riesgo de cáncer. También se llama síndrome de ataxia y telangiectasia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-01-26</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/5862/ataxia-telangiectasia">Ataxia telangiectasia (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/ataxia-telangiectasia/">Ataxia-telangiectasia (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/12971/ataxia-telangiectasia">Ataxia Telangiectasia (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ataxiatelangiectasia.html">Ataxia Telangiectasia (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000270853">
+  <TermName>ataxia-telangiectasia</TermName>
+  <TermPronunciation>(uh-TAK-see-uh-teh-LAN-jee-ek-TAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited, progressive, degenerative disease of childhood that causes loss of muscle control, a weakened immune system, and an increased risk of cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709788" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ataxia-telangiectasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709787" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ataxia-telangiectasia&quot;" language="es" id="_4"/>
+  <SpanishTermName>ataxia-telangiectasia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad hereditaria rara, progresiva y degenerativa propia de la niñez que causa pérdida del control muscular, debilita el sistema inmunitario y aumenta el riesgo de cáncer. También se llama síndrome de ataxia y telangiectasia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-01-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/5862/ataxia-telangiectasia">Ataxia telangiectasia (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/ataxia-telangiectasia/">Ataxia-telangiectasia (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/12971/ataxia-telangiectasia">Ataxia Telangiectasia (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ataxiatelangiectasia.html">Ataxia Telangiectasia (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

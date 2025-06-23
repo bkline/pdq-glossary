@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000046456"><TermName>corpus uteri</TermName><TermPronunciation>(KOR-pus YOO-TEH-ry)</TermPronunciation><TermDefinition><DefinitionText>The body of the uterus.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731631" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;corpus uteri&quot;" language="en" id="_5"/><MediaLink ref="CDR0000731630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cuerpo uterino&quot;" language="es" id="_6"/><SpanishTermName>cuerpo uterino</SpanishTermName><SpanishTermDefinition><DefinitionText>Cuerpo del útero.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046456">
+  <TermName>corpus uteri</TermName>
+  <TermPronunciation>(KOR-pus YOO-TEH-ry)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The body of the uterus.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731631" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;corpus uteri&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000731630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cuerpo uterino&quot;" language="es" id="_6"/>
+  <SpanishTermName>cuerpo uterino</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cuerpo del útero.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

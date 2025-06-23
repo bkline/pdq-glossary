@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000335511"><TermName>serotonin</TermName><TermPronunciation>(SAYR-uh-TOH-nin)</TermPronunciation><TermDefinition><DefinitionText>A substance that is found mostly in the digestive tract, central nervous system (brain and spinal cord), and platelets. Serotonin acts both as a neurotransmitter (a substance that nerves use to send messages to one another) and a vasoconstrictor (a substance that causes blood vessels to narrow).  A low level of serotonin in the brain is thought to be a cause of depression. Also called 5-hydroxytryptamine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731762" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotonin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731763" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotonina&quot;" language="es" id="_4"/><SpanishTermName>serotonina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se encuentra por lo general en el tubo digestivo, el sistema nervioso central (encéfalo y médula espinal) y las plaquetas. La serotonina funciona como neurotransmisor (sustancia que usan los nervios para enviarse mensajes entre sí) y vasoconstrictor (sustancia que hace que los vasos sanguíneos se estrechen). Se cree que una concentración baja de serotonina es causa de depresión. También se llama 5-hidroxitriptamina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished><DateLastModified>2021-12-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335511">
+  <TermName>serotonin</TermName>
+  <TermPronunciation>(SAYR-uh-TOH-nin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that is found mostly in the digestive tract, central nervous system (brain and spinal cord), and platelets. Serotonin acts both as a neurotransmitter (a substance that nerves use to send messages to one another) and a vasoconstrictor (a substance that causes blood vessels to narrow).  A low level of serotonin in the brain is thought to be a cause of depression. Also called 5-hydroxytryptamine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731762" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotonin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731763" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotonina&quot;" language="es" id="_4"/>
+  <SpanishTermName>serotonina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que se encuentra por lo general en el tubo digestivo, el sistema nervioso central (encéfalo y médula espinal) y las plaquetas. La serotonina funciona como neurotransmisor (sustancia que usan los nervios para enviarse mensajes entre sí) y vasoconstrictor (sustancia que hace que los vasos sanguíneos se estrechen). Se cree que una concentración baja de serotonina es causa de depresión. También se llama 5-hidroxitriptamina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+  <DateLastModified>2021-12-30</DateLastModified>
+</GlossaryTerm>

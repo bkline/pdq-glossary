@@ -1,11 +1,24 @@
-<GlossaryTerm id="CDR0000508952"><TermName>Gemzar</TermName><TermPronunciation>(JEM-zar)</TermPronunciation><TermDefinition><DefinitionText>A drug used
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000508952">
+  <TermName>Gemzar</TermName>
+  <TermPronunciation>(JEM-zar)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used
           alone or with other drugs to treat certain types of breast,
           non-small cell lung, ovarian, and pancreatic cancers that
           are advanced or have spread to other parts of the body. It
           is also being studied in the treatment of other types of
           cancer. Gemzar stops cells
           from making DNA and may kill cancer cells. It is a type of
-          antimetabolite.  Also called gemcitabine hydrochloride and Infugem.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718457" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gemzar&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gemzar&quot;" language="es" id="_4"/><SpanishTermName>Gemzar</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o
+          antimetabolite.  Also called gemcitabine hydrochloride and Infugem.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718457" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gemzar&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gemzar&quot;" language="es" id="_4"/>
+  <SpanishTermName>Gemzar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o
 con otros medicamentos para tratar ciertos tipos de
 cánceres de mama, de pulmón de células no pequeñas, de
 ovario y de páncreas que están en estadio avanzado o que se
@@ -13,4 +26,13 @@ diseminaron a otras partes del cuerpo. También está en
 estudio para el tratamiento de otros tipos de cáncer.
 Gemzar impide que las células elaboren
 ADN y es posible que destruya células cancerosas. Es un
-tipo de antimetabolito.  También se llama clorhidrato de gemcitabina e Infugem.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2019-08-16</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000495426" url="/about-cancer/treatment/drugs/gemcitabinehydrochloride">Gemcitabine Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+tipo de antimetabolito.  También se llama clorhidrato de gemcitabina e Infugem.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2019-08-16</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000495426" url="/about-cancer/treatment/drugs/gemcitabinehydrochloride">Gemcitabine Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

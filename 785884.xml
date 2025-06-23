@@ -1,1 +1,40 @@
-<GlossaryTerm id="CDR0000785884"><TermName>wild-type KRAS gene</TermName><TermPronunciation>(… KAY-ras jeen)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe a gene called <GeneName>KRAS</GeneName> when it is found in its natural, non-mutated (unchanged) form. The <GeneName>KRAS</GeneName> gene makes a protein that is involved in cell signaling pathways that control cell growth, cell maturation, and cell death. Mutated (changed) forms of the <GeneName>KRAS</GeneName> gene have been found in some types of cancer, including non-small cell lung cancer, colorectal cancer, and pancreatic cancer. Knowing whether a patient’s tumor has a wild-type or mutated <GeneName>KRAS</GeneName> gene may help plan cancer treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000790328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;wild-type KRAS gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000790329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen KRAS natural&quot;" language="es" id="_4"/><SpanishTermName>gen KRAS natural</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que describe un gen llamado <GeneName>KRAS</GeneName> cuando se encuentra en su forma natural, sin mutaciones (inalterado). El gen <GeneName>KRAS</GeneName> da origen a una proteína que participa en las vías de señalización celular que controlan la formación, la maduración y la destrucción de las células. Se han encontrado formas mutadas (cambiadas) del gen  <GeneName>KRAS</GeneName> en algunos tipos de cáncer, como el  cáncer de pulmón de células no pequeñas, el cáncer colorrectal y el cáncer de páncreas. Saber si el tumor de un paciente tiene una forma natural o mutada del gen <GeneName>KRAS</GeneName> quizá ayude a planificar el tratamiento del cáncer. También se llama gen KRAS normal y gen KRAS salvaje.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-06-22</DateFirstPublished><DateLastModified>2020-12-02</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000785884">
+  <TermName>wild-type KRAS gene</TermName>
+  <TermPronunciation>(… KAY-ras jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A term used to describe a gene called 
+      <GeneName>KRAS</GeneName>
+       when it is found in its natural, non-mutated (unchanged) form. The 
+      <GeneName>KRAS</GeneName>
+       gene makes a protein that is involved in cell signaling pathways that control cell growth, cell maturation, and cell death. Mutated (changed) forms of the 
+      <GeneName>KRAS</GeneName>
+       gene have been found in some types of cancer, including non-small cell lung cancer, colorectal cancer, and pancreatic cancer. Knowing whether a patient’s tumor has a wild-type or mutated 
+      <GeneName>KRAS</GeneName>
+       gene may help plan cancer treatment.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000790328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;wild-type KRAS gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000790329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen KRAS natural&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen KRAS natural</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Término que describe un gen llamado 
+      <GeneName>KRAS</GeneName>
+       cuando se encuentra en su forma natural, sin mutaciones (inalterado). El gen 
+      <GeneName>KRAS</GeneName>
+       da origen a una proteína que participa en las vías de señalización celular que controlan la formación, la maduración y la destrucción de las células. Se han encontrado formas mutadas (cambiadas) del gen  
+      <GeneName>KRAS</GeneName>
+       en algunos tipos de cáncer, como el  cáncer de pulmón de células no pequeñas, el cáncer colorrectal y el cáncer de páncreas. Saber si el tumor de un paciente tiene una forma natural o mutada del gen 
+      <GeneName>KRAS</GeneName>
+       quizá ayude a planificar el tratamiento del cáncer. También se llama gen KRAS normal y gen KRAS salvaje.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-06-22</DateFirstPublished>
+  <DateLastModified>2020-12-02</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000810880"><TermName>WEE1 protein</TermName><TermPronunciation>(… PROH-teen)</TermPronunciation><TermDefinition><DefinitionText>A protein that is found inside the nucleus of a cell and plays a key role in controlling how cells grow and divide. The WEE1 protein may be found in higher-than-normal amounts in some types of cancer cells. This may cause cancer cells to grow and spread. Drugs that block the WEE1 protein are being studied in the treatment of some types of cancer. The WEE1 protein is a type of tyrosine kinase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812265" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;WEE1 protein&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812266" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proteína WEE1&quot;" language="es" id="_4"/><SpanishTermName>proteína WEE1</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que se encuentra en el núcleo de la célula y que cumple una función importante en el control del crecimiento y la división celular. En ocasiones, algunos tipos de células cancerosas tienen cantidades de proteína WEE1 más altas de lo normal. Es posible que esto haga que las células cancerosas se multipliquen y se diseminen. Están en estudio medicamentos que bloquean la proteína WEE1 para el tratamiento de algunos tipos de cáncer. La proteína WEE1 es un tipo de tirosina–cinasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-02-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810880">
+  <TermName>WEE1 protein</TermName>
+  <TermPronunciation>(… PROH-teen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A protein that is found inside the nucleus of a cell and plays a key role in controlling how cells grow and divide. The WEE1 protein may be found in higher-than-normal amounts in some types of cancer cells. This may cause cancer cells to grow and spread. Drugs that block the WEE1 protein are being studied in the treatment of some types of cancer. The WEE1 protein is a type of tyrosine kinase.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812265" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;WEE1 protein&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812266" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proteína WEE1&quot;" language="es" id="_4"/>
+  <SpanishTermName>proteína WEE1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que se encuentra en el núcleo de la célula y que cumple una función importante en el control del crecimiento y la división celular. En ocasiones, algunos tipos de células cancerosas tienen cantidades de proteína WEE1 más altas de lo normal. Es posible que esto haga que las células cancerosas se multipliquen y se diseminen. Están en estudio medicamentos que bloquean la proteína WEE1 para el tratamiento de algunos tipos de cáncer. La proteína WEE1 es un tipo de tirosina–cinasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-02-24</DateFirstPublished>
+</GlossaryTerm>

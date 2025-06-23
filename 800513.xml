@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800513"><TermName>polygenic risk score</TermName><TermPronunciation>(PAH-lee-JEH-nik risk skor)</TermPronunciation><TermDefinition><DefinitionText>An assessment of the risk of a specific condition based on the collective influence of many genetic variants. These can include variants associated with genes of known function and variants not known to be associated with genes relevant to the condition. Also called PRS.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000801162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;polygenic risk score&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;puntuación de riesgo poligénico&quot;" language="es" id="_4"/><SpanishTermName>puntuación de riesgo poligénico</SpanishTermName><SpanishTermDefinition><DefinitionText>Evaluación del riesgo de una afección específica teniendo en cuenta la influencia colectiva de muchas variantes genéticas. Entre ellas, variantes asociadas a genes con funciones conocidas y variantes que no se sabe que estén asociadas a genes relevantes para la afección. También se llama PRS.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2020-01-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800513">
+  <TermName>polygenic risk score</TermName>
+  <TermPronunciation>(PAH-lee-JEH-nik risk skor)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An assessment of the risk of a specific condition based on the collective influence of many genetic variants. These can include variants associated with genes of known function and variants not known to be associated with genes relevant to the condition. Also called PRS.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;polygenic risk score&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;puntuación de riesgo poligénico&quot;" language="es" id="_4"/>
+  <SpanishTermName>puntuación de riesgo poligénico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Evaluación del riesgo de una afección específica teniendo en cuenta la influencia colectiva de muchas variantes genéticas. Entre ellas, variantes asociadas a genes con funciones conocidas y variantes que no se sabe que estén asociadas a genes relevantes para la afección. También se llama PRS.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-01-29</DateFirstPublished>
+</GlossaryTerm>

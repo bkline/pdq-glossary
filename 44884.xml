@@ -1,1 +1,49 @@
-<GlossaryTerm id="CDR0000044884"><TermName>hereditary nonpolyposis colorectal cancer</TermName><TermPronunciation>(heh-REH-dih-tayr-ee non-PAH-lee-POH-sis KOH-loh-REK-tul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>An inherited disorder that increases the risk of developing colorectal cancer, endometrial cancer, ovarian cancer, and many other types of cancer, such as cancers of the stomach, small intestine, pancreas, bile duct, urinary tract, and brain, often before age 50. Hereditary nonpolyposis colorectal cancer is caused by mutations (changes) in genes that affect DNA mismatch repair, a process that fixes mistakes that occur when DNA is copied. These genes are <GeneName>MLH1</GeneName>, <GeneName>MSH2</GeneName>, <GeneName>MSH6</GeneName>, <GeneName>PMS2</GeneName>, and <GeneName>EPCAM</GeneName>.  Also called HNPCC and Lynch syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hereditary nonpolyposis colorectal cancer&quot;" language="en" id="_10"/><MediaLink ref="CDR0000706101" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer colorrectal hereditario no polipósico&quot;" language="es" id="_9"/><SpanishTermName>cáncer colorrectal hereditario no polipósico</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario que aumenta el riesgo de cáncer colorrectal y cánceres de endometrio, ovario, estómago, intestino delgado, páncreas, vías biliares, vías urinarias o encéfalo, a menudo antes de los 50 años. La causa del cáncer colorrectal hereditario no polipósico son mutaciones (cambios) en los genes que afectan a la reparación de errores de emparejamiento del ADN, un proceso que corrige los errores que ocurren durante la duplicación de ADN. Estos genes son <GeneName>MLH1</GeneName>, <GeneName>MSH2</GeneName>, <GeneName>MSH6</GeneName>, <GeneName>PMS2</GeneName> y <GeneName>EPCAM</GeneName>. También se llama cáncer colorrectal hereditario no asociado a poliposis, cáncer de colon no polipósico hereditario, cáncer de colon no poliposo hereditario, cáncer de colon sin poliposis hereditario, HNPCC y síndrome de Lynch.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-05-18</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/12282/sindrome-de-lynch">Síndrome de Lynch (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/lynch-syndrome/">Lynch syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet">Genetic Testing for Inherited Cancer Susceptibility Syndromes</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/hoja-informativa-pruebas-geneticas">Pruebas genéticas para detectar el riesgo de cáncer hereditario</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044884">
+  <TermName>hereditary nonpolyposis colorectal cancer</TermName>
+  <TermPronunciation>(heh-REH-dih-tayr-ee non-PAH-lee-POH-sis KOH-loh-REK-tul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      An inherited disorder that increases the risk of developing colorectal cancer, endometrial cancer, ovarian cancer, and many other types of cancer, such as cancers of the stomach, small intestine, pancreas, bile duct, urinary tract, and brain, often before age 50. Hereditary nonpolyposis colorectal cancer is caused by mutations (changes) in genes that affect DNA mismatch repair, a process that fixes mistakes that occur when DNA is copied. These genes are 
+      <GeneName>MLH1</GeneName>
+      , 
+      <GeneName>MSH2</GeneName>
+      , 
+      <GeneName>MSH6</GeneName>
+      , 
+      <GeneName>PMS2</GeneName>
+      , and 
+      <GeneName>EPCAM</GeneName>
+      .  Also called HNPCC and Lynch syndrome.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hereditary nonpolyposis colorectal cancer&quot;" language="en" id="_10"/>
+  <MediaLink ref="CDR0000706101" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer colorrectal hereditario no polipósico&quot;" language="es" id="_9"/>
+  <SpanishTermName>cáncer colorrectal hereditario no polipósico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario que aumenta el riesgo de cáncer colorrectal y cánceres de endometrio, ovario, estómago, intestino delgado, páncreas, vías biliares, vías urinarias o encéfalo, a menudo antes de los 50 años. La causa del cáncer colorrectal hereditario no polipósico son mutaciones (cambios) en los genes que afectan a la reparación de errores de emparejamiento del ADN, un proceso que corrige los errores que ocurren durante la duplicación de ADN. Estos genes son 
+      <GeneName>MLH1</GeneName>
+      , 
+      <GeneName>MSH2</GeneName>
+      , 
+      <GeneName>MSH6</GeneName>
+      , 
+      <GeneName>PMS2</GeneName>
+       y 
+      <GeneName>EPCAM</GeneName>
+      . También se llama cáncer colorrectal hereditario no asociado a poliposis, cáncer de colon no polipósico hereditario, cáncer de colon no poliposo hereditario, cáncer de colon sin poliposis hereditario, HNPCC y síndrome de Lynch.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/12282/sindrome-de-lynch">Síndrome de Lynch (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/lynch-syndrome/">Lynch syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet">Genetic Testing for Inherited Cancer Susceptibility Syndromes</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/hoja-informativa-pruebas-geneticas">Pruebas genéticas para detectar el riesgo de cáncer hereditario</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

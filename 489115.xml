@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000489115"><TermName>Tykerb</TermName><TermPronunciation>(TY-kerb)</TermPronunciation><TermDefinition><DefinitionText>A drug used with capecitabine or letrozole to treat certain types of HER2-positive breast cancer that are advanced or have spread. It is also being studied in the treatment of other types of cancer. Tykerb blocks EGFR and other proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor.  Also called GW572016 and lapatinib ditosylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733018" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tykerb&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tykerb&quot;" language="es" id="_4"/><SpanishTermName>Tykerb</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con capecitabina o letrozol para el tratamiento de  ciertos tipos de cáncer de mama positivo para HER2 en estadio avanzado o que se diseminaron. También está en estudio para el tratamiento de otros tipos de cáncer. Tykerb bloquea EGFR y otras proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Tykerb es un tipo de inhibidor de tirosina–cinasas.  También se llama ditosilato de lapatinib y GW572016.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-06-02</DateFirstPublished><DateLastModified>2021-10-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000539385" url="/about-cancer/treatment/drugs/lapatinibditosylate">Lapatinib Ditosylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000489115">
+  <TermName>Tykerb</TermName>
+  <TermPronunciation>(TY-kerb)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with capecitabine or letrozole to treat certain types of HER2-positive breast cancer that are advanced or have spread. It is also being studied in the treatment of other types of cancer. Tykerb blocks EGFR and other proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor.  Also called GW572016 and lapatinib ditosylate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733018" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tykerb&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tykerb&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tykerb</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con capecitabina o letrozol para el tratamiento de  ciertos tipos de cáncer de mama positivo para HER2 en estadio avanzado o que se diseminaron. También está en estudio para el tratamiento de otros tipos de cáncer. Tykerb bloquea EGFR y otras proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Tykerb es un tipo de inhibidor de tirosina–cinasas.  También se llama ditosilato de lapatinib y GW572016.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-06-02</DateFirstPublished>
+  <DateLastModified>2021-10-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000539385" url="/about-cancer/treatment/drugs/lapatinibditosylate">Lapatinib Ditosylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

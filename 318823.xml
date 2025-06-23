@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000318823"><TermName>pediatric surgeon</TermName><TermPronunciation>(pee-dee-A-trik SER-jun)</TermPronunciation><TermDefinition><DefinitionText>A surgeon who has special training in treating children. A surgeon removes or repairs a part of the body by operating on the patient.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731624" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric surgeon&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731625" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano pediatra&quot;" language="es" id="_4"/><SpanishTermName>cirujano pediatra</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en la cirugía infantil. Extrae o repara partes del cuerpo del paciente mediante operaciones quirúrgicas. También se llama cirujano pediátrico y especialista en cirugía pediátrica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000318823">
+  <TermName>pediatric surgeon</TermName>
+  <TermPronunciation>(pee-dee-A-trik SER-jun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgeon who has special training in treating children. A surgeon removes or repairs a part of the body by operating on the patient.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731624" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric surgeon&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731625" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano pediatra&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirujano pediatra</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en la cirugía infantil. Extrae o repara partes del cuerpo del paciente mediante operaciones quirúrgicas. También se llama cirujano pediátrico y especialista en cirugía pediátrica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

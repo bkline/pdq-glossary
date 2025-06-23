@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000787970"><TermName>CAR</TermName><TermDefinition><DefinitionText>A special receptor created in the laboratory that is designed to bind to certain proteins on cancer cells.  The CAR is then added to immune cells called T cells. This helps the T cells find and kill cancer cells that have the specific protein that the receptor is designed to bind. These changed T cells called CAR T cells are then grown in large numbers in the laboratory and given to cancer patients. CAR T cells are being studied in the treatment of some types of cancer. Also called chimeric antigen receptor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CAR</SpanishTermName><SpanishTermDefinition><DefinitionText>Receptor especial elaborado en el laboratorio y diseñado para unirse a ciertas proteínas en las células cancerosas. El CAR se añade luego  a las células inmunitarias llamadas células T. Este receptor ayuda a que las células T encuentren y destruyan las células cancerosas que tienen la proteína específica de unión para  la que se diseñó el receptor. Después, estas células  T modificadas llamadas células T con CAR se multiplican en el laboratorio para obtener grandes cantidades y se administran a los pacientes de cáncer. Este tipo de células T está en estudio para el tratamiento de algunos tipos de cáncer. También se llama receptor quimérico para el antígeno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-06-05</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000771302" UseWith="en" audience="Patients">CAR T-cell therapy</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000771302" UseWith="es" audience="Patients">terapia de células T con CAR</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000787970">
+  <TermName>CAR</TermName>
+  <TermDefinition>
+    <DefinitionText>A special receptor created in the laboratory that is designed to bind to certain proteins on cancer cells.  The CAR is then added to immune cells called T cells. This helps the T cells find and kill cancer cells that have the specific protein that the receptor is designed to bind. These changed T cells called CAR T cells are then grown in large numbers in the laboratory and given to cancer patients. CAR T cells are being studied in the treatment of some types of cancer. Also called chimeric antigen receptor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CAR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Receptor especial elaborado en el laboratorio y diseñado para unirse a ciertas proteínas en las células cancerosas. El CAR se añade luego  a las células inmunitarias llamadas células T. Este receptor ayuda a que las células T encuentren y destruyan las células cancerosas que tienen la proteína específica de unión para  la que se diseñó el receptor. Después, estas células  T modificadas llamadas células T con CAR se multiplican en el laboratorio para obtener grandes cantidades y se administran a los pacientes de cáncer. Este tipo de células T está en estudio para el tratamiento de algunos tipos de cáncer. También se llama receptor quimérico para el antígeno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-06-05</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000771302" UseWith="en" audience="Patients">CAR T-cell therapy</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000771302" UseWith="es" audience="Patients">terapia de células T con CAR</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

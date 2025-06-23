@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801907"><TermName>innate immunity</TermName><TermPronunciation>(ih-NAYT ih-MYOO-nih-tee)</TermPronunciation><TermDefinition><DefinitionText>Immunity that is present at birth and lasts a person’s entire life. Innate immunity is the first response of the body’s immune system to a harmful foreign substance. When foreign substances, such as bacteria or viruses, enter the body, certain cells in the immune system can quickly respond and try to destroy them. Innate immunity also includes barriers, such as skin, mucous membranes, tears, and stomach acid, that help keep harmful substances from entering the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804396" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;innate immunity&quot;" language="en" id="_4"/><MediaLink ref="CDR0000804397" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunidad innata&quot;" language="es" id="_5"/><SpanishTermName>inmunidad innata</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de inmunidad presente desde el nacimiento y que dura toda la vida. La inmunidad innata es la primera respuesta del sistema inmunitario del cuerpo contra una sustancia extraña dañina. Cuando entran al cuerpo microorganismos extraños, como bacterias o virus, ciertas células del sistema inmunitario responden rápido para tratar de destruirlos. La inmunidad innata también incluye barreras, como la piel, las membranas mucosas, las lágrimas y el ácido del estómago, que ayudan a evitar la entrada de sustancias dañinas en el cuerpo. También se llama inmunidad natural.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-09-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801907">
+  <TermName>innate immunity</TermName>
+  <TermPronunciation>(ih-NAYT ih-MYOO-nih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Immunity that is present at birth and lasts a person’s entire life. Innate immunity is the first response of the body’s immune system to a harmful foreign substance. When foreign substances, such as bacteria or viruses, enter the body, certain cells in the immune system can quickly respond and try to destroy them. Innate immunity also includes barriers, such as skin, mucous membranes, tears, and stomach acid, that help keep harmful substances from entering the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804396" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;innate immunity&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000804397" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunidad innata&quot;" language="es" id="_5"/>
+  <SpanishTermName>inmunidad innata</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de inmunidad presente desde el nacimiento y que dura toda la vida. La inmunidad innata es la primera respuesta del sistema inmunitario del cuerpo contra una sustancia extraña dañina. Cuando entran al cuerpo microorganismos extraños, como bacterias o virus, ciertas células del sistema inmunitario responden rápido para tratar de destruirlos. La inmunidad innata también incluye barreras, como la piel, las membranas mucosas, las lágrimas y el ácido del estómago, que ayudan a evitar la entrada de sustancias dañinas en el cuerpo. También se llama inmunidad natural.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-09-16</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,15 @@
-<GlossaryTerm id="CDR0000044385"><TermName>CTC</TermName><TermDefinition><DefinitionText>A cancer cell that breaks away from the original (primary) tumor and enters the bloodstream. CTCs can travel through the blood and form new tumors in other parts of the body. A sample of blood can be used to detect CTCs and learn more about the primary tumor. CTCs are being used as a biomarker in some types of cancer to help plan treatment or make a likely prognosis. Also called circulating tumor cell.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CTC</SpanishTermName><SpanishTermDefinition><DefinitionText>Célula cancerosa que se desprende del tumor inicial (primario) y entra al torrente sanguíneo. Estas células viajan por la sangre y forman nuevos tumores en otras partes del cuerpo. Es posible usar una muestra de sangre para detectar este tipo de células y obtener más información sobre el tumor primario. Las CTC se usan como biomarcadores en algunos tipos de cáncer para ayudar a planificar el tratamiento o establecer un pronóstico probable. También se llama célula tumoral circulante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044385">
+  <TermName>CTC</TermName>
+  <TermDefinition>
+    <DefinitionText>A cancer cell that breaks away from the original (primary) tumor and enters the bloodstream. CTCs can travel through the blood and form new tumors in other parts of the body. A sample of blood can be used to detect CTCs and learn more about the primary tumor. CTCs are being used as a biomarker in some types of cancer to help plan treatment or make a likely prognosis. Also called circulating tumor cell.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CTC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Célula cancerosa que se desprende del tumor inicial (primario) y entra al torrente sanguíneo. Estas células viajan por la sangre y forman nuevos tumores en otras partes del cuerpo. Es posible usar una muestra de sangre para detectar este tipo de células y obtener más información sobre el tumor primario. Las CTC se usan como biomarcadores en algunos tipos de cáncer para ayudar a planificar el tratamiento o establecer un pronóstico probable. También se llama célula tumoral circulante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801579"><TermName>drenching night sweats</TermName><TermPronunciation>(DREN-ching …)</TermPronunciation><TermDefinition><DefinitionText>Episodes of excessive sweating that occur during sleep and soak a person’s bedclothes and bed sheets, which may cause the person to wake up. Drenching night sweats that do not go away and occur with other signs and symptoms, such as fever, weight loss, and fatigue, may be a symptom of some types of cancer, including leukemia and lymphoma. Not all people who have drenching night sweats have cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804362" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drenching night sweats&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804363" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sudores nocturnos excesivos&quot;" language="es" id="_4"/><SpanishTermName>sudores nocturnos excesivos</SpanishTermName><SpanishTermDefinition><DefinitionText>Episodios de sudoración abundante durante el sueño, que empapan la ropa y las sábanas, y despiertan a la persona. A veces, los sudores nocturnos excesivos que no desaparecen y se acompañan de otros signos y síntomas, como fiebre, pérdida de peso y cansancio, son un síntoma de algunos tipos de cáncer, incluso leucemia y linfoma. No todas las personas con sudores nocturnos excesivos tienen cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801579">
+  <TermName>drenching night sweats</TermName>
+  <TermPronunciation>(DREN-ching …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Episodes of excessive sweating that occur during sleep and soak a person’s bedclothes and bed sheets, which may cause the person to wake up. Drenching night sweats that do not go away and occur with other signs and symptoms, such as fever, weight loss, and fatigue, may be a symptom of some types of cancer, including leukemia and lymphoma. Not all people who have drenching night sweats have cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804362" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drenching night sweats&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804363" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sudores nocturnos excesivos&quot;" language="es" id="_4"/>
+  <SpanishTermName>sudores nocturnos excesivos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Episodios de sudoración abundante durante el sueño, que empapan la ropa y las sábanas, y despiertan a la persona. A veces, los sudores nocturnos excesivos que no desaparecen y se acompañan de otros signos y síntomas, como fiebre, pérdida de peso y cansancio, son un síntoma de algunos tipos de cáncer, incluso leucemia y linfoma. No todas las personas con sudores nocturnos excesivos tienen cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-02</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000304721"><TermName>infertile</TermName><TermPronunciation>(in-FER-til)</TermPronunciation><TermDefinition><DefinitionText>Unable to produce children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infertile&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infértil&quot;" language="es" id="_4"/><SpanishTermName>infértil</SpanishTermName><SpanishTermDefinition><DefinitionText>Incapaz de tener hijos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos </RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres">Problemas sexuales y de fecundidad (mujeres)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304721">
+  <TermName>infertile</TermName>
+  <TermPronunciation>(in-FER-til)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Unable to produce children.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infertile&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infértil&quot;" language="es" id="_4"/>
+  <SpanishTermName>infértil</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Incapaz de tener hijos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos </RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres">Problemas sexuales y de fecundidad (mujeres)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,12 +1,34 @@
-<GlossaryTerm id="CDR0000635746"><TermName>procarbazine hydrochloride</TermName><TermPronunciation>(proh-KAR-buh-zeen HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A drug used
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000635746">
+  <TermName>procarbazine hydrochloride</TermName>
+  <TermPronunciation>(proh-KAR-buh-zeen HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used
           with other drugs to treat advanced Hodgkin lymphoma. It is
           also being studied in the treatment of other types of
           cancer. Procarbazine hydrochloride damages the
           cell’s DNA and may kill cancer cells. It is a type of
-          alkylating agent. Procarbazine is the active ingredient of procarbazine hydrochloride. Also called Matulane.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;procarbazine hydrochloride&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722847" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de procarbazina&quot;" language="es" id="_4"/><SpanishTermName>clorhidrato de procarbazina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con
+          alkylating agent. Procarbazine is the active ingredient of procarbazine hydrochloride. Also called Matulane.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;procarbazine hydrochloride&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722847" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de procarbazina&quot;" language="es" id="_4"/>
+  <SpanishTermName>clorhidrato de procarbazina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con
 otros medicamentos para tratar el linfoma de Hodgkin
 avanzado. También está en estudio para el tratamiento de
 otros tipos de cáncer. El clorhidrato de procarbazina daña el
 ADN de las células y es posible que destruya células
 cancerosas. Es un tipo de alquilante.
-La procarbazina es el ingrediente activo del clorhidrato de procarbazina. También se llama hidrocloruro de procarbazina y Matulane.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-02-20</DateFirstPublished><DateLastModified>2019-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000675532" url="/about-cancer/treatment/drugs/procarbazinehydrochloride">Procarbazine Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+La procarbazina es el ingrediente activo del clorhidrato de procarbazina. También se llama hidrocloruro de procarbazina y Matulane.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-02-20</DateFirstPublished>
+  <DateLastModified>2019-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000675532" url="/about-cancer/treatment/drugs/procarbazinehydrochloride">Procarbazine Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

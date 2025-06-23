@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045561"><TermName>streptozocin</TermName><TermPronunciation>(STREP-toh-ZOH-sin)</TermPronunciation><TermDefinition><DefinitionText>An anticancer drug that belongs to the family of drugs called alkylating agents.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;streptozocin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731089" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estreptozocina&quot;" language="es" id="_4"/><SpanishTermName>estreptozocina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento contra el cáncer que es un tipo de alquilante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045561">
+  <TermName>streptozocin</TermName>
+  <TermPronunciation>(STREP-toh-ZOH-sin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An anticancer drug that belongs to the family of drugs called alkylating agents.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;streptozocin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731089" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estreptozocina&quot;" language="es" id="_4"/>
+  <SpanishTermName>estreptozocina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento contra el cáncer que es un tipo de alquilante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

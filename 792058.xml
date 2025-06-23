@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000792058"><TermName>pylorus</TermName><TermPronunciation>(py-LOR-us)</TermPronunciation><TermDefinition><DefinitionText>The part of the stomach that connects to the duodenum (first part of the small intestine). The pylorus is a valve that opens and closes during digestion. This allows partly digested food and other stomach contents to pass from the stomach to the small intestine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793659" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pylorus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793658" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;conducto pilórico&quot;" language="es" id="_4"/><MediaLink ref="CDR0000791862" type="image/jpeg" alt="Drawing of the stomach showing the cardia, the fundus, the body, the antrum, and the pylorus." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">The stomach is an organ in the upper abdomen. It can be divided into the cardia and the non-cardia, which includes the fundus, the body, the antrum, and the pylorus. The stomach is part of the digestive system.</Caption></MediaLink><MediaLink ref="CDR0000792160" type="image/jpeg" alt="Imagen del estómago en la que se observa el cardias, el fondo, el cuerpo, el antro y el conducto pilórico." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El estómago es un órgano que se encuentra en la parte superior del abdomen. En la imagen se observa el cardias y el resto del estómago (región no cardial), que incluye el fondo, el cuerpo, el antro y el conducto pilórico. El estómago forma parte del aparato digestivo.</Caption></MediaLink><SpanishTermName>conducto pilórico</SpanishTermName><SpanishTermDefinition><DefinitionText>Parte del estómago que se conecta con el duodeno (primera parte del intestino delgado). El píloro es  una válvula que se abre y se cierra durante la digestión. Esto permite que los alimentos digeridos parcialmente y otras sustancias en el estómago pasen del estómago al intestino delgado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-04-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792058">
+  <TermName>pylorus</TermName>
+  <TermPronunciation>(py-LOR-us)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The part of the stomach that connects to the duodenum (first part of the small intestine). The pylorus is a valve that opens and closes during digestion. This allows partly digested food and other stomach contents to pass from the stomach to the small intestine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793659" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pylorus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793658" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;conducto pilórico&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000791862" type="image/jpeg" alt="Drawing of the stomach showing the cardia, the fundus, the body, the antrum, and the pylorus." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">The stomach is an organ in the upper abdomen. It can be divided into the cardia and the non-cardia, which includes the fundus, the body, the antrum, and the pylorus. The stomach is part of the digestive system.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000792160" type="image/jpeg" alt="Imagen del estómago en la que se observa el cardias, el fondo, el cuerpo, el antro y el conducto pilórico." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El estómago es un órgano que se encuentra en la parte superior del abdomen. En la imagen se observa el cardias y el resto del estómago (región no cardial), que incluye el fondo, el cuerpo, el antro y el conducto pilórico. El estómago forma parte del aparato digestivo.</Caption>
+  </MediaLink>
+  <SpanishTermName>conducto pilórico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parte del estómago que se conecta con el duodeno (primera parte del intestino delgado). El píloro es  una válvula que se abre y se cierra durante la digestión. Esto permite que los alimentos digeridos parcialmente y otras sustancias en el estómago pasen del estómago al intestino delgado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-04-17</DateFirstPublished>
+</GlossaryTerm>

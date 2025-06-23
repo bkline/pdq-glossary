@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000403137"><TermName>parathormone</TermName><TermPronunciation>(PAYR-uh-THOR-mone)</TermPronunciation><TermDefinition><DefinitionText>A substance made by the parathyroid gland that helps the body store and use calcium. A higher-than-normal amount of parathormone causes high levels of calcium in the blood and may be a sign of disease. Also called parathyrin, parathyroid hormone, and PTH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;parathormone&quot;" language="en" id="_2"/><MediaLink ref="CDR0000791286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;paratohormona&quot;" language="es" id="_4"/><SpanishTermName>paratohormona</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia producida por la glándula paratiroidea que ayuda al cuerpo a almacenar y usar el calcio. Una cantidad de la paratohormona más alta que la normal aumenta las concentraciones de calcio en la sangre, lo que a veces es un signo de enfermedad. También se llama hormona paratiroidea, paratirina y PTH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><DateLastModified>2007-02-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000403137">
+  <TermName>parathormone</TermName>
+  <TermPronunciation>(PAYR-uh-THOR-mone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance made by the parathyroid gland that helps the body store and use calcium. A higher-than-normal amount of parathormone causes high levels of calcium in the blood and may be a sign of disease. Also called parathyrin, parathyroid hormone, and PTH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;parathormone&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000791286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;paratohormona&quot;" language="es" id="_4"/>
+  <SpanishTermName>paratohormona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia producida por la glándula paratiroidea que ayuda al cuerpo a almacenar y usar el calcio. Una cantidad de la paratohormona más alta que la normal aumenta las concentraciones de calcio en la sangre, lo que a veces es un signo de enfermedad. También se llama hormona paratiroidea, paratirina y PTH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <DateLastModified>2007-02-08</DateLastModified>
+</GlossaryTerm>

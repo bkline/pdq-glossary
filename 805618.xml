@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805618"><TermName>inclusion</TermName><TermPronunciation>(in-KLOO-zhun)</TermPronunciation><TermDefinition><DefinitionText>Being part of something. Can also refer to creating an environment that encourages a person or group to feel like they belong and are supported, respected, and valued. Inclusion brings people with different racial, ethnic, cultural, and social backgrounds and experiences together in a safe, positive, and caring environment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808454" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inclusion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000808455" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inclusión&quot;" language="es" id="_4"/><SpanishTermName>inclusión</SpanishTermName><SpanishTermDefinition><DefinitionText>Pertenecer o ser parte de algo. A veces, este término también se refiere a crear un entorno que promueva el sentido de pertenencia de una persona o grupo, de manera que se sienta apoyada, respetada y valorada. La inclusión reúne a personas de diferente origen racial, étnico, cultural y social, con experiencias variadas, en un entorno seguro, positivo y afectuoso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-11-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805618">
+  <TermName>inclusion</TermName>
+  <TermPronunciation>(in-KLOO-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Being part of something. Can also refer to creating an environment that encourages a person or group to feel like they belong and are supported, respected, and valued. Inclusion brings people with different racial, ethnic, cultural, and social backgrounds and experiences together in a safe, positive, and caring environment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808454" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inclusion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000808455" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inclusión&quot;" language="es" id="_4"/>
+  <SpanishTermName>inclusión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Pertenecer o ser parte de algo. A veces, este término también se refiere a crear un entorno que promueva el sentido de pertenencia de una persona o grupo, de manera que se sienta apoyada, respetada y valorada. La inclusión reúne a personas de diferente origen racial, étnico, cultural y social, con experiencias variadas, en un entorno seguro, positivo y afectuoso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-11-23</DateFirstPublished>
+</GlossaryTerm>

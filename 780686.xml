@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000780686"><TermName>DHL</TermName><TermDefinition><DefinitionText>A rare, aggressive (fast-growing) type of B-cell non-Hodgkin lymphoma caused by changes in the DNA that affect a gene called the MYC gene and either the BCL2 gene or the BCL6 gene. DHL may be hard to treat and has a poor prognosis. It is a type of diffuse large B-cell lymphoma. Also called double-hit lymphoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>DHL</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma poco frecuente y muy dinámica (de crecimiento rápido) de linfoma no Hodgkin de células B causada por cambios en el ADN que afectan un gen que se llama MYC junto con el gen BCL2 o el gen BCL6. El DHL quizás sea difícil tratar y la enfermedad tiene un pronóstico precario. Es un tipo de linfoma difuso de células B grandes. También se llama linfoma con mutación doble.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-08-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780686">
+  <TermName>DHL</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare, aggressive (fast-growing) type of B-cell non-Hodgkin lymphoma caused by changes in the DNA that affect a gene called the MYC gene and either the BCL2 gene or the BCL6 gene. DHL may be hard to treat and has a poor prognosis. It is a type of diffuse large B-cell lymphoma. Also called double-hit lymphoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>DHL</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma poco frecuente y muy dinámica (de crecimiento rápido) de linfoma no Hodgkin de células B causada por cambios en el ADN que afectan un gen que se llama MYC junto con el gen BCL2 o el gen BCL6. El DHL quizás sea difícil tratar y la enfermedad tiene un pronóstico precario. Es un tipo de linfoma difuso de células B grandes. También se llama linfoma con mutación doble.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-08-15</DateFirstPublished>
+</GlossaryTerm>

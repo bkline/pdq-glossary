@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000538265"><TermName>Genetics (Prevention) Level of Evidence: 1b</TermName><TermDefinition><DefinitionText>Randomized, controlled clinical trial with a generally accepted intermediate endpoint. See <SummaryRef href="CDR0000685387" url="/publications/pdq/levels-evidence/genetics">Levels of Evidence for Cancer Genetics Studies</SummaryRef> for more information.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia científica de la información sobre la genética del cáncer (prevención): 1b</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico controlado aleatorizado en el que se usa un criterio de valoración intermedio aceptado de manera generalizada. Para obtener más información, consultar el resumen <SummaryRef href="CDR0000802493" url="/espanol/publicaciones/pdq/niveles-de-evidencia/genetica">Niveles de evidencia de los estudios sobre las características genéticas del cáncer</SummaryRef>.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-03-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000538265">
+  <TermName>Genetics (Prevention) Level of Evidence: 1b</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      Randomized, controlled clinical trial with a generally accepted intermediate endpoint. See 
+      <SummaryRef href="CDR0000685387" url="/publications/pdq/levels-evidence/genetics">Levels of Evidence for Cancer Genetics Studies</SummaryRef>
+       for more information.
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia científica de la información sobre la genética del cáncer (prevención): 1b</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Ensayo clínico controlado aleatorizado en el que se usa un criterio de valoración intermedio aceptado de manera generalizada. Para obtener más información, consultar el resumen 
+      <SummaryRef href="CDR0000802493" url="/espanol/publicaciones/pdq/niveles-de-evidencia/genetica">Niveles de evidencia de los estudios sobre las características genéticas del cáncer</SummaryRef>
+      .
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-03-02</DateFirstPublished>
+</GlossaryTerm>

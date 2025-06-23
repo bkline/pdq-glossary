@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000803218"><TermName>rare disorder</TermName><TermPronunciation>(rayr dis-OR-der)</TermPronunciation><TermDefinition><DefinitionText>A disease that affects fewer than 200,000 people in the United States. There are about 7,000 rare disorders. An estimated 25 million to 30 million Americans are living with a rare disorder. The cause of many rare disorders is unknown, but they are often caused by changes in a person’s genes or chromosomes. Rare disorders are often more difficult to diagnose and treat than the more common diseases.   Also called rare disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805271" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rare disorder&quot;" language="en" id="_4"/><MediaLink ref="CDR0000805272" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno raro&quot;" language="es" id="_5"/><SpanishTermName>trastorno raro</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad que afecta a menos de 200 000 personas en los Estados Unidos. Se conocen cerca de 7000 trastornos raros y se estima que afectan entre 25 y 30 millones de estadounidenses. La causa de la mayoría de los trastornos raros es desconocida, pero a menudo, se producen por cambios en los genes o cromosomas. Los trastornos raros suelen ser más difíciles de diagnosticar y tratar que las enfermedades comunes. También se llama enfermedad rara y trastorno infrecuente.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/">Genetic and Rare Diseases Information Center (GARD) (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol">Centro de Información sobre Enfermedades Genéticas y Raras (GARD) (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803218">
+  <TermName>rare disorder</TermName>
+  <TermPronunciation>(rayr dis-OR-der)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A disease that affects fewer than 200,000 people in the United States. There are about 7,000 rare disorders. An estimated 25 million to 30 million Americans are living with a rare disorder. The cause of many rare disorders is unknown, but they are often caused by changes in a person’s genes or chromosomes. Rare disorders are often more difficult to diagnose and treat than the more common diseases.   Also called rare disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805271" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rare disorder&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000805272" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno raro&quot;" language="es" id="_5"/>
+  <SpanishTermName>trastorno raro</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad que afecta a menos de 200 000 personas en los Estados Unidos. Se conocen cerca de 7000 trastornos raros y se estima que afectan entre 25 y 30 millones de estadounidenses. La causa de la mayoría de los trastornos raros es desconocida, pero a menudo, se producen por cambios en los genes o cromosomas. Los trastornos raros suelen ser más difíciles de diagnosticar y tratar que las enfermedades comunes. También se llama enfermedad rara y trastorno infrecuente.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/">Genetic and Rare Diseases Information Center (GARD) (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol">Centro de Información sobre Enfermedades Genéticas y Raras (GARD) (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000046249"><TermName>oral surgeon</TermName><TermPronunciation>(OR-ul SER-jun)</TermPronunciation><TermDefinition><DefinitionText>A dentist with special training in surgery of the mouth and jaw.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707907" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oral surgeon&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707908" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano oral&quot;" language="es" id="_4"/><SpanishTermName>cirujano oral</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional en odontología que se especializa en la cirugía de la boca y la mandíbula. También se llama especialista en cirugía oral.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046249">
+  <TermName>oral surgeon</TermName>
+  <TermPronunciation>(OR-ul SER-jun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A dentist with special training in surgery of the mouth and jaw.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707907" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oral surgeon&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707908" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano oral&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirujano oral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional en odontología que se especializa en la cirugía de la boca y la mandíbula. También se llama especialista en cirugía oral.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

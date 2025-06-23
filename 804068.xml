@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000804068"><TermName>postpartum</TermName><TermPronunciation>(post-PAR-tum)</TermPronunciation><TermDefinition><DefinitionText>The time that begins right after a woman gives birth and lasts about 6 weeks.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805948" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;postpartum&quot;" language="en" id="_5"/><MediaLink ref="CDR0000805949" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;puerperio&quot;" language="es" id="_6"/><SpanishTermName>puerperio</SpanishTermName><SpanishTermDefinition><DefinitionText>Periodo que sigue al parto y dura alrededor de 6 semanas. También se llama periodo puerperal y posparto.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-06-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804068">
+  <TermName>postpartum</TermName>
+  <TermPronunciation>(post-PAR-tum)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The time that begins right after a woman gives birth and lasts about 6 weeks.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805948" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;postpartum&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000805949" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;puerperio&quot;" language="es" id="_6"/>
+  <SpanishTermName>puerperio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Periodo que sigue al parto y dura alrededor de 6 semanas. También se llama periodo puerperal y posparto.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-06-08</DateFirstPublished>
+</GlossaryTerm>

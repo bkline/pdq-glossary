@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000802872"><TermName>COL17A1 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a type of collagen that plays an important role in strengthening and supporting the layers of the skin. Mutations (changes) in the <GeneName>COL17A1</GeneName> gene may cause the skin to become easily damaged. <GeneName>COL17A1</GeneName> gene mutations have been found in an inherited condition called junctional epidermolysis bullosa. People with this condition have fragile skin that blisters easily and may have an increased risk of developing squamous cell skin cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;COL17A1 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805204" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen COL17A1&quot;" language="es" id="_4"/><SpanishTermName>gen COL17A1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a un tipo de colágeno que cumple una función importante en el fortalecimiento y el sostén de las capas de la piel. Es posible que las mutaciones (cambios) en el gen <GeneName>COL17A1</GeneName> hagan que la piel se dañe con facilidad. Se han encontrado mutaciones del gen <GeneName>COL17A1</GeneName> en una afección hereditaria llamada epidermólisis ampollosa de la unión. Las personas con esta afección tienen una piel frágil que se ampolla con facilidad   y quizás tengan un riesgo más alto de presentar cáncer de piel de células escamosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-23</DateFirstPublished><DateLastModified>2021-02-19</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/col17a1/">COL17A1 gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802872">
+  <TermName>COL17A1 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a type of collagen that plays an important role in strengthening and supporting the layers of the skin. Mutations (changes) in the 
+      <GeneName>COL17A1</GeneName>
+       gene may cause the skin to become easily damaged. 
+      <GeneName>COL17A1</GeneName>
+       gene mutations have been found in an inherited condition called junctional epidermolysis bullosa. People with this condition have fragile skin that blisters easily and may have an increased risk of developing squamous cell skin cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;COL17A1 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805204" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen COL17A1&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen COL17A1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a un tipo de colágeno que cumple una función importante en el fortalecimiento y el sostén de las capas de la piel. Es posible que las mutaciones (cambios) en el gen 
+      <GeneName>COL17A1</GeneName>
+       hagan que la piel se dañe con facilidad. Se han encontrado mutaciones del gen 
+      <GeneName>COL17A1</GeneName>
+       en una afección hereditaria llamada epidermólisis ampollosa de la unión. Las personas con esta afección tienen una piel frágil que se ampolla con facilidad   y quizás tengan un riesgo más alto de presentar cáncer de piel de células escamosas.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-23</DateFirstPublished>
+  <DateLastModified>2021-02-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/col17a1/">COL17A1 gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

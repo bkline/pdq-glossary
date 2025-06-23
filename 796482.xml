@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000796482"><TermName>PNA</TermName><TermDefinition><DefinitionText>A type of anticancer drug that is similar to a natural chemical compound called purine. Cells use purine to make the chemical building blocks of DNA and RNA. PNAs may kill cells, including cancer cells, by blocking important enzymes needed to make DNA and RNA and by damaging DNA. Some PNAs are used to treat certain types of leukemia and lymphoma. Also called purine nucleoside analog.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PNA</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento contra el cáncer similar a un compuesto químico natural que se llama purina. Las células usan purina para elaborar los componentes químicos básicos del ADN y el ARN. Los PNA pueden destruir células, como las células cancerosas, porque bloquean enzimas importantes que son necesarias para producir ADN y ARN,  y porque dañan el ADN de estas células. Algunos PNA se usan para tratar ciertos tipos de leucemia y linfoma. También se llama análogo de nucleósido de purina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-31</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796482">
+  <TermName>PNA</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of anticancer drug that is similar to a natural chemical compound called purine. Cells use purine to make the chemical building blocks of DNA and RNA. PNAs may kill cells, including cancer cells, by blocking important enzymes needed to make DNA and RNA and by damaging DNA. Some PNAs are used to treat certain types of leukemia and lymphoma. Also called purine nucleoside analog.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PNA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento contra el cáncer similar a un compuesto químico natural que se llama purina. Las células usan purina para elaborar los componentes químicos básicos del ADN y el ARN. Los PNA pueden destruir células, como las células cancerosas, porque bloquean enzimas importantes que son necesarias para producir ADN y ARN,  y porque dañan el ADN de estas células. Algunos PNA se usan para tratar ciertos tipos de leucemia y linfoma. También se llama análogo de nucleósido de purina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-31</DateFirstPublished>
+</GlossaryTerm>

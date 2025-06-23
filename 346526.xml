@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000346526"><TermName>best practice</TermName><TermPronunciation>(... PRAK-tis)</TermPronunciation><TermDefinition><DefinitionText>Treatment that is accepted by medical experts as a proper treatment for a certain type of disease and that is widely used by health care professionals.   Also called standard medical care, standard of care, and standard therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711616" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;best practice&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento de referencia&quot;" language="es" id="_4"/><SpanishTermName>tratamiento de referencia</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento que los expertos en medicina aceptan como apropiado para determinado tipo de enfermedad y que  los profesionales de la salud usan de manera amplia. También se llama atención médica estándar, estándar de atención y tratamiento estándar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-11-20</DateFirstPublished><DateLastModified>2024-02-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000346526">
+  <TermName>best practice</TermName>
+  <TermPronunciation>(... PRAK-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that is accepted by medical experts as a proper treatment for a certain type of disease and that is widely used by health care professionals.   Also called standard medical care, standard of care, and standard therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711616" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;best practice&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento de referencia&quot;" language="es" id="_4"/>
+  <SpanishTermName>tratamiento de referencia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento que los expertos en medicina aceptan como apropiado para determinado tipo de enfermedad y que  los profesionales de la salud usan de manera amplia. También se llama atención médica estándar, estándar de atención y tratamiento estándar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-11-20</DateFirstPublished>
+  <DateLastModified>2024-02-06</DateLastModified>
+</GlossaryTerm>

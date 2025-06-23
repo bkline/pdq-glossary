@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000802767"><TermName>passive immunity</TermName><TermPronunciation>(PA-siv ih-MYOO-nih-tee)</TermPronunciation><TermDefinition><DefinitionText>A type of immunity that occurs when a person is given antibodies rather than making them through his or her own immune system. For example, passive immunity occurs when a baby receives a mother's antibodies through the placenta or breast milk. It can also occur when a person receives an injection of antibodies to protect against the effects of a toxin such as snake venom. Passive immunity provides immediate protection but only lasts a few weeks or months.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804472" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;passive immunity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804473" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunidad pasiva&quot;" language="es" id="_4"/><SpanishTermName>inmunidad pasiva</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de inmunidad que se presenta cuando una persona recibe anticuerpos en lugar de producirlos en su sistema inmunitario. Por ejemplo, se produce inmunidad pasiva cuando un bebé recibe los anticuerpos de la madre a través de la placenta o la leche materna. También se produce cuando una persona recibe una inyección de anticuerpos para protegerla contra los efectos de una toxina como el veneno de una serpiente. La protección de la inmunidad pasiva es inmediata pero solo dura pocas semanas o meses.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-09-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802767">
+  <TermName>passive immunity</TermName>
+  <TermPronunciation>(PA-siv ih-MYOO-nih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of immunity that occurs when a person is given antibodies rather than making them through his or her own immune system. For example, passive immunity occurs when a baby receives a mother's antibodies through the placenta or breast milk. It can also occur when a person receives an injection of antibodies to protect against the effects of a toxin such as snake venom. Passive immunity provides immediate protection but only lasts a few weeks or months.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804472" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;passive immunity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804473" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunidad pasiva&quot;" language="es" id="_4"/>
+  <SpanishTermName>inmunidad pasiva</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de inmunidad que se presenta cuando una persona recibe anticuerpos en lugar de producirlos en su sistema inmunitario. Por ejemplo, se produce inmunidad pasiva cuando un bebé recibe los anticuerpos de la madre a través de la placenta o la leche materna. También se produce cuando una persona recibe una inyección de anticuerpos para protegerla contra los efectos de una toxina como el veneno de una serpiente. La protección de la inmunidad pasiva es inmediata pero solo dura pocas semanas o meses.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-09-16</DateFirstPublished>
+</GlossaryTerm>

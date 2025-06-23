@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000814518"><TermName>nirogacestat hydrobromide</TermName><TermPronunciation>(NY-roh-GAY-seh-stat HY-droh-BROH-mide)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with desmoid tumors (a type of soft tissue tumor) that have gotten worse and need systemic therapy. It is also being studied in the treatment of other types of cancer. Nirogacestat hydrobromide binds to a protein called gamma secretase, which blocks the activation of other proteins called Notch receptors. Blocking these proteins may help keep tumor cells from growing and may kill them. Nirogacestat hydrobromide is a type of gamma secretase inhibitor. Also called Ogsiveo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815681" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nirogacestat hydrobromide&quot;" language="en" id="_3"/><MediaLink ref="CDR0000815682" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bromhidrato de nirogacestat&quot;" language="es" id="_4"/><SpanishTermName>bromhidrato de nirogacestat</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con tumores desmoides (tipo de tumores de tejido blando) que empeoraron y que necesitan de terapia sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. El bromhidrato de nirogacestat se une a la proteína gamma–secretasa, que bloquea la activación de otras proteínas llamadas receptores Notch. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas y las destruya. El bromhidrato de nirogacestat es un tipo de inhibidor de la gamma–secretasa. También se llama Ogsiveo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-05</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000814586" url="/about-cancer/treatment/drugs/nirogacestat">Nirogacestat Hydrobromide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814518">
+  <TermName>nirogacestat hydrobromide</TermName>
+  <TermPronunciation>(NY-roh-GAY-seh-stat HY-droh-BROH-mide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with desmoid tumors (a type of soft tissue tumor) that have gotten worse and need systemic therapy. It is also being studied in the treatment of other types of cancer. Nirogacestat hydrobromide binds to a protein called gamma secretase, which blocks the activation of other proteins called Notch receptors. Blocking these proteins may help keep tumor cells from growing and may kill them. Nirogacestat hydrobromide is a type of gamma secretase inhibitor. Also called Ogsiveo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815681" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nirogacestat hydrobromide&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000815682" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bromhidrato de nirogacestat&quot;" language="es" id="_4"/>
+  <SpanishTermName>bromhidrato de nirogacestat</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con tumores desmoides (tipo de tumores de tejido blando) que empeoraron y que necesitan de terapia sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. El bromhidrato de nirogacestat se une a la proteína gamma–secretasa, que bloquea la activación de otras proteínas llamadas receptores Notch. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas y las destruya. El bromhidrato de nirogacestat es un tipo de inhibidor de la gamma–secretasa. También se llama Ogsiveo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-05</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000814586" url="/about-cancer/treatment/drugs/nirogacestat">Nirogacestat Hydrobromide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000630958"><TermName>AG014699</TermName><TermDefinition><DefinitionText>A drug used to treat adults with certain types of prostate cancer or ovarian epithelial, fallopian tube, or primary peritoneal cancer. It is also being studied in the treatment of other types of cancer. AG014699 blocks an enzyme involved in many cell functions, including the repair of DNA damage. Blocking this enzyme may help keep cancer cells from repairing their damaged DNA, causing them to die. AG014699 is a type of PARP inhibitor. Also called PARP-1 inhibitor AG014699, Rubraca, and rucaparib camsylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AG014699</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de cáncer de próstata o cáncer epitelial de ovario, de trompas de Falopio y primario de peritoneo. También está en estudio para el tratamiento de otros tipos de cáncer.  AG014699 bloquea una enzima que participa en muchas funciones celulares, entre ellas, la reparación del daño al ADN. Bloquear esta enzima quizás ayude a evitar que las células cancerosas reparen el daño a su ADN y esto las destruya. AG014699 es un tipo de inhibidor de PARP. También se llama camsilato de rucaparib, inhibidor de PARP-1 AG014699 y Rubraca.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-12-29</DateFirstPublished><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000785931" url="/about-cancer/treatment/drugs/rucaparibcamsylate">Rucaparib Camsylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000630958">
+  <TermName>AG014699</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with certain types of prostate cancer or ovarian epithelial, fallopian tube, or primary peritoneal cancer. It is also being studied in the treatment of other types of cancer. AG014699 blocks an enzyme involved in many cell functions, including the repair of DNA damage. Blocking this enzyme may help keep cancer cells from repairing their damaged DNA, causing them to die. AG014699 is a type of PARP inhibitor. Also called PARP-1 inhibitor AG014699, Rubraca, and rucaparib camsylate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AG014699</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de cáncer de próstata o cáncer epitelial de ovario, de trompas de Falopio y primario de peritoneo. También está en estudio para el tratamiento de otros tipos de cáncer.  AG014699 bloquea una enzima que participa en muchas funciones celulares, entre ellas, la reparación del daño al ADN. Bloquear esta enzima quizás ayude a evitar que las células cancerosas reparen el daño a su ADN y esto las destruya. AG014699 es un tipo de inhibidor de PARP. También se llama camsilato de rucaparib, inhibidor de PARP-1 AG014699 y Rubraca.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-12-29</DateFirstPublished>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000785931" url="/about-cancer/treatment/drugs/rucaparibcamsylate">Rucaparib Camsylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044727"><TermName>single-blind study</TermName><TermPronunciation>(SING-gul-blind STUH-dee)</TermPronunciation><TermDefinition><DefinitionText>A type of clinical trial in which only the researcher doing the study knows which treatment or intervention the participant is receiving until the trial is over. A single-blind study makes results of the study less likely to be biased. This means that the results are less likely to be affected by factors that are not related to the treatment or intervention being tested.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;single blind study&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705887" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio con enmascaramiento simple&quot;" language="es" id="_4"/><SpanishTermName>estudio con enmascaramiento simple</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de ensayo clínico en el que solo el investigador a cargo del estudio conoce el tratamiento o la intervención que recibe el participante hasta que se termina el ensayo. Un estudio con enmascaramiento simple hace que los resultados del estudio sean menos susceptibles a sesgos. De esta forma, es menos probable que los factores que no se relacionan con el tratamiento o la intervención que se está probando influyan en los resultados. También se llama estudio con anonimato sencillo, estudio con encubrimiento único, estudio con enmascaramiento único, estudio con ocultación única y estudio simple ciego.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-01-09</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044727">
+  <TermName>single-blind study</TermName>
+  <TermPronunciation>(SING-gul-blind STUH-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of clinical trial in which only the researcher doing the study knows which treatment or intervention the participant is receiving until the trial is over. A single-blind study makes results of the study less likely to be biased. This means that the results are less likely to be affected by factors that are not related to the treatment or intervention being tested.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;single blind study&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705887" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio con enmascaramiento simple&quot;" language="es" id="_4"/>
+  <SpanishTermName>estudio con enmascaramiento simple</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de ensayo clínico en el que solo el investigador a cargo del estudio conoce el tratamiento o la intervención que recibe el participante hasta que se termina el ensayo. Un estudio con enmascaramiento simple hace que los resultados del estudio sean menos susceptibles a sesgos. De esta forma, es menos probable que los factores que no se relacionan con el tratamiento o la intervención que se está probando influyan en los resultados. También se llama estudio con anonimato sencillo, estudio con encubrimiento único, estudio con enmascaramiento único, estudio con ocultación única y estudio simple ciego.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-01-09</DateLastModified>
+</GlossaryTerm>

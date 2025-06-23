@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000562548"><TermName>ampulla of Vater cancer</TermName><TermPronunciation>(am-PUH-luh ... VAH-ter KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in the ampulla of Vater (an enlargement of the ducts from the liver and pancreas where they join and enter the small intestine). Symptoms include jaundice, abdominal pain, nausea, vomiting, and weight loss. Also called ampullary cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ampulla of Vater cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721018" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de la ampolla de Vater&quot;" language="es" id="_4"/><SpanishTermName>cáncer de la ampolla de Vater</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en la ampolla de Vater (dilatación  formada por la unión de los conductos del hígado y el páncreas en el área donde se conectan con el intestino delgado). Los síntomas son ictericia, dolor abdominal, náuseas, vómitos y pérdida de peso. También se llama cáncer ampular.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-08-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000562548">
+  <TermName>ampulla of Vater cancer</TermName>
+  <TermPronunciation>(am-PUH-luh ... VAH-ter KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in the ampulla of Vater (an enlargement of the ducts from the liver and pancreas where they join and enter the small intestine). Symptoms include jaundice, abdominal pain, nausea, vomiting, and weight loss. Also called ampullary cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ampulla of Vater cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721018" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de la ampolla de Vater&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de la ampolla de Vater</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en la ampolla de Vater (dilatación  formada por la unión de los conductos del hígado y el páncreas en el área donde se conectan con el intestino delgado). Los síntomas son ictericia, dolor abdominal, náuseas, vómitos y pérdida de peso. También se llama cáncer ampular.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-08-20</DateFirstPublished>
+</GlossaryTerm>

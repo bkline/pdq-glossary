@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000800500"><TermName>melanoma-astrocytoma syndrome</TermName><TermPronunciation>(MEH-luh-NOH-muh-AS-troh-sy-TOH-muh SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>An extremely rare, inherited disorder in which affected people have an increased risk of developing melanoma and nervous system tumors, especially astrocytoma (a type of brain tumor). The tumors tend to develop at an early age, and one or both types of tumors may occur in the same person. Melanoma-astrocytoma syndrome is caused by mutations (changes) in the CDKN2A gene. Also called melanoma and neural system tumor syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802598" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma-astrocytoma syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802599" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de melanoma-astrocitoma&quot;" language="es" id="_4"/><SpanishTermName>síndrome de melanoma-astrocitoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario muy raro por el que la persona afectada tiene un riesgo más alto de presentar melanoma y tumores del sistema nervioso, en especial, astrocitoma (tipo de tumor de encéfalo). Los tumores suelen formarse a corta edad y es posible que la persona presente uno o ambos tipos de tumores. La causa del síndrome de melanoma-astrocitoma son mutaciones  (cambios) en el gen <GeneName><GeneName>CDKN2A</GeneName></GeneName>. También se llama síndrome de melanoma y tumor del sistema nervioso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800500">
+  <TermName>melanoma-astrocytoma syndrome</TermName>
+  <TermPronunciation>(MEH-luh-NOH-muh-AS-troh-sy-TOH-muh SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An extremely rare, inherited disorder in which affected people have an increased risk of developing melanoma and nervous system tumors, especially astrocytoma (a type of brain tumor). The tumors tend to develop at an early age, and one or both types of tumors may occur in the same person. Melanoma-astrocytoma syndrome is caused by mutations (changes) in the CDKN2A gene. Also called melanoma and neural system tumor syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802598" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma-astrocytoma syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802599" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de melanoma-astrocitoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de melanoma-astrocitoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario muy raro por el que la persona afectada tiene un riesgo más alto de presentar melanoma y tumores del sistema nervioso, en especial, astrocitoma (tipo de tumor de encéfalo). Los tumores suelen formarse a corta edad y es posible que la persona presente uno o ambos tipos de tumores. La causa del síndrome de melanoma-astrocitoma son mutaciones  (cambios) en el gen 
+      <GeneName>
+        <GeneName>CDKN2A</GeneName>
+      </GeneName>
+      . También se llama síndrome de melanoma y tumor del sistema nervioso.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-05</DateFirstPublished>
+</GlossaryTerm>

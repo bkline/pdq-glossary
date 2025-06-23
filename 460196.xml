@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000460196"><TermName>mode of inheritance</TermName><TermPronunciation>(… in-HAYR-ih-tunts)</TermPronunciation><TermDefinition><DefinitionText>The manner in which a genetic trait, disorder, or risk of disorder is passed from one generation to the next. There are different modes of inheritance, and each mode of inheritance may result in a characteristic pattern of affected, unaffected, or at-risk individuals within a family. Examples are autosomal dominant, autosomal recessive, X-linked dominant, X-linked recessive, and multifactorial inheritance.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736972" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mode of inheritance&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;modo de herencia&quot;" language="es" id="_4"/><SpanishTermName>modo de herencia</SpanishTermName><SpanishTermDefinition><DefinitionText>Manera en que un rasgo o trastorno genético, o el riesgo de presentar un trastorno, pasan de una generación a la siguiente. Existen diferentes modos de herencia y es posible que cada uno de ellos dé lugar a una distribución característica de personas afectadas, no afectadas o en riesgo dentro de una familia. Son ejemplos, la herencia autosómica dominante, la herencia autosómica recesiva, la herencia dominante ligada al cromosoma X, la herencia recesiva ligada al cromosoma X y la herencia multifactorial.. También se llama patrón de herencia y tipo de herencia.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460196">
+  <TermName>mode of inheritance</TermName>
+  <TermPronunciation>(… in-HAYR-ih-tunts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The manner in which a genetic trait, disorder, or risk of disorder is passed from one generation to the next. There are different modes of inheritance, and each mode of inheritance may result in a characteristic pattern of affected, unaffected, or at-risk individuals within a family. Examples are autosomal dominant, autosomal recessive, X-linked dominant, X-linked recessive, and multifactorial inheritance.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736972" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mode of inheritance&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;modo de herencia&quot;" language="es" id="_4"/>
+  <SpanishTermName>modo de herencia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Manera en que un rasgo o trastorno genético, o el riesgo de presentar un trastorno, pasan de una generación a la siguiente. Existen diferentes modos de herencia y es posible que cada uno de ellos dé lugar a una distribución característica de personas afectadas, no afectadas o en riesgo dentro de una familia. Son ejemplos, la herencia autosómica dominante, la herencia autosómica recesiva, la herencia dominante ligada al cromosoma X, la herencia recesiva ligada al cromosoma X y la herencia multifactorial.. También se llama patrón de herencia y tipo de herencia.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

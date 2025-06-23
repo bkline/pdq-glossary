@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000256567"><TermName>hot flash</TermName><TermPronunciation>(hot flash)</TermPronunciation><TermDefinition><DefinitionText>A sudden, temporary onset of body warmth, flushing, and sweating (often associated with menopause).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hot flash&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731134" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sofoco&quot;" language="es" id="_9"/><SpanishTermName>sofoco</SpanishTermName><SpanishTermDefinition><DefinitionText>Aparición repentina y temporaria de calor corporal, enrojecimiento y sudoración (a menudo se relaciona con la menopausia). También se llama bochorno, crisis vasomotora, fogaje y oleada de calor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2002-07-19</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062827" url="/about-cancer/treatment/side-effects/hot-flashes-pdq">Hot Flashes and Night Sweats</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256646" url="/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq">Sofocos y sudores nocturnos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000256567">
+  <TermName>hot flash</TermName>
+  <TermPronunciation>(hot flash)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A sudden, temporary onset of body warmth, flushing, and sweating (often associated with menopause).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hot flash&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731134" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sofoco&quot;" language="es" id="_9"/>
+  <SpanishTermName>sofoco</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Aparición repentina y temporaria de calor corporal, enrojecimiento y sudoración (a menudo se relaciona con la menopausia). También se llama bochorno, crisis vasomotora, fogaje y oleada de calor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2002-07-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062827" url="/about-cancer/treatment/side-effects/hot-flashes-pdq">Hot Flashes and Night Sweats</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256646" url="/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq">Sofocos y sudores nocturnos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000776353"><TermName>intravenous chemotherapy</TermName><TermPronunciation>(IN-truh-VEE-nus KEE-moh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment in which anticancer drugs are given through a needle or tube inserted into a vein. The anticancer drugs travel through the blood to kill cancer cells in the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000780313" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intravenous chemotherapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000780314" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia intravenosa&quot;" language="es" id="_4"/><MediaLink ref="CDR0000755978" type="image/jpeg" alt="Intravenous (IV) chemotherapy; drawing of an anti-cancer drug being given to a patient through a vein in the arm." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Intravenous (IV) chemotherapy. A patient is given an anti-cancer drug through a vein in the arm. The anti-cancer drug travels through the blood to kill cancer cells in the body.</Caption></MediaLink><MediaLink ref="CDR0000775988" type="image/jpeg" alt="Quimioterapia intravenosa (IV); imagen de un medicamento contra el cáncer que se administra al paciente a través de una vena del brazo." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Quimioterapia intravenosa (IV). Se administra al paciente un medicamento contra el cáncer a través de una vena del brazo. El medicamento contra el cáncer se desplaza a través de la sangre para destruir células cancerosas en el cuerpo.</Caption></MediaLink><SpanishTermName>quimioterapia intravenosa</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento en el que los medicamentos contra el cáncer se administran a través de una aguja o un tubo introducido en una vena. Los medicamentos contra el cáncer viajan por la sangre para destruir las células cancerosas del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-02-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776353">
+  <TermName>intravenous chemotherapy</TermName>
+  <TermPronunciation>(IN-truh-VEE-nus KEE-moh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment in which anticancer drugs are given through a needle or tube inserted into a vein. The anticancer drugs travel through the blood to kill cancer cells in the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000780313" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intravenous chemotherapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000780314" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia intravenosa&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000755978" type="image/jpeg" alt="Intravenous (IV) chemotherapy; drawing of an anti-cancer drug being given to a patient through a vein in the arm." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Intravenous (IV) chemotherapy. A patient is given an anti-cancer drug through a vein in the arm. The anti-cancer drug travels through the blood to kill cancer cells in the body.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000775988" type="image/jpeg" alt="Quimioterapia intravenosa (IV); imagen de un medicamento contra el cáncer que se administra al paciente a través de una vena del brazo." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Quimioterapia intravenosa (IV). Se administra al paciente un medicamento contra el cáncer a través de una vena del brazo. El medicamento contra el cáncer se desplaza a través de la sangre para destruir células cancerosas en el cuerpo.</Caption>
+  </MediaLink>
+  <SpanishTermName>quimioterapia intravenosa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento en el que los medicamentos contra el cáncer se administran a través de una aguja o un tubo introducido en una vena. Los medicamentos contra el cáncer viajan por la sangre para destruir las células cancerosas del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-02-17</DateFirstPublished>
+</GlossaryTerm>

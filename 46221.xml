@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046221"><TermName>plastic surgeon</TermName><TermPronunciation>(PLAS-tik SER-jun)</TermPronunciation><TermDefinition><DefinitionText>A surgeon who has special training in reducing scarring or disfigurement that may occur as a result of accidents, birth defects, or treatment for diseases.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;plastic surgeon&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano plástico&quot;" language="es" id="_4"/><SpanishTermName>cirujano plástico</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en la cirugía para corregir cicatrices o desfiguración por accidentes, anomalías congénitas o el tratamiento de enfermedades. También se llama especialista en cirugía plástica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046221">
+  <TermName>plastic surgeon</TermName>
+  <TermPronunciation>(PLAS-tik SER-jun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgeon who has special training in reducing scarring or disfigurement that may occur as a result of accidents, birth defects, or treatment for diseases.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;plastic surgeon&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano plástico&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirujano plástico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en la cirugía para corregir cicatrices o desfiguración por accidentes, anomalías congénitas o el tratamiento de enfermedades. También se llama especialista en cirugía plástica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

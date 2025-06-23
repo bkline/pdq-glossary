@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000811584"><TermName>atrophic gastritis</TermName><TermPronunciation>(ay-TROH-fik gas-TRY-tis)</TermPronunciation><TermDefinition><DefinitionText>A condition marked by chronic inflammation and thinning of the inner lining of the stomach. It may also involve the loss of gland cells in the stomach lining that release substances that help digest food. Atrophic gastritis may be caused by an infection with the bacteria <ScientificName>H. pylori</ScientificName> that continues or gets worse over a long period of time or by certain autoimmune conditions. People who have atrophic gastritis may have an increased risk of stomach cancer or gastrointestinal neuroendocrine tumors.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atrophic gastritis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000813995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis atrófica&quot;" language="es" id="_4"/><SpanishTermName>gastritis atrófica</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección caracterizada por la inflamación crónica y el adelgazamiento del revestimiento interno del estómago. A veces, produce la pérdida de las células glandulares del revestimiento del estómago encargadas de liberar sustancias para ayudar a digerir los alimentos. Es posible que la causa de la gastritis atrófica sea una infección por la bacteria <ScientificName>H. pylori</ScientificName>, que continúa o empeora durante un largo período de tiempo, o  ciertas afecciones autoinmunitarias. Las personas que presentan gastritis atrófica tal vez tengan un mayor riesgo de cáncer de estómago o tumores neuroendocrinos gastrointestinales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811584">
+  <TermName>atrophic gastritis</TermName>
+  <TermPronunciation>(ay-TROH-fik gas-TRY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A condition marked by chronic inflammation and thinning of the inner lining of the stomach. It may also involve the loss of gland cells in the stomach lining that release substances that help digest food. Atrophic gastritis may be caused by an infection with the bacteria 
+      <ScientificName>H. pylori</ScientificName>
+       that continues or gets worse over a long period of time or by certain autoimmune conditions. People who have atrophic gastritis may have an increased risk of stomach cancer or gastrointestinal neuroendocrine tumors.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atrophic gastritis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000813995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis atrófica&quot;" language="es" id="_4"/>
+  <SpanishTermName>gastritis atrófica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Afección caracterizada por la inflamación crónica y el adelgazamiento del revestimiento interno del estómago. A veces, produce la pérdida de las células glandulares del revestimiento del estómago encargadas de liberar sustancias para ayudar a digerir los alimentos. Es posible que la causa de la gastritis atrófica sea una infección por la bacteria 
+      <ScientificName>H. pylori</ScientificName>
+      , que continúa o empeora durante un largo período de tiempo, o  ciertas afecciones autoinmunitarias. Las personas que presentan gastritis atrófica tal vez tengan un mayor riesgo de cáncer de estómago o tumores neuroendocrinos gastrointestinales.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-23</DateFirstPublished>
+</GlossaryTerm>

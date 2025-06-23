@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000784253"><TermName>infantile myofibromatosis</TermName><TermPronunciation>(IN-fun-TILE MY-oh-FY-broh-muh-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A rare condition in which one or more fibrous (connective tissue) tumors form in the skin, muscle, or bone. Sometimes, they also form in internal organs. The tumors are usually benign (not cancer) and do not spread to other parts of the body, but they can grow large and damage nearby organs. They may go away without treatment. Infantile myofibromatosis occurs most often in the first 2 years of life, or it may be present at birth. It is a type of soft tissue tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788418" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infantile myofibromatosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788419" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;miofibromatosis infantil&quot;" language="es" id="_4"/><SpanishTermName>miofibromatosis infantil</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección poco frecuente por la que se forman en la piel, el músculo o el hueso uno o más tumores fibrosos (tejido conjuntivo). A veces, también se forman en órganos internos. Por lo general, los tumores son benignos (no cancerosos) y no se diseminan a otras partes del cuerpo; sin embargo, se pueden agrandar y dañar los órganos cercanos. Es posible que desaparezcan sin tratamiento. La miofibromatosis infantil se presenta con más frecuencia en los 2 primeros años de vida o puede estar presente en el momento del nacimiento. Es un tipo de tumor de tejido blando. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-03</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/2998/infantile-myofibromatosis">Infantile myofibromatosis (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedSummaryRef UseWith="en" href="CDR0000258672" url="/types/soft-tissue-sarcoma/patient/child-soft-tissue-treatment-pdq">Childhood Soft Tissue Sarcoma</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000561391" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-infantil-pdq">Tratamiento del sarcoma de tejido blando infantil</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784253">
+  <TermName>infantile myofibromatosis</TermName>
+  <TermPronunciation>(IN-fun-TILE MY-oh-FY-broh-muh-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare condition in which one or more fibrous (connective tissue) tumors form in the skin, muscle, or bone. Sometimes, they also form in internal organs. The tumors are usually benign (not cancer) and do not spread to other parts of the body, but they can grow large and damage nearby organs. They may go away without treatment. Infantile myofibromatosis occurs most often in the first 2 years of life, or it may be present at birth. It is a type of soft tissue tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788418" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infantile myofibromatosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788419" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;miofibromatosis infantil&quot;" language="es" id="_4"/>
+  <SpanishTermName>miofibromatosis infantil</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección poco frecuente por la que se forman en la piel, el músculo o el hueso uno o más tumores fibrosos (tejido conjuntivo). A veces, también se forman en órganos internos. Por lo general, los tumores son benignos (no cancerosos) y no se diseminan a otras partes del cuerpo; sin embargo, se pueden agrandar y dañar los órganos cercanos. Es posible que desaparezcan sin tratamiento. La miofibromatosis infantil se presenta con más frecuencia en los 2 primeros años de vida o puede estar presente en el momento del nacimiento. Es un tipo de tumor de tejido blando. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-03</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/2998/infantile-myofibromatosis">Infantile myofibromatosis (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258672" url="/types/soft-tissue-sarcoma/patient/child-soft-tissue-treatment-pdq">Childhood Soft Tissue Sarcoma</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000561391" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-infantil-pdq">Tratamiento del sarcoma de tejido blando infantil</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

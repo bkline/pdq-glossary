@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044996"><TermName>chest wall</TermName><TermDefinition><DefinitionText>The skin, fat, muscles, bones, and other tissues that form a protective structure around vital organs in the area between the neck and the abdomen, including the heart, major blood vessels, lungs, and liver. The bones in the chest wall include the ribs, sternum (breastbone), and spine. The chest wall also helps support breathing and movement of the upper arms and shoulders.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chest wall&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728227" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pared torácica&quot;" language="es" id="_4"/><SpanishTermName>pared torácica</SpanishTermName><SpanishTermDefinition><DefinitionText>La piel, la grasa, los músculos, los huesos y otros tejidos que forman una estructura protectora alrededor de los órganos vitales en el tórax (área entre el cuello y el abdomen). Estos órganos incluyen el corazón, los vasos sanguíneos principales, los pulmones y el hígado. Los huesos de la pared torácica son las costillas, el esternón y la columna vertebral. La pared torácica facilita la respiración, y el movimiento de los brazos y hombros. También se llama pared del tórax.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-09-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044996">
+  <TermName>chest wall</TermName>
+  <TermDefinition>
+    <DefinitionText>The skin, fat, muscles, bones, and other tissues that form a protective structure around vital organs in the area between the neck and the abdomen, including the heart, major blood vessels, lungs, and liver. The bones in the chest wall include the ribs, sternum (breastbone), and spine. The chest wall also helps support breathing and movement of the upper arms and shoulders.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chest wall&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728227" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pared torácica&quot;" language="es" id="_4"/>
+  <SpanishTermName>pared torácica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>La piel, la grasa, los músculos, los huesos y otros tejidos que forman una estructura protectora alrededor de los órganos vitales en el tórax (área entre el cuello y el abdomen). Estos órganos incluyen el corazón, los vasos sanguíneos principales, los pulmones y el hígado. Los huesos de la pared torácica son las costillas, el esternón y la columna vertebral. La pared torácica facilita la respiración, y el movimiento de los brazos y hombros. También se llama pared del tórax.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-09-08</DateLastModified>
+</GlossaryTerm>

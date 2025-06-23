@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000460198"><TermName>negative predictive value</TermName><TermPronunciation>(NEH-guh-tiv preh-DIK-tiv VAL-yoo)</TermPronunciation><TermDefinition><DefinitionText>The likelihood that an individual with a negative test result is truly unaffected and/or does not have the particular gene mutation in question. Also called NPV.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>The likelihood that a person who has a negative test result indeed does not have the disease, condition, biomarker, or mutation (change) in the gene being tested. The negative predictive value is a way of measuring how accurate a specific test is. Also called NPV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736974" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;negative predictive value&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804231" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor predictivo de un resultado negativo&quot;" language="es" id="_4"/><SpanishTermName>valor predictivo de un resultado negativo</SpanishTermName><SpanishTermDefinition><DefinitionText>Probabilidad de que una persona con un resultado negativo en una prueba verdaderamente no esté afectada o no tenga la mutación génica en estudio. También se llama valor diagnóstico de un resultado negativo, valor predictivo negativo y VPN.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Probabilidad de que una persona con un resultado negativo en una prueba verdaderamente no tenga la enfermedad, afección, biomarcador o mutación (cambio) en el gen evaluado. El valor predictivo de un resultado negativo es una manera de medir qué tan exacta es una prueba determinada. También se llama valor diagnóstico de un resultado negativo, valor predictivo negativo y VPN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460198">
+  <TermName>negative predictive value</TermName>
+  <TermPronunciation>(NEH-guh-tiv preh-DIK-tiv VAL-yoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The likelihood that an individual with a negative test result is truly unaffected and/or does not have the particular gene mutation in question. Also called NPV.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The likelihood that a person who has a negative test result indeed does not have the disease, condition, biomarker, or mutation (change) in the gene being tested. The negative predictive value is a way of measuring how accurate a specific test is. Also called NPV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736974" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;negative predictive value&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804231" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor predictivo de un resultado negativo&quot;" language="es" id="_4"/>
+  <SpanishTermName>valor predictivo de un resultado negativo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Probabilidad de que una persona con un resultado negativo en una prueba verdaderamente no esté afectada o no tenga la mutación génica en estudio. También se llama valor diagnóstico de un resultado negativo, valor predictivo negativo y VPN.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Probabilidad de que una persona con un resultado negativo en una prueba verdaderamente no tenga la enfermedad, afección, biomarcador o mutación (cambio) en el gen evaluado. El valor predictivo de un resultado negativo es una manera de medir qué tan exacta es una prueba determinada. También se llama valor diagnóstico de un resultado negativo, valor predictivo negativo y VPN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

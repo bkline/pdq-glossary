@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000658781"><TermName>fluorine F 18-sodium fluoride PET</TermName><TermPronunciation>(FLOOR-een … SOH-dee-um FLOOR-ide …)</TermPronunciation><TermDefinition><DefinitionText>A procedure used to find out if cancer has spread to the bone. A small amount of a radioactive substance called fluorine F 18-sodium fluoride is injected into a vein.  A PET scan is then used to make detailed pictures of the bones. Bones with cancer in them take up more fluorine F 18-sodium fluoride than normal bones do. Also called 18F-NaF PET and 18F-sodium fluoride positron emission tomography.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726122" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 sodium fluoride PET&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726123" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;TEP con flúor F 18-fluoruro de sodio&quot;" language="es" id="_4"/><SpanishTermName>TEP con flúor F 18-fluoruro de sodio</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento que se usa para determinar si el cáncer se diseminó hasta el hueso.   Se inyecta en una vena una pequeña cantidad de una sustancia radiactiva que se llama flúor F 18-fluoruro de sodio. Luego se realiza una exploración con TEP para obtener imágenes detalladas de los huesos.   Cuando los huesos tienen cáncer absorben más flúor F 18-fluoruro de sodio que los huesos normales. También se llama TEP con 18F-NaF y tomografía por emisión de positrones con 18F-fluoruro de sodio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-03-30</DateFirstPublished><DateLastModified>2017-04-10</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000658781">
+  <TermName>fluorine F 18-sodium fluoride PET</TermName>
+  <TermPronunciation>(FLOOR-een … SOH-dee-um FLOOR-ide …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure used to find out if cancer has spread to the bone. A small amount of a radioactive substance called fluorine F 18-sodium fluoride is injected into a vein.  A PET scan is then used to make detailed pictures of the bones. Bones with cancer in them take up more fluorine F 18-sodium fluoride than normal bones do. Also called 18F-NaF PET and 18F-sodium fluoride positron emission tomography.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726122" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 sodium fluoride PET&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726123" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;TEP con flúor F 18-fluoruro de sodio&quot;" language="es" id="_4"/>
+  <SpanishTermName>TEP con flúor F 18-fluoruro de sodio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento que se usa para determinar si el cáncer se diseminó hasta el hueso.   Se inyecta en una vena una pequeña cantidad de una sustancia radiactiva que se llama flúor F 18-fluoruro de sodio. Luego se realiza una exploración con TEP para obtener imágenes detalladas de los huesos.   Cuando los huesos tienen cáncer absorben más flúor F 18-fluoruro de sodio que los huesos normales. También se llama TEP con 18F-NaF y tomografía por emisión de positrones con 18F-fluoruro de sodio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-03-30</DateFirstPublished>
+  <DateLastModified>2017-04-10</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,14 @@
-<GlossaryTerm id="CDR0000810025"><TermName>Level of evidence B1</TermName><TermDefinition><DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of event-free survival, disease-free survival, or progression-free survival differences.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia B1</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración las diferencias en la supervivencia sin complicaciones, la supervivencia sin enfermedad o la supervivencia sin progresión. </DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810025">
+  <TermName>Level of evidence B1</TermName>
+  <TermDefinition>
+    <DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of event-free survival, disease-free survival, or progression-free survival differences.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia B1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración las diferencias en la supervivencia sin complicaciones, la supervivencia sin enfermedad o la supervivencia sin progresión. </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-29</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000612887"><TermName>stage II ovarian low malignant potential tumor</TermName><TermPronunciation>(… oh-VAYR-ee-un...muh-LIG-nunt poh-TEN-shul TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>The tumor is found in one or both ovaries or fallopian tubes and has spread into other areas of the pelvis, or primary peritoneal cancer is found within the pelvis. Stage II is divided into stages IIA and IIB. In stage IIA, the tumor has spread from where it first formed to the uterus and/or the fallopian tubes and/or the ovaries. In stage IIB, the tumor has spread from the ovary or fallopian tube to organs in the peritoneal cavity (the body cavity space that contains the abdominal most of the organs in the abdomen). Also called stage II ovarian borderline tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720665" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II ovarian low malignant potential tumor&quot;" language="en" id="_3"/><SpanishTermName>tumor de ovario de bajo potencial maligno en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor se encuentra en uno o ambos ovarios, o en una o ambas trompas de Falopio, y se diseminó a otras áreas de la pelvis, o se encuentra cáncer primario de peritoneo dentro de la pelvis. El estadio ll se divide en los estadios llA y llB. En el estadio llA, el tumor se diseminó desde donde se formó al útero, las trompas de Falopio o los ovarios. En el estadio llB, el tumor se diseminó desde el ovario o la trompa de Falopio a  órganos de la cavidad peritoneal (cavidad del cuerpo que contiene la mayoría de los órganos del abdomen). También se llama tumor limítrofe de ovario en estadio II.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-08-21</DateFirstPublished><DateLastModified>2025-03-12</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062968" url="/types/ovarian/patient/ovarian-low-malignant-treatment-pdq">Ovarian Borderline Tumors Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256839" url="/espanol/tipos/ovario/paciente/tratamiento-ovario-bajo-potencial-maligno-pdq">Tratamiento de los tumores limítrofes de ovario</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000612887">
+  <TermName>stage II ovarian low malignant potential tumor</TermName>
+  <TermPronunciation>(… oh-VAYR-ee-un...muh-LIG-nunt poh-TEN-shul TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is found in one or both ovaries or fallopian tubes and has spread into other areas of the pelvis, or primary peritoneal cancer is found within the pelvis. Stage II is divided into stages IIA and IIB. In stage IIA, the tumor has spread from where it first formed to the uterus and/or the fallopian tubes and/or the ovaries. In stage IIB, the tumor has spread from the ovary or fallopian tube to organs in the peritoneal cavity (the body cavity space that contains the abdominal most of the organs in the abdomen). Also called stage II ovarian borderline tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720665" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II ovarian low malignant potential tumor&quot;" language="en" id="_3"/>
+  <SpanishTermName>tumor de ovario de bajo potencial maligno en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor se encuentra en uno o ambos ovarios, o en una o ambas trompas de Falopio, y se diseminó a otras áreas de la pelvis, o se encuentra cáncer primario de peritoneo dentro de la pelvis. El estadio ll se divide en los estadios llA y llB. En el estadio llA, el tumor se diseminó desde donde se formó al útero, las trompas de Falopio o los ovarios. En el estadio llB, el tumor se diseminó desde el ovario o la trompa de Falopio a  órganos de la cavidad peritoneal (cavidad del cuerpo que contiene la mayoría de los órganos del abdomen). También se llama tumor limítrofe de ovario en estadio II.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-08-21</DateFirstPublished>
+  <DateLastModified>2025-03-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062968" url="/types/ovarian/patient/ovarian-low-malignant-treatment-pdq">Ovarian Borderline Tumors Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256839" url="/espanol/tipos/ovario/paciente/tratamiento-ovario-bajo-potencial-maligno-pdq">Tratamiento de los tumores limítrofes de ovario</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797790"><TermName>ROS1 inhibitor</TermName><TermPronunciation>(… in-HIH-bih-ter)</TermPronunciation><TermDefinition><DefinitionText>A substance that blocks the activity of an abnormal protein called ROS1 fusion protein, which is found on some types of cancer cells. Blocking the ROS1 fusion protein may help keep cancer cells that have it from growing and spreading. Some ROS1 inhibitors are used to treat cancer. They are a type of targeted therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799620" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ROS1 inhibitor&quot;" language="en" id="_5"/><MediaLink ref="CDR0000799621" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de ROS1&quot;" language="es" id="_4"/><SpanishTermName>inhibidor de ROS1</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que bloquea la actividad de una proteína anormal llamada proteína de fusión ROS1, que se encuentra en algunos tipos de células cancerosas. Es posible que bloquear la proteína de fusión ROS1 ayude a impedir que las células cancerosas que tienen esta proteína se multipliquen y se diseminen. Algunos inhibidores de ROS1 se usan para tratar el cáncer. Son sustancias que se usan para un tipo de terapia dirigida.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-08-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797790">
+  <TermName>ROS1 inhibitor</TermName>
+  <TermPronunciation>(… in-HIH-bih-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that blocks the activity of an abnormal protein called ROS1 fusion protein, which is found on some types of cancer cells. Blocking the ROS1 fusion protein may help keep cancer cells that have it from growing and spreading. Some ROS1 inhibitors are used to treat cancer. They are a type of targeted therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799620" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ROS1 inhibitor&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000799621" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de ROS1&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor de ROS1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que bloquea la actividad de una proteína anormal llamada proteína de fusión ROS1, que se encuentra en algunos tipos de células cancerosas. Es posible que bloquear la proteína de fusión ROS1 ayude a impedir que las células cancerosas que tienen esta proteína se multipliquen y se diseminen. Algunos inhibidores de ROS1 se usan para tratar el cáncer. Son sustancias que se usan para un tipo de terapia dirigida.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-08-22</DateFirstPublished>
+</GlossaryTerm>

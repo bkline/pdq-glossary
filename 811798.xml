@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000811798"><TermName>tiragolumab</TermName><TermPronunciation>(TY-rah-GOL-yoo-mab)</TermPronunciation><TermDefinition><DefinitionText>A substance that binds to a protein called TIGIT, which is found on T cells and some other immune cells and helps keep the body’s immune response from being too strong. TIGIT may also keep T cells from killing cancer cells. Tiragolumab blocks TIGIT, which may help the immune system kill cancer cells. It is being studied in the treatment of some types of cancer. Tiragolumab is a type of monoclonal antibody and a type of immune checkpoint inhibitor. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814020" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiragolumab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814021" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiragolumab&quot;" language="es" id="_4"/><SpanishTermName>tiragolumab</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se une a una proteína llamada TIGIT, la cual se encuentra en los linfocitos T y algunas otras células inmunitarias, y ayuda a evitar que la respuesta inmunitaria del cuerpo sea demasiado fuerte. Es posible que dicha proteína impida que los linfocitos T destruyan las células cancerosas. El tiragolumab bloquea la proteína TIGIT, lo que puede ayudar al sistema inmunitario a destruir las células cancerosas. Está en estudio para el tratamiento de algunos tipos de cáncer. El tiragolumab es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-07-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811798">
+  <TermName>tiragolumab</TermName>
+  <TermPronunciation>(TY-rah-GOL-yoo-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that binds to a protein called TIGIT, which is found on T cells and some other immune cells and helps keep the body’s immune response from being too strong. TIGIT may also keep T cells from killing cancer cells. Tiragolumab blocks TIGIT, which may help the immune system kill cancer cells. It is being studied in the treatment of some types of cancer. Tiragolumab is a type of monoclonal antibody and a type of immune checkpoint inhibitor. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814020" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiragolumab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814021" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiragolumab&quot;" language="es" id="_4"/>
+  <SpanishTermName>tiragolumab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que se une a una proteína llamada TIGIT, la cual se encuentra en los linfocitos T y algunas otras células inmunitarias, y ayuda a evitar que la respuesta inmunitaria del cuerpo sea demasiado fuerte. Es posible que dicha proteína impida que los linfocitos T destruyan las células cancerosas. El tiragolumab bloquea la proteína TIGIT, lo que puede ayudar al sistema inmunitario a destruir las células cancerosas. Está en estudio para el tratamiento de algunos tipos de cáncer. El tiragolumab es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-07-07</DateFirstPublished>
+</GlossaryTerm>

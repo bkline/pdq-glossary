@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000796946"><TermName>ROS1 positive</TermName><TermPronunciation>(… PAH-zih-tiv)</TermPronunciation><TermDefinition><DefinitionText>Describes cells that have a protein called ROS1 on their surface. In cancer, it is also used to describe cells that have a change in the structure of the <GeneName>ROS1</GeneName> gene or a ROS1 fusion protein on their surface. In normal cells, ROS1 is involved in cell signaling and cell growth. Cancer cells that have the changed <GeneName>ROS1</GeneName> gene or the ROS1 fusion protein may grow more quickly. Knowing whether a cancer is ROS1 positive may help plan treatment. Cancers that may be ROS1 positive include non-small cell lung cancer, a type of brain cancer called glioblastoma multiforme, and cancers of the bile duct, ovary, stomach, colon, and rectum.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798847" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ROS1 positive&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798846" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para ROS1&quot;" language="es" id="_4"/><SpanishTermName>positiva para ROS1</SpanishTermName><SpanishTermDefinition><DefinitionText>Característica de una célula que tiene una proteína llamada ROS1 en su superficie. En el ámbito del cáncer, también se usa para describir las células que tienen un cambio en la estructura del gen <GeneName>ROS1</GeneName> o una proteína de fusión ROS1 en su superficie. En las células normales, ROS1 participa en la señalización y multiplicación celular. Es posible que las células cancerosas que tienen un cambio en el gen <GeneName>ROS1</GeneName> o la proteína de fusión ROS1 se multipliquen más rápido. Saber si un cáncer es positivo para ROS1 quizás ayude a planificar el tratamiento. Los tipos de cáncer que a veces son positivos para ROS1 incluyen el cáncer de pulmón de células no pequeñas, un tipo de cáncer de encéfalo que se llama glioblastoma multiforme y los cánceres de vías biliares, ovario, estómago, colon y recto.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-23</DateFirstPublished><DateLastModified>2020-11-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796946">
+  <TermName>ROS1 positive</TermName>
+  <TermPronunciation>(… PAH-zih-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      Describes cells that have a protein called ROS1 on their surface. In cancer, it is also used to describe cells that have a change in the structure of the 
+      <GeneName>ROS1</GeneName>
+       gene or a ROS1 fusion protein on their surface. In normal cells, ROS1 is involved in cell signaling and cell growth. Cancer cells that have the changed 
+      <GeneName>ROS1</GeneName>
+       gene or the ROS1 fusion protein may grow more quickly. Knowing whether a cancer is ROS1 positive may help plan treatment. Cancers that may be ROS1 positive include non-small cell lung cancer, a type of brain cancer called glioblastoma multiforme, and cancers of the bile duct, ovary, stomach, colon, and rectum.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798847" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ROS1 positive&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798846" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para ROS1&quot;" language="es" id="_4"/>
+  <SpanishTermName>positiva para ROS1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Característica de una célula que tiene una proteína llamada ROS1 en su superficie. En el ámbito del cáncer, también se usa para describir las células que tienen un cambio en la estructura del gen 
+      <GeneName>ROS1</GeneName>
+       o una proteína de fusión ROS1 en su superficie. En las células normales, ROS1 participa en la señalización y multiplicación celular. Es posible que las células cancerosas que tienen un cambio en el gen 
+      <GeneName>ROS1</GeneName>
+       o la proteína de fusión ROS1 se multipliquen más rápido. Saber si un cáncer es positivo para ROS1 quizás ayude a planificar el tratamiento. Los tipos de cáncer que a veces son positivos para ROS1 incluyen el cáncer de pulmón de células no pequeñas, un tipo de cáncer de encéfalo que se llama glioblastoma multiforme y los cánceres de vías biliares, ovario, estómago, colon y recto.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-23</DateFirstPublished>
+  <DateLastModified>2020-11-23</DateLastModified>
+</GlossaryTerm>

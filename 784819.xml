@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000784819"><TermName>AMH</TermName><TermDefinition><DefinitionText>A hormone made by the ovaries in females and the testicles in males. AMH helps to form the male and female reproductive organs. It also helps control other hormones that act on the ovaries to make the follicles and eggs grow during a woman’s menstrual cycle. Measuring the amount of AMH in the blood may help diagnose infertility and other conditions, such as polycystic ovarian syndrome, menopause, and certain types of ovarian tumors. It may also help determine the sex of an infant, when the sex is not clear. Also called anti-Mullerian hormone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AMH</SpanishTermName><SpanishTermDefinition><DefinitionText>Hormona elaborada en los ovarios de las mujeres y en los testículos de los hombres. La AMH ayuda a formar los órganos genitales masculinos y femeninos. También ayuda a controlar otras hormonas que actúan en los ovarios para hacer que los folículos y óvulos crezcan durante el ciclo menstrual de la mujer. Medir la concentración sanguínea de la AMH sirve para ayudar a diagnosticar la esterilidad y otras afecciones, como síndrome de ovario poliquístico, menopausia y ciertos tipos de tumores de ovario. Es posible que también ayude a determinar el sexo de un bebé cuando no está claro. También se llama hormona antimuleriana.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-04-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784819">
+  <TermName>AMH</TermName>
+  <TermDefinition>
+    <DefinitionText>A hormone made by the ovaries in females and the testicles in males. AMH helps to form the male and female reproductive organs. It also helps control other hormones that act on the ovaries to make the follicles and eggs grow during a woman’s menstrual cycle. Measuring the amount of AMH in the blood may help diagnose infertility and other conditions, such as polycystic ovarian syndrome, menopause, and certain types of ovarian tumors. It may also help determine the sex of an infant, when the sex is not clear. Also called anti-Mullerian hormone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AMH</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hormona elaborada en los ovarios de las mujeres y en los testículos de los hombres. La AMH ayuda a formar los órganos genitales masculinos y femeninos. También ayuda a controlar otras hormonas que actúan en los ovarios para hacer que los folículos y óvulos crezcan durante el ciclo menstrual de la mujer. Medir la concentración sanguínea de la AMH sirve para ayudar a diagnosticar la esterilidad y otras afecciones, como síndrome de ovario poliquístico, menopausia y ciertos tipos de tumores de ovario. Es posible que también ayude a determinar el sexo de un bebé cuando no está claro. También se llama hormona antimuleriana.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-04-28</DateFirstPublished>
+</GlossaryTerm>

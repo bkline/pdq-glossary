@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000304686"><TermName>gallium scan</TermName><TermPronunciation>(GA-lee-um skan)</TermPronunciation><TermDefinition><DefinitionText>A procedure to detect areas of the body where cells are dividing rapidly. It is used to locate cancer cells or areas of inflammation. A very small amount of radioactive gallium is injected into a vein and travels through the bloodstream. The gallium is taken up by rapidly dividing cells in the bones, tissues, and organs and is detected by a scanner.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731691" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gallium scan&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731690" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gammagrafía con galio&quot;" language="es" id="_4"/><SpanishTermName>gammagrafía con galio</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para detectar áreas del cuerpo en las que las células se multiplican rápido. Se utiliza para localizar células cancerosas o áreas de inflamación. Se inyecta una cantidad muy pequeña de galio radiactivo en una vena y el galio  recorre el torrente sanguíneo. Las células que se multiplican rápido en los huesos, los tejidos y los órganos absorben el galio que se detecta con un escáner.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304686">
+  <TermName>gallium scan</TermName>
+  <TermPronunciation>(GA-lee-um skan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure to detect areas of the body where cells are dividing rapidly. It is used to locate cancer cells or areas of inflammation. A very small amount of radioactive gallium is injected into a vein and travels through the bloodstream. The gallium is taken up by rapidly dividing cells in the bones, tissues, and organs and is detected by a scanner.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731691" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gallium scan&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731690" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gammagrafía con galio&quot;" language="es" id="_4"/>
+  <SpanishTermName>gammagrafía con galio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para detectar áreas del cuerpo en las que las células se multiplican rápido. Se utiliza para localizar células cancerosas o áreas de inflamación. Se inyecta una cantidad muy pequeña de galio radiactivo en una vena y el galio  recorre el torrente sanguíneo. Las células que se multiplican rápido en los huesos, los tejidos y los órganos absorben el galio que se detecta con un escáner.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000269439"><TermName>formaldehyde</TermName><TermPronunciation>(for-MAL-deh-hide)</TermPronunciation><TermDefinition><DefinitionText>A chemical commonly used to kill germs and to preserve laboratory specimens and tissues. It is also used to make building materials (such as wood), glue, fabric, paint, fertilizers, pesticides, and other substances. Formaldehyde is also found in tobacco smoke and in the vapor made from burning fuel, such as the exhaust from cars or household stoves and heaters. It has a strong odor and catches fire easily. Formaldehyde is known to cause cancer. Being exposed to formaldehyde increases the risk of developing myeloid leukemia and cancers of the paranasal sinuses, nasal cavity, and nasopharynx.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709985" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;formaldehyde&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;formaldehído&quot;" language="es" id="_4"/><SpanishTermName>formaldehído</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia química que por lo general se usa para destruir gérmenes y conservar muestras de laboratorio y tejidos. También se utiliza durante la fabricación de materiales de construcción (como la madera), pegamentos, telas, pinturas, abonos, plaguicidas y otras sustancias. El formaldehído además se encuentra en el humo del tabaco y el vapor que se produce al quemar combustibles, como el de los escapes de los automóviles, o de las estufas y calderas caseras. Tiene un olor fuerte y es muy inflamable. Se sabe que el formaldehído causa cáncer. La exposición al formaldehído aumenta el riesgo de tener leucemia mieloide y cánceres de senos paranasales, cavidad nasal y nasofaringe.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2002-12-21</DateFirstPublished><DateLastModified>2018-02-13</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/formaldehyde">Formaldehyde</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/formaldehido">Formaldehído</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000269439">
+  <TermName>formaldehyde</TermName>
+  <TermPronunciation>(for-MAL-deh-hide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A chemical commonly used to kill germs and to preserve laboratory specimens and tissues. It is also used to make building materials (such as wood), glue, fabric, paint, fertilizers, pesticides, and other substances. Formaldehyde is also found in tobacco smoke and in the vapor made from burning fuel, such as the exhaust from cars or household stoves and heaters. It has a strong odor and catches fire easily. Formaldehyde is known to cause cancer. Being exposed to formaldehyde increases the risk of developing myeloid leukemia and cancers of the paranasal sinuses, nasal cavity, and nasopharynx.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709985" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;formaldehyde&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;formaldehído&quot;" language="es" id="_4"/>
+  <SpanishTermName>formaldehído</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia química que por lo general se usa para destruir gérmenes y conservar muestras de laboratorio y tejidos. También se utiliza durante la fabricación de materiales de construcción (como la madera), pegamentos, telas, pinturas, abonos, plaguicidas y otras sustancias. El formaldehído además se encuentra en el humo del tabaco y el vapor que se produce al quemar combustibles, como el de los escapes de los automóviles, o de las estufas y calderas caseras. Tiene un olor fuerte y es muy inflamable. Se sabe que el formaldehído causa cáncer. La exposición al formaldehído aumenta el riesgo de tener leucemia mieloide y cánceres de senos paranasales, cavidad nasal y nasofaringe.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2002-12-21</DateFirstPublished>
+  <DateLastModified>2018-02-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/formaldehyde">Formaldehyde</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/formaldehido">Formaldehído</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,37 @@
-<GlossaryTerm id="CDR0000460125"><TermName>allelic heterogeneity</TermName><TermPronunciation>(uh-LEE-lik HEH-teh-roh-jeh-NEE-ih-tee)</TermPronunciation><TermDefinition><DefinitionText>The presence of different variants at a single gene locus that cause the same or similar phenotypic expressions of a disease or condition.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A term that describes when different mutations (changes) in a single gene cause the same disease or condition. Each mutation by itself is enough to cause the disease or condition. For example, cystic fibrosis (an inherited disorder that affects the lungs and digestive system) is caused by having one of many different mutations in the <GeneName>CFTR</GeneName> gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736927" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;allelic heterogeneity&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804201" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;heterogeneidad alélica&quot;" language="es" id="_4"/><SpanishTermName>heterogeneidad alélica</SpanishTermName><SpanishTermDefinition><DefinitionText>Presencia de variantes diferentes en un locus génico específico que producen la misma expresión fenotípica de una enfermedad o afección, o una expresión fenotípica similar. También se llama heterogeneidad de alelos.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Término que se usa cuando diferentes mutaciones (cambios) en un solo gen causan la misma enfermedad o afección. Cada mutación por sí sola es suficiente para causar la enfermedad o afección. Por ejemplo, la causa de la fibrosis quística (enfermedad hereditaria que afecta los pulmones y el aparato digestivo), es la presencia de una entre muchas mutaciones diferentes en el gen  <GeneName>CFTR</GeneName>. También se llama heterogeneidad de alelos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460125">
+  <TermName>allelic heterogeneity</TermName>
+  <TermPronunciation>(uh-LEE-lik HEH-teh-roh-jeh-NEE-ih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The presence of different variants at a single gene locus that cause the same or similar phenotypic expressions of a disease or condition.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>
+      A term that describes when different mutations (changes) in a single gene cause the same disease or condition. Each mutation by itself is enough to cause the disease or condition. For example, cystic fibrosis (an inherited disorder that affects the lungs and digestive system) is caused by having one of many different mutations in the 
+      <GeneName>CFTR</GeneName>
+       gene.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736927" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;allelic heterogeneity&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804201" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;heterogeneidad alélica&quot;" language="es" id="_4"/>
+  <SpanishTermName>heterogeneidad alélica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de variantes diferentes en un locus génico específico que producen la misma expresión fenotípica de una enfermedad o afección, o una expresión fenotípica similar. También se llama heterogeneidad de alelos.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Término que se usa cuando diferentes mutaciones (cambios) en un solo gen causan la misma enfermedad o afección. Cada mutación por sí sola es suficiente para causar la enfermedad o afección. Por ejemplo, la causa de la fibrosis quística (enfermedad hereditaria que afecta los pulmones y el aparato digestivo), es la presencia de una entre muchas mutaciones diferentes en el gen  
+      <GeneName>CFTR</GeneName>
+      . También se llama heterogeneidad de alelos.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

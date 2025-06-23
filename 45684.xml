@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045684"><TermName>Epstein-Barr virus</TermName><TermPronunciation>(ep-stine-BAR VY-rus)</TermPronunciation><TermDefinition><DefinitionText>A common virus that remains dormant in most people. Epstein-Barr virus causes infectious mononucleosis and has been associated with certain cancers, including Burkitt lymphoma, immunoblastic lymphoma,  nasopharyngeal cancer, and stomach (gastric) cancer. Also called EBV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707077" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Epstein-Barr virus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707078" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;virus de Epstein-Barr&quot;" language="es" id="_4"/><SpanishTermName>virus de Epstein-Barr</SpanishTermName><SpanishTermDefinition><DefinitionText>Virus común que permanece inactivo en la mayoría de las personas. El virus de Epstein-Barr causa la mononucleosis infecciosa y se ha relacionado con la formación de ciertos tipos de cáncer, como el linfoma de Burkitt, el linfoma inmunoblástico, el carcinoma nasofaríngeo y el cáncer de estómago (gástrico). También se llama herpesvirus humano de tipo 4, VEB y virus del herpes humano de tipo 4.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-10-31</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000593427" url="/types/head-and-neck/patient/oral-screening-pdq">Oral Cavity and Nasopharyngeal Cancers Screening</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000760928" url="/espanol/tipos/cabeza-cuello/paciente/deteccion-cavidad-oral-pdq">Exámenes de detección de los cánceres de cavidad oral y nasofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045684">
+  <TermName>Epstein-Barr virus</TermName>
+  <TermPronunciation>(ep-stine-BAR VY-rus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A common virus that remains dormant in most people. Epstein-Barr virus causes infectious mononucleosis and has been associated with certain cancers, including Burkitt lymphoma, immunoblastic lymphoma,  nasopharyngeal cancer, and stomach (gastric) cancer. Also called EBV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707077" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Epstein-Barr virus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707078" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;virus de Epstein-Barr&quot;" language="es" id="_4"/>
+  <SpanishTermName>virus de Epstein-Barr</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Virus común que permanece inactivo en la mayoría de las personas. El virus de Epstein-Barr causa la mononucleosis infecciosa y se ha relacionado con la formación de ciertos tipos de cáncer, como el linfoma de Burkitt, el linfoma inmunoblástico, el carcinoma nasofaríngeo y el cáncer de estómago (gástrico). También se llama herpesvirus humano de tipo 4, VEB y virus del herpes humano de tipo 4.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-10-31</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000593427" url="/types/head-and-neck/patient/oral-screening-pdq">Oral Cavity and Nasopharyngeal Cancers Screening</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000760928" url="/espanol/tipos/cabeza-cuello/paciente/deteccion-cavidad-oral-pdq">Exámenes de detección de los cánceres de cavidad oral y nasofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000482456"><TermName>resectoscope</TermName><TermPronunciation>(ree-SEK-toh-skope)</TermPronunciation><TermDefinition><DefinitionText>A thin, tube-like instrument used to remove tissue from inside the body. A resectoscope has a light and a lens for viewing. It also has a tool that uses an electric current to cut, remove, or destroy tissue and control bleeding. In men, a resectoscope is inserted through the urethra into the bladder or prostate. In women, it is inserted through the vagina and cervix into the uterus. It can be used to relieve symptoms of an enlarged prostate or to treat diseases of the bladder, prostate, and uterus.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resectoscope&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716628" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resectoscopio&quot;" language="es" id="_4"/><SpanishTermName>resectoscopio</SpanishTermName><SpanishTermDefinition><DefinitionText>Instrumento delgado con forma de tubo que se usa para extraer tejido del interior del cuerpo. Un resectoscopio tiene una luz y una lente para observar. También tiene una herramienta que utiliza corriente eléctrica para cortar, remover o destruir tejido y controlar el sangrado. En los hombres, se introduce el resectoscopio por la uretra hasta la vejiga o la próstata. En las mujeres, se introduce el resectoscopio por la vagina y el cuello uterino hasta el útero. Este instrumento sirve para aliviar síntomas de una próstata agrandada o para tratar enfermedades en la vejiga, la próstata o el útero.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished><DateLastModified>2020-01-10</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000482456">
+  <TermName>resectoscope</TermName>
+  <TermPronunciation>(ree-SEK-toh-skope)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A thin, tube-like instrument used to remove tissue from inside the body. A resectoscope has a light and a lens for viewing. It also has a tool that uses an electric current to cut, remove, or destroy tissue and control bleeding. In men, a resectoscope is inserted through the urethra into the bladder or prostate. In women, it is inserted through the vagina and cervix into the uterus. It can be used to relieve symptoms of an enlarged prostate or to treat diseases of the bladder, prostate, and uterus.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resectoscope&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716628" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resectoscopio&quot;" language="es" id="_4"/>
+  <SpanishTermName>resectoscopio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Instrumento delgado con forma de tubo que se usa para extraer tejido del interior del cuerpo. Un resectoscopio tiene una luz y una lente para observar. También tiene una herramienta que utiliza corriente eléctrica para cortar, remover o destruir tejido y controlar el sangrado. En los hombres, se introduce el resectoscopio por la uretra hasta la vejiga o la próstata. En las mujeres, se introduce el resectoscopio por la vagina y el cuello uterino hasta el útero. Este instrumento sirve para aliviar síntomas de una próstata agrandada o para tratar enfermedades en la vejiga, la próstata o el útero.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+  <DateLastModified>2020-01-10</DateLastModified>
+</GlossaryTerm>

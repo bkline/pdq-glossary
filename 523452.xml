@@ -1,1 +1,43 @@
-<GlossaryTerm id="CDR0000523452"><TermName>Trisenox</TermName><TermPronunciation>(TRY-seh-nox)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat acute promyelocytic leukemia that has a certain chromosome abnormality or a fusion gene called <GeneName>PML</GeneName>::<GeneName>RARA</GeneName>. It is used with tretinoin in some newly diagnosed adults. It is also used alone in patients whose cancer has not gotten better or has come back after treatment with other anticancer drugs. Trisenox is also being studied in the treatment of other types of cancer. Trisenox damages a fusion protein made by the <GeneName>PML</GeneName>::<GeneName>RARA</GeneName> fusion gene. This may help keep cancer cells from growing and may kill them. Also called arsenic trioxide.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718537" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trisenox&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718536" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trisenox&quot;" language="es" id="_4"/><SpanishTermName>Trisenox</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la leucemia promielocítica aguda que tiene cierta anomalía cromosómica o un gen de fusión llamado <GeneName>PML</GeneName>::<GeneName>RARA</GeneName>. Se usa con tretinoína en algunos adultos con diagnóstico reciente. Además, se utiliza solo, en pacientes cuyo cáncer volvió o no mejoró después del tratamiento con otros medicamentos contra el cáncer. Trisenox  también está en estudio para el tratamiento de otros tipos de cáncer. Trisenox daña una proteína de fusión que se origina del gen de fusión <GeneName>PML</GeneName>::<GeneName>RARA</GeneName>. Es posible que esto impida la multiplicación de células cancerosas y las destruya. También se llama trióxido de arsénico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-12-01</DateFirstPublished><DateLastModified>2023-06-27</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000500188" url="/about-cancer/treatment/drugs/arsenictrioxide">Arsenic Trioxide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000523452">
+  <TermName>Trisenox</TermName>
+  <TermPronunciation>(TRY-seh-nox)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat acute promyelocytic leukemia that has a certain chromosome abnormality or a fusion gene called 
+      <GeneName>PML</GeneName>
+      ::
+      <GeneName>RARA</GeneName>
+      . It is used with tretinoin in some newly diagnosed adults. It is also used alone in patients whose cancer has not gotten better or has come back after treatment with other anticancer drugs. Trisenox is also being studied in the treatment of other types of cancer. Trisenox damages a fusion protein made by the 
+      <GeneName>PML</GeneName>
+      ::
+      <GeneName>RARA</GeneName>
+       fusion gene. This may help keep cancer cells from growing and may kill them. Also called arsenic trioxide.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718537" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trisenox&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718536" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trisenox&quot;" language="es" id="_4"/>
+  <SpanishTermName>Trisenox</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de la leucemia promielocítica aguda que tiene cierta anomalía cromosómica o un gen de fusión llamado 
+      <GeneName>PML</GeneName>
+      ::
+      <GeneName>RARA</GeneName>
+      . Se usa con tretinoína en algunos adultos con diagnóstico reciente. Además, se utiliza solo, en pacientes cuyo cáncer volvió o no mejoró después del tratamiento con otros medicamentos contra el cáncer. Trisenox  también está en estudio para el tratamiento de otros tipos de cáncer. Trisenox daña una proteína de fusión que se origina del gen de fusión 
+      <GeneName>PML</GeneName>
+      ::
+      <GeneName>RARA</GeneName>
+      . Es posible que esto impida la multiplicación de células cancerosas y las destruya. También se llama trióxido de arsénico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-12-01</DateFirstPublished>
+  <DateLastModified>2023-06-27</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000500188" url="/about-cancer/treatment/drugs/arsenictrioxide">Arsenic Trioxide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000467860"><TermName>qigong</TermName><TermPronunciation>(chee-gong)</TermPronunciation><TermDefinition><DefinitionText>A form of traditional Chinese mind/body exercise and meditation that uses slow and precise body movements with controlled breathing and mental focusing to improve balance, flexibility, muscle strength, and overall health.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000717015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;qigong&quot;" language="en" id="_3"/><MediaLink ref="CDR0000717014" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;qigong&quot;" language="es" id="_4"/><SpanishTermName>qigong</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de ejercicio, físico-mental y de meditación, tradicional chino, en el que se usan movimientos corporales lentos y precisos, una respiración controlada y el enfoque mental para mejorar el equilibrio, la flexibilidad, la fuerza muscular y la salud general.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000467860">
+  <TermName>qigong</TermName>
+  <TermPronunciation>(chee-gong)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A form of traditional Chinese mind/body exercise and meditation that uses slow and precise body movements with controlled breathing and mental focusing to improve balance, flexibility, muscle strength, and overall health.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000717015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;qigong&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000717014" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;qigong&quot;" language="es" id="_4"/>
+  <SpanishTermName>qigong</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de ejercicio, físico-mental y de meditación, tradicional chino, en el que se usan movimientos corporales lentos y precisos, una respiración controlada y el enfoque mental para mejorar el equilibrio, la flexibilidad, la fuerza muscular y la salud general.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-11</DateFirstPublished>
+</GlossaryTerm>

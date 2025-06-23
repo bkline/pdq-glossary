@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000811113"><TermName>Rezlidhia</TermName><TermPronunciation>(rez-LIH-dee-uh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with acute myeloid leukemia that has come back or has not gotten better with other treatment and has a mutation (change) in the <GeneName>IDH1</GeneName> gene. It is also being studied in the treatment of other types of cancer. Rezlidhia blocks the protein made by the mutated <GeneName>IDH1</GeneName> gene. Blocking this protein may help keep cancer cells from growing. Rezlidhia is a type of enzyme inhibitor. Also called olutasidenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812273" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rezlidhia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rezlidhia&quot;" language="es" id="_4"/><SpanishTermName>Rezlidhia</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con leucemia mieloide aguda que reapareció o que no mejoró con otros tratamientos y presenta una mutación (cambio) en el gen <GeneName>IDH1</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. Rezlidhia bloquea la proteína que se origina del gen <GeneName>IDH1</GeneName> mutado. Es posible que esto ayude a impedir la multiplicación de células cancerosas. Rezlidhia es un tipo de inhibidor enzimático. También se llama olutasidenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-12-08</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000811129" url="/about-cancer/treatment/drugs/olutasidenib">Olutasidenib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811113">
+  <TermName>Rezlidhia</TermName>
+  <TermPronunciation>(rez-LIH-dee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with acute myeloid leukemia that has come back or has not gotten better with other treatment and has a mutation (change) in the 
+      <GeneName>IDH1</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Rezlidhia blocks the protein made by the mutated 
+      <GeneName>IDH1</GeneName>
+       gene. Blocking this protein may help keep cancer cells from growing. Rezlidhia is a type of enzyme inhibitor. Also called olutasidenib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812273" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rezlidhia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rezlidhia&quot;" language="es" id="_4"/>
+  <SpanishTermName>Rezlidhia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con leucemia mieloide aguda que reapareció o que no mejoró con otros tratamientos y presenta una mutación (cambio) en el gen 
+      <GeneName>IDH1</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. Rezlidhia bloquea la proteína que se origina del gen 
+      <GeneName>IDH1</GeneName>
+       mutado. Es posible que esto ayude a impedir la multiplicación de células cancerosas. Rezlidhia es un tipo de inhibidor enzimático. También se llama olutasidenib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-12-08</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000811129" url="/about-cancer/treatment/drugs/olutasidenib">Olutasidenib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

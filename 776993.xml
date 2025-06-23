@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000776993"><TermName>Darzalex</TermName><TermPronunciation>(DAR-zah-lex)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with multiple myeloma. It is used in patients whose cancer is newly diagnosed and who can or cannot be treated with an autologous stem cell transplant. Darzalex is also used in patients whose cancer came back or did not get better after treatment with one or more anticancer therapies.  It is also being studied in the treatment of other types of cancer. Darzalex binds to a protein called CD38, which is found on some types of immune cells and cancer cells, including myeloma cells. Darzalex may block CD38 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called daratumumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000778425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Darzalex&quot;" language="en" id="_3"/><MediaLink ref="CDR0000778424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Darzalex&quot;" language="es" id="_4"/><SpanishTermName>Darzalex</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para tratar el mieloma múltiple en adultos. Se utiliza en pacientes con diagnóstico reciente de cáncer y que pueden o no recibir un trasplante autógeno de células madre.  Darzalex también se usa en pacientes cuyo cáncer regresó o no mejoró después del tratamiento con una o más terapias contra el cáncer.  También está en estudio para tratar otros tipos de cáncer. Darzalex se une a una proteína que se llama CD38, que se encuentra en algunos tipos de células inmunitarias y células cancerosas, como las células del mieloma. Darzalex quizás bloquee la CD38 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal. También se llama daratumumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-11-25</DateFirstPublished><DateLastModified>2019-09-27</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000777063" url="/about-cancer/treatment/drugs/daratumumab">Daratumumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776993">
+  <TermName>Darzalex</TermName>
+  <TermPronunciation>(DAR-zah-lex)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults with multiple myeloma. It is used in patients whose cancer is newly diagnosed and who can or cannot be treated with an autologous stem cell transplant. Darzalex is also used in patients whose cancer came back or did not get better after treatment with one or more anticancer therapies.  It is also being studied in the treatment of other types of cancer. Darzalex binds to a protein called CD38, which is found on some types of immune cells and cancer cells, including myeloma cells. Darzalex may block CD38 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called daratumumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000778425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Darzalex&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000778424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Darzalex&quot;" language="es" id="_4"/>
+  <SpanishTermName>Darzalex</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para tratar el mieloma múltiple en adultos. Se utiliza en pacientes con diagnóstico reciente de cáncer y que pueden o no recibir un trasplante autógeno de células madre.  Darzalex también se usa en pacientes cuyo cáncer regresó o no mejoró después del tratamiento con una o más terapias contra el cáncer.  También está en estudio para tratar otros tipos de cáncer. Darzalex se une a una proteína que se llama CD38, que se encuentra en algunos tipos de células inmunitarias y células cancerosas, como las células del mieloma. Darzalex quizás bloquee la CD38 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal. También se llama daratumumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-11-25</DateFirstPublished>
+  <DateLastModified>2019-09-27</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000777063" url="/about-cancer/treatment/drugs/daratumumab">Daratumumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

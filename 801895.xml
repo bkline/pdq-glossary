@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000801895"><TermName>QNBC</TermName><TermDefinition><DefinitionText>A type of breast cancer in which the tumor cells do not have estrogen receptors, progesterone receptors, androgen receptors, or large amounts of HER2/neu protein on their surface. Knowing whether breast cancer is quadruple negative is important in planning treatment.  Also called quadruple-negative breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>QNBC</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer de mama cuyas células tumorales no tienen en su superficie receptores de estrógeno, receptores de progesterona, receptores de andrógenos ni cantidades altas de la proteína HER2/neu. Para planificar el tratamiento, es importante saber si el cáncer de mama es cuádruple negativo. También se llama cáncer de mama cuádruple negativo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-09-16</DateFirstPublished><DateLastModified>2020-09-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801895">
+  <TermName>QNBC</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of breast cancer in which the tumor cells do not have estrogen receptors, progesterone receptors, androgen receptors, or large amounts of HER2/neu protein on their surface. Knowing whether breast cancer is quadruple negative is important in planning treatment.  Also called quadruple-negative breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>QNBC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer de mama cuyas células tumorales no tienen en su superficie receptores de estrógeno, receptores de progesterona, receptores de andrógenos ni cantidades altas de la proteína HER2/neu. Para planificar el tratamiento, es importante saber si el cáncer de mama es cuádruple negativo. También se llama cáncer de mama cuádruple negativo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-09-16</DateFirstPublished>
+  <DateLastModified>2020-09-23</DateLastModified>
+</GlossaryTerm>

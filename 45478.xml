@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045478"><TermName>cirrhosis</TermName><TermPronunciation>(seh-ROH-sis)</TermPronunciation><TermDefinition><DefinitionText>A type of chronic, progressive liver disease in which healthy liver tissue is replaced by scar tissue. The scar tissue blocks the flow of blood through the liver and keeps it from working as it should. Symptoms of cirrhosis may not appear until the liver is badly damaged. Causes of cirrhosis include chronic alcohol use disorder, chronic hepatitis infections, and certain autoimmune conditions and genetic disorders. People with cirrhosis have a higher risk of developing liver cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705509" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirrhosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705508" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirrosis&quot;" language="es" id="_4"/><SpanishTermName>cirrosis</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de enfermedad crónica y progresiva del hígado, en la que el tejido cicatricial remplaza al tejido hepático normal. El tejido cicatricial bloquea el flujo de sangre en el hígado e impide que este funcione como debería. Es posible que los síntomas de cirrosis no se presenten hasta que el hígado está muy dañado. Las causas de la cirrosis son el trastorno por consumo crónico de alcohol, las infecciones crónicas por virus de la hepatitis, así como ciertas afecciones autoinmunitarias y trastornos genéticos. Las personas con cirrosis tienen mayor riesgo de presentar cáncer de hígado. También se llama cirrosis de hígado y cirrosis hepática.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2025-04-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045478">
+  <TermName>cirrhosis</TermName>
+  <TermPronunciation>(seh-ROH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of chronic, progressive liver disease in which healthy liver tissue is replaced by scar tissue. The scar tissue blocks the flow of blood through the liver and keeps it from working as it should. Symptoms of cirrhosis may not appear until the liver is badly damaged. Causes of cirrhosis include chronic alcohol use disorder, chronic hepatitis infections, and certain autoimmune conditions and genetic disorders. People with cirrhosis have a higher risk of developing liver cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705509" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirrhosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705508" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirrosis&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirrosis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de enfermedad crónica y progresiva del hígado, en la que el tejido cicatricial remplaza al tejido hepático normal. El tejido cicatricial bloquea el flujo de sangre en el hígado e impide que este funcione como debería. Es posible que los síntomas de cirrosis no se presenten hasta que el hígado está muy dañado. Las causas de la cirrosis son el trastorno por consumo crónico de alcohol, las infecciones crónicas por virus de la hepatitis, así como ciertas afecciones autoinmunitarias y trastornos genéticos. Las personas con cirrosis tienen mayor riesgo de presentar cáncer de hígado. También se llama cirrosis de hígado y cirrosis hepática.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2025-04-07</DateLastModified>
+</GlossaryTerm>

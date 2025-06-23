@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000430859"><TermName>bursitis</TermName><TermPronunciation>(ber-SY-tis)</TermPronunciation><TermDefinition><DefinitionText>Inflammation (swelling, pain, and warmth) of a bursa. A bursa is a flat, fluid-filled sac found between a bone and a tendon or muscle. It forms a cushion to help the tendon or muscle slide smoothly over the bone. Bursitis may be caused by long-term overuse, trauma, rheumatoid arthritis, gout, or infection. It usually affects the shoulder, knee, elbow, hip, or foot.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713594" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bursitis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713593" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bursitis&quot;" language="es" id="_4"/><SpanishTermName>bursitis</SpanishTermName><SpanishTermDefinition><DefinitionText>Inflamación (hinchazón, dolor y calor) de una bursa. Una bursa es una bolsa plana, llena de líquido ubicada entre un hueso y un tendón o músculo. Forma una almohadilla para ayudar al tendón o el músculo a deslizarse con suavidad sobre el hueso. Es posible que la bursitis se produzca por exceso de uso durante un tiempo largo, traumatismo, artritis reumatoide, gota o infección. Por lo general, afecta el hombro, la rodilla, el codo, la cadera o el pie.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000430859">
+  <TermName>bursitis</TermName>
+  <TermPronunciation>(ber-SY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Inflammation (swelling, pain, and warmth) of a bursa. A bursa is a flat, fluid-filled sac found between a bone and a tendon or muscle. It forms a cushion to help the tendon or muscle slide smoothly over the bone. Bursitis may be caused by long-term overuse, trauma, rheumatoid arthritis, gout, or infection. It usually affects the shoulder, knee, elbow, hip, or foot.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713594" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bursitis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713593" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bursitis&quot;" language="es" id="_4"/>
+  <SpanishTermName>bursitis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Inflamación (hinchazón, dolor y calor) de una bursa. Una bursa es una bolsa plana, llena de líquido ubicada entre un hueso y un tendón o músculo. Forma una almohadilla para ayudar al tendón o el músculo a deslizarse con suavidad sobre el hueso. Es posible que la bursitis se produzca por exceso de uso durante un tiempo largo, traumatismo, artritis reumatoide, gota o infección. Por lo general, afecta el hombro, la rodilla, el codo, la cadera o el pie.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000486923"><TermName>shinbone</TermName><TermPronunciation>(SHIN-bone)</TermPronunciation><TermDefinition><DefinitionText>The larger of two bones between the knee and ankle. Also called tibia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732872" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;shinbone&quot;" language="en" id="_2"/><MediaLink ref="CDR0000791289" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hueso tibial&quot;" language="es" id="_4"/><SpanishTermName>hueso tibial</SpanishTermName><SpanishTermDefinition><DefinitionText>El más largo de los dos huesos ubicados entre la rodilla y el tobillo. También se llama tibia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000486923">
+  <TermName>shinbone</TermName>
+  <TermPronunciation>(SHIN-bone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The larger of two bones between the knee and ankle. Also called tibia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732872" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;shinbone&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000791289" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hueso tibial&quot;" language="es" id="_4"/>
+  <SpanishTermName>hueso tibial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El más largo de los dos huesos ubicados entre la rodilla y el tobillo. También se llama tibia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-23</DateFirstPublished>
+</GlossaryTerm>

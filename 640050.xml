@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000640050"><TermName>Medicaid</TermName><TermPronunciation>(MEH-dih-kayd)</TermPronunciation><TermDefinition><DefinitionText>A public health insurance program for some people or families with limited incomes and resources, including children, pregnant women, older adults, and people with disabilities. People who receive Medicaid have most or all of their health care services paid for by US federal, state, and local governments. Each state government runs its own Medicaid program using federal guidelines, so Medicaid rules and benefits can differ from state to state. To be eligible for Medicaid, a person or family must meet the Medicaid rules of the state in which they live.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722973" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Medicaid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722972" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Medicaid&quot;" language="es" id="_4"/><SpanishTermName>Medicaid</SpanishTermName><SpanishTermDefinition><DefinitionText>Programa de seguro médico público para algunas personas y familias con ingresos y recursos escasos. Este programa abarca niños, mujeres embarazadas, adultos mayores y personas con discapacidad. El gobierno federal de los Estados Unidos, así como el gobierno estatal y local, cubre la mayoría o la totalidad de los servicios de atención médica de las personas con acceso a Medicaid. Cada gobierno estatal administra su propio programa de Medicaid de acuerdo a las pautas federales, por lo que los requisitos y los beneficios de Medicaid pueden diferir de un estado a otro. Para tener acceso a  Medicaid, una persona o familia debe cumplir con los requisitos de Medicaid del estado en el que vive.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-07-02</DateFirstPublished><DateLastModified>2022-12-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000640050">
+  <TermName>Medicaid</TermName>
+  <TermPronunciation>(MEH-dih-kayd)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A public health insurance program for some people or families with limited incomes and resources, including children, pregnant women, older adults, and people with disabilities. People who receive Medicaid have most or all of their health care services paid for by US federal, state, and local governments. Each state government runs its own Medicaid program using federal guidelines, so Medicaid rules and benefits can differ from state to state. To be eligible for Medicaid, a person or family must meet the Medicaid rules of the state in which they live.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722973" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Medicaid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722972" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Medicaid&quot;" language="es" id="_4"/>
+  <SpanishTermName>Medicaid</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Programa de seguro médico público para algunas personas y familias con ingresos y recursos escasos. Este programa abarca niños, mujeres embarazadas, adultos mayores y personas con discapacidad. El gobierno federal de los Estados Unidos, así como el gobierno estatal y local, cubre la mayoría o la totalidad de los servicios de atención médica de las personas con acceso a Medicaid. Cada gobierno estatal administra su propio programa de Medicaid de acuerdo a las pautas federales, por lo que los requisitos y los beneficios de Medicaid pueden diferir de un estado a otro. Para tener acceso a  Medicaid, una persona o familia debe cumplir con los requisitos de Medicaid del estado en el que vive.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-07-02</DateFirstPublished>
+  <DateLastModified>2022-12-29</DateLastModified>
+</GlossaryTerm>

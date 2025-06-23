@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000805452"><TermName>sotorasib</TermName><TermPronunciation>(SOH-toh-RA-sib)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone to treat adults with non-small cell lung cancer that has spread or cannot be removed by surgery, and with panitumumab to treat colorectal cancer that has spread. It is used in patients who have a certain mutation (change) in the <GeneName>KRAS</GeneName> gene and whose cancer was treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer. Sotorasib blocks a protein (KRAS p.G12C) made by the mutated <GeneName>KRAS</GeneName> gene, which may help keep cancer cells from growing and may kill them. It is a type of targeted therapy. Also called Lumakras.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sotorasib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sotorasib&quot;" language="es" id="_4"/><SpanishTermName>sotorasib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó o que no se puede extirpar mediante cirugía, y en combinación con panitumumab para el tratamiento del cáncer colorrectal que se diseminó. Se usa en pacientes con cierta mutación (cambio) en el gen <GeneName>KRAS</GeneName>, cuyo cáncer  se trató con otros medicamentos anticancerígenos. También está en estudio para el tratamiento de otros tipos de cáncer. El sotorasib  bloquea una proteína (KRAS p.G12C) que se origina del gen <GeneName>KRAS</GeneName> mutado, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de medicamento de terapia dirigida. También se llama Lumakras.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-06-14</DateFirstPublished><DateLastModified>2025-01-31</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000805521" url="/about-cancer/treatment/drugs/sotorasib">Sotorasib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805452">
+  <TermName>sotorasib</TermName>
+  <TermPronunciation>(SOH-toh-RA-sib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used alone to treat adults with non-small cell lung cancer that has spread or cannot be removed by surgery, and with panitumumab to treat colorectal cancer that has spread. It is used in patients who have a certain mutation (change) in the 
+      <GeneName>KRAS</GeneName>
+       gene and whose cancer was treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer. Sotorasib blocks a protein (KRAS p.G12C) made by the mutated 
+      <GeneName>KRAS</GeneName>
+       gene, which may help keep cancer cells from growing and may kill them. It is a type of targeted therapy. Also called Lumakras.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sotorasib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sotorasib&quot;" language="es" id="_4"/>
+  <SpanishTermName>sotorasib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa solo para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó o que no se puede extirpar mediante cirugía, y en combinación con panitumumab para el tratamiento del cáncer colorrectal que se diseminó. Se usa en pacientes con cierta mutación (cambio) en el gen 
+      <GeneName>KRAS</GeneName>
+      , cuyo cáncer  se trató con otros medicamentos anticancerígenos. También está en estudio para el tratamiento de otros tipos de cáncer. El sotorasib  bloquea una proteína (KRAS p.G12C) que se origina del gen 
+      <GeneName>KRAS</GeneName>
+       mutado, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de medicamento de terapia dirigida. También se llama Lumakras.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-06-14</DateFirstPublished>
+  <DateLastModified>2025-01-31</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000805521" url="/about-cancer/treatment/drugs/sotorasib">Sotorasib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

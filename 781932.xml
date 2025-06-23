@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000781932"><TermName>LUMBAR/PELVIS/SACRAL syndrome</TermName><TermPronunciation>(LUM-bar/PEL-vus/SAY-krul SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare disorder marked by a hemangioma (a benign blood vessel tumor) that spreads across a large area of the lower back or genital area. Other health problems that affect the urinary system, genitals, rectum, anus, brain, spinal cord, and nerve function may also occur. LUMBAR/PELVIC/SACRAL syndrome is most common in infants.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785439" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;LUMBAR/PELVIS/SACRAL syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome LUMBAR/PÉLVICO/SACRO&quot;" language="es" id="_4"/><SpanishTermName>síndrome LUMBAR/PÉLVICO/SACRO</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno poco frecuente que se caracteriza por la presencia de un hemangioma (tumor benigno de los vasos sanguíneos) que se disemina por una gran superficie de la parte inferior de la espalda o los genitales. También se pueden presentar otros problemas de salud que afectan el sistema urinario, los órganos genitales, el recto, el ano, el encéfalo, la médula espinal y el funcionamiento de los nervios. El síndrome LUMBAR/PÉLVICO/SACRO es más común en los lactantes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781932">
+  <TermName>LUMBAR/PELVIS/SACRAL syndrome</TermName>
+  <TermPronunciation>(LUM-bar/PEL-vus/SAY-krul SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare disorder marked by a hemangioma (a benign blood vessel tumor) that spreads across a large area of the lower back or genital area. Other health problems that affect the urinary system, genitals, rectum, anus, brain, spinal cord, and nerve function may also occur. LUMBAR/PELVIC/SACRAL syndrome is most common in infants.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785439" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;LUMBAR/PELVIS/SACRAL syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome LUMBAR/PÉLVICO/SACRO&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome LUMBAR/PÉLVICO/SACRO</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno poco frecuente que se caracteriza por la presencia de un hemangioma (tumor benigno de los vasos sanguíneos) que se disemina por una gran superficie de la parte inferior de la espalda o los genitales. También se pueden presentar otros problemas de salud que afectan el sistema urinario, los órganos genitales, el recto, el ano, el encéfalo, la médula espinal y el funcionamiento de los nervios. El síndrome LUMBAR/PÉLVICO/SACRO es más común en los lactantes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-23</DateFirstPublished>
+</GlossaryTerm>

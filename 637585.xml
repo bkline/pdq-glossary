@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000637585"><TermName>sclerosing adenosis</TermName><TermPronunciation>(skleh-ROH-sing A-deh-NOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A benign (not cancerous) condition in which scar-like fibrous tissue is found in the breast lobules (the glands that make milk). In sclerosing adenosis, the lobules are larger than normal. This may result in a breast lump that may be large enough to feel. Sclerosing adenosis may also cause pain in the breast. A biopsy may be needed to tell the difference between sclerosing adenosis and breast cancer. Sclerosing adenosis may slightly increase the risk of breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722769" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sclerosing adenosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722770" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenosis esclerosante&quot;" language="es" id="_4"/><SpanishTermName>adenosis esclerosante</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección benigna (no cancerosa) por la que se encuentra un tejido similar a una cicatriz en los lobulillos de la mama (las glándulas que producen leche).   En la adenosis esclerosante, los lobulillos son más grandes de lo normal lo que a veces produce un bulto que se puede sentir. Esta afección en ocasiones causa dolor en la mama y quizás sea necesaria una biopsia para diferenciarla  del cáncer de mama.   Es posible que la adenosis esclerosante aumente un poco el riesgo de contraer cáncer de mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-04-10</DateFirstPublished><DateLastModified>2022-03-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000637585">
+  <TermName>sclerosing adenosis</TermName>
+  <TermPronunciation>(skleh-ROH-sing A-deh-NOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A benign (not cancerous) condition in which scar-like fibrous tissue is found in the breast lobules (the glands that make milk). In sclerosing adenosis, the lobules are larger than normal. This may result in a breast lump that may be large enough to feel. Sclerosing adenosis may also cause pain in the breast. A biopsy may be needed to tell the difference between sclerosing adenosis and breast cancer. Sclerosing adenosis may slightly increase the risk of breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722769" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sclerosing adenosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722770" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenosis esclerosante&quot;" language="es" id="_4"/>
+  <SpanishTermName>adenosis esclerosante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección benigna (no cancerosa) por la que se encuentra un tejido similar a una cicatriz en los lobulillos de la mama (las glándulas que producen leche).   En la adenosis esclerosante, los lobulillos son más grandes de lo normal lo que a veces produce un bulto que se puede sentir. Esta afección en ocasiones causa dolor en la mama y quizás sea necesaria una biopsia para diferenciarla  del cáncer de mama.   Es posible que la adenosis esclerosante aumente un poco el riesgo de contraer cáncer de mama.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-04-10</DateFirstPublished>
+  <DateLastModified>2022-03-15</DateLastModified>
+</GlossaryTerm>

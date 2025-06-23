@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000789737"><TermName>prevalence</TermName><TermPronunciation>(PREH-vih-lents)</TermPronunciation><TermDefinition><DefinitionText>In medicine, a measure of the total number of people in a specific group who have (or had) a certain disease, condition, or risk factor (such as smoking or obesity) at a specific point in time or during a given period of time. For example, the prevalence of breast cancer may show how many women in the U.S. were diagnosed with breast cancer within the past 10 years, including those who are receiving treatment and those who are considered cured, and are still alive on a certain date.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791537" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prevalence&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791536" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prevalencia&quot;" language="es" id="_4"/><SpanishTermName>prevalencia</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, una medida del número total de personas en un grupo específico que tienen (o tuvieron) cierta enfermedad, afección o factor de riesgo (como el tabaquismo o la obesidad) en un momento específico o durante un período determinado. Por ejemplo, la prevalencia del cáncer de mama indica a cuántas mujeres en los Estados Unidos les diagnosticaron cáncer de mama en los últimos 10 años, incluso aquellas que están recibiendo tratamiento y aquellas que se consideran curadas y siguen vivas en cierta fecha.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789737">
+  <TermName>prevalence</TermName>
+  <TermPronunciation>(PREH-vih-lents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, a measure of the total number of people in a specific group who have (or had) a certain disease, condition, or risk factor (such as smoking or obesity) at a specific point in time or during a given period of time. For example, the prevalence of breast cancer may show how many women in the U.S. were diagnosed with breast cancer within the past 10 years, including those who are receiving treatment and those who are considered cured, and are still alive on a certain date.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791537" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prevalence&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791536" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prevalencia&quot;" language="es" id="_4"/>
+  <SpanishTermName>prevalencia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, una medida del número total de personas en un grupo específico que tienen (o tuvieron) cierta enfermedad, afección o factor de riesgo (como el tabaquismo o la obesidad) en un momento específico o durante un período determinado. Por ejemplo, la prevalencia del cáncer de mama indica a cuántas mujeres en los Estados Unidos les diagnosticaron cáncer de mama en los últimos 10 años, incluso aquellas que están recibiendo tratamiento y aquellas que se consideran curadas y siguen vivas en cierta fecha.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-18</DateFirstPublished>
+</GlossaryTerm>

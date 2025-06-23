@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000813550"><TermName>anal dysplasia</TermName><TermPronunciation>(AY-nul dis-PLAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>The abnormal growth of cells in the lining of the anal canal or in the skin around the outside of the anus called the perianal area. Anal dysplasia is usually caused by certain types of human papillomavirus (HPV). It can be low grade or high grade, depending on how abnormal the cells look under a microscope and how much of the anal tissue is affected. Anal dysplasia is not cancer but may become cancer and spread to nearby normal tissue. It is sometimes called anal intraepithelial neoplasia (AIN) or anal squamous intraepithelial lesion.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anal dysplasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000815644" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;displasia anal&quot;" language="es" id="_4"/><SpanishTermName>displasia anal</SpanishTermName><SpanishTermDefinition><DefinitionText>Multiplicación anormal de células en el tejido que reviste el conducto anal o en la piel que rodea la parte externa del ano llamada área perianal. La causa de la displasia anal suelen ser ciertos tipos de virus del papiloma humano (VPH). Puede ser de grado bajo o grado alto, según cuán anormales se vean las células al microscopio y cuánto tejido del ano se encuentre afectado. La displasia anal no es cáncer, pero a veces se convierte en cáncer y se disemina al tejido normal cercano. En ocasiones se llama neoplasia intraepitelial anal (NIA) o lesión intraepitelial escamosa anal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-20</DateFirstPublished><DateLastModified>2024-05-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813550">
+  <TermName>anal dysplasia</TermName>
+  <TermPronunciation>(AY-nul dis-PLAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The abnormal growth of cells in the lining of the anal canal or in the skin around the outside of the anus called the perianal area. Anal dysplasia is usually caused by certain types of human papillomavirus (HPV). It can be low grade or high grade, depending on how abnormal the cells look under a microscope and how much of the anal tissue is affected. Anal dysplasia is not cancer but may become cancer and spread to nearby normal tissue. It is sometimes called anal intraepithelial neoplasia (AIN) or anal squamous intraepithelial lesion.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anal dysplasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000815644" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;displasia anal&quot;" language="es" id="_4"/>
+  <SpanishTermName>displasia anal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Multiplicación anormal de células en el tejido que reviste el conducto anal o en la piel que rodea la parte externa del ano llamada área perianal. La causa de la displasia anal suelen ser ciertos tipos de virus del papiloma humano (VPH). Puede ser de grado bajo o grado alto, según cuán anormales se vean las células al microscopio y cuánto tejido del ano se encuentre afectado. La displasia anal no es cáncer, pero a veces se convierte en cáncer y se disemina al tejido normal cercano. En ocasiones se llama neoplasia intraepitelial anal (NIA) o lesión intraepitelial escamosa anal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-20</DateFirstPublished>
+  <DateLastModified>2024-05-23</DateLastModified>
+</GlossaryTerm>

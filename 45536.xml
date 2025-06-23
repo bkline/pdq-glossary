@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045536"><TermName>cordycepin</TermName><TermPronunciation>(KOR-duh-see-pin)</TermPronunciation><TermDefinition><DefinitionText>An anticancer drug that belongs to a family of drugs called antitumor antibiotics.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731069" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cordycepin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731068" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cordicepina&quot;" language="es" id="_4"/><SpanishTermName>cordicepina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento contra el cáncer; es un tipo de antibiótico antitumoral.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045536">
+  <TermName>cordycepin</TermName>
+  <TermPronunciation>(KOR-duh-see-pin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An anticancer drug that belongs to a family of drugs called antitumor antibiotics.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731069" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cordycepin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731068" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cordicepina&quot;" language="es" id="_4"/>
+  <SpanishTermName>cordicepina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento contra el cáncer; es un tipo de antibiótico antitumoral.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

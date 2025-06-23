@@ -1,1 +1,21 @@
-<GlossaryTerm id="CDR0000817950"><TermName>opium</TermName><TermPronunciation>(OH-pee-um)</TermPronunciation><TermDefinition><DefinitionText>A highly addictive, natural substance that comes from the seed pods of the poppy plant, Papaver somniferum. Opium contains chemicals that affect the brain, causing pain relief and a feeling of euphoria. It is used to make medicines like morphine and codeine. Opium is dangerous when misused. High doses can slow breathing, cause unconsciousness, or lead to death.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>opio</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia natural muy adictiva que procede de las vainas de las semillas de la planta <Emphasis>Papaver somniferum</Emphasis>, conocida como adormidera o amapola real. El opio contiene sustancias químicas que afectan al encéfalo y producen alivio del dolor y sensación de euforia. Se usa para elaborar medicamentos como la morfina y la codeína. El opio es peligroso cuando se utiliza de manera inadecuada. En dosis elevadas puede hacer que la respiración sea más lenta, causar inconsciencia o provocar la muerte.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-04-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817950">
+  <TermName>opium</TermName>
+  <TermPronunciation>(OH-pee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A highly addictive, natural substance that comes from the seed pods of the poppy plant, Papaver somniferum. Opium contains chemicals that affect the brain, causing pain relief and a feeling of euphoria. It is used to make medicines like morphine and codeine. Opium is dangerous when misused. High doses can slow breathing, cause unconsciousness, or lead to death.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>opio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Sustancia natural muy adictiva que procede de las vainas de las semillas de la planta 
+      <Emphasis>Papaver somniferum</Emphasis>
+      , conocida como adormidera o amapola real. El opio contiene sustancias químicas que afectan al encéfalo y producen alivio del dolor y sensación de euforia. Se usa para elaborar medicamentos como la morfina y la codeína. El opio es peligroso cuando se utiliza de manera inadecuada. En dosis elevadas puede hacer que la respiración sea más lenta, causar inconsciencia o provocar la muerte.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-04-23</DateFirstPublished>
+</GlossaryTerm>

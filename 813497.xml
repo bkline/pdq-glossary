@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000813497"><TermName>Hepzato</TermName><TermPronunciation>(hep-ZA-toh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient melphalan hydrochloride and is used to treat adults with uveal melanoma (a type of eye cancer) that has spread to less than half of the liver and cannot be removed by surgery. Hepzato is given as an infusion directly into an artery that leads to the liver. It may kill cancer cells by damaging their DNA and stopping them from dividing. Hepzato is a type of alkylating agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814907" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hepzato&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814908" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hepzato&quot;" language="es" id="_4"/><SpanishTermName>Hepzato</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo clorhidrato de melfalán. Se usa para el tratamiento de adultos con melanoma uveal (tipo de cáncer de ojo) que se diseminó a menos de la mitad del hígado, y que no se puede extirpar con cirugía. Hepzato se administra mediante infusión directamente en una arteria que transporta sangre al hígado. Es posible que destruya células cancerosas al dañar su ADN e impedir que se multipliquen. Es un tipo de alquilante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-08-22</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000779087" url="/about-cancer/treatment/drugs/melphalan-hydrochloride">Melphalan Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813497">
+  <TermName>Hepzato</TermName>
+  <TermPronunciation>(hep-ZA-toh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient melphalan hydrochloride and is used to treat adults with uveal melanoma (a type of eye cancer) that has spread to less than half of the liver and cannot be removed by surgery. Hepzato is given as an infusion directly into an artery that leads to the liver. It may kill cancer cells by damaging their DNA and stopping them from dividing. Hepzato is a type of alkylating agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814907" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hepzato&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814908" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hepzato&quot;" language="es" id="_4"/>
+  <SpanishTermName>Hepzato</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo clorhidrato de melfalán. Se usa para el tratamiento de adultos con melanoma uveal (tipo de cáncer de ojo) que se diseminó a menos de la mitad del hígado, y que no se puede extirpar con cirugía. Hepzato se administra mediante infusión directamente en una arteria que transporta sangre al hígado. Es posible que destruya células cancerosas al dañar su ADN e impedir que se multipliquen. Es un tipo de alquilante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-08-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000779087" url="/about-cancer/treatment/drugs/melphalan-hydrochloride">Melphalan Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

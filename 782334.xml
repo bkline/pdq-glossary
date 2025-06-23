@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000782334"><TermName>R-ICE regimen</TermName><TermPronunciation>(… REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat certain types of non-Hodgkin lymphoma. It includes the drugs rituximab, ifosfamide, carboplatin, and etoposide phosphate. Also called R-ICE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;R-ICE regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen R-ICE&quot;" language="es" id="_4"/><SpanishTermName>régimen R-ICE</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de ciertos tipos de linfoma  no Hodgkin. Incluye los medicamentos rituximab, ifosfamida, carboplatino y fosfato de etopósido. También se llama R-ICE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-07-27</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000782327" url="/about-cancer/treatment/drugs/R-ICE">R-ICE</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782334">
+  <TermName>R-ICE regimen</TermName>
+  <TermPronunciation>(… REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat certain types of non-Hodgkin lymphoma. It includes the drugs rituximab, ifosfamide, carboplatin, and etoposide phosphate. Also called R-ICE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;R-ICE regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen R-ICE&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen R-ICE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de ciertos tipos de linfoma  no Hodgkin. Incluye los medicamentos rituximab, ifosfamida, carboplatino y fosfato de etopósido. También se llama R-ICE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-07-27</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000782327" url="/about-cancer/treatment/drugs/R-ICE">R-ICE</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000804976"><TermName>breast biopsy clip</TermName><TermPronunciation>(brest BY-op-see klip)</TermPronunciation><TermDefinition><DefinitionText>A tiny, metal object that is placed into the breast during a biopsy to mark the area where the biopsy was done. The clip or marker is left inside the breast so it can be seen on a mammogram or other imaging test performed in the future. The clip does not cause any pain or harm the body. Also called breast biopsy marker.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806847" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;breast biopsy clip&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clip para biopsia de mama&quot;" language="es" id="_4"/><SpanishTermName>clip para biopsia de mama</SpanishTermName><SpanishTermDefinition><DefinitionText>Objeto de metal muy pequeño que se coloca dentro de la mama cuando se obtiene una biopsia, con el fin de marcar el área de donde se sacó la muestra. El marcador se deja en la mama para que pueda observarse, en el futuro, con una mamografía u otro tipo de prueba con imágenes. No produce dolor ni daña el cuerpo. También se llama marcador de biopsia de mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-08-09</DateFirstPublished><DateLastModified>2021-11-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804976">
+  <TermName>breast biopsy clip</TermName>
+  <TermPronunciation>(brest BY-op-see klip)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A tiny, metal object that is placed into the breast during a biopsy to mark the area where the biopsy was done. The clip or marker is left inside the breast so it can be seen on a mammogram or other imaging test performed in the future. The clip does not cause any pain or harm the body. Also called breast biopsy marker.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806847" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;breast biopsy clip&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clip para biopsia de mama&quot;" language="es" id="_4"/>
+  <SpanishTermName>clip para biopsia de mama</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Objeto de metal muy pequeño que se coloca dentro de la mama cuando se obtiene una biopsia, con el fin de marcar el área de donde se sacó la muestra. El marcador se deja en la mama para que pueda observarse, en el futuro, con una mamografía u otro tipo de prueba con imágenes. No produce dolor ni daña el cuerpo. También se llama marcador de biopsia de mama.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-08-09</DateFirstPublished>
+  <DateLastModified>2021-11-04</DateLastModified>
+</GlossaryTerm>

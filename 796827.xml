@@ -1,10 +1,23 @@
-<GlossaryTerm id="CDR0000796827"><TermName>triple-positive breast cancer</TermName><TermPronunciation>(TRIH-pul-PAH-zih-tiv brest KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A type of
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796827">
+  <TermName>triple-positive breast cancer</TermName>
+  <TermPronunciation>(TRIH-pul-PAH-zih-tiv brest KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of
           breast cancer in which the tumor cells have estrogen
           receptors, progesterone receptors, and a larger than normal
           number of HER2 receptors on their surface. Knowing if
           breast cancer is triple positive may help plan the best
           treatment, which may include hormone therapy and drugs that
-          target the HER2 receptor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797985" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;triple-positive breast cancer&quot;" language="en" id="_2"/><MediaLink ref="CDR0000798905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de mama triple positivo&quot;" language="es" id="_6"/><SpanishTermName>cáncer de mama triple positivo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer de mama cuyas células
+          target the HER2 receptor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797985" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;triple-positive breast cancer&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000798905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de mama triple positivo&quot;" language="es" id="_6"/>
+  <SpanishTermName>cáncer de mama triple positivo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer de mama cuyas células
 tumorales tienen
 en su superficie
 receptores de estrógeno, receptores de
@@ -16,4 +29,10 @@ planificar el
 tratamiento más apropiado, que
 a veces incluye
 terapia con hormonas y medicamentos que se dirigen al
-receptor HER2.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished><DateLastModified>2020-09-23</DateLastModified></GlossaryTerm>
+receptor HER2.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+  <DateLastModified>2020-09-23</DateLastModified>
+</GlossaryTerm>

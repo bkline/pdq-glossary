@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000562554"><TermName>marginal zone B-cell lymphoma</TermName><TermPronunciation>(MAR-jih-nul zone B-sel lim-FOH-muh)</TermPronunciation><TermDefinition><DefinitionText>An indolent (slow-growing) type of B-cell non-Hodgkin lymphoma that begins forming in certain areas (the marginal zones) of lymph tissue. There are three types based on whether it forms in the spleen, lymph nodes, or other lymphoid tissue that contains a lot of B cells (a type of white blood cell). Also called marginal zone lymphoma and MZL.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721026" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;marginal zone B-cell lymphoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721025" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma de células B de zona marginal&quot;" language="es" id="_4"/><SpanishTermName>linfoma de células B de zona marginal</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de linfoma no Hodgkin de células B  de crecimiento lento (indolente) que se origina en ciertas áreas (zonas marginales) del tejido linfático. Hay tres tipos, según se forme en el bazo, los ganglios linfáticos u otro tejido linfoide con muchas células B (un tipo de glóbulo blanco). También se llama linfoma B de zona marginal, linfoma de zona marginal y LZM.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-08-20</DateFirstPublished><DateLastModified>2007-09-21</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000562554">
+  <TermName>marginal zone B-cell lymphoma</TermName>
+  <TermPronunciation>(MAR-jih-nul zone B-sel lim-FOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An indolent (slow-growing) type of B-cell non-Hodgkin lymphoma that begins forming in certain areas (the marginal zones) of lymph tissue. There are three types based on whether it forms in the spleen, lymph nodes, or other lymphoid tissue that contains a lot of B cells (a type of white blood cell). Also called marginal zone lymphoma and MZL.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721026" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;marginal zone B-cell lymphoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721025" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma de células B de zona marginal&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfoma de células B de zona marginal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de linfoma no Hodgkin de células B  de crecimiento lento (indolente) que se origina en ciertas áreas (zonas marginales) del tejido linfático. Hay tres tipos, según se forme en el bazo, los ganglios linfáticos u otro tejido linfoide con muchas células B (un tipo de glóbulo blanco). También se llama linfoma B de zona marginal, linfoma de zona marginal y LZM.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-08-20</DateFirstPublished>
+  <DateLastModified>2007-09-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

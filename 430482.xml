@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000430482"><TermName>durable power of attorney</TermName><TermPronunciation>(DER-uh-bul POW-er ... uh-TER-nee)</TermPronunciation><TermDefinition><DefinitionText>A legal document that gives one person (such as a spouse, relative, friend, or lawyer) the authority to make medical, legal, or financial decisions for another person. A durable power of attorney may go into effect right away or when the person who grants it is no longer able to make decisions for themself, depending on how it is written. In most cases, a durable power of attorney remains in effect until the person who grants it dies or cancels it. It does not need to be renewed over time. Also called DPA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713608" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;durable power of attorney&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713607" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poder notarial permanente&quot;" language="es" id="_4"/><SpanishTermName>poder notarial permanente</SpanishTermName><SpanishTermDefinition><DefinitionText>Documento legal que le otorga a una persona (por ejemplo, un cónyuge, pariente, amigo o abogado) la autoridad para tomar decisiones médicas, legales o financieras en nombre de otra persona. Puede entrar en efecto de inmediato o cuando la persona que lo otorga pierde la capacidad de tomar decisiones por sí misma, según la redacción del documento. En la mayoría de los casos, un poder notarial permanente se mantiene en vigencia hasta que la persona que lo otorgó muere o lo cancela. No es necesario renovarlo con el paso del tiempo. También se llama PNP y poder notarial duradero.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished><DateLastModified>2024-06-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000430482">
+  <TermName>durable power of attorney</TermName>
+  <TermPronunciation>(DER-uh-bul POW-er ... uh-TER-nee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A legal document that gives one person (such as a spouse, relative, friend, or lawyer) the authority to make medical, legal, or financial decisions for another person. A durable power of attorney may go into effect right away or when the person who grants it is no longer able to make decisions for themself, depending on how it is written. In most cases, a durable power of attorney remains in effect until the person who grants it dies or cancels it. It does not need to be renewed over time. Also called DPA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713608" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;durable power of attorney&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713607" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poder notarial permanente&quot;" language="es" id="_4"/>
+  <SpanishTermName>poder notarial permanente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Documento legal que le otorga a una persona (por ejemplo, un cónyuge, pariente, amigo o abogado) la autoridad para tomar decisiones médicas, legales o financieras en nombre de otra persona. Puede entrar en efecto de inmediato o cuando la persona que lo otorga pierde la capacidad de tomar decisiones por sí misma, según la redacción del documento. En la mayoría de los casos, un poder notarial permanente se mantiene en vigencia hasta que la persona que lo otorgó muere o lo cancela. No es necesario renovarlo con el paso del tiempo. También se llama PNP y poder notarial duradero.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+  <DateLastModified>2024-06-12</DateLastModified>
+</GlossaryTerm>

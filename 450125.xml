@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000450125"><TermName>survivor</TermName><TermPronunciation>(ser-VY-ver)</TermPronunciation><TermDefinition><DefinitionText>One who remains alive and continues to function during and after overcoming a serious hardship or life-threatening disease.  In cancer, a person is considered to be a survivor from the time of diagnosis until the end of life.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714976" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;survivor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sobreviviente&quot;" language="es" id="_4"/><SpanishTermName>sobreviviente</SpanishTermName><SpanishTermDefinition><DefinitionText>Persona que permanece viva y que mantiene su capacidad funcional mientras enfrenta dificultades graves, incluso una enfermedad potencialmente mortal, o después de superarlas. En el ámbito del cáncer, una persona se considera sobreviviente desde el momento del diagnóstico hasta la etapa final de la vida. También se llama superviviente.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-12-21</DateFirstPublished><DateLastModified>2008-11-20</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/coping/survivorship">Cancer Survivorship</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/sobrellevar/supervivencia">Supervivencia al cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000450125">
+  <TermName>survivor</TermName>
+  <TermPronunciation>(ser-VY-ver)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One who remains alive and continues to function during and after overcoming a serious hardship or life-threatening disease.  In cancer, a person is considered to be a survivor from the time of diagnosis until the end of life.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714976" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;survivor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sobreviviente&quot;" language="es" id="_4"/>
+  <SpanishTermName>sobreviviente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Persona que permanece viva y que mantiene su capacidad funcional mientras enfrenta dificultades graves, incluso una enfermedad potencialmente mortal, o después de superarlas. En el ámbito del cáncer, una persona se considera sobreviviente desde el momento del diagnóstico hasta la etapa final de la vida. También se llama superviviente.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-12-21</DateFirstPublished>
+  <DateLastModified>2008-11-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/coping/survivorship">Cancer Survivorship</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/sobrellevar/supervivencia">Supervivencia al cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

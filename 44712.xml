@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044712"><TermName>primary care provider</TermName><TermPronunciation>(PRY-mayr-ee kayr proh-VY-der)</TermPronunciation><TermDefinition><DefinitionText>A doctor or other licensed medical professional, such as a nurse practitioner or physician assistant, who manages a person’s health care over time. Primary care providers diagnose and treat a wide range of common medical conditions. They also provide preventive care, such as disease screenings and immunizations. A primary care provider  may also refer a person to a specialist or coordinate care given by a specialist. Also called PCP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705869" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary care provider&quot;" language="en" id="_7"/><MediaLink ref="CDR0000705870" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proveedor de atención primaria&quot;" language="es" id="_8"/><SpanishTermName>proveedor de atención primaria</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina o de otras áreas de la salud,  como un enfermero practicante o un asociado médico, autorizado para administrar atención médica  a una persona a lo largo del tiempo. Las personas que se dedican a la atención primaria diagnostican y tratan un grupo amplio de enfermedades comunes. Además, proporcionan atención preventiva, como la detección de enfermedades y la administración de vacunas. También se encargan de derivar a pacientes para valoración por consulta especializada o administrar la asistencia brindada por especialistas. También se llama PCP, personal de atención primaria y profesional de atención primaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-07-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044712">
+  <TermName>primary care provider</TermName>
+  <TermPronunciation>(PRY-mayr-ee kayr proh-VY-der)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor or other licensed medical professional, such as a nurse practitioner or physician assistant, who manages a person’s health care over time. Primary care providers diagnose and treat a wide range of common medical conditions. They also provide preventive care, such as disease screenings and immunizations. A primary care provider  may also refer a person to a specialist or coordinate care given by a specialist. Also called PCP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705869" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary care provider&quot;" language="en" id="_7"/>
+  <MediaLink ref="CDR0000705870" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proveedor de atención primaria&quot;" language="es" id="_8"/>
+  <SpanishTermName>proveedor de atención primaria</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina o de otras áreas de la salud,  como un enfermero practicante o un asociado médico, autorizado para administrar atención médica  a una persona a lo largo del tiempo. Las personas que se dedican a la atención primaria diagnostican y tratan un grupo amplio de enfermedades comunes. Además, proporcionan atención preventiva, como la detección de enfermedades y la administración de vacunas. También se encargan de derivar a pacientes para valoración por consulta especializada o administrar la asistencia brindada por especialistas. También se llama PCP, personal de atención primaria y profesional de atención primaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-07-07</DateLastModified>
+</GlossaryTerm>

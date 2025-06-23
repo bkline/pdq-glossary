@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000508665"><TermName>Indian saffron</TermName><TermPronunciation>(IN-dee-un SA-fron)</TermPronunciation><TermDefinition><DefinitionText>An East Indian plant that is a member of the ginger family and is used as a spice and food color. It is a major ingredient found in curry powder. The underground stem of the Indian saffron plant has been used for many years in traditional Asian medicine to treat certain conditions. The substance in Indian saffron that gives it a yellow color is called curcumin, which may have antioxidant and anti-inflammatory effects in the body. Indian saffron can be made into a capsule, tablet, extract, powder, or tea and taken by mouth as a dietary supplement. It can also be made into a paste to treat skin conditions. Indian saffron is being studied in the prevention and treatment of some types of cancer. Its scientific name is <ScientificName>Curcuma longa</ScientificName>. Also called jiang huang and turmeric.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Indian saffron&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718268" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;azafrán de la India&quot;" language="es" id="_4"/><SpanishTermName>azafrán de la India</SpanishTermName><SpanishTermDefinition><DefinitionText>Planta de la India Oriental que pertenece a la familia del jengibre, y que se usa como especia y colorante alimentario. Es un ingrediente principal del curry en polvo. El tallo subterráneo de la planta  del azafrán de la India se ha usado por muchos años en la medicina tradicional de Asia para el tratamiento de determinadas afecciones. La sustancia  del azafrán de la India que le da un color amarillo se llama curcumina, es posible que esta tenga efectos antioxidantes y antiinflamatorios en el cuerpo. La forma de presentación del azafrán de la India puede ser  en cápsula, tableta, extracto, polvo o té y se toma por boca como suplemento alimenticio. También se fabrica en forma de pasta para tratar afecciones de la piel. El azafrán de la India está en estudio para la prevención y tratamiento de algunos tipos de cáncer. El nombre científico es <ScientificName>Curcuma longa</ScientificName>. También se llama azafrán cimarrón, cúrcuma, guisador, jengibrillo, jiang huang, palillo cholón, palillo chuncho y yuquilla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-10</DateFirstPublished><DateLastModified>2023-07-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000805047" url="/about-cancer/treatment/cam/patient/curcumin-pdq">Curcumin (Curcuma, Turmeric) and Cancer</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000813461" url="/espanol/cancer/tratamiento/mca/paciente/curcuma-pdq">La cúrcuma y el cáncer</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000508665">
+  <TermName>Indian saffron</TermName>
+  <TermPronunciation>(IN-dee-un SA-fron)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      An East Indian plant that is a member of the ginger family and is used as a spice and food color. It is a major ingredient found in curry powder. The underground stem of the Indian saffron plant has been used for many years in traditional Asian medicine to treat certain conditions. The substance in Indian saffron that gives it a yellow color is called curcumin, which may have antioxidant and anti-inflammatory effects in the body. Indian saffron can be made into a capsule, tablet, extract, powder, or tea and taken by mouth as a dietary supplement. It can also be made into a paste to treat skin conditions. Indian saffron is being studied in the prevention and treatment of some types of cancer. Its scientific name is 
+      <ScientificName>Curcuma longa</ScientificName>
+      . Also called jiang huang and turmeric.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Indian saffron&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718268" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;azafrán de la India&quot;" language="es" id="_4"/>
+  <SpanishTermName>azafrán de la India</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Planta de la India Oriental que pertenece a la familia del jengibre, y que se usa como especia y colorante alimentario. Es un ingrediente principal del curry en polvo. El tallo subterráneo de la planta  del azafrán de la India se ha usado por muchos años en la medicina tradicional de Asia para el tratamiento de determinadas afecciones. La sustancia  del azafrán de la India que le da un color amarillo se llama curcumina, es posible que esta tenga efectos antioxidantes y antiinflamatorios en el cuerpo. La forma de presentación del azafrán de la India puede ser  en cápsula, tableta, extracto, polvo o té y se toma por boca como suplemento alimenticio. También se fabrica en forma de pasta para tratar afecciones de la piel. El azafrán de la India está en estudio para la prevención y tratamiento de algunos tipos de cáncer. El nombre científico es 
+      <ScientificName>Curcuma longa</ScientificName>
+      . También se llama azafrán cimarrón, cúrcuma, guisador, jengibrillo, jiang huang, palillo cholón, palillo chuncho y yuquilla.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-10</DateFirstPublished>
+  <DateLastModified>2023-07-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000805047" url="/about-cancer/treatment/cam/patient/curcumin-pdq">Curcumin (Curcuma, Turmeric) and Cancer</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000813461" url="/espanol/cancer/tratamiento/mca/paciente/curcuma-pdq">La cúrcuma y el cáncer</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

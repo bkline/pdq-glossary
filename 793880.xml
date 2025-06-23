@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000793880"><TermName>MVAC regimen</TermName><TermPronunciation>(… REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat advanced bladder cancer and urethral cancer. It includes the drugs methotrexate, vinblastine sulfate, doxorubicin hydrochloride (Adriamycin), and cisplatin. Also called MVAC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795179" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MVAC regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795180" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen MVAC&quot;" language="es" id="_4"/><SpanishTermName>régimen MVAC</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer de vejiga y uretra en estadio avanzado. Incluye los medicamentos metotrexato, sulfato de vinblastina, clorhidrato de doxorrubicina (Adriamycin) y cisplatino. También se llama MVAC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-07-02</DateFirstPublished><DateLastModified>2018-07-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000793877" url="/about-cancer/treatment/drugs/MVAC">MVAC</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793880">
+  <TermName>MVAC regimen</TermName>
+  <TermPronunciation>(… REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat advanced bladder cancer and urethral cancer. It includes the drugs methotrexate, vinblastine sulfate, doxorubicin hydrochloride (Adriamycin), and cisplatin. Also called MVAC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795179" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MVAC regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795180" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen MVAC&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen MVAC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer de vejiga y uretra en estadio avanzado. Incluye los medicamentos metotrexato, sulfato de vinblastina, clorhidrato de doxorrubicina (Adriamycin) y cisplatino. También se llama MVAC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-07-02</DateFirstPublished>
+  <DateLastModified>2018-07-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000793877" url="/about-cancer/treatment/drugs/MVAC">MVAC</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

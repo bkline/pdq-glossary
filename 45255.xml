@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045255"><TermName>eflornithine hydrochloride</TermName><TermPronunciation>(ee-FLOR-nih-theen HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A drug used to reduce the risk of relapse in adults and children with high-risk neuroblastoma that has gotten better after treatment with certain prior therapies. It is also being studied in the treatment of other conditions and types of cancer. Eflornithine hydrochloride blocks an enzyme called ornithine decarboxylase, which may help keep cancer cells from growing. It is a type of enzyme inhibitor. Also called Iwilfin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730841" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;eflornithine hydrochloride&quot;" language="en" id="_6"/><MediaLink ref="CDR0000730840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de eflornitina&quot;" language="es" id="_7"/><SpanishTermName>clorhidrato de eflornitina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para reducir el riesgo de recidiva en adultos y niños con neuroblastoma de riesgo alto que mejoró después de recibir ciertas terapias. También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. El clorhidrato de eflornitina bloquea la enzima ornitina descarboxilasa, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor enzimático. También se llama hidrocloruro de eflornitina e Iwilfin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-12-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000814620" url="/about-cancer/treatment/drugs/eflornithine-hydrochloride">Eflornithine Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045255">
+  <TermName>eflornithine hydrochloride</TermName>
+  <TermPronunciation>(ee-FLOR-nih-theen HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to reduce the risk of relapse in adults and children with high-risk neuroblastoma that has gotten better after treatment with certain prior therapies. It is also being studied in the treatment of other conditions and types of cancer. Eflornithine hydrochloride blocks an enzyme called ornithine decarboxylase, which may help keep cancer cells from growing. It is a type of enzyme inhibitor. Also called Iwilfin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730841" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;eflornithine hydrochloride&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000730840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de eflornitina&quot;" language="es" id="_7"/>
+  <SpanishTermName>clorhidrato de eflornitina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para reducir el riesgo de recidiva en adultos y niños con neuroblastoma de riesgo alto que mejoró después de recibir ciertas terapias. También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. El clorhidrato de eflornitina bloquea la enzima ornitina descarboxilasa, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor enzimático. También se llama hidrocloruro de eflornitina e Iwilfin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-12-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000814620" url="/about-cancer/treatment/drugs/eflornithine-hydrochloride">Eflornithine Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000045345"><TermName>primary central nervous system lymphoma</TermName><TermPronunciation>(PRY-mayr-ee SEN-trul NER-vus SIS-tem lim-FOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in the lymph tissue of the brain, spinal cord, meninges (outer covering of the brain), or eye (called ocular lymphoma). Also called PCNSL and primary CNS lymphoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary central nervous system lymphoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705350" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma primario del sistema nervioso central&quot;" language="es" id="_4"/><SpanishTermName>linfoma primario del sistema nervioso central</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en el tejido linfático del encéfalo, la médula espinal, las meninges (cubierta exterior del encéfalo) o el ojo (linfoma ocular). También se llama linfoma primario del SNC y LPSNC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-04-10</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258030" url="/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq">Primary CNS Lymphoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000426390" url="/espanol/tipos/linfoma/paciente/tratamiento-linfoma-primario-snc-pdq">Tratamiento del linfoma primario del sistema nervioso central</RelatedSummaryRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045345">
+  <TermName>primary central nervous system lymphoma</TermName>
+  <TermPronunciation>(PRY-mayr-ee SEN-trul NER-vus SIS-tem lim-FOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in the lymph tissue of the brain, spinal cord, meninges (outer covering of the brain), or eye (called ocular lymphoma). Also called PCNSL and primary CNS lymphoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary central nervous system lymphoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705350" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma primario del sistema nervioso central&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfoma primario del sistema nervioso central</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en el tejido linfático del encéfalo, la médula espinal, las meninges (cubierta exterior del encéfalo) o el ojo (linfoma ocular). También se llama linfoma primario del SNC y LPSNC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-04-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258030" url="/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq">Primary CNS Lymphoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000426390" url="/espanol/tipos/linfoma/paciente/tratamiento-linfoma-primario-snc-pdq">Tratamiento del linfoma primario del sistema nervioso central</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

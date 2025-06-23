@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000802362"><TermName>upregulation</TermName><TermPronunciation>(UP-reh-gyoo-LAY-shun)</TermPronunciation><TermDefinition><DefinitionText>In biology, the process by which a cell increases its response to a substance or signal from outside the cell to carry out a specific function. For example, a cell may increase the number or activity of protein receptors or other molecules on its surface to make it more sensitive to a hormone or drug.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;upregulation&quot;" language="en" id="_5"/><MediaLink ref="CDR0000804465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aumento regulado&quot;" language="es" id="_6"/><SpanishTermName>aumento regulado</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la biología, proceso por el cual una célula aumenta su respuesta a una sustancia o señal que viene de fuera de la célula y que le indica realizar una función específica. Por ejemplo, es posible que una célula aumente la cantidad o la actividad de los receptores de proteínas u otras moléculas en su superficie para hacerse más sensible a una hormona o un medicamento.   También se llama regulación al alza y regulación por incremento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-11-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802362">
+  <TermName>upregulation</TermName>
+  <TermPronunciation>(UP-reh-gyoo-LAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In biology, the process by which a cell increases its response to a substance or signal from outside the cell to carry out a specific function. For example, a cell may increase the number or activity of protein receptors or other molecules on its surface to make it more sensitive to a hormone or drug.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;upregulation&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000804465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aumento regulado&quot;" language="es" id="_6"/>
+  <SpanishTermName>aumento regulado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la biología, proceso por el cual una célula aumenta su respuesta a una sustancia o señal que viene de fuera de la célula y que le indica realizar una función específica. Por ejemplo, es posible que una célula aumente la cantidad o la actividad de los receptores de proteínas u otras moléculas en su superficie para hacerse más sensible a una hormona o un medicamento.   También se llama regulación al alza y regulación por incremento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-11-18</DateFirstPublished>
+</GlossaryTerm>

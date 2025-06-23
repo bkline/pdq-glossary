@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801543"><TermName>nasal vestibule</TermName><TermPronunciation>(NAY-zul VEH-stih-byool)</TermPronunciation><TermDefinition><DefinitionText>The area just inside the nostril (nose opening) that leads into the nasal cavity. The nasal vestibule is supported by the cartilage of the nose and is lined with tissue that contains short, coarse hairs. These hairs help filter dust and other particles to keep them from entering the lungs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804345" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasal vestibule&quot;" language="en" id="_5"/><MediaLink ref="CDR0000804346" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vestíbulo nasal&quot;" language="es" id="_6"/><SpanishTermName>vestíbulo nasal</SpanishTermName><SpanishTermDefinition><DefinitionText>Entrada a la cavidad nasal, al  interior de las narinas (orificios de la nariz). El cartílago de la nariz sostiene y da forma al vestíbulo nasal que está recubierto de tejido con pelos cortos y gruesos. Estos pelos filtran el polvo y otras partículas para evitar que entren a los pulmones. También se llama vestíbulo de la nariz y vestíbulo de las fosas nasales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801543">
+  <TermName>nasal vestibule</TermName>
+  <TermPronunciation>(NAY-zul VEH-stih-byool)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The area just inside the nostril (nose opening) that leads into the nasal cavity. The nasal vestibule is supported by the cartilage of the nose and is lined with tissue that contains short, coarse hairs. These hairs help filter dust and other particles to keep them from entering the lungs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804345" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasal vestibule&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000804346" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vestíbulo nasal&quot;" language="es" id="_6"/>
+  <SpanishTermName>vestíbulo nasal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Entrada a la cavidad nasal, al  interior de las narinas (orificios de la nariz). El cartílago de la nariz sostiene y da forma al vestíbulo nasal que está recubierto de tejido con pelos cortos y gruesos. Estos pelos filtran el polvo y otras partículas para evitar que entren a los pulmones. También se llama vestíbulo de la nariz y vestíbulo de las fosas nasales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-02</DateFirstPublished>
+</GlossaryTerm>

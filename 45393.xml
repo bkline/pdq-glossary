@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045393"><TermName>methotrexate sodium</TermName><TermPronunciation>(MEH-thoh-TREK-sayt SOH-dee-um)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat many types of cancer, certain types of arthritis, and severe psoriasis (a type of skin condition). It is also being studied in the treatment of other conditions and types of cancer. Methotrexate sodium stops cells from using folic acid to make DNA and may kill cancer cells. It may also lower the body’s immune response. Methotrexate sodium is a type of antimetabolite and a type of antifolate. Also called MTX, Trexall, and Xatmep.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;methotrexate sodium&quot;" language="en" id="_6"/><MediaLink ref="CDR0000705409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metotrexato sódico&quot;" language="es" id="_7"/><SpanishTermName>metotrexato sódico</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de muchos tipos de cáncer, ciertos tipos de artritis y la psoriasis grave (tipo de afección de la piel). También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. El metotrexato sódico impide que las células usen el ácido fólico para elaborar ADN y es posible que destruya células cancerosas. Además, quizás disminuya la respuesta inmunitaria del cuerpo. El metotrexato sódico es un tipo de antimetabolito y de antifolato. También se llama metotrexato de sodio, MTX, Trexall y Xatmep.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-12-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000586940" url="/about-cancer/treatment/drugs/methotrexate-sodium">Methotrexate Sodium (Cancer Treatment)</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045393">
+  <TermName>methotrexate sodium</TermName>
+  <TermPronunciation>(MEH-thoh-TREK-sayt SOH-dee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat many types of cancer, certain types of arthritis, and severe psoriasis (a type of skin condition). It is also being studied in the treatment of other conditions and types of cancer. Methotrexate sodium stops cells from using folic acid to make DNA and may kill cancer cells. It may also lower the body’s immune response. Methotrexate sodium is a type of antimetabolite and a type of antifolate. Also called MTX, Trexall, and Xatmep.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;methotrexate sodium&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000705409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metotrexato sódico&quot;" language="es" id="_7"/>
+  <SpanishTermName>metotrexato sódico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de muchos tipos de cáncer, ciertos tipos de artritis y la psoriasis grave (tipo de afección de la piel). También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. El metotrexato sódico impide que las células usen el ácido fólico para elaborar ADN y es posible que destruya células cancerosas. Además, quizás disminuya la respuesta inmunitaria del cuerpo. El metotrexato sódico es un tipo de antimetabolito y de antifolato. También se llama metotrexato de sodio, MTX, Trexall y Xatmep.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-12-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000586940" url="/about-cancer/treatment/drugs/methotrexate-sodium">Methotrexate Sodium (Cancer Treatment)</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000460128"><TermName>autosomal</TermName><TermPronunciation>(AW-toh-SOH-mul)</TermPronunciation><TermDefinition><DefinitionText>Having to do with any of the 22 numbered pairs of chromosomes found in most human cells. Autosomal chromosomes are numbered 1-22. The sex chromosomes (X and Y chromosomes) determine whether an individual is male or female and are not considered autosomal chromosomes.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>Having to do with the 22 pairs of numbered chromosomes found in most human cells. The chromosome pairs are numbered from 1 to 22 based on their size or the number of genes each pair contains. The sex chromosomes (the X and Y chromosomes) determine whether a person is male or female and are not considered autosomal chromosomes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736930" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;autosomal&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;autosómico&quot;" language="es" id="_4"/><SpanishTermName>autosómico</SpanishTermName><SpanishTermDefinition><DefinitionText>Relativo a cualquiera de los 22 pares de cromosomas de la mayoría de las células humanas, estos se numeran del 1 al 22. Los cromosomas sexuales (X y Y) responsables del sexo femenino o masculino no se clasifican como cromosomas autosómicos.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Término relacionado con los 22 pares de cromosomas numerados que se encuentran en la mayoría de las células de los seres humanos. Los pares de cromosomas se enumeran del 1 al 22 de acuerdo a su tamaño o al número de genes que contiene cada par. Los cromosomas sexuales (X e Y) determinan el sexo (masculino o femenino) de la persona y no forman parte del grupo de cromosomas autosómicos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=13">Autosome (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Autosoma">Autosoma (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460128">
+  <TermName>autosomal</TermName>
+  <TermPronunciation>(AW-toh-SOH-mul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Having to do with any of the 22 numbered pairs of chromosomes found in most human cells. Autosomal chromosomes are numbered 1-22. The sex chromosomes (X and Y chromosomes) determine whether an individual is male or female and are not considered autosomal chromosomes.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>Having to do with the 22 pairs of numbered chromosomes found in most human cells. The chromosome pairs are numbered from 1 to 22 based on their size or the number of genes each pair contains. The sex chromosomes (the X and Y chromosomes) determine whether a person is male or female and are not considered autosomal chromosomes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736930" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;autosomal&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;autosómico&quot;" language="es" id="_4"/>
+  <SpanishTermName>autosómico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Relativo a cualquiera de los 22 pares de cromosomas de la mayoría de las células humanas, estos se numeran del 1 al 22. Los cromosomas sexuales (X y Y) responsables del sexo femenino o masculino no se clasifican como cromosomas autosómicos.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Término relacionado con los 22 pares de cromosomas numerados que se encuentran en la mayoría de las células de los seres humanos. Los pares de cromosomas se enumeran del 1 al 22 de acuerdo a su tamaño o al número de genes que contiene cada par. Los cromosomas sexuales (X e Y) determinan el sexo (masculino o femenino) de la persona y no forman parte del grupo de cromosomas autosómicos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=13">Autosome (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Autosoma">Autosoma (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

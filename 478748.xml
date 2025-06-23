@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000478748"><TermName>power of attorney</TermName><TermPronunciation>(POW-er ... uh-TER-nee)</TermPronunciation><TermDefinition><DefinitionText>A  legal document that gives one person (such as a spouse, relative, friend, or lawyer) the authority to make legal, medical, or financial decisions for another person. A standard power of attorney may go into effect right away but becomes invalid when the person who grants it is no longer able to make decisions for themself, dies, or cancels it. It may also need to be renewed over time. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716648" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;power of attorney&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716649" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poder notarial&quot;" language="es" id="_4"/><SpanishTermName>poder notarial</SpanishTermName><SpanishTermDefinition><DefinitionText>Documento legal que provee a una persona (como un cónyuge, familiar, amigo o abogado) la autoridad de tomar decisiones legales, médicas o financieras por otra persona. Un poder notarial estándar puede entrar en efecto inmediatamente o cuando la persona que lo otorga pierde la capacidad de tomar decisiones por sí misma, muere o lo cancela. También es posible que sea necesario renovarlo con el tiempo. También se llama poder de representación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-11-13</DateFirstPublished><DateLastModified>2024-06-13</DateLastModified><RelatedInformation><RelatedGlossaryTermRef href="CDR0000430482" UseWith="en" audience="Patients">durable power of attorney</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000430482" UseWith="es" audience="Patients">poder notarial permanente</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000478748">
+  <TermName>power of attorney</TermName>
+  <TermPronunciation>(POW-er ... uh-TER-nee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A  legal document that gives one person (such as a spouse, relative, friend, or lawyer) the authority to make legal, medical, or financial decisions for another person. A standard power of attorney may go into effect right away but becomes invalid when the person who grants it is no longer able to make decisions for themself, dies, or cancels it. It may also need to be renewed over time. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716648" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;power of attorney&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716649" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poder notarial&quot;" language="es" id="_4"/>
+  <SpanishTermName>poder notarial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Documento legal que provee a una persona (como un cónyuge, familiar, amigo o abogado) la autoridad de tomar decisiones legales, médicas o financieras por otra persona. Un poder notarial estándar puede entrar en efecto inmediatamente o cuando la persona que lo otorga pierde la capacidad de tomar decisiones por sí misma, muere o lo cancela. También es posible que sea necesario renovarlo con el tiempo. También se llama poder de representación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-11-13</DateFirstPublished>
+  <DateLastModified>2024-06-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000430482" UseWith="en" audience="Patients">durable power of attorney</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000430482" UseWith="es" audience="Patients">poder notarial permanente</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

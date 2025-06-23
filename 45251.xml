@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045251"><TermName>antiandrogen therapy</TermName><TermPronunciation>(AN-tee-AN-droh-jen THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment with drugs to block the action of androgens (male hormones) in the body. Androgens, such as testosterone, bind to proteins called androgen receptors, which are found in prostate cancer cells and in cells of some other tissues. Antiandrogen therapy keeps androgens from binding to these receptors and may keep cancer cells from growing. It is used to treat prostate cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705205" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antiandrogen therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705204" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de antiandrógenos&quot;" language="es" id="_4"/><SpanishTermName>terapia de antiandrógenos</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento con medicamentos que bloquean la acción de los andrógenos (hormonas masculinas) en el cuerpo. Los andrógenos, como la testosterona, se unen a proteínas que se llaman receptores de andrógenos, que se encuentran en las células de cáncer de próstata y en las células de algunos otros tejidos. La terapia de antiandrógenos impide que los andrógenos se unan a estos receptores y evita el crecimiento de células cancerosas. Se utiliza para tratar el cáncer de próstata.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-08-15</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet">Hormone Therapy for Prostate Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-terapia-hormonal">Terapia hormonal para el cáncer de próstata</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045251">
+  <TermName>antiandrogen therapy</TermName>
+  <TermPronunciation>(AN-tee-AN-droh-jen THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment with drugs to block the action of androgens (male hormones) in the body. Androgens, such as testosterone, bind to proteins called androgen receptors, which are found in prostate cancer cells and in cells of some other tissues. Antiandrogen therapy keeps androgens from binding to these receptors and may keep cancer cells from growing. It is used to treat prostate cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705205" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antiandrogen therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705204" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de antiandrógenos&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia de antiandrógenos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento con medicamentos que bloquean la acción de los andrógenos (hormonas masculinas) en el cuerpo. Los andrógenos, como la testosterona, se unen a proteínas que se llaman receptores de andrógenos, que se encuentran en las células de cáncer de próstata y en las células de algunos otros tejidos. La terapia de antiandrógenos impide que los andrógenos se unan a estos receptores y evita el crecimiento de células cancerosas. Se utiliza para tratar el cáncer de próstata.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-08-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet">Hormone Therapy for Prostate Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-terapia-hormonal">Terapia hormonal para el cáncer de próstata</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045570"><TermName>surgery</TermName><TermPronunciation>(SER-juh-ree)</TermPronunciation><TermDefinition><DefinitionText>A procedure to remove or repair a part of the body or to find out whether disease is present.  Also called operation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705605" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surgery&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705606" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirugía&quot;" language="es" id="_4"/><SpanishTermName>cirugía</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para extirpar o reparar una parte del cuerpo, o para determinar si hay una enfermedad. La cirugía además es la rama de la medicina que se especializa en el diagnóstico y tratamiento de enfermedades o afecciones mediante operaciones. También se llama operación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-11-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045570">
+  <TermName>surgery</TermName>
+  <TermPronunciation>(SER-juh-ree)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure to remove or repair a part of the body or to find out whether disease is present.  Also called operation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705605" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surgery&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705606" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirugía&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirugía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para extirpar o reparar una parte del cuerpo, o para determinar si hay una enfermedad. La cirugía además es la rama de la medicina que se especializa en el diagnóstico y tratamiento de enfermedades o afecciones mediante operaciones. También se llama operación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-11-08</DateLastModified>
+</GlossaryTerm>

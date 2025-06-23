@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000799792"><TermName>MTS</TermName><TermDefinition><DefinitionText>A rare, inherited disorder that causes tumors to form in the oil glands in skin and in at least one internal organ. The skin tumors may be benign (not cancer) or malignant (cancer) and usually occur on the face, scalp, and eyelids. The internal tumors are malignant and usually form in the gastrointestinal tract (especially the colon and rectum) or genitourinary tract (endometrium and bladder). MTS is caused by mutations (changes) in the MLH1, MSH2, or MSH6 gene. MTS is a type of Lynch syndrome. Also called Muir-Torre syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>SMT</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro por el que se producen tumores en las glándulas sebáceas (que producen sebo) de la piel y en por lo menos un órgano del interior del cuerpo. Los tumores de piel pueden ser benignos (no cancerosos) o malignos (cancerosos) y a menudo surgen en la cara, el cuero cabelludo y los párpados. Los tumores internos son malignos  y a menudo surgen en el tubo gastrointestinal (en especial, el colon y el recto) o en el aparato  genitourinario (endometrio y vejiga). La causa del SMT son mutaciones (cambios) en los genes <GeneName>MLH1</GeneName>, <GeneName>MSH2</GeneName> o <GeneName>MSH6</GeneName>. El SMT es un tipo de síndrome de Lynch. También se llama síndrome de Muir-Torre.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-02-12</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6821/muir-torre-syndrome">Muir-Torre syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799792">
+  <TermName>MTS</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder that causes tumors to form in the oil glands in skin and in at least one internal organ. The skin tumors may be benign (not cancer) or malignant (cancer) and usually occur on the face, scalp, and eyelids. The internal tumors are malignant and usually form in the gastrointestinal tract (especially the colon and rectum) or genitourinary tract (endometrium and bladder). MTS is caused by mutations (changes) in the MLH1, MSH2, or MSH6 gene. MTS is a type of Lynch syndrome. Also called Muir-Torre syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>SMT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario raro por el que se producen tumores en las glándulas sebáceas (que producen sebo) de la piel y en por lo menos un órgano del interior del cuerpo. Los tumores de piel pueden ser benignos (no cancerosos) o malignos (cancerosos) y a menudo surgen en la cara, el cuero cabelludo y los párpados. Los tumores internos son malignos  y a menudo surgen en el tubo gastrointestinal (en especial, el colon y el recto) o en el aparato  genitourinario (endometrio y vejiga). La causa del SMT son mutaciones (cambios) en los genes 
+      <GeneName>MLH1</GeneName>
+      , 
+      <GeneName>MSH2</GeneName>
+       o 
+      <GeneName>MSH6</GeneName>
+      . El SMT es un tipo de síndrome de Lynch. También se llama síndrome de Muir-Torre.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-02-12</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6821/muir-torre-syndrome">Muir-Torre syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

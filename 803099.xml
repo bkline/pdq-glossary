@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000803099"><TermName>LAMB3 gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes one of the three subunits of a protein involved in cell growth, cell movement, and cell attachment. This protein helps protect the skin from damage and may be involved in wound healing and in the formation of tooth enamel and the cornea (the clear outer covering of the eye). Mutations (changes) in the  <GeneName>LAMB3</GeneName> gene have been found in an inherited condition called junctional epidermolysis bullosa, which causes the skin to tear and blister easily. People with this condition have an increased risk of developing skin cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805231" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;LAMB3 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen LAMB3&quot;" language="es" id="_4"/><SpanishTermName>gen LAMB3</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una de las tres subunidades de una proteína que participa en el desarrollo, el movimiento y la unión de  las células. Esta proteína ayuda a proteger la piel  de daños y quizás participe en la cicatrización de  las heridas, así como en la formación del enamel en los dientes y de la córnea (capa transparente exterior del ojo). Se han observado mutaciones (cambios) del gen <GeneName>LAMB3</GeneName> en una afección hereditaria llamada epidermólisis ampollosa de la unión, por la que la piel se desgarra  y se forman ampollas con facilidad. Las personas con esta afección tienen un aumento del riesgo de presentar cáncer de piel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/lamb3/">LAMB3 gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803099">
+  <TermName>LAMB3 gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes one of the three subunits of a protein involved in cell growth, cell movement, and cell attachment. This protein helps protect the skin from damage and may be involved in wound healing and in the formation of tooth enamel and the cornea (the clear outer covering of the eye). Mutations (changes) in the  
+      <GeneName>LAMB3</GeneName>
+       gene have been found in an inherited condition called junctional epidermolysis bullosa, which causes the skin to tear and blister easily. People with this condition have an increased risk of developing skin cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805231" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;LAMB3 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen LAMB3&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen LAMB3</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una de las tres subunidades de una proteína que participa en el desarrollo, el movimiento y la unión de  las células. Esta proteína ayuda a proteger la piel  de daños y quizás participe en la cicatrización de  las heridas, así como en la formación del enamel en los dientes y de la córnea (capa transparente exterior del ojo). Se han observado mutaciones (cambios) del gen 
+      <GeneName>LAMB3</GeneName>
+       en una afección hereditaria llamada epidermólisis ampollosa de la unión, por la que la piel se desgarra  y se forman ampollas con facilidad. Las personas con esta afección tienen un aumento del riesgo de presentar cáncer de piel.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/lamb3/">LAMB3 gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

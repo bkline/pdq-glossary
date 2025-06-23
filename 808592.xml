@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000808592"><TermName>MEK gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A member of a group of genes that make proteins that send chemical signals from outside the cell to the cell's nucleus to control many important cell functions, including cell growth, maturation, movement, and survival. Mutations (changes) in <GeneName>MEK</GeneName> genes can cause these proteins to be too active or found in higher-than-normal amounts on cancer cells. This may cause cancer cells to grow and spread. Drugs that block the mutant proteins made by <GeneName>MEK</GeneName> genes are used to treat many types of cancer. Also called MAP2K gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000810333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK gene &quot;" language="en" id="_3"/><SpanishTermName>gen MEK</SpanishTermName><SpanishTermDefinition><DefinitionText>Miembro de un grupo de genes que elaboran proteínas que envían señales químicas desde el exterior de la célula al núcleo de la misma para controlar muchas funciones celulares importantes, como la multiplicación, la maduración, el movimiento y la supervivencia de las células. Las mutaciones (cambios) en los genes  MEK a veces hacen que estas proteínas sean demasiado activas o se encuentren en cantidades superiores a las normales en las células cancerosas. Es posible que esto haga que las células cancerosas se multipliquen y se diseminen. Los medicamentos que bloquean las proteínas mutadas producidas por los genes  MEK se utilizan para tratar muchos tipos de cáncer. También se llama gen MAP2K.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-05-31</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808592">
+  <TermName>MEK gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A member of a group of genes that make proteins that send chemical signals from outside the cell to the cell's nucleus to control many important cell functions, including cell growth, maturation, movement, and survival. Mutations (changes) in 
+      <GeneName>MEK</GeneName>
+       genes can cause these proteins to be too active or found in higher-than-normal amounts on cancer cells. This may cause cancer cells to grow and spread. Drugs that block the mutant proteins made by 
+      <GeneName>MEK</GeneName>
+       genes are used to treat many types of cancer. Also called MAP2K gene.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000810333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK gene &quot;" language="en" id="_3"/>
+  <SpanishTermName>gen MEK</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Miembro de un grupo de genes que elaboran proteínas que envían señales químicas desde el exterior de la célula al núcleo de la misma para controlar muchas funciones celulares importantes, como la multiplicación, la maduración, el movimiento y la supervivencia de las células. Las mutaciones (cambios) en los genes  MEK a veces hacen que estas proteínas sean demasiado activas o se encuentren en cantidades superiores a las normales en las células cancerosas. Es posible que esto haga que las células cancerosas se multipliquen y se diseminen. Los medicamentos que bloquean las proteínas mutadas producidas por los genes  MEK se utilizan para tratar muchos tipos de cáncer. También se llama gen MAP2K.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-05-31</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000536514"><TermName>FDR</TermName><TermDefinition><DefinitionText>A way of describing how family members are related to each other when there are no other family members in the blood line between them. Examples of an FDR are a parent, sibling, or child. Also called first-degree relative.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A parent, sibling, or child of an individual. Also called first-degree relative.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><SpanishTermName>FPG</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma de describir el vínculo familiar entre dos personas cuando en la línea sanguínea no los separa ninguna persona. Algunos ejemplos de FPG son los padres, hermanos o hijos de ambos sexos de una persona. También se llama familiar de primer grado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Tipo de pariente entre los que se incluyen los progenitores, hermanos o hijos de ambos sexos de una persona. También se llama familiar de primer grado.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-02-16</DateFirstPublished><DateLastModified>2023-03-06</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/First-Degree-Relative">First Degree Relative (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Pariente-de-primer-grado">Pariente de primer grado (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000536514">
+  <TermName>FDR</TermName>
+  <TermDefinition>
+    <DefinitionText>A way of describing how family members are related to each other when there are no other family members in the blood line between them. Examples of an FDR are a parent, sibling, or child. Also called first-degree relative.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A parent, sibling, or child of an individual. Also called first-degree relative.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>FPG</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de describir el vínculo familiar entre dos personas cuando en la línea sanguínea no los separa ninguna persona. Algunos ejemplos de FPG son los padres, hermanos o hijos de ambos sexos de una persona. También se llama familiar de primer grado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de pariente entre los que se incluyen los progenitores, hermanos o hijos de ambos sexos de una persona. También se llama familiar de primer grado.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-02-16</DateFirstPublished>
+  <DateLastModified>2023-03-06</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/First-Degree-Relative">First Degree Relative (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Pariente-de-primer-grado">Pariente de primer grado (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

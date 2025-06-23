@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000783041"><TermName>unclassified sarcoma</TermName><TermPronunciation>(un-KLA-sih-fide sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A group of rare cancers that do not look like other types of sarcomas under a microscope and may be hard to diagnose. They usually form in the muscles that are attached to bones and that help the body move. Unclassified sarcomas tend to grow quickly and spread to other parts of the body. Some types of  unclassified sarcomas may form in a part of the body where a patient had radiation therapy in the past. An unclassified sarcoma is a type of soft tissue sarcoma. Also called undifferentiated sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785401" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;unclassified sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785400" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma sin otra indicación&quot;" language="es" id="_4"/><SpanishTermName>sarcoma sin otra indicación</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de cánceres poco frecuentes que tienen un aspecto diferente al de otros tipos de sarcomas cuando se observan al microscopio  y cuyo diagnóstico puede ser difícil. En general, se forman en los músculos que están unidos a los huesos y que ayudan a mover el cuerpo.  Los sarcomas sin otra indicación suelen crecer rápido y diseminarse a otras partes del cuerpo. Algunos tipos de  sarcomas sin otra indicación se forman en una parte del cuerpo que recibió radioterapia en el pasado. Un sarcoma sin otra indicación es un tipo de sarcoma de tejido blando. También se llama sarcoma indiferenciado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783041">
+  <TermName>unclassified sarcoma</TermName>
+  <TermPronunciation>(un-KLA-sih-fide sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of rare cancers that do not look like other types of sarcomas under a microscope and may be hard to diagnose. They usually form in the muscles that are attached to bones and that help the body move. Unclassified sarcomas tend to grow quickly and spread to other parts of the body. Some types of  unclassified sarcomas may form in a part of the body where a patient had radiation therapy in the past. An unclassified sarcoma is a type of soft tissue sarcoma. Also called undifferentiated sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785401" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;unclassified sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785400" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma sin otra indicación&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma sin otra indicación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de cánceres poco frecuentes que tienen un aspecto diferente al de otros tipos de sarcomas cuando se observan al microscopio  y cuyo diagnóstico puede ser difícil. En general, se forman en los músculos que están unidos a los huesos y que ayudan a mover el cuerpo.  Los sarcomas sin otra indicación suelen crecer rápido y diseminarse a otras partes del cuerpo. Algunos tipos de  sarcomas sin otra indicación se forman en una parte del cuerpo que recibió radioterapia en el pasado. Un sarcoma sin otra indicación es un tipo de sarcoma de tejido blando. También se llama sarcoma indiferenciado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-14</DateFirstPublished>
+</GlossaryTerm>

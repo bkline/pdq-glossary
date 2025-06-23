@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045959"><TermName>diagnostic procedure</TermName><TermPronunciation>(DY-ug-NAH-stik proh-SEE-jer)</TermPronunciation><TermDefinition><DefinitionText>A test used to help figure out what disease or condition a person has based on their signs and symptoms. Diagnostic procedures may also be used to help plan treatment, find out how well treatment is working, and make a prognosis. There are many different types of diagnostic procedures. Examples include laboratory tests (such as blood and urine tests), imaging tests (such as mammography and CT scan), endoscopy (such as colonoscopy and bronchoscopy), and biopsy. Also called diagnostic test.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707508" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnostic procedure&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707507" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;procedimiento diagnóstico&quot;" language="es" id="_4"/><SpanishTermName>procedimiento diagnóstico</SpanishTermName><SpanishTermDefinition><DefinitionText>Prueba que se usa para ayudar a diagnosticar una enfermedad o afección según los signos y síntomas que presenta una persona. Los procedimientos diagnósticos también se usan para diseñar un tratamiento, determinar la eficacia de un tratamiento y hacer un pronóstico. Hay muchos tipos de procedimientos diagnósticos. Algunos ejemplos son las pruebas de laboratorio (como los análisis de sangre y orina), las pruebas con imágenes (como la mamografía y la tomografía computarizada), la endoscopia (como la colonoscopia y la broncoscopia) y la biopsia. También se llama prueba diagnóstica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-12-28</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045959">
+  <TermName>diagnostic procedure</TermName>
+  <TermPronunciation>(DY-ug-NAH-stik proh-SEE-jer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A test used to help figure out what disease or condition a person has based on their signs and symptoms. Diagnostic procedures may also be used to help plan treatment, find out how well treatment is working, and make a prognosis. There are many different types of diagnostic procedures. Examples include laboratory tests (such as blood and urine tests), imaging tests (such as mammography and CT scan), endoscopy (such as colonoscopy and bronchoscopy), and biopsy. Also called diagnostic test.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707508" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnostic procedure&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707507" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;procedimiento diagnóstico&quot;" language="es" id="_4"/>
+  <SpanishTermName>procedimiento diagnóstico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Prueba que se usa para ayudar a diagnosticar una enfermedad o afección según los signos y síntomas que presenta una persona. Los procedimientos diagnósticos también se usan para diseñar un tratamiento, determinar la eficacia de un tratamiento y hacer un pronóstico. Hay muchos tipos de procedimientos diagnósticos. Algunos ejemplos son las pruebas de laboratorio (como los análisis de sangre y orina), las pruebas con imágenes (como la mamografía y la tomografía computarizada), la endoscopia (como la colonoscopia y la broncoscopia) y la biopsia. También se llama prueba diagnóstica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-12-28</DateLastModified>
+</GlossaryTerm>

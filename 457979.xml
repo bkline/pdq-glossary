@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000457979"><TermName>Sheridan’s Formula</TermName><TermPronunciation>(SHAYR-ih-dunz FOR-myoo-luh)</TermPronunciation><TermDefinition><DefinitionText>A liquid mixture that has been promoted as a treatment for cancer and other diseases. None of the ingredients thought to be in Sheridan’s Formula have been shown to be effective in preventing or treating any type of cancer. Since 1989, it has been illegal in the United States to make, sell, or give Sheridan’s Formula as a treatment for any disease. Also called 126–F, Cancell, Cantron, Jim’s Juice, JS–101, JS–114, and Protocel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733109" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Sheridan’s Formula&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733108" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fórmula de Sheridan&quot;" language="es" id="_4"/><SpanishTermName>fórmula de Sheridan</SpanishTermName><SpanishTermDefinition><DefinitionText>Mezcla líquida que se promocionó como tratamiento para el cáncer y otras enfermedades. Ninguno de los ingredientes que se cree que contiene la fórmula de Sheridan ha demostrado ser eficaz en la prevención y el tratamiento de ningún tipo de cáncer. Desde 1989 en los Estados Unidos es ilegal la fabricación, venta y administración  de la fórmula de Sheridan como tratamiento para cualquier enfermedad. También se llama 126–F, Cancell, Cantron, Jim’s Juice, JS–101, JS–114 y Protocel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><DateLastModified>2022-08-05</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000446184" url="/about-cancer/treatment/cam/patient/cancell-pdq">Cancell/Cantron/Protocel</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000789497" url="/espanol/cancer/tratamiento/mca/paciente/cancell-pdq">Cancell/Cantron/Protocel</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000457979">
+  <TermName>Sheridan’s Formula</TermName>
+  <TermPronunciation>(SHAYR-ih-dunz FOR-myoo-luh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A liquid mixture that has been promoted as a treatment for cancer and other diseases. None of the ingredients thought to be in Sheridan’s Formula have been shown to be effective in preventing or treating any type of cancer. Since 1989, it has been illegal in the United States to make, sell, or give Sheridan’s Formula as a treatment for any disease. Also called 126–F, Cancell, Cantron, Jim’s Juice, JS–101, JS–114, and Protocel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733109" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Sheridan’s Formula&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733108" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fórmula de Sheridan&quot;" language="es" id="_4"/>
+  <SpanishTermName>fórmula de Sheridan</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Mezcla líquida que se promocionó como tratamiento para el cáncer y otras enfermedades. Ninguno de los ingredientes que se cree que contiene la fórmula de Sheridan ha demostrado ser eficaz en la prevención y el tratamiento de ningún tipo de cáncer. Desde 1989 en los Estados Unidos es ilegal la fabricación, venta y administración  de la fórmula de Sheridan como tratamiento para cualquier enfermedad. También se llama 126–F, Cancell, Cantron, Jim’s Juice, JS–101, JS–114 y Protocel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <DateLastModified>2022-08-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000446184" url="/about-cancer/treatment/cam/patient/cancell-pdq">Cancell/Cantron/Protocel</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000789497" url="/espanol/cancer/tratamiento/mca/paciente/cancell-pdq">Cancell/Cantron/Protocel</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

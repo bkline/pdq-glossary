@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045524"><TermName>18F-fludeoxyglucose</TermName><TermPronunciation>(... FLOO-dee-OK-see-GLOO-kose)</TermPronunciation><TermDefinition><DefinitionText>A radioactive form of glucose used in positron emission tomography (PET) imaging. 18F-fludeoxyglucose gets taken up by cells in the body, and a PET scanner is used to find which cells in the body have taken it up. Since more 18F-fludeoxyglucose is taken up by abnormal cells, including cancer cells, than by normal cells, it can be used to find cancer cells in the body and to diagnose cancer and other conditions. Also called fluorine F 18-fludeoxyglucose.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731049" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;18F-fludeoxyglucose&quot;" language="en" id="_5"/><MediaLink ref="CDR0000731048" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-fludesoxiglucosa&quot;" language="es" id="_6"/><SpanishTermName>18F-fludesoxiglucosa</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma radiactiva de la glucosa que se usa para la tomografía con emisión de positrones (TEP). Las células del cuerpo absorben el 18F-fludesoxiglucosa y luego se usa un escáner de TEP para encontrar esas células. Debido a que las células anormales, incluso las células cancerosas,  absorben más 18F-fludesoxiglucosa que las células normales, se puede utilizar para encontrar células cancerosas en el cuerpo, así como para diagnosticar un cáncer y otras afecciones. También se llama flúor F 18-fludesoxiglucosa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045524">
+  <TermName>18F-fludeoxyglucose</TermName>
+  <TermPronunciation>(... FLOO-dee-OK-see-GLOO-kose)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive form of glucose used in positron emission tomography (PET) imaging. 18F-fludeoxyglucose gets taken up by cells in the body, and a PET scanner is used to find which cells in the body have taken it up. Since more 18F-fludeoxyglucose is taken up by abnormal cells, including cancer cells, than by normal cells, it can be used to find cancer cells in the body and to diagnose cancer and other conditions. Also called fluorine F 18-fludeoxyglucose.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731049" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;18F-fludeoxyglucose&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000731048" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-fludesoxiglucosa&quot;" language="es" id="_6"/>
+  <SpanishTermName>18F-fludesoxiglucosa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma radiactiva de la glucosa que se usa para la tomografía con emisión de positrones (TEP). Las células del cuerpo absorben el 18F-fludesoxiglucosa y luego se usa un escáner de TEP para encontrar esas células. Debido a que las células anormales, incluso las células cancerosas,  absorben más 18F-fludesoxiglucosa que las células normales, se puede utilizar para encontrar células cancerosas en el cuerpo, así como para diagnosticar un cáncer y otras afecciones. También se llama flúor F 18-fludesoxiglucosa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

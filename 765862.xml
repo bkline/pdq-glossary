@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000765862"><TermName>modified radical hysterectomy</TermName><TermPronunciation>(MAH-dih-FIDE RA-dih-kul HIS-teh-REK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery to remove the uterus, cervix, upper part of the vagina, and nearby ligaments and tissues. The ovaries, fallopian tubes, or nearby lymph nodes may also be removed. A modified radical hysterectomy removes fewer tissues and/or organs than a radical hysterectomy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000769353" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;modified radical hysterectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000769354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;histerectomía radical modificada&quot;" language="es" id="_4"/><SpanishTermName>histerectomía radical modificada</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar el útero, el cuello uterino, la parte superior de la vagina, así como ligamentos y tejidos cercanos. En ocasiones también se extirpan los ovarios, las trompas de Falopio o los ganglios linfáticos cercanos. En una histerectomía radical modificada se extirpan menos tejidos y órganos que en una histerectomía radical.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-12-18</DateFirstPublished><DateLastModified>2022-12-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000765862">
+  <TermName>modified radical hysterectomy</TermName>
+  <TermPronunciation>(MAH-dih-FIDE RA-dih-kul HIS-teh-REK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to remove the uterus, cervix, upper part of the vagina, and nearby ligaments and tissues. The ovaries, fallopian tubes, or nearby lymph nodes may also be removed. A modified radical hysterectomy removes fewer tissues and/or organs than a radical hysterectomy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000769353" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;modified radical hysterectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000769354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;histerectomía radical modificada&quot;" language="es" id="_4"/>
+  <SpanishTermName>histerectomía radical modificada</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar el útero, el cuello uterino, la parte superior de la vagina, así como ligamentos y tejidos cercanos. En ocasiones también se extirpan los ovarios, las trompas de Falopio o los ganglios linfáticos cercanos. En una histerectomía radical modificada se extirpan menos tejidos y órganos que en una histerectomía radical.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-12-18</DateFirstPublished>
+  <DateLastModified>2022-12-29</DateLastModified>
+</GlossaryTerm>

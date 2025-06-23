@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000784772"><TermName>scattered fibroglandular breast tissue</TermName><TermPronunciation>(SKA-terd FY-broh-GLAN-juh-ler brest TIH-shoo)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe breast tissue that is made up of mostly fatty tissue and also has some dense fibrous tissue and glandular tissue. On a mammogram, the dense areas of the breast make it harder to find tumors or other changes. Scattered fibroglandular breast tissue is one of four categories used to describe a level of breast density seen on a mammogram. About 40% of women have this type of breast tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000789243" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;scattered fibroglandular breast tissue&quot;" language="en" id="_3"/><MediaLink ref="CDR0000789244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido mamario fibroglandular disperso&quot;" language="es" id="_6"/><SpanishTermName>tejido mamario fibroglandular disperso</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para describir el tejido mamario  compuesto,  en su mayoría, por tejido graso (adiposo); también tiene algo de tejido fibroso denso y tejido glandular. En una mamografía, estas áreas de tejido denso hacen que sea más difícil encontrar tumores u otros cambios. El tejido mamario fibroglandular disperso es una de las cuatro categorías que se usan para describir el grado de densidad mamaria que se observa en una mamografía. Casi el 40 % de las mujeres tienen este tipo de tejido de mama. También se llama tejido de mama fibroglandular disperso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-04-28</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000335487" UseWith="en" audience="Patients">breast density</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000335487" UseWith="es" audience="Patients">densidad de la mama</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784772">
+  <TermName>scattered fibroglandular breast tissue</TermName>
+  <TermPronunciation>(SKA-terd FY-broh-GLAN-juh-ler brest TIH-shoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe breast tissue that is made up of mostly fatty tissue and also has some dense fibrous tissue and glandular tissue. On a mammogram, the dense areas of the breast make it harder to find tumors or other changes. Scattered fibroglandular breast tissue is one of four categories used to describe a level of breast density seen on a mammogram. About 40% of women have this type of breast tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000789243" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;scattered fibroglandular breast tissue&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000789244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido mamario fibroglandular disperso&quot;" language="es" id="_6"/>
+  <SpanishTermName>tejido mamario fibroglandular disperso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para describir el tejido mamario  compuesto,  en su mayoría, por tejido graso (adiposo); también tiene algo de tejido fibroso denso y tejido glandular. En una mamografía, estas áreas de tejido denso hacen que sea más difícil encontrar tumores u otros cambios. El tejido mamario fibroglandular disperso es una de las cuatro categorías que se usan para describir el grado de densidad mamaria que se observa en una mamografía. Casi el 40 % de las mujeres tienen este tipo de tejido de mama. También se llama tejido de mama fibroglandular disperso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-04-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000335487" UseWith="en" audience="Patients">breast density</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000335487" UseWith="es" audience="Patients">densidad de la mama</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

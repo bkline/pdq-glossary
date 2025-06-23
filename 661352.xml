@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000661352"><TermName>renal cell carcinoma</TermName><TermPronunciation>(REE-nul sel KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Cancer that begins in the lining of the tiny tubes in the kidney that return filtered substances that the body needs back to the blood and remove extra fluid and waste as urine. Renal cell carcinoma is the most common type of kidney cancer in adults. Also called hypernephroma, renal cell adenocarcinoma, and renal cell cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726476" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;renal cell carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726475" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células renales&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de células renales</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se origina en el revestimiento de los tubos diminutos que filtran la sangre en los riñones, de donde extraen el exceso de líquido y desechos para evacuarlos por la orina, mientras devuelven a la sangre las sustancias filtradas que el cuerpo necesita. El carcinoma de células renales es el tipo más común de cáncer de riñón en adultos. También se llama adenocarcinoma de células renales, cáncer de células renales, carcinoma renal, hipernefroma y tumor de Grawitz.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-12-08</DateFirstPublished><DateLastModified>2022-05-05</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/kidney">Kidney (Renal Cell) Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/rinon">Cáncer de riñón</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000661352">
+  <TermName>renal cell carcinoma</TermName>
+  <TermPronunciation>(REE-nul sel KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that begins in the lining of the tiny tubes in the kidney that return filtered substances that the body needs back to the blood and remove extra fluid and waste as urine. Renal cell carcinoma is the most common type of kidney cancer in adults. Also called hypernephroma, renal cell adenocarcinoma, and renal cell cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726476" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;renal cell carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726475" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células renales&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de células renales</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se origina en el revestimiento de los tubos diminutos que filtran la sangre en los riñones, de donde extraen el exceso de líquido y desechos para evacuarlos por la orina, mientras devuelven a la sangre las sustancias filtradas que el cuerpo necesita. El carcinoma de células renales es el tipo más común de cáncer de riñón en adultos. También se llama adenocarcinoma de células renales, cáncer de células renales, carcinoma renal, hipernefroma y tumor de Grawitz.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-12-08</DateFirstPublished>
+  <DateLastModified>2022-05-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/kidney">Kidney (Renal Cell) Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/rinon">Cáncer de riñón</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

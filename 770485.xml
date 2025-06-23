@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000770485"><TermName>cancer-related post-traumatic stress</TermName><TermPronunciation>(KAN-ser-ree-LAY-ted post-traw-MA-tik stress)</TermPronunciation><TermDefinition><DefinitionText>A condition
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000770485">
+  <TermName>cancer-related post-traumatic stress</TermName>
+  <TermPronunciation>(KAN-ser-ree-LAY-ted post-traw-MA-tik stress)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition
           that develops in some people who are diagnosed with cancer.
           Symptoms of cancer-related post-traumatic stress (PTS)
           include having frightening thoughts or trouble sleeping,
@@ -8,4 +13,17 @@
           Cancer-related PTS can occur anytime after diagnosis,
           including during or after treatment. Relaxation training,
           counseling, support groups, and certain medicines may be
-          used to reduce symptoms of PTS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000774997" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cancer-related post-traumatic stress&quot;" language="en" id="_3"/><MediaLink ref="CDR0000774998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estrés postraumático relacionado con el cáncer&quot;" language="es" id="_6"/><SpanishTermName>estrés postraumático relacionado con el cáncer</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección de algunas personas con cáncer. Los síntomas del estrés postraumático (EPT) relacionado con el cáncer incluyen pensamientos de temor, problemas para dormir, distracción o demasiada agitación, sensación de soledad y pérdida del interés en  las actividades diarias. Otros síntomas son conmoción, miedo, impotencia u  horror. El estrés postraumático surge en cualquier momento después del diagnóstico de cáncer, incluso durante el tratamiento o después. Para controlar los síntomas de esta afección se usan ejercicios de relajación, psicoterapia, terapia en  grupos de apoyo y ciertos medicamentos. También se llama estrés postraumático en pacientes de cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-06-17</DateFirstPublished></GlossaryTerm>
+          used to reduce symptoms of PTS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000774997" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cancer-related post-traumatic stress&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000774998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estrés postraumático relacionado con el cáncer&quot;" language="es" id="_6"/>
+  <SpanishTermName>estrés postraumático relacionado con el cáncer</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección de algunas personas con cáncer. Los síntomas del estrés postraumático (EPT) relacionado con el cáncer incluyen pensamientos de temor, problemas para dormir, distracción o demasiada agitación, sensación de soledad y pérdida del interés en  las actividades diarias. Otros síntomas son conmoción, miedo, impotencia u  horror. El estrés postraumático surge en cualquier momento después del diagnóstico de cáncer, incluso durante el tratamiento o después. Para controlar los síntomas de esta afección se usan ejercicios de relajación, psicoterapia, terapia en  grupos de apoyo y ciertos medicamentos. También se llama estrés postraumático en pacientes de cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-06-17</DateFirstPublished>
+</GlossaryTerm>

@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000508683"><TermName>Aromasin</TermName><TermPronunciation>(uh-ROH-muh-sin)</TermPronunciation><TermDefinition><DefinitionText>A drug used to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000508683">
+  <TermName>Aromasin</TermName>
+  <TermPronunciation>(uh-ROH-muh-sin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to
           treat postmenopausal women with advanced breast cancer or
           early-stage breast cancer that is estrogen receptor
           positive (ER+). It is used in patients whose cancer has
@@ -8,7 +13,15 @@
           estrogen made by the body. This may stop the growth of
           cancer cells that need estrogen to grow.
           Aromasin is a type of aromatase
-          inhibitor. Also called exemestane.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Aromasin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Aromasin&quot;" language="es" id="_4"/><SpanishTermName>Aromasin</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+          inhibitor. Also called exemestane.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Aromasin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Aromasin&quot;" language="es" id="_4"/>
+  <SpanishTermName>Aromasin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de  mujeres posmenopáusicas con cáncer de mama en estadio avanzado o cáncer de
 mama en estadio temprano positivo para el receptor
 de estrógeno (ER+). Se utiliza en pacientes cuyo cáncer ya se trató con tamoxifeno. También está en estudio
@@ -17,4 +30,13 @@ Aromasin disminuye la cantidad de
 estrógeno que el cuerpo elabora. Es posible que esto impida
 la multiplicación de las células cancerosas que necesitan estrógeno
 para multiplicarse. Aromasin es un tipo de
-inhibidor de la aromatasa. También se llama exemestano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2020-10-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492015" url="/about-cancer/treatment/drugs/exemestane">Exemestane</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+inhibidor de la aromatasa. También se llama exemestano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2020-10-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492015" url="/about-cancer/treatment/drugs/exemestane">Exemestane</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

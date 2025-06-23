@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000662964"><TermName>iobenguane I 131</TermName><TermPronunciation>(I-oh-BEN-gwayn …)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains a form of radioactive iodine and is used to treat adults and children aged 12 years and older with certain types of malignant pheochromocytoma or paraganglioma that have spread or cannot be removed by surgery.  It is also being studied in the treatment of other types of cancer. Iobenguane I 131 builds up in tumor cells and gives off radiation that may kill them. It is a type of radiotherapeutic agent. Also called 131I-MIBG, Azedra, and iodine I 131-metaiodobenzylguanidine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iobenguane I 131&quot;" language="en" id="_3"/><MediaLink ref="CDR0000734710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iobenguano I 131&quot;" language="es" id="_4"/><SpanishTermName>iobenguano I 131</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene una forma de yodo radiactivo y se usa para el tratamiento de adultos y niños de 12 años o más con ciertos tipos de  feocromocitoma o paraganglioma malignos que se diseminaron o que no se pueden extirpar con cirugía. También está en estudio para el tratamiento de otros tipos de cáncer. El iobenguano I 131 se acumula en las células tumorales y emite una radiación que tal vez las destruya. Es un tipo de radiofármaco. También se llama 131I-MIBG, Azedra, iobenguano (131I) y yodo I 131-metayodobencilguanidina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-04-11</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000794153" url="/about-cancer/treatment/drugs/iobenguaneI131">Iobenguane I 131</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000662964">
+  <TermName>iobenguane I 131</TermName>
+  <TermPronunciation>(I-oh-BEN-gwayn …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains a form of radioactive iodine and is used to treat adults and children aged 12 years and older with certain types of malignant pheochromocytoma or paraganglioma that have spread or cannot be removed by surgery.  It is also being studied in the treatment of other types of cancer. Iobenguane I 131 builds up in tumor cells and gives off radiation that may kill them. It is a type of radiotherapeutic agent. Also called 131I-MIBG, Azedra, and iodine I 131-metaiodobenzylguanidine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iobenguane I 131&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000734710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iobenguano I 131&quot;" language="es" id="_4"/>
+  <SpanishTermName>iobenguano I 131</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene una forma de yodo radiactivo y se usa para el tratamiento de adultos y niños de 12 años o más con ciertos tipos de  feocromocitoma o paraganglioma malignos que se diseminaron o que no se pueden extirpar con cirugía. También está en estudio para el tratamiento de otros tipos de cáncer. El iobenguano I 131 se acumula en las células tumorales y emite una radiación que tal vez las destruya. Es un tipo de radiofármaco. También se llama 131I-MIBG, Azedra, iobenguano (131I) y yodo I 131-metayodobencilguanidina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-04-11</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000794153" url="/about-cancer/treatment/drugs/iobenguaneI131">Iobenguane I 131</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

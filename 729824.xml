@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000729824"><TermName>mind-body practice</TermName><TermPronunciation>(mind-BAH-dee PRAK-tis)</TermPronunciation><TermDefinition><DefinitionText>A health practice that combines mental focus, controlled breathing, and body movements to help relax the body and mind. It may be used to help control pain, stress, anxiety, and depression, and for overall health. Examples of mind-body practices include meditation, hypnosis, guided imagery, yoga, and tai chi. A mind-body practice is a type of complementary and alternative medicine. Also called mind-body modality.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000738154" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mind-body practice&quot;" language="en" id="_3"/><MediaLink ref="CDR0000738153" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;práctica físico-mental&quot;" language="es" id="_4"/><SpanishTermName>práctica físico-mental</SpanishTermName><SpanishTermDefinition><DefinitionText>Práctica de salud que combina el enfoque mental, la respiración controlada y los  movimientos corporales para facilitar la relajación del cuerpo y la mente. Se puede utilizar para ayudar a controlar el dolor, el estrés, la ansiedad y la depresión, así como para promover la salud general. La meditación, la hipnosis, las imágenes guiadas, el yoga y el taichí son ejemplos de prácticas físico-mentales.  Estos son métodos propios de la medicina complementaria y alternativa. También se llama modalidad físico-mental y práctica de la mente y el cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-06-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000729824">
+  <TermName>mind-body practice</TermName>
+  <TermPronunciation>(mind-BAH-dee PRAK-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A health practice that combines mental focus, controlled breathing, and body movements to help relax the body and mind. It may be used to help control pain, stress, anxiety, and depression, and for overall health. Examples of mind-body practices include meditation, hypnosis, guided imagery, yoga, and tai chi. A mind-body practice is a type of complementary and alternative medicine. Also called mind-body modality.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000738154" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mind-body practice&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000738153" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;práctica físico-mental&quot;" language="es" id="_4"/>
+  <SpanishTermName>práctica físico-mental</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Práctica de salud que combina el enfoque mental, la respiración controlada y los  movimientos corporales para facilitar la relajación del cuerpo y la mente. Se puede utilizar para ayudar a controlar el dolor, el estrés, la ansiedad y la depresión, así como para promover la salud general. La meditación, la hipnosis, las imágenes guiadas, el yoga y el taichí son ejemplos de prácticas físico-mentales.  Estos son métodos propios de la medicina complementaria y alternativa. También se llama modalidad físico-mental y práctica de la mente y el cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-06-13</DateFirstPublished>
+</GlossaryTerm>

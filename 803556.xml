@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803556"><TermName>drug substance</TermName><TermPronunciation>(… SUB-stunts)</TermPronunciation><TermDefinition><DefinitionText>The main ingredient in a medicine that causes the desired effect of the medicine. Some medicines contain more than one drug substance that act in different ways in the body. Also called active pharmaceutical ingredient, API, and pharmacologic substance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drug substance&quot;" language="en" id="_4"/><MediaLink ref="CDR0000805328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;principio activo&quot;" language="es" id="_5"/><SpanishTermName>principio activo</SpanishTermName><SpanishTermDefinition><DefinitionText>El ingrediente principal de un medicamento, responsable del efecto deseado. Algunos medicamentos contienen más de un principio activo que actúa de diferentes maneras en el cuerpo. También se llama IFA, ingrediente farmacéutico activo y sustancia farmacéutica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803556">
+  <TermName>drug substance</TermName>
+  <TermPronunciation>(… SUB-stunts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The main ingredient in a medicine that causes the desired effect of the medicine. Some medicines contain more than one drug substance that act in different ways in the body. Also called active pharmaceutical ingredient, API, and pharmacologic substance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drug substance&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000805328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;principio activo&quot;" language="es" id="_5"/>
+  <SpanishTermName>principio activo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El ingrediente principal de un medicamento, responsable del efecto deseado. Algunos medicamentos contienen más de un principio activo que actúa de diferentes maneras en el cuerpo. También se llama IFA, ingrediente farmacéutico activo y sustancia farmacéutica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-10</DateFirstPublished>
+</GlossaryTerm>

@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000046515"><TermName>basal cell carcinoma</TermName><TermPronunciation>(BAY-sul sel KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Cancer that
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046515">
+  <TermName>basal cell carcinoma</TermName>
+  <TermPronunciation>(BAY-sul sel KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that
           begins in the lower part of the epidermis (the outer layer
           of the skin). It may appear as a small white or
           flesh-colored bump that grows slowly and may bleed.
@@ -6,7 +11,21 @@
           areas of the body exposed to the sun.
           Basal cell carcinomas rarely metastasize
           (spread) to other parts of the body. They are the most
-          common form of skin cancer. Also called basal cell cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708870" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;basal cell carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708869" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células basales&quot;" language="es" id="_4"/><MediaLink ref="CDR0000787343" type="image/jpeg" alt="Anatomy of the skin; drawing shows the epidermis (including the squamous cell and basal cell layers), dermis, and subcutaneous tissue. Also shown are the hair shafts, hair follicles, oil glands, lymph vessels, nerves, fatty tissue, veins, arteries, and sweat glands." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Anatomy of the skin showing the epidermis (including the squamous cell and basal cell layers), dermis, subcutaneous tissue, and other parts of the skin.</Caption></MediaLink><MediaLink ref="CDR0000787850" type="image/jpeg" alt="Anatomía de la piel; en la imagen se observa la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis y el tejido subcutáneo. También se muestran los tallos del pelo, los folículos pilosos, las glándulas sebáceas, los vasos linfáticos, los nervios, el tejido graso, las venas, las arterias y las glándulas sudoríparas." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía de la piel. Se observa la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis, el tejido subcutáneo y otras partes de la piel.</Caption></MediaLink><SpanishTermName>carcinoma de células basales</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que empieza en la parte
+          common form of skin cancer. Also called basal cell cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708870" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;basal cell carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708869" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células basales&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000787343" type="image/jpeg" alt="Anatomy of the skin; drawing shows the epidermis (including the squamous cell and basal cell layers), dermis, and subcutaneous tissue. Also shown are the hair shafts, hair follicles, oil glands, lymph vessels, nerves, fatty tissue, veins, arteries, and sweat glands." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Anatomy of the skin showing the epidermis (including the squamous cell and basal cell layers), dermis, subcutaneous tissue, and other parts of the skin.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000787850" type="image/jpeg" alt="Anatomía de la piel; en la imagen se observa la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis y el tejido subcutáneo. También se muestran los tallos del pelo, los folículos pilosos, las glándulas sebáceas, los vasos linfáticos, los nervios, el tejido graso, las venas, las arterias y las glándulas sudoríparas." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía de la piel. Se observa la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis, el tejido subcutáneo y otras partes de la piel.</Caption>
+  </MediaLink>
+  <SpanishTermName>carcinoma de células basales</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que empieza en la parte
 más interna de la epidermis (la capa
 más externa de la
 piel).
@@ -27,4 +46,9 @@ produzcan metástasis
 (se diseminen)
 a
 otras partes del cuerpo. Son las formas más comunes de
-cáncer de piel. También se llama cáncer de células basales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-03-21</DateLastModified></GlossaryTerm>
+cáncer de piel. También se llama cáncer de células basales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-03-21</DateLastModified>
+</GlossaryTerm>

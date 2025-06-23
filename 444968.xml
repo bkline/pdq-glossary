@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000444968"><TermName>bladder cancer</TermName><TermPronunciation>(BLA-der KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the bladder (the organ that stores urine). Most bladder cancers are transitional cell carcinomas (cancer that begins in cells that normally make up the inner lining of the bladder). Other types include squamous cell carcinoma (cancer that begins in thin, flat cells) and adenocarcinoma (cancer that begins in cells that make and release mucus and other fluids). The cells that form squamous cell carcinoma and adenocarcinoma develop in the inner lining of the bladder as a result of chronic irritation and inflammation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bladder cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714535" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vejiga&quot;" language="es" id="_4"/><SpanishTermName>cáncer de vejiga</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos de la vejiga (el órgano que almacena orina). La mayoría de los cánceres de vejiga son carcinomas de células de transición (cáncer que empieza en células que normalmente forman el revestimiento  interno de la vejiga). Otros tipos son el carcinoma de células escamosas (cáncer que empieza en células delgadas y planas) y el adenocarcinoma (cáncer que empieza en las células que elaboran y secretan moco y otros líquidos). Las células del carcinoma de células escamosas y el adenocarcinoma se forman en el revestimiento interno de la vejiga por irritación crónica e inflamación. También se llama cáncer vesical y neoplasia maligna de la vejiga.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2006-12-01</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000810925" url="/types/bladder">What  Is Bladder Cancer?</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000811367" url="/espanol/tipos/vejiga">¿Qué es el cáncer de vejiga?</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000444968">
+  <TermName>bladder cancer</TermName>
+  <TermPronunciation>(BLA-der KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the bladder (the organ that stores urine). Most bladder cancers are transitional cell carcinomas (cancer that begins in cells that normally make up the inner lining of the bladder). Other types include squamous cell carcinoma (cancer that begins in thin, flat cells) and adenocarcinoma (cancer that begins in cells that make and release mucus and other fluids). The cells that form squamous cell carcinoma and adenocarcinoma develop in the inner lining of the bladder as a result of chronic irritation and inflammation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bladder cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714535" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vejiga&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de vejiga</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos de la vejiga (el órgano que almacena orina). La mayoría de los cánceres de vejiga son carcinomas de células de transición (cáncer que empieza en células que normalmente forman el revestimiento  interno de la vejiga). Otros tipos son el carcinoma de células escamosas (cáncer que empieza en células delgadas y planas) y el adenocarcinoma (cáncer que empieza en las células que elaboran y secretan moco y otros líquidos). Las células del carcinoma de células escamosas y el adenocarcinoma se forman en el revestimiento interno de la vejiga por irritación crónica e inflamación. También se llama cáncer vesical y neoplasia maligna de la vejiga.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2006-12-01</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000810925" url="/types/bladder">What  Is Bladder Cancer?</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000811367" url="/espanol/tipos/vejiga">¿Qué es el cáncer de vejiga?</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

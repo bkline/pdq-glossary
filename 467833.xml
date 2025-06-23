@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000467833"><TermName>Consensus Development Program</TermName><TermPronunciation>(kun-SEN-sus dee-VEH-lup-ment PROH-gram)</TermPronunciation><TermDefinition><DefinitionText>A program of the <ExternalRef xref="https://consensus.nih.gov/">National Institutes of Health</ExternalRef> to bring together an independent group of experts to review scientific evidence related to an important public health issue. For a specific issue, a panel of experts (such as doctors and scientists) reviews reports and papers on the subject, listens to information presented by other experts in the field, and hears comments from the general public. Based on the evidence presented, the panel writes a report summarizing the findings, which is made available to the public. The report is not intended to be a practice guideline.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733224" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Consensus Development Program&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733225" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Programa de Desarrollo de Consenso&quot;" language="es" id="_4"/><SpanishTermName>Programa de Desarrollo de Consenso</SpanishTermName><SpanishTermDefinition><DefinitionText>Programa de los Institutos Nacionales de la Salud que reúne a un grupo independiente de expertos para analizar la evidencia científica relacionada con algún tema importante de salud pública. El grupo de expertos (médicos, científicos, etc.), según el tema específico, evalúa los informes y publicaciones sobre el tema, atiende presentaciones de otros expertos en el campo en estudio y recibe comentarios del público general. Luego, redactan  y publican un informe resumido de los resultados que no se pretende que sea una guía   de práctica clínica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000467833">
+  <TermName>Consensus Development Program</TermName>
+  <TermPronunciation>(kun-SEN-sus dee-VEH-lup-ment PROH-gram)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A program of the 
+      <ExternalRef xref="https://consensus.nih.gov/">National Institutes of Health</ExternalRef>
+       to bring together an independent group of experts to review scientific evidence related to an important public health issue. For a specific issue, a panel of experts (such as doctors and scientists) reviews reports and papers on the subject, listens to information presented by other experts in the field, and hears comments from the general public. Based on the evidence presented, the panel writes a report summarizing the findings, which is made available to the public. The report is not intended to be a practice guideline.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733224" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Consensus Development Program&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733225" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Programa de Desarrollo de Consenso&quot;" language="es" id="_4"/>
+  <SpanishTermName>Programa de Desarrollo de Consenso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Programa de los Institutos Nacionales de la Salud que reúne a un grupo independiente de expertos para analizar la evidencia científica relacionada con algún tema importante de salud pública. El grupo de expertos (médicos, científicos, etc.), según el tema específico, evalúa los informes y publicaciones sobre el tema, atiende presentaciones de otros expertos en el campo en estudio y recibe comentarios del público general. Luego, redactan  y publican un informe resumido de los resultados que no se pretende que sea una guía   de práctica clínica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-11</DateFirstPublished>
+</GlossaryTerm>

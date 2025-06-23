@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044636"><TermName>abnormal</TermName><TermPronunciation>(ab-NOR-mul)</TermPronunciation><TermDefinition><DefinitionText>Not normal. Describes a state, condition, or behavior that is unusual or different from what is considered normal. In medicine, an abnormal lesion or growth in or on the body may be benign (not cancer), precancerous or premalignant (likely to become cancer), or malignant (cancer). Also called atypical.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704875" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abnormal&quot;" language="en" id="_3"/><MediaLink ref="CDR0000762003" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anormal&quot;" language="es" id="_4"/><SpanishTermName>anormal</SpanishTermName><SpanishTermDefinition><DefinitionText>Que no es normal. Describe un estado, una afección o un comportamiento que no son habituales o que son diferentes de lo que se considera normal. En el campo de la medicina, una lesión o un tumor anormal dentro o en la superficie del cuerpo  puede ser benigno (no canceroso), precanceroso o premaligno (es probable que se vuelva canceroso) o maligno (cáncer). También se llama aberrante, anómalo y atípico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-10-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044636">
+  <TermName>abnormal</TermName>
+  <TermPronunciation>(ab-NOR-mul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Not normal. Describes a state, condition, or behavior that is unusual or different from what is considered normal. In medicine, an abnormal lesion or growth in or on the body may be benign (not cancer), precancerous or premalignant (likely to become cancer), or malignant (cancer). Also called atypical.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704875" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abnormal&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000762003" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anormal&quot;" language="es" id="_4"/>
+  <SpanishTermName>anormal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Que no es normal. Describe un estado, una afección o un comportamiento que no son habituales o que son diferentes de lo que se considera normal. En el campo de la medicina, una lesión o un tumor anormal dentro o en la superficie del cuerpo  puede ser benigno (no canceroso), precanceroso o premaligno (es probable que se vuelva canceroso) o maligno (cáncer). También se llama aberrante, anómalo y atípico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-10-15</DateLastModified>
+</GlossaryTerm>

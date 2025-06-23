@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045081"><TermName>CC-5013</TermName><TermDefinition><DefinitionText>A drug that is similar to thalidomide and is used alone or with other drugs to treat adults with certain types of follicular lymphoma, marginal zone lymphoma, mantle cell lymphoma, multiple myeloma, or anemia caused by certain types of myelodysplastic syndromes.  It is also being studied in the treatment of other conditions and types of cancer.  CC-5013 may help the immune system kill abnormal blood cells or cancer cells. It may also prevent the growth of new blood vessels that tumors need to grow. CC-5013 is a type of antiangiogenesis agent and a type of immunomodulating agent. Also called lenalidomide and Revlimid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CC-5013</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento similar a la talidomida, que se utiliza solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de linfoma folicular, linfoma de la zona marginal, linfoma de células de manto, mieloma múltiple o anemia provocada por ciertos tipos de síndromes mielodisplásicos. También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Es posible que CC-5013 ayude al sistema inmunitario a destruir células sanguíneas anormales o células cancerosas. Asimismo, tal vez impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. CC-5013 es un tipo de antiangiogénico y de inmunomodulador. También se llama lenalidomida y Revlimid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-06-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492044" url="/about-cancer/treatment/drugs/lenalidomide">Lenalidomide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045081">
+  <TermName>CC-5013</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug that is similar to thalidomide and is used alone or with other drugs to treat adults with certain types of follicular lymphoma, marginal zone lymphoma, mantle cell lymphoma, multiple myeloma, or anemia caused by certain types of myelodysplastic syndromes.  It is also being studied in the treatment of other conditions and types of cancer.  CC-5013 may help the immune system kill abnormal blood cells or cancer cells. It may also prevent the growth of new blood vessels that tumors need to grow. CC-5013 is a type of antiangiogenesis agent and a type of immunomodulating agent. Also called lenalidomide and Revlimid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CC-5013</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento similar a la talidomida, que se utiliza solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de linfoma folicular, linfoma de la zona marginal, linfoma de células de manto, mieloma múltiple o anemia provocada por ciertos tipos de síndromes mielodisplásicos. También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Es posible que CC-5013 ayude al sistema inmunitario a destruir células sanguíneas anormales o células cancerosas. Asimismo, tal vez impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. CC-5013 es un tipo de antiangiogénico y de inmunomodulador. También se llama lenalidomida y Revlimid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-06-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492044" url="/about-cancer/treatment/drugs/lenalidomide">Lenalidomide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

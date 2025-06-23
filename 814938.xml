@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000814938"><TermName>anti-GD2 therapy</TermName><TermPronunciation>(AN-tee-… THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A type of treatment that helps the body’s immune system recognize and destroy cancer cells that have GD2 on their surface. GD2 is an antigen that is found in high levels on some types of cancer cells, such as neuroblastoma cells. Anti-GD2 monoclonal antibodies bind to GD2 on the cancer cells, which causes them to die. Some anti-GD2 monoclonal antibodies are being used in the treatment of neuroblastoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000816239" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anti-GD2 therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000816240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia anti-GD2&quot;" language="es" id="_4"/><SpanishTermName>terapia anti-GD2</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tratamiento que ayuda al sistema inmunitario a reconocer y destruir células cancerosas que tienen GD2 en su superficie. GD2 es un antígeno que se encuentra en concentraciones altas en ciertos tipos de células cancerosas, como las células de neuroblastoma. Los anticuerpos monoclonales anti-GD2 se unen al GD2 de las células cancerosas y las destruyen. Algunos anticuerpos monoclonales anti-GD2 se usan para el tratamiento del neuroblastoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-05-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814938">
+  <TermName>anti-GD2 therapy</TermName>
+  <TermPronunciation>(AN-tee-… THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of treatment that helps the body’s immune system recognize and destroy cancer cells that have GD2 on their surface. GD2 is an antigen that is found in high levels on some types of cancer cells, such as neuroblastoma cells. Anti-GD2 monoclonal antibodies bind to GD2 on the cancer cells, which causes them to die. Some anti-GD2 monoclonal antibodies are being used in the treatment of neuroblastoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000816239" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anti-GD2 therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000816240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia anti-GD2&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia anti-GD2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tratamiento que ayuda al sistema inmunitario a reconocer y destruir células cancerosas que tienen GD2 en su superficie. GD2 es un antígeno que se encuentra en concentraciones altas en ciertos tipos de células cancerosas, como las células de neuroblastoma. Los anticuerpos monoclonales anti-GD2 se unen al GD2 de las células cancerosas y las destruyen. Algunos anticuerpos monoclonales anti-GD2 se usan para el tratamiento del neuroblastoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-05-08</DateFirstPublished>
+</GlossaryTerm>

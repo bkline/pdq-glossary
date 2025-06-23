@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000556494"><TermName>unclassified variant</TermName><TermPronunciation>(un-KLA-sih-fide VAYR-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>A variation in a genetic sequence for which the association with disease risk is unclear.  Also called variant of uncertain significance, variant of unknown significance, and VUS.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A change in a gene’s DNA sequence that has an unknown effect on a person’s health. There is usually not enough information about an unclassified variant to know whether it increases a person’s risk of developing a disease, such as cancer. Also called variant of uncertain significance, variant of unknown significance, and VUS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000737002" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;unclassified variant&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804260" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante sin clasificar&quot;" language="es" id="_4"/><SpanishTermName>variante sin clasificar</SpanishTermName><SpanishTermDefinition><DefinitionText>Cambio en la secuencia de ADN de un gen cuyo efecto en la salud no se conoce. Por lo general, no hay suficiente información sobre una variante sin clasificar como para saber si aumenta el riesgo de una persona de presentar una enfermedad, como el cáncer. También se llama variante de significación incierta, variante de significado incierto y VSI.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Variación en la secuencia genética que no tiene una asociación definida con el riesgo de presentar una enfermedad. También se llama variante de significación incierta, variante de significado incierto y VSI.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000556494">
+  <TermName>unclassified variant</TermName>
+  <TermPronunciation>(un-KLA-sih-fide VAYR-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A variation in a genetic sequence for which the association with disease risk is unclear.  Also called variant of uncertain significance, variant of unknown significance, and VUS.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A change in a gene’s DNA sequence that has an unknown effect on a person’s health. There is usually not enough information about an unclassified variant to know whether it increases a person’s risk of developing a disease, such as cancer. Also called variant of uncertain significance, variant of unknown significance, and VUS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000737002" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;unclassified variant&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804260" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante sin clasificar&quot;" language="es" id="_4"/>
+  <SpanishTermName>variante sin clasificar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cambio en la secuencia de ADN de un gen cuyo efecto en la salud no se conoce. Por lo general, no hay suficiente información sobre una variante sin clasificar como para saber si aumenta el riesgo de una persona de presentar una enfermedad, como el cáncer. También se llama variante de significación incierta, variante de significado incierto y VSI.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Variación en la secuencia genética que no tiene una asociación definida con el riesgo de presentar una enfermedad. También se llama variante de significación incierta, variante de significado incierto y VSI.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+</GlossaryTerm>

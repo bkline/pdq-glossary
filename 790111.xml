@@ -1,1 +1,46 @@
-<GlossaryTerm id="CDR0000790111"><TermName>NUT carcinoma</TermName><TermPronunciation>(… KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that forms in the respiratory tract and other places along the middle of the body, from the head to the abdomen. This includes the thymus, the area between the lungs, and the pancreas, liver, and bladder. <GeneName>NUT</GeneName> carcinoma is caused when a piece of chromosome 15 containing the <GeneName>NUT</GeneName> gene breaks off and attaches to another chromosome. It is usually aggressive (fast-growing) and cannot be cured. <GeneName>NUT</GeneName> carcinoma usually occurs in children and young adults.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NUT carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791528" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma NUT&quot;" language="es" id="_7"/><MediaLink ref="CDR0000803493" type="image/jpeg" alt="Drawing showing areas where NUT carcinoma may form, including the nose (nasal cavity), throat (pharynx), larynx, lung, thymus, trachea, bronchi, area between the lungs, liver, pancreas, and bladder." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">NUT carcinoma is a rare type of cancer that forms in the respiratory tract or in other places along the middle of the body, including the thymus, the area between the lungs, and the liver, pancreas, and bladder. It usually grows and spreads quickly and cannot be cured. NUT  carcinoma usually occurs in children and young adults.</Caption></MediaLink><MediaLink ref="CDR0000803762" type="image/jpeg" alt="En la imagen se observan las áreas donde es posible que se forme el carcinoma NUT, como la nariz (cavidad nasal), la garganta (faringe), la laringe, el pulmón, el timo, la tráquea, los bronquios, el área entre los pulmones, el hígado, el páncreas y la vejiga." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El carcinoma NUT es un tipo raro de cáncer que se forma en las vías respiratorias o en otros lugares  de la  parte media del cuerpo, como el timo, el área entre los pulmones, el hígado, el páncreas y la vejiga. A menudo crece y se disemina rápido y no tiene cura. El carcinoma NUT, por lo general,  se presenta en niños y adultos jóvenes.</Caption></MediaLink><SpanishTermName>carcinoma NUT</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer raro que se forma en las vías respiratorias y en otros lugares de la parte media del cuerpo, desde la cabeza hasta el abdomen. Estos sitios son el timo, el área entre los pulmones, el páncreas, el hígado y la vejiga. El carcinoma <GeneName>NUT</GeneName> se forma cuando una parte del cromosoma 15 que contiene el gen <GeneName>NUT</GeneName> se desprende y se une a otro cromosoma. A menudo, es agresivo o de gran malignidad (crece rápido) e incurable. El carcinoma <GeneName>NUT</GeneName>, por lo general, se presenta en niños y adultos jóvenes. También se llama carcinoma de línea media NUT y carcinoma tipo NUT.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-11</DateFirstPublished><DateLastModified>2022-07-21</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000789589" url="/types/midline/patient-child-midline-tract-carcinoma-treatment-pdq">Childhood NUT Carcinoma</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000792076" url="/espanol/tipos/linea-media/paciente-tratamiento-carcinoma-linea-media-infantil-pdq">Tratamiento del carcinoma de línea media con cambios en el gen NUT</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790111">
+  <TermName>NUT carcinoma</TermName>
+  <TermPronunciation>(… KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A rare type of cancer that forms in the respiratory tract and other places along the middle of the body, from the head to the abdomen. This includes the thymus, the area between the lungs, and the pancreas, liver, and bladder. 
+      <GeneName>NUT</GeneName>
+       carcinoma is caused when a piece of chromosome 15 containing the 
+      <GeneName>NUT</GeneName>
+       gene breaks off and attaches to another chromosome. It is usually aggressive (fast-growing) and cannot be cured. 
+      <GeneName>NUT</GeneName>
+       carcinoma usually occurs in children and young adults.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NUT carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791528" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma NUT&quot;" language="es" id="_7"/>
+  <MediaLink ref="CDR0000803493" type="image/jpeg" alt="Drawing showing areas where NUT carcinoma may form, including the nose (nasal cavity), throat (pharynx), larynx, lung, thymus, trachea, bronchi, area between the lungs, liver, pancreas, and bladder." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">NUT carcinoma is a rare type of cancer that forms in the respiratory tract or in other places along the middle of the body, including the thymus, the area between the lungs, and the liver, pancreas, and bladder. It usually grows and spreads quickly and cannot be cured. NUT  carcinoma usually occurs in children and young adults.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000803762" type="image/jpeg" alt="En la imagen se observan las áreas donde es posible que se forme el carcinoma NUT, como la nariz (cavidad nasal), la garganta (faringe), la laringe, el pulmón, el timo, la tráquea, los bronquios, el área entre los pulmones, el hígado, el páncreas y la vejiga." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El carcinoma NUT es un tipo raro de cáncer que se forma en las vías respiratorias o en otros lugares  de la  parte media del cuerpo, como el timo, el área entre los pulmones, el hígado, el páncreas y la vejiga. A menudo crece y se disemina rápido y no tiene cura. El carcinoma NUT, por lo general,  se presenta en niños y adultos jóvenes.</Caption>
+  </MediaLink>
+  <SpanishTermName>carcinoma NUT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Tipo de cáncer raro que se forma en las vías respiratorias y en otros lugares de la parte media del cuerpo, desde la cabeza hasta el abdomen. Estos sitios son el timo, el área entre los pulmones, el páncreas, el hígado y la vejiga. El carcinoma 
+      <GeneName>NUT</GeneName>
+       se forma cuando una parte del cromosoma 15 que contiene el gen 
+      <GeneName>NUT</GeneName>
+       se desprende y se une a otro cromosoma. A menudo, es agresivo o de gran malignidad (crece rápido) e incurable. El carcinoma 
+      <GeneName>NUT</GeneName>
+      , por lo general, se presenta en niños y adultos jóvenes. También se llama carcinoma de línea media NUT y carcinoma tipo NUT.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-11</DateFirstPublished>
+  <DateLastModified>2022-07-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000789589" url="/types/midline/patient-child-midline-tract-carcinoma-treatment-pdq">Childhood NUT Carcinoma</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000792076" url="/espanol/tipos/linea-media/paciente-tratamiento-carcinoma-linea-media-infantil-pdq">Tratamiento del carcinoma de línea media con cambios en el gen NUT</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

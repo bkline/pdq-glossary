@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000045447"><TermName>UCN-01</TermName><TermDefinition><DefinitionText>An anticancer drug that belongs to the family of drugs called staurosporine analogs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>UCN-01</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento contra el cáncer que es un tipo de análogo de la estaurosporina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2003-05-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045447">
+  <TermName>UCN-01</TermName>
+  <TermDefinition>
+    <DefinitionText>An anticancer drug that belongs to the family of drugs called staurosporine analogs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>UCN-01</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento contra el cáncer que es un tipo de análogo de la estaurosporina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2003-05-21</DateLastModified>
+</GlossaryTerm>

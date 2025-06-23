@@ -1,1 +1,28 @@
-<GlossaryTerm id="CDR0000776821"><TermName>MPL gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein that helps control the number of blood cells that are made in the bone marrow, especially platelets. Mutated (changed) forms of the <GeneName>MPL</GeneName> gene may cause the body to make abnormal blood cells or too many platelets. Mutations in this gene have been found in some types of blood conditions, including essential thrombocythemia and primary myelofibrosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000780352" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MPL gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000780351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen MPL&quot;" language="es" id="_4"/><SpanishTermName>gen MPL</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que ayuda a controlar la cantidad de células sanguíneas que se producen en la médula ósea, en especial las plaquetas. Las formas mutadas (cambiadas) del gen <GeneName>MPL</GeneName> a veces hacen que el cuerpo elabore células sanguíneas anormales o demasiadas plaquetas. Se han encontrado mutaciones de este gen en ciertos tipos de afecciones sanguíneas, como la trombocitemia esencial y la mielofibrosis primaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-03-14</DateFirstPublished><DateLastModified>2020-12-02</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776821">
+  <TermName>MPL gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein that helps control the number of blood cells that are made in the bone marrow, especially platelets. Mutated (changed) forms of the 
+      <GeneName>MPL</GeneName>
+       gene may cause the body to make abnormal blood cells or too many platelets. Mutations in this gene have been found in some types of blood conditions, including essential thrombocythemia and primary myelofibrosis.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000780352" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MPL gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000780351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen MPL&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen MPL</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que ayuda a controlar la cantidad de células sanguíneas que se producen en la médula ósea, en especial las plaquetas. Las formas mutadas (cambiadas) del gen 
+      <GeneName>MPL</GeneName>
+       a veces hacen que el cuerpo elabore células sanguíneas anormales o demasiadas plaquetas. Se han encontrado mutaciones de este gen en ciertos tipos de afecciones sanguíneas, como la trombocitemia esencial y la mielofibrosis primaria.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-03-14</DateFirstPublished>
+  <DateLastModified>2020-12-02</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798772"><TermName>PRCA</TermName><TermDefinition><DefinitionText>A rare disorder in which the bone marrow does not make enough red blood cells. Signs and symptoms include fatigue, pale skin, breathing problems, dizziness, and headaches. PRCA mainly affects adults and may be caused by infection, kidney failure, an autoimmune disease (such as lupus or rheumatoid arthritis), pregnancy, a thymoma (tumor of the thymus gland), and certain types of cancer, including leukemia. It may also be caused by taking certain medicines. PRCA may also be inherited and seen in the first year of life, but this is very rare. Also called pure red cell aplasia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>APCR</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno raro por el que la médula ósea no produce suficientes glóbulos rojos. Los signos y síntomas son cansancio, piel pálida, problemas para respirar, mareos y dolores de cabeza. La APCR afecta sobre todo a adultos. Las causas de este trastorno son infecciones, insuficiencia renal, enfermedades autoinmunitarias (como lupus y artritis reumatoide), embarazo, timoma (tumor de timo), y determinados tipos de cáncer, como la leucemia. Además,  es posible que ciertos medicamentos produzcan esta alteración. La APCR a veces es hereditaria y se presenta durante el primer año de vida, aunque esto es muy infrecuente. También se llama aplasia pura de células rojas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-01-13</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7504/pure-red-cell-aplasia">Pure red cell aplasia (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798772">
+  <TermName>PRCA</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare disorder in which the bone marrow does not make enough red blood cells. Signs and symptoms include fatigue, pale skin, breathing problems, dizziness, and headaches. PRCA mainly affects adults and may be caused by infection, kidney failure, an autoimmune disease (such as lupus or rheumatoid arthritis), pregnancy, a thymoma (tumor of the thymus gland), and certain types of cancer, including leukemia. It may also be caused by taking certain medicines. PRCA may also be inherited and seen in the first year of life, but this is very rare. Also called pure red cell aplasia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>APCR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno raro por el que la médula ósea no produce suficientes glóbulos rojos. Los signos y síntomas son cansancio, piel pálida, problemas para respirar, mareos y dolores de cabeza. La APCR afecta sobre todo a adultos. Las causas de este trastorno son infecciones, insuficiencia renal, enfermedades autoinmunitarias (como lupus y artritis reumatoide), embarazo, timoma (tumor de timo), y determinados tipos de cáncer, como la leucemia. Además,  es posible que ciertos medicamentos produzcan esta alteración. La APCR a veces es hereditaria y se presenta durante el primer año de vida, aunque esto es muy infrecuente. También se llama aplasia pura de células rojas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-01-13</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7504/pure-red-cell-aplasia">Pure red cell aplasia (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000794422"><TermName>PRRT</TermName><TermDefinition><DefinitionText>A type of radiation therapy used to treat certain types of neuroendocrine tumors. A radioactive chemical is linked to a peptide (small protein) that targets cancer cells. When this radioactive peptide is injected into the body, it binds to a specific receptor found on some cancer cells. The radioactive peptide builds up in these cells and helps kill the cancer cells without harming normal cells.  PRRT is a type of targeted therapy. Also called peptide receptor radionuclide therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PRRT</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de radioterapia que se utiliza para el tratamiento de ciertos tipos de tumores neuroendocrinos. Se utiliza un químico radiactivo unido a un péptido (proteína pequeña) que ataca las células cancerosas. Cuando este péptido radiactivo se inyecta en el cuerpo, se une a un receptor específico que se encuentra en algunas células cancerosas. El péptido radiactivo se acumula en esas células y ayuda a destruir las células cancerosas sin dañar las células normales. La PRRT es un tipo de terapia dirigida. También se llama terapia radionuclídica de receptores peptídicos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-11-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794422">
+  <TermName>PRRT</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of radiation therapy used to treat certain types of neuroendocrine tumors. A radioactive chemical is linked to a peptide (small protein) that targets cancer cells. When this radioactive peptide is injected into the body, it binds to a specific receptor found on some cancer cells. The radioactive peptide builds up in these cells and helps kill the cancer cells without harming normal cells.  PRRT is a type of targeted therapy. Also called peptide receptor radionuclide therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PRRT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de radioterapia que se utiliza para el tratamiento de ciertos tipos de tumores neuroendocrinos. Se utiliza un químico radiactivo unido a un péptido (proteína pequeña) que ataca las células cancerosas. Cuando este péptido radiactivo se inyecta en el cuerpo, se une a un receptor específico que se encuentra en algunas células cancerosas. El péptido radiactivo se acumula en esas células y ayuda a destruir las células cancerosas sin dañar las células normales. La PRRT es un tipo de terapia dirigida. También se llama terapia radionuclídica de receptores peptídicos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-11-08</DateFirstPublished>
+</GlossaryTerm>

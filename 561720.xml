@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000561720"><TermName>signaling pathway</TermName><TermPronunciation>(SIG-nuh-ling …)</TermPronunciation><TermDefinition><DefinitionText>Describes a
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561720">
+  <TermName>signaling pathway</TermName>
+  <TermPronunciation>(SIG-nuh-ling …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes a
           series of chemical reactions in which a group of molecules
           in a cell work together to control a cell function, such as
           cell division or cell death. A cell receives signals from
@@ -12,7 +17,15 @@
           may lead to diseases, such as cancer. Drugs are being
           developed to target specific molecules involved in these
           pathways. These drugs may help keep cancer cells from
-          growing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720675" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;signaling pathway&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720674" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vía de señalización&quot;" language="es" id="_4"/><SpanishTermName>vía de señalización</SpanishTermName><SpanishTermDefinition><DefinitionText>Descripción de una serie de
+          growing.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720675" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;signaling pathway&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720674" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vía de señalización&quot;" language="es" id="_4"/>
+  <SpanishTermName>vía de señalización</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Descripción de una serie de
 reacciones químicas en las que
 un grupo de
 moléculas de la célula
@@ -31,4 +44,10 @@ quizás produzca enfermedades, como el cáncer. Se están
 elaborando medicamentos que actúan sobre moléculas
 específicas que participan en estas vías. Estos
 medicamentos quizás eviten la multiplicación de células
-cancerosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-06</DateFirstPublished><DateLastModified>2020-01-23</DateLastModified></GlossaryTerm>
+cancerosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-06</DateFirstPublished>
+  <DateLastModified>2020-01-23</DateLastModified>
+</GlossaryTerm>

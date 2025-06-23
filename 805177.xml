@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805177"><TermName>intermediate-grade DCIS</TermName><TermPronunciation>(IN-ter-MEE-dee-ut-grayd …)</TermPronunciation><TermDefinition><DefinitionText>A condition in which cells that look somewhat abnormal under a microscope are found in the lining of a breast duct. The abnormal cells have not spread outside the duct to other tissues in the breast. Intermediate-grade DCIS tends to grow more quickly than low-grade DCIS but not as quickly as high-grade DCIS. It is also more likely than low-grade DCIS to come back or become invasive breast cancer and spread to other tissues but not as likely as high-grade DCIS. Also called grade II DCIS, grade II ductal carcinoma in situ, and intermediate-grade ductal carcinoma in situ.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808437" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intermediate-grade DCIS&quot;" language="en" id="_3"/><SpanishTermName>CDIS de grado intermedio</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un conducto de la mama. Estas células se ven un poco anormales cuando se observan al microscopio. Las células anormales no se han diseminado a  otros tejidos de la mama fuera del conducto. El CDIS de grado intermedio suele crecer más rápido que el CDIS de grado bajo, pero no tan rápido como el de grado alto. Además, es más probable que vuelva, o se convierta en un cáncer de mama invasivo y se disemine a otros tejidos, cuando se lo compara con el CDIS de grado bajo. Pero menos probable, cuando se lo compara con el de grado alto. También se llama carcinoma ductal in situ de grado II, carcinoma ductal in situ de grado intermedio y CDIS de grado II.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-10-12</DateFirstPublished><DateLastModified>2022-05-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805177">
+  <TermName>intermediate-grade DCIS</TermName>
+  <TermPronunciation>(IN-ter-MEE-dee-ut-grayd …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which cells that look somewhat abnormal under a microscope are found in the lining of a breast duct. The abnormal cells have not spread outside the duct to other tissues in the breast. Intermediate-grade DCIS tends to grow more quickly than low-grade DCIS but not as quickly as high-grade DCIS. It is also more likely than low-grade DCIS to come back or become invasive breast cancer and spread to other tissues but not as likely as high-grade DCIS. Also called grade II DCIS, grade II ductal carcinoma in situ, and intermediate-grade ductal carcinoma in situ.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808437" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intermediate-grade DCIS&quot;" language="en" id="_3"/>
+  <SpanishTermName>CDIS de grado intermedio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un conducto de la mama. Estas células se ven un poco anormales cuando se observan al microscopio. Las células anormales no se han diseminado a  otros tejidos de la mama fuera del conducto. El CDIS de grado intermedio suele crecer más rápido que el CDIS de grado bajo, pero no tan rápido como el de grado alto. Además, es más probable que vuelva, o se convierta en un cáncer de mama invasivo y se disemine a otros tejidos, cuando se lo compara con el CDIS de grado bajo. Pero menos probable, cuando se lo compara con el de grado alto. También se llama carcinoma ductal in situ de grado II, carcinoma ductal in situ de grado intermedio y CDIS de grado II.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-10-12</DateFirstPublished>
+  <DateLastModified>2022-05-04</DateLastModified>
+</GlossaryTerm>

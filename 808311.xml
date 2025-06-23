@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000808311"><TermName>hemp</TermName><TermDefinition><DefinitionText>An herb that comes from a variant of the <Emphasis>Cannabis sativa</Emphasis> plant and contains fiber, seeds, and oil used to make many different industrial and consumer products. These include textiles, building materials, paper, fabrics, soap, food, dietary supplements, and cosmetics. Hemp and marijuana come from the same species of <Emphasis>Cannabis sativa</Emphasis>, but the hemp  variant contains very low levels of delta-9-THC (the main active chemical in marijuana that causes drug-like effects in the body). The hemp and marijuana variants of <Emphasis>Cannabis sativa</Emphasis> have their own chemical and genetic makeup and are regulated, grown, and used in different ways. Also called industrial hemp.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000810316" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemp&quot;" language="en" id="_4"/><MediaLink ref="CDR0000810996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáñamo común&quot;" language="es" id="_5"/><SpanishTermName>cáñamo común</SpanishTermName><SpanishTermDefinition><DefinitionText>Variedad de la planta <Emphasis>Cannabis sativa</Emphasis>. Es una hierba que contiene fibra, semillas y aceite que se usan para fabricar múltiples productos industriales y de consumo, como textiles, materiales de construcción, papel, telas, jabón, alimentos, suplementos alimentarios y cosméticos. El cáñamo común  y la marihuana pertenecen a la misma especie <Emphasis>Cannabis sativa</Emphasis>, pero el cáñamo común contiene concentraciones muy bajas de delta-9-THC (principal sustancia química activa que produce efectos de droga en el cuerpo). El cáñamo común y la  marihuana tienen distinta  composición química y genética. Además, se regulan, cultivan y se utilizan de formas diferentes. También se llama cáñamo agrario y cáñamo industrial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808311">
+  <TermName>hemp</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      An herb that comes from a variant of the 
+      <Emphasis>Cannabis sativa</Emphasis>
+       plant and contains fiber, seeds, and oil used to make many different industrial and consumer products. These include textiles, building materials, paper, fabrics, soap, food, dietary supplements, and cosmetics. Hemp and marijuana come from the same species of 
+      <Emphasis>Cannabis sativa</Emphasis>
+      , but the hemp  variant contains very low levels of delta-9-THC (the main active chemical in marijuana that causes drug-like effects in the body). The hemp and marijuana variants of 
+      <Emphasis>Cannabis sativa</Emphasis>
+       have their own chemical and genetic makeup and are regulated, grown, and used in different ways. Also called industrial hemp.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000810316" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemp&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000810996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáñamo común&quot;" language="es" id="_5"/>
+  <SpanishTermName>cáñamo común</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Variedad de la planta 
+      <Emphasis>Cannabis sativa</Emphasis>
+      . Es una hierba que contiene fibra, semillas y aceite que se usan para fabricar múltiples productos industriales y de consumo, como textiles, materiales de construcción, papel, telas, jabón, alimentos, suplementos alimentarios y cosméticos. El cáñamo común  y la marihuana pertenecen a la misma especie 
+      <Emphasis>Cannabis sativa</Emphasis>
+      , pero el cáñamo común contiene concentraciones muy bajas de delta-9-THC (principal sustancia química activa que produce efectos de droga en el cuerpo). El cáñamo común y la  marihuana tienen distinta  composición química y genética. Además, se regulan, cultivan y se utilizan de formas diferentes. También se llama cáñamo agrario y cáñamo industrial.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-02</DateFirstPublished>
+</GlossaryTerm>

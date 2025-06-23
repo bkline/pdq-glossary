@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000814673"><TermName>VLNT</TermName><TermDefinition><DefinitionText>Surgery done to help relieve symptoms of lymphedema (swelling caused by a buildup of lymph in the tissues). Lymphedema can occur when lymph nodes or vessels become damaged or blocked. During a VLNT,  healthy tissue containing lymph nodes and vessels is taken from one part of the body, such as the neck, abdomen, or groin, and moved to the area with the damaged lymph nodes, usually in a person’s arm or leg. This may cause the lymph nodes and vessels in the healthy tissue to grow and help improve the flow of lymph in that area. Also called lymphovenous transplant and vascularized lymph node transfer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>VLNT</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para aliviar los síntomas del linfedema (hinchazón que se produce cuando la linfa se acumula en el tejido). El linfedema ocurre cuando los ganglios o vasos linfáticos se dañan o bloquean. Durante el VLNT, se remplazan los ganglios linfáticos dañados (de un brazo o pierna) por tejido que contiene ganglios y vasos linfáticos sanos. El tejido trasplantado, se obtiene de otras partes del cuerpo, como el cuello, el abdomen o la ingle. Cuando los ganglios y vasos linfáticos sanos empiezan a crecer, se mejora el flujo de la linfa en el área afectada. También se llama TGLV, transferencia de ganglios linfáticos vascularizados y trasplante linfovenoso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-03-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814673">
+  <TermName>VLNT</TermName>
+  <TermDefinition>
+    <DefinitionText>Surgery done to help relieve symptoms of lymphedema (swelling caused by a buildup of lymph in the tissues). Lymphedema can occur when lymph nodes or vessels become damaged or blocked. During a VLNT,  healthy tissue containing lymph nodes and vessels is taken from one part of the body, such as the neck, abdomen, or groin, and moved to the area with the damaged lymph nodes, usually in a person’s arm or leg. This may cause the lymph nodes and vessels in the healthy tissue to grow and help improve the flow of lymph in that area. Also called lymphovenous transplant and vascularized lymph node transfer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>VLNT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para aliviar los síntomas del linfedema (hinchazón que se produce cuando la linfa se acumula en el tejido). El linfedema ocurre cuando los ganglios o vasos linfáticos se dañan o bloquean. Durante el VLNT, se remplazan los ganglios linfáticos dañados (de un brazo o pierna) por tejido que contiene ganglios y vasos linfáticos sanos. El tejido trasplantado, se obtiene de otras partes del cuerpo, como el cuello, el abdomen o la ingle. Cuando los ganglios y vasos linfáticos sanos empiezan a crecer, se mejora el flujo de la linfa en el área afectada. También se llama TGLV, transferencia de ganglios linfáticos vascularizados y trasplante linfovenoso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-03-01</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045534"><TermName>isotretinoin</TermName><TermPronunciation>(I-soh-TREH-tih-noyn)</TermPronunciation><TermDefinition><DefinitionText>A drug closely related to vitamin A that is used to treat severe acne and may also be used to treat other skin conditions and some types of cancer, including neuroblastoma. It is also being studied in the prevention and treatment of other types of cancer. Isotretinoin binds to and activates certain protein receptors in cells, including cancer cells. This may slow the growth of cancer cells and change how these cells look and act. Isotretinoin is a type of retinoid. Also called 13-cis retinoic acid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731067" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;isotretinoin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731066" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;isotretinoína&quot;" language="es" id="_4"/><SpanishTermName>isotretinoína</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento relacionado muy de cerca con la vitamina A que se usa para el tratamiento del acné ,otras afecciones de la piel y algunos tipos de cáncer, como el neuroblastoma. También está en estudio para la prevención y el tratamiento de otros tipos de cáncer.  se une a ciertos receptores de proteínas de las células, incluidas las cancerosas, y los activa. Esto hace más lenta la multiplicación de las células cancerosas y cambia el aspecto y el comportamiento de estas células. Es un tipo de retinoide. También se llama ácido retinoico 13-cis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-08-25</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045534">
+  <TermName>isotretinoin</TermName>
+  <TermPronunciation>(I-soh-TREH-tih-noyn)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug closely related to vitamin A that is used to treat severe acne and may also be used to treat other skin conditions and some types of cancer, including neuroblastoma. It is also being studied in the prevention and treatment of other types of cancer. Isotretinoin binds to and activates certain protein receptors in cells, including cancer cells. This may slow the growth of cancer cells and change how these cells look and act. Isotretinoin is a type of retinoid. Also called 13-cis retinoic acid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731067" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;isotretinoin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731066" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;isotretinoína&quot;" language="es" id="_4"/>
+  <SpanishTermName>isotretinoína</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento relacionado muy de cerca con la vitamina A que se usa para el tratamiento del acné ,otras afecciones de la piel y algunos tipos de cáncer, como el neuroblastoma. También está en estudio para la prevención y el tratamiento de otros tipos de cáncer.  se une a ciertos receptores de proteínas de las células, incluidas las cancerosas, y los activa. Esto hace más lenta la multiplicación de las células cancerosas y cambia el aspecto y el comportamiento de estas células. Es un tipo de retinoide. También se llama ácido retinoico 13-cis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-08-25</DateLastModified>
+</GlossaryTerm>

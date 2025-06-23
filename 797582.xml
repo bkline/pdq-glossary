@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000797582"><TermName>cytokine therapy</TermName><TermPronunciation>(SY-toh-kine THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment that uses cytokines (substances made by immune cells) to help the body fight cancer, infection, or other diseases. Cytokines play an important role in the body’s immune response. They can also be made in the laboratory to use as treatment for different diseases. In cancer, cytokine therapy may help the immune system kill cancer cells or keep them from growing. The two main types of cytokines used to treat cancer are interleukins and interferons.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799513" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cytokine therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000799512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de citocinas&quot;" language="es" id="_4"/><SpanishTermName>terapia de citocinas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento con citocinas (sustancias elaboradas por las células inmunitarias) para ayudar al cuerpo a combatir cánceres, infecciones u otras enfermedades. Las citocinas cumplen una función importante en las respuestas inmunitarias del cuerpo. También se pueden producir en el laboratorio para usarlas como tratamiento de diferentes enfermedades. En el cáncer, la terapia de citocinas quizás ayude al sistema inmunitario a destruir células cancerosas o  evitar su multiplicación. Los dos tipos principales de citocinas que sirven para tratar el cáncer son las interleucinas y los interferones. También se llama tratamiento de citoquinas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-25</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/immune-system-modulators">Immune System Modulators</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/inmunoterapia/inmunomodulador">Inmunomoduladores</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797582">
+  <TermName>cytokine therapy</TermName>
+  <TermPronunciation>(SY-toh-kine THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that uses cytokines (substances made by immune cells) to help the body fight cancer, infection, or other diseases. Cytokines play an important role in the body’s immune response. They can also be made in the laboratory to use as treatment for different diseases. In cancer, cytokine therapy may help the immune system kill cancer cells or keep them from growing. The two main types of cytokines used to treat cancer are interleukins and interferons.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799513" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cytokine therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000799512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de citocinas&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia de citocinas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento con citocinas (sustancias elaboradas por las células inmunitarias) para ayudar al cuerpo a combatir cánceres, infecciones u otras enfermedades. Las citocinas cumplen una función importante en las respuestas inmunitarias del cuerpo. También se pueden producir en el laboratorio para usarlas como tratamiento de diferentes enfermedades. En el cáncer, la terapia de citocinas quizás ayude al sistema inmunitario a destruir células cancerosas o  evitar su multiplicación. Los dos tipos principales de citocinas que sirven para tratar el cáncer son las interleucinas y los interferones. También se llama tratamiento de citoquinas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-25</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/immune-system-modulators">Immune System Modulators</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/inmunoterapia/inmunomodulador">Inmunomoduladores</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

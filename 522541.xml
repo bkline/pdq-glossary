@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000522541"><TermName>melanoma in situ</TermName><TermPronunciation>(MEH-luh-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>Abnormal melanocytes (cells that make melanin, the pigment that gives skin its natural color)   are found in the epidermis (outer layer of the skin). These abnormal melanocytes may become cancer and spread into nearby normal tissue. Also called stage 0 melanoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718115" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718114" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma in situ&quot;" language="es" id="_4"/><MediaLink ref="CDR0000579050" type="image/jpeg" alt="Stage 0 melanoma; drawing shows an abnormal area on the surface of the skin and abnormal melanocytes in the epidermis (outer layer of the skin). Also shown are the dermis (inner layer of the skin) and the subcutaneous tissue below the dermis." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Stage 0 melanoma. Abnormal melanocytes are found in the epidermis (outer layer of the skin). These abnormal melanocytes may become cancer and spread into nearby normal tissue.</Caption></MediaLink><MediaLink ref="CDR0000609799" type="image/jpeg" alt="Melanoma en estadio 0. En la imagen se observa un área anormal en la superficie de la piel y melanocitos anormales en la epidermis (capa superficial o externa de la piel). También se muestra la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis." language="es" audience="Patients" placement="image-center" id="_5"><Caption language="es">Melanoma en estadio 0. Se encuentran melanocitos anormales en la epidermis (capa superficial o externa de la piel). Es posible que estos melanocitos anormales se vuelvan cancerosos y se diseminen al tejido normal cercano.</Caption></MediaLink><SpanishTermName>melanoma in situ</SpanishTermName><SpanishTermDefinition><DefinitionText>Se encuentran melanocitos (células que elaboran la melanina, el pigmento que le da color a la piel) anormales en la epidermis (capa externa de la piel). Es posible que estos melanocitos anormales se vuelvan cancerosos y se diseminen al tejido normal cercano. También se llama melanoma en estadio 0.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-11-17</DateFirstPublished><DateLastModified>2018-09-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062713" url="/types/skin/patient/melanoma-treatment-pdq">Melanoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256816" url="/espanol/tipos/piel/paciente/tratamiento-melanoma-pdq">Tratamiento del melanoma</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000522541">
+  <TermName>melanoma in situ</TermName>
+  <TermPronunciation>(MEH-luh-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal melanocytes (cells that make melanin, the pigment that gives skin its natural color)   are found in the epidermis (outer layer of the skin). These abnormal melanocytes may become cancer and spread into nearby normal tissue. Also called stage 0 melanoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718115" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718114" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma in situ&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000579050" type="image/jpeg" alt="Stage 0 melanoma; drawing shows an abnormal area on the surface of the skin and abnormal melanocytes in the epidermis (outer layer of the skin). Also shown are the dermis (inner layer of the skin) and the subcutaneous tissue below the dermis." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Stage 0 melanoma. Abnormal melanocytes are found in the epidermis (outer layer of the skin). These abnormal melanocytes may become cancer and spread into nearby normal tissue.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000609799" type="image/jpeg" alt="Melanoma en estadio 0. En la imagen se observa un área anormal en la superficie de la piel y melanocitos anormales en la epidermis (capa superficial o externa de la piel). También se muestra la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis." language="es" audience="Patients" placement="image-center" id="_5">
+    <Caption language="es">Melanoma en estadio 0. Se encuentran melanocitos anormales en la epidermis (capa superficial o externa de la piel). Es posible que estos melanocitos anormales se vuelvan cancerosos y se diseminen al tejido normal cercano.</Caption>
+  </MediaLink>
+  <SpanishTermName>melanoma in situ</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se encuentran melanocitos (células que elaboran la melanina, el pigmento que le da color a la piel) anormales en la epidermis (capa externa de la piel). Es posible que estos melanocitos anormales se vuelvan cancerosos y se diseminen al tejido normal cercano. También se llama melanoma en estadio 0.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-11-17</DateFirstPublished>
+  <DateLastModified>2018-09-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062713" url="/types/skin/patient/melanoma-treatment-pdq">Melanoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256816" url="/espanol/tipos/piel/paciente/tratamiento-melanoma-pdq">Tratamiento del melanoma</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

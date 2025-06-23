@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045676"><TermName>edema</TermName><TermPronunciation>(eh-DEE-muh)</TermPronunciation><TermDefinition><DefinitionText>Swelling caused by excess fluid in body tissues.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000703930" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema&quot;" language="en" id="_3"/><MediaLink ref="CDR0000703929" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema&quot;" language="es" id="_4"/><SpanishTermName>edema</SpanishTermName><SpanishTermDefinition><DefinitionText>Hinchazón causada por el exceso de líquido en los tejidos del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/edema">Edema (Swelling) and Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/edema">Edema</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045676">
+  <TermName>edema</TermName>
+  <TermPronunciation>(eh-DEE-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Swelling caused by excess fluid in body tissues.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000703930" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000703929" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema&quot;" language="es" id="_4"/>
+  <SpanishTermName>edema</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hinchazón causada por el exceso de líquido en los tejidos del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/edema">Edema (Swelling) and Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/edema">Edema</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

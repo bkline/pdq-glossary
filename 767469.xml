@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000767469"><TermName>Lynparza</TermName><TermPronunciation>(lin-PAR-zuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with certain types of prostate cancer, pancreatic cancer, breast cancer, or ovarian, fallopian tube, or primary peritoneal cancer. It is also being studied in the treatment of other types of cancer. Lynparza blocks an enzyme involved in many cell functions, including the repair of DNA damage. Blocking this enzyme may help keep cancer cells from repairing their damaged DNA, causing them to die. Lynparza is a type of PARP inhibitor.  Also called AZD2281, olaparib, and PARP inhibitor AZD2281.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000769386" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lynparza&quot;" language="en" id="_3"/><MediaLink ref="CDR0000769385" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lynparza&quot;" language="es" id="_4"/><SpanishTermName>Lynparza</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de próstata, cáncer de páncreas, cáncer de mama  o cáncer de ovario, de trompas de Falopio o primario de peritoneo. También está en estudio para el tratamiento de otros tipos de cáncer. Lynparza bloquea una enzima que participa en muchas funciones celulares, entre ellas, la reparación del daño al ADN. Bloquear esta enzima quizás ayude a evitar que las células cancerosas reparen el daño a su ADN y esto las destruya.  Lynparza es un tipo de inhibidor de PARP. También se llama AZD2281, inhibidor de PARP AZD2281 y olaparib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-12-29</DateFirstPublished><DateLastModified>2023-06-02</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000767622" url="/about-cancer/treatment/drugs/olaparib">Olaparib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000767469">
+  <TermName>Lynparza</TermName>
+  <TermPronunciation>(lin-PAR-zuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults with certain types of prostate cancer, pancreatic cancer, breast cancer, or ovarian, fallopian tube, or primary peritoneal cancer. It is also being studied in the treatment of other types of cancer. Lynparza blocks an enzyme involved in many cell functions, including the repair of DNA damage. Blocking this enzyme may help keep cancer cells from repairing their damaged DNA, causing them to die. Lynparza is a type of PARP inhibitor.  Also called AZD2281, olaparib, and PARP inhibitor AZD2281.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000769386" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lynparza&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000769385" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lynparza&quot;" language="es" id="_4"/>
+  <SpanishTermName>Lynparza</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de próstata, cáncer de páncreas, cáncer de mama  o cáncer de ovario, de trompas de Falopio o primario de peritoneo. También está en estudio para el tratamiento de otros tipos de cáncer. Lynparza bloquea una enzima que participa en muchas funciones celulares, entre ellas, la reparación del daño al ADN. Bloquear esta enzima quizás ayude a evitar que las células cancerosas reparen el daño a su ADN y esto las destruya.  Lynparza es un tipo de inhibidor de PARP. También se llama AZD2281, inhibidor de PARP AZD2281 y olaparib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-12-29</DateFirstPublished>
+  <DateLastModified>2023-06-02</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000767622" url="/about-cancer/treatment/drugs/olaparib">Olaparib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

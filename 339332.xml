@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000339332"><TermName>late or variable onset</TermName><TermPronunciation>(layt … VAYR-ee-uh-bul …)</TermPronunciation><TermDefinition><DefinitionText>Refers to the age at which a disease phenotype is expressed in an individual who carries a pathogenic variant. Conditions with late or variable onset generally manifest later in life or at no fixed time over the course of a lifetime.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736956" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;late or variable onset&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804188" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inicio variable o tardío&quot;" language="es" id="_4"/><SpanishTermName>inicio variable o tardío</SpanishTermName><SpanishTermDefinition><DefinitionText>Se refiere a la edad de expresión del fenotipo de una enfermedad en un individuo portador de la variante patógena. Las afecciones  de inicio tardío o variable por lo general se manifiestan más tarde en la vida, o no tienen un momento fijo de presentación inicial.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000339332">
+  <TermName>late or variable onset</TermName>
+  <TermPronunciation>(layt … VAYR-ee-uh-bul …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Refers to the age at which a disease phenotype is expressed in an individual who carries a pathogenic variant. Conditions with late or variable onset generally manifest later in life or at no fixed time over the course of a lifetime.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736956" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;late or variable onset&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804188" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inicio variable o tardío&quot;" language="es" id="_4"/>
+  <SpanishTermName>inicio variable o tardío</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se refiere a la edad de expresión del fenotipo de una enfermedad en un individuo portador de la variante patógena. Las afecciones  de inicio tardío o variable por lo general se manifiestan más tarde en la vida, o no tienen un momento fijo de presentación inicial.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-03</DateFirstPublished>
+</GlossaryTerm>

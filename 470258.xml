@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000470258"><TermName>trachelectomy</TermName><TermPronunciation>(TRAY-kee-LEK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery to remove the cervix. There are  two  types of trachelectomy: simple trachelectomy and radical trachelectomy. During a simple trachelectomy, only the cervix is removed. During a radical trachelectomy, the cervix, nearby tissue, and the upper part of the vagina are removed. Lymph nodes in the pelvis may also be removed. Because the uterus, fallopian tubes, and ovaries are not removed, a trachelectomy may be done to treat a person with early-stage cervical cancer who wants to become pregnant in the future. Also called cervicectomy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716749" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trachelectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716748" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;traquelectomía&quot;" language="es" id="_4"/><SpanishTermName>traquelectomía</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar el cuello uterino. Hay dos tipos de traquelectomía: la traquelectomía simple y la traquelectomía radical. Durante la traquelectomía simple, se extirpa solo el cuello uterino. Durante la traquelectomía radical, se extirpan el cuello uterino, los tejidos cercanos y la parte superior de la vagina. En ocasiones también se extirpan los ganglios linfáticos de la pelvis. Debido a que no se extraen el útero, las trompas de Falopio ni los ovarios, es posible realizar una traquelectomía para tratar a una persona con cáncer de cuello uterino en estadio temprano que quiera quedar embarazada en el futuro. También se llama cervicectomía.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000470258">
+  <TermName>trachelectomy</TermName>
+  <TermPronunciation>(TRAY-kee-LEK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to remove the cervix. There are  two  types of trachelectomy: simple trachelectomy and radical trachelectomy. During a simple trachelectomy, only the cervix is removed. During a radical trachelectomy, the cervix, nearby tissue, and the upper part of the vagina are removed. Lymph nodes in the pelvis may also be removed. Because the uterus, fallopian tubes, and ovaries are not removed, a trachelectomy may be done to treat a person with early-stage cervical cancer who wants to become pregnant in the future. Also called cervicectomy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716749" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trachelectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716748" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;traquelectomía&quot;" language="es" id="_4"/>
+  <SpanishTermName>traquelectomía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar el cuello uterino. Hay dos tipos de traquelectomía: la traquelectomía simple y la traquelectomía radical. Durante la traquelectomía simple, se extirpa solo el cuello uterino. Durante la traquelectomía radical, se extirpan el cuello uterino, los tejidos cercanos y la parte superior de la vagina. En ocasiones también se extirpan los ganglios linfáticos de la pelvis. Debido a que no se extraen el útero, las trompas de Falopio ni los ovarios, es posible realizar una traquelectomía para tratar a una persona con cáncer de cuello uterino en estadio temprano que quiera quedar embarazada en el futuro. También se llama cervicectomía.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-14</DateFirstPublished>
+</GlossaryTerm>

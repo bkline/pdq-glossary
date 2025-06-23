@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000455136"><TermName>body mass index</TermName><TermPronunciation>(BAH-dee mas IN-dex)</TermPronunciation><TermDefinition><DefinitionText>A measure that relates body weight to height. BMI is sometimes used to measure total body fat and whether a person is a healthy weight. Excess body fat is linked to an increased risk of some diseases including heart disease and some cancers. Also called BMI.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715209" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;body mass index&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715208" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;índice de masa corporal&quot;" language="es" id="_4"/><SpanishTermName>índice de masa corporal</SpanishTermName><SpanishTermDefinition><DefinitionText>Medida que relaciona el peso y la estatura del cuerpo humano. El índice de masa corporal (IMC) a veces se usa  para calcular la cantidad de grasa corporal y comprobar si una persona tiene un peso saludable. El exceso de grasa se vincula con un mayor riesgo de algunas enfermedades, como  las enfermedades del corazón y algunos tipos de cáncer. También se llama IMC y índice de Quetelet.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-08-24</DateFirstPublished><DateLastModified>2007-01-18</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet" UseWith="en">Obesity and Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad/hoja-informativa-obesidad" UseWith="es">Obesidad y cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000455136">
+  <TermName>body mass index</TermName>
+  <TermPronunciation>(BAH-dee mas IN-dex)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A measure that relates body weight to height. BMI is sometimes used to measure total body fat and whether a person is a healthy weight. Excess body fat is linked to an increased risk of some diseases including heart disease and some cancers. Also called BMI.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715209" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;body mass index&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715208" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;índice de masa corporal&quot;" language="es" id="_4"/>
+  <SpanishTermName>índice de masa corporal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medida que relaciona el peso y la estatura del cuerpo humano. El índice de masa corporal (IMC) a veces se usa  para calcular la cantidad de grasa corporal y comprobar si una persona tiene un peso saludable. El exceso de grasa se vincula con un mayor riesgo de algunas enfermedades, como  las enfermedades del corazón y algunos tipos de cáncer. También se llama IMC y índice de Quetelet.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-08-24</DateFirstPublished>
+  <DateLastModified>2007-01-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet" UseWith="en">Obesity and Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad/hoja-informativa-obesidad" UseWith="es">Obesidad y cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

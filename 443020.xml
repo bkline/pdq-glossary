@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000443020"><TermName>iodine I 131-monoclonal antibody BC8</TermName><TermPronunciation>(I-oh-dine … MAH-noh-KLOH-nul AN-tee-BAH-dee…)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of some types of leukemia and lymphoma. BC8 is a monoclonal antibody that binds to a protein called CD45, which is found on most white blood cells and some types of leukemia and lymphoma cells. It is linked to a radioactive substance called iodine I 131, which may help kill cancer cells. Iodine I 131-monoclonal antibody BC8 is a type of radioimmunoconjugate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iodine I 131 monoclonal antibody BC8&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714628" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yodo I 131-anticuerpo monoclonal BC8&quot;" language="es" id="_4"/><SpanishTermName>yodo I 131-anticuerpo monoclonal BC8</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de ciertos tipos de leucemia y linfoma. BC8 es un anticuerpo monoclonal que se une a una proteína que se llama CD45, que se encuentra en la mayoría de los glóbulos blancos y en algunos tipos de células de leucemia y linfoma. Se une a una sustancia radiactiva llamada yodo I 131 que es capaz de destruir células cancerosas. El yodo I 131-anticuerpo monoclonal BC8 es un tipo de radioinmunoconjugado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-14</DateFirstPublished><DateLastModified>2017-03-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000443020">
+  <TermName>iodine I 131-monoclonal antibody BC8</TermName>
+  <TermPronunciation>(I-oh-dine … MAH-noh-KLOH-nul AN-tee-BAH-dee…)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of some types of leukemia and lymphoma. BC8 is a monoclonal antibody that binds to a protein called CD45, which is found on most white blood cells and some types of leukemia and lymphoma cells. It is linked to a radioactive substance called iodine I 131, which may help kill cancer cells. Iodine I 131-monoclonal antibody BC8 is a type of radioimmunoconjugate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iodine I 131 monoclonal antibody BC8&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714628" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yodo I 131-anticuerpo monoclonal BC8&quot;" language="es" id="_4"/>
+  <SpanishTermName>yodo I 131-anticuerpo monoclonal BC8</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de ciertos tipos de leucemia y linfoma. BC8 es un anticuerpo monoclonal que se une a una proteína que se llama CD45, que se encuentra en la mayoría de los glóbulos blancos y en algunos tipos de células de leucemia y linfoma. Se une a una sustancia radiactiva llamada yodo I 131 que es capaz de destruir células cancerosas. El yodo I 131-anticuerpo monoclonal BC8 es un tipo de radioinmunoconjugado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-14</DateFirstPublished>
+  <DateLastModified>2017-03-23</DateLastModified>
+</GlossaryTerm>

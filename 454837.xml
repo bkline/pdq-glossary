@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000454837"><TermName>stage II mycosis fungoides</TermName><TermPronunciation>(... my-KOH-sis fun-GOY-deez)</TermPronunciation><TermDefinition><DefinitionText>Stage II is divided into stages IIA and IIB. In stage IIA, patches, papules, and/or plaques cover any amount of the skin surface. Lymph nodes are abnormal, but they are not cancerous. In stage IIB, one or more tumors that are 1 centimeter or larger are found on the skin. Lymph nodes may be abnormal, but they are not cancerous.  In both stages, there may be a low number of Sezary cells in the blood.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II mycosis fungoides&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715087" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;micosis fungoide en estadio II&quot;" language="es" id="_4"/><SpanishTermName>micosis fungoide en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio II se divide en los estadios IIA y IIB. En el estadio IIA, las manchas, pápulas o placas cubren cualquier cantidad de piel. Los ganglios linfáticos son anormales, pero no son cancerosos. En el estadio IIB, se encuentran 1 o más tumores que miden 1 cm o más en la piel. Los ganglios linfáticos a veces son anormales, pero no son cancerosos. En ambos estadios, es posible que haya pocas células de Sézary en la sangre.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-11-25</DateFirstPublished><DateLastModified>2019-05-07</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258022" url="/types/lymphoma/patient/mycosis-fungoides-treatment-pdq">Mycosis Fungoides (Including Sézary Syndrome) Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000433316" url="/espanol/tipos/linfoma/paciente/tratamiento-micosis-fungoide-pdq">Tratamiento de la micosis fungoide (incluso el síndrome de Sézary)</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000454837">
+  <TermName>stage II mycosis fungoides</TermName>
+  <TermPronunciation>(... my-KOH-sis fun-GOY-deez)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage II is divided into stages IIA and IIB. In stage IIA, patches, papules, and/or plaques cover any amount of the skin surface. Lymph nodes are abnormal, but they are not cancerous. In stage IIB, one or more tumors that are 1 centimeter or larger are found on the skin. Lymph nodes may be abnormal, but they are not cancerous.  In both stages, there may be a low number of Sezary cells in the blood.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II mycosis fungoides&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715087" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;micosis fungoide en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>micosis fungoide en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio II se divide en los estadios IIA y IIB. En el estadio IIA, las manchas, pápulas o placas cubren cualquier cantidad de piel. Los ganglios linfáticos son anormales, pero no son cancerosos. En el estadio IIB, se encuentran 1 o más tumores que miden 1 cm o más en la piel. Los ganglios linfáticos a veces son anormales, pero no son cancerosos. En ambos estadios, es posible que haya pocas células de Sézary en la sangre.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-11-25</DateFirstPublished>
+  <DateLastModified>2019-05-07</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258022" url="/types/lymphoma/patient/mycosis-fungoides-treatment-pdq">Mycosis Fungoides (Including Sézary Syndrome) Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000433316" url="/espanol/tipos/linfoma/paciente/tratamiento-micosis-fungoide-pdq">Tratamiento de la micosis fungoide (incluso el síndrome de Sézary)</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

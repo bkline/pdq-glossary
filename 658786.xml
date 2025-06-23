@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000658786"><TermName>18F-NaF PET</TermName><TermDefinition><DefinitionText>A procedure used to find out if cancer has spread to the bone. A small amount of a radioactive substance called 18F-NaF is injected into a vein.  A PET scan is then used to make detailed pictures of the bones. Bones with cancer in them take up more 18F-NaF than normal bones do. Also called 18F-sodium fluoride positron emission tomography and fluorine F 18-sodium fluoride PET.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>TEP con 18F-NaF</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento que se usa para determinar si el cáncer se diseminó hasta el hueso.   Se inyecta en una vena una pequeña cantidad de una sustancia radiactiva que se llama 18F-NaF. Luego se realiza una exploración con TEP para obtener imágenes detalladas de los huesos.   Cuando los huesos tienen cáncer absorben más 18F-NaF que los huesos normales. También se llama TEP con flúor F 18-fluoruro de sodio y tomografía por emisión de positrones con 18F-fluoruro de sodio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-03-30</DateFirstPublished><DateLastModified>2017-04-10</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000658786">
+  <TermName>18F-NaF PET</TermName>
+  <TermDefinition>
+    <DefinitionText>A procedure used to find out if cancer has spread to the bone. A small amount of a radioactive substance called 18F-NaF is injected into a vein.  A PET scan is then used to make detailed pictures of the bones. Bones with cancer in them take up more 18F-NaF than normal bones do. Also called 18F-sodium fluoride positron emission tomography and fluorine F 18-sodium fluoride PET.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>TEP con 18F-NaF</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento que se usa para determinar si el cáncer se diseminó hasta el hueso.   Se inyecta en una vena una pequeña cantidad de una sustancia radiactiva que se llama 18F-NaF. Luego se realiza una exploración con TEP para obtener imágenes detalladas de los huesos.   Cuando los huesos tienen cáncer absorben más 18F-NaF que los huesos normales. También se llama TEP con flúor F 18-fluoruro de sodio y tomografía por emisión de positrones con 18F-fluoruro de sodio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-03-30</DateFirstPublished>
+  <DateLastModified>2017-04-10</DateLastModified>
+</GlossaryTerm>

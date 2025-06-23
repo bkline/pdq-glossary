@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000782481"><TermName>epithelioid sarcoma</TermName><TermPronunciation>(eh-pih-THEE-lee-oyd sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782481">
+  <TermName>epithelioid sarcoma</TermName>
+  <TermPronunciation>(eh-pih-THEE-lee-oyd sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of
           cancer that usually begins as a slow-growing, firm lump in
           the deep soft tissue or skin of the arms, hands, or
           fingers. It may also occur in the legs, trunk (chest and
@@ -8,7 +13,15 @@
           nodes, or other parts of the body. It often recurs (comes
           back) after treatment. Epithelioid sarcoma usually occurs
           in young adults. It is a type of soft tissue
-          sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;epithelioid sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785353" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma epitelioide&quot;" language="es" id="_4"/><SpanishTermName>sarcoma epitelioide</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo poco frecuente de cáncer
+          sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;epithelioid sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785353" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma epitelioide&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma epitelioide</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo poco frecuente de cáncer
 que suele comenzar como una masa firme que crece lentamente
 en el tejido blando profundo, o en la piel de los brazos,
 las manos o los dedos.
@@ -22,4 +35,9 @@ puede diseminar a los tejidos cercanos, los ganglios
 linfáticos u otras partes del cuerpo. A menudo recidiva
 (vuelve) después del tratamiento. El sarcoma epitelioide
 por lo general se presenta en adultos jóvenes. Es un tipo
-de sarcoma de tejido blando.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished></GlossaryTerm>
+de sarcoma de tejido blando.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+</GlossaryTerm>

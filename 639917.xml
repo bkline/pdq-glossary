@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000639917"><TermName>ER-negative PR-negative HER2/neu-negative breast cancer</TermName><TermPronunciation>(... NEH-guh-tiv ... NEH-guh-tiv ... NEH-guh-tiv brest KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A type of breast cancer in which the tumor cells do not have estrogen receptors, progesterone receptors, or large amounts of HER2/neu protein on their surface. Knowing whether breast cancer is triple negative is important in planning treatment.  Also called TNBC and triple-negative breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>ER-negative PR-negative HER2/neu-negative breast cancer is defined by a lack of expression of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2/neu). Also called TNBC and triple-negative breast cancer.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000722903" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ER-negative PR-negative HER2/neu-negative breast cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726729" type="audio/mpeg" alt="" language="es" id="_4"/><MediaLink ref="CDR0000815446" type="image/jpeg" alt="Drawing showing a triple-negative breast cancer cell with the estrogen receptor, progesterone receptor, and HER2 proteins crossed out with a black &quot;X&quot; mark. This means that the breast cancer cell does not have these proteins." language="en" audience="Patients" placement="image-center" id="_5"><Caption language="en">Triple-negative breast cancer is a type of breast cancer in which the cancer cells do not have estrogen receptors, progesterone receptors, or large amounts of HER2/neu protein on their surface.</Caption></MediaLink><SpanishTermName>cáncer de mama negativo para ER, PR y HER2/neu</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer de mama cuyas células tumorales no tienen en su superficie receptores de estrógeno, receptores de progesterona ni cantidades altas de la proteína HER2/neu. Para planificar el tratamiento, es importante saber si el cáncer de mama es triple negativo. También se llama cáncer de mama triple negativo y TNBC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Este tipo de cáncer de mama se define por ausencia de expresión del receptor de estrógeno (ER), el receptor de progesterona (PR) y el receptor 2 del factor de crecimiento epidérmico humano (HER2/neu). También se llama cáncer de mama triple negativo y TNBC.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2009-07-02</DateFirstPublished><DateLastModified>2024-10-03</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000639917">
+  <TermName>ER-negative PR-negative HER2/neu-negative breast cancer</TermName>
+  <TermPronunciation>(... NEH-guh-tiv ... NEH-guh-tiv ... NEH-guh-tiv brest KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of breast cancer in which the tumor cells do not have estrogen receptors, progesterone receptors, or large amounts of HER2/neu protein on their surface. Knowing whether breast cancer is triple negative is important in planning treatment.  Also called TNBC and triple-negative breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>ER-negative PR-negative HER2/neu-negative breast cancer is defined by a lack of expression of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2/neu). Also called TNBC and triple-negative breast cancer.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722903" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ER-negative PR-negative HER2/neu-negative breast cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726729" type="audio/mpeg" alt="" language="es" id="_4"/>
+  <MediaLink ref="CDR0000815446" type="image/jpeg" alt="Drawing showing a triple-negative breast cancer cell with the estrogen receptor, progesterone receptor, and HER2 proteins crossed out with a black &quot;X&quot; mark. This means that the breast cancer cell does not have these proteins." language="en" audience="Patients" placement="image-center" id="_5">
+    <Caption language="en">Triple-negative breast cancer is a type of breast cancer in which the cancer cells do not have estrogen receptors, progesterone receptors, or large amounts of HER2/neu protein on their surface.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de mama negativo para ER, PR y HER2/neu</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer de mama cuyas células tumorales no tienen en su superficie receptores de estrógeno, receptores de progesterona ni cantidades altas de la proteína HER2/neu. Para planificar el tratamiento, es importante saber si el cáncer de mama es triple negativo. También se llama cáncer de mama triple negativo y TNBC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Este tipo de cáncer de mama se define por ausencia de expresión del receptor de estrógeno (ER), el receptor de progesterona (PR) y el receptor 2 del factor de crecimiento epidérmico humano (HER2/neu). También se llama cáncer de mama triple negativo y TNBC.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-07-02</DateFirstPublished>
+  <DateLastModified>2024-10-03</DateLastModified>
+</GlossaryTerm>

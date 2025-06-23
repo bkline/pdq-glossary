@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044055"><TermName>metabolic disorder</TermName><TermPronunciation>(MEH-tuh-BAH-lik dis-OR-der)</TermPronunciation><TermDefinition><DefinitionText>A condition in which normal metabolic processes are disrupted, usually because of a missing enzyme.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704097" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metabolic disorder&quot;" language="en" id="_4"/><MediaLink ref="CDR0000704098" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno metabólico&quot;" language="es" id="_3"/><SpanishTermName>trastorno metabólico</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección en la que se interrumpen los procesos metabólicos normales, generalmente debido a la falta de una enzima.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2006-09-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044055">
+  <TermName>metabolic disorder</TermName>
+  <TermPronunciation>(MEH-tuh-BAH-lik dis-OR-der)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which normal metabolic processes are disrupted, usually because of a missing enzyme.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704097" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metabolic disorder&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000704098" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno metabólico&quot;" language="es" id="_3"/>
+  <SpanishTermName>trastorno metabólico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección en la que se interrumpen los procesos metabólicos normales, generalmente debido a la falta de una enzima.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2006-09-30</DateLastModified>
+</GlossaryTerm>

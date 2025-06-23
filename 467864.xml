@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000467864"><TermName>suppository</TermName><TermPronunciation>(suh-PAH-zih-TOR-ee)</TermPronunciation><TermDefinition><DefinitionText>A form of medicine contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medicine is absorbed into the bloodstream.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000717022" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;suppository&quot;" language="en" id="_3"/><MediaLink ref="CDR0000717023" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supositorio&quot;" language="es" id="_4"/><SpanishTermName>supositorio</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma de medicamento sólido contenido en una pieza pequeña de  manteca de cacao, glicerina o material similar, que se derrite con la temperatura del cuerpo. Cuando se inserta un supositorio en el recto, la vagina o la uretra, el medicamento se libera permitiendo su absorción y paso a la corriente sanguínea.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000467864">
+  <TermName>suppository</TermName>
+  <TermPronunciation>(suh-PAH-zih-TOR-ee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A form of medicine contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medicine is absorbed into the bloodstream.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000717022" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;suppository&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000717023" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supositorio&quot;" language="es" id="_4"/>
+  <SpanishTermName>supositorio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de medicamento sólido contenido en una pieza pequeña de  manteca de cacao, glicerina o material similar, que se derrite con la temperatura del cuerpo. Cuando se inserta un supositorio en el recto, la vagina o la uretra, el medicamento se libera permitiendo su absorción y paso a la corriente sanguínea.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-11</DateFirstPublished>
+</GlossaryTerm>

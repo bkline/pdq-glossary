@@ -1,1 +1,14 @@
-<GlossaryTerm id="CDR0000810031"><TermName>Level of evidence B3</TermName><TermDefinition><DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of tumor response rate or quality-of-life measurement that does not reach the level of evidence described in A3.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia B3</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración la tasa de respuesta tumoral o la medición de la calidad de vida que no alcanza el nivel de evidencia descrito en A3.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-30</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810031">
+  <TermName>Level of evidence B3</TermName>
+  <TermDefinition>
+    <DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of tumor response rate or quality-of-life measurement that does not reach the level of evidence described in A3.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia B3</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración la tasa de respuesta tumoral o la medición de la calidad de vida que no alcanza el nivel de evidencia descrito en A3.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-30</DateFirstPublished>
+</GlossaryTerm>

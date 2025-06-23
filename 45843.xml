@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045843"><TermName>pleural effusion</TermName><TermPronunciation>(PLOOR-ul eh-FYOO-zhun)</TermPronunciation><TermDefinition><DefinitionText>An abnormal collection of fluid between the thin layers of tissue (pleura) lining the lung and the wall of the chest cavity.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707325" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleural effusion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707324" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;derrame pleural&quot;" language="es" id="_4"/><SpanishTermName>derrame pleural</SpanishTermName><SpanishTermDefinition><DefinitionText>Acumulación anormal del líquido entre las capas delgadas del tejido (pleura) que recubre el pulmón y la pared de la cavidad torácica. También se llama efusión pleural.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000352193" url="/about-cancer/treatment/side-effects/cardiopulmonary-pdq">Cardiopulmonary Syndromes</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000361803" url="/espanol/cancer/tratamiento/efectos-secundarios/cardiopulmonares-pdq">Síndromes cardiopulmonares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045843">
+  <TermName>pleural effusion</TermName>
+  <TermPronunciation>(PLOOR-ul eh-FYOO-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abnormal collection of fluid between the thin layers of tissue (pleura) lining the lung and the wall of the chest cavity.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707325" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleural effusion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707324" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;derrame pleural&quot;" language="es" id="_4"/>
+  <SpanishTermName>derrame pleural</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Acumulación anormal del líquido entre las capas delgadas del tejido (pleura) que recubre el pulmón y la pared de la cavidad torácica. También se llama efusión pleural.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000352193" url="/about-cancer/treatment/side-effects/cardiopulmonary-pdq">Cardiopulmonary Syndromes</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000361803" url="/espanol/cancer/tratamiento/efectos-secundarios/cardiopulmonares-pdq">Síndromes cardiopulmonares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

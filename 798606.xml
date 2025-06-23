@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798606"><TermName>sphenoid bone</TermName><TermPronunciation>(SFEE-noyd bone)</TermPronunciation><TermDefinition><DefinitionText>A butterfly-shaped bone at the base of the skull, behind the nose. The sphenoid bone helps form the eye socket. It contains two large sinuses, which are hollow spaces lined with cells that make mucus to keep the inside of the nose from drying out.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000800991" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sphenoid bone&quot;" language="en" id="_4"/><MediaLink ref="CDR0000800992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esfenoides&quot;" language="es" id="_5"/><SpanishTermName>esfenoides</SpanishTermName><SpanishTermDefinition><DefinitionText>Hueso con forma de mariposa situado en la base del cráneo, detrás de la nariz. El esfenoides ayuda a formar la cavidad del ojo. Este hueso contiene dos senos paranasales grandes, que son espacios huecos recubiertos por células que producen moco para impedir que el interior de la nariz se seque. También se llama hueso esfenoides.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798606">
+  <TermName>sphenoid bone</TermName>
+  <TermPronunciation>(SFEE-noyd bone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A butterfly-shaped bone at the base of the skull, behind the nose. The sphenoid bone helps form the eye socket. It contains two large sinuses, which are hollow spaces lined with cells that make mucus to keep the inside of the nose from drying out.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000800991" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sphenoid bone&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000800992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esfenoides&quot;" language="es" id="_5"/>
+  <SpanishTermName>esfenoides</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hueso con forma de mariposa situado en la base del cráneo, detrás de la nariz. El esfenoides ayuda a formar la cavidad del ojo. Este hueso contiene dos senos paranasales grandes, que son espacios huecos recubiertos por células que producen moco para impedir que el interior de la nariz se seque. También se llama hueso esfenoides.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-07</DateFirstPublished>
+</GlossaryTerm>

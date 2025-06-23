@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796901"><TermName>vaporized</TermName><TermPronunciation>(VAY-per-ized)</TermPronunciation><TermDefinition><DefinitionText>In chemistry, describes the change of a solid or liquid substance into a gas or vapor (mist). This usually occurs when the substance is heated above normal room temperature without burning it.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798076" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vaporized&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798078" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vaporización&quot;" language="es" id="_4"/><SpanishTermName>vaporización</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la química, describe el cambio de una sustancia del estado sólido o líquido al estado gaseoso   (gas, vapor o vaho). Por lo general ocurre cuando la sustancia se calienta por encima de la temperatura ambiental normal, pero no llega a quemarla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796901">
+  <TermName>vaporized</TermName>
+  <TermPronunciation>(VAY-per-ized)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In chemistry, describes the change of a solid or liquid substance into a gas or vapor (mist). This usually occurs when the substance is heated above normal room temperature without burning it.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798076" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vaporized&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798078" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vaporización&quot;" language="es" id="_4"/>
+  <SpanishTermName>vaporización</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la química, describe el cambio de una sustancia del estado sólido o líquido al estado gaseoso   (gas, vapor o vaho). Por lo general ocurre cuando la sustancia se calienta por encima de la temperatura ambiental normal, pero no llega a quemarla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

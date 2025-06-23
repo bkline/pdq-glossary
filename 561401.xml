@@ -1,3 +1,26 @@
-<GlossaryTerm id="CDR0000561401"><TermName>genomic profiling</TermName><TermPronunciation>(jeh-NOH-mik PROH-fy-ling)</TermPronunciation><TermDefinition><DefinitionText>A laboratory method that uses a sample of tissue, blood, or other body fluid to learn about all the genes in a person or in a specific cell type, and the way those genes interact with each other and with the environment. Genomic profiling may be done to find out why some people get certain diseases while others do not. Genomic profiling may also be done on tumor tissue to look for mutations or other genetic changes in a tumor's DNA. This may help doctors understand how different types of cancer form and respond to treatment, which may lead to new ways to diagnose, treat, and prevent cancer. Also called genomic characterization.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720527" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genomic profiling&quot;" language="en" id="_5"/><MediaLink ref="CDR0000720526" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfil genómico&quot;" language="es" id="_6"/><SpanishTermName>perfil genómico</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio en el que se usa una muestra de tejido, sangre u otro líquido corporal para obtener información sobre todos los genes de una persona o de un tipo de célula
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561401">
+  <TermName>genomic profiling</TermName>
+  <TermPronunciation>(jeh-NOH-mik PROH-fy-ling)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory method that uses a sample of tissue, blood, or other body fluid to learn about all the genes in a person or in a specific cell type, and the way those genes interact with each other and with the environment. Genomic profiling may be done to find out why some people get certain diseases while others do not. Genomic profiling may also be done on tumor tissue to look for mutations or other genetic changes in a tumor's DNA. This may help doctors understand how different types of cancer form and respond to treatment, which may lead to new ways to diagnose, treat, and prevent cancer. Also called genomic characterization.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720527" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genomic profiling&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000720526" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfil genómico&quot;" language="es" id="_6"/>
+  <SpanishTermName>perfil genómico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio en el que se usa una muestra de tejido, sangre u otro líquido corporal para obtener información sobre todos los genes de una persona o de un tipo de célula
 específica, así como la forma en que esos genes interactúan
-entre sí y con el ambiente. El perfil genómico  se usa para averiguar porqué algunas personas presentan ciertas enfermedades y otras no. En ocasiones también se hace para buscar mutaciones u otros cambios genéticos en el ADN de un tumor. Esto ayuda a que los equipos médicos comprendan cómo se forman distintos tipos de cáncer y cómo reaccionan al tratamiento, lo cual permite formular nuevas formas de diagnóstico, tratamiento y prevención de cáncer. También se llama caracterización genómica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-06</DateFirstPublished><DateLastModified>2022-12-09</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment">Biomarker Testing for Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/pruebas-de-biomarcadores-tratamiento-cancer">Pruebas de biomarcadores para el tratamiento de cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+entre sí y con el ambiente. El perfil genómico  se usa para averiguar porqué algunas personas presentan ciertas enfermedades y otras no. En ocasiones también se hace para buscar mutaciones u otros cambios genéticos en el ADN de un tumor. Esto ayuda a que los equipos médicos comprendan cómo se forman distintos tipos de cáncer y cómo reaccionan al tratamiento, lo cual permite formular nuevas formas de diagnóstico, tratamiento y prevención de cáncer. También se llama caracterización genómica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-06</DateFirstPublished>
+  <DateLastModified>2022-12-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment">Biomarker Testing for Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/pruebas-de-biomarcadores-tratamiento-cancer">Pruebas de biomarcadores para el tratamiento de cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

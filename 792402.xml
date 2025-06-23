@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000792402"><TermName>nocebo effect</TermName><TermPronunciation>(noh-SEE-boh eh-FEKT)</TermPronunciation><TermDefinition><DefinitionText>A situation in which a patient develops side effects or symptoms that can occur with a drug or other therapy just because the patient believes they may occur. For example, in a clinical trial, patients who are not given an active treatment, but are told what side effects the active treatment may cause, may have the same side effects as the patients who are given the active treatment, only because they expect them to occur.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793638" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nocebo effect&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793639" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efecto nocebo&quot;" language="es" id="_4"/><SpanishTermName>efecto nocebo</SpanishTermName><SpanishTermDefinition><DefinitionText>Situación en la que un paciente presenta los posibles efectos secundarios o síntomas que produce  un medicamento o tratamiento solo porque el paciente cree que pueden ocurrir. Por ejemplo, en un ensayo clínico, los pacientes que no reciben un tratamiento activo pero que se les informa sobre los posibles efectos secundarios del tratamiento activo, a veces tienen los mismos efectos secundarios que los pacientes que reciben el tratamiento activo solo porque esperan tenerlos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-04-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792402">
+  <TermName>nocebo effect</TermName>
+  <TermPronunciation>(noh-SEE-boh eh-FEKT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A situation in which a patient develops side effects or symptoms that can occur with a drug or other therapy just because the patient believes they may occur. For example, in a clinical trial, patients who are not given an active treatment, but are told what side effects the active treatment may cause, may have the same side effects as the patients who are given the active treatment, only because they expect them to occur.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793638" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nocebo effect&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793639" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efecto nocebo&quot;" language="es" id="_4"/>
+  <SpanishTermName>efecto nocebo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Situación en la que un paciente presenta los posibles efectos secundarios o síntomas que produce  un medicamento o tratamiento solo porque el paciente cree que pueden ocurrir. Por ejemplo, en un ensayo clínico, los pacientes que no reciben un tratamiento activo pero que se les informa sobre los posibles efectos secundarios del tratamiento activo, a veces tienen los mismos efectos secundarios que los pacientes que reciben el tratamiento activo solo porque esperan tenerlos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-04-26</DateFirstPublished>
+</GlossaryTerm>

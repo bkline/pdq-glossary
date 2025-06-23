@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000613205"><TermName>leucovorin calcium</TermName><TermPronunciation>(LOO-koh-VOR-in KAL-see-um)</TermPronunciation><TermDefinition><DefinitionText>A form of folic acid used alone or with other drugs to treat certain types of colorectal cancer and anemia and to lessen the toxic effects of the anticancer drug methotrexate or other substances that block the action of folic acid. Leucovorin calcium is also being studied in the treatment of other conditions and types of cancer. It is a type of chemoprotective agent and a type of chemosensitizing agent. Leucovorin is the active ingredient of leucovorin calcium. Also called citrovorum factor and folinic acid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucovorin calcium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucovorina cálcica&quot;" language="es" id="_4"/><SpanishTermName>leucovorina cálcica</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma de ácido fólico que se usa sola o con otros medicamentos para el tratamiento de ciertos tipos de cáncer colorrectal y anemia, además reduce los efectos tóxicos del medicamento anticanceroso metotrexato  y de otras sustancias que impiden la acción del ácido fólico. La leucovorina cálcica también está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Es un quimioprotector y un quimiosensibilizador. La leucovorina es el principio activo de la leucovorina cálcica. También se llama ácido folínico y factor citrovórum.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-08-25</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000599725" url="/about-cancer/treatment/drugs/leucovorincalcium">Leucovorin Calcium</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000613205">
+  <TermName>leucovorin calcium</TermName>
+  <TermPronunciation>(LOO-koh-VOR-in KAL-see-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A form of folic acid used alone or with other drugs to treat certain types of colorectal cancer and anemia and to lessen the toxic effects of the anticancer drug methotrexate or other substances that block the action of folic acid. Leucovorin calcium is also being studied in the treatment of other conditions and types of cancer. It is a type of chemoprotective agent and a type of chemosensitizing agent. Leucovorin is the active ingredient of leucovorin calcium. Also called citrovorum factor and folinic acid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucovorin calcium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucovorina cálcica&quot;" language="es" id="_4"/>
+  <SpanishTermName>leucovorina cálcica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de ácido fólico que se usa sola o con otros medicamentos para el tratamiento de ciertos tipos de cáncer colorrectal y anemia, además reduce los efectos tóxicos del medicamento anticanceroso metotrexato  y de otras sustancias que impiden la acción del ácido fólico. La leucovorina cálcica también está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Es un quimioprotector y un quimiosensibilizador. La leucovorina es el principio activo de la leucovorina cálcica. También se llama ácido folínico y factor citrovórum.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-08-25</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000599725" url="/about-cancer/treatment/drugs/leucovorincalcium">Leucovorin Calcium</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

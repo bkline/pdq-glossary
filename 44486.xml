@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000044486"><TermName>3-D</TermName><TermDefinition><DefinitionText>A graphic display of depth, width, and height. Also called 3-dimensional.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>3D</SpanishTermName><SpanishTermDefinition><DefinitionText>Representación visual de algo en tres dimensiones: longitud (profundidad), anchura y altura. También se llama tridimensional.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-01-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044486">
+  <TermName>3-D</TermName>
+  <TermDefinition>
+    <DefinitionText>A graphic display of depth, width, and height. Also called 3-dimensional.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>3D</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Representación visual de algo en tres dimensiones: longitud (profundidad), anchura y altura. También se llama tridimensional.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-01-17</DateLastModified>
+</GlossaryTerm>

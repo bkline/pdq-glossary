@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000791446"><TermName>ECD</TermName><TermDefinition><DefinitionText>A very rare disorder in which too many histiocytes (a type of white blood cell) build up in certain tissues and organs and damage them. ECD most often affects the long bones of the arms and legs, but it can also affect the skin, lungs, heart, kidneys, brain, tissue behind the eyes, and the retroperitoneum (the back wall of the abdomen). The symptoms can range from mild to severe and life-threatening. ECD is most common in adults. It is a type of histiocytosis. Also called Erdheim-Chester disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>EEC</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno muy poco frecuente por el que se acumulan demasiados histiocitos (tipo de glóbulo blanco) en ciertos tejidos y órganos, y los daña. La mayoría de las veces, la EEC afecta los huesos largos de los brazos y las piernas, pero también puede afectar la piel, los pulmones, el corazón, los riñones, el encéfalo, los tejidos ubicados detrás de los ojos y el retroperitoneo (la pared posterior del abdomen). Los síntomas varían de leves hasta graves y potencialmente mortales. La EEC es más frecuente en adultos. Es un tipo de histiocitosis. También se llama enfermedad de Erdheim-Chester.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791446">
+  <TermName>ECD</TermName>
+  <TermDefinition>
+    <DefinitionText>A very rare disorder in which too many histiocytes (a type of white blood cell) build up in certain tissues and organs and damage them. ECD most often affects the long bones of the arms and legs, but it can also affect the skin, lungs, heart, kidneys, brain, tissue behind the eyes, and the retroperitoneum (the back wall of the abdomen). The symptoms can range from mild to severe and life-threatening. ECD is most common in adults. It is a type of histiocytosis. Also called Erdheim-Chester disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>EEC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno muy poco frecuente por el que se acumulan demasiados histiocitos (tipo de glóbulo blanco) en ciertos tejidos y órganos, y los daña. La mayoría de las veces, la EEC afecta los huesos largos de los brazos y las piernas, pero también puede afectar la piel, los pulmones, el corazón, los riñones, el encéfalo, los tejidos ubicados detrás de los ojos y el retroperitoneo (la pared posterior del abdomen). Los síntomas varían de leves hasta graves y potencialmente mortales. La EEC es más frecuente en adultos. Es un tipo de histiocitosis. También se llama enfermedad de Erdheim-Chester.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-13</DateFirstPublished>
+</GlossaryTerm>

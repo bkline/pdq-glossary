@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000613209"><TermName>fludarabine phosphate</TermName><TermPronunciation>(floo-DAR-uh-been FOS-fayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to treat adults with B-cell chronic lymphocytic leukemia and alone to treat adults with B-cell chronic lymphocytic leukemia that did not respond to or got worse during  treatment with at least one therapy that included an alkylating agent. It is also being studied in the treatment of other types of cancer. Fludarabine phosphate stops cells from making DNA and may kill cancer cells. It is a type of antimetabolite.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720867" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fludarabine phosphate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720866" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fosfato de fludarabina&quot;" language="es" id="_4"/><SpanishTermName>fosfato de fludarabina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se combina con otros medicamentos para el tratamiento de adultos con leucemia linfocítica crónica  de células B. También se usa solo para el tratamiento de adultos con leucemia linfocítica crónica  de células B que no respondió o empeoró durante el tratamiento con al menos una terapia que incluía un alquilante. Además, está en estudio para el tratamiento de otros tipos de cáncer. El fosfato de fludarabina impide que las células elaboren ADN y es posible que destruya células cancerosas. Es un tipo de antimetabolito.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-08-25</DateFirstPublished><DateLastModified>2024-11-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000597019" url="/about-cancer/treatment/drugs/fludarabinephosphate">Fludarabine Phosphate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000613209">
+  <TermName>fludarabine phosphate</TermName>
+  <TermPronunciation>(floo-DAR-uh-been FOS-fayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with other drugs to treat adults with B-cell chronic lymphocytic leukemia and alone to treat adults with B-cell chronic lymphocytic leukemia that did not respond to or got worse during  treatment with at least one therapy that included an alkylating agent. It is also being studied in the treatment of other types of cancer. Fludarabine phosphate stops cells from making DNA and may kill cancer cells. It is a type of antimetabolite.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720867" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fludarabine phosphate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720866" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fosfato de fludarabina&quot;" language="es" id="_4"/>
+  <SpanishTermName>fosfato de fludarabina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se combina con otros medicamentos para el tratamiento de adultos con leucemia linfocítica crónica  de células B. También se usa solo para el tratamiento de adultos con leucemia linfocítica crónica  de células B que no respondió o empeoró durante el tratamiento con al menos una terapia que incluía un alquilante. Además, está en estudio para el tratamiento de otros tipos de cáncer. El fosfato de fludarabina impide que las células elaboren ADN y es posible que destruya células cancerosas. Es un tipo de antimetabolito.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-08-25</DateFirstPublished>
+  <DateLastModified>2024-11-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000597019" url="/about-cancer/treatment/drugs/fludarabinephosphate">Fludarabine Phosphate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

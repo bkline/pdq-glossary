@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801712"><TermName>neurosphere</TermName><TermPronunciation>(NOOR-oh-sfeer)</TermPronunciation><TermDefinition><DefinitionText>A small cluster of nerve stem cells that is grown in the laboratory. Neurospheres can be grown that are similar to normal human nerve tissue or to a specific type of tumor. They can be used to study how nerve tissue forms and how certain nervous system diseases, such as Parkinson disease or brain tumors, develop. Neurospheres may also be used to test new treatments before they are given to people.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804376" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurosphere&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804377" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroesfera&quot;" language="es" id="_4"/><SpanishTermName>neuroesfera</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo pequeño de células madre nerviosas que se cultiva en el laboratorio. Es posible cultivar neuroesferas  similares al tejido nervioso normal de los seres humanos o a un tipo específico de tumor.  Se usan para estudiar cómo se forma el tejido nervioso y ciertas enfermedades del sistema nervioso, como la enfermedad de Parkinson o los tumores de encéfalo. Las neuroesferas también se usan para probar nuevos tratamientos antes de administrarlos a las personas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801712">
+  <TermName>neurosphere</TermName>
+  <TermPronunciation>(NOOR-oh-sfeer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A small cluster of nerve stem cells that is grown in the laboratory. Neurospheres can be grown that are similar to normal human nerve tissue or to a specific type of tumor. They can be used to study how nerve tissue forms and how certain nervous system diseases, such as Parkinson disease or brain tumors, develop. Neurospheres may also be used to test new treatments before they are given to people.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804376" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurosphere&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804377" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroesfera&quot;" language="es" id="_4"/>
+  <SpanishTermName>neuroesfera</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo pequeño de células madre nerviosas que se cultiva en el laboratorio. Es posible cultivar neuroesferas  similares al tejido nervioso normal de los seres humanos o a un tipo específico de tumor.  Se usan para estudiar cómo se forma el tejido nervioso y ciertas enfermedades del sistema nervioso, como la enfermedad de Parkinson o los tumores de encéfalo. Las neuroesferas también se usan para probar nuevos tratamientos antes de administrarlos a las personas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-02</DateFirstPublished>
+</GlossaryTerm>

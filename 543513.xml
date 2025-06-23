@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000543513"><TermName>ET 743</TermName><TermDefinition><DefinitionText>A drug used to treat liposarcoma and leiomyosarcoma (types of soft tissue sarcoma) that cannot be removed by surgery or have spread to other parts of the body. It is used in patients who have already been treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer. ET 743 may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called ecteinascidin, trabectedin, and Yondelis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ET 743</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del liposarcoma y el leiomiosarcoma (tipos de sarcoma de tejido blando) que no se pueden extirpar mediante cirugía o que se diseminaron a otras partes del cuerpo. Se utiliza en pacientes que recibieron otros medicamentos contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que ET 743 destruya células cancerosas porque daña su ADN y evita su multiplicación. Es un tipo de alquilante. También se llama ecteinascidina, trabectedina y Yondelis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-04-13</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000776577" url="/about-cancer/treatment/drugs/trabectedin">Trabectedin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000543513">
+  <TermName>ET 743</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat liposarcoma and leiomyosarcoma (types of soft tissue sarcoma) that cannot be removed by surgery or have spread to other parts of the body. It is used in patients who have already been treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer. ET 743 may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called ecteinascidin, trabectedin, and Yondelis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ET 743</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del liposarcoma y el leiomiosarcoma (tipos de sarcoma de tejido blando) que no se pueden extirpar mediante cirugía o que se diseminaron a otras partes del cuerpo. Se utiliza en pacientes que recibieron otros medicamentos contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que ET 743 destruya células cancerosas porque daña su ADN y evita su multiplicación. Es un tipo de alquilante. También se llama ecteinascidina, trabectedina y Yondelis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-04-13</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000776577" url="/about-cancer/treatment/drugs/trabectedin">Trabectedin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

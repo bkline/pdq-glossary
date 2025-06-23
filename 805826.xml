@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000805826"><TermName>Rylaze</TermName><TermPronunciation>(RY-layz)</TermPronunciation><TermDefinition><DefinitionText>A drug that is a recombinant form of asparaginase Erwinia chrysanthemi and is used with other drugs to treat adults and children aged 1 month or older with acute lymphoblastic leukemia or lymphoblastic lymphoma. It is used in people who cannot take the enzyme asparaginase that comes from the bacterium <ScientificName>E. coli</ScientificName>. Rylaze breaks down the amino acid asparagine and may stop the growth of cancer cells that need asparagine to grow. It may also kill cancer cells. Rylaze is a type of protein synthesis inhibitor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806872" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rylaze&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806873" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rylaze&quot;" language="es" id="_4"/><SpanishTermName>Rylaze</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene una forma recombinante de la asparaginasa de  Erwinia chrysanthemi y que se usa con otros medicamentos para el tratamiento de adultos y niños de 1 mes o más con leucemia linfoblástica aguda  o linfoma linfoblástico. Se utiliza en personas que no pueden recibir la enzima asparaginasa que se obtiene de la bacteria <ScientificName>E. coli</ScientificName>. Rylaze descompone el aminoácido asparagina y es posible que de esta manera se detenga la multiplicación de las células cancerosas que necesitan asparaginasa para multiplicarse. Además, quizás destruya células cancerosas. Rylaze es un tipo de inhibidor de la síntesis de proteínas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-08-06</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000805797" url="/about-cancer/treatment/drugs/asparaginase-erwinia-chrysanthemi-recombinant">Asparaginase Erwinia Chrysanthemi (Recombinant)-rywn</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805826">
+  <TermName>Rylaze</TermName>
+  <TermPronunciation>(RY-layz)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug that is a recombinant form of asparaginase Erwinia chrysanthemi and is used with other drugs to treat adults and children aged 1 month or older with acute lymphoblastic leukemia or lymphoblastic lymphoma. It is used in people who cannot take the enzyme asparaginase that comes from the bacterium 
+      <ScientificName>E. coli</ScientificName>
+      . Rylaze breaks down the amino acid asparagine and may stop the growth of cancer cells that need asparagine to grow. It may also kill cancer cells. Rylaze is a type of protein synthesis inhibitor.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806872" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rylaze&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806873" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rylaze&quot;" language="es" id="_4"/>
+  <SpanishTermName>Rylaze</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que contiene una forma recombinante de la asparaginasa de  Erwinia chrysanthemi y que se usa con otros medicamentos para el tratamiento de adultos y niños de 1 mes o más con leucemia linfoblástica aguda  o linfoma linfoblástico. Se utiliza en personas que no pueden recibir la enzima asparaginasa que se obtiene de la bacteria 
+      <ScientificName>E. coli</ScientificName>
+      . Rylaze descompone el aminoácido asparagina y es posible que de esta manera se detenga la multiplicación de las células cancerosas que necesitan asparaginasa para multiplicarse. Además, quizás destruya células cancerosas. Rylaze es un tipo de inhibidor de la síntesis de proteínas.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-08-06</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000805797" url="/about-cancer/treatment/drugs/asparaginase-erwinia-chrysanthemi-recombinant">Asparaginase Erwinia Chrysanthemi (Recombinant)-rywn</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000561324"><TermName>biospecimen</TermName><TermPronunciation>(BY-oh-SPEH-sih-men)</TermPronunciation><TermDefinition><DefinitionText>A sample of material, such as urine, blood, tissue, cells, DNA, RNA, or protein, from humans, animals, or plants. Biospecimens may be used for a laboratory test or stored in a biorepository to be used for research.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720491" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biospecimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720490" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;muestra biológica&quot;" language="es" id="_4"/><SpanishTermName>muestra biológica</SpanishTermName><SpanishTermDefinition><DefinitionText>Muestra de material como orina, sangre, tejido, células, ADN, ARN o proteínas de seres humanos, animales o plantas. Las muestras biológicas se usan para pruebas de laboratorio o se almacenan en un depósito biológico para usarse en investigación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-06</DateFirstPublished><DateLastModified>2020-01-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561324">
+  <TermName>biospecimen</TermName>
+  <TermPronunciation>(BY-oh-SPEH-sih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A sample of material, such as urine, blood, tissue, cells, DNA, RNA, or protein, from humans, animals, or plants. Biospecimens may be used for a laboratory test or stored in a biorepository to be used for research.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720491" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biospecimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720490" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;muestra biológica&quot;" language="es" id="_4"/>
+  <SpanishTermName>muestra biológica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Muestra de material como orina, sangre, tejido, células, ADN, ARN o proteínas de seres humanos, animales o plantas. Las muestras biológicas se usan para pruebas de laboratorio o se almacenan en un depósito biológico para usarse en investigación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-06</DateFirstPublished>
+  <DateLastModified>2020-01-16</DateLastModified>
+</GlossaryTerm>

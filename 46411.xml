@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046411"><TermName>excisional biopsy</TermName><TermPronunciation>(ek-SIH-zhuh-nul BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A surgical procedure in which a cut is made through the skin to remove an entire lump or suspicious area so it can be checked under a microscope for signs of disease. A small amount of healthy tissue around the abnormal area may also be removed.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708691" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;excisional biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708692" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por excisión&quot;" language="es" id="_8"/><SpanishTermName>biopsia por excisión</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento quirúrgico en el que se realiza una incisión en la piel para extirpar una masa completa o área sospechosa que luego se examina al microscopio con el fin de buscar signos de enfermedad. También es posible extirpar una pequeña cantidad de tejido sano alrededor de la zona anormal. También se llama biopsia excisional, biopsia excisoria y exéresis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-10-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046411">
+  <TermName>excisional biopsy</TermName>
+  <TermPronunciation>(ek-SIH-zhuh-nul BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgical procedure in which a cut is made through the skin to remove an entire lump or suspicious area so it can be checked under a microscope for signs of disease. A small amount of healthy tissue around the abnormal area may also be removed.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708691" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;excisional biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708692" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por excisión&quot;" language="es" id="_8"/>
+  <SpanishTermName>biopsia por excisión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento quirúrgico en el que se realiza una incisión en la piel para extirpar una masa completa o área sospechosa que luego se examina al microscopio con el fin de buscar signos de enfermedad. También es posible extirpar una pequeña cantidad de tejido sano alrededor de la zona anormal. También se llama biopsia excisional, biopsia excisoria y exéresis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-10-14</DateLastModified>
+</GlossaryTerm>

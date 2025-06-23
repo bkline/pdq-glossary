@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000808559"><TermName>ESS</TermName><TermDefinition><DefinitionText>A rare type of cancer that forms in the connective tissue of the lining of the uterus. It may also form in the ovaries, cervix, and vagina, but this is very uncommon. ESSs may be low grade or high grade, depending on how abnormal the cancer cells look under a microscope and how quickly the cancer cells are likely to grow and spread. They usually occur before menopause in women between 40 and 50 years of age. Also called endometrial stromal sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>SEE</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer raro que se forma en el tejido conjuntivo del revestimiento del útero. También se forma en los ovarios, el cuello uterino y la vagina, pero esto es muy poco frecuente. El SEE es de grado bajo o grado alto, según cuán anormales se ven las células cancerosas al microscopio y la rapidez con la que se multiplican y se diseminan. Suele aparecer antes de la menopausia en mujeres de entre 40 y 50 años. También se llama sarcoma del estroma endometrial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-05-31</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000257805" url="/types/uterine/patient/uterine-sarcoma-treatment-pdq">Uterine Sarcoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000452962" url="/espanol/tipos/uterino/paciente/tratamiento-sarcoma-uterino-pdq">Tratamiento del sarcoma uterino</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808559">
+  <TermName>ESS</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that forms in the connective tissue of the lining of the uterus. It may also form in the ovaries, cervix, and vagina, but this is very uncommon. ESSs may be low grade or high grade, depending on how abnormal the cancer cells look under a microscope and how quickly the cancer cells are likely to grow and spread. They usually occur before menopause in women between 40 and 50 years of age. Also called endometrial stromal sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>SEE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer raro que se forma en el tejido conjuntivo del revestimiento del útero. También se forma en los ovarios, el cuello uterino y la vagina, pero esto es muy poco frecuente. El SEE es de grado bajo o grado alto, según cuán anormales se ven las células cancerosas al microscopio y la rapidez con la que se multiplican y se diseminan. Suele aparecer antes de la menopausia en mujeres de entre 40 y 50 años. También se llama sarcoma del estroma endometrial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-05-31</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000257805" url="/types/uterine/patient/uterine-sarcoma-treatment-pdq">Uterine Sarcoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000452962" url="/espanol/tipos/uterino/paciente/tratamiento-sarcoma-uterino-pdq">Tratamiento del sarcoma uterino</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

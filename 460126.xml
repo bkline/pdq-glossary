@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000460126"><TermName>aneuploidy</TermName><TermPronunciation>(AN-yoo-PLOY-dee)</TermPronunciation><TermDefinition><DefinitionText>The occurrence of one or more extra or missing chromosomes in a cell or organism. Aneuploidy refers to any chromosome number that is not an exact multiple of the haploid number of chromosomes (which is 23 in humans).</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A condition in which there are extra or missing chromosomes in some or all the cells in the body. Human cells, except for egg and sperm cells, normally contain 23 pairs of chromosomes, for a total of 46 chromosomes in each cell. With aneuploidy, the number of chromosomes does not equal 46. For example, people with Down syndrome have three copies of chromosome 21 in each cell.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736928" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aneuploidy&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aneuploidia&quot;" language="es" id="_4"/><SpanishTermName>aneuploidia</SpanishTermName><SpanishTermDefinition><DefinitionText>Presencia de uno o más cromosomas supernumerarios, o ausencia de cromosomas en una célula u organismo. La aneuploidia se refiere a cualquier número de cromosomas que no es múltiplo exacto del número haploide (que en los seres humanos es 23). También se llama aneuploidía, disploidía y heteroploidía.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Alteración en el número de cromosomas en algunas células o en todas las células del cuerpo, es decir, tienen más cromosomas o les faltan cromosomas. Las células humanas, excepto los óvulos y los espermatozoides, por lo general tienen 23 pares de cromosomas, con un total de 46 cromosomas en cada célula. Cuando hay aneuploidia, el número de cromosomas es diferente a 46. Por ejemplo, las personas con síndrome de Down tienen 3 copias del cromosoma 21 en cada célula. También se llama aneuploidía, disploidía y heteroploidía.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://medlineplus.gov/genetics/understanding/mutationsanddisorders/chromosomalconditions/" UseWith="en">Can changes in the number of chromosomes affect health and development? (MedlinePlus)</RelatedExternalRef><RelatedExternalRef xref="https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/condicionescromosomas/" UseWith="es">¿Pueden los cambios en el número de cromosomas afectar la salud y el desarrollo? (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460126">
+  <TermName>aneuploidy</TermName>
+  <TermPronunciation>(AN-yoo-PLOY-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The occurrence of one or more extra or missing chromosomes in a cell or organism. Aneuploidy refers to any chromosome number that is not an exact multiple of the haploid number of chromosomes (which is 23 in humans).</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A condition in which there are extra or missing chromosomes in some or all the cells in the body. Human cells, except for egg and sperm cells, normally contain 23 pairs of chromosomes, for a total of 46 chromosomes in each cell. With aneuploidy, the number of chromosomes does not equal 46. For example, people with Down syndrome have three copies of chromosome 21 in each cell.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736928" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aneuploidy&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aneuploidia&quot;" language="es" id="_4"/>
+  <SpanishTermName>aneuploidia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de uno o más cromosomas supernumerarios, o ausencia de cromosomas en una célula u organismo. La aneuploidia se refiere a cualquier número de cromosomas que no es múltiplo exacto del número haploide (que en los seres humanos es 23). También se llama aneuploidía, disploidía y heteroploidía.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración en el número de cromosomas en algunas células o en todas las células del cuerpo, es decir, tienen más cromosomas o les faltan cromosomas. Las células humanas, excepto los óvulos y los espermatozoides, por lo general tienen 23 pares de cromosomas, con un total de 46 cromosomas en cada célula. Cuando hay aneuploidia, el número de cromosomas es diferente a 46. Por ejemplo, las personas con síndrome de Down tienen 3 copias del cromosoma 21 en cada célula. También se llama aneuploidía, disploidía y heteroploidía.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://medlineplus.gov/genetics/understanding/mutationsanddisorders/chromosomalconditions/" UseWith="en">Can changes in the number of chromosomes affect health and development? (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef xref="https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/condicionescromosomas/" UseWith="es">¿Pueden los cambios en el número de cromosomas afectar la salud y el desarrollo? (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

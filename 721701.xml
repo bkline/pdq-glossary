@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000721701"><TermName>stage II gallbladder cancer</TermName><TermPronunciation>(... GAWL-bla-der KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage II is divided into stages IIA and IIB, depending on where the cancer has spread   in the gallbladder. In stage IIA, cancer has spread through the muscle layer to the connective tissue layer of the gallbladder wall on the side of the gallbladder that is not near the liver. In stage IIB, cancer has spread through the muscle layer to the connective tissue layer of the gallbladder wall on the same side as the liver. Cancer has not spread to the liver.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II gallbladder cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732970" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vesícula biliar en estadio II&quot;" language="es" id="_4"/><SpanishTermName>cáncer de vesícula biliar en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio II se divide en los estadios IIA y IIB, según el lugar de la vesícula biliar donde se diseminó el cáncer. En el estadio IIA, el cáncer se diseminó a través de la capa de músculo hasta la capa de tejido conjuntivo de la pared de la vesícula biliar del lado de la vesícula opuesta al hígado. En el estadio IIB, el cáncer se diseminó a través de la capa de músculo hasta la capa de tejido conjuntivo de la pared de la vesícula biliar del mismo lado del hígado. El cáncer no se diseminó al hígado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-12-29</DateFirstPublished><DateLastModified>2018-01-18</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000270720" url="/types/gallbladder/patient/gallbladder-treatment-pdq">Gallbladder Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256804" url="/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq">Tratamiento del cáncer de vesícula biliar</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000721701">
+  <TermName>stage II gallbladder cancer</TermName>
+  <TermPronunciation>(... GAWL-bla-der KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage II is divided into stages IIA and IIB, depending on where the cancer has spread   in the gallbladder. In stage IIA, cancer has spread through the muscle layer to the connective tissue layer of the gallbladder wall on the side of the gallbladder that is not near the liver. In stage IIB, cancer has spread through the muscle layer to the connective tissue layer of the gallbladder wall on the same side as the liver. Cancer has not spread to the liver.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II gallbladder cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732970" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vesícula biliar en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de vesícula biliar en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio II se divide en los estadios IIA y IIB, según el lugar de la vesícula biliar donde se diseminó el cáncer. En el estadio IIA, el cáncer se diseminó a través de la capa de músculo hasta la capa de tejido conjuntivo de la pared de la vesícula biliar del lado de la vesícula opuesta al hígado. En el estadio IIB, el cáncer se diseminó a través de la capa de músculo hasta la capa de tejido conjuntivo de la pared de la vesícula biliar del mismo lado del hígado. El cáncer no se diseminó al hígado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-12-29</DateFirstPublished>
+  <DateLastModified>2018-01-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000270720" url="/types/gallbladder/patient/gallbladder-treatment-pdq">Gallbladder Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256804" url="/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq">Tratamiento del cáncer de vesícula biliar</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

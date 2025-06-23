@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817240"><TermName>scrotal edema</TermName><TermPronunciation>(SKROH-tul eh-DEE-muh)</TermPronunciation><TermDefinition><DefinitionText>A buildup of fluid in the scrotum (sac around the testicles). This causes swelling on one or both sides of the scrotum. Scrotal edema may be a sign of congestive heart failure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817803" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;scrotal edema&quot;" language="en" id="_4"/><MediaLink ref="CDR0000817804" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema escrotal&quot;" language="es" id="_5"/><SpanishTermName>edema escrotal</SpanishTermName><SpanishTermDefinition><DefinitionText>Acumulación de líquido en el escroto (bolsa que rodea los testículos). Esto provoca hinchazón en uno o ambos lados del escroto. Es posible que el edema escrotal sea un signo de insuficiencia cardíaca congestiva. También se llama edema del escroto.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-02-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817240">
+  <TermName>scrotal edema</TermName>
+  <TermPronunciation>(SKROH-tul eh-DEE-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A buildup of fluid in the scrotum (sac around the testicles). This causes swelling on one or both sides of the scrotum. Scrotal edema may be a sign of congestive heart failure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817803" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;scrotal edema&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000817804" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema escrotal&quot;" language="es" id="_5"/>
+  <SpanishTermName>edema escrotal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Acumulación de líquido en el escroto (bolsa que rodea los testículos). Esto provoca hinchazón en uno o ambos lados del escroto. Es posible que el edema escrotal sea un signo de insuficiencia cardíaca congestiva. También se llama edema del escroto.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-02-14</DateFirstPublished>
+</GlossaryTerm>

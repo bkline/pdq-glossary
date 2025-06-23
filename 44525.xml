@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044525"><TermName>hormone treatment</TermName><TermPronunciation>(HOR-mone TREET-ment)</TermPronunciation><TermDefinition><DefinitionText>Treatment that adds, blocks, or removes hormones. For certain conditions (such as diabetes or menopause), hormones are given to adjust low hormone levels. Hormones can also cause certain cancers (such as prostate and breast cancer) to grow. To slow or stop the growth of cancer, synthetic hormones or other drugs may be given to block the body’s natural hormones, or surgery is used to remove the gland that makes a certain hormone. Also called endocrine therapy, hormonal therapy, and hormone therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704708" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone treatment&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704709" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento con hormonas&quot;" language="es" id="_4"/><SpanishTermName>tratamiento con hormonas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento que agrega, bloquea o extrae hormonas. Para ciertas afecciones (como la diabetes o la menopausia), se administran hormonas para ajustar las concentraciones bajas de hormonas. Las hormonas también hacen que ciertos cánceres crezcan (como el cáncer de próstata o de mama). Es posible que se administren hormonas sintéticas u otros medicamentos para bloquear las hormonas naturales del cuerpo y de esta manera demorar o impedir el crecimiento de un cáncer. A veces, se recurre a una cirugía para extirpar la glándula que produce determinada hormona. También se llama terapia con hormonas, terapia endocrina y terapia hormonal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-01-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044525">
+  <TermName>hormone treatment</TermName>
+  <TermPronunciation>(HOR-mone TREET-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that adds, blocks, or removes hormones. For certain conditions (such as diabetes or menopause), hormones are given to adjust low hormone levels. Hormones can also cause certain cancers (such as prostate and breast cancer) to grow. To slow or stop the growth of cancer, synthetic hormones or other drugs may be given to block the body’s natural hormones, or surgery is used to remove the gland that makes a certain hormone. Also called endocrine therapy, hormonal therapy, and hormone therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704708" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone treatment&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704709" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento con hormonas&quot;" language="es" id="_4"/>
+  <SpanishTermName>tratamiento con hormonas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento que agrega, bloquea o extrae hormonas. Para ciertas afecciones (como la diabetes o la menopausia), se administran hormonas para ajustar las concentraciones bajas de hormonas. Las hormonas también hacen que ciertos cánceres crezcan (como el cáncer de próstata o de mama). Es posible que se administren hormonas sintéticas u otros medicamentos para bloquear las hormonas naturales del cuerpo y de esta manera demorar o impedir el crecimiento de un cáncer. A veces, se recurre a una cirugía para extirpar la glándula que produce determinada hormona. También se llama terapia con hormonas, terapia endocrina y terapia hormonal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-01-16</DateLastModified>
+</GlossaryTerm>

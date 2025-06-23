@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000463050"><TermName>turmeric</TermName><TermPronunciation>(TER-mayr-ik)</TermPronunciation><TermDefinition><DefinitionText>An East Indian plant that is a member of the ginger family and is used as a spice and food color. It is a major ingredient found in curry powder. The underground stem of the turmeric plant has been used for many years in traditional Asian medicine to treat certain conditions. The substance in turmeric that gives it a yellow color is called curcumin, which may have antioxidant and anti-inflammatory effects in the body. Turmeric can be made into a capsule, tablet, extract, powder, or tea and taken by mouth as a dietary supplement. It can also be made into a paste to treat skin conditions. Turmeric is being studied in the prevention and treatment of some types of cancer. Its scientific name is <ScientificName>Curcuma longa</ScientificName>. Also called Indian saffron and jiang huang.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716695" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;turmeric&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716694" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cúrcuma&quot;" language="es" id="_4"/><SpanishTermName>cúrcuma</SpanishTermName><SpanishTermDefinition><DefinitionText>Planta de la India Oriental que pertenece a la familia del jengibre, y que se usa como especia y colorante alimentario. Es un ingrediente principal del curry en polvo. El tallo subterráneo de la planta  de la cúrcuma se ha usado por muchos años en la medicina tradicional de Asia para el tratamiento de determinadas afecciones. La sustancia  de la cúrcuma que le da un color amarillo se llama curcumina, es posible que esta tenga efectos antioxidantes y antiinflamatorios en el cuerpo. La forma de presentación de la cúrcuma puede ser  en cápsula, tableta, extracto, polvo o té y se toma por boca como suplemento alimenticio. También se fabrica en forma de pasta para tratar afecciones de la piel. La cúrcuma está en estudio para la prevención y tratamiento de algunos tipos de cáncer. El nombre científico es <ScientificName>Curcuma longa</ScientificName>. También se llama azafrán de la India, jiang huang y turmérico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-10</DateFirstPublished><DateLastModified>2023-07-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000805047" url="/about-cancer/treatment/cam/patient/curcumin-pdq">Curcumin (Curcuma, Turmeric) and Cancer</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000813461" url="/espanol/cancer/tratamiento/mca/paciente/curcuma-pdq">La cúrcuma y el cáncer</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000463050">
+  <TermName>turmeric</TermName>
+  <TermPronunciation>(TER-mayr-ik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      An East Indian plant that is a member of the ginger family and is used as a spice and food color. It is a major ingredient found in curry powder. The underground stem of the turmeric plant has been used for many years in traditional Asian medicine to treat certain conditions. The substance in turmeric that gives it a yellow color is called curcumin, which may have antioxidant and anti-inflammatory effects in the body. Turmeric can be made into a capsule, tablet, extract, powder, or tea and taken by mouth as a dietary supplement. It can also be made into a paste to treat skin conditions. Turmeric is being studied in the prevention and treatment of some types of cancer. Its scientific name is 
+      <ScientificName>Curcuma longa</ScientificName>
+      . Also called Indian saffron and jiang huang.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716695" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;turmeric&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716694" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cúrcuma&quot;" language="es" id="_4"/>
+  <SpanishTermName>cúrcuma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Planta de la India Oriental que pertenece a la familia del jengibre, y que se usa como especia y colorante alimentario. Es un ingrediente principal del curry en polvo. El tallo subterráneo de la planta  de la cúrcuma se ha usado por muchos años en la medicina tradicional de Asia para el tratamiento de determinadas afecciones. La sustancia  de la cúrcuma que le da un color amarillo se llama curcumina, es posible que esta tenga efectos antioxidantes y antiinflamatorios en el cuerpo. La forma de presentación de la cúrcuma puede ser  en cápsula, tableta, extracto, polvo o té y se toma por boca como suplemento alimenticio. También se fabrica en forma de pasta para tratar afecciones de la piel. La cúrcuma está en estudio para la prevención y tratamiento de algunos tipos de cáncer. El nombre científico es 
+      <ScientificName>Curcuma longa</ScientificName>
+      . También se llama azafrán de la India, jiang huang y turmérico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-10</DateFirstPublished>
+  <DateLastModified>2023-07-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000805047" url="/about-cancer/treatment/cam/patient/curcumin-pdq">Curcumin (Curcuma, Turmeric) and Cancer</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000813461" url="/espanol/cancer/tratamiento/mca/paciente/curcuma-pdq">La cúrcuma y el cáncer</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

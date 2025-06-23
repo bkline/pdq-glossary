@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044929"><TermName>stromal tumor</TermName><TermPronunciation>(STROH-mal TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A tumor that arises in the supporting connective tissue of an organ.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706159" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stromal tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706158" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de estroma&quot;" language="es" id="_4"/><SpanishTermName>tumor de estroma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor que aparece en el tejido conjuntivo que sostiene un órgano. También se llama tumor estromal y tumor estromático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2003-06-09</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044929">
+  <TermName>stromal tumor</TermName>
+  <TermPronunciation>(STROH-mal TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A tumor that arises in the supporting connective tissue of an organ.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706159" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stromal tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706158" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de estroma&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor de estroma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor que aparece en el tejido conjuntivo que sostiene un órgano. También se llama tumor estromal y tumor estromático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2003-06-09</DateLastModified>
+</GlossaryTerm>

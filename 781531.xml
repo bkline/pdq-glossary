@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000781531"><TermName>vascular tumor</TermName><TermPronunciation>(VAS-kyoo-ler TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A type of tumor that forms from cells that make blood vessels or lymph vessels. Vascular tumors may be benign (not cancer) or malignant (cancer) and can occur anywhere in the body. They may form on the skin, in the tissues below the skin, and/or in an organ. There are many types of vascular tumors. The most common type of vascular tumor is hemangioma, which is a benign tumor that usually occurs in infants and goes away on its own.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784422" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vascular tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784423" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor vascular&quot;" language="es" id="_4"/><SpanishTermName>tumor vascular</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo  de  tumor que surge de las células  que forman los vasos sanguíneos o linfáticos. Los tumores vasculares son benignos (no cancerosos) o malignos (cáncer)  y se pueden presentar en cualquier parte del cuerpo. Es posible que estos tumores se formen en la piel, los tejidos debajo de la piel o en un órgano. Hay muchos tipos de tumores vasculares; el más frecuente es el hemangioma, un tumor benigno que por lo general se presenta en lactantes y desaparece solo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781531">
+  <TermName>vascular tumor</TermName>
+  <TermPronunciation>(VAS-kyoo-ler TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of tumor that forms from cells that make blood vessels or lymph vessels. Vascular tumors may be benign (not cancer) or malignant (cancer) and can occur anywhere in the body. They may form on the skin, in the tissues below the skin, and/or in an organ. There are many types of vascular tumors. The most common type of vascular tumor is hemangioma, which is a benign tumor that usually occurs in infants and goes away on its own.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784422" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vascular tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784423" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor vascular&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor vascular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo  de  tumor que surge de las células  que forman los vasos sanguíneos o linfáticos. Los tumores vasculares son benignos (no cancerosos) o malignos (cáncer)  y se pueden presentar en cualquier parte del cuerpo. Es posible que estos tumores se formen en la piel, los tejidos debajo de la piel o en un órgano. Hay muchos tipos de tumores vasculares; el más frecuente es el hemangioma, un tumor benigno que por lo general se presenta en lactantes y desaparece solo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000750070"><TermName>Tafinlar</TermName><TermPronunciation>(TA-fin-lar)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with trametinib to treat low-grade glioma (a type of brain tumor) in children aged 1 year and older and certain types of anaplastic thyroid cancer, non-small cell lung cancer, melanoma, and other solid tumors that have a certain mutation (change) in the <GeneName>BRAF</GeneName> gene. It is also being studied in the treatment of other types of cancer. Tafinlar blocks certain proteins made by the mutated <GeneName>BRAF</GeneName> gene, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called dabrafenib mesylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000752687" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tafinlar&quot;" language="en" id="_3"/><MediaLink ref="CDR0000752686" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tafinlar&quot;" language="es" id="_4"/><SpanishTermName>Tafinlar</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con trametinib para el tratamiento del  glioma de grado bajo (tipo de tumor de encéfalo) en niños de 1 año o más, y de ciertos tipos de cáncer de tiroides anaplásico, cáncer de pulmón de células no pequeñas, melanoma y otros tumores sólidos que tienen determinada mutación (cambio) en el gen <GeneName>BRAF</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. Tafinlar bloquea ciertas proteínas que se originan del gen <GeneName>BRAF</GeneName> mutado, lo que tal vez ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama mesilato de dabrafenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-06-03</DateFirstPublished><DateLastModified>2023-03-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000750067" url="/about-cancer/treatment/drugs/dabrafenib">Dabrafenib Mesylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000750070">
+  <TermName>Tafinlar</TermName>
+  <TermPronunciation>(TA-fin-lar)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used alone or with trametinib to treat low-grade glioma (a type of brain tumor) in children aged 1 year and older and certain types of anaplastic thyroid cancer, non-small cell lung cancer, melanoma, and other solid tumors that have a certain mutation (change) in the 
+      <GeneName>BRAF</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Tafinlar blocks certain proteins made by the mutated 
+      <GeneName>BRAF</GeneName>
+       gene, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called dabrafenib mesylate.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000752687" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tafinlar&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000752686" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tafinlar&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tafinlar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa solo o con trametinib para el tratamiento del  glioma de grado bajo (tipo de tumor de encéfalo) en niños de 1 año o más, y de ciertos tipos de cáncer de tiroides anaplásico, cáncer de pulmón de células no pequeñas, melanoma y otros tumores sólidos que tienen determinada mutación (cambio) en el gen 
+      <GeneName>BRAF</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. Tafinlar bloquea ciertas proteínas que se originan del gen 
+      <GeneName>BRAF</GeneName>
+       mutado, lo que tal vez ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama mesilato de dabrafenib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-06-03</DateFirstPublished>
+  <DateLastModified>2023-03-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000750067" url="/about-cancer/treatment/drugs/dabrafenib">Dabrafenib Mesylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

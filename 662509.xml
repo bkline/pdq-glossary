@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000662509"><TermName>FOLFIRI-Avastin regimen</TermName><TermPronunciation>(…uh-VAS-tin REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>A chemotherapy combination used as an initial treatment of colorectal cancer that has spread. It includes the drugs leucovorin (folinic acid), fluorouracil, irinotecan hydrochloride, and bevacizumab. Also called FOLFIRI-bevacizumab and FOLFIRI-bevacizumab regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;FOLFIRI-Avastin regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen FOLFIRI y Avastin&quot;" language="es" id="_4"/><SpanishTermName>régimen FOLFIRI y Avastin</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento inicial del cáncer colorrectal que se ha diseminado. Incluye los medicamentos leucovorina (ácido folínico), fluorouracilo, clorhidrato de irinotecán y bevacizumab. También se llama FOLFIRI y bevacizumab y régimen FOLFIRI y bevacizumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-26</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000698393" url="/about-cancer/treatment/drugs/FOLFIRI-BEVACIZUMAB">FOLFIRI-BEVACIZUMAB</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000662509">
+  <TermName>FOLFIRI-Avastin regimen</TermName>
+  <TermPronunciation>(…uh-VAS-tin REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A chemotherapy combination used as an initial treatment of colorectal cancer that has spread. It includes the drugs leucovorin (folinic acid), fluorouracil, irinotecan hydrochloride, and bevacizumab. Also called FOLFIRI-bevacizumab and FOLFIRI-bevacizumab regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;FOLFIRI-Avastin regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen FOLFIRI y Avastin&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen FOLFIRI y Avastin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento inicial del cáncer colorrectal que se ha diseminado. Incluye los medicamentos leucovorina (ácido folínico), fluorouracilo, clorhidrato de irinotecán y bevacizumab. También se llama FOLFIRI y bevacizumab y régimen FOLFIRI y bevacizumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000698393" url="/about-cancer/treatment/drugs/FOLFIRI-BEVACIZUMAB">FOLFIRI-BEVACIZUMAB</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

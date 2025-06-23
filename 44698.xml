@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000044698"><TermName>nutrition</TermName><TermPronunciation>(noo-TRIH-shun)</TermPronunciation><TermDefinition><DefinitionText>The taking in and use of food and other nourishing material by the body. Nutrition is a 3-part process. First, food or drink is consumed. Second, the body breaks down the food or drink into nutrients. Third, the nutrients travel through the bloodstream to different parts of the body where they are used as "fuel" and for many other purposes. To give the body proper nutrition, a person has to eat and drink enough of the foods that contain key nutrients.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nutrition&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nutrición&quot;" language="es" id="_4"/><SpanishTermName>nutrición</SpanishTermName><SpanishTermDefinition><DefinitionText>Consumo  y uso de alimentos y nutrientes por el cuerpo. La nutrición es un proceso en tres fases: en la primera, se consumen los alimentos o bebidas que luego, durante la segunda, se descomponen para obtener los nutrientes; durante la tercera, los nutrientes pasan al torrente sanguíneo y llegan a diferentes partes del cuerpo, donde se usan como "combustible" y con otros fines. Con el fin de obtener una nutrición adecuada para el cuerpo, las personas tienen que ingerir suficientes alimentos y bebidas que contengan nutrientes esenciales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2006-09-30</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/nutrition" UseWith="en">Nutrition During Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity">Obesity</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad">Obesidad</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/nutricion" UseWith="es">Nutrición durante el tratamiento del cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044698">
+  <TermName>nutrition</TermName>
+  <TermPronunciation>(noo-TRIH-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The taking in and use of food and other nourishing material by the body. Nutrition is a 3-part process. First, food or drink is consumed. Second, the body breaks down the food or drink into nutrients. Third, the nutrients travel through the bloodstream to different parts of the body where they are used as &quot;fuel&quot; and for many other purposes. To give the body proper nutrition, a person has to eat and drink enough of the foods that contain key nutrients.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nutrition&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nutrición&quot;" language="es" id="_4"/>
+  <SpanishTermName>nutrición</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Consumo  y uso de alimentos y nutrientes por el cuerpo. La nutrición es un proceso en tres fases: en la primera, se consumen los alimentos o bebidas que luego, durante la segunda, se descomponen para obtener los nutrientes; durante la tercera, los nutrientes pasan al torrente sanguíneo y llegan a diferentes partes del cuerpo, donde se usan como &quot;combustible&quot; y con otros fines. Con el fin de obtener una nutrición adecuada para el cuerpo, las personas tienen que ingerir suficientes alimentos y bebidas que contengan nutrientes esenciales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2006-09-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/nutrition" UseWith="en">Nutrition During Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity">Obesity</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad">Obesidad</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/nutricion" UseWith="es">Nutrición durante el tratamiento del cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

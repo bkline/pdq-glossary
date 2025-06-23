@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000796825"><TermName>BPDCN</TermName><TermDefinition><DefinitionText>A rare, fast-growing cancer that affects the blood, bone marrow, and skin. It can also affect the lymph nodes, spleen, and central nervous system. Most patients with BPDCN have red-brown or deep purple skin lesions on one or more areas of the body. BPDCN usually occurs in older adults and is difficult to diagnose and treat. Also called blastic plasmacytoid dendritic cell neoplasm.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>NCDPB</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer poco frecuente de crecimiento rápido que afecta la sangre, la médula ósea y la piel. También puede afectar los ganglios linfáticos, el bazo y el sistema nervioso central. La mayoría de los pacientes con NCDPB tienen lesiones en la piel de color marrón rojizo o morado  oscuro en una o más áreas del cuerpo.  Esta neoplasia a menudo se presenta en adultos mayores y su diagnóstico y tratamiento son difíciles. También se llama neoplasia de células dendríticas plasmocitoides blásticas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796825">
+  <TermName>BPDCN</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare, fast-growing cancer that affects the blood, bone marrow, and skin. It can also affect the lymph nodes, spleen, and central nervous system. Most patients with BPDCN have red-brown or deep purple skin lesions on one or more areas of the body. BPDCN usually occurs in older adults and is difficult to diagnose and treat. Also called blastic plasmacytoid dendritic cell neoplasm.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>NCDPB</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer poco frecuente de crecimiento rápido que afecta la sangre, la médula ósea y la piel. También puede afectar los ganglios linfáticos, el bazo y el sistema nervioso central. La mayoría de los pacientes con NCDPB tienen lesiones en la piel de color marrón rojizo o morado  oscuro en una o más áreas del cuerpo.  Esta neoplasia a menudo se presenta en adultos mayores y su diagnóstico y tratamiento son difíciles. También se llama neoplasia de células dendríticas plasmocitoides blásticas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-09</DateFirstPublished>
+</GlossaryTerm>

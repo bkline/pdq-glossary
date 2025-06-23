@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045324"><TermName>interferon</TermName><TermPronunciation>(in-ter-FEER-on)</TermPronunciation><TermDefinition><DefinitionText>A natural substance that helps the body’s immune system fight infection and other diseases, such as cancer. Interferons are made in the body by white blood cells and other cells, but they can also be made in the laboratory to use as treatments for different diseases. In cancer therapy, interferons may help keep cancer cells from growing and may help kill cancer cells. There are three main types of interferons: interferon-alfa, interferon-beta, and interferon-gamma. An interferon is a type of cytokine and type of immunomodulating agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705320" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;interferon&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705321" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;interferón&quot;" language="es" id="_4"/><SpanishTermName>interferón</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia natural que ayuda al sistema inmunitario del cuerpo a combatir infecciones y otras enfermedades, como el cáncer. Los glóbulos blancos y otras células del cuerpo elaboran interferones, pero también se producen en el laboratorio para su uso en el tratamiento de diferentes enfermedades. En el tratamiento del cáncer, es posible que los interferones ayuden a impedir que las células se multipliquen y a destruir células cancerosas. Hay tres tipos principales de interferones: el interferón alfa, el interferón beta y el interferón gamma. Los interferones son un tipo de citocina y un tipo de agente inmunomodulador.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-01-09</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045324">
+  <TermName>interferon</TermName>
+  <TermPronunciation>(in-ter-FEER-on)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A natural substance that helps the body’s immune system fight infection and other diseases, such as cancer. Interferons are made in the body by white blood cells and other cells, but they can also be made in the laboratory to use as treatments for different diseases. In cancer therapy, interferons may help keep cancer cells from growing and may help kill cancer cells. There are three main types of interferons: interferon-alfa, interferon-beta, and interferon-gamma. An interferon is a type of cytokine and type of immunomodulating agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705320" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;interferon&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705321" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;interferón&quot;" language="es" id="_4"/>
+  <SpanishTermName>interferón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia natural que ayuda al sistema inmunitario del cuerpo a combatir infecciones y otras enfermedades, como el cáncer. Los glóbulos blancos y otras células del cuerpo elaboran interferones, pero también se producen en el laboratorio para su uso en el tratamiento de diferentes enfermedades. En el tratamiento del cáncer, es posible que los interferones ayuden a impedir que las células se multipliquen y a destruir células cancerosas. Hay tres tipos principales de interferones: el interferón alfa, el interferón beta y el interferón gamma. Los interferones son un tipo de citocina y un tipo de agente inmunomodulador.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-01-09</DateLastModified>
+</GlossaryTerm>

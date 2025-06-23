@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000648685"><TermName>psychosocial</TermName><TermPronunciation>(SY-koh-SOH-shul)</TermPronunciation><TermDefinition><DefinitionText>In medicine, having to do with the mental, emotional, social, and spiritual effects of a disease, such as cancer. Some of the psychosocial effects of cancer are changes in how a patient thinks, their feelings, moods, beliefs, ways of coping, and relationships with family, friends, and co-workers. There are different kinds of psychosocial support that can help cancer patients, including counseling, education, group support, and spiritual support.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychosocial&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psicosocial&quot;" language="es" id="_4"/><SpanishTermName>psicosocial</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, describe los efectos mentales, emocionales, sociales y espirituales de una enfermedad, como el cáncer. Algunos de los efectos psicosociales del cáncer son los cambios en los pensamientos, los sentimientos, los estados de ánimo, las creencias y las maneras  de enfrentar situaciones difíciles, además de los cambios en las relaciones con la familia, los amigos y los compañeros de trabajo. Hay distintas formas de apoyo psicosocial que pueden ayudar a los pacientes de cáncer, como la orientación, la educación, los grupos de apoyo y el apoyo espiritual.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-01-11</DateFirstPublished><DateLastModified>2018-06-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000648685">
+  <TermName>psychosocial</TermName>
+  <TermPronunciation>(SY-koh-SOH-shul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, having to do with the mental, emotional, social, and spiritual effects of a disease, such as cancer. Some of the psychosocial effects of cancer are changes in how a patient thinks, their feelings, moods, beliefs, ways of coping, and relationships with family, friends, and co-workers. There are different kinds of psychosocial support that can help cancer patients, including counseling, education, group support, and spiritual support.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychosocial&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psicosocial&quot;" language="es" id="_4"/>
+  <SpanishTermName>psicosocial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, describe los efectos mentales, emocionales, sociales y espirituales de una enfermedad, como el cáncer. Algunos de los efectos psicosociales del cáncer son los cambios en los pensamientos, los sentimientos, los estados de ánimo, las creencias y las maneras  de enfrentar situaciones difíciles, además de los cambios en las relaciones con la familia, los amigos y los compañeros de trabajo. Hay distintas formas de apoyo psicosocial que pueden ayudar a los pacientes de cáncer, como la orientación, la educación, los grupos de apoyo y el apoyo espiritual.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-01-11</DateFirstPublished>
+  <DateLastModified>2018-06-04</DateLastModified>
+</GlossaryTerm>

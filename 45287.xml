@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045287"><TermName>lymphokine-activated killer cell</TermName><TermPronunciation>(LIM-foh-kine-AK-tih-vay-ted KIH-ler sel)</TermPronunciation><TermDefinition><DefinitionText>A white blood cell that is stimulated in a laboratory to kill tumor cells. Also called LAK cell.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730859" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphokine-activated killer cell&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfocito citolítico activado por linfocinas&quot;" language="es" id="_4"/><SpanishTermName>linfocito citolítico activado por linfocinas</SpanishTermName><SpanishTermDefinition><DefinitionText>Glóbulo blanco al que se estimula en el laboratorio para que destruya células tumorales. También se llama célula citolítica activada por linfocina y célula LAK.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2003-06-09</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045287">
+  <TermName>lymphokine-activated killer cell</TermName>
+  <TermPronunciation>(LIM-foh-kine-AK-tih-vay-ted KIH-ler sel)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A white blood cell that is stimulated in a laboratory to kill tumor cells. Also called LAK cell.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730859" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphokine-activated killer cell&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfocito citolítico activado por linfocinas&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfocito citolítico activado por linfocinas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Glóbulo blanco al que se estimula en el laboratorio para que destruya células tumorales. También se llama célula citolítica activada por linfocina y célula LAK.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2003-06-09</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000285938"><TermName>microsatellite</TermName><TermPronunciation>(MY-kroh-SA-teh-lite)</TermPronunciation><TermDefinition><DefinitionText>A short sequence of DNA, usually 1 to 4 basepairs (a unit of DNA), that is repeated together in a row along the DNA molecule. There is variation from person to person in the number of repeats. There are hundreds of places in human DNA that contain microsatellites.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>Repetitive segments of DNA scattered throughout the genome in noncoding regions between genes or within genes (introns). Microsatellites are often used as markers for linkage analysis because of their naturally occurring high variability in repeat number between individuals. These regions are inherently genetically unstable and susceptible to mutations.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000731549" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microsatellite&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731548" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microsatélite&quot;" language="es" id="_4"/><SpanishTermName>microsatélite</SpanishTermName><SpanishTermDefinition><DefinitionText>Secuencia corta de ADN, por lo general formada por 1 a 4 pares de bases (unidad de ADN), que se repiten juntas en una fila de la molécula de ADN. El número de repeticiones varía de persona a persona. Hay microsatélites en cientos de lugares del ADN humano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Segmentos repetitivos de ADN dispersos por todo el genoma en regiones no codificantes intercaladas entre los genes o dentro de los genes (intrones). Los microsatélites se usan a menudo como marcadores para el  análisis de ligamiento porque se presentan con una variabilidad natural alta en cantidades repetidas entre individuos. Estas regiones son intrínsecamente inestables desde el punto de vista genético y susceptibles  a mutaciones.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-02-21</DateFirstPublished><DateLastModified>2007-02-13</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Microsatellite">Microsatellite (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Microsatelite">Microsatélite (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000285938">
+  <TermName>microsatellite</TermName>
+  <TermPronunciation>(MY-kroh-SA-teh-lite)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A short sequence of DNA, usually 1 to 4 basepairs (a unit of DNA), that is repeated together in a row along the DNA molecule. There is variation from person to person in the number of repeats. There are hundreds of places in human DNA that contain microsatellites.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>Repetitive segments of DNA scattered throughout the genome in noncoding regions between genes or within genes (introns). Microsatellites are often used as markers for linkage analysis because of their naturally occurring high variability in repeat number between individuals. These regions are inherently genetically unstable and susceptible to mutations.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731549" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microsatellite&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731548" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microsatélite&quot;" language="es" id="_4"/>
+  <SpanishTermName>microsatélite</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Secuencia corta de ADN, por lo general formada por 1 a 4 pares de bases (unidad de ADN), que se repiten juntas en una fila de la molécula de ADN. El número de repeticiones varía de persona a persona. Hay microsatélites en cientos de lugares del ADN humano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Segmentos repetitivos de ADN dispersos por todo el genoma en regiones no codificantes intercaladas entre los genes o dentro de los genes (intrones). Los microsatélites se usan a menudo como marcadores para el  análisis de ligamiento porque se presentan con una variabilidad natural alta en cantidades repetidas entre individuos. Estas regiones son intrínsecamente inestables desde el punto de vista genético y susceptibles  a mutaciones.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-02-21</DateFirstPublished>
+  <DateLastModified>2007-02-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Microsatellite">Microsatellite (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Microsatelite">Microsatélite (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

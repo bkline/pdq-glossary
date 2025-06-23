@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000476307"><TermName>palonosetron hydrochloride</TermName><TermPronunciation>(pa-loh-NOH-seh-tron HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A drug used in adults and children aged 1 month and older to prevent nausea and vomiting caused by chemotherapy and nausea and vomiting after surgery.  Palonosetron hydrochloride blocks the action of a chemical called serotonin, which binds to certain nerves and may trigger nausea and vomiting. Blocking serotonin may help lessen nausea and vomiting.  Palonosetron hydrochloride is a type of antiemetic and a type of serotonin receptor antagonist. Also called Aloxi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716690" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palonosetron hydrochloride&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716691" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de palonosetrón&quot;" language="es" id="_4"/><SpanishTermName>clorhidrato de palonosetrón</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa en adultos y niños de 1 mes o más para prevenir las náuseas y los vómitos que causa la quimioterapia. También se usa para prevenir las náuseas y los vómitos después de una cirugía. El clorhidrato de palonosetrón bloquea la acción de la sustancia química serotonina, que se une a ciertos nervios,   y quizás provoque náuseas y vómitos. Es posible que el bloqueo de la serotonina ayude a disminuir las náuseas y los vómitos. El clorhidrato de palonosetrón es un tipo de antagonista del receptor de serotonina y un antiemético. También se llama Aloxi e hidrocloruro de palonosetrón.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-01-09</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000505319" url="/about-cancer/treatment/drugs/palonosetronhydrochloride">Palonosetron Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000476307">
+  <TermName>palonosetron hydrochloride</TermName>
+  <TermPronunciation>(pa-loh-NOH-seh-tron HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used in adults and children aged 1 month and older to prevent nausea and vomiting caused by chemotherapy and nausea and vomiting after surgery.  Palonosetron hydrochloride blocks the action of a chemical called serotonin, which binds to certain nerves and may trigger nausea and vomiting. Blocking serotonin may help lessen nausea and vomiting.  Palonosetron hydrochloride is a type of antiemetic and a type of serotonin receptor antagonist. Also called Aloxi.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716690" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palonosetron hydrochloride&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716691" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de palonosetrón&quot;" language="es" id="_4"/>
+  <SpanishTermName>clorhidrato de palonosetrón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa en adultos y niños de 1 mes o más para prevenir las náuseas y los vómitos que causa la quimioterapia. También se usa para prevenir las náuseas y los vómitos después de una cirugía. El clorhidrato de palonosetrón bloquea la acción de la sustancia química serotonina, que se une a ciertos nervios,   y quizás provoque náuseas y vómitos. Es posible que el bloqueo de la serotonina ayude a disminuir las náuseas y los vómitos. El clorhidrato de palonosetrón es un tipo de antagonista del receptor de serotonina y un antiemético. También se llama Aloxi e hidrocloruro de palonosetrón.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-01-09</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000505319" url="/about-cancer/treatment/drugs/palonosetronhydrochloride">Palonosetron Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000813317"><TermName>gonadal mosaicism</TermName><TermPronunciation>(goh-NA-dul moh-ZAY-ih-SIH-zum)</TermPronunciation><TermDefinition><DefinitionText>A term that refers to the presence of a pathogenic variant that is confined to the ovaries or testes. Gonadal mosaicism occurs when some of the sperm cells in the testes or some of the egg cells in the ovaries carry a pathogenic variant that is not found in other cells of the body. This means that a parent may not develop a genetic condition but could pass it on to one or more of their children. Also called germline mosaicism.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000814044" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gonadal mosaicism&quot;" language="en" id="_5"/><MediaLink ref="CDR0000814045" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mosaicismo gonadal&quot;" language="es" id="_6"/><SpanishTermName>mosaicismo gonadal</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se refiere a la presencia de una variante patogénica que se encuentra solo en los ovarios o los testículos. El mosaicismo gonadal se produce cuando algunos de los espermatozoides en los testículos, o de los óvulos en los ovarios, tienen una variante patogénica que no se encuentra en otras células del cuerpo. Esto significa que quizás el padre o la madre no presente la afección genética, pero  algunos de sus hijos o hijas podrían heredarla. También se llama mosaicismo cromosómico y mosaicismo de la línea germinal.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2023-08-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813317">
+  <TermName>gonadal mosaicism</TermName>
+  <TermPronunciation>(goh-NA-dul moh-ZAY-ih-SIH-zum)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term that refers to the presence of a pathogenic variant that is confined to the ovaries or testes. Gonadal mosaicism occurs when some of the sperm cells in the testes or some of the egg cells in the ovaries carry a pathogenic variant that is not found in other cells of the body. This means that a parent may not develop a genetic condition but could pass it on to one or more of their children. Also called germline mosaicism.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814044" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gonadal mosaicism&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000814045" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mosaicismo gonadal&quot;" language="es" id="_6"/>
+  <SpanishTermName>mosaicismo gonadal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se refiere a la presencia de una variante patogénica que se encuentra solo en los ovarios o los testículos. El mosaicismo gonadal se produce cuando algunos de los espermatozoides en los testículos, o de los óvulos en los ovarios, tienen una variante patogénica que no se encuentra en otras células del cuerpo. Esto significa que quizás el padre o la madre no presente la afección genética, pero  algunos de sus hijos o hijas podrían heredarla. También se llama mosaicismo cromosómico y mosaicismo de la línea germinal.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-08-01</DateFirstPublished>
+</GlossaryTerm>

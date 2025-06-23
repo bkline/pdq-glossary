@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000799968"><TermName>Brukinsa</TermName><TermPronunciation>(BROO-kin-suh)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with another drug to treat adults with chronic lymphocytic leukemia, small lymphocytic lymphoma, or certain types of non-Hodgkin lymphoma, including follicular lymphoma, mantle cell lymphoma, marginal zone lymphoma, and Waldenström’s macroglobulinemia. It is also being studied in the treatment of other types of cancer. Brukinsa blocks a protein called BTK, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called zanubrutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801126" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Brukinsa&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801127" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Brukinsa&quot;" language="es" id="_4"/><SpanishTermName>Brukinsa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otro medicamento para el tratamiento de adultos con leucemia linfocítica crónica, linfoma linfocítico pequeño o ciertos tipos de linfoma no Hodgkin, como el linfoma folicular, el linfoma de células de manto, el linfoma de zona marginal  y la macroglobulinemia de Waldenström. También está en estudio para el tratamiento de otros tipos de cáncer. Brukinsa bloquea la proteína BTK, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama zanubrutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-12-19</DateFirstPublished><DateLastModified>2024-03-08</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000800195" url="/about-cancer/treatment/drugs/zanubrutinib">Zanubrutinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799968">
+  <TermName>Brukinsa</TermName>
+  <TermPronunciation>(BROO-kin-suh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with another drug to treat adults with chronic lymphocytic leukemia, small lymphocytic lymphoma, or certain types of non-Hodgkin lymphoma, including follicular lymphoma, mantle cell lymphoma, marginal zone lymphoma, and Waldenström’s macroglobulinemia. It is also being studied in the treatment of other types of cancer. Brukinsa blocks a protein called BTK, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called zanubrutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801126" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Brukinsa&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801127" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Brukinsa&quot;" language="es" id="_4"/>
+  <SpanishTermName>Brukinsa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otro medicamento para el tratamiento de adultos con leucemia linfocítica crónica, linfoma linfocítico pequeño o ciertos tipos de linfoma no Hodgkin, como el linfoma folicular, el linfoma de células de manto, el linfoma de zona marginal  y la macroglobulinemia de Waldenström. También está en estudio para el tratamiento de otros tipos de cáncer. Brukinsa bloquea la proteína BTK, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama zanubrutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-12-19</DateFirstPublished>
+  <DateLastModified>2024-03-08</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000800195" url="/about-cancer/treatment/drugs/zanubrutinib">Zanubrutinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

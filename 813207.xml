@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000813207"><TermName>Vanflyta</TermName><TermPronunciation>(van-FLIH-tah)</TermPronunciation><TermDefinition><DefinitionText>A drug used with certain chemotherapy drugs and then alone as maintenance therapy  to treat adults with newly diagnosed acute myeloid leukemia that has a certain mutation in the <GeneName>FLT3</GeneName> gene. It is also being studied in the treatment of other types of cancer. Vanflyta blocks FLT3 and other proteins, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called quizartinib dihydrochloride.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814042" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vanflyta&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814043" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vanflyta&quot;" language="es" id="_4"/><SpanishTermName>Vanflyta</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con ciertos fármacos de quimioterapia como tratamiento inicial para la leucemia mieloide aguda recién diagnosticada en adultos que tienen determinada mutación en el gen <GeneName>FLT3</GeneName>. Después del tratamiento inicial, se usa en monoterapia (solo) como terapia de mantenimiento. También está en estudio para el tratamiento de otros tipos de cáncer. Vanflyta bloquea FLT3 y otras proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama diclorhidrato de quizartinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-07-26</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000813149" url="/about-cancer/treatment/drugs/quizartinib-dihydrochloride">Quizartinib Dihydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813207">
+  <TermName>Vanflyta</TermName>
+  <TermPronunciation>(van-FLIH-tah)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used with certain chemotherapy drugs and then alone as maintenance therapy  to treat adults with newly diagnosed acute myeloid leukemia that has a certain mutation in the 
+      <GeneName>FLT3</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Vanflyta blocks FLT3 and other proteins, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called quizartinib dihydrochloride.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814042" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vanflyta&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814043" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vanflyta&quot;" language="es" id="_4"/>
+  <SpanishTermName>Vanflyta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa con ciertos fármacos de quimioterapia como tratamiento inicial para la leucemia mieloide aguda recién diagnosticada en adultos que tienen determinada mutación en el gen 
+      <GeneName>FLT3</GeneName>
+      . Después del tratamiento inicial, se usa en monoterapia (solo) como terapia de mantenimiento. También está en estudio para el tratamiento de otros tipos de cáncer. Vanflyta bloquea FLT3 y otras proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama diclorhidrato de quizartinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-07-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000813149" url="/about-cancer/treatment/drugs/quizartinib-dihydrochloride">Quizartinib Dihydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

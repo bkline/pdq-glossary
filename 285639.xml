@@ -1,1 +1,36 @@
-<GlossaryTerm id="CDR0000285639"><TermName>atypical teratoid/rhabdoid tumor</TermName><TermPronunciation>(ay-TIH-pih-kul TAYR-uh-toyd/RAB-doyd TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A very rare, fast-growing cancer that usually forms in the tissues of the central nervous system (CNS), such as the cerebellum (the part of the brain that controls movement and balance) or brain stem. Atypical teratoid/rhabdoid tumors may also form in areas of the body outside the CNS, such as the kidney, but this is rare. Most of these types of tumors are caused by mutations (changes) in the tumor suppressor genes <GeneName>SMARCB1</GeneName> or <GeneName>SMARCA4</GeneName>, which make proteins that help control cell growth. Atypical teratoid/rhabdoid tumors usually occur in children aged 3 years and younger, but they can also occur in older children and adults. Also called AT/RT and ATT/RHT.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709827" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atypical teratoid/rhabdoid tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709828" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor teratoide rabdoide atípico&quot;" language="es" id="_6"/><SpanishTermName>tumor teratoide rabdoide atípico</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer muy raro de crecimiento rápido que suele formarse en los tejidos del sistema nervioso central (SNC), como el cerebelo (parte del encéfalo que controla el movimiento y el equilibrio) o el tronco encefálico. Los tumores teratoides rabdoides atípicos a veces se forman fuera del SNC, como en los riñones, pero esto es poco frecuente. La causa de la mayoría de los tipos de tumores teratoides rabdoides atípicos son mutaciones (cambios) en los genes supresores de tumores <GeneName>SMARCB1</GeneName> o <GeneName>SMARCA4</GeneName>, que originan proteínas que participan en la multiplicación de las células. Los tumores teratoides rabdoides atípicos por lo general se presentan en niños de 3 años o menos, pero a veces se presentan en niños más grandes y en adultos. También se llama TRTA, TTRA, tumor rabdoide teratoide atípico y tumor teratoideo rabdoide atípico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-02-21</DateFirstPublished><DateLastModified>2021-02-09</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000574573" url="/types/brain/patient/child-cns-atrt-treatment-pdq">Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000632891" url="/espanol/tipos/cerebro/paciente/tratamiento-atrt-snc-infantil-pdq">Tratamiento del tumor teratoide rabdoide atípico del sistema nervioso central infantil</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000285639">
+  <TermName>atypical teratoid/rhabdoid tumor</TermName>
+  <TermPronunciation>(ay-TIH-pih-kul TAYR-uh-toyd/RAB-doyd TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A very rare, fast-growing cancer that usually forms in the tissues of the central nervous system (CNS), such as the cerebellum (the part of the brain that controls movement and balance) or brain stem. Atypical teratoid/rhabdoid tumors may also form in areas of the body outside the CNS, such as the kidney, but this is rare. Most of these types of tumors are caused by mutations (changes) in the tumor suppressor genes 
+      <GeneName>SMARCB1</GeneName>
+       or 
+      <GeneName>SMARCA4</GeneName>
+      , which make proteins that help control cell growth. Atypical teratoid/rhabdoid tumors usually occur in children aged 3 years and younger, but they can also occur in older children and adults. Also called AT/RT and ATT/RHT.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709827" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atypical teratoid/rhabdoid tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709828" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor teratoide rabdoide atípico&quot;" language="es" id="_6"/>
+  <SpanishTermName>tumor teratoide rabdoide atípico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Cáncer muy raro de crecimiento rápido que suele formarse en los tejidos del sistema nervioso central (SNC), como el cerebelo (parte del encéfalo que controla el movimiento y el equilibrio) o el tronco encefálico. Los tumores teratoides rabdoides atípicos a veces se forman fuera del SNC, como en los riñones, pero esto es poco frecuente. La causa de la mayoría de los tipos de tumores teratoides rabdoides atípicos son mutaciones (cambios) en los genes supresores de tumores 
+      <GeneName>SMARCB1</GeneName>
+       o 
+      <GeneName>SMARCA4</GeneName>
+      , que originan proteínas que participan en la multiplicación de las células. Los tumores teratoides rabdoides atípicos por lo general se presentan en niños de 3 años o menos, pero a veces se presentan en niños más grandes y en adultos. También se llama TRTA, TTRA, tumor rabdoide teratoide atípico y tumor teratoideo rabdoide atípico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-02-21</DateFirstPublished>
+  <DateLastModified>2021-02-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000574573" url="/types/brain/patient/child-cns-atrt-treatment-pdq">Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000632891" url="/espanol/tipos/cerebro/paciente/tratamiento-atrt-snc-infantil-pdq">Tratamiento del tumor teratoide rabdoide atípico del sistema nervioso central infantil</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

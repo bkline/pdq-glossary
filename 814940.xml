@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000814940"><TermName>immunogenicity</TermName><TermPronunciation>(IH-myoo-noh-jeh-NIH-sih-tee)</TermPronunciation><TermDefinition><DefinitionText>The ability of a substance that contains antigens to cause the body to make an immune response against that substance. The immune system recognizes antigens on the surface of substances it sees as foreign, such as vaccines, bacteria, viruses, or cancer cells, and makes an immune response against them. The strength of an immune response depends on how immunogenic a substance is. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000816241" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunogenicity&quot;" language="en" id="_6"/><MediaLink ref="CDR0000816242" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunogenicidad&quot;" language="es" id="_7"/><SpanishTermName>inmunogenicidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Capacidad de una sustancia que contiene  antígenos para producir una respuesta inmunitaria contra sí misma en el cuerpo. El sistema inmunitario reconoce los antígenos en la superficie de las sustancias que considera extrañas, como las vacunas, las bacterias, los virus o las células cancerosas, y produce una respuesta inmunitaria. La intensidad de esta respuesta depende de cuán inmunógena sea la sustancia. También se llama antigenicidad, capacidad inmunógena e inmunogenia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-05-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814940">
+  <TermName>immunogenicity</TermName>
+  <TermPronunciation>(IH-myoo-noh-jeh-NIH-sih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The ability of a substance that contains antigens to cause the body to make an immune response against that substance. The immune system recognizes antigens on the surface of substances it sees as foreign, such as vaccines, bacteria, viruses, or cancer cells, and makes an immune response against them. The strength of an immune response depends on how immunogenic a substance is. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000816241" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunogenicity&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000816242" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunogenicidad&quot;" language="es" id="_7"/>
+  <SpanishTermName>inmunogenicidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Capacidad de una sustancia que contiene  antígenos para producir una respuesta inmunitaria contra sí misma en el cuerpo. El sistema inmunitario reconoce los antígenos en la superficie de las sustancias que considera extrañas, como las vacunas, las bacterias, los virus o las células cancerosas, y produce una respuesta inmunitaria. La intensidad de esta respuesta depende de cuán inmunógena sea la sustancia. También se llama antigenicidad, capacidad inmunógena e inmunogenia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-05-08</DateFirstPublished>
+</GlossaryTerm>

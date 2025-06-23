@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000321355"><TermName>black cohosh</TermName><TermPronunciation>(blak KOH-osh)</TermPronunciation><TermDefinition><DefinitionText>An eastern North American perennial herb. A substance obtained from the root of the plant has been used in some cultures to treat a number of medical problems. It is being studied in the treatment of hot flashes and other symptoms of menopause. The scientific name is <ScientificName>Cimicifuga racemosa.</ScientificName> Also called black snakeroot, bugbane, bugwort, and rattlesnake root.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731801" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;black cohosh&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731800" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cohosh negro&quot;" language="es" id="_7"/><SpanishTermName>cohosh negro</SpanishTermName><SpanishTermDefinition><DefinitionText>Planta medicinal perenne del este de América del Norte. De la raíz de esta planta se obtiene una sustancia que, en algunas culturas, se usa para el tratamiento de varios problemas médicos. Está en estudio para el tratamiento de los sofocos y otros síntomas de la menopausia. El nombre científico es <ScientificName>Cimicifuga racemosa</ScientificName>. También se llama cimicífuga, hierba de San Cristóbal, hierba sonajero, raíz de serpiente de cascabel y serpentaria negra.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2008-01-10</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000804618" url="/about-cancer/treatment/cam/patient/black-cohosh-pdq">Black Cohosh</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000814568" url="/espanol/cancer/tratamiento/mca/paciente/cohosh-negro-pdq">Cohosh negro</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000321355">
+  <TermName>black cohosh</TermName>
+  <TermPronunciation>(blak KOH-osh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      An eastern North American perennial herb. A substance obtained from the root of the plant has been used in some cultures to treat a number of medical problems. It is being studied in the treatment of hot flashes and other symptoms of menopause. The scientific name is 
+      <ScientificName>Cimicifuga racemosa.</ScientificName>
+       Also called black snakeroot, bugbane, bugwort, and rattlesnake root.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731801" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;black cohosh&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731800" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cohosh negro&quot;" language="es" id="_7"/>
+  <SpanishTermName>cohosh negro</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Planta medicinal perenne del este de América del Norte. De la raíz de esta planta se obtiene una sustancia que, en algunas culturas, se usa para el tratamiento de varios problemas médicos. Está en estudio para el tratamiento de los sofocos y otros síntomas de la menopausia. El nombre científico es 
+      <ScientificName>Cimicifuga racemosa</ScientificName>
+      . También se llama cimicífuga, hierba de San Cristóbal, hierba sonajero, raíz de serpiente de cascabel y serpentaria negra.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2008-01-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000804618" url="/about-cancer/treatment/cam/patient/black-cohosh-pdq">Black Cohosh</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000814568" url="/espanol/cancer/tratamiento/mca/paciente/cohosh-negro-pdq">Cohosh negro</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

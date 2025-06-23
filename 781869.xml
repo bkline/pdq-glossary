@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000781869"><TermName>antifibrinolytic agent</TermName><TermPronunciation>(AN-tee-fy-BRIH-noh-LIH-tik AY-jent)</TermPronunciation><TermDefinition><DefinitionText>A type of drug that helps the blood clot. It prevents the breakdown of a protein called fibrin, which is the main protein in a blood clot. Antifibrinolytic agents may be used to help prevent or treat serious bleeding in patients who have certain conditions, such as hemophilia, very heavy menstrual bleeding, or some types of vascular tumors. They may also be used to help prevent or control bleeding during or after surgery or after a traumatic injury.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antifibrinolytic agent&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antifibrinolítico&quot;" language="es" id="_4"/><SpanishTermName>antifibrinolítico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento que ayuda a coagular la sangre. Evita la descomposición de una proteína llamada fibrina, que es la proteína principal de un coágulo de sangre. Los antifibrinolíticos se usan para ayudar a prevenir o tratar una hemorragia grave en pacientes que tienen ciertas afecciones, como la hemofilia, el sangrado menstrual muy abundante o algunos tipos de tumores vasculares. También se utilizan para ayudar a prevenir o controlar la hemorragia durante una cirugía o después de esta, o después de una lesión traumática.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781869">
+  <TermName>antifibrinolytic agent</TermName>
+  <TermPronunciation>(AN-tee-fy-BRIH-noh-LIH-tik AY-jent)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of drug that helps the blood clot. It prevents the breakdown of a protein called fibrin, which is the main protein in a blood clot. Antifibrinolytic agents may be used to help prevent or treat serious bleeding in patients who have certain conditions, such as hemophilia, very heavy menstrual bleeding, or some types of vascular tumors. They may also be used to help prevent or control bleeding during or after surgery or after a traumatic injury.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antifibrinolytic agent&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antifibrinolítico&quot;" language="es" id="_4"/>
+  <SpanishTermName>antifibrinolítico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento que ayuda a coagular la sangre. Evita la descomposición de una proteína llamada fibrina, que es la proteína principal de un coágulo de sangre. Los antifibrinolíticos se usan para ayudar a prevenir o tratar una hemorragia grave en pacientes que tienen ciertas afecciones, como la hemofilia, el sangrado menstrual muy abundante o algunos tipos de tumores vasculares. También se utilizan para ayudar a prevenir o controlar la hemorragia durante una cirugía o después de esta, o después de una lesión traumática.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-23</DateFirstPublished>
+</GlossaryTerm>

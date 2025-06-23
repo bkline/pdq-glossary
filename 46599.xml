@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046599"><TermName>stereotaxic procedure</TermName><TermPronunciation>(STAYR-ee-oh-TAK-sik proh-SEE-jer)</TermPronunciation><TermDefinition><DefinitionText>A procedure that uses special equipment and imaging techniques to find an abnormal area in the brain, breast, lung, or liver and help guide the removal of a tissue sample from that area. Stereotaxic procedures are also used to treat some cancers, including cancers of the brain, breast, lung, and liver, by precisely delivering radiation directly to a tumor. Also called stereotactic procedure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stereotaxic procedure&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708472" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;procedimiento estereotáxico&quot;" language="es" id="_4"/><SpanishTermName>procedimiento estereotáxico</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se usa un aparato especial y métodos para obtener  imágenes con el fin de encontrar un área anormal en el encéfalo, la mama, el pulmón o el hígado. De esta manera se guía la extracción de una muestra de tejido de esa área. Los procedimientos estereotáxicos también se usan para el tratamiento de algunos tipos de cáncer, como los de encéfalo, mama, pulmón e hígado, porque permiten dirigir la radiación de manera precisa y directa al tumor. También se llama procedimiento estereotáctico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-10-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046599">
+  <TermName>stereotaxic procedure</TermName>
+  <TermPronunciation>(STAYR-ee-oh-TAK-sik proh-SEE-jer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure that uses special equipment and imaging techniques to find an abnormal area in the brain, breast, lung, or liver and help guide the removal of a tissue sample from that area. Stereotaxic procedures are also used to treat some cancers, including cancers of the brain, breast, lung, and liver, by precisely delivering radiation directly to a tumor. Also called stereotactic procedure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stereotaxic procedure&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708472" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;procedimiento estereotáxico&quot;" language="es" id="_4"/>
+  <SpanishTermName>procedimiento estereotáxico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para el que se usa un aparato especial y métodos para obtener  imágenes con el fin de encontrar un área anormal en el encéfalo, la mama, el pulmón o el hígado. De esta manera se guía la extracción de una muestra de tejido de esa área. Los procedimientos estereotáxicos también se usan para el tratamiento de algunos tipos de cáncer, como los de encéfalo, mama, pulmón e hígado, porque permiten dirigir la radiación de manera precisa y directa al tumor. También se llama procedimiento estereotáctico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-10-14</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000446206"><TermName>stage I penile cancer</TermName><TermPronunciation>(... PEE-nile KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer has spread to tissue just under the skin of the penis. Cancer has not spread to lymph vessels, blood vessels, or nerves. The cancer cells look more like normal cells under a microscope.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714729" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I penile cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714728" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de pene en estadio I&quot;" language="es" id="_4"/><SpanishTermName>cáncer de pene en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se diseminó al tejido que está justo debajo de la piel del pene. El cáncer no se diseminó a los vasos linfáticos, los vasos sanguíneos ni los nervios. Las células cancerosas  se parecen a las células normales cuando se observan al microscopio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-01-05</DateFirstPublished><DateLastModified>2018-07-23</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000438960" url="/types/penile/patient/penile-treatment-pdq">Penile Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000502300" url="/espanol/tipos/pene/paciente/tratamiento-pene-pdq">Tratamiento del cáncer de pene</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446206">
+  <TermName>stage I penile cancer</TermName>
+  <TermPronunciation>(... PEE-nile KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer has spread to tissue just under the skin of the penis. Cancer has not spread to lymph vessels, blood vessels, or nerves. The cancer cells look more like normal cells under a microscope.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714729" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I penile cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714728" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de pene en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de pene en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se diseminó al tejido que está justo debajo de la piel del pene. El cáncer no se diseminó a los vasos linfáticos, los vasos sanguíneos ni los nervios. Las células cancerosas  se parecen a las células normales cuando se observan al microscopio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-01-05</DateFirstPublished>
+  <DateLastModified>2018-07-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000438960" url="/types/penile/patient/penile-treatment-pdq">Penile Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000502300" url="/espanol/tipos/pene/paciente/tratamiento-pene-pdq">Tratamiento del cáncer de pene</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000803683"><TermName>relugolix</TermName><TermPronunciation>(reh-loo-GOH-lix)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with advanced prostate cancer. Relugolix binds to gonadotropin-releasing hormone (GnRH) receptors in the pituitary gland, which blocks the pituitary gland from making the hormones follicle-stimulating hormone (FSH) and luteinizing hormone (LH). This causes the testicles to stop making testosterone. Relugolix may stop the growth of cancer cells that need testosterone to grow. It is a type of GnRH antagonist. Also called Orgovyx.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805353" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;relugolix&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;relugolix&quot;" language="es" id="_4"/><SpanishTermName>relugolix</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de próstata en estadio avanzado. El relugolix se une a los receptores de la hormona liberadora de gonadotropina (GnRH) en la hipófisis, esto evita que esta glándula elabore la hormona foliculoestimulante (FSH) y la hormona luteinizante (LH), causando que los testículos no produzcan testosterona. Es posible que el relugolix impida la multiplicación de las células cancerosas que necesitan de testosterona para multiplicarse. Es un tipo de antagonista de la GnRH. También se llama Orgovyx.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-01-11</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000803751" url="/about-cancer/treatment/drugs/relugolix">Relugolix</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803683">
+  <TermName>relugolix</TermName>
+  <TermPronunciation>(reh-loo-GOH-lix)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with advanced prostate cancer. Relugolix binds to gonadotropin-releasing hormone (GnRH) receptors in the pituitary gland, which blocks the pituitary gland from making the hormones follicle-stimulating hormone (FSH) and luteinizing hormone (LH). This causes the testicles to stop making testosterone. Relugolix may stop the growth of cancer cells that need testosterone to grow. It is a type of GnRH antagonist. Also called Orgovyx.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805353" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;relugolix&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;relugolix&quot;" language="es" id="_4"/>
+  <SpanishTermName>relugolix</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de próstata en estadio avanzado. El relugolix se une a los receptores de la hormona liberadora de gonadotropina (GnRH) en la hipófisis, esto evita que esta glándula elabore la hormona foliculoestimulante (FSH) y la hormona luteinizante (LH), causando que los testículos no produzcan testosterona. Es posible que el relugolix impida la multiplicación de las células cancerosas que necesitan de testosterona para multiplicarse. Es un tipo de antagonista de la GnRH. También se llama Orgovyx.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-01-11</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000803751" url="/about-cancer/treatment/drugs/relugolix">Relugolix</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

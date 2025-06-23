@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000579912"><TermName>Imodium</TermName><TermPronunciation>(ih-MOH-dee-um)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat diarrhea. Imodium works by binding to mu opioid receptors in the intestines, which slows the movement of the muscles in the intestines. This gives the body more time to absorb water and electrolytes from the feces (waste matter), resulting in firmer and less frequent bowel movements. Imodium is a type of synthetic opioid agonist that works only in the gut when used as directed. Also called loperamide hydrochloride.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720576" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imodium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720575" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imodium&quot;" language="es" id="_4"/><SpanishTermName>Imodium</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para tratar la diarrea. Imodium se une a los receptores de opioides mi (μ) en los intestinos, lo que desacelera el movimiento de los músculos de los intestinos. Esto hace que el cuerpo tenga más tiempo para absorber agua y electrolitos de las heces (materia de desecho), lo que resulta en evacuaciones intestinales más firmes y menos frecuentes. Imodium es un tipo de agonista opioide sintético que solo actúa en el intestino cuando se usa según las indicaciones. También se llama clorhidrato de loperamida.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-12-14</DateFirstPublished><DateLastModified>2025-04-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000579912">
+  <TermName>Imodium</TermName>
+  <TermPronunciation>(ih-MOH-dee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat diarrhea. Imodium works by binding to mu opioid receptors in the intestines, which slows the movement of the muscles in the intestines. This gives the body more time to absorb water and electrolytes from the feces (waste matter), resulting in firmer and less frequent bowel movements. Imodium is a type of synthetic opioid agonist that works only in the gut when used as directed. Also called loperamide hydrochloride.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720576" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imodium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720575" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imodium&quot;" language="es" id="_4"/>
+  <SpanishTermName>Imodium</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para tratar la diarrea. Imodium se une a los receptores de opioides mi (μ) en los intestinos, lo que desacelera el movimiento de los músculos de los intestinos. Esto hace que el cuerpo tenga más tiempo para absorber agua y electrolitos de las heces (materia de desecho), lo que resulta en evacuaciones intestinales más firmes y menos frecuentes. Imodium es un tipo de agonista opioide sintético que solo actúa en el intestino cuando se usa según las indicaciones. También se llama clorhidrato de loperamida.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-12-14</DateFirstPublished>
+  <DateLastModified>2025-04-07</DateLastModified>
+</GlossaryTerm>

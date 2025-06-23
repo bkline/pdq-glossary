@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000775969"><TermName>JAK2 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein  that sends signals in cells to promote cell growth and helps control the number of red blood cells, white blood cells, and platelets that are made in the bone marrow. Mutated (changed) forms of the <GeneName>JAK</GeneName> gene have been found in some types of blood conditions, including polycythemia vera, essential thrombocythemia, and primary myelofibrosis. These changes may cause the body to make too many blood cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000778391" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;JAK2 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000778390" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen JAK2&quot;" language="es" id="_4"/><SpanishTermName>gen JAK2</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que envía señales a las células para promover la multiplicación  celular y ayudar a controlar el número de glóbulos rojos, glóbulos blancos y plaquetas que se producen en la médula ósea. Se han encontrado mutaciones (cambios) en el gen <GeneName>JAK</GeneName> en algunos tipos de afecciones sanguíneas, como la policitemia vera, la trombocitemia esencial y la mielofibrosis primaria. En ocasiones, estos cambios hacen que el cuerpo elabore demasiadas células sanguíneas.</DefinitionText><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-12-28</DateFirstPublished><DateLastModified>2020-12-02</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000775969">
+  <TermName>JAK2 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein  that sends signals in cells to promote cell growth and helps control the number of red blood cells, white blood cells, and platelets that are made in the bone marrow. Mutated (changed) forms of the 
+      <GeneName>JAK</GeneName>
+       gene have been found in some types of blood conditions, including polycythemia vera, essential thrombocythemia, and primary myelofibrosis. These changes may cause the body to make too many blood cells.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000778391" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;JAK2 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000778390" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen JAK2&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen JAK2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que envía señales a las células para promover la multiplicación  celular y ayudar a controlar el número de glóbulos rojos, glóbulos blancos y plaquetas que se producen en la médula ósea. Se han encontrado mutaciones (cambios) en el gen 
+      <GeneName>JAK</GeneName>
+       en algunos tipos de afecciones sanguíneas, como la policitemia vera, la trombocitemia esencial y la mielofibrosis primaria. En ocasiones, estos cambios hacen que el cuerpo elabore demasiadas células sanguíneas.
+    </DefinitionText>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-12-28</DateFirstPublished>
+  <DateLastModified>2020-12-02</DateLastModified>
+</GlossaryTerm>

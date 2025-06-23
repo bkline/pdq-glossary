@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000796873"><TermName>tumor profiling</TermName><TermPronunciation>(TOO-mer PROH-fy-ling)</TermPronunciation><TermDefinition><DefinitionText>A laboratory method that checks for the presence of certain genes, proteins, or other molecules in a sample of blood or tumor tissue. Tumor profiling may provide information about certain molecular or genetic changes in a tumor, such as gene mutations or other changes in tumor DNA. It may be used to help plan treatment or predict whether cancer will come back or spread to other parts of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798016" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor profiling&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfil tumoral&quot;" language="es" id="_4"/><SpanishTermName>perfil tumoral</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio que se realiza para comprobar si hay determinados genes, proteínas u otras moléculas  en una muestra de sangre o de tejido tumoral. Es posible que el perfil tumoral proporcione información sobre ciertos cambios moleculares o genéticos en los  tumores, como mutaciones en los genes u otros cambios en el ADN del tumor. A veces se usa para ayudar a planificar el tratamiento y predecir si el cáncer volverá o se diseminará a otras partes del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-09</DateFirstPublished><DateLastModified>2022-12-09</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment">Biomarker Testing for Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/pruebas-de-biomarcadores-tratamiento-cancer">Pruebas de biomarcadores para el tratamiento de cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796873">
+  <TermName>tumor profiling</TermName>
+  <TermPronunciation>(TOO-mer PROH-fy-ling)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory method that checks for the presence of certain genes, proteins, or other molecules in a sample of blood or tumor tissue. Tumor profiling may provide information about certain molecular or genetic changes in a tumor, such as gene mutations or other changes in tumor DNA. It may be used to help plan treatment or predict whether cancer will come back or spread to other parts of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798016" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor profiling&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfil tumoral&quot;" language="es" id="_4"/>
+  <SpanishTermName>perfil tumoral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio que se realiza para comprobar si hay determinados genes, proteínas u otras moléculas  en una muestra de sangre o de tejido tumoral. Es posible que el perfil tumoral proporcione información sobre ciertos cambios moleculares o genéticos en los  tumores, como mutaciones en los genes u otros cambios en el ADN del tumor. A veces se usa para ayudar a planificar el tratamiento y predecir si el cáncer volverá o se diseminará a otras partes del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-09</DateFirstPublished>
+  <DateLastModified>2022-12-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment">Biomarker Testing for Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/pruebas-de-biomarcadores-tratamiento-cancer">Pruebas de biomarcadores para el tratamiento de cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

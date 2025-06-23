@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000797372"><TermName>EPOCH-R regimen</TermName><TermPronunciation>(... REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat certain types of non-Hodgkin lymphoma. It includes the drugs rituximab, etoposide phosphate, prednisone, vincristine sulfate (Oncovin), cyclophosphamide, and doxorubicin hydrochloride (hydroxydaunorubicin). Also called EPOCH-R, R-EPOCH, and R-EPOCH regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798006" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;EPOCH-R regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798005" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen EPOCH-R&quot;" language="es" id="_4"/><SpanishTermName>régimen EPOCH-R</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para tratar ciertos tipos de linfoma no Hodgkin. Se compone de las sustancias rituximab, fosfato de etopósido, prednisona, sulfato de vincristina (Oncovin), ciclofosfamida y clorhidrato de doxorrubicina (hidroxidaunorrubicina). También se llama EPOCH-R, R-EPOCH y régimen R-EPOCH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-03-20</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000769544" url="/about-cancer/treatment/drugs/R-EPOCH">R-EPOCH</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797372">
+  <TermName>EPOCH-R regimen</TermName>
+  <TermPronunciation>(... REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat certain types of non-Hodgkin lymphoma. It includes the drugs rituximab, etoposide phosphate, prednisone, vincristine sulfate (Oncovin), cyclophosphamide, and doxorubicin hydrochloride (hydroxydaunorubicin). Also called EPOCH-R, R-EPOCH, and R-EPOCH regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798006" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;EPOCH-R regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798005" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen EPOCH-R&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen EPOCH-R</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para tratar ciertos tipos de linfoma no Hodgkin. Se compone de las sustancias rituximab, fosfato de etopósido, prednisona, sulfato de vincristina (Oncovin), ciclofosfamida y clorhidrato de doxorrubicina (hidroxidaunorrubicina). También se llama EPOCH-R, R-EPOCH y régimen R-EPOCH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-03-20</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000769544" url="/about-cancer/treatment/drugs/R-EPOCH">R-EPOCH</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

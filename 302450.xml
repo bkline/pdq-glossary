@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000302450"><TermName>ABX-EGF</TermName><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of colorectal cancer that have spread to other parts of the body. It is used in patients whose cancer has not already been treated or has gotten worse after treatment with other anticancer drugs. It is also being studied in the treatment of other types of cancer. ABX-EGF binds to a protein called epidermal growth factor receptor (EGFR), which is found on some normal cells and some types of cancer cells. Blocking this protein may help keep cancer cells from growing. ABX-EGF is a type of monoclonal antibody. Also called panitumumab and Vectibix.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ABX-EGF</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer colorrectal que se diseminó a otras partes del cuerpo. Se usa en pacientes cuyo cáncer todavía no se ha tratado o  que empeoró después del tratamiento con otros medicamentos contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. ABX-EGF se une a una proteína llamada receptor del factor de crecimiento epidérmico (EGFR), que se encuentra en algunas células normales y en algunos tipos de células cancerosas. Es posible que bloquear esta proteína ayude a impedir que las células cancerosas se multipliquen. ABX-EGF  es un tipo de anticuerpo monoclonal. También se llama panitumumab y Vectibix.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-04-23</DateFirstPublished><DateLastModified>2025-01-31</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000511994" url="/about-cancer/treatment/drugs/panitumumab">Panitumumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000302450">
+  <TermName>ABX-EGF</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of colorectal cancer that have spread to other parts of the body. It is used in patients whose cancer has not already been treated or has gotten worse after treatment with other anticancer drugs. It is also being studied in the treatment of other types of cancer. ABX-EGF binds to a protein called epidermal growth factor receptor (EGFR), which is found on some normal cells and some types of cancer cells. Blocking this protein may help keep cancer cells from growing. ABX-EGF is a type of monoclonal antibody. Also called panitumumab and Vectibix.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ABX-EGF</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer colorrectal que se diseminó a otras partes del cuerpo. Se usa en pacientes cuyo cáncer todavía no se ha tratado o  que empeoró después del tratamiento con otros medicamentos contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. ABX-EGF se une a una proteína llamada receptor del factor de crecimiento epidérmico (EGFR), que se encuentra en algunas células normales y en algunos tipos de células cancerosas. Es posible que bloquear esta proteína ayude a impedir que las células cancerosas se multipliquen. ABX-EGF  es un tipo de anticuerpo monoclonal. También se llama panitumumab y Vectibix.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-04-23</DateFirstPublished>
+  <DateLastModified>2025-01-31</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000511994" url="/about-cancer/treatment/drugs/panitumumab">Panitumumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

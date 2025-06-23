@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000810645"><TermName>17p deletion</TermName><TermPronunciation>(… deh-LEE-shun)</TermPronunciation><TermDefinition><DefinitionText>The loss of all or part of the short arm (also called the p arm) of chromosome 17. The 17p deletion leads to the loss of the tumor suppressor gene <GeneName>TP53</GeneName>, which is linked to many genetic conditions and some types of cancer, such as leukemia, multiple myeloma, and myelodysplastic syndrome.  Checking for the 17p deletion may help diagnose cancer, plan treatment, or make a prognosis. Also called chromosome 17p deletion and deletion 17p.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812243" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;17p deletion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;deleción del 17p&quot;" language="es" id="_4"/><SpanishTermName>deleción del 17p</SpanishTermName><SpanishTermDefinition><DefinitionText>Pérdida de todo el brazo corto (brazo p) del cromosoma 17 o de una parte de este. La deleción del 17p conduce  a la pérdida del gen supresor de tumores <GeneName>TP53</GeneName>, que está asociado con muchas afecciones genéticas y algunos tipos de cáncer, como la leucemia, el mieloma múltiple y el síndrome mielodisplásico. Verificar la  presencia de una deleción del 17p quizás ayude a diagnosticar el cáncer, planificar el tratamiento o establecer un pronóstico. También se llama deleción 17p y deleción del cromosoma 17p.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-02-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810645">
+  <TermName>17p deletion</TermName>
+  <TermPronunciation>(… deh-LEE-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      The loss of all or part of the short arm (also called the p arm) of chromosome 17. The 17p deletion leads to the loss of the tumor suppressor gene 
+      <GeneName>TP53</GeneName>
+      , which is linked to many genetic conditions and some types of cancer, such as leukemia, multiple myeloma, and myelodysplastic syndrome.  Checking for the 17p deletion may help diagnose cancer, plan treatment, or make a prognosis. Also called chromosome 17p deletion and deletion 17p.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812243" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;17p deletion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;deleción del 17p&quot;" language="es" id="_4"/>
+  <SpanishTermName>deleción del 17p</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Pérdida de todo el brazo corto (brazo p) del cromosoma 17 o de una parte de este. La deleción del 17p conduce  a la pérdida del gen supresor de tumores 
+      <GeneName>TP53</GeneName>
+      , que está asociado con muchas afecciones genéticas y algunos tipos de cáncer, como la leucemia, el mieloma múltiple y el síndrome mielodisplásico. Verificar la  presencia de una deleción del 17p quizás ayude a diagnosticar el cáncer, planificar el tratamiento o establecer un pronóstico. También se llama deleción 17p y deleción del cromosoma 17p.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-02-24</DateFirstPublished>
+</GlossaryTerm>

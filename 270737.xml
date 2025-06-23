@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000270737"><TermName>cytogenetics</TermName><TermPronunciation>(SY-toh-jeh-NEH-tix)</TermPronunciation><TermDefinition><DefinitionText>The study of chromosomes, which are long strands of DNA and protein that contain most of the genetic information in a cell. Cytogenetics involves testing samples of tissue, blood, or bone marrow in a laboratory to look for changes in chromosomes, including broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of a genetic disease or condition or some types of cancer. Cytogenetics may be used to help diagnose a disease or condition, plan treatment, or find out how well treatment is working.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>The study of the structure, function, and abnormalities of human chromosomes.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000710206" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cytogenetics&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710205" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citogenética&quot;" language="es" id="_4"/><SpanishTermName>citogenética</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio de los cromosomas, que son cadenas largas de ADN y proteínas que contienen la mayor parte de la información genética en una célula. Se analizan en el laboratorio muestras de tejido, sangre o médula ósea para identificar cambios en los cromosomas (rotos, ausentes o sobrantes). Es posible que los cambios en ciertos cromosomas sean un signo de una enfermedad o afección genética, o de algunos tipos de cáncer. La citogenética sirve para ayudar a diagnosticar enfermedades o afecciones, planificar el tratamiento o determinar si el tratamiento es eficaz.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Estudio de la estructura, la función y las anomalías de los cromosomas humanos.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-01-26</DateFirstPublished><DateLastModified>2019-07-23</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Cytogenetics">Cytogenetics (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Citogenetica">Citogenética (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000270737">
+  <TermName>cytogenetics</TermName>
+  <TermPronunciation>(SY-toh-jeh-NEH-tix)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The study of chromosomes, which are long strands of DNA and protein that contain most of the genetic information in a cell. Cytogenetics involves testing samples of tissue, blood, or bone marrow in a laboratory to look for changes in chromosomes, including broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of a genetic disease or condition or some types of cancer. Cytogenetics may be used to help diagnose a disease or condition, plan treatment, or find out how well treatment is working.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The study of the structure, function, and abnormalities of human chromosomes.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710206" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cytogenetics&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710205" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citogenética&quot;" language="es" id="_4"/>
+  <SpanishTermName>citogenética</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio de los cromosomas, que son cadenas largas de ADN y proteínas que contienen la mayor parte de la información genética en una célula. Se analizan en el laboratorio muestras de tejido, sangre o médula ósea para identificar cambios en los cromosomas (rotos, ausentes o sobrantes). Es posible que los cambios en ciertos cromosomas sean un signo de una enfermedad o afección genética, o de algunos tipos de cáncer. La citogenética sirve para ayudar a diagnosticar enfermedades o afecciones, planificar el tratamiento o determinar si el tratamiento es eficaz.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio de la estructura, la función y las anomalías de los cromosomas humanos.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-01-26</DateFirstPublished>
+  <DateLastModified>2019-07-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Cytogenetics">Cytogenetics (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Citogenetica">Citogenética (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

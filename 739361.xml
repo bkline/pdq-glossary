@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000739361"><TermName>stage IV perihilar bile duct cancer</TermName><TermPronunciation>(... PAYR-ee-HY-ler bile dukt KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage IV is divided into stages IVA and IVB. In stage IVA, cancer has spread to 4 or more nearby lymph nodes. In stage IVB, cancer has spread to other parts of the body, such as the liver, lung, bone, brain, skin, distant lymph nodes, or tissue lining the wall of the abdomen and most organs in the abdomen. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000742084" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV perihilar bile duct cancer&quot;" language="en" id="_5"/><MediaLink ref="CDR0000742083" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares perihiliares en estadio IV&quot;" language="es" id="_7"/><SpanishTermName>cáncer de vías biliares perihiliares en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio IV se divide en los estadios IVA y IVB. En el estadio IVA, el cáncer se diseminó a 4 o más ganglios linfáticos cercanos. En el estadio IVB, el cáncer se diseminó a otras partes del cuerpo, como el hígado, el pulmón, los huesos, el encéfalo, la piel, los ganglios linfáticos lejanos o el tejido que reviste la pared del abdomen y la mayoría de los órganos del abdomen. También se llama cáncer de conducto biliar perihiliar en estadio IV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-09-06</DateFirstPublished><DateLastModified>2018-02-28</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000739361">
+  <TermName>stage IV perihilar bile duct cancer</TermName>
+  <TermPronunciation>(... PAYR-ee-HY-ler bile dukt KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage IV is divided into stages IVA and IVB. In stage IVA, cancer has spread to 4 or more nearby lymph nodes. In stage IVB, cancer has spread to other parts of the body, such as the liver, lung, bone, brain, skin, distant lymph nodes, or tissue lining the wall of the abdomen and most organs in the abdomen. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000742084" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV perihilar bile duct cancer&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000742083" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares perihiliares en estadio IV&quot;" language="es" id="_7"/>
+  <SpanishTermName>cáncer de vías biliares perihiliares en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio IV se divide en los estadios IVA y IVB. En el estadio IVA, el cáncer se diseminó a 4 o más ganglios linfáticos cercanos. En el estadio IVB, el cáncer se diseminó a otras partes del cuerpo, como el hígado, el pulmón, los huesos, el encéfalo, la piel, los ganglios linfáticos lejanos o el tejido que reviste la pared del abdomen y la mayoría de los órganos del abdomen. También se llama cáncer de conducto biliar perihiliar en estadio IV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-09-06</DateFirstPublished>
+  <DateLastModified>2018-02-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

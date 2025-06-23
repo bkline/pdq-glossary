@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000507584"><TermName>Vidaza</TermName><TermPronunciation>(vih-DAY-zuh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient azacitidine and is used to treat adults with certain types of myelodysplastic syndromes and children aged 1 month and older with newly diagnosed juvenile myelomonocytic leukemia. It is also being studied in the treatment of other types of cancer. Vidaza stops cells from making DNA and may kill cancer cells. It is a type of antimetabolite.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718675" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vidaza&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718673" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vidaza&quot;" language="es" id="_4"/><SpanishTermName>Vidaza</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo azacitidina y que se usa para el tratamiento de adultos con ciertos tipos de síndromes mielodisplásicos y niños de 1 mes o más con leucemia mielomonocítica juvenil recién diagnosticada. También está en estudio para el tratamiento de otros tipos de cáncer. Vidaza impide que las células elaboren ADN y es posible que destruya células cancerosas. Es un tipo de antimetabolito.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2022-05-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000496239" url="/about-cancer/treatment/drugs/azacitidine">Azacitidine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000507584">
+  <TermName>Vidaza</TermName>
+  <TermPronunciation>(vih-DAY-zuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient azacitidine and is used to treat adults with certain types of myelodysplastic syndromes and children aged 1 month and older with newly diagnosed juvenile myelomonocytic leukemia. It is also being studied in the treatment of other types of cancer. Vidaza stops cells from making DNA and may kill cancer cells. It is a type of antimetabolite.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718675" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vidaza&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718673" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vidaza&quot;" language="es" id="_4"/>
+  <SpanishTermName>Vidaza</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo azacitidina y que se usa para el tratamiento de adultos con ciertos tipos de síndromes mielodisplásicos y niños de 1 mes o más con leucemia mielomonocítica juvenil recién diagnosticada. También está en estudio para el tratamiento de otros tipos de cáncer. Vidaza impide que las células elaboren ADN y es posible que destruya células cancerosas. Es un tipo de antimetabolito.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2022-05-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000496239" url="/about-cancer/treatment/drugs/azacitidine">Azacitidine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

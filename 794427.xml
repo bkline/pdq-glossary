@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000794427"><TermName>fumarase</TermName><TermPronunciation>(FYOO-muh-rays)</TermPronunciation><TermDefinition><DefinitionText>An enzyme that helps cells in the body use oxygen and make energy. Mutations (changes) in the gene that makes fumarase may cause cells to lose the ability to use oxygen, which may increase the growth of  some cells, including abnormal cells and cancer cells. Also called fumarate hydratase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796152" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fumarase&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796153" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fumarasa&quot;" language="es" id="_4"/><SpanishTermName>fumarasa</SpanishTermName><SpanishTermDefinition><DefinitionText>Enzima que ayuda a las células en el cuerpo a usar oxígeno y producir energía. Las mutaciones (cambios) en el gen que elabora la  fumarasa pueden hacer que las células pierdan la capacidad de usar el oxígeno; es posible que esto aumente la multiplicación de algunas células, como las células anormales y las células cancerosas. También se llama fumarato–hidratasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-11-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794427">
+  <TermName>fumarase</TermName>
+  <TermPronunciation>(FYOO-muh-rays)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An enzyme that helps cells in the body use oxygen and make energy. Mutations (changes) in the gene that makes fumarase may cause cells to lose the ability to use oxygen, which may increase the growth of  some cells, including abnormal cells and cancer cells. Also called fumarate hydratase.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796152" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fumarase&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796153" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fumarasa&quot;" language="es" id="_4"/>
+  <SpanishTermName>fumarasa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enzima que ayuda a las células en el cuerpo a usar oxígeno y producir energía. Las mutaciones (cambios) en el gen que elabora la  fumarasa pueden hacer que las células pierdan la capacidad de usar el oxígeno; es posible que esto aumente la multiplicación de algunas células, como las células anormales y las células cancerosas. También se llama fumarato–hidratasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-11-08</DateFirstPublished>
+</GlossaryTerm>

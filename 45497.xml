@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000045497"><TermName>stage III pancreatic cancer</TermName><TermPronunciation>(... PAN-kree-A-tik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is any size and cancer has spread to (1) four or more nearby lymph nodes; or (2) the major blood vessels near the pancreas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705540" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III pancreatic cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705541" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de páncreas en estadio III&quot;" language="es" id="_4"/><MediaLink ref="CDR0000687940" type="image/jpeg" alt="Stage III pancreatic cancer; drawing shows cancer in the pancreas and in (a) 4 or more nearby lymph nodes and (b) the common hepatic artery. Also shown are the portal vein, celiac axis (trunk), and superior mesenteric artery." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Stage III pancreatic cancer. The tumor is any size and cancer has spread to (a) 4 or more nearby lymph nodes; or (b) the major blood vessels near the pancreas. These include the portal vein, common hepatic artery, celiac axis (trunk), and superior mesenteric artery. </Caption></MediaLink><MediaLink ref="CDR0000743865" type="image/jpeg" alt="Cáncer de páncreas en estadio lll; en la imagen, se observa cáncer en el páncreas y en a) 4 o más ganglios linfáticos cercanos y b) la arteria hepática común. También se observa la vena porta, el tronco celíaco (eje) y la arteria mesentérica superior." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Cáncer de páncreas en estadio lll. El tumor es de cualquier tamaño y el cáncer se diseminó hasta a) 4 o más ganglios linfáticos cercanos; o b) los vasos sanguíneos principales cerca del páncreas. Estos incluyen  la vena porta, la arteria hepática común, el tronco celíaco (eje) y la arteria mesentérica superior.</Caption></MediaLink><SpanishTermName>cáncer de páncreas en estadio III</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor  es de cualquier tamaño y el cáncer se diseminó hasta: 1) cuatro o más ganglios linfáticos cercanos; o  2) los vasos sanguíneos principales cerca del páncreas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>22018-05-20</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062957" url="/types/pancreatic/patient/pancreatic-treatment-pdq">Pancreatic Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256768" url="/espanol/tipos/pancreas/paciente/tratamiento-pancreas-pdq">Tratamiento del cáncer de páncreas</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045497">
+  <TermName>stage III pancreatic cancer</TermName>
+  <TermPronunciation>(... PAN-kree-A-tik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is any size and cancer has spread to (1) four or more nearby lymph nodes; or (2) the major blood vessels near the pancreas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705540" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III pancreatic cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705541" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de páncreas en estadio III&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000687940" type="image/jpeg" alt="Stage III pancreatic cancer; drawing shows cancer in the pancreas and in (a) 4 or more nearby lymph nodes and (b) the common hepatic artery. Also shown are the portal vein, celiac axis (trunk), and superior mesenteric artery." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Stage III pancreatic cancer. The tumor is any size and cancer has spread to (a) 4 or more nearby lymph nodes; or (b) the major blood vessels near the pancreas. These include the portal vein, common hepatic artery, celiac axis (trunk), and superior mesenteric artery. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000743865" type="image/jpeg" alt="Cáncer de páncreas en estadio lll; en la imagen, se observa cáncer en el páncreas y en a) 4 o más ganglios linfáticos cercanos y b) la arteria hepática común. También se observa la vena porta, el tronco celíaco (eje) y la arteria mesentérica superior." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Cáncer de páncreas en estadio lll. El tumor es de cualquier tamaño y el cáncer se diseminó hasta a) 4 o más ganglios linfáticos cercanos; o b) los vasos sanguíneos principales cerca del páncreas. Estos incluyen  la vena porta, la arteria hepática común, el tronco celíaco (eje) y la arteria mesentérica superior.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de páncreas en estadio III</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor  es de cualquier tamaño y el cáncer se diseminó hasta: 1) cuatro o más ganglios linfáticos cercanos; o  2) los vasos sanguíneos principales cerca del páncreas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>22018-05-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062957" url="/types/pancreatic/patient/pancreatic-treatment-pdq">Pancreatic Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256768" url="/espanol/tipos/pancreas/paciente/tratamiento-pancreas-pdq">Tratamiento del cáncer de páncreas</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

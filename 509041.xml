@@ -1,3 +1,25 @@
-<GlossaryTerm id="CDR0000509041"><TermName>sorafenib tosylate</TermName><TermPronunciation>(sor-A-feh-nib TOH-suh-layt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of hepatocellular carcinoma (a type of liver cancer), renal cell carcinoma (a type of kidney cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. Sorafenib tosylate blocks certain proteins, which may help keep cancer cells from growing and dividing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Sorafenib tosylate is a type of kinase inhibitor and a type of antiangiogenesis agent. Also called BAY 43-9006 and Nexavar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sorafenib tosylate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tosilato de sorafenib&quot;" language="es" id="_4"/><SpanishTermName>tosilato de sorafenib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000509041">
+  <TermName>sorafenib tosylate</TermName>
+  <TermPronunciation>(sor-A-feh-nib TOH-suh-layt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of hepatocellular carcinoma (a type of liver cancer), renal cell carcinoma (a type of kidney cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. Sorafenib tosylate blocks certain proteins, which may help keep cancer cells from growing and dividing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Sorafenib tosylate is a type of kinase inhibitor and a type of antiangiogenesis agent. Also called BAY 43-9006 and Nexavar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sorafenib tosylate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tosilato de sorafenib&quot;" language="es" id="_4"/>
+  <SpanishTermName>tosilato de sorafenib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de ciertos tipos de carcinoma hepatocelular (tipo de cáncer de hígado), carcinoma de células renales (tipo de cáncer de riñón), y cáncer de tiroides. También está en estudio para el tratamiento de otros tipos de
-cáncer. El tosilato de sorafenib bloquea ciertas proteínas, lo que quizás ayude a evitar la formación y multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. El tosilato de sorafenib es un tipo de antiangiogénico y de  inhibidor de cinasa. También se llama BAY 43-9006 y Nexavar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2021-06-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492017" url="/about-cancer/treatment/drugs/sorafenibtosylate">Sorafenib Tosylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+cáncer. El tosilato de sorafenib bloquea ciertas proteínas, lo que quizás ayude a evitar la formación y multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. El tosilato de sorafenib es un tipo de antiangiogénico y de  inhibidor de cinasa. También se llama BAY 43-9006 y Nexavar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2021-06-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492017" url="/about-cancer/treatment/drugs/sorafenibtosylate">Sorafenib Tosylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

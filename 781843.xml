@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000781843"><TermName>acrochordon</TermName><TermPronunciation>(A-kroh-KOR-dun)</TermPronunciation><TermDefinition><DefinitionText>A small, benign skin growth that may have a stalk (peduncle). Acrochordons most commonly appear on the neck, axillary, groin, and inframammary regions. Also called skin tag.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A common benign (not cancer) skin growth that appears as a small, raised, brown or skin-colored bump that may have a short, narrow stalk. Acrochordons usually occur in areas where the skin folds, such as the neck, armpit, inner thigh, and eyelid.  They are usually painless and do not grow or change but may become painful if rubbed or scratched. They most often occur in older adults and in people who are overweight or have diabetes. Also called skin tag.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acrochordon&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804321" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acrocordón&quot;" language="es" id="_4"/><SpanishTermName>acrocordón</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor de piel benigno y pequeño que a veces es pediculado. Los acrocordones se forman con mayor frecuencia en la nuca, la axila, la ingle y la región inframamaria. También se llama fibroma blando.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Tumor de piel benigno (no canceroso) frecuente, que surge como un bulto pequeño de color marrón o del color de la  piel, y a veces tiene  un tallo corto y delgado. Los acrocordones suelen presentarse en áreas donde hay pliegues de la piel, como la nuca, las axilas, la parte interior de los muslos y los párpados. Por lo general no duelen, no crecen ni cambian de color, pero a veces duelen cuando se frotan o raspan. Son más frecuentes en adultos mayores y en personas con sobrepeso o que tienen diabetes. También se llama fibroma blando.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-06-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781843">
+  <TermName>acrochordon</TermName>
+  <TermPronunciation>(A-kroh-KOR-dun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A small, benign skin growth that may have a stalk (peduncle). Acrochordons most commonly appear on the neck, axillary, groin, and inframammary regions. Also called skin tag.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A common benign (not cancer) skin growth that appears as a small, raised, brown or skin-colored bump that may have a short, narrow stalk. Acrochordons usually occur in areas where the skin folds, such as the neck, armpit, inner thigh, and eyelid.  They are usually painless and do not grow or change but may become painful if rubbed or scratched. They most often occur in older adults and in people who are overweight or have diabetes. Also called skin tag.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acrochordon&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804321" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acrocordón&quot;" language="es" id="_4"/>
+  <SpanishTermName>acrocordón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de piel benigno y pequeño que a veces es pediculado. Los acrocordones se forman con mayor frecuencia en la nuca, la axila, la ingle y la región inframamaria. También se llama fibroma blando.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de piel benigno (no canceroso) frecuente, que surge como un bulto pequeño de color marrón o del color de la  piel, y a veces tiene  un tallo corto y delgado. Los acrocordones suelen presentarse en áreas donde hay pliegues de la piel, como la nuca, las axilas, la parte interior de los muslos y los párpados. Por lo general no duelen, no crecen ni cambian de color, pero a veces duelen cuando se frotan o raspan. Son más frecuentes en adultos mayores y en personas con sobrepeso o que tienen diabetes. También se llama fibroma blando.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-06-22</DateFirstPublished>
+</GlossaryTerm>

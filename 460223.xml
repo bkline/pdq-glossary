@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000460223"><TermName>trisomy</TermName><TermPronunciation>(TRY-soh-mee)</TermPronunciation><TermDefinition><DefinitionText>The presence of an extra chromosome in some or all of the body's cells. This results in a total of three copies of that chromosome instead of the normal two copies. For example, Down syndrome (trisomy 21) is caused by having three copies of chromosome 21 instead of the usual two copies.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>The presence of three copies of a specific chromosome in some or all of the body’s cells instead of the usual two copies. For example, people with Down syndrome have an extra copy of chromosome 21.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trisomy&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804247" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trisomía&quot;" language="es" id="_4"/><SpanishTermName>trisomía</SpanishTermName><SpanishTermDefinition><DefinitionText>Presencia de un cromosoma adicional en algunas o en todas las células del cuerpo, lo que da como resultado un total de 3 copias de un cromosoma en lugar de las 2 copias normales. Por ejemplo, la causa del síndrome de Down (trisomía 21) es la presencia de 3 copias del cromosoma 21 en lugar de las 2 copias habituales.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Presencia de 3 copias de un cromosoma específico, en lugar de las 2 copias habituales, en algunas células del cuerpo o en todas las células. Por ejemplo, las personas con síndrome de Down tienen 3 copias del cromosoma  21.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460223">
+  <TermName>trisomy</TermName>
+  <TermPronunciation>(TRY-soh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The presence of an extra chromosome in some or all of the body's cells. This results in a total of three copies of that chromosome instead of the normal two copies. For example, Down syndrome (trisomy 21) is caused by having three copies of chromosome 21 instead of the usual two copies.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The presence of three copies of a specific chromosome in some or all of the body’s cells instead of the usual two copies. For example, people with Down syndrome have an extra copy of chromosome 21.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trisomy&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804247" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trisomía&quot;" language="es" id="_4"/>
+  <SpanishTermName>trisomía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de un cromosoma adicional en algunas o en todas las células del cuerpo, lo que da como resultado un total de 3 copias de un cromosoma en lugar de las 2 copias normales. Por ejemplo, la causa del síndrome de Down (trisomía 21) es la presencia de 3 copias del cromosoma 21 en lugar de las 2 copias habituales.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de 3 copias de un cromosoma específico, en lugar de las 2 copias habituales, en algunas células del cuerpo o en todas las células. Por ejemplo, las personas con síndrome de Down tienen 3 copias del cromosoma  21.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

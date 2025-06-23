@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045691"><TermName>fine-needle aspiration biopsy</TermName><TermPronunciation>(... NEE-dul AS-pih-RAY-shun BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>The removal of fluid, cells, or tissue with a thin needle for examination under a microscope. Also called FNA biopsy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fine-needle aspiration biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707087" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por aspiración con aguja fina&quot;" language="es" id="_4"/><SpanishTermName>biopsia por aspiración con aguja fina</SpanishTermName><SpanishTermDefinition><DefinitionText>Extracción de líquido, células o tejido con una aguja delgada para observarlos al microscopio. También se llama biopsia aspirativa con aguja fina, biopsia con aguja fina, biopsia por AAF, biopsia por punción con aguja fina y punción biópsica con aguja fina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-10-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045691">
+  <TermName>fine-needle aspiration biopsy</TermName>
+  <TermPronunciation>(... NEE-dul AS-pih-RAY-shun BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The removal of fluid, cells, or tissue with a thin needle for examination under a microscope. Also called FNA biopsy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fine-needle aspiration biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707087" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por aspiración con aguja fina&quot;" language="es" id="_4"/>
+  <SpanishTermName>biopsia por aspiración con aguja fina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Extracción de líquido, células o tejido con una aguja delgada para observarlos al microscopio. También se llama biopsia aspirativa con aguja fina, biopsia con aguja fina, biopsia por AAF, biopsia por punción con aguja fina y punción biópsica con aguja fina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-10-15</DateLastModified>
+</GlossaryTerm>

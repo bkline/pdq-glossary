@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044160"><TermName>nonrandomized clinical trial</TermName><TermPronunciation>(non-RAN-duh-mized KLIH-nih-kul TRY-ul)</TermPronunciation><TermDefinition><DefinitionText>A clinical trial in which the participants are not assigned by chance to different treatment groups. Participants may choose which group they want to be in, or they may be assigned to the groups by the researchers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704237" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nonrandomized clinical trial&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704236" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio clínico no aleatorizado&quot;" language="es" id="_4"/><SpanishTermName>ensayo clínico no aleatorizado</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico en el que los participantes no se asignan al azar a los distintos grupos de tratamiento. Los participantes eligen el grupo al que quieren pertenecer o los investigadores asignan los grupos. También se llama estudio clínico no aleatorizado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044160">
+  <TermName>nonrandomized clinical trial</TermName>
+  <TermPronunciation>(non-RAN-duh-mized KLIH-nih-kul TRY-ul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A clinical trial in which the participants are not assigned by chance to different treatment groups. Participants may choose which group they want to be in, or they may be assigned to the groups by the researchers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704237" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nonrandomized clinical trial&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704236" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio clínico no aleatorizado&quot;" language="es" id="_4"/>
+  <SpanishTermName>ensayo clínico no aleatorizado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ensayo clínico en el que los participantes no se asignan al azar a los distintos grupos de tratamiento. Los participantes eligen el grupo al que quieren pertenecer o los investigadores asignan los grupos. También se llama estudio clínico no aleatorizado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000763009"><TermName>cranium</TermName><TermPronunciation>(KRAY-nee-um)</TermPronunciation><TermDefinition><DefinitionText>The bones that form the head. The cranium is made up of cranial bones (bones that surround and protect the brain) and facial bones (bones that form the eye sockets, nose, cheeks, jaw, and other parts of the face). An opening at the base of the cranium is where the spinal cord connects to the brain. Also called skull.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000766694" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cranium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000766693" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cráneo&quot;" language="es" id="_4"/><SpanishTermName>cráneo</SpanishTermName><SpanishTermDefinition><DefinitionText>Huesos de la cabeza. El cráneo se compone de los huesos craneales (huesos que rodean  y protegen el encéfalo, que incluye el cerebro). La médula espinal se conecta con el encéfalo por una abertura en la base del cráneo. También se llama calavera.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-09-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000763009">
+  <TermName>cranium</TermName>
+  <TermPronunciation>(KRAY-nee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The bones that form the head. The cranium is made up of cranial bones (bones that surround and protect the brain) and facial bones (bones that form the eye sockets, nose, cheeks, jaw, and other parts of the face). An opening at the base of the cranium is where the spinal cord connects to the brain. Also called skull.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000766694" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cranium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000766693" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cráneo&quot;" language="es" id="_4"/>
+  <SpanishTermName>cráneo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Huesos de la cabeza. El cráneo se compone de los huesos craneales (huesos que rodean  y protegen el encéfalo, que incluye el cerebro). La médula espinal se conecta con el encéfalo por una abertura en la base del cráneo. También se llama calavera.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-09-17</DateFirstPublished>
+</GlossaryTerm>

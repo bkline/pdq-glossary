@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000407750"><TermName>arrhenoblastoma</TermName><TermPronunciation>(uh-REE-noh-blas-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare tumor that forms in the tissues that surround and support the ovaries. Arrhenoblastomas make a male sex hormone called testosterone. These tumors can cause the appearance of male physical features, such as facial hair, a deep voice, and other symptoms. Arrhenoblastomas may be benign (not cancer) or malignant (cancer). They tend to have a good prognosis if diagnosed and treated early. Arrhenoblastomas are a type of sex cord-stromal tumor. Also called androblastoma and Sertoli-Leydig cell tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arrhenoblastoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713254" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arrenoblastoma&quot;" language="es" id="_4"/><SpanishTermName>arrenoblastoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor raro que se forma en los tejidos que rodean y sostienen los ovarios. Estos tumores producen una hormona sexual masculina llamada testosterona, que causa la aparición de rasgos físicos masculinos, como vello facial, voz grave, además de otros síntomas. Los arrenoblastomas pueden ser benignos (no cancerosos) o malignos (cancerosos), y suelen tener un buen pronóstico si se diagnostican y se tratan a tiempo. Los arrenoblastomas son un tipo de tumor de estroma de cordón sexual. También se llama androblastoma y tumor de células de Sertoli y de Leydig.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><DateLastModified>2025-02-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000407750">
+  <TermName>arrhenoblastoma</TermName>
+  <TermPronunciation>(uh-REE-noh-blas-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare tumor that forms in the tissues that surround and support the ovaries. Arrhenoblastomas make a male sex hormone called testosterone. These tumors can cause the appearance of male physical features, such as facial hair, a deep voice, and other symptoms. Arrhenoblastomas may be benign (not cancer) or malignant (cancer). They tend to have a good prognosis if diagnosed and treated early. Arrhenoblastomas are a type of sex cord-stromal tumor. Also called androblastoma and Sertoli-Leydig cell tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arrhenoblastoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713254" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arrenoblastoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>arrenoblastoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor raro que se forma en los tejidos que rodean y sostienen los ovarios. Estos tumores producen una hormona sexual masculina llamada testosterona, que causa la aparición de rasgos físicos masculinos, como vello facial, voz grave, además de otros síntomas. Los arrenoblastomas pueden ser benignos (no cancerosos) o malignos (cancerosos), y suelen tener un buen pronóstico si se diagnostican y se tratan a tiempo. Los arrenoblastomas son un tipo de tumor de estroma de cordón sexual. También se llama androblastoma y tumor de células de Sertoli y de Leydig.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <DateLastModified>2025-02-07</DateLastModified>
+</GlossaryTerm>

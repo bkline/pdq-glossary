@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000270728"><TermName>neuro-oncologist</TermName><TermPronunciation>(NOOR-oh-on-KAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in diagnosing and treating brain tumors and other tumors of the nervous system.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710230" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuro-oncologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroncólogo&quot;" language="es" id="_4"/><SpanishTermName>neuroncólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de los tumores de encéfalo y de otras partes del sistema nervioso. También se llama especialista en neuroncología, especialista en neurooncología, neurooncólogo y onconeurólogo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-01-26</DateFirstPublished><DateLastModified>2016-06-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000270728">
+  <TermName>neuro-oncologist</TermName>
+  <TermPronunciation>(NOOR-oh-on-KAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in diagnosing and treating brain tumors and other tumors of the nervous system.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710230" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuro-oncologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroncólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>neuroncólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de los tumores de encéfalo y de otras partes del sistema nervioso. También se llama especialista en neuroncología, especialista en neurooncología, neurooncólogo y onconeurólogo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-01-26</DateFirstPublished>
+  <DateLastModified>2016-06-17</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000449931"><TermName>hematoma</TermName><TermPronunciation>(HEE-muh-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A pool of mostly clotted blood that forms in an organ, tissue, or body space. A hematoma is usually caused by a broken blood vessel that was damaged by surgery or an injury. It can occur anywhere in the body, including the brain. Most hematomas are small and go away on their own, but some may need to be removed by surgery.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715197" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hematoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715196" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hematoma&quot;" language="es" id="_4"/><SpanishTermName>hematoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Acumulación de sangre, en su mayor parte coagulada, en un órgano, tejido o espacio del cuerpo. Un hematoma suele formarse cuando se rompe un vaso sanguíneo durante una cirugía o por un traumatismo. Surge en cualquier parte del cuerpo, incluso en el encéfalo. La mayoría de los hematomas son pequeños y desaparecen por sí solos, pero a veces se necesita cirugía para resolverlos. También se llama hematocele.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-02-21</DateFirstPublished><DateLastModified>2021-10-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000449931">
+  <TermName>hematoma</TermName>
+  <TermPronunciation>(HEE-muh-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A pool of mostly clotted blood that forms in an organ, tissue, or body space. A hematoma is usually caused by a broken blood vessel that was damaged by surgery or an injury. It can occur anywhere in the body, including the brain. Most hematomas are small and go away on their own, but some may need to be removed by surgery.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715197" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hematoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715196" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hematoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>hematoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Acumulación de sangre, en su mayor parte coagulada, en un órgano, tejido o espacio del cuerpo. Un hematoma suele formarse cuando se rompe un vaso sanguíneo durante una cirugía o por un traumatismo. Surge en cualquier parte del cuerpo, incluso en el encéfalo. La mayoría de los hematomas son pequeños y desaparecen por sí solos, pero a veces se necesita cirugía para resolverlos. También se llama hematocele.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-02-21</DateFirstPublished>
+  <DateLastModified>2021-10-13</DateLastModified>
+</GlossaryTerm>

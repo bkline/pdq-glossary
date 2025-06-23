@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000460222"><TermName>trinucleotide repeat</TermName><TermPronunciation>(try-NOO-klee-oh-tide reh-PEET)</TermPronunciation><TermDefinition><DefinitionText>A sequence of three nucleotides that is repeated a number of times in a row in a segment of DNA. A certain amount of variation in the number of trinucleotide repeats is common and usually does not cause disease in individuals. But too many copies of certain trinucleotide repeats in the DNA can affect the gene's function, which could lead to certain genetic disorders. The number of trinucleotide repeats can change as the gene is passed from parent to child.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trinucleotide repeat&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804246" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;repetición de trinucleótido&quot;" language="es" id="_4"/><SpanishTermName>repetición de trinucleótido</SpanishTermName><SpanishTermDefinition><DefinitionText>Secuencia de tres nucleótidos que se repite varias veces seguidas en un segmento de ADN. Es normal que las personas tengan cierta variación en el número de repeticiones de trinucleótidos y, por lo general, esto no causa enfermedades. Sin embargo,    la presencia de demasiadas copias de ciertas repeticiones de trinucleótidos en el ADN a veces afecta la función del gen y produce determinados trastornos genéticos. El número de repeticiones de trinucleótidos puede cambiar a medida que el gen pasa de generación (de progenitor  a descendiente).</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460222">
+  <TermName>trinucleotide repeat</TermName>
+  <TermPronunciation>(try-NOO-klee-oh-tide reh-PEET)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A sequence of three nucleotides that is repeated a number of times in a row in a segment of DNA. A certain amount of variation in the number of trinucleotide repeats is common and usually does not cause disease in individuals. But too many copies of certain trinucleotide repeats in the DNA can affect the gene's function, which could lead to certain genetic disorders. The number of trinucleotide repeats can change as the gene is passed from parent to child.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trinucleotide repeat&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804246" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;repetición de trinucleótido&quot;" language="es" id="_4"/>
+  <SpanishTermName>repetición de trinucleótido</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Secuencia de tres nucleótidos que se repite varias veces seguidas en un segmento de ADN. Es normal que las personas tengan cierta variación en el número de repeticiones de trinucleótidos y, por lo general, esto no causa enfermedades. Sin embargo,    la presencia de demasiadas copias de ciertas repeticiones de trinucleótidos en el ADN a veces afecta la función del gen y produce determinados trastornos genéticos. El número de repeticiones de trinucleótidos puede cambiar a medida que el gen pasa de generación (de progenitor  a descendiente).</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

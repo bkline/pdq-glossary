@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000687002"><TermName>multiplex ligation-dependent probe amplification</TermName><TermPronunciation>(MUL-tee-plex ly-GAY-shun-deh-PEN-dent probe AM-plih-fih-KAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A laboratory method commonly used for the detection of unusual copy number changes (insertions or deletions) of genomic sequences. Also called MLPA.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;multiplex ligation-dependent probe amplification&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;amplificación múltiple de sondas dependiente de ligamiento&quot;" language="es" id="_4"/><SpanishTermName>amplificación múltiple de sondas dependiente de ligamiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio que suele utilizarse para la detección de cambios anormales en el número de copias (inserciones o deleciones) de secuencias genómicas. También se llama MLPA.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2010-10-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000687002">
+  <TermName>multiplex ligation-dependent probe amplification</TermName>
+  <TermPronunciation>(MUL-tee-plex ly-GAY-shun-deh-PEN-dent probe AM-plih-fih-KAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory method commonly used for the detection of unusual copy number changes (insertions or deletions) of genomic sequences. Also called MLPA.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;multiplex ligation-dependent probe amplification&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;amplificación múltiple de sondas dependiente de ligamiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>amplificación múltiple de sondas dependiente de ligamiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio que suele utilizarse para la detección de cambios anormales en el número de copias (inserciones o deleciones) de secuencias genómicas. También se llama MLPA.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-10-08</DateFirstPublished>
+</GlossaryTerm>

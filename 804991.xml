@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000804991"><TermName>liposuction</TermName><TermPronunciation>(LY-poh-SUK-shun)</TermPronunciation><TermDefinition><DefinitionText>A surgical procedure in which a vacuum device is used to remove extra fat from the body. Liposuction is usually done to smooth and reshape an area of the body to improve appearance. It may also be done to remove lipomas (fatty tumors that are not cancer) and to treat gynecomastia (the abnormal growth of breast tissue in males). It may also be done to relieve symptoms of lymphedema (a condition in which extra lymph fluid builds up in tissues and causes swelling) and as part of breast reduction surgery.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806863" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposuction&quot;" language="en" id="_7"/><MediaLink ref="CDR0000806864" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposucción&quot;" language="es" id="_8"/><SpanishTermName>liposucción</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento quirúrgico para extraer grasa del cuerpo a través de un dispositivo de aspiración.  A menudo tiene como objetivo alisar y remodelar un  área del cuerpo para mejorar la apariencia. También se hace para extirpar lipomas (tumores benignos de grasa) y para el tratamiento de la ginecomastia (crecimiento anormal de tejido mamario en los hombres). Además, sirve para aliviar los síntomas del linfedema (hinchazón de los tejidos por acumulación de linfa) y forma parte de la cirugía de reducción de la mama.  También se llama lipectomía por succión, lipoaspiración, lipoescultura y lipoplastia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-08-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804991">
+  <TermName>liposuction</TermName>
+  <TermPronunciation>(LY-poh-SUK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgical procedure in which a vacuum device is used to remove extra fat from the body. Liposuction is usually done to smooth and reshape an area of the body to improve appearance. It may also be done to remove lipomas (fatty tumors that are not cancer) and to treat gynecomastia (the abnormal growth of breast tissue in males). It may also be done to relieve symptoms of lymphedema (a condition in which extra lymph fluid builds up in tissues and causes swelling) and as part of breast reduction surgery.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806863" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposuction&quot;" language="en" id="_7"/>
+  <MediaLink ref="CDR0000806864" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposucción&quot;" language="es" id="_8"/>
+  <SpanishTermName>liposucción</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento quirúrgico para extraer grasa del cuerpo a través de un dispositivo de aspiración.  A menudo tiene como objetivo alisar y remodelar un  área del cuerpo para mejorar la apariencia. También se hace para extirpar lipomas (tumores benignos de grasa) y para el tratamiento de la ginecomastia (crecimiento anormal de tejido mamario en los hombres). Además, sirve para aliviar los síntomas del linfedema (hinchazón de los tejidos por acumulación de linfa) y forma parte de la cirugía de reducción de la mama.  También se llama lipectomía por succión, lipoaspiración, lipoescultura y lipoplastia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-08-09</DateFirstPublished>
+</GlossaryTerm>

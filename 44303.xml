@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000044303"><TermName>arsenic</TermName><TermPronunciation>(ARS-nik)</TermPronunciation><TermDefinition><DefinitionText>A poisonous chemical used to kill weeds and pests. Also used in cancer therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704448" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arsenic&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arsénico&quot;" language="es" id="_4"/><SpanishTermName>arsénico</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia química venenosa que se usa para destruir malezas y plagas. También se  utiliza en el tratamiento del cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/arsenic" UseWith="en">Arsenic</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/arsenico" UseWith="es">Arsénico</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044303">
+  <TermName>arsenic</TermName>
+  <TermPronunciation>(ARS-nik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A poisonous chemical used to kill weeds and pests. Also used in cancer therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704448" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arsenic&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;arsénico&quot;" language="es" id="_4"/>
+  <SpanishTermName>arsénico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia química venenosa que se usa para destruir malezas y plagas. También se  utiliza en el tratamiento del cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/arsenic" UseWith="en">Arsenic</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/arsenico" UseWith="es">Arsénico</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

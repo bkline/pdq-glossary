@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000810814"><TermName>Imjudo</TermName><TermPronunciation>(im-JOO-doh)</TermPronunciation><TermDefinition><DefinitionText>A drug that binds to the protein CTLA-4 to help immune cells kill cancer cells better and is used to treat different types of cancer. Imjudo is used with durvalumab to treat adults with hepatocellular carcinoma (a type of liver cancer) that cannot be removed by surgery. It is also used with durvalumab and platinum chemotherapy to treat adults with non-small cell lung cancer that has spread to other parts of the body and does not have an abnormal <GeneName>EGFR </GeneName> or <GeneName>ALK </GeneName> gene. It is also being studied in the treatment of other types of cancer.   Imjudo may block CTLA-4 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called tremelimumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811538" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imjudo&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811539" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imjudo&quot;" language="es" id="_4"/><SpanishTermName>Imjudo</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se une a una proteína llamada CTLA-4 para ayudar a las células inmunitarias a destruir más células cancerosas, y que se usa para el tratamiento de diferentes tipos de cáncer. Imjudo se usa con durvalumab para el tratamiento de adultos con carcinoma hepatocelular (tipo de cáncer de hígado) que no se puede extirpar mediante cirugía. También se administra con durvalumab y quimioterapia de derivados de platino para tratar adultos con cáncer de pulmón de células no pequeñas que se diseminó a otras partes del cuerpo y que no presenta anomalías en los genes <GeneName>EGFR </GeneName> o <GeneName>ALK </GeneName>. Además, está en estudio para el tratamiento de otros tipos de cáncer. Imjudo en ocasiones bloquea a CTLA-4 y ayuda al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y un inhibidor de puntos de control inmunitario. También se llama tremelimumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-10-25</DateFirstPublished><DateLastModified>2022-11-14</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000810815" url="/about-cancer/treatment/drugs/tremelimumab-actl">Tremelimumab-actl</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810814">
+  <TermName>Imjudo</TermName>
+  <TermPronunciation>(im-JOO-doh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug that binds to the protein CTLA-4 to help immune cells kill cancer cells better and is used to treat different types of cancer. Imjudo is used with durvalumab to treat adults with hepatocellular carcinoma (a type of liver cancer) that cannot be removed by surgery. It is also used with durvalumab and platinum chemotherapy to treat adults with non-small cell lung cancer that has spread to other parts of the body and does not have an abnormal 
+      <GeneName>EGFR </GeneName>
+       or 
+      <GeneName>ALK </GeneName>
+       gene. It is also being studied in the treatment of other types of cancer.   Imjudo may block CTLA-4 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called tremelimumab.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811538" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imjudo&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811539" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imjudo&quot;" language="es" id="_4"/>
+  <SpanishTermName>Imjudo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se une a una proteína llamada CTLA-4 para ayudar a las células inmunitarias a destruir más células cancerosas, y que se usa para el tratamiento de diferentes tipos de cáncer. Imjudo se usa con durvalumab para el tratamiento de adultos con carcinoma hepatocelular (tipo de cáncer de hígado) que no se puede extirpar mediante cirugía. También se administra con durvalumab y quimioterapia de derivados de platino para tratar adultos con cáncer de pulmón de células no pequeñas que se diseminó a otras partes del cuerpo y que no presenta anomalías en los genes 
+      <GeneName>EGFR </GeneName>
+       o 
+      <GeneName>ALK </GeneName>
+      . Además, está en estudio para el tratamiento de otros tipos de cáncer. Imjudo en ocasiones bloquea a CTLA-4 y ayuda al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y un inhibidor de puntos de control inmunitario. También se llama tremelimumab.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-10-25</DateFirstPublished>
+  <DateLastModified>2022-11-14</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000810815" url="/about-cancer/treatment/drugs/tremelimumab-actl">Tremelimumab-actl</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

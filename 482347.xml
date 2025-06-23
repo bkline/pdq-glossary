@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000482347"><TermName>sternum</TermName><TermPronunciation>(STER-num)</TermPronunciation><TermDefinition><DefinitionText>The long flat bone that forms the center front of the chest wall. The sternum is attached to the collarbone and the first seven ribs. Also called breastbone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732887" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sternum&quot;" language="en" id="_2"/><MediaLink ref="CDR0000801277" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hueso esternal&quot;" language="es" id="_4"/><SpanishTermName>hueso esternal</SpanishTermName><SpanishTermDefinition><DefinitionText>Hueso largo y plano que forma la parte delantera y central de la pared torácica. El hueso esternal está unido a la clavícula y a las siete primeras costillas. También se llama esternón.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-05-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000482347">
+  <TermName>sternum</TermName>
+  <TermPronunciation>(STER-num)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The long flat bone that forms the center front of the chest wall. The sternum is attached to the collarbone and the first seven ribs. Also called breastbone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732887" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sternum&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000801277" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hueso esternal&quot;" language="es" id="_4"/>
+  <SpanishTermName>hueso esternal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hueso largo y plano que forma la parte delantera y central de la pared torácica. El hueso esternal está unido a la clavícula y a las siete primeras costillas. También se llama esternón.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-05-11</DateFirstPublished>
+</GlossaryTerm>

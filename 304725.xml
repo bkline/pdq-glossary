@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000304725"><TermName>menopausal hormone therapy</TermName><TermPronunciation>(MEH-nuh-PAW-zul HOR-mone THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment with the hormones estrogen and progesterone or with estrogen alone to help relieve symptoms of menopause. Symptoms may include hot flashes, night sweats, vaginal dryness, sleep problems, mood swings, and thinning of the bones. Menopausal hormone therapy is given to replace the natural hormones that are no longer made by the body. It is given to women who have gone through menopause or who have early menopause caused by cancer treatment or by having their ovaries removed by surgery. Also called MHT.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709913" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;menopausal hormone therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709914" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia hormonal para la menopausia&quot;" language="es" id="_4"/><SpanishTermName>terapia hormonal para la menopausia</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento con las hormonas estrógeno y progesterona, o estrógeno solo, para ayudar a aliviar los síntomas de la menopausia. Los síntomas pueden incluir sofocos, sudores nocturnos, sequedad vaginal, problemas para dormir, cambios de humor y debilitamiento de los huesos. La terapia hormonal para la menopausia se administra para remplazar las hormonas naturales que el cuerpo ya no elabora. La reciben las mujeres que pasaron por la menopausia o que presentan menopausia precoz debida al tratamiento de un cáncer, o a quienes se les extirpó los ovarios mediante cirugía. También se llama THM.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/mht-fact-sheet">Menopausal Hormone Therapy and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-hormonas-menopausia">Terapia hormonal para la menopausia y el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304725">
+  <TermName>menopausal hormone therapy</TermName>
+  <TermPronunciation>(MEH-nuh-PAW-zul HOR-mone THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment with the hormones estrogen and progesterone or with estrogen alone to help relieve symptoms of menopause. Symptoms may include hot flashes, night sweats, vaginal dryness, sleep problems, mood swings, and thinning of the bones. Menopausal hormone therapy is given to replace the natural hormones that are no longer made by the body. It is given to women who have gone through menopause or who have early menopause caused by cancer treatment or by having their ovaries removed by surgery. Also called MHT.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709913" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;menopausal hormone therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709914" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia hormonal para la menopausia&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia hormonal para la menopausia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento con las hormonas estrógeno y progesterona, o estrógeno solo, para ayudar a aliviar los síntomas de la menopausia. Los síntomas pueden incluir sofocos, sudores nocturnos, sequedad vaginal, problemas para dormir, cambios de humor y debilitamiento de los huesos. La terapia hormonal para la menopausia se administra para remplazar las hormonas naturales que el cuerpo ya no elabora. La reciben las mujeres que pasaron por la menopausia o que presentan menopausia precoz debida al tratamiento de un cáncer, o a quienes se les extirpó los ovarios mediante cirugía. También se llama THM.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/mht-fact-sheet">Menopausal Hormone Therapy and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-hormonas-menopausia">Terapia hormonal para la menopausia y el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

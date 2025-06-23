@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805629"><TermName>circulating tumor DNA</TermName><TermPronunciation>(SER-kyoo-LAY-ting TOO-mer …)</TermPronunciation><TermDefinition><DefinitionText>Small pieces of DNA that are released into a person’s blood by tumor cells as they die. A sample of blood can be used to look for and measure the amount of  circulating tumor DNA and identify specific mutations (changes) in the DNA. Circulating tumor DNA is being used as a biomarker to help diagnose some types of cancer, to help plan treatment, or to find out how well treatment is working or if cancer has come back.  Also called ctDNA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;circulating tumor DNA&quot;" language="en" id="_4"/><MediaLink ref="CDR0000808465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ADN tumoral circulante&quot;" language="es" id="_5"/><SpanishTermName>ADN tumoral circulante</SpanishTermName><SpanishTermDefinition><DefinitionText>Trozos pequeños de ADN que se desprenden de las células tumorales a medida que se destruyen y que se encuentran en la sangre de una persona. Es posible usar una muestra de sangre para detectar y medir la cantidad de ADN tumoral circulante y para identificar mutaciones (cambios) específicas en el ADN. El ADN tumoral circulante se usa como biomarcador para ayudar a diagnosticar algunos tipos de cáncer, además sirve para planificar el tratamiento, medir la eficacia del tratamiento o determinar si el cáncer volvió. También se llama ADNtc y DNA tumoral circulante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-11-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805629">
+  <TermName>circulating tumor DNA</TermName>
+  <TermPronunciation>(SER-kyoo-LAY-ting TOO-mer …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Small pieces of DNA that are released into a person’s blood by tumor cells as they die. A sample of blood can be used to look for and measure the amount of  circulating tumor DNA and identify specific mutations (changes) in the DNA. Circulating tumor DNA is being used as a biomarker to help diagnose some types of cancer, to help plan treatment, or to find out how well treatment is working or if cancer has come back.  Also called ctDNA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;circulating tumor DNA&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000808465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ADN tumoral circulante&quot;" language="es" id="_5"/>
+  <SpanishTermName>ADN tumoral circulante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trozos pequeños de ADN que se desprenden de las células tumorales a medida que se destruyen y que se encuentran en la sangre de una persona. Es posible usar una muestra de sangre para detectar y medir la cantidad de ADN tumoral circulante y para identificar mutaciones (cambios) específicas en el ADN. El ADN tumoral circulante se usa como biomarcador para ayudar a diagnosticar algunos tipos de cáncer, además sirve para planificar el tratamiento, medir la eficacia del tratamiento o determinar si el cáncer volvió. También se llama ADNtc y DNA tumoral circulante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-11-23</DateFirstPublished>
+</GlossaryTerm>

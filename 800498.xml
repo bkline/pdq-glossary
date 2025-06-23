@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000800498"><TermName>PHTS</TermName><TermDefinition><DefinitionText>A group of inherited disorders caused by mutations (changes) in the PTEN gene. In people with PHTS, many benign (not cancer) growths called hamartomas form in different parts of the body, especially the skin, mouth, and gastrointestinal tract. Benign tumors may also occur in the thyroid, breast, uterus, soft tissue, and brain. Other signs and symptoms include a larger-than-average head, abnormal skin changes, blood vessel problems, autism spectrum disorder, and learning and developmental delays. People with PHTS have an increased risk of developing certain types of cancer, including melanoma and cancers of the breast, thyroid, kidney, endometrium, colon, and rectum. Also called PTEN hamartoma tumor syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PHTS</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de trastornos hereditarios causados por mutaciones (cambios) en el gen <GeneName>PTEN</GeneName>. Las personas con PHTS presentan muchos hamartomas (masas benignas) en diferentes partes del cuerpo, sobre todo en la piel, la boca y el tubo gastrointestinal. En ocasiones también se forman tumores benignos en la tiroides, la mama, el útero, el tejido blando y el encéfalo. Otros signos y síntomas incluyen una cabeza más grande que lo normal, cambios anormales en la piel, problemas en los vasos sanguíneos, trastornos del espectro autista, y retrasos en el aprendizaje y  el desarrollo. Las personas con PHTS tienen más riesgo de presentar ciertos tipos de cáncer, como el melanoma y  los cánceres de mama, tiroides, riñón, endometrio, colon y recto. También se llama síndrome de hamartoma tumoral PTEN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-05</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/12800/pten-hamartoma-tumor-syndrome">PTEN hamartoma tumor syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800498">
+  <TermName>PHTS</TermName>
+  <TermDefinition>
+    <DefinitionText>A group of inherited disorders caused by mutations (changes) in the PTEN gene. In people with PHTS, many benign (not cancer) growths called hamartomas form in different parts of the body, especially the skin, mouth, and gastrointestinal tract. Benign tumors may also occur in the thyroid, breast, uterus, soft tissue, and brain. Other signs and symptoms include a larger-than-average head, abnormal skin changes, blood vessel problems, autism spectrum disorder, and learning and developmental delays. People with PHTS have an increased risk of developing certain types of cancer, including melanoma and cancers of the breast, thyroid, kidney, endometrium, colon, and rectum. Also called PTEN hamartoma tumor syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PHTS</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Grupo de trastornos hereditarios causados por mutaciones (cambios) en el gen 
+      <GeneName>PTEN</GeneName>
+      . Las personas con PHTS presentan muchos hamartomas (masas benignas) en diferentes partes del cuerpo, sobre todo en la piel, la boca y el tubo gastrointestinal. En ocasiones también se forman tumores benignos en la tiroides, la mama, el útero, el tejido blando y el encéfalo. Otros signos y síntomas incluyen una cabeza más grande que lo normal, cambios anormales en la piel, problemas en los vasos sanguíneos, trastornos del espectro autista, y retrasos en el aprendizaje y  el desarrollo. Las personas con PHTS tienen más riesgo de presentar ciertos tipos de cáncer, como el melanoma y  los cánceres de mama, tiroides, riñón, endometrio, colon y recto. También se llama síndrome de hamartoma tumoral PTEN.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-05</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/12800/pten-hamartoma-tumor-syndrome">PTEN hamartoma tumor syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

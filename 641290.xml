@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000641290"><TermName>chronic lymphocytic leukemia/small lymphocytic lymphoma</TermName><TermPronunciation>(KRAH-nik LIM-foh-SIH-tik loo-KEE-mee-uh/… LIM-foh-SIH-tik lim-FOH-muh)</TermPronunciation><TermDefinition><DefinitionText>An indolent (slow-growing) cancer in which immature lymphocytes (white blood cells) are found in the blood and bone marrow and/or in the lymph nodes. Chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are the same disease, but in CLL cancer cells are found mostly in the blood and bone marrow.  In SLL cancer cells are found mostly in the lymph nodes.  Chronic lymphocytic leukemia/small lymphocytic lymphoma is a type of non-Hodgkin lymphoma. Also called CLL/SLL.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chronic lymphocytic leukemia/small lymphocytic lymphoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucemia linfocítica crónica y linfoma linfocítico de células pequeñas&quot;" language="es" id="_4"/><SpanishTermName>leucemia linfocítica crónica y linfoma linfocítico de células pequeñas</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer de crecimiento lento (indolente) en el que se encuentran linfocitos inmaduros (glóbulos blancos) en la sangre y la médula ósea o en los ganglios linfáticos. La leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas son la misma enfermedad, pero en la leucemia, la mayoría de las células cancerosas están en la sangre y la médula ósea. En el linfoma, la mayoría de las células cancerosas están en los ganglios linfáticos. La leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas son tipos de linfoma no Hodgkin. También se llama LLC y LLCP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-04-24</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000641290">
+  <TermName>chronic lymphocytic leukemia/small lymphocytic lymphoma</TermName>
+  <TermPronunciation>(KRAH-nik LIM-foh-SIH-tik loo-KEE-mee-uh/… LIM-foh-SIH-tik lim-FOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An indolent (slow-growing) cancer in which immature lymphocytes (white blood cells) are found in the blood and bone marrow and/or in the lymph nodes. Chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are the same disease, but in CLL cancer cells are found mostly in the blood and bone marrow.  In SLL cancer cells are found mostly in the lymph nodes.  Chronic lymphocytic leukemia/small lymphocytic lymphoma is a type of non-Hodgkin lymphoma. Also called CLL/SLL.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chronic lymphocytic leukemia/small lymphocytic lymphoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucemia linfocítica crónica y linfoma linfocítico de células pequeñas&quot;" language="es" id="_4"/>
+  <SpanishTermName>leucemia linfocítica crónica y linfoma linfocítico de células pequeñas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer de crecimiento lento (indolente) en el que se encuentran linfocitos inmaduros (glóbulos blancos) en la sangre y la médula ósea o en los ganglios linfáticos. La leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas son la misma enfermedad, pero en la leucemia, la mayoría de las células cancerosas están en la sangre y la médula ósea. En el linfoma, la mayoría de las células cancerosas están en los ganglios linfáticos. La leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas son tipos de linfoma no Hodgkin. También se llama LLC y LLCP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-04-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000460200"><TermName>novel mutation</TermName><TermPronunciation>(NAH-vel myoo-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation).  Also called novel variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;novel mutation&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación novedosa&quot;" language="es" id="_4"/><SpanishTermName>mutación novedosa</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética definida, descubierta de manera reciente; no es lo mismo que una variante o mutación nueva o <Emphasis>de novo</Emphasis>. También se llama variante novedosa.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460200">
+  <TermName>novel mutation</TermName>
+  <TermPronunciation>(NAH-vel myoo-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation).  Also called novel variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;novel mutation&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación novedosa&quot;" language="es" id="_4"/>
+  <SpanishTermName>mutación novedosa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Alteración genética definida, descubierta de manera reciente; no es lo mismo que una variante o mutación nueva o 
+      <Emphasis>de novo</Emphasis>
+      . También se llama variante novedosa.
+    </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

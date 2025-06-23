@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000810533"><TermName>Pedmark</TermName><TermPronunciation>(PED-mark)</TermPronunciation><TermDefinition><DefinitionText>A drug used to reduce the risk of hearing loss in children aged 1 month and older who are receiving cisplatin (a type of anticancer drug) for solid tumors that have not spread to other parts of the body. It is also being studied in the prevention and treatment of other conditions. Pedmark is a type of chemoprotective agent. Also called sodium thiosulfate anhydrous.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Pedmark&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Pedmark&quot;" language="es" id="_4"/><SpanishTermName>Pedmark</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para reducir el riesgo de la  pérdida auditiva en niños de 1 año o más que reciben cisplatino (tipo de medicamento anticanceroso) para el tratamiento de tumores sólidos que no se han diseminado a otras partes del cuerpo. También está en estudio para la prevención y el tratamiento de otras afecciones. Pedmark es un tipo de quimioprotector. También se llama tiosulfato de sodio anhidro.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-09-21</DateFirstPublished><DateLastModified>2022-09-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810533">
+  <TermName>Pedmark</TermName>
+  <TermPronunciation>(PED-mark)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to reduce the risk of hearing loss in children aged 1 month and older who are receiving cisplatin (a type of anticancer drug) for solid tumors that have not spread to other parts of the body. It is also being studied in the prevention and treatment of other conditions. Pedmark is a type of chemoprotective agent. Also called sodium thiosulfate anhydrous.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Pedmark&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Pedmark&quot;" language="es" id="_4"/>
+  <SpanishTermName>Pedmark</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para reducir el riesgo de la  pérdida auditiva en niños de 1 año o más que reciben cisplatino (tipo de medicamento anticanceroso) para el tratamiento de tumores sólidos que no se han diseminado a otras partes del cuerpo. También está en estudio para la prevención y el tratamiento de otras afecciones. Pedmark es un tipo de quimioprotector. También se llama tiosulfato de sodio anhidro.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-09-21</DateFirstPublished>
+  <DateLastModified>2022-09-21</DateLastModified>
+</GlossaryTerm>

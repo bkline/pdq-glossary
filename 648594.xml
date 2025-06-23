@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000648594"><TermName>fostamatinib disodium</TermName><TermPronunciation>(FOS-tuh-MA-tih-nib dy-SOH-dee-um)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults with chronic immune thrombocytopenia (ITP) that did not get better with other treatment. ITP is a condition in which platelets are destroyed by the immune system. Fostamatinib disodium is also being studied in the treatment of other conditions and types of cancer. It blocks an enzyme called Syk, which may help keep the immune system from destroying platelets.  Fostamatinib disodium is a type of tyrosine kinase inhibitor. Also called R788 sodium, Syk kinase inhibitor R-935788, and Tavalisse.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726157" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fostamatinib disodium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726156" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fostamatinib disódico&quot;" language="es" id="_4"/><SpanishTermName>fostamatinib disódico</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la trombocitopenia (concentración baja de plaquetas) en adultos con trombocitopenia inmunitaria crónica que no mejoró con otro tratamiento. La trombocitopenia inmunitaria es una afección por la que el sistema inmunitario destruye las plaquetas. El fostamatinib disódico también está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Bloquea una enzima llamada Syk, lo que quizás ayude a evitar que el sistema inmunitario destruya las plaquetas. El fostamatinib disódico es un tipo de inhibidor de tirosina–cinasas. También se llama inhibidor de la cinasa Syk R-935788, R788 sódico y Tavalisse.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-01-11</DateFirstPublished><DateLastModified>2021-10-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000648594">
+  <TermName>fostamatinib disodium</TermName>
+  <TermPronunciation>(FOS-tuh-MA-tih-nib dy-SOH-dee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults with chronic immune thrombocytopenia (ITP) that did not get better with other treatment. ITP is a condition in which platelets are destroyed by the immune system. Fostamatinib disodium is also being studied in the treatment of other conditions and types of cancer. It blocks an enzyme called Syk, which may help keep the immune system from destroying platelets.  Fostamatinib disodium is a type of tyrosine kinase inhibitor. Also called R788 sodium, Syk kinase inhibitor R-935788, and Tavalisse.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726157" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fostamatinib disodium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726156" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fostamatinib disódico&quot;" language="es" id="_4"/>
+  <SpanishTermName>fostamatinib disódico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de la trombocitopenia (concentración baja de plaquetas) en adultos con trombocitopenia inmunitaria crónica que no mejoró con otro tratamiento. La trombocitopenia inmunitaria es una afección por la que el sistema inmunitario destruye las plaquetas. El fostamatinib disódico también está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Bloquea una enzima llamada Syk, lo que quizás ayude a evitar que el sistema inmunitario destruya las plaquetas. El fostamatinib disódico es un tipo de inhibidor de tirosina–cinasas. También se llama inhibidor de la cinasa Syk R-935788, R788 sódico y Tavalisse.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-01-11</DateFirstPublished>
+  <DateLastModified>2021-10-21</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046408"><TermName>esophagus</TermName><TermPronunciation>(ee-SAH-fuh-gus)</TermPronunciation><TermDefinition><DefinitionText>The muscular tube through which food passes from the throat to the stomach.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708685" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esophagus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708686" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esófago&quot;" language="es" id="_4"/><MediaLink ref="CDR0000428446" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</Caption></MediaLink><MediaLink ref="CDR0000445049" type="image/jpeg" alt="Anatomía del aparato gastrointestinal (digestivo); en la imagen se muestra el esófago, el hígado, el estómago, el intestino delgado y el  intestino grueso." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El estómago y el esófago son partes del aparato gastrointestinal superior (digestivo).</Caption></MediaLink><SpanishTermName>esófago</SpanishTermName><SpanishTermDefinition><DefinitionText>Tubo muscular a través del cual pasan los alimentos desde la garganta al estómago.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-01-31</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/esophageal">Esophageal Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/esofago">Cáncer de esófago</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046408">
+  <TermName>esophagus</TermName>
+  <TermPronunciation>(ee-SAH-fuh-gus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The muscular tube through which food passes from the throat to the stomach.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708685" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esophagus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708686" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esófago&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000428446" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000445049" type="image/jpeg" alt="Anatomía del aparato gastrointestinal (digestivo); en la imagen se muestra el esófago, el hígado, el estómago, el intestino delgado y el  intestino grueso." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El estómago y el esófago son partes del aparato gastrointestinal superior (digestivo).</Caption>
+  </MediaLink>
+  <SpanishTermName>esófago</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tubo muscular a través del cual pasan los alimentos desde la garganta al estómago.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-01-31</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/esophageal">Esophageal Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/esofago">Cáncer de esófago</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

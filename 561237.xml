@@ -1,1 +1,50 @@
-<GlossaryTerm id="CDR0000561237"><TermName>BCR-ABL1 fusion gene</TermName><TermPronunciation>(... FYOO-zhun jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene formed when pieces of chromosomes 9 and 22 break off and trade places. The <GeneName>ABL1</GeneName> gene from chromosome 9 joins to the <GeneName>BCR</GeneName> gene on chromosome 22 to form the <GeneName>BCR-ABL1 </GeneName> fusion gene. The changed chromosome 22 with the fusion gene on it is called the Philadelphia chromosome. The <GeneName>BCR-ABL1 </GeneName> fusion gene is found in most people with chronic myelogenous leukemia, and in some people with acute lymphoblastic leukemia  or acute myelogenous leukemia. Also called BCR::ABL1 fusion gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;BCR::ABL1 fusion gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen de fusión BCR::ABL1&quot;" language="es" id="_4"/><MediaLink ref="CDR0000533336" type="image/jpeg" alt="Philadelphia chromosome; three-panel drawing shows a piece of chromosome 9 and a piece of chromosome 22 breaking off and trading places, creating a changed chromosome 22 called the Philadelphia chromosome. In the left panel, the drawing shows a normal chromosome 9 with the ABL1 gene and a normal chromosome 22 with the BCR gene. In the center panel, the drawing shows part of the ABL1 gene breaking off from chromosome 9 and a piece of chromosome 22 breaking off, below the BCR gene. In the right panel, the drawing shows chromosome 9 with the piece from chromosome 22 attached. It also shows a shortened version of chromosome 22 with the piece from chromosome 9 containing part of the ABL1 gene attached. The ABL1 gene joins to the BCR gene on chromosome 22 to form the BCR::ABL1 fusion gene. The changed chromosome 22 with the BCR::ABL1 fusion gene on it is called the Philadelphia chromosome." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">The Philadelphia (Ph) chromosome is an abnormal chromosome that is made when pieces of chromosomes 9 and 22 break off and trade places. The ABL1 gene from chromosome 9 joins to the BCR gene on chromosome 22 to form the BCR::ABL1 fusion gene. The changed chromosome 22 with the fusion gene on it is called the Ph chromosome. </Caption></MediaLink><MediaLink ref="CDR0000558048" type="image/jpeg" alt="Cromosoma Filadelfia. En la imagen se observa que una sección del cromosoma 9 y una sección del cromosoma 22 se separan e intercambian lugares, creando un cromosoma 22 alterado llamado cromosoma Filadelfia. En el lado izquierdo, se muestra el cromosoma 9 normal que contiene el gen ABL y el cromosoma 22 normal que contiene el gen BCR. En el centro, se muestra el gen ABL separándose del cromosoma 9 y una sección del cromosoma 22 que se separa por debajo del gen BCR. En el lado derecho, se muestra el cromosoma 9 unido a una sección del cromosoma 22 y una versión más pequeña del cromosoma 22 con la sección del cromosoma 9 que contiene parte del gen ABL unido. El gen ABL se une al gen BCR en el cromosoma 22 y forma el gen de fusión BCR::ABL. El cromosoma 22 alterado que contiene el gen BCR::ABL se llama cromosoma Filadelfia." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El cromosoma Filadelfia es un cromosoma anormal que se forma cuando secciones del cromosoma 9 y del cromosoma 22 se separan e intercambian lugares. El gen ABL del cromosoma 9 se une al gen BCR en el cromosoma 22 y forma el gen de fusión BCR::ABL. El cromosoma 22 alterado que contiene el gen de fusión se llama cromosoma Filadelfia.</Caption></MediaLink><SpanishTermName>gen de fusión BCR-ABL1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que se forma cuando fragmentos de los cromosomas 9 y 22 se rompen e intercambian de posición. El gen <GeneName>ABL1</GeneName> del cromosoma 9 se une al gen <GeneName>BCR</GeneName> del cromosoma 22 y forman el gen de fusión <GeneName>BCR</GeneName>-<GeneName>ABL1</GeneName>. El cromosoma 22 modificado que contiene el gen de fusión se llama cromosoma Filadelfia. El gen de fusión <GeneName>BCR</GeneName>-<GeneName>ABL1</GeneName> se encuentra en la mayoría de los pacientes con leucemia mielógena crónica (LMC) y en algunos pacientes con leucemia linfoblástica aguda (LLA) o leucemia mielógena aguda (LMA). También se llama gen de fusión BCR::ABL1.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-03-06</DateFirstPublished><DateLastModified>2024-10-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561237">
+  <TermName>BCR-ABL1 fusion gene</TermName>
+  <TermPronunciation>(... FYOO-zhun jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene formed when pieces of chromosomes 9 and 22 break off and trade places. The 
+      <GeneName>ABL1</GeneName>
+       gene from chromosome 9 joins to the 
+      <GeneName>BCR</GeneName>
+       gene on chromosome 22 to form the 
+      <GeneName>BCR-ABL1 </GeneName>
+       fusion gene. The changed chromosome 22 with the fusion gene on it is called the Philadelphia chromosome. The 
+      <GeneName>BCR-ABL1 </GeneName>
+       fusion gene is found in most people with chronic myelogenous leukemia, and in some people with acute lymphoblastic leukemia  or acute myelogenous leukemia. Also called BCR::ABL1 fusion gene.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;BCR::ABL1 fusion gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen de fusión BCR::ABL1&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000533336" type="image/jpeg" alt="Philadelphia chromosome; three-panel drawing shows a piece of chromosome 9 and a piece of chromosome 22 breaking off and trading places, creating a changed chromosome 22 called the Philadelphia chromosome. In the left panel, the drawing shows a normal chromosome 9 with the ABL1 gene and a normal chromosome 22 with the BCR gene. In the center panel, the drawing shows part of the ABL1 gene breaking off from chromosome 9 and a piece of chromosome 22 breaking off, below the BCR gene. In the right panel, the drawing shows chromosome 9 with the piece from chromosome 22 attached. It also shows a shortened version of chromosome 22 with the piece from chromosome 9 containing part of the ABL1 gene attached. The ABL1 gene joins to the BCR gene on chromosome 22 to form the BCR::ABL1 fusion gene. The changed chromosome 22 with the BCR::ABL1 fusion gene on it is called the Philadelphia chromosome." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">The Philadelphia (Ph) chromosome is an abnormal chromosome that is made when pieces of chromosomes 9 and 22 break off and trade places. The ABL1 gene from chromosome 9 joins to the BCR gene on chromosome 22 to form the BCR::ABL1 fusion gene. The changed chromosome 22 with the fusion gene on it is called the Ph chromosome. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000558048" type="image/jpeg" alt="Cromosoma Filadelfia. En la imagen se observa que una sección del cromosoma 9 y una sección del cromosoma 22 se separan e intercambian lugares, creando un cromosoma 22 alterado llamado cromosoma Filadelfia. En el lado izquierdo, se muestra el cromosoma 9 normal que contiene el gen ABL y el cromosoma 22 normal que contiene el gen BCR. En el centro, se muestra el gen ABL separándose del cromosoma 9 y una sección del cromosoma 22 que se separa por debajo del gen BCR. En el lado derecho, se muestra el cromosoma 9 unido a una sección del cromosoma 22 y una versión más pequeña del cromosoma 22 con la sección del cromosoma 9 que contiene parte del gen ABL unido. El gen ABL se une al gen BCR en el cromosoma 22 y forma el gen de fusión BCR::ABL. El cromosoma 22 alterado que contiene el gen BCR::ABL se llama cromosoma Filadelfia." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El cromosoma Filadelfia es un cromosoma anormal que se forma cuando secciones del cromosoma 9 y del cromosoma 22 se separan e intercambian lugares. El gen ABL del cromosoma 9 se une al gen BCR en el cromosoma 22 y forma el gen de fusión BCR::ABL. El cromosoma 22 alterado que contiene el gen de fusión se llama cromosoma Filadelfia.</Caption>
+  </MediaLink>
+  <SpanishTermName>gen de fusión BCR-ABL1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que se forma cuando fragmentos de los cromosomas 9 y 22 se rompen e intercambian de posición. El gen 
+      <GeneName>ABL1</GeneName>
+       del cromosoma 9 se une al gen 
+      <GeneName>BCR</GeneName>
+       del cromosoma 22 y forman el gen de fusión 
+      <GeneName>BCR</GeneName>
+      -
+      <GeneName>ABL1</GeneName>
+      . El cromosoma 22 modificado que contiene el gen de fusión se llama cromosoma Filadelfia. El gen de fusión 
+      <GeneName>BCR</GeneName>
+      -
+      <GeneName>ABL1</GeneName>
+       se encuentra en la mayoría de los pacientes con leucemia mielógena crónica (LMC) y en algunos pacientes con leucemia linfoblástica aguda (LLA) o leucemia mielógena aguda (LMA). También se llama gen de fusión BCR::ABL1.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-03-06</DateFirstPublished>
+  <DateLastModified>2024-10-29</DateLastModified>
+</GlossaryTerm>

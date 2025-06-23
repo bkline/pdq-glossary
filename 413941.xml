@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000413941"><TermName>Alkeran Tablets</TermName><TermPronunciation>(AL-keh-ran TA-blets)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat multiple myeloma and ovarian epithelial cancer that cannot be removed by surgery. It is also being studied in the treatment of other types of cancer. Alkeran Tablets may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called melphalan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733103" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alkeran Tablets&quot;" language="en" id="_10"/><MediaLink ref="CDR0000733102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alkeran en comprimidos&quot;" language="es" id="_11"/><SpanishTermName>Alkeran en comprimidos</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del mieloma múltiple y el cáncer epitelial de ovario que no se puede extirpar mediante cirugía. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Alkeran destruya células cancerosas porque daña su DNA y evita su multiplicación. Es un tipo de alquilante. También se llama Alkeran en tabletas y melfalán.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000779086" url="/about-cancer/treatment/drugs/melphalan">Melphalan</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413941">
+  <TermName>Alkeran Tablets</TermName>
+  <TermPronunciation>(AL-keh-ran TA-blets)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat multiple myeloma and ovarian epithelial cancer that cannot be removed by surgery. It is also being studied in the treatment of other types of cancer. Alkeran Tablets may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called melphalan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733103" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alkeran Tablets&quot;" language="en" id="_10"/>
+  <MediaLink ref="CDR0000733102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alkeran en comprimidos&quot;" language="es" id="_11"/>
+  <SpanishTermName>Alkeran en comprimidos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del mieloma múltiple y el cáncer epitelial de ovario que no se puede extirpar mediante cirugía. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Alkeran destruya células cancerosas porque daña su DNA y evita su multiplicación. Es un tipo de alquilante. También se llama Alkeran en tabletas y melfalán.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000779086" url="/about-cancer/treatment/drugs/melphalan">Melphalan</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

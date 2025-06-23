@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000763028"><TermName>Sanger sequencing</TermName><TermPronunciation>(SANG-er SEE-kwen-sing)</TermPronunciation><TermDefinition><DefinitionText>A low-throughput laboratory method used to determine the nucleotide sequence of a piece of DNA. Sanger sequencing uses polymerase chain reaction (PCR) to amplify the target DNA region and then sequences the PCR products.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000764449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Sanger sequencing&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;secuenciación de Sanger&quot;" language="es" id="_4"/><SpanishTermName>secuenciación de Sanger</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio de rendimiento bajo que se usa para determinar la secuencia de nucleótidos de una porción de ADN. En la secuenciación de Sanger se usa la reacción en cadena de la polimerasa (PCR) para amplificar las regiones de interés del ADN y luego se hace la secuenciación de los productos de la PCR.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2014-07-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000763028">
+  <TermName>Sanger sequencing</TermName>
+  <TermPronunciation>(SANG-er SEE-kwen-sing)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A low-throughput laboratory method used to determine the nucleotide sequence of a piece of DNA. Sanger sequencing uses polymerase chain reaction (PCR) to amplify the target DNA region and then sequences the PCR products.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000764449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Sanger sequencing&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;secuenciación de Sanger&quot;" language="es" id="_4"/>
+  <SpanishTermName>secuenciación de Sanger</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio de rendimiento bajo que se usa para determinar la secuencia de nucleótidos de una porción de ADN. En la secuenciación de Sanger se usa la reacción en cadena de la polimerasa (PCR) para amplificar las regiones de interés del ADN y luego se hace la secuenciación de los productos de la PCR.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-07-16</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000460138"><TermName>consanguinity</TermName><TermPronunciation>(KON-sang-GWIH-nih-tee)</TermPronunciation><TermDefinition><DefinitionText>Genetic relatedness between individuals who are descendants of at least one common ancestor.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consanguinity&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consanguinidad&quot;" language="es" id="_4"/><SpanishTermName>consanguinidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Parentesco genético entre descendientes de un ancestro común.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460138">
+  <TermName>consanguinity</TermName>
+  <TermPronunciation>(KON-sang-GWIH-nih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Genetic relatedness between individuals who are descendants of at least one common ancestor.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consanguinity&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consanguinidad&quot;" language="es" id="_4"/>
+  <SpanishTermName>consanguinidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parentesco genético entre descendientes de un ancestro común.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

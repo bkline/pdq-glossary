@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000784261"><TermName>lorvotuzumab mertansine</TermName><TermPronunciation>(LOR-voh-TOO-zoo-mab mer-TAN-seen)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of some types of cancer, including Wilms tumor, neuroblastoma, rhabdomyosarcoma, and other types of soft tissue sarcoma. Lorvotuzumab mertansine contains a monoclonal antibody that binds to a protein called CD56 on some types of cancer cells. It also contains an anticancer drug called DM1, which may help kill cancer cells after lorvotuzumab mertansine binds to them. Lorvotuzumab mertansine is a type of antibody-drug conjugate. Also called BB-10901.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lorvotuzumab mertansine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lorvotuzumab mertansina&quot;" language="es" id="_4"/><SpanishTermName>lorvotuzumab mertansina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer, como el tumor de Wilms, el neuroblastoma, el rabdomiosarcoma y otros tipos de sarcoma de tejido blando. El lorvotuzumab mertansina contiene un anticuerpo monoclonal que se une a una proteína que se llama CD56 en algunos tipos de células cancerosas. También contiene un medicamento contra el cáncer llamado DM1, que ayuda a destruir las células cancerosas después de que el lorvotuzumab mertansina se une a ellas. El lorvotuzumab mertansina es un tipo de conjugado anticuerpo-fármaco. También se llama BB-10901.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-03</DateFirstPublished><DateLastModified>2017-03-03</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784261">
+  <TermName>lorvotuzumab mertansine</TermName>
+  <TermPronunciation>(LOR-voh-TOO-zoo-mab mer-TAN-seen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of some types of cancer, including Wilms tumor, neuroblastoma, rhabdomyosarcoma, and other types of soft tissue sarcoma. Lorvotuzumab mertansine contains a monoclonal antibody that binds to a protein called CD56 on some types of cancer cells. It also contains an anticancer drug called DM1, which may help kill cancer cells after lorvotuzumab mertansine binds to them. Lorvotuzumab mertansine is a type of antibody-drug conjugate. Also called BB-10901.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lorvotuzumab mertansine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lorvotuzumab mertansina&quot;" language="es" id="_4"/>
+  <SpanishTermName>lorvotuzumab mertansina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer, como el tumor de Wilms, el neuroblastoma, el rabdomiosarcoma y otros tipos de sarcoma de tejido blando. El lorvotuzumab mertansina contiene un anticuerpo monoclonal que se une a una proteína que se llama CD56 en algunos tipos de células cancerosas. También contiene un medicamento contra el cáncer llamado DM1, que ayuda a destruir las células cancerosas después de que el lorvotuzumab mertansina se une a ellas. El lorvotuzumab mertansina es un tipo de conjugado anticuerpo-fármaco. También se llama BB-10901.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-03</DateFirstPublished>
+  <DateLastModified>2017-03-03</DateLastModified>
+</GlossaryTerm>

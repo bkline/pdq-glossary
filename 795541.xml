@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000795541"><TermName>Lorbrena</TermName><TermPronunciation>(lor-BREH-nuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer that has spread to other parts of the body and is ALK positive. It is also being studied in the treatment of other types of cancer. Lorbrena blocks certain proteins made by the <GeneName>ALK</GeneName> gene. Blocking these proteins may stop the growth and spread of cancer cells. Lorbrena is a type of tyrosine kinase inhibitor. Also called lorlatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796117" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lorbrena&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796116" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lorbrena&quot;" language="es" id="_4"/><SpanishTermName>Lorbrena</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas positivo para ALK que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer. Lorbrena bloquea ciertas proteínas que se originan del gen <GeneName>ALK</GeneName>, lo que quizás impida la multiplicación y diseminación de las células cancerosas. Lorbrena es un tipo de inhibidor de tirosina–cinasas. También se llama lorlatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-11-06</DateFirstPublished><DateLastModified>2021-03-18</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000795538" url="/about-cancer/treatment/drugs/lorlatinib">Lorlatinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000795541">
+  <TermName>Lorbrena</TermName>
+  <TermPronunciation>(lor-BREH-nuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer that has spread to other parts of the body and is ALK positive. It is also being studied in the treatment of other types of cancer. Lorbrena blocks certain proteins made by the 
+      <GeneName>ALK</GeneName>
+       gene. Blocking these proteins may stop the growth and spread of cancer cells. Lorbrena is a type of tyrosine kinase inhibitor. Also called lorlatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796117" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lorbrena&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796116" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lorbrena&quot;" language="es" id="_4"/>
+  <SpanishTermName>Lorbrena</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas positivo para ALK que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer. Lorbrena bloquea ciertas proteínas que se originan del gen 
+      <GeneName>ALK</GeneName>
+      , lo que quizás impida la multiplicación y diseminación de las células cancerosas. Lorbrena es un tipo de inhibidor de tirosina–cinasas. También se llama lorlatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-11-06</DateFirstPublished>
+  <DateLastModified>2021-03-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000795538" url="/about-cancer/treatment/drugs/lorlatinib">Lorlatinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000799490"><TermName>chemokine</TermName><TermPronunciation>(KEE-moh-kine)</TermPronunciation><TermDefinition><DefinitionText>One of a large group of proteins that is made by certain immune cells and other cells in the body. Chemokines play an important role in the body’s immune response. They stimulate the movement of certain types of white blood cells and attract them to areas of inflammation to help the body fight infections, inflammatory conditions, and other diseases. They also help keep the immune system working the way it should. A chemokine is a type of cytokine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802539" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chemokine&quot;" language="en" id="_5"/><MediaLink ref="CDR0000802540" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimiocina&quot;" language="es" id="_6"/><SpanishTermName>quimiocina</SpanishTermName><SpanishTermDefinition><DefinitionText>Cada una de las proteínas de un grupo numeroso producidas por determinadas células inmunitarias y otras células del cuerpo. Las quimiocinas cumplen una función importante en la respuesta inmunitaria, estimulan el movimiento de ciertos tipos de glóbulos blancos y los atraen a las áreas de inflamación para ayudar al cuerpo a combatir infecciones, afecciones inflamatorias y otras enfermedades. Además, sirven para mantener el funcionamiento normal del sistema inmunitario. Una quimiocina es un tipo de citocina. También se llama citocina quimiotáctica y quimioquina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-02-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799490">
+  <TermName>chemokine</TermName>
+  <TermPronunciation>(KEE-moh-kine)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One of a large group of proteins that is made by certain immune cells and other cells in the body. Chemokines play an important role in the body’s immune response. They stimulate the movement of certain types of white blood cells and attract them to areas of inflammation to help the body fight infections, inflammatory conditions, and other diseases. They also help keep the immune system working the way it should. A chemokine is a type of cytokine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802539" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chemokine&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000802540" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimiocina&quot;" language="es" id="_6"/>
+  <SpanishTermName>quimiocina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cada una de las proteínas de un grupo numeroso producidas por determinadas células inmunitarias y otras células del cuerpo. Las quimiocinas cumplen una función importante en la respuesta inmunitaria, estimulan el movimiento de ciertos tipos de glóbulos blancos y los atraen a las áreas de inflamación para ayudar al cuerpo a combatir infecciones, afecciones inflamatorias y otras enfermedades. Además, sirven para mantener el funcionamiento normal del sistema inmunitario. Una quimiocina es un tipo de citocina. También se llama citocina quimiotáctica y quimioquina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-02-12</DateFirstPublished>
+</GlossaryTerm>

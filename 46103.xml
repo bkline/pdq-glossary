@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046103"><TermName>stage I hypopharyngeal cancer</TermName><TermPronunciation>(... HY-poh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer is found in only one area of the hypopharynx and/or the tumor is 2 centimeters or smaller.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707678" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I hypopharyngeal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707679" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de hipofaringe en estadio I&quot;" language="es" id="_4"/><SpanishTermName>cáncer de hipofaringe en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio I, el cáncer se formó solo en un área de la hipofaringe o el tumor mide 2 cm o menos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-09-30</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258014" url="/types/head-and-neck/patient/adult/hypopharyngeal-treatment-pdq">Hypopharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256820" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq">Tratamiento del cáncer de hipofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046103">
+  <TermName>stage I hypopharyngeal cancer</TermName>
+  <TermPronunciation>(... HY-poh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer is found in only one area of the hypopharynx and/or the tumor is 2 centimeters or smaller.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707678" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I hypopharyngeal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707679" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de hipofaringe en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de hipofaringe en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio I, el cáncer se formó solo en un área de la hipofaringe o el tumor mide 2 cm o menos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-09-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258014" url="/types/head-and-neck/patient/adult/hypopharyngeal-treatment-pdq">Hypopharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256820" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq">Tratamiento del cáncer de hipofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

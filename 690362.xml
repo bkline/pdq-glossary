@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000690362"><TermName>Prolia</TermName><TermPronunciation>(PROH-lee-uh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient denosumab and is used to treat certain bone problems. Prolia is used to increase bone mass in certain patients with breast cancer or prostate cancer who have a high risk of breaking bones. It is also used to treat osteoporosis in certain patients  who have a high risk of breaking bones.  Prolia binds to a protein called RANKL, which keeps RANKL from binding to another protein called RANK on the surface of certain bone cells. This may help keep bone from breaking down.   Prolia is a type of monoclonal antibody.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727542" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Prolia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727541" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Prolia&quot;" language="es" id="_4"/><SpanishTermName>Prolia</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el ingrediente activo denosumab, que se usa para tratar ciertos problemas óseos. Prolia se usa  para aumentar la masa ósea en ciertos pacientes con cáncer de mama o cáncer de próstata que tienen un riesgo alto de fracturas de huesos. También se usa para tratar la osteoporosis  en algunos pacientes que tienen un riesgo alto de fracturas de huesos. Prolia se une a una proteína llamada RANKL e impide que RANKL se una a otra proteína llamada RANK en la superficie de ciertas células óseas, como las células del cáncer de hueso. Esto quizás impida el deterioro de los huesos. Prolia es un tipo de anticuerpo monoclonal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-12-10</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000689968" url="/about-cancer/treatment/drugs/denosumab">Denosumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000690362">
+  <TermName>Prolia</TermName>
+  <TermPronunciation>(PROH-lee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient denosumab and is used to treat certain bone problems. Prolia is used to increase bone mass in certain patients with breast cancer or prostate cancer who have a high risk of breaking bones. It is also used to treat osteoporosis in certain patients  who have a high risk of breaking bones.  Prolia binds to a protein called RANKL, which keeps RANKL from binding to another protein called RANK on the surface of certain bone cells. This may help keep bone from breaking down.   Prolia is a type of monoclonal antibody.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727542" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Prolia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727541" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Prolia&quot;" language="es" id="_4"/>
+  <SpanishTermName>Prolia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el ingrediente activo denosumab, que se usa para tratar ciertos problemas óseos. Prolia se usa  para aumentar la masa ósea en ciertos pacientes con cáncer de mama o cáncer de próstata que tienen un riesgo alto de fracturas de huesos. También se usa para tratar la osteoporosis  en algunos pacientes que tienen un riesgo alto de fracturas de huesos. Prolia se une a una proteína llamada RANKL e impide que RANKL se una a otra proteína llamada RANK en la superficie de ciertas células óseas, como las células del cáncer de hueso. Esto quizás impida el deterioro de los huesos. Prolia es un tipo de anticuerpo monoclonal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-12-10</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000689968" url="/about-cancer/treatment/drugs/denosumab">Denosumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

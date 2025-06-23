@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000805144"><TermName>amivantamab</TermName><TermPronunciation>(A-mih-VAN-tuh-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with non-small cell lung cancer that has spread and has an abnormal <GeneName>EGFR</GeneName> gene. It is used in patients whose cancer has not been treated with other anticancer therapy or has gotten worse during or after treatment with an EGFR tyrosine kinase inhibitor (a type of anticancer drug) or platinum chemotherapy. It is also being studied in the treatment of other types of cancer. Amivantamab binds to receptors for proteins called EGF and MET, which are found on some types of cancer cells. Blocking these proteins may help keep cancer cells from growing. Amivantamab is a type of bispecific antibody. Also called Rybrevant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805982" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;amivantamab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805983" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;amivantamab&quot;" language="es" id="_4"/><SpanishTermName>amivantamab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo, o con otros medicamentos, para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó y que tiene un gen <GeneName>EGFR</GeneName> anormal. Se utiliza en pacientes que no han recibido otro tratamiento contra el cáncer o que empeoraron  durante el tratamiento con un inhibidor de la tirosina–cinasa del EGFR (tipo de medicamento contra el cáncer) o quimioterapia con derivados del platino, o después de este. También está en estudio para el tratamiento de otros tipos de cáncer.  El amivantamab se une a los receptores de unas proteínas llamadas EGF y MET, que se encuentran en algunos tipos de células cancerosas. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas. El amivantamab es un tipo de anticuerpo biespecífico. También se llama Rybrevant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-05-25</DateFirstPublished><DateLastModified>2024-09-30</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000805408" url="/about-cancer/treatment/drugs/amivantamab-vmjw">Amivantamab-vmjw</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805144">
+  <TermName>amivantamab</TermName>
+  <TermPronunciation>(A-mih-VAN-tuh-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used alone or with other drugs to treat adults with non-small cell lung cancer that has spread and has an abnormal 
+      <GeneName>EGFR</GeneName>
+       gene. It is used in patients whose cancer has not been treated with other anticancer therapy or has gotten worse during or after treatment with an EGFR tyrosine kinase inhibitor (a type of anticancer drug) or platinum chemotherapy. It is also being studied in the treatment of other types of cancer. Amivantamab binds to receptors for proteins called EGF and MET, which are found on some types of cancer cells. Blocking these proteins may help keep cancer cells from growing. Amivantamab is a type of bispecific antibody. Also called Rybrevant.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805982" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;amivantamab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805983" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;amivantamab&quot;" language="es" id="_4"/>
+  <SpanishTermName>amivantamab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa solo, o con otros medicamentos, para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó y que tiene un gen 
+      <GeneName>EGFR</GeneName>
+       anormal. Se utiliza en pacientes que no han recibido otro tratamiento contra el cáncer o que empeoraron  durante el tratamiento con un inhibidor de la tirosina–cinasa del EGFR (tipo de medicamento contra el cáncer) o quimioterapia con derivados del platino, o después de este. También está en estudio para el tratamiento de otros tipos de cáncer.  El amivantamab se une a los receptores de unas proteínas llamadas EGF y MET, que se encuentran en algunos tipos de células cancerosas. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas. El amivantamab es un tipo de anticuerpo biespecífico. También se llama Rybrevant.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-05-25</DateFirstPublished>
+  <DateLastModified>2024-09-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000805408" url="/about-cancer/treatment/drugs/amivantamab-vmjw">Amivantamab-vmjw</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

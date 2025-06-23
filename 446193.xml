@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000446193"><TermName>photon beam radiation therapy</TermName><TermPronunciation>(FOH-ton beem RAY-dee-AY-shun THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A type of radiation therapy that uses x-rays or gamma rays that come from a special machine called a linear accelerator (linac). The radiation dose is delivered at the surface of the body and goes into the tumor and through the body. Photon beam radiation therapy is different from proton beam therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photon beam radiation therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radioterapia con haz de fotones&quot;" language="es" id="_7"/><SpanishTermName>radioterapia con haz de fotones</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de radioterapia para la que se usan rayos X o rayos gamma que salen de una máquina especial que se llama acelerador linear (linac). La dosis de radiación se aplica en la superficie del cuerpo y atraviesa el cuerpo hasta llegar al tumor. La radioterapia con haz de fotones es diferente de la radioterapia con haz de protones. También se llama radioterapia con haz de fotón y radioterapia de fotones.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-14</DateFirstPublished><DateLastModified>2010-08-27</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446193">
+  <TermName>photon beam radiation therapy</TermName>
+  <TermPronunciation>(FOH-ton beem RAY-dee-AY-shun THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of radiation therapy that uses x-rays or gamma rays that come from a special machine called a linear accelerator (linac). The radiation dose is delivered at the surface of the body and goes into the tumor and through the body. Photon beam radiation therapy is different from proton beam therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photon beam radiation therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radioterapia con haz de fotones&quot;" language="es" id="_7"/>
+  <SpanishTermName>radioterapia con haz de fotones</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de radioterapia para la que se usan rayos X o rayos gamma que salen de una máquina especial que se llama acelerador linear (linac). La dosis de radiación se aplica en la superficie del cuerpo y atraviesa el cuerpo hasta llegar al tumor. La radioterapia con haz de fotones es diferente de la radioterapia con haz de protones. También se llama radioterapia con haz de fotón y radioterapia de fotones.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-14</DateFirstPublished>
+  <DateLastModified>2010-08-27</DateLastModified>
+</GlossaryTerm>

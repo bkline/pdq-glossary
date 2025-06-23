@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000796469"><TermName>calaspargase pegol</TermName><TermPronunciation>(kal-AS-par-jays PEH-gol)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to treat acute lymphoblastic leukemia in children and young adults aged 1 month to 21 years.  It is also being studied in the treatment of other types of cancer.  Calaspargase pegol is made up of the enzyme L-asparaginase that is linked to a substance called SC-PEG, which makes the drug stay in the body longer. L-asparaginase comes from the bacterium <ScientificName>E. coli</ScientificName> and breaks down the amino acid asparagine. This may stop the growth of cancer cells that need asparagine to grow. Calaspargase pegol  is a type of  protein synthesis inhibitor. Also called Asparlas, EZN-2285, and SC-PEG E. coli L-asparaginase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;calaspargase pegol&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;calaspargasa pegol&quot;" language="es" id="_4"/><SpanishTermName>calaspargasa pegol</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento de la leucemia linfoblástica aguda en niños y adultos jóvenes (1 mes a 21 años de edad). También está en estudio para el tratamiento de otros tipos de cáncer. La calaspargasa pegol contiene la enzima L-asparaginasa unida a una sustancia llamada SC-PEG que permite que el medicamento permanezca más tiempo en el cuerpo. La L-asparaginasa se obtiene de la bacteria <ScientificName>E. coli</ScientificName> y su función es descomponer el aminoácido asparagina.    Es posible que de esta manera se detenga la multiplicación de las células cancerosas que necesitan asparaginasa para multiplicarse. La calaspargasa pegol es un tipo de inhibidor de la síntesis de proteínas. También se llama Asparlas, EZN-2285 y L-asparaginasa de E. coli con SC-PEG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-31</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000796477" url="/about-cancer/treatment/drugs/calaspargasepegol-mknl">Calaspargase Pegol-mknl</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796469">
+  <TermName>calaspargase pegol</TermName>
+  <TermPronunciation>(kal-AS-par-jays PEH-gol)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used with other drugs to treat acute lymphoblastic leukemia in children and young adults aged 1 month to 21 years.  It is also being studied in the treatment of other types of cancer.  Calaspargase pegol is made up of the enzyme L-asparaginase that is linked to a substance called SC-PEG, which makes the drug stay in the body longer. L-asparaginase comes from the bacterium 
+      <ScientificName>E. coli</ScientificName>
+       and breaks down the amino acid asparagine. This may stop the growth of cancer cells that need asparagine to grow. Calaspargase pegol  is a type of  protein synthesis inhibitor. Also called Asparlas, EZN-2285, and SC-PEG E. coli L-asparaginase.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;calaspargase pegol&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;calaspargasa pegol&quot;" language="es" id="_4"/>
+  <SpanishTermName>calaspargasa pegol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa con otros medicamentos para el tratamiento de la leucemia linfoblástica aguda en niños y adultos jóvenes (1 mes a 21 años de edad). También está en estudio para el tratamiento de otros tipos de cáncer. La calaspargasa pegol contiene la enzima L-asparaginasa unida a una sustancia llamada SC-PEG que permite que el medicamento permanezca más tiempo en el cuerpo. La L-asparaginasa se obtiene de la bacteria 
+      <ScientificName>E. coli</ScientificName>
+       y su función es descomponer el aminoácido asparagina.    Es posible que de esta manera se detenga la multiplicación de las células cancerosas que necesitan asparaginasa para multiplicarse. La calaspargasa pegol es un tipo de inhibidor de la síntesis de proteínas. También se llama Asparlas, EZN-2285 y L-asparaginasa de E. coli con SC-PEG.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-31</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000796477" url="/about-cancer/treatment/drugs/calaspargasepegol-mknl">Calaspargase Pegol-mknl</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

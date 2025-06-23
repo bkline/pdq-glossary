@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045078"><TermName>sham-controlled</TermName><TermPronunciation>(... kun-TROLD)</TermPronunciation><TermDefinition><DefinitionText>An inactive procedure that is designed to mimic as closely as possible the active procedure being studied in a clinical trial. For example, in sham acupuncture, needles that look and feel like the needles used in active acupuncture therapy are used except the needles are not actually inserted into the skin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sham-controlled&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;simulación controlada&quot;" language="es" id="_4"/><SpanishTermName>simulación controlada</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento inactivo que está diseñado para imitar lo mejor posible el procedimiento activo que está en estudio en un ensayo clínico. Por ejemplo, en la acupuntura simulada se utilizan agujas que se ven y se sienten como las utilizadas en la terapia de acupuntura activa, salvo que las agujas no se insertan en realidad en la piel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-03-15</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000458088" url="/about-cancer/treatment/cam/patient/acupuncture-pdq">Acupuncture</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000765469" url="/espanol/cancer/tratamiento/mca/paciente/acupuntura-pdq">Acupuntura</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045078">
+  <TermName>sham-controlled</TermName>
+  <TermPronunciation>(... kun-TROLD)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An inactive procedure that is designed to mimic as closely as possible the active procedure being studied in a clinical trial. For example, in sham acupuncture, needles that look and feel like the needles used in active acupuncture therapy are used except the needles are not actually inserted into the skin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sham-controlled&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;simulación controlada&quot;" language="es" id="_4"/>
+  <SpanishTermName>simulación controlada</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento inactivo que está diseñado para imitar lo mejor posible el procedimiento activo que está en estudio en un ensayo clínico. Por ejemplo, en la acupuntura simulada se utilizan agujas que se ven y se sienten como las utilizadas en la terapia de acupuntura activa, salvo que las agujas no se insertan en realidad en la piel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-03-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000458088" url="/about-cancer/treatment/cam/patient/acupuncture-pdq">Acupuncture</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000765469" url="/espanol/cancer/tratamiento/mca/paciente/acupuntura-pdq">Acupuntura</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

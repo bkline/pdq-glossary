@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000046474"><TermName>CEA</TermName><TermDefinition><DefinitionText>A substance that may be found in the blood of people who have colon cancer, other types of cancer or diseases, or who smoke tobacco. CEA levels may help keep track of how well cancer treatments are working or if cancer has come back. It is a type of tumor marker. Also called carcinoembryonic antigen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ACE</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que a veces se encuentra en la sangre de las personas que tienen cáncer de colon, otros tipos de cáncer o enfermedades, o que fuman tabaco. Las concentraciones de ACE pueden servir para verificar si el tratamiento del cáncer está funcionando o si el cáncer volvió. Es un tipo de marcador tumoral. También se llama antígeno carcinoembrionario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2010-12-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046474">
+  <TermName>CEA</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance that may be found in the blood of people who have colon cancer, other types of cancer or diseases, or who smoke tobacco. CEA levels may help keep track of how well cancer treatments are working or if cancer has come back. It is a type of tumor marker. Also called carcinoembryonic antigen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ACE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que a veces se encuentra en la sangre de las personas que tienen cáncer de colon, otros tipos de cáncer o enfermedades, o que fuman tabaco. Las concentraciones de ACE pueden servir para verificar si el tratamiento del cáncer está funcionando o si el cáncer volvió. Es un tipo de marcador tumoral. También se llama antígeno carcinoembrionario.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2010-12-13</DateLastModified>
+</GlossaryTerm>

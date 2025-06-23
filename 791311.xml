@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000791311"><TermName>extragonadal extracranial germ cell tumor</TermName><TermPronunciation>(EK-struh-goh-NA-dul EK-struh-KRAY-nee-ul jerm sel TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare type of tumor that begins in germ cells (cells that form sperm or eggs) found in areas of the body other than the testicle, ovary, or brain. Most extragonadal extracranial germ cell tumors form either in the sacrum (the large, triangle-shaped bone in the lower spine that forms part of the pelvis) and tailbone, or in the chest area and back of the abdomen. They may be benign (not cancer) or malignant (cancer) and occur most often in children and young adults.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793300" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extragonadal extracranial germ cell tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793301" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor extragonadal y extracraneal de células germinativas&quot;" language="es" id="_4"/><SpanishTermName>tumor extragonadal y extracraneal de células germinativas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer poco común que empieza en las células germinativas (células que forman los espermatozoides o los óvulos) que se encuentran en áreas del cuerpo fuera de los ovarios, los testículos y el encéfalo. La mayoría se forman en el sacro (hueso triangular grande en la parte inferior de la columna vertebral que es parte de la pelvis) y el cóccix, también se forman en el tórax y la parte posterior del abdomen. Estos tumores son benignos (no cancerosos) o malignos (cancerosos), y se presentan con más frecuencia en los niños y adultos jóvenes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791311">
+  <TermName>extragonadal extracranial germ cell tumor</TermName>
+  <TermPronunciation>(EK-struh-goh-NA-dul EK-struh-KRAY-nee-ul jerm sel TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of tumor that begins in germ cells (cells that form sperm or eggs) found in areas of the body other than the testicle, ovary, or brain. Most extragonadal extracranial germ cell tumors form either in the sacrum (the large, triangle-shaped bone in the lower spine that forms part of the pelvis) and tailbone, or in the chest area and back of the abdomen. They may be benign (not cancer) or malignant (cancer) and occur most often in children and young adults.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793300" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extragonadal extracranial germ cell tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793301" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor extragonadal y extracraneal de células germinativas&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor extragonadal y extracraneal de células germinativas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer poco común que empieza en las células germinativas (células que forman los espermatozoides o los óvulos) que se encuentran en áreas del cuerpo fuera de los ovarios, los testículos y el encéfalo. La mayoría se forman en el sacro (hueso triangular grande en la parte inferior de la columna vertebral que es parte de la pelvis) y el cóccix, también se forman en el tórax y la parte posterior del abdomen. Estos tumores son benignos (no cancerosos) o malignos (cancerosos), y se presentan con más frecuencia en los niños y adultos jóvenes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-09</DateFirstPublished>
+</GlossaryTerm>

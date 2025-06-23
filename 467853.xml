@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000467853"><TermName>outcome</TermName><TermPronunciation>(OWT-kum)</TermPronunciation><TermDefinition><DefinitionText>A specific result or effect that can be measured. Examples of outcomes include decreased pain, reduced tumor size, and improvement of disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733187" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;outcome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;desenlace&quot;" language="es" id="_6"/><SpanishTermName>desenlace</SpanishTermName><SpanishTermDefinition><DefinitionText>Efecto específico que se puede medir, como la disminución del dolor, la reducción del tamaño de un tumor o la mejoría de una enfermedad. También se llama resultado final.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000467853">
+  <TermName>outcome</TermName>
+  <TermPronunciation>(OWT-kum)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A specific result or effect that can be measured. Examples of outcomes include decreased pain, reduced tumor size, and improvement of disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733187" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;outcome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;desenlace&quot;" language="es" id="_6"/>
+  <SpanishTermName>desenlace</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Efecto específico que se puede medir, como la disminución del dolor, la reducción del tamaño de un tumor o la mejoría de una enfermedad. También se llama resultado final.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-11</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801715"><TermName>HRR pathway</TermName><TermPronunciation>(… PATH-way)</TermPronunciation><TermDefinition><DefinitionText>Describes a process in a cell in which a group of proteins work together to repair DNA damage. Changes in the HRR pathway that result in the inability to repair DNA may lead to diseases such as cancer. Drugs that affect this pathway are being studied in the prevention and treatment of cancer and other diseases. Also called homologous recombination repair pathway.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HRR pathway&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804381" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vía HRR&quot;" language="es" id="_4"/><SpanishTermName>vía HRR</SpanishTermName><SpanishTermDefinition><DefinitionText>Describe un proceso de la célula en el que un grupo de proteínas trabajan juntas para reparar el daño al ADN. Los cambios en la vía HRR que resultan en la incapacidad de reparar el ADN a veces causan enfermedades como el cáncer. Los medicamentos que afectan esta vía están en estudio para la prevención y el tratamiento del cáncer y otras enfermedades. También se llama vía de reparación por recombinación homóloga.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801715">
+  <TermName>HRR pathway</TermName>
+  <TermPronunciation>(… PATH-way)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes a process in a cell in which a group of proteins work together to repair DNA damage. Changes in the HRR pathway that result in the inability to repair DNA may lead to diseases such as cancer. Drugs that affect this pathway are being studied in the prevention and treatment of cancer and other diseases. Also called homologous recombination repair pathway.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HRR pathway&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804381" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vía HRR&quot;" language="es" id="_4"/>
+  <SpanishTermName>vía HRR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Describe un proceso de la célula en el que un grupo de proteínas trabajan juntas para reparar el daño al ADN. Los cambios en la vía HRR que resultan en la incapacidad de reparar el ADN a veces causan enfermedades como el cáncer. Los medicamentos que afectan esta vía están en estudio para la prevención y el tratamiento del cáncer y otras enfermedades. También se llama vía de reparación por recombinación homóloga.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-02</DateFirstPublished>
+</GlossaryTerm>

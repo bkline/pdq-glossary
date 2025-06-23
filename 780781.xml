@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000780781"><TermName>BuMel regimen</TermName><TermPronunciation>(… REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to prepare patients with high-risk neuroblastoma for a stem cell transplant. It is also being studied in the treatment of other types of cancer. BuMel regimen includes the drugs busulfan and melphalan hydrochloride. Also called BuMel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782463" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;BuMel regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000782462" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen BuMel&quot;" language="es" id="_4"/><SpanishTermName>régimen BuMel</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa a fin de preparar a los pacientes con neuroblastoma de riesgo alto para un trasplante de células madre. También está en estudio para el tratamiento de otros tipos de cáncer.  El régimen BuMel incluye los medicamentos busulfano y clorhidrato de melfalán. También se llama BuMel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-06-16</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000781712" url="/about-cancer/treatment/drugs/BuMel">BuMel</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780781">
+  <TermName>BuMel regimen</TermName>
+  <TermPronunciation>(… REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to prepare patients with high-risk neuroblastoma for a stem cell transplant. It is also being studied in the treatment of other types of cancer. BuMel regimen includes the drugs busulfan and melphalan hydrochloride. Also called BuMel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782463" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;BuMel regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000782462" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen BuMel&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen BuMel</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa a fin de preparar a los pacientes con neuroblastoma de riesgo alto para un trasplante de células madre. También está en estudio para el tratamiento de otros tipos de cáncer.  El régimen BuMel incluye los medicamentos busulfano y clorhidrato de melfalán. También se llama BuMel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-06-16</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000781712" url="/about-cancer/treatment/drugs/BuMel">BuMel</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

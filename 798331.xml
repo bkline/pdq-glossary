@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798331"><TermName>vascular system</TermName><TermPronunciation>(VAS-kyoo-ler SIS-tem)</TermPronunciation><TermDefinition><DefinitionText>A large network of blood vessels and lymph vessels that moves blood and lymph throughout the body. The blood vessels carry blood between the heart and the tissues and organs in the body. They also carry oxygen and other gases, nutrients, and hormones to the tissues and help them get rid of waste products. The lymph vessels carry lymph from tissues in different parts of the body to the bloodstream through a large vein near the heart. The vascular system helps control the amount of fluid in the body and helps protect it from infection and disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000800967" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vascular system&quot;" language="en" id="_3"/><MediaLink ref="CDR0000800968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sistema circulatorio vascular y linfático&quot;" language="es" id="_4"/><SpanishTermName>sistema circulatorio vascular y linfático</SpanishTermName><SpanishTermDefinition><DefinitionText>Red extensa de vasos sanguíneos y vasos linfáticos por donde circula la sangre y la linfa en  todo el cuerpo.  Los vasos sanguíneos llevan la sangre desde el corazón hasta los tejidos y órganos del cuerpo. También llevan el oxígeno y otros gases, nutrientes y hormonas a los tejidos, además ayudan a eliminar los desechos. Los vasos linfáticos llevan la linfa desde los tejidos en diferentes partes del cuerpo hasta el torrente sanguíneo por una vena grande cerca del corazón. El sistema circulatorio vascular y linfático ayuda a controlar la cantidad de líquido en el cuerpo y lo protege de infecciones y enfermedades.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798331">
+  <TermName>vascular system</TermName>
+  <TermPronunciation>(VAS-kyoo-ler SIS-tem)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A large network of blood vessels and lymph vessels that moves blood and lymph throughout the body. The blood vessels carry blood between the heart and the tissues and organs in the body. They also carry oxygen and other gases, nutrients, and hormones to the tissues and help them get rid of waste products. The lymph vessels carry lymph from tissues in different parts of the body to the bloodstream through a large vein near the heart. The vascular system helps control the amount of fluid in the body and helps protect it from infection and disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000800967" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vascular system&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000800968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sistema circulatorio vascular y linfático&quot;" language="es" id="_4"/>
+  <SpanishTermName>sistema circulatorio vascular y linfático</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Red extensa de vasos sanguíneos y vasos linfáticos por donde circula la sangre y la linfa en  todo el cuerpo.  Los vasos sanguíneos llevan la sangre desde el corazón hasta los tejidos y órganos del cuerpo. También llevan el oxígeno y otros gases, nutrientes y hormonas a los tejidos, además ayudan a eliminar los desechos. Los vasos linfáticos llevan la linfa desde los tejidos en diferentes partes del cuerpo hasta el torrente sanguíneo por una vena grande cerca del corazón. El sistema circulatorio vascular y linfático ayuda a controlar la cantidad de líquido en el cuerpo y lo protege de infecciones y enfermedades.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-08</DateFirstPublished>
+</GlossaryTerm>

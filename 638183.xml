@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000638183"><TermName>atypical lobular hyperplasia</TermName><TermPronunciation>(ay-TIH-pih-kul LAH-byoo-ler HY-per-PLAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>A benign (not cancer) condition in which there are more cells than normal in the breast lobules and the cells look abnormal under a microscope. Having atypical lobular hyperplasia increases the risk of breast cancer. Also called ALH and atypical lobular breast hyperplasia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000723070" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atypical lobular hyperplasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000723071" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hiperplasia lobulillar atípica&quot;" language="es" id="_4"/><SpanishTermName>hiperplasia lobulillar atípica</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección benigna (no cancerosa) en la que hay más  células de lo normal en los lobulillos de la mama (seno) y el aspecto de las células al microscopio es anormal. Tener hiperplasia lobulillar atípica  aumenta el riesgo de cáncer de mama. También se llama ALH e hiperplasia lobulillar atípica de la mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-04-10</DateFirstPublished><DateLastModified>2009-04-27</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000638183">
+  <TermName>atypical lobular hyperplasia</TermName>
+  <TermPronunciation>(ay-TIH-pih-kul LAH-byoo-ler HY-per-PLAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A benign (not cancer) condition in which there are more cells than normal in the breast lobules and the cells look abnormal under a microscope. Having atypical lobular hyperplasia increases the risk of breast cancer. Also called ALH and atypical lobular breast hyperplasia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000723070" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atypical lobular hyperplasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000723071" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hiperplasia lobulillar atípica&quot;" language="es" id="_4"/>
+  <SpanishTermName>hiperplasia lobulillar atípica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección benigna (no cancerosa) en la que hay más  células de lo normal en los lobulillos de la mama (seno) y el aspecto de las células al microscopio es anormal. Tener hiperplasia lobulillar atípica  aumenta el riesgo de cáncer de mama. También se llama ALH e hiperplasia lobulillar atípica de la mama.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-04-10</DateFirstPublished>
+  <DateLastModified>2009-04-27</DateLastModified>
+</GlossaryTerm>

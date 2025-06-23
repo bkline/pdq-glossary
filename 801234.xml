@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801234"><TermName>mandible</TermName><TermPronunciation>(MAN-dih-bul)</TermPronunciation><TermDefinition><DefinitionText>The mandible is the largest and strongest bone in the face. It forms the lower part of the jaw and part of the mouth. The mandible is the only moveable bone of the skull and is attached to muscles involved in chewing and other mouth movements. It also holds the bottom teeth in place. Also called lower jaw bone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802688" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mandible&quot;" language="en" id="_4"/><MediaLink ref="CDR0000802689" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mandíbula&quot;" language="es" id="_5"/><SpanishTermName>mandíbula</SpanishTermName><SpanishTermDefinition><DefinitionText>El hueso más grande y fuerte de la cara. Forma la parte inferior de la quijada y una porción de la boca, además en él se encuentran los dientes inferiores. La mandíbula es el único hueso de la cabeza que se mueve, fija los músculos de la masticación y de otros movimientos de la boca. También se llama hueso mandibular y maxilar inferior.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-06-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801234">
+  <TermName>mandible</TermName>
+  <TermPronunciation>(MAN-dih-bul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The mandible is the largest and strongest bone in the face. It forms the lower part of the jaw and part of the mouth. The mandible is the only moveable bone of the skull and is attached to muscles involved in chewing and other mouth movements. It also holds the bottom teeth in place. Also called lower jaw bone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802688" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mandible&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000802689" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mandíbula&quot;" language="es" id="_5"/>
+  <SpanishTermName>mandíbula</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El hueso más grande y fuerte de la cara. Forma la parte inferior de la quijada y una porción de la boca, además en él se encuentran los dientes inferiores. La mandíbula es el único hueso de la cabeza que se mueve, fija los músculos de la masticación y de otros movimientos de la boca. También se llama hueso mandibular y maxilar inferior.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-06-11</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000789082"><TermName>stage I papillary and follicular thyroid cancer (younger than 55 years)</TermName><TermPronunciation>(... PA-pih-LAYR-ee ... fuh-LIH-kyoo-ler THY-royd KAN-ser ...)</TermPronunciation><TermDefinition><DefinitionText>The tumor is any size and cancer may have spread to nearby tissues and lymph nodes. Cancer has not spread to other parts of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I papillary and follicular thyroid cancer (younger than 55 years)&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides papilar y folicular en estadio I (menores de 55 años)&quot;" language="es" id="_4"/><MediaLink ref="CDR0000779383" type="image/jpeg" alt="Stage I papillary and follicular thyroid cancer in patients younger than 55 years; drawing shows cancer in the thyroid gland. Also shown are the larynx and trachea." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Stage I papillary and follicular thyroid cancer in patients younger than 55 years. The tumor is any size and cancer may have spread to nearby tissues and lymph nodes. Cancer has not spread to other parts of the body.</Caption></MediaLink><MediaLink ref="CDR0000785847" type="image/jpeg" alt="Cáncer de tiroides papilar y folicular en estadio I en pacientes menores de 55 años. En la imagen se muestra cáncer en la glándula tiroidea. También se muestran la laringe y la tráquea." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Cáncer de tiroides papilar y folicular en estadio I en pacientes menores de 55 años. El tumor es de cualquier tamaño, y es posible que el cáncer se haya diseminado a los tejidos y ganglios linfáticos cercanos. El cáncer no se diseminó a otras partes del cuerpo.</Caption></MediaLink><SpanishTermName>cáncer de tiroides papilar y folicular en estadio I (menores de 55 años)</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor es de cualquier tamaño y es posible que el cáncer se haya diseminado a los tejidos y ganglios linfáticos cercanos. El cáncer no se diseminó a otras partes del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-05-22</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258038" url="/types/thyroid/patient/thyroid-treatment-pdq">Thyroid Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000584552" url="/espanol/tipos/tiroides/paciente/tratamiento-tiroides-pdq">Tratamiento del cáncer de tiroides</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789082">
+  <TermName>stage I papillary and follicular thyroid cancer (younger than 55 years)</TermName>
+  <TermPronunciation>(... PA-pih-LAYR-ee ... fuh-LIH-kyoo-ler THY-royd KAN-ser ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is any size and cancer may have spread to nearby tissues and lymph nodes. Cancer has not spread to other parts of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I papillary and follicular thyroid cancer (younger than 55 years)&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides papilar y folicular en estadio I (menores de 55 años)&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000779383" type="image/jpeg" alt="Stage I papillary and follicular thyroid cancer in patients younger than 55 years; drawing shows cancer in the thyroid gland. Also shown are the larynx and trachea." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Stage I papillary and follicular thyroid cancer in patients younger than 55 years. The tumor is any size and cancer may have spread to nearby tissues and lymph nodes. Cancer has not spread to other parts of the body.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000785847" type="image/jpeg" alt="Cáncer de tiroides papilar y folicular en estadio I en pacientes menores de 55 años. En la imagen se muestra cáncer en la glándula tiroidea. También se muestran la laringe y la tráquea." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Cáncer de tiroides papilar y folicular en estadio I en pacientes menores de 55 años. El tumor es de cualquier tamaño, y es posible que el cáncer se haya diseminado a los tejidos y ganglios linfáticos cercanos. El cáncer no se diseminó a otras partes del cuerpo.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de tiroides papilar y folicular en estadio I (menores de 55 años)</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor es de cualquier tamaño y es posible que el cáncer se haya diseminado a los tejidos y ganglios linfáticos cercanos. El cáncer no se diseminó a otras partes del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-05-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258038" url="/types/thyroid/patient/thyroid-treatment-pdq">Thyroid Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000584552" url="/espanol/tipos/tiroides/paciente/tratamiento-tiroides-pdq">Tratamiento del cáncer de tiroides</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

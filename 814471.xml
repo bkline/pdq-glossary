@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000814471"><TermName>repotrectinib</TermName><TermPronunciation>(REE-poh-TREK-tih-nib)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer that has spread and has an abnormal <GeneName>ROS1</GeneName> gene and  adults and children aged 12 years and older with certain types of solid tumors that have an <GeneName>NTRK</GeneName> gene fusion. It is also being studied in the treatment of other types of cancer. Repotrectinib blocks certain proteins involved in cell signaling and cell growth. Blocking these proteins may help keep cancer cells from growing. Repotrectinib is a type of kinase inhibitor. Also called Augtyro.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814929" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;repotrectinib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814930" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;repotrectinib&quot;" language="es" id="_4"/><SpanishTermName>repotrectinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó y que tiene un gen <GeneName>ROS1</GeneName> anormal. Así mismo, se usa en adultos y en niños de 12 años o más con determinados tipos de tumores sólidos que tienen una fusión génica de <GeneName>NTRK</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. El repotrectinib bloquea ciertas proteínas que participan en la señalización y la multiplicación celular. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas. El repotrectinib es un tipo de inhibidor de cinasas. También se llama Augtyro.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-11-21</DateFirstPublished><DateLastModified>2024-06-17</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000814464" url="/about-cancer/treatment/drugs/repotrectinib">Repotrectinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814471">
+  <TermName>repotrectinib</TermName>
+  <TermPronunciation>(REE-poh-TREK-tih-nib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer that has spread and has an abnormal 
+      <GeneName>ROS1</GeneName>
+       gene and  adults and children aged 12 years and older with certain types of solid tumors that have an 
+      <GeneName>NTRK</GeneName>
+       gene fusion. It is also being studied in the treatment of other types of cancer. Repotrectinib blocks certain proteins involved in cell signaling and cell growth. Blocking these proteins may help keep cancer cells from growing. Repotrectinib is a type of kinase inhibitor. Also called Augtyro.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814929" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;repotrectinib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814930" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;repotrectinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>repotrectinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó y que tiene un gen 
+      <GeneName>ROS1</GeneName>
+       anormal. Así mismo, se usa en adultos y en niños de 12 años o más con determinados tipos de tumores sólidos que tienen una fusión génica de 
+      <GeneName>NTRK</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. El repotrectinib bloquea ciertas proteínas que participan en la señalización y la multiplicación celular. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas. El repotrectinib es un tipo de inhibidor de cinasas. También se llama Augtyro.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-11-21</DateFirstPublished>
+  <DateLastModified>2024-06-17</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000814464" url="/about-cancer/treatment/drugs/repotrectinib">Repotrectinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

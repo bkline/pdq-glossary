@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000471770"><TermName>coronary artery bypass grafting</TermName><TermPronunciation>(KOR-uh-NAYR-ee AR-tuh-ree BY-pas GRAF-ting)</TermPronunciation><TermDefinition><DefinitionText>Surgery in which a healthy blood vessel taken from another part of the body is used to make a new path for blood around a blocked artery leading to the heart. This restores the flow of oxygen and nutrients to the heart. Also called aortocoronary bypass and CABG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716706" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;coronary artery bypass grafting&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716707" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;injerto de revascularización coronaria&quot;" language="es" id="_4"/><SpanishTermName>injerto de revascularización coronaria</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía en la que se toma un vaso sanguíneo sano de otra parte del cuerpo y se usa para crear una vía nueva en una arteria del corazón que se encuentra bloqueada, de manera que se establece un puente por donde la sangre pasa y evita la obstrucción. Esto restablece el flujo de oxígeno y nutrientes al corazón. También se llama DAC y derivación aortocoronaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-21</DateFirstPublished><DateLastModified>2008-09-18</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000471770">
+  <TermName>coronary artery bypass grafting</TermName>
+  <TermPronunciation>(KOR-uh-NAYR-ee AR-tuh-ree BY-pas GRAF-ting)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery in which a healthy blood vessel taken from another part of the body is used to make a new path for blood around a blocked artery leading to the heart. This restores the flow of oxygen and nutrients to the heart. Also called aortocoronary bypass and CABG.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716706" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;coronary artery bypass grafting&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716707" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;injerto de revascularización coronaria&quot;" language="es" id="_4"/>
+  <SpanishTermName>injerto de revascularización coronaria</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía en la que se toma un vaso sanguíneo sano de otra parte del cuerpo y se usa para crear una vía nueva en una arteria del corazón que se encuentra bloqueada, de manera que se establece un puente por donde la sangre pasa y evita la obstrucción. Esto restablece el flujo de oxígeno y nutrientes al corazón. También se llama DAC y derivación aortocoronaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-21</DateFirstPublished>
+  <DateLastModified>2008-09-18</DateLastModified>
+</GlossaryTerm>

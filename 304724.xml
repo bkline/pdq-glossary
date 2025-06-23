@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000304724"><TermName>bilateral prophylactic mastectomy</TermName><TermPronunciation>(by-LA-teh-rul PROH-fih-LAK-tik ma-STEK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery to remove both breasts in order to reduce the risk of developing breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709912" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bilateral prophylactic mastectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709911" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastectomía profiláctica bilateral&quot;" language="es" id="_4"/><SpanishTermName>mastectomía profiláctica bilateral</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar ambas mamas (senos) con el fin de reducir el riesgo de cáncer de mama. También se llama mastectomía bilateral para reducir el riesgo, mastectomía bilateral preventiva y mastectomía doble preventiva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><DateLastModified>2007-03-09</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet" UseWith="en">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva" UseWith="es">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304724">
+  <TermName>bilateral prophylactic mastectomy</TermName>
+  <TermPronunciation>(by-LA-teh-rul PROH-fih-LAK-tik ma-STEK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to remove both breasts in order to reduce the risk of developing breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709912" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bilateral prophylactic mastectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709911" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastectomía profiláctica bilateral&quot;" language="es" id="_4"/>
+  <SpanishTermName>mastectomía profiláctica bilateral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar ambas mamas (senos) con el fin de reducir el riesgo de cáncer de mama. También se llama mastectomía bilateral para reducir el riesgo, mastectomía bilateral preventiva y mastectomía doble preventiva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <DateLastModified>2007-03-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet" UseWith="en">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva" UseWith="es">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046580"><TermName>side effect</TermName><TermPronunciation>(side eh-FEKT)</TermPronunciation><TermDefinition><DefinitionText>An effect of a drug or other type of treatment that is in addition to or beyond its desired effect. Side effects can be harmful or beneficial, and most go away on their own over time. Others may last past treatment or appear long after treatment has ended. Some common side effects of cancer treatment are nausea, vomiting, fatigue, pain, decreased blood cell counts, hair loss, and mouth sores.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731667" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;side effect&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731666" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efecto secundario&quot;" language="es" id="_4"/><SpanishTermName>efecto secundario</SpanishTermName><SpanishTermDefinition><DefinitionText>Efecto de un medicamento u otro tipo de tratamiento que se añade o va más allá del efecto deseado. Los efectos secundarios pueden ser perjudiciales o beneficiosos, y la mayoría desaparece por sí solos con el tiempo. Otros pueden continuar una vez que termina el tratamiento o aparecen mucho después de que este haya terminado. Algunos efectos secundarios comunes del tratamiento de cáncer son náuseas, vómitos, fatiga, dolor, recuentos sanguíneos bajos, caída del cabello y llagas en la boca.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-12-28</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects">Side Effects of Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios">Efectos secundarios</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046580">
+  <TermName>side effect</TermName>
+  <TermPronunciation>(side eh-FEKT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An effect of a drug or other type of treatment that is in addition to or beyond its desired effect. Side effects can be harmful or beneficial, and most go away on their own over time. Others may last past treatment or appear long after treatment has ended. Some common side effects of cancer treatment are nausea, vomiting, fatigue, pain, decreased blood cell counts, hair loss, and mouth sores.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731667" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;side effect&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731666" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efecto secundario&quot;" language="es" id="_4"/>
+  <SpanishTermName>efecto secundario</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Efecto de un medicamento u otro tipo de tratamiento que se añade o va más allá del efecto deseado. Los efectos secundarios pueden ser perjudiciales o beneficiosos, y la mayoría desaparece por sí solos con el tiempo. Otros pueden continuar una vez que termina el tratamiento o aparecen mucho después de que este haya terminado. Algunos efectos secundarios comunes del tratamiento de cáncer son náuseas, vómitos, fatiga, dolor, recuentos sanguíneos bajos, caída del cabello y llagas en la boca.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-12-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects">Side Effects of Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios">Efectos secundarios</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

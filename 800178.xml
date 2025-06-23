@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800178"><TermName>longitudinal cohort study</TermName><TermPronunciation>(LON-jih-TOO-dih-nul KOH-hort STUH-dee)</TermPronunciation><TermDefinition><DefinitionText>A type of research study that follows large groups of people over a long time. The groups are alike in many ways but differ by a certain characteristic (for example, female nurses who smoke and those who do not smoke). A particular outcome (such as the development of lung cancer) is compared between the groups. The same people in each group are assessed many times throughout the study.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802594" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;longitudinal cohort study&quot;" language="en" id="_4"/><MediaLink ref="CDR0000802595" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio longitudinal de cohortes&quot;" language="es" id="_5"/><SpanishTermName>estudio longitudinal de cohortes</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de estudio de investigación en el que se hace un seguimiento prolongado a grupos numerosos de personas que se parecen en muchos aspectos excepto en una característica (por ejemplo, enfermeras que fuman y enfermeras que no fuman). En este tipo de estudio se compara entre los dos grupos un resultado específico (como la aparición de un cáncer de pulmón). En cada grupo, las mismas personas se evalúan muchas veces durante el estudio. También se llama estudio de cohorte longitudinal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800178">
+  <TermName>longitudinal cohort study</TermName>
+  <TermPronunciation>(LON-jih-TOO-dih-nul KOH-hort STUH-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of research study that follows large groups of people over a long time. The groups are alike in many ways but differ by a certain characteristic (for example, female nurses who smoke and those who do not smoke). A particular outcome (such as the development of lung cancer) is compared between the groups. The same people in each group are assessed many times throughout the study.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802594" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;longitudinal cohort study&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000802595" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio longitudinal de cohortes&quot;" language="es" id="_5"/>
+  <SpanishTermName>estudio longitudinal de cohortes</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de estudio de investigación en el que se hace un seguimiento prolongado a grupos numerosos de personas que se parecen en muchos aspectos excepto en una característica (por ejemplo, enfermeras que fuman y enfermeras que no fuman). En este tipo de estudio se compara entre los dos grupos un resultado específico (como la aparición de un cáncer de pulmón). En cada grupo, las mismas personas se evalúan muchas veces durante el estudio. También se llama estudio de cohorte longitudinal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-28</DateFirstPublished>
+</GlossaryTerm>

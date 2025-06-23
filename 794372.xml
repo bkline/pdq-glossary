@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000794372"><TermName>ingenol mebutate gel</TermName><TermPronunciation>(IN-jeh-nol MEH-byoo-tayt …)</TermPronunciation><TermDefinition><DefinitionText>A drug applied to the skin to treat actinic keratosis (thick, scaly growths on the skin that may become cancer). Ingenol mebutate gel may help kill abnormal cells. It is a type of cytotoxic agent. Also called Picato.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796120" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ingenol mebutate gel&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796121" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gel de mebutato de ingenol&quot;" language="es" id="_4"/><SpanishTermName>gel de mebutato de ingenol</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se aplica en la piel para tratar la queratosis actínica (bultos gruesos y escamosos en la piel que se pueden convertir en cáncer). Es posible que el gel de mebutato de ingenol destruya las células anormales. Es un tipo de citotóxico. También se llama Picato.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-11-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794372">
+  <TermName>ingenol mebutate gel</TermName>
+  <TermPronunciation>(IN-jeh-nol MEH-byoo-tayt …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug applied to the skin to treat actinic keratosis (thick, scaly growths on the skin that may become cancer). Ingenol mebutate gel may help kill abnormal cells. It is a type of cytotoxic agent. Also called Picato.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796120" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ingenol mebutate gel&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796121" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gel de mebutato de ingenol&quot;" language="es" id="_4"/>
+  <SpanishTermName>gel de mebutato de ingenol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se aplica en la piel para tratar la queratosis actínica (bultos gruesos y escamosos en la piel que se pueden convertir en cáncer). Es posible que el gel de mebutato de ingenol destruya las células anormales. Es un tipo de citotóxico. También se llama Picato.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-11-08</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797421"><TermName>metastasis-free survival</TermName><TermPronunciation>(meh-TAS-tuh-sis ... ser-VY-vul)</TermPronunciation><TermDefinition><DefinitionText>The length of time from the start of treatment for cancer that a patient is still alive and the cancer has not spread to other parts of the body. In a clinical trial, measuring the metastasis-free survival is one way to see how well a new treatment works. Also called MFS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799622" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metastasis-free survival&quot;" language="en" id="_4"/><MediaLink ref="CDR0000799623" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supervivencia sin metástasis&quot;" language="es" id="_5"/><SpanishTermName>supervivencia sin metástasis</SpanishTermName><SpanishTermDefinition><DefinitionText>Tiempo que pasa desde el comienzo del tratamiento del cáncer durante el cual el paciente sigue vivo y el cáncer no se ha diseminado a otras partes del cuerpo. En un ensayo clínico, medir la supervivencia sin metástasis es una manera de determinar la eficacia de un tratamiento nuevo. También se llama SSM y supervivencia libre de metástasis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797421">
+  <TermName>metastasis-free survival</TermName>
+  <TermPronunciation>(meh-TAS-tuh-sis ... ser-VY-vul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The length of time from the start of treatment for cancer that a patient is still alive and the cancer has not spread to other parts of the body. In a clinical trial, measuring the metastasis-free survival is one way to see how well a new treatment works. Also called MFS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799622" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metastasis-free survival&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000799623" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supervivencia sin metástasis&quot;" language="es" id="_5"/>
+  <SpanishTermName>supervivencia sin metástasis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tiempo que pasa desde el comienzo del tratamiento del cáncer durante el cual el paciente sigue vivo y el cáncer no se ha diseminado a otras partes del cuerpo. En un ensayo clínico, medir la supervivencia sin metástasis es una manera de determinar la eficacia de un tratamiento nuevo. También se llama SSM y supervivencia libre de metástasis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-24</DateFirstPublished>
+</GlossaryTerm>

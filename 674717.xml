@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000674717"><TermName>Tc 99m sulfur colloid</TermName><TermPronunciation>(… SUL-fur KAH-loyd)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied as a way to find cancer in the body. It is also used to find sentinel lymph nodes in breast cancer. It contains a radioactive substance called technetium linked to a substance called sulfur colloid.  Sulfer colloid is taken up by special cells in lymph tissue, and in the liver, spleen, and bone marrow after it is injected. A machine or probe that detects radioactivity is used to find where the Tc 99m sulfur colloid is in the body. Also called Tc-99m SC and technetium Tc 99m-sulfur colloid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727648" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tc 99m sulfur colloid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727647" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tc 99m azufre coloidal&quot;" language="es" id="_4"/><SpanishTermName>Tc 99m azufre coloidal</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para encontrar cáncer en el cuerpo. También se usa para encontrar los ganglios linfáticos centinela en el cáncer de mama.   Contiene una sustancia radiactiva que se llama tecnecio unida a una sustancia que se llama azufre coloidal. Hay ciertas células del tejido linfático, el hígado, el bazo y la médula ósea que absorben el azufre coloidal después de que se inyecta. Se usa una máquina o sonda que detecta la radiactividad para encontrar los lugares del cuerpo donde está el Tc 99m azufre coloidal. También se llama Tc-99m SC y tecnecio Tc 99m-azufre coloidal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-10-15</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000674717">
+  <TermName>Tc 99m sulfur colloid</TermName>
+  <TermPronunciation>(… SUL-fur KAH-loyd)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied as a way to find cancer in the body. It is also used to find sentinel lymph nodes in breast cancer. It contains a radioactive substance called technetium linked to a substance called sulfur colloid.  Sulfer colloid is taken up by special cells in lymph tissue, and in the liver, spleen, and bone marrow after it is injected. A machine or probe that detects radioactivity is used to find where the Tc 99m sulfur colloid is in the body. Also called Tc-99m SC and technetium Tc 99m-sulfur colloid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727648" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tc 99m sulfur colloid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727647" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tc 99m azufre coloidal&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tc 99m azufre coloidal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para encontrar cáncer en el cuerpo. También se usa para encontrar los ganglios linfáticos centinela en el cáncer de mama.   Contiene una sustancia radiactiva que se llama tecnecio unida a una sustancia que se llama azufre coloidal. Hay ciertas células del tejido linfático, el hígado, el bazo y la médula ósea que absorben el azufre coloidal después de que se inyecta. Se usa una máquina o sonda que detecta la radiactividad para encontrar los lugares del cuerpo donde está el Tc 99m azufre coloidal. También se llama Tc-99m SC y tecnecio Tc 99m-azufre coloidal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-10-15</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

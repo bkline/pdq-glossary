@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000683528"><TermName>Noonan syndrome</TermName><TermPronunciation>(NOO-nun SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A genetic disorder marked by unusual facial features, being shorter than normal, learning problems, heart defects, bleeding problems, defects in the skeleton (bones of the body), and fertility problems in males. People with Noonan syndrome have an increased risk of certain types of cancer, such as rhabdomyosarcoma (a soft tissue tumor), neuroblastoma (cancer of immature nerve cells), and some types of leukemia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Noonan syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Noonan&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Noonan</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno genético que se caracteriza por rasgos faciales inusuales, estatura más baja que la normal, problemas de aprendizaje, defectos del corazón, sangrados, defectos en el esqueleto y esterilidad en los hombres. Las personas con el síndrome de Noonan tienen más riesgo de presentar ciertos tipos de cáncer, como el rabdomiosarcoma (tumor de tejido blando), el neuroblastoma (cáncer de las neuronas inmaduras) y algunos tipos de leucemia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-01-10</DateFirstPublished><DateLastModified>2014-06-18</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/10955/noonan-syndrome">Noonan syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/noonan-syndrome/">Noonan syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11856/sindrome-de-noonan">Síndrome de Noonan (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001656.htm">Síndrome de Noonan (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000683528">
+  <TermName>Noonan syndrome</TermName>
+  <TermPronunciation>(NOO-nun SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic disorder marked by unusual facial features, being shorter than normal, learning problems, heart defects, bleeding problems, defects in the skeleton (bones of the body), and fertility problems in males. People with Noonan syndrome have an increased risk of certain types of cancer, such as rhabdomyosarcoma (a soft tissue tumor), neuroblastoma (cancer of immature nerve cells), and some types of leukemia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Noonan syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Noonan&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Noonan</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno genético que se caracteriza por rasgos faciales inusuales, estatura más baja que la normal, problemas de aprendizaje, defectos del corazón, sangrados, defectos en el esqueleto y esterilidad en los hombres. Las personas con el síndrome de Noonan tienen más riesgo de presentar ciertos tipos de cáncer, como el rabdomiosarcoma (tumor de tejido blando), el neuroblastoma (cáncer de las neuronas inmaduras) y algunos tipos de leucemia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-01-10</DateFirstPublished>
+  <DateLastModified>2014-06-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/10955/noonan-syndrome">Noonan syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/noonan-syndrome/">Noonan syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11856/sindrome-de-noonan">Síndrome de Noonan (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001656.htm">Síndrome de Noonan (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

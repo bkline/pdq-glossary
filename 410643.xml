@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000410643"><TermName>punch biopsy</TermName><TermPronunciation>(... BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A procedure in
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000410643">
+  <TermName>punch biopsy</TermName>
+  <TermPronunciation>(... BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in
           which a small round piece of tissue about the size of a
           pencil eraser is removed using a sharp, hollow, circular
           instrument. The tissue is then checked under a microscope
@@ -6,8 +11,28 @@
           for certain types of cancer, including skin, vulvar, and
           cervical cancer. It may also be used to check for certain
           skin conditions and changes that may lead to
-          cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;punch biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713053" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia con sacabocados&quot;" language="es" id="_4"/><MediaLink ref="CDR0000578083" type="image/jpeg" alt="Punch biopsy; drawing shows a sharp, hollow, circular instrument being inserted into a lesion on the skin of a patient’s forearm. The instrument is turned clockwise and counterclockwise to cut into the skin and remove a small, round piece of tissue. A pullout shows that the instrument cuts about 4 millimeters (mm) down to the layer of fatty tissue below the skin." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Punch biopsy. A sharp, hollow, circular instrument is used to remove a small, round piece of tissue from a lesion on the skin. The instrument is turned clockwise and counterclockwise to cut about 4 millimeters (mm) down to the layer of fatty tissue below the skin and remove the sample of tissue. Skin thickness is different on different parts of the body. </Caption></MediaLink><MediaLink ref="CDR0000747220" type="image/jpeg" alt="Biopsia con sacabocados. En el dibujo se observa un instrumento con forma de lápiz que en un extremo tiene un bisturí cilíndrico hueco que se coloca sobre una lesión de la piel del antebrazo del paciente y se hace girar en el sentido de las agujas del reloj y en el sentido contrario para cortar la piel y extraer una muestra pequeña de tejido con forma de cilindro. En una ampliación se observa el bisturí cilíndrico y se señala el lugar donde corta la piel y la profundidad hasta donde llega, de alrededor de 4 milímetros (mm) en la capa del tejido graso debajo de la piel." language="es" audience="Patients" placement="image-center" id="_5"><Caption language="es">Biopsia con sacabocados. Se usa un bisturí cilíndrico hueco para cortar y sacar un cilindro de tejido que contiene una  lesión de la piel. El bisturí se hace girar en el sentido de las agujas del reloj y en el sentido contrario para cortar alrededor de 4 milímetros (mm) de profundidad hasta llegar a la capa de tejido graso debajo de la piel y se extrae una muestra de tejido. El grosor de la piel cambia según la parte del cuerpo.</Caption></MediaLink><SpanishTermName>biopsia con sacabocados</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se utiliza un instrumento circular, afilado y hueco con el fin de extraer un pedazo de tejido redondo y pequeño (del tamaño de un borrador de un lápiz). El tejido se examina al microscopio en busca de signos de enfermedad. Este tipo de biopsia
+          cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;punch biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713053" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia con sacabocados&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000578083" type="image/jpeg" alt="Punch biopsy; drawing shows a sharp, hollow, circular instrument being inserted into a lesion on the skin of a patient’s forearm. The instrument is turned clockwise and counterclockwise to cut into the skin and remove a small, round piece of tissue. A pullout shows that the instrument cuts about 4 millimeters (mm) down to the layer of fatty tissue below the skin." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Punch biopsy. A sharp, hollow, circular instrument is used to remove a small, round piece of tissue from a lesion on the skin. The instrument is turned clockwise and counterclockwise to cut about 4 millimeters (mm) down to the layer of fatty tissue below the skin and remove the sample of tissue. Skin thickness is different on different parts of the body. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000747220" type="image/jpeg" alt="Biopsia con sacabocados. En el dibujo se observa un instrumento con forma de lápiz que en un extremo tiene un bisturí cilíndrico hueco que se coloca sobre una lesión de la piel del antebrazo del paciente y se hace girar en el sentido de las agujas del reloj y en el sentido contrario para cortar la piel y extraer una muestra pequeña de tejido con forma de cilindro. En una ampliación se observa el bisturí cilíndrico y se señala el lugar donde corta la piel y la profundidad hasta donde llega, de alrededor de 4 milímetros (mm) en la capa del tejido graso debajo de la piel." language="es" audience="Patients" placement="image-center" id="_5">
+    <Caption language="es">Biopsia con sacabocados. Se usa un bisturí cilíndrico hueco para cortar y sacar un cilindro de tejido que contiene una  lesión de la piel. El bisturí se hace girar en el sentido de las agujas del reloj y en el sentido contrario para cortar alrededor de 4 milímetros (mm) de profundidad hasta llegar a la capa de tejido graso debajo de la piel y se extrae una muestra de tejido. El grosor de la piel cambia según la parte del cuerpo.</Caption>
+  </MediaLink>
+  <SpanishTermName>biopsia con sacabocados</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para el que se utiliza un instrumento circular, afilado y hueco con el fin de extraer un pedazo de tejido redondo y pequeño (del tamaño de un borrador de un lápiz). El tejido se examina al microscopio en busca de signos de enfermedad. Este tipo de biopsia
 se usa para buscar ciertos tipos de
 cáncer, como el de piel, de vulva, y de cuello
 uterino. También se usa para encontrar ciertas afecciones de
-la piel y cambios que a veces causan cáncer. También se llama biopsia en sacabocados.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-12-22</DateFirstPublished><DateLastModified>2014-01-03</DateLastModified></GlossaryTerm>
+la piel y cambios que a veces causan cáncer. También se llama biopsia en sacabocados.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-12-22</DateFirstPublished>
+  <DateLastModified>2014-01-03</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000445046"><TermName>male breast cancer</TermName><TermPronunciation>(mayl brest KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the breast in men. Most male breast cancer begins in cells lining the ducts. It is very rare and usually affects older men.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714624" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;male breast cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714625" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de mama masculino&quot;" language="es" id="_4"/><SpanishTermName>cáncer de mama masculino</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos de la mama (seno) de los hombres. La mayoría de los cánceres de mama masculinos comienzan en el recubrimiento de los conductos mamarios. Es muy poco común y, en general, afecta a hombres de edad avanzada. También se llama cáncer de mama en los hombres y cáncer de seno en hombres.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062969" url="/types/breast/patient/male-breast-treatment-pdq">Male Breast Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256841" url="/espanol/tipos/seno/paciente/tratamiento-seno-masculino-pdq">Tratamiento del cáncer de seno (mama) masculino</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000445046">
+  <TermName>male breast cancer</TermName>
+  <TermPronunciation>(mayl brest KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the breast in men. Most male breast cancer begins in cells lining the ducts. It is very rare and usually affects older men.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714624" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;male breast cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714625" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de mama masculino&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de mama masculino</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos de la mama (seno) de los hombres. La mayoría de los cánceres de mama masculinos comienzan en el recubrimiento de los conductos mamarios. Es muy poco común y, en general, afecta a hombres de edad avanzada. También se llama cáncer de mama en los hombres y cáncer de seno en hombres.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062969" url="/types/breast/patient/male-breast-treatment-pdq">Male Breast Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256841" url="/espanol/tipos/seno/paciente/tratamiento-seno-masculino-pdq">Tratamiento del cáncer de seno (mama) masculino</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

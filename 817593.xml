@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000817593"><TermName>Grafapex</TermName><TermPronunciation>(gra-FAY-pex)</TermPronunciation><TermDefinition><DefinitionText>A drug given with fludarabine phosphate before a donor hematopoietic stem cell transplant in adults and children aged 1 year and older with acute myeloid leukemia or myelodysplastic syndrome. It is also being studied in the treatment of other types of cancer. Grafapex may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called treosulfan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Grafapex&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Grafapex&quot;" language="es" id="_4"/><SpanishTermName>Grafapex</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se administra con el fosfato de fludarabina antes de un trasplante de células madre hematopoyéticas de donante en adultos y niños de 1 año o más con leucemia mieloide aguda o síndrome mielodisplásico. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Grafapex dañe el ADN de las células cancerosas, lo que impide que se dividan y las destruye. Es un tipo de alquilante. También se llama treosulfano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-02-14</DateFirstPublished><DateLastModified>2025-02-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817593">
+  <TermName>Grafapex</TermName>
+  <TermPronunciation>(gra-FAY-pex)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug given with fludarabine phosphate before a donor hematopoietic stem cell transplant in adults and children aged 1 year and older with acute myeloid leukemia or myelodysplastic syndrome. It is also being studied in the treatment of other types of cancer. Grafapex may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called treosulfan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Grafapex&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Grafapex&quot;" language="es" id="_4"/>
+  <SpanishTermName>Grafapex</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se administra con el fosfato de fludarabina antes de un trasplante de células madre hematopoyéticas de donante en adultos y niños de 1 año o más con leucemia mieloide aguda o síndrome mielodisplásico. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Grafapex dañe el ADN de las células cancerosas, lo que impide que se dividan y las destruye. Es un tipo de alquilante. También se llama treosulfano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-02-14</DateFirstPublished>
+  <DateLastModified>2025-02-12</DateLastModified>
+</GlossaryTerm>

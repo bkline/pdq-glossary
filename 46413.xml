@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046413"><TermName>erythroplakia</TermName><TermPronunciation>(eh-RITH-roh-PLAY-kee-uh)</TermPronunciation><TermDefinition><DefinitionText>An abnormal patch of red tissue that usually forms on the inside of the mouth, especially on the tongue, inside of the cheek, and under the tongue. The patch often bleeds easily if it is scraped. Erythroplakia is most commonly caused by smoking or chewing tobacco, but it may also be caused by heavy alcohol use or poorly fitting dentures that rub against the tissues in the mouth. Most erythroplakias are benign (not cancer), but some may be precancerous or a sign of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708695" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;erythroplakia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708696" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;eritroplasia&quot;" language="es" id="_4"/><SpanishTermName>eritroplasia</SpanishTermName><SpanishTermDefinition><DefinitionText>Lesión anormal (placa o mancha) de tejido de color rojo que suele formarse dentro de la boca, sobre todo en el interior de la mejilla y en la lengua o debajo de esta, y que sangra con facilidad cuando se raspa. La causa más común de la eritroplasia es el consumo de tabaco (para fumar o mascar), pero también se produce por el consumo excesivo de bebidas alcohólicas o la utilización de dentaduras postizas que no se ajustan bien y que rozan los tejidos de la boca. La mayoría de las eritroplasias son benignas (no cancerosas), pero es posible que algunas sean lesiones precancerosas o un signo de cáncer. También se llama eritroplaquia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-09-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046413">
+  <TermName>erythroplakia</TermName>
+  <TermPronunciation>(eh-RITH-roh-PLAY-kee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abnormal patch of red tissue that usually forms on the inside of the mouth, especially on the tongue, inside of the cheek, and under the tongue. The patch often bleeds easily if it is scraped. Erythroplakia is most commonly caused by smoking or chewing tobacco, but it may also be caused by heavy alcohol use or poorly fitting dentures that rub against the tissues in the mouth. Most erythroplakias are benign (not cancer), but some may be precancerous or a sign of cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708695" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;erythroplakia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708696" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;eritroplasia&quot;" language="es" id="_4"/>
+  <SpanishTermName>eritroplasia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Lesión anormal (placa o mancha) de tejido de color rojo que suele formarse dentro de la boca, sobre todo en el interior de la mejilla y en la lengua o debajo de esta, y que sangra con facilidad cuando se raspa. La causa más común de la eritroplasia es el consumo de tabaco (para fumar o mascar), pero también se produce por el consumo excesivo de bebidas alcohólicas o la utilización de dentaduras postizas que no se ajustan bien y que rozan los tejidos de la boca. La mayoría de las eritroplasias son benignas (no cancerosas), pero es posible que algunas sean lesiones precancerosas o un signo de cáncer. También se llama eritroplaquia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-09-13</DateLastModified>
+</GlossaryTerm>

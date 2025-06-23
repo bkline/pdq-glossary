@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000441251"><TermName>legal aid organization</TermName><TermPronunciation>(LEE-gul ayd OR-guh-nih-ZAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A group or agency that gives legal help to some people with low incomes. Health legal aid organizations help people with problems related to accessing health care services  and obtaining health insurance coverage.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733279" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;legal aid organization&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733278" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;organización de ayuda legal&quot;" language="es" id="_4"/><SpanishTermName>organización de ayuda legal</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo o institución que brinda ayuda legal a algunas personas con ingresos bajos. Las organizaciones de ayuda legal que se enfocan en asuntos de la salud asisten o asesoran a quienes tienen problemas para acceder a servicios de atención médica y cobertura de seguros médicos. También se llama organización de asistencia legal y organización de ayuda jurídica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2024-03-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000441251">
+  <TermName>legal aid organization</TermName>
+  <TermPronunciation>(LEE-gul ayd OR-guh-nih-ZAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group or agency that gives legal help to some people with low incomes. Health legal aid organizations help people with problems related to accessing health care services  and obtaining health insurance coverage.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733279" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;legal aid organization&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733278" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;organización de ayuda legal&quot;" language="es" id="_4"/>
+  <SpanishTermName>organización de ayuda legal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo o institución que brinda ayuda legal a algunas personas con ingresos bajos. Las organizaciones de ayuda legal que se enfocan en asuntos de la salud asisten o asesoran a quienes tienen problemas para acceder a servicios de atención médica y cobertura de seguros médicos. También se llama organización de asistencia legal y organización de ayuda jurídica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2024-03-01</DateLastModified>
+</GlossaryTerm>

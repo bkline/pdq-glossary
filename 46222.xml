@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046222"><TermName>pleural cavity</TermName><TermPronunciation>(PLOOR-ul KA-vuh-tee)</TermPronunciation><TermDefinition><DefinitionText>The space enclosed by the pleura, which is a thin layer of tissue that covers the lungs and lines the interior wall of the chest cavity.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleural cavity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707859" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cavidad pleural&quot;" language="es" id="_4"/><SpanishTermName>cavidad pleural</SpanishTermName><SpanishTermDefinition><DefinitionText>Espacio rodeado por la pleura, que es una capa delgada de tejido que recubre los pulmones y reviste la pared interior de la cavidad torácica. También se llama espacio pleural.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2003-02-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046222">
+  <TermName>pleural cavity</TermName>
+  <TermPronunciation>(PLOOR-ul KA-vuh-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The space enclosed by the pleura, which is a thin layer of tissue that covers the lungs and lines the interior wall of the chest cavity.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleural cavity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707859" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cavidad pleural&quot;" language="es" id="_4"/>
+  <SpanishTermName>cavidad pleural</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Espacio rodeado por la pleura, que es una capa delgada de tejido que recubre los pulmones y reviste la pared interior de la cavidad torácica. También se llama espacio pleural.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2003-02-14</DateLastModified>
+</GlossaryTerm>

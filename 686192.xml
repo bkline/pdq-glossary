@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000686192"><TermName>hydrogen cyanide</TermName><TermPronunciation>(HY-droh-jen SY-uh-nide)</TermPronunciation><TermDefinition><DefinitionText>A liquid or gas form of cyanide. Cyanide is a poisonous chemical found in some foods and plants, tobacco smoke, and when certain substances are burned. It is used to make products, such as paper, fabric, and plastic, and is used as a pesticide. Cyanide keeps cells in the body from using oxygen, so they die.  Exposure to cyanide may cause serious health problems, including death.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727499" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hydrogen cyanide&quot;" language="en" id="_5"/><MediaLink ref="CDR0000727500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cianuro de hidrógeno&quot;" language="es" id="_6"/><SpanishTermName>cianuro de hidrógeno</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma líquida o gaseosa del cianuro. El cianuro es un producto químico venenoso que se encuentra en algunos alimentos y plantas, el humo del tabaco y en ciertas sustancias cuando se queman.   Se usa para elaborar productos como el papel, las telas y los plásticos,  y se usa como plaguicida.   El cianuro impide que las células del cuerpo usen oxígeno y, de esa manera, mueren.   La exposición al cianuro puede causar graves consecuencias para la salud, incluso la muerte. El cianuro de hidrógeno también se conoce como ácido cianhídrico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-09-23</DateFirstPublished><DateLastModified>2017-03-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000686192">
+  <TermName>hydrogen cyanide</TermName>
+  <TermPronunciation>(HY-droh-jen SY-uh-nide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A liquid or gas form of cyanide. Cyanide is a poisonous chemical found in some foods and plants, tobacco smoke, and when certain substances are burned. It is used to make products, such as paper, fabric, and plastic, and is used as a pesticide. Cyanide keeps cells in the body from using oxygen, so they die.  Exposure to cyanide may cause serious health problems, including death.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727499" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hydrogen cyanide&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000727500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cianuro de hidrógeno&quot;" language="es" id="_6"/>
+  <SpanishTermName>cianuro de hidrógeno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma líquida o gaseosa del cianuro. El cianuro es un producto químico venenoso que se encuentra en algunos alimentos y plantas, el humo del tabaco y en ciertas sustancias cuando se queman.   Se usa para elaborar productos como el papel, las telas y los plásticos,  y se usa como plaguicida.   El cianuro impide que las células del cuerpo usen oxígeno y, de esa manera, mueren.   La exposición al cianuro puede causar graves consecuencias para la salud, incluso la muerte. El cianuro de hidrógeno también se conoce como ácido cianhídrico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-09-23</DateFirstPublished>
+  <DateLastModified>2017-03-13</DateLastModified>
+</GlossaryTerm>

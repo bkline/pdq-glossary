@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000782479"><TermName>perivascular tumor</TermName><TermPronunciation>(PAYR-ee-VAS-kyoo-ler TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A type of soft tissue tumor that begins in cells that wrap around blood vessels. Perivascular tumors may be benign (not cancer) or malignant (cancer). They can occur anywhere in the body. Perivascular tumors may occur in adults or children. Also called pericytic tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785352" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perivascular tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor perivascular&quot;" language="es" id="_4"/><SpanishTermName>tumor perivascular</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tumor de tejido blando que empieza en las células que envuelven los vasos sanguíneos. Los tumores perivasculares pueden ser benignos (no cancerosos) o malignos (cancerosos). Se presentan en cualquier parte del cuerpo, en adultos y niños. También se llama tumor pericítico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782479">
+  <TermName>perivascular tumor</TermName>
+  <TermPronunciation>(PAYR-ee-VAS-kyoo-ler TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of soft tissue tumor that begins in cells that wrap around blood vessels. Perivascular tumors may be benign (not cancer) or malignant (cancer). They can occur anywhere in the body. Perivascular tumors may occur in adults or children. Also called pericytic tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785352" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perivascular tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor perivascular&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor perivascular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tumor de tejido blando que empieza en las células que envuelven los vasos sanguíneos. Los tumores perivasculares pueden ser benignos (no cancerosos) o malignos (cancerosos). Se presentan en cualquier parte del cuerpo, en adultos y niños. También se llama tumor pericítico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809232"><TermName>HLA-A*02:01 antigen</TermName><TermPronunciation>(… AN-tih-jen)</TermPronunciation><TermDefinition><DefinitionText>A common cell surface marker that is part of the set of HLA antigens that make up a person’s tissue type. HLA antigens are found on the surface of most cells in the body, and they play an important role in the body's immune response to foreign substances. The HLA-A*02:01 antigen is also found on the surface of some types of cancer cells, such as some melanoma cells, which may help trigger the immune system to destroy the cancer cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811478" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HLA-A*02:01 antigen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811479" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antígeno HLA-A*02:01&quot;" language="es" id="_4"/><SpanishTermName>antígeno HLA-A*02:01</SpanishTermName><SpanishTermDefinition><DefinitionText>Marcador frecuente de superficie celular que forma parte del grupo de antígenos HLA que conforman el tipo de tejido de una persona. Los antígenos HLA se encuentran en la superficie de la mayoría de las células del cuerpo y cumplen una función importante en la respuesta inmunitaria a sustancias extrañas. El antígeno HLA-A*02:01 también se encuentra en la superficie de algunos tipos de células cancerosas, como las del melanoma, lo que quizás ayude a activar el sistema inmunitario para destruir células cancerosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809232">
+  <TermName>HLA-A*02:01 antigen</TermName>
+  <TermPronunciation>(… AN-tih-jen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A common cell surface marker that is part of the set of HLA antigens that make up a person’s tissue type. HLA antigens are found on the surface of most cells in the body, and they play an important role in the body's immune response to foreign substances. The HLA-A*02:01 antigen is also found on the surface of some types of cancer cells, such as some melanoma cells, which may help trigger the immune system to destroy the cancer cells.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811478" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HLA-A*02:01 antigen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811479" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antígeno HLA-A*02:01&quot;" language="es" id="_4"/>
+  <SpanishTermName>antígeno HLA-A*02:01</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Marcador frecuente de superficie celular que forma parte del grupo de antígenos HLA que conforman el tipo de tejido de una persona. Los antígenos HLA se encuentran en la superficie de la mayoría de las células del cuerpo y cumplen una función importante en la respuesta inmunitaria a sustancias extrañas. El antígeno HLA-A*02:01 también se encuentra en la superficie de algunos tipos de células cancerosas, como las del melanoma, lo que quizás ayude a activar el sistema inmunitario para destruir células cancerosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-05</DateFirstPublished>
+</GlossaryTerm>

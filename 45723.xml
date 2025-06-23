@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045723"><TermName>immunocompromised</TermName><TermPronunciation>(IH-myoo-noh-KOM-proh-mized)</TermPronunciation><TermDefinition><DefinitionText>Having a weakened immune system. People who are immunocompromised have a reduced ability to fight infections and other diseases. This may be caused by certain diseases or conditions, such as AIDS, cancer, diabetes, malnutrition, and certain genetic disorders. It may also be caused by certain medicines or treatments, such as anticancer drugs, radiation therapy, and stem cell or organ transplant. Also called immunosuppressed.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707143" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunocompromised&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707144" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunodeficiente&quot;" language="es" id="_4"/><SpanishTermName>inmunodeficiente</SpanishTermName><SpanishTermDefinition><DefinitionText>Descripción del  debilitamiento del sistema inmunitario. Se dice que una persona es  inmunodeficiente cuando se reduce su capacidad para combatir infecciones y otras enfermedades. Algunas causas de esta debilidad son ciertas enfermedades o afecciones, como el síndrome de inmunodeficiencia adquirida (SIDA), el cáncer, la diabetes, la desnutrición y determinados trastornos genéticos. Otras causas son determinados tratamientos, como el uso de medicamentos contra el cáncer, la radioterapia y el trasplante de células madre o de órganos. También se llama inmunocomprometido e inmunodeprimido.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-05-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045723">
+  <TermName>immunocompromised</TermName>
+  <TermPronunciation>(IH-myoo-noh-KOM-proh-mized)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Having a weakened immune system. People who are immunocompromised have a reduced ability to fight infections and other diseases. This may be caused by certain diseases or conditions, such as AIDS, cancer, diabetes, malnutrition, and certain genetic disorders. It may also be caused by certain medicines or treatments, such as anticancer drugs, radiation therapy, and stem cell or organ transplant. Also called immunosuppressed.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707143" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunocompromised&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707144" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunodeficiente&quot;" language="es" id="_4"/>
+  <SpanishTermName>inmunodeficiente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Descripción del  debilitamiento del sistema inmunitario. Se dice que una persona es  inmunodeficiente cuando se reduce su capacidad para combatir infecciones y otras enfermedades. Algunas causas de esta debilidad son ciertas enfermedades o afecciones, como el síndrome de inmunodeficiencia adquirida (SIDA), el cáncer, la diabetes, la desnutrición y determinados trastornos genéticos. Otras causas son determinados tratamientos, como el uso de medicamentos contra el cáncer, la radioterapia y el trasplante de células madre o de órganos. También se llama inmunocomprometido e inmunodeprimido.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-05-19</DateLastModified>
+</GlossaryTerm>

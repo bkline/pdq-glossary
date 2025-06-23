@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045003"><TermName>karenitecin</TermName><TermPronunciation>(kuh-REH-nih-TEE-kan)</TermPronunciation><TermDefinition><DefinitionText>A drug being studied in the treatment of cancer. It is a type of topoisomerase inhibitor. It is related to the anticancer drug camptothecin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;karenitecin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;karenitecin&quot;" language="es" id="_4"/><SpanishTermName>karenitecin</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se estudia para el tratamiento del cáncer. Es un tipo de inhibidor de la topoisomerasa. Se relaciona con el medicamento contra el cáncer camptotecina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-07-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045003">
+  <TermName>karenitecin</TermName>
+  <TermPronunciation>(kuh-REH-nih-TEE-kan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug being studied in the treatment of cancer. It is a type of topoisomerase inhibitor. It is related to the anticancer drug camptothecin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;karenitecin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;karenitecin&quot;" language="es" id="_4"/>
+  <SpanishTermName>karenitecin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se estudia para el tratamiento del cáncer. Es un tipo de inhibidor de la topoisomerasa. Se relaciona con el medicamento contra el cáncer camptotecina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-07-06</DateLastModified>
+</GlossaryTerm>

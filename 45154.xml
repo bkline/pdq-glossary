@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000045154"><TermName>laser therapy</TermName><TermPronunciation>(LAY-zer THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment that uses intense, narrow beams of light to cut and destroy tissue, such as cancer tissue. Laser therapy may also be used to reduce lymphedema (swelling caused by a buildup of lymph fluid in tissue) after breast cancer surgery.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705090" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laser therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705091" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia láser&quot;" language="es" id="_4"/><MediaLink ref="CDR0000805764" type="image/jpeg" alt="Laser treatment for skin cancer; drawing shows a gloved hand holding an instrument with a laser light over a small area on the lower arm of a patient." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Laser treatment uses an intense, narrow beam of light to remove or destroy abnormal tissue. It is often used to treat precancers on the surface of the body, such as actinic keratosis, and may be used to treat some types of skin cancer.</Caption></MediaLink><MediaLink ref="CDR0000805869" type="image/jpeg" alt="Tratamiento con láser para el cáncer de piel. En la imagen se muestra una mano enguantada con un instrumento que dirige un rayo láser sobre un área pequeña del antebrazo de un paciente." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El tratamiento con láser usa un haz de luz estrecha e intensa para extraer o destruir el tejido anomal. A menudo, se utiliza para el tratamiento de áreas precancerosas en la superficie del cuerpo como la queratosis actínica. A veces se usa para el tratamiento de algunos tipos de cáncer de piel.</Caption></MediaLink><SpanishTermName>terapia láser</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento para el que se usan haces de luz estrechos e intensos a fin de cortar y destruir tejidos, como el tejido canceroso. La terapia láser también se usa para reducir el linfedema (hinchazón causada por la acumulación de linfa en los tejidos) después de una cirugía de cáncer de mama. También se llama terapia con láser y tratamiento con láser.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-08-16</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/surgery/lasers-fact-sheet">Lasers to Treat Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/cirugia/terapia-laser">Terapia con láser para tratar el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045154">
+  <TermName>laser therapy</TermName>
+  <TermPronunciation>(LAY-zer THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that uses intense, narrow beams of light to cut and destroy tissue, such as cancer tissue. Laser therapy may also be used to reduce lymphedema (swelling caused by a buildup of lymph fluid in tissue) after breast cancer surgery.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705090" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laser therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705091" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia láser&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000805764" type="image/jpeg" alt="Laser treatment for skin cancer; drawing shows a gloved hand holding an instrument with a laser light over a small area on the lower arm of a patient." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Laser treatment uses an intense, narrow beam of light to remove or destroy abnormal tissue. It is often used to treat precancers on the surface of the body, such as actinic keratosis, and may be used to treat some types of skin cancer.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000805869" type="image/jpeg" alt="Tratamiento con láser para el cáncer de piel. En la imagen se muestra una mano enguantada con un instrumento que dirige un rayo láser sobre un área pequeña del antebrazo de un paciente." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El tratamiento con láser usa un haz de luz estrecha e intensa para extraer o destruir el tejido anomal. A menudo, se utiliza para el tratamiento de áreas precancerosas en la superficie del cuerpo como la queratosis actínica. A veces se usa para el tratamiento de algunos tipos de cáncer de piel.</Caption>
+  </MediaLink>
+  <SpanishTermName>terapia láser</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento para el que se usan haces de luz estrechos e intensos a fin de cortar y destruir tejidos, como el tejido canceroso. La terapia láser también se usa para reducir el linfedema (hinchazón causada por la acumulación de linfa en los tejidos) después de una cirugía de cáncer de mama. También se llama terapia con láser y tratamiento con láser.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-08-16</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/surgery/lasers-fact-sheet">Lasers to Treat Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/cirugia/terapia-laser">Terapia con láser para tratar el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

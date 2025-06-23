@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045306"><TermName>stage I anal cancer</TermName><TermPronunciation>(... AY-nul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is 2 centimeters or smaller.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705291" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I anal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705290" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano en estadio I&quot;" language="es" id="_4"/><SpanishTermName>cáncer de ano en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor mide 2 cm o menos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-01-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258179" url="/types/anal/patient/anal-treatment-pdq">Anal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256763" url="/espanol/tipos/ano/paciente/tratamiento-ano-pdq">Tratamiento del cáncer de ano</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045306">
+  <TermName>stage I anal cancer</TermName>
+  <TermPronunciation>(... AY-nul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is 2 centimeters or smaller.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705291" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I anal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705290" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de ano en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor mide 2 cm o menos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-01-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258179" url="/types/anal/patient/anal-treatment-pdq">Anal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256763" url="/espanol/tipos/ano/paciente/tratamiento-ano-pdq">Tratamiento del cáncer de ano</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

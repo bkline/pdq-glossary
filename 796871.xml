@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796871"><TermName>tumor-agnostic therapy</TermName><TermPronunciation>(TOO-mer-ag-NAH-stik THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A type of therapy that uses drugs or other substances to treat cancer based on the cancer’s genetic and molecular features without regard to the cancer type or where the cancer started in the body. Tumor-agnostic therapy uses the same drug to treat all cancer types that have the genetic mutation (change) or biomarker that is targeted by the drug. It is a type of targeted therapy. Also called tissue-agnostic therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor-agnostic therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798014" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia independiente del tipo de tumor&quot;" language="es" id="_4"/><SpanishTermName>terapia independiente del tipo de tumor</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de terapia en la que se utilizan medicamentos u otras sustancias para el tratamiento del cáncer a partir de sus características genéticas y moleculares, con independencia del tipo de cáncer o el lugar del cuerpo donde se originó. En la  terapia independiente del tipo de tumor se usa el mismo medicamento para tratar todos los tipos de cáncer que presentan la mutación genética (cambio) o el biomarcador al que se dirige el medicamento. Es un tipo de terapia dirigida. También se llama terapia antineoplásica agnóstica y terapia independiente del tejido de origen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796871">
+  <TermName>tumor-agnostic therapy</TermName>
+  <TermPronunciation>(TOO-mer-ag-NAH-stik THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of therapy that uses drugs or other substances to treat cancer based on the cancer’s genetic and molecular features without regard to the cancer type or where the cancer started in the body. Tumor-agnostic therapy uses the same drug to treat all cancer types that have the genetic mutation (change) or biomarker that is targeted by the drug. It is a type of targeted therapy. Also called tissue-agnostic therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor-agnostic therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798014" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia independiente del tipo de tumor&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia independiente del tipo de tumor</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de terapia en la que se utilizan medicamentos u otras sustancias para el tratamiento del cáncer a partir de sus características genéticas y moleculares, con independencia del tipo de cáncer o el lugar del cuerpo donde se originó. En la  terapia independiente del tipo de tumor se usa el mismo medicamento para tratar todos los tipos de cáncer que presentan la mutación genética (cambio) o el biomarcador al que se dirige el medicamento. Es un tipo de terapia dirigida. También se llama terapia antineoplásica agnóstica y terapia independiente del tejido de origen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

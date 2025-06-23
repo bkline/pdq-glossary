@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000455364"><TermName>noninvasive</TermName><TermPronunciation>(NON-in-VAY-siv)</TermPronunciation><TermDefinition><DefinitionText>In medicine, it describes a procedure that does not require inserting an instrument through the skin or into a body opening. In cancer, it describes disease that has not spread outside the tissue in which it began.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715064" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;noninvasive&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715063" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;no invasivo&quot;" language="es" id="_4"/><SpanishTermName>no invasivo</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, describe un procedimiento que no requiere insertar un instrumento a través de la piel o en una abertura corporal. En cáncer, describe la enfermedad que no se ha diseminado fuera del tejido donde empezó. También se llama no invasor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-02-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000455364">
+  <TermName>noninvasive</TermName>
+  <TermPronunciation>(NON-in-VAY-siv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, it describes a procedure that does not require inserting an instrument through the skin or into a body opening. In cancer, it describes disease that has not spread outside the tissue in which it began.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715064" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;noninvasive&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715063" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;no invasivo&quot;" language="es" id="_4"/>
+  <SpanishTermName>no invasivo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, describe un procedimiento que no requiere insertar un instrumento a través de la piel o en una abertura corporal. En cáncer, describe la enfermedad que no se ha diseminado fuera del tejido donde empezó. También se llama no invasor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-02-21</DateFirstPublished>
+</GlossaryTerm>

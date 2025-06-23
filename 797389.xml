@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000797389"><TermName>PD-L1</TermName><TermDefinition><DefinitionText>A protein that acts as a kind of “brake” to keep the body’s immune responses under control. PD-L1 may be found on some normal cells and in higher-than-normal amounts on some types of cancer cells. When PD-L1 binds to another protein called PD-1 (a protein found on T cells), it keeps T cells from killing the PD-L1-containing cells, including the cancer cells. Anticancer drugs called immune checkpoint inhibitors bind to PD-L1 and block its binding to PD-1. This releases the “brakes” on the immune system and leaves T cells free to kill cancer cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PD-L1</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que actúa como un "freno" que controla las respuestas inmunitarias del cuerpo. Se encuentra PD-L1 en algunas células normales, y está en cantidades más altas que lo normal en algunos tipos de células cancerosas.  Cuando PD-L1 se une a otra proteína que se llama PD-1 (proteína de las células T), no permite que las células T destruyan las células que contienen PD-L1, como las células cancerosas. Los medicamentos contra el cáncer llamados inhibidores de puntos de control inmunitario se adhieren  a PD-L1 e impiden que  esta proteína se una a PD-1. Esto libera los “frenos” del sistema inmunitario, lo que permite que  las células T destruyan las células cancerosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-24</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797389">
+  <TermName>PD-L1</TermName>
+  <TermDefinition>
+    <DefinitionText>A protein that acts as a kind of “brake” to keep the body’s immune responses under control. PD-L1 may be found on some normal cells and in higher-than-normal amounts on some types of cancer cells. When PD-L1 binds to another protein called PD-1 (a protein found on T cells), it keeps T cells from killing the PD-L1-containing cells, including the cancer cells. Anticancer drugs called immune checkpoint inhibitors bind to PD-L1 and block its binding to PD-1. This releases the “brakes” on the immune system and leaves T cells free to kill cancer cells.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PD-L1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que actúa como un &quot;freno&quot; que controla las respuestas inmunitarias del cuerpo. Se encuentra PD-L1 en algunas células normales, y está en cantidades más altas que lo normal en algunos tipos de células cancerosas.  Cuando PD-L1 se une a otra proteína que se llama PD-1 (proteína de las células T), no permite que las células T destruyan las células que contienen PD-L1, como las células cancerosas. Los medicamentos contra el cáncer llamados inhibidores de puntos de control inmunitario se adhieren  a PD-L1 e impiden que  esta proteína se una a PD-1. Esto libera los “frenos” del sistema inmunitario, lo que permite que  las células T destruyan las células cancerosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

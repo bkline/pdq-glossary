@@ -1,4 +1,8 @@
-<GlossaryTerm id="CDR0000790624"><TermName>t-AML</TermName><TermDefinition><DefinitionText>A type of
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790624">
+  <TermName>t-AML</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of
           acute myeloid leukemia (AML) that is caused by previous
           treatment with chemotherapy or radiation therapy.
           t-AML is an aggressive (fast-growing)
@@ -6,4 +10,15 @@
           white blood cells) in the blood or bone marrow.
           t-AML usually occurs within 7 years
           after treatment. It is more common in
-          adults. Also called therapy-related acute myeloid leukemia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>LMA-t</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de leucemia mieloide aguda (LMA) causada por un tratamiento anterior con quimioterapia o radioterapia. La LMA-t es un cáncer de crecimiento rápido (agresivo) por el que hay demasiados mieloblastos (glóbulos blancos inmaduros) en la sangre o la médula ósea. La LMA-t se suele presentar dentro de los 7 años posteriores al tratamiento. Es más común en adultos. También se llama leucemia mieloide aguda relacionada con el tratamiento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-11-15</DateFirstPublished></GlossaryTerm>
+          adults. Also called therapy-related acute myeloid leukemia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>LMA-t</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de leucemia mieloide aguda (LMA) causada por un tratamiento anterior con quimioterapia o radioterapia. La LMA-t es un cáncer de crecimiento rápido (agresivo) por el que hay demasiados mieloblastos (glóbulos blancos inmaduros) en la sangre o la médula ósea. La LMA-t se suele presentar dentro de los 7 años posteriores al tratamiento. Es más común en adultos. También se llama leucemia mieloide aguda relacionada con el tratamiento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-11-15</DateFirstPublished>
+</GlossaryTerm>

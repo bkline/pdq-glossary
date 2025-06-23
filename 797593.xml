@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797593"><TermName>hypopigmentation</TermName><TermPronunciation>(HY-poh-pig-men-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A condition in which the skin is lighter in color than normal. It occurs when special cells in the skin do not make enough of the pigment called melanin. Hypopigmentation can affect a small area of the skin or it can be widespread. It usually appears as lighter than normal colored patches on the skin or as areas on the skin that appear white. Hypopigmentation may be caused by injury, inflammation, or infection of the skin; some medical conditions; or certain medicines.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hypopigmentation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000799528" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hipopigmentación&quot;" language="es" id="_4"/><SpanishTermName>hipopigmentación</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que la piel tiene un color más claro que lo normal. Se presenta cuando células especiales de la piel no producen suficientes cantidades del pigmento llamado melanina. La hipopigmentación puede afectar un área pequeña de la piel o puede  ser generalizada. A menudo aparece como manchas en la piel de color más claro que lo normal,  o como áreas de la piel que se ven blancas. Las causas de hipopigmentación son lesiones, inflamaciones o infecciones de la piel, algunas afecciones o ciertos medicamentos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797593">
+  <TermName>hypopigmentation</TermName>
+  <TermPronunciation>(HY-poh-pig-men-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which the skin is lighter in color than normal. It occurs when special cells in the skin do not make enough of the pigment called melanin. Hypopigmentation can affect a small area of the skin or it can be widespread. It usually appears as lighter than normal colored patches on the skin or as areas on the skin that appear white. Hypopigmentation may be caused by injury, inflammation, or infection of the skin; some medical conditions; or certain medicines.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hypopigmentation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000799528" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hipopigmentación&quot;" language="es" id="_4"/>
+  <SpanishTermName>hipopigmentación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que la piel tiene un color más claro que lo normal. Se presenta cuando células especiales de la piel no producen suficientes cantidades del pigmento llamado melanina. La hipopigmentación puede afectar un área pequeña de la piel o puede  ser generalizada. A menudo aparece como manchas en la piel de color más claro que lo normal,  o como áreas de la piel que se ven blancas. Las causas de hipopigmentación son lesiones, inflamaciones o infecciones de la piel, algunas afecciones o ciertos medicamentos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-25</DateFirstPublished>
+</GlossaryTerm>

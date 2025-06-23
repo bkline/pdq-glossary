@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000450100"><TermName>delirium</TermName><TermPronunciation>(deh-LEER-ee-um)</TermPronunciation><TermDefinition><DefinitionText>A mental state in which a person is confused and has reduced awareness of their surroundings. The person may also be anxious, agitated, or have less energy than usual and be tired or depressed. Delirium can also cause hallucinations and changes in attention span, mood or behavior, judgement, muscle control, and sleeping patterns. The symptoms of delirium usually occur suddenly, last a short time, and may come and go. It may be caused by infection, dehydration, abnormal levels of some electrolytes, organ failure, medicines, or serious illness, such as advanced cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715171" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;delirium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715172" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;delirium&quot;" language="es" id="_4"/><SpanishTermName>delirium</SpanishTermName><SpanishTermDefinition><DefinitionText>Estado mental en el que una persona está confundida y tiene una percepción reducida de su entorno. Es posible que la persona también esté ansiosa, agitada o que tenga menos energía que la usual y que se sienta cansada y deprimida. Además, el <Emphasis>delirium</Emphasis> a veces causa alucinaciones y cambios en la capacidad de concentración, el estado de ánimo o el comportamiento, el sentido de la realidad, el control muscular y los patrones del sueño. Por lo general, los síntomas del <Emphasis>delirium</Emphasis> ocurren de forma repentina, duran poco tiempo y a veces aparecen y desaparecen. Las causas posibles son infecciones, deshidratación, concentraciones anormales de algunos electrolitos, insuficiencia orgánica, medicamentos o enfermedades graves, como el cáncer en estadio avanzado. También se llama cuadro confusional agudo, delirio agudo, delirio confusional y síndrome confusional.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-01-25</DateFirstPublished><DateLastModified>2022-07-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000450100">
+  <TermName>delirium</TermName>
+  <TermPronunciation>(deh-LEER-ee-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A mental state in which a person is confused and has reduced awareness of their surroundings. The person may also be anxious, agitated, or have less energy than usual and be tired or depressed. Delirium can also cause hallucinations and changes in attention span, mood or behavior, judgement, muscle control, and sleeping patterns. The symptoms of delirium usually occur suddenly, last a short time, and may come and go. It may be caused by infection, dehydration, abnormal levels of some electrolytes, organ failure, medicines, or serious illness, such as advanced cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715171" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;delirium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715172" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;delirium&quot;" language="es" id="_4"/>
+  <SpanishTermName>delirium</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Estado mental en el que una persona está confundida y tiene una percepción reducida de su entorno. Es posible que la persona también esté ansiosa, agitada o que tenga menos energía que la usual y que se sienta cansada y deprimida. Además, el 
+      <Emphasis>delirium</Emphasis>
+       a veces causa alucinaciones y cambios en la capacidad de concentración, el estado de ánimo o el comportamiento, el sentido de la realidad, el control muscular y los patrones del sueño. Por lo general, los síntomas del 
+      <Emphasis>delirium</Emphasis>
+       ocurren de forma repentina, duran poco tiempo y a veces aparecen y desaparecen. Las causas posibles son infecciones, deshidratación, concentraciones anormales de algunos electrolitos, insuficiencia orgánica, medicamentos o enfermedades graves, como el cáncer en estadio avanzado. También se llama cuadro confusional agudo, delirio agudo, delirio confusional y síndrome confusional.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-01-25</DateFirstPublished>
+  <DateLastModified>2022-07-07</DateLastModified>
+</GlossaryTerm>

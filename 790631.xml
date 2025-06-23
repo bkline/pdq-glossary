@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000790631"><TermName>TIL</TermName><TermDefinition><DefinitionText>A type of immune cell that has moved from the blood into a tumor. TILs can recognize and kill cancer cells. In cancer therapy, TILs are removed from a patient’s tumor, grown in large numbers in a laboratory, and then given back to the patient to help the immune system kill the cancer cells.  Also called tumor-infiltrating lymphocyte.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>LIT</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de célula inmunitaria que pasa de la sangre al tumor. Los LIT reconocen y destruyen las células cancerosas. Para  el tratamiento del cáncer, se extraen los LIT del tumor del paciente, se produce una gran cantidad de copias  en el laboratorio y luego se devuelven al paciente para que ayuden al sistema inmunitario a destruir células cancerosas. También se llama linfocito infiltrante tumoral.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-11-15</DateFirstPublished><DateLastModified>2020-01-22</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/t-cell-transfer-therapy">T-cell Transfer Therapy</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790631">
+  <TermName>TIL</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of immune cell that has moved from the blood into a tumor. TILs can recognize and kill cancer cells. In cancer therapy, TILs are removed from a patient’s tumor, grown in large numbers in a laboratory, and then given back to the patient to help the immune system kill the cancer cells.  Also called tumor-infiltrating lymphocyte.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>LIT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de célula inmunitaria que pasa de la sangre al tumor. Los LIT reconocen y destruyen las células cancerosas. Para  el tratamiento del cáncer, se extraen los LIT del tumor del paciente, se produce una gran cantidad de copias  en el laboratorio y luego se devuelven al paciente para que ayuden al sistema inmunitario a destruir células cancerosas. También se llama linfocito infiltrante tumoral.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-11-15</DateFirstPublished>
+  <DateLastModified>2020-01-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/t-cell-transfer-therapy">T-cell Transfer Therapy</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

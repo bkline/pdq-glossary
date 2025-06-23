@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000386500"><TermName>Paterson-Kelly syndrome</TermName><TermPronunciation>(PA-ter-sun-KEH-lee SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A disorder marked by anemia caused by iron deficiency, and a web-like growth of membranes in the throat that makes swallowing difficult. Having Paterson-Kelly syndrome may increase the risk of developing esophageal cancer. Also called Plummer-Vinson syndrome and sideropenic dysphagia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731651" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Paterson-Kelly syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731650" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Paterson-Kelly&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Paterson-Kelly</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno que se caracteriza por anemia a causa de la falta de hierro y el crecimiento de una red de membranas en la garganta que hace que sea difícil tragar. Es posible que el síndrome de Paterson-Kelly aumente el riesgo de presentar cáncer de esófago. También se llama disfagia sideropénica y síndrome de Plummer-Vinson.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-08-24</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8259/paterson-kelly-syndrome">Plummer Vinson syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/ency/article/001158.htm">Plummer-Vinson syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001158.htm">Síndrome de Plummer-Vinson (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000386500">
+  <TermName>Paterson-Kelly syndrome</TermName>
+  <TermPronunciation>(PA-ter-sun-KEH-lee SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A disorder marked by anemia caused by iron deficiency, and a web-like growth of membranes in the throat that makes swallowing difficult. Having Paterson-Kelly syndrome may increase the risk of developing esophageal cancer. Also called Plummer-Vinson syndrome and sideropenic dysphagia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731651" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Paterson-Kelly syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731650" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Paterson-Kelly&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Paterson-Kelly</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno que se caracteriza por anemia a causa de la falta de hierro y el crecimiento de una red de membranas en la garganta que hace que sea difícil tragar. Es posible que el síndrome de Paterson-Kelly aumente el riesgo de presentar cáncer de esófago. También se llama disfagia sideropénica y síndrome de Plummer-Vinson.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-08-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8259/paterson-kelly-syndrome">Plummer Vinson syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/ency/article/001158.htm">Plummer-Vinson syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001158.htm">Síndrome de Plummer-Vinson (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

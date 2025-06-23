@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000778736"><TermName>CEM</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat high-risk neuroblastoma. It includes the drugs carboplatin, etoposide, and melphalan. Also called CEM regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804318" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia CEM&quot;" language="es" id="_3"/><SpanishTermName>terapia CEM</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para tratar el neuroblastoma de riesgo alto. Incluye los medicamentos carboplatino, etopósido y melfalán. También se llama régimen CEM.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-02-11</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000778641" url="/about-cancer/treatment/drugs/CEM">CEM</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000778736">
+  <TermName>CEM</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat high-risk neuroblastoma. It includes the drugs carboplatin, etoposide, and melphalan. Also called CEM regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804318" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia CEM&quot;" language="es" id="_3"/>
+  <SpanishTermName>terapia CEM</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para tratar el neuroblastoma de riesgo alto. Incluye los medicamentos carboplatino, etopósido y melfalán. También se llama régimen CEM.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-02-11</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000778641" url="/about-cancer/treatment/drugs/CEM">CEM</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

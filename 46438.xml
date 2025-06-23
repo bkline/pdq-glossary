@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046438"><TermName>endocervical curettage</TermName><TermPronunciation>(en-doh-SER-vih-kul kyoo-reh-TAZH)</TermPronunciation><TermDefinition><DefinitionText>A procedure done after an abnormal Pap test result in which a sample of tissue is scraped from the lining of the cervical canal (the inner part of the cervix that connects the uterus to the vagina) using a spoon-shaped instrument called a curette. The tissue is then checked under a microscope for signs of disease. An endocervical curettage may be done at the same time as a colposcopy (a procedure that uses a lighted, magnifying instrument to examine the cervix, vagina, and vulva).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708740" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocervical curettage&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708739" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;legrado endocervical&quot;" language="es" id="_4"/><SpanishTermName>legrado endocervical</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento que se hace cuando se obtiene un resultado anormal en una prueba de Pap. Se extrae una muestra de tejido anormal de la capa que reviste el canal cervical (parte interna del cuello uterino que conecta el útero con la vagina) con un instrumento en forma de cuchara llamado cureta. Luego, el tejido se examina al microscopio para determinar si hay signos de enfermedad. A veces se realiza un legrado endocervical con una colposcopia (procedimiento para el que se usa un instrumento con una lente de aumento y una luz a fin de examinar el cuello del útero, la vagina y la vulva). También se llama curetaje endocervical y raspado endocervical.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-04-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046438">
+  <TermName>endocervical curettage</TermName>
+  <TermPronunciation>(en-doh-SER-vih-kul kyoo-reh-TAZH)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure done after an abnormal Pap test result in which a sample of tissue is scraped from the lining of the cervical canal (the inner part of the cervix that connects the uterus to the vagina) using a spoon-shaped instrument called a curette. The tissue is then checked under a microscope for signs of disease. An endocervical curettage may be done at the same time as a colposcopy (a procedure that uses a lighted, magnifying instrument to examine the cervix, vagina, and vulva).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708740" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocervical curettage&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708739" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;legrado endocervical&quot;" language="es" id="_4"/>
+  <SpanishTermName>legrado endocervical</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento que se hace cuando se obtiene un resultado anormal en una prueba de Pap. Se extrae una muestra de tejido anormal de la capa que reviste el canal cervical (parte interna del cuello uterino que conecta el útero con la vagina) con un instrumento en forma de cuchara llamado cureta. Luego, el tejido se examina al microscopio para determinar si hay signos de enfermedad. A veces se realiza un legrado endocervical con una colposcopia (procedimiento para el que se usa un instrumento con una lente de aumento y una luz a fin de examinar el cuello del útero, la vagina y la vulva). También se llama curetaje endocervical y raspado endocervical.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-04-07</DateLastModified>
+</GlossaryTerm>

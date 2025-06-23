@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000810675"><TermName>Lytgobi</TermName><TermPronunciation>(lite-GOH-bee)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with intrahepatic cholangiocarcinoma (a type of cancer that forms in the bile ducts inside the liver) that has spread or cannot be removed by surgery and has an <GeneName>FGFR2</GeneName> gene fusion or other change in the structure of the <GeneName>FGFR2</GeneName> gene. It is used in patients whose cancer has already been treated. It is also being studied in the treatment of other types of cancer.  Lytgobi blocks a protein called FGFR, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called futibatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811536" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lytgobi&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811537" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lytgobi&quot;" language="es" id="_4"/><SpanishTermName>Lytgobi</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con colangiocarcinoma intrahepático (tipo de cáncer que se forma en los conductos biliares del interior del hígado) que se diseminó, o que no se puede extirpar con cirugía, y que tiene una fusión del gen <GeneName>FGFR2</GeneName> u otro cambio en la estructura de este gen. Se usa en pacientes cuyo cáncer ya se trató. Además, está en estudio para el tratamiento de otros tipos de cáncer.  Lytgobi bloquea una proteína llamada FGFR, lo que quizás ayude a evitar la multiplicación de células cancerosas y es posible que las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama futibatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-10-06</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000810667" url="/about-cancer/treatment/drugs/futibatinib">Futibatinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810675">
+  <TermName>Lytgobi</TermName>
+  <TermPronunciation>(lite-GOH-bee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with intrahepatic cholangiocarcinoma (a type of cancer that forms in the bile ducts inside the liver) that has spread or cannot be removed by surgery and has an 
+      <GeneName>FGFR2</GeneName>
+       gene fusion or other change in the structure of the 
+      <GeneName>FGFR2</GeneName>
+       gene. It is used in patients whose cancer has already been treated. It is also being studied in the treatment of other types of cancer.  Lytgobi blocks a protein called FGFR, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called futibatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811536" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lytgobi&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811537" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lytgobi&quot;" language="es" id="_4"/>
+  <SpanishTermName>Lytgobi</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con colangiocarcinoma intrahepático (tipo de cáncer que se forma en los conductos biliares del interior del hígado) que se diseminó, o que no se puede extirpar con cirugía, y que tiene una fusión del gen 
+      <GeneName>FGFR2</GeneName>
+       u otro cambio en la estructura de este gen. Se usa en pacientes cuyo cáncer ya se trató. Además, está en estudio para el tratamiento de otros tipos de cáncer.  Lytgobi bloquea una proteína llamada FGFR, lo que quizás ayude a evitar la multiplicación de células cancerosas y es posible que las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama futibatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-10-06</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000810667" url="/about-cancer/treatment/drugs/futibatinib">Futibatinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

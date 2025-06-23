@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800678"><TermName>aesthetic flat closure</TermName><TermPronunciation>(es-THEH-tik flat KLOH-zher)</TermPronunciation><TermDefinition><DefinitionText>A type of surgery that is done to rebuild the shape of the chest wall after one or both breasts are removed. An aesthetic flat closure may also be done after removal of a breast implant that was used to restore breast shape. During an aesthetic flat closure, extra skin, fat, and other tissue in the breast area are removed. The remaining tissue is then tightened and smoothed out so that the chest wall appears flat.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802616" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aesthetic flat closure&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cierre estético plano&quot;" language="es" id="_4"/><SpanishTermName>cierre estético plano</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cirugía para reconstruir la forma de la pared torácica después de que se extirpan una o ambas mamas. A veces, también se hace un cierre estético  plano después de quitar un implante que se usó para restaurar la forma de la mama. Durante un cierre estético plano se saca el exceso de piel, grasa y otro tipo de tejido del área de la mama. El tejido que queda se estira y se alisa de manera que  la pared torácica quede plana.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-03-02</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800678">
+  <TermName>aesthetic flat closure</TermName>
+  <TermPronunciation>(es-THEH-tik flat KLOH-zher)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of surgery that is done to rebuild the shape of the chest wall after one or both breasts are removed. An aesthetic flat closure may also be done after removal of a breast implant that was used to restore breast shape. During an aesthetic flat closure, extra skin, fat, and other tissue in the breast area are removed. The remaining tissue is then tightened and smoothed out so that the chest wall appears flat.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802616" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aesthetic flat closure&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cierre estético plano&quot;" language="es" id="_4"/>
+  <SpanishTermName>cierre estético plano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cirugía para reconstruir la forma de la pared torácica después de que se extirpan una o ambas mamas. A veces, también se hace un cierre estético  plano después de quitar un implante que se usó para restaurar la forma de la mama. Durante un cierre estético plano se saca el exceso de piel, grasa y otro tipo de tejido del área de la mama. El tejido que queda se estira y se alisa de manera que  la pared torácica quede plana.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-03-02</DateFirstPublished>
+</GlossaryTerm>

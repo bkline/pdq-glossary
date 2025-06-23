@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044833"><TermName>tyrosine kinase inhibitor</TermName><TermPronunciation>(TY-ruh-seen KY-nays in-HIH-bih-ter)</TermPronunciation><TermDefinition><DefinitionText>A substance that blocks the action of enzymes called tyrosine kinases. Tyrosine kinases are a part of many cell functions, including cell signaling, growth, and division. These enzymes may be too active or found at high levels in some types of cancer cells, and blocking them may help keep cancer cells from growing. Some tyrosine kinase inhibitors are used to treat cancer. They are a type of targeted therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706043" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tyrosine kinase inhibitor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706044" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de tirosina–cinasas&quot;" language="es" id="_9"/><SpanishTermName>inhibidor de tirosina–cinasas</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que impide la acción de las enzimas llamadas tirosina–cinasas. Las tirosina–cinasas participan en muchas funciones de la célula, como la señalización, la división y la multiplicación celular. En algunos tipos de células cancerosas estas enzimas están demasiado activas o en concentraciones altas, por lo tanto, impedir su acción ayuda a evitar la multiplicación de las células cancerosas. Algunos inhibidores de tirosina–cinasas se usan para el tratamiento del cáncer. Son un tipo de terapia dirigida. También se llama inhibidor de cinasas de tirosina, inhibidor de tirosina–quinasas e inhibidor de tirosincinasas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-08-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044833">
+  <TermName>tyrosine kinase inhibitor</TermName>
+  <TermPronunciation>(TY-ruh-seen KY-nays in-HIH-bih-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that blocks the action of enzymes called tyrosine kinases. Tyrosine kinases are a part of many cell functions, including cell signaling, growth, and division. These enzymes may be too active or found at high levels in some types of cancer cells, and blocking them may help keep cancer cells from growing. Some tyrosine kinase inhibitors are used to treat cancer. They are a type of targeted therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706043" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tyrosine kinase inhibitor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706044" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de tirosina–cinasas&quot;" language="es" id="_9"/>
+  <SpanishTermName>inhibidor de tirosina–cinasas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que impide la acción de las enzimas llamadas tirosina–cinasas. Las tirosina–cinasas participan en muchas funciones de la célula, como la señalización, la división y la multiplicación celular. En algunos tipos de células cancerosas estas enzimas están demasiado activas o en concentraciones altas, por lo tanto, impedir su acción ayuda a evitar la multiplicación de las células cancerosas. Algunos inhibidores de tirosina–cinasas se usan para el tratamiento del cáncer. Son un tipo de terapia dirigida. También se llama inhibidor de cinasas de tirosina, inhibidor de tirosina–quinasas e inhibidor de tirosincinasas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-08-30</DateLastModified>
+</GlossaryTerm>

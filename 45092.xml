@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045092"><TermName>prophylactic surgery</TermName><TermPronunciation>(PROH-fih-LAK-tik SER-juh-ree)</TermPronunciation><TermDefinition><DefinitionText>Surgery to remove an organ or gland that shows no signs of cancer, in an attempt to prevent development of cancer of that organ or gland. Prophylactic surgery is sometimes chosen by people who know they are at high risk for developing cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prophylactic surgery&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704985" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirugía profiláctica&quot;" language="es" id="_4"/><SpanishTermName>cirugía profiláctica</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar un órgano o una glándula que no muestra signos de cáncer con el fin de prevenir que aparezca dicha enfermedad en el  órgano o glándula que se extirpa. A veces, las personas con un riesgo alto de cáncer deciden hacerse una cirugía profiláctica. También se llama cirugía para reducir el riesgo, cirugía preventiva y cirugía reductora de riesgo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045092">
+  <TermName>prophylactic surgery</TermName>
+  <TermPronunciation>(PROH-fih-LAK-tik SER-juh-ree)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to remove an organ or gland that shows no signs of cancer, in an attempt to prevent development of cancer of that organ or gland. Prophylactic surgery is sometimes chosen by people who know they are at high risk for developing cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prophylactic surgery&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704985" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirugía profiláctica&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirugía profiláctica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar un órgano o una glándula que no muestra signos de cáncer con el fin de prevenir que aparezca dicha enfermedad en el  órgano o glándula que se extirpa. A veces, las personas con un riesgo alto de cáncer deciden hacerse una cirugía profiláctica. También se llama cirugía para reducir el riesgo, cirugía preventiva y cirugía reductora de riesgo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046645"><TermName>uterus</TermName><TermPronunciation>(YOO-teh-rus)</TermPronunciation><TermDefinition><DefinitionText>The hollow, pear-shaped organ in a woman's pelvis. The uterus is where a fetus (unborn baby) develops and grows. Also called womb.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;uterus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;útero&quot;" language="es" id="_4"/><MediaLink ref="CDR0000609921" type="image/jpeg" alt="Anatomy of the female reproductive system; drawing shows the uterus, myometrium (muscular outer layer of the uterus), endometrium (inner lining of the uterus), ovaries, fallopian tubes, cervix, and vagina." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Anatomy of the female reproductive system. The organs in the female reproductive system include the uterus, ovaries, fallopian tubes, cervix, and vagina. The uterus has a muscular outer layer called the myometrium and an inner lining called the endometrium. </Caption></MediaLink><MediaLink ref="CDR0000650412" type="image/jpeg" alt="Anatomía del aparato reproductor femenino. En el dibujo de una mujer adulta se señalan el útero, el miometrio, que es la capa muscular externa del útero; el endometrio, que es la capa de tejido interno que reviste el útero; los ovarios, las trompas de Falopio, el cuello uterino y la vagina." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía del aparato reproductor femenino. Los órganos del aparato reproductor femenino incluyen el útero, los ovarios, las trompas de Falopio, el cuello uterino y la vagina. El útero tiene una capa muscular externa llamada miometrio y una capa de tejido interno llamada endometrio.</Caption></MediaLink><SpanishTermName>útero</SpanishTermName><SpanishTermDefinition><DefinitionText>Órgano hueco en forma de pera en la pelvis de la mujer. El útero es donde crece y se desarrolla el feto (bebé que no ha nacido). También se llama matriz.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-12-19</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/uterine">Uterine Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/uterino">Cáncer de útero</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046645">
+  <TermName>uterus</TermName>
+  <TermPronunciation>(YOO-teh-rus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The hollow, pear-shaped organ in a woman's pelvis. The uterus is where a fetus (unborn baby) develops and grows. Also called womb.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;uterus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;útero&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000609921" type="image/jpeg" alt="Anatomy of the female reproductive system; drawing shows the uterus, myometrium (muscular outer layer of the uterus), endometrium (inner lining of the uterus), ovaries, fallopian tubes, cervix, and vagina." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Anatomy of the female reproductive system. The organs in the female reproductive system include the uterus, ovaries, fallopian tubes, cervix, and vagina. The uterus has a muscular outer layer called the myometrium and an inner lining called the endometrium. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000650412" type="image/jpeg" alt="Anatomía del aparato reproductor femenino. En el dibujo de una mujer adulta se señalan el útero, el miometrio, que es la capa muscular externa del útero; el endometrio, que es la capa de tejido interno que reviste el útero; los ovarios, las trompas de Falopio, el cuello uterino y la vagina." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía del aparato reproductor femenino. Los órganos del aparato reproductor femenino incluyen el útero, los ovarios, las trompas de Falopio, el cuello uterino y la vagina. El útero tiene una capa muscular externa llamada miometrio y una capa de tejido interno llamada endometrio.</Caption>
+  </MediaLink>
+  <SpanishTermName>útero</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Órgano hueco en forma de pera en la pelvis de la mujer. El útero es donde crece y se desarrolla el feto (bebé que no ha nacido). También se llama matriz.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-12-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/uterine">Uterine Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/uterino">Cáncer de útero</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

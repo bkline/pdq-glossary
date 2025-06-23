@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000413895"><TermName>stage 0 gallbladder carcinoma in situ</TermName><TermPronunciation>(... GAWL-bla-der KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>Abnormal cells are found in the mucosa (innermost layer) of the gallbladder wall. These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713523" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 gallbladder carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713524" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de vesícula biliar in situ en estadio 0&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de vesícula biliar in situ en estadio 0</SpanishTermName><SpanishTermDefinition><DefinitionText>Se encuentran células anormales en la mucosa (capa más interna) de la pared de la vesícula biliar. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-04-23</DateFirstPublished><DateLastModified>2018-01-18</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000270720" url="/types/gallbladder/patient/gallbladder-treatment-pdq">Gallbladder Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256804" url="/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq">Tratamiento del cáncer de vesícula biliar</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413895">
+  <TermName>stage 0 gallbladder carcinoma in situ</TermName>
+  <TermPronunciation>(... GAWL-bla-der KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal cells are found in the mucosa (innermost layer) of the gallbladder wall. These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713523" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 gallbladder carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713524" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de vesícula biliar in situ en estadio 0&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de vesícula biliar in situ en estadio 0</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se encuentran células anormales en la mucosa (capa más interna) de la pared de la vesícula biliar. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-04-23</DateFirstPublished>
+  <DateLastModified>2018-01-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000270720" url="/types/gallbladder/patient/gallbladder-treatment-pdq">Gallbladder Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256804" url="/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq">Tratamiento del cáncer de vesícula biliar</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

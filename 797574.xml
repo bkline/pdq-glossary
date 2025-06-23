@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000797574"><TermName>erdafitinib</TermName><TermPronunciation>(ER-duh-FIH-tih-nib)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with urothelial cancer (a type of bladder or urinary tract cancer) that has spread and has an abnormal <GeneName>FGFR3</GeneName> gene. It is used in patients whose cancer got worse during or after treatment with at least one type of  systemic therapy. It is also being studied in the treatment of other types of cancer. Erdafitinib blocks a protein called FGFR, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called Balversa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798855" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;erdafitinib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798854" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;erdafitinib&quot;" language="es" id="_4"/><SpanishTermName>erdafitinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer urotelial (tipo de cáncer de vejiga o de aparato urinario) que se diseminó y que presenta un gen <GeneName>FGFR3</GeneName> anormal. Se utiliza en pacientes cuyo cáncer empeoró durante el tratamiento con por lo menos un tipo de terapia sistémica o después de este. También, está en estudio para el tratamiento de otros tipos de cáncer. El erdafitinib bloquea una  proteína  llamada FGFR, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama Balversa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-01</DateFirstPublished><DateLastModified>2024-01-22</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000797598" url="/about-cancer/treatment/drugs/erdafitinib">Erdafitinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797574">
+  <TermName>erdafitinib</TermName>
+  <TermPronunciation>(ER-duh-FIH-tih-nib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with urothelial cancer (a type of bladder or urinary tract cancer) that has spread and has an abnormal 
+      <GeneName>FGFR3</GeneName>
+       gene. It is used in patients whose cancer got worse during or after treatment with at least one type of  systemic therapy. It is also being studied in the treatment of other types of cancer. Erdafitinib blocks a protein called FGFR, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called Balversa.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798855" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;erdafitinib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798854" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;erdafitinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>erdafitinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer urotelial (tipo de cáncer de vejiga o de aparato urinario) que se diseminó y que presenta un gen 
+      <GeneName>FGFR3</GeneName>
+       anormal. Se utiliza en pacientes cuyo cáncer empeoró durante el tratamiento con por lo menos un tipo de terapia sistémica o después de este. También, está en estudio para el tratamiento de otros tipos de cáncer. El erdafitinib bloquea una  proteína  llamada FGFR, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama Balversa.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-01</DateFirstPublished>
+  <DateLastModified>2024-01-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000797598" url="/about-cancer/treatment/drugs/erdafitinib">Erdafitinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

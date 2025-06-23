@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000044397"><TermName>EGFR</TermName><TermDefinition><DefinitionText>A protein found on certain types of cells that binds to a substance called epidermal growth factor. The EGFR protein is involved in cell signaling pathways that control cell division and survival. Sometimes, mutations (changes) in the EGFR gene cause EGFR proteins to be made in higher than normal amounts on some types of cancer cells. This causes cancer cells to divide more rapidly. Drugs that block EGFR proteins are being used in the treatment of some types of cancer. EGFRs are a type of receptor tyrosine kinase. Also called epidermal growth factor receptor, ErbB1, and HER1.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>EGFR</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que se encuentra en la superficie de algunas células y que se une al factor de crecimiento epidérmico. La proteína EGFR participa en las vías de señalización celular que controlan la multiplicación y supervivencia de las células. A veces, las mutaciones en el gen <GeneName>EGFR</GeneName> hacen que se produzca una cantidad mayor a la normal de proteínas  EGFR en algunos tipos de células cancerosas, lo que hace que estas células se multipliquen más rápido. Los medicamentos que bloquean las proteínas EGFR se están usando para el tratamiento de algunos tipos de cáncer. Esta proteína es un tipo de receptor tirosina–cinasa. También se llama ErbB1, HER1 y receptor del factor de crecimiento epidérmico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-08-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044397">
+  <TermName>EGFR</TermName>
+  <TermDefinition>
+    <DefinitionText>A protein found on certain types of cells that binds to a substance called epidermal growth factor. The EGFR protein is involved in cell signaling pathways that control cell division and survival. Sometimes, mutations (changes) in the EGFR gene cause EGFR proteins to be made in higher than normal amounts on some types of cancer cells. This causes cancer cells to divide more rapidly. Drugs that block EGFR proteins are being used in the treatment of some types of cancer. EGFRs are a type of receptor tyrosine kinase. Also called epidermal growth factor receptor, ErbB1, and HER1.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>EGFR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Proteína que se encuentra en la superficie de algunas células y que se une al factor de crecimiento epidérmico. La proteína EGFR participa en las vías de señalización celular que controlan la multiplicación y supervivencia de las células. A veces, las mutaciones en el gen 
+      <GeneName>EGFR</GeneName>
+       hacen que se produzca una cantidad mayor a la normal de proteínas  EGFR en algunos tipos de células cancerosas, lo que hace que estas células se multipliquen más rápido. Los medicamentos que bloquean las proteínas EGFR se están usando para el tratamiento de algunos tipos de cáncer. Esta proteína es un tipo de receptor tirosina–cinasa. También se llama ErbB1, HER1 y receptor del factor de crecimiento epidérmico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-08-23</DateLastModified>
+</GlossaryTerm>

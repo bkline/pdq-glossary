@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045842"><TermName>pleura</TermName><TermPronunciation>(PLOOR-uh)</TermPronunciation><TermDefinition><DefinitionText>A thin layer of tissue that covers the lungs and lines the interior wall of the chest cavity. It protects and cushions the lungs. This tissue secretes a small amount of fluid that acts as a lubricant, allowing the lungs to move smoothly in the chest cavity while breathing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707323" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleura&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707322" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleura&quot;" language="es" id="_4"/><SpanishTermName>pleura</SpanishTermName><SpanishTermDefinition><DefinitionText>Capa delgada de tejido que recubre los pulmones y reviste la pared interior de la cavidad torácica. Protege y amortigua los pulmones. La pleura secreta una cantidad pequeña de líquido lubricante que permite el movimiento suave de los pulmones dentro de la cavidad torácica durante la respiración.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2008-02-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045842">
+  <TermName>pleura</TermName>
+  <TermPronunciation>(PLOOR-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A thin layer of tissue that covers the lungs and lines the interior wall of the chest cavity. It protects and cushions the lungs. This tissue secretes a small amount of fluid that acts as a lubricant, allowing the lungs to move smoothly in the chest cavity while breathing.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707323" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleura&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707322" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleura&quot;" language="es" id="_4"/>
+  <SpanishTermName>pleura</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Capa delgada de tejido que recubre los pulmones y reviste la pared interior de la cavidad torácica. Protege y amortigua los pulmones. La pleura secreta una cantidad pequeña de líquido lubricante que permite el movimiento suave de los pulmones dentro de la cavidad torácica durante la respiración.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2008-02-21</DateLastModified>
+</GlossaryTerm>

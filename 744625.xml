@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000744625"><TermName>palliative sedation</TermName><TermPronunciation>(PA-lee-uh-tiv seh-DAY-shun)</TermPronunciation><TermDefinition><DefinitionText>The use of special drugs called sedatives to relieve extreme suffering by making a patient calm, unaware, or unconscious. This may be done for patients who have symptoms that cannot be controlled with other treatment. Palliative sedation may be used in patients who are near the end of life to make them more comfortable. It is not meant to shorten life or cause death.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000749830" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palliative sedation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000749831" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sedación paliativa&quot;" language="es" id="_4"/><SpanishTermName>sedación paliativa</SpanishTermName><SpanishTermDefinition><DefinitionText>Uso de medicamentos especiales llamados sedantes para aliviar el sufrimiento extremo al producir en el paciente una sensación de calma, desconocimiento del entorno o inconsciencia. Se usa en pacientes con síntomas que no es posible controlar con otro tratamiento. La sedación paliativa a veces se utiliza en pacientes que están cerca de la etapa final de la vida para que se sientan más cómodos. Su propósito no es el de acortar la vida ni causar la muerte.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-03-07</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000577190" url="/about-cancer/advanced-cancer/caregivers/planning/last-days-pdq">Last Days of Life</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000584383" url="/espanol/cancer/cancer-avanzado/cuidadores/planificacion/etapa-final-pdq">Etapa final de la vida</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000744625">
+  <TermName>palliative sedation</TermName>
+  <TermPronunciation>(PA-lee-uh-tiv seh-DAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The use of special drugs called sedatives to relieve extreme suffering by making a patient calm, unaware, or unconscious. This may be done for patients who have symptoms that cannot be controlled with other treatment. Palliative sedation may be used in patients who are near the end of life to make them more comfortable. It is not meant to shorten life or cause death.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000749830" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palliative sedation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000749831" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sedación paliativa&quot;" language="es" id="_4"/>
+  <SpanishTermName>sedación paliativa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Uso de medicamentos especiales llamados sedantes para aliviar el sufrimiento extremo al producir en el paciente una sensación de calma, desconocimiento del entorno o inconsciencia. Se usa en pacientes con síntomas que no es posible controlar con otro tratamiento. La sedación paliativa a veces se utiliza en pacientes que están cerca de la etapa final de la vida para que se sientan más cómodos. Su propósito no es el de acortar la vida ni causar la muerte.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-03-07</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000577190" url="/about-cancer/advanced-cancer/caregivers/planning/last-days-pdq">Last Days of Life</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000584383" url="/espanol/cancer/cancer-avanzado/cuidadores/planificacion/etapa-final-pdq">Etapa final de la vida</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

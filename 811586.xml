@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000811586"><TermName>curative therapy</TermName><TermPronunciation>(KYOOR-uh-tiv THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment that is meant to cure an illness or disease with the goal of a full recovery that includes an acceptable quality of life. For cancer, a curative therapy approach depends on the cancer type and stage.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;curative therapy&quot;" language="en" id="_4"/><MediaLink ref="CDR0000813997" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento curativo&quot;" language="es" id="_5"/><SpanishTermName>tratamiento curativo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento que tiene como fin la curación de una enfermedad o dolencia para lograr una recuperación completa con una calidad de vida aceptable. El tipo de tratamiento  curativo depende del tipo de cáncer y del estadio del mismo. También se llama terapia curativa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811586">
+  <TermName>curative therapy</TermName>
+  <TermPronunciation>(KYOOR-uh-tiv THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that is meant to cure an illness or disease with the goal of a full recovery that includes an acceptable quality of life. For cancer, a curative therapy approach depends on the cancer type and stage.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;curative therapy&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000813997" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento curativo&quot;" language="es" id="_5"/>
+  <SpanishTermName>tratamiento curativo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento que tiene como fin la curación de una enfermedad o dolencia para lograr una recuperación completa con una calidad de vida aceptable. El tipo de tratamiento  curativo depende del tipo de cáncer y del estadio del mismo. También se llama terapia curativa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-23</DateFirstPublished>
+</GlossaryTerm>

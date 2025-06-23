@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000531816"><TermName>Genetics (Prevention) Level of Evidence: 3b</TermName><TermDefinition><DefinitionText>Cohort or case-control studies, preferably from more than one center or research group with a generally accepted intermediate endpoint. See <SummaryRef href="CDR0000685387" url="/publications/pdq/levels-evidence/genetics">Levels of Evidence for Cancer Genetics Studies</SummaryRef> for more information.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia científica de la información sobre la genética del cáncer (prevención): 3b</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudios de cohortes o de casos y controles, preferiblemente de más de un centro o grupo de investigación, en los que se usa un criterio de valoración intermedio aceptado de manera generalizada. Para obtener más información, consultar el resumen <SummaryRef href="CDR0000802493" url="/espanol/publicaciones/pdq/niveles-de-evidencia/genetica">Niveles de evidencia de los estudios sobre las características genéticas del cáncer</SummaryRef>.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-01-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000531816">
+  <TermName>Genetics (Prevention) Level of Evidence: 3b</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      Cohort or case-control studies, preferably from more than one center or research group with a generally accepted intermediate endpoint. See 
+      <SummaryRef href="CDR0000685387" url="/publications/pdq/levels-evidence/genetics">Levels of Evidence for Cancer Genetics Studies</SummaryRef>
+       for more information.
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia científica de la información sobre la genética del cáncer (prevención): 3b</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Estudios de cohortes o de casos y controles, preferiblemente de más de un centro o grupo de investigación, en los que se usa un criterio de valoración intermedio aceptado de manera generalizada. Para obtener más información, consultar el resumen 
+      <SummaryRef href="CDR0000802493" url="/espanol/publicaciones/pdq/niveles-de-evidencia/genetica">Niveles de evidencia de los estudios sobre las características genéticas del cáncer</SummaryRef>
+      .
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-01-25</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000350247"><TermName>sodium thiosulfate anhydrous</TermName><TermPronunciation>(SOH-dee-um THY-oh-SUL-fayt an-HY-drus)</TermPronunciation><TermDefinition><DefinitionText>A drug used to reduce the risk of hearing loss in children aged 1 month and older who are receiving cisplatin (a type of anticancer drug) for solid tumors that have not spread to other parts of the body. It is also being studied in the prevention and treatment of other conditions. Sodium thiosulfate anhydrous is a type of chemoprotective agent. Also called Pedmark.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711166" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sodium thiosulfate anhydrous&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711165" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiosulfato de sodio anhidro&quot;" language="es" id="_4"/><SpanishTermName>tiosulfato de sodio anhidro</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para reducir el riesgo de la  pérdida auditiva en niños de 1 año o más que reciben cisplatino (tipo de medicamento anticanceroso) para el tratamiento de tumores sólidos que no se han diseminado a otras partes del cuerpo. También está en estudio para la prevención y el tratamiento de otras afecciones. El tiosulfato de sodio anhidro es un tipo de quimioprotector. También se llama Pedmark.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-12-23</DateFirstPublished><DateLastModified>2022-09-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000350247">
+  <TermName>sodium thiosulfate anhydrous</TermName>
+  <TermPronunciation>(SOH-dee-um THY-oh-SUL-fayt an-HY-drus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to reduce the risk of hearing loss in children aged 1 month and older who are receiving cisplatin (a type of anticancer drug) for solid tumors that have not spread to other parts of the body. It is also being studied in the prevention and treatment of other conditions. Sodium thiosulfate anhydrous is a type of chemoprotective agent. Also called Pedmark.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711166" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sodium thiosulfate anhydrous&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711165" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiosulfato de sodio anhidro&quot;" language="es" id="_4"/>
+  <SpanishTermName>tiosulfato de sodio anhidro</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para reducir el riesgo de la  pérdida auditiva en niños de 1 año o más que reciben cisplatino (tipo de medicamento anticanceroso) para el tratamiento de tumores sólidos que no se han diseminado a otras partes del cuerpo. También está en estudio para la prevención y el tratamiento de otras afecciones. El tiosulfato de sodio anhidro es un tipo de quimioprotector. También se llama Pedmark.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-12-23</DateFirstPublished>
+  <DateLastModified>2022-09-21</DateLastModified>
+</GlossaryTerm>

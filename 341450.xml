@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000341450"><TermName>immunophenotyping</TermName><TermPronunciation>(IH-myoo-noh-FEE-noh-ty-ping)</TermPronunciation><TermDefinition><DefinitionText>A process that uses antibodies to identify cells based on the types of antigens or markers on the surface of the cells. This process is used in basic research and to help diagnose diseases, such as specific types of leukemia and lymphoma. Immunophenotyping may also be used to separate cells into different groups based on the markers they have on the surface.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711177" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunophenotyping&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711178" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunofenotipificación&quot;" language="es" id="_4"/><SpanishTermName>inmunofenotipificación</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso en el que se usan anticuerpos para identificar células según el tipo de antígenos o marcadores en su superficie. Este proceso se utiliza para diagnosticar tipos específicos de leucemia y linfoma por medio de la comparación de las células cancerosas con las células normales del sistema inmunitario. La inmunofenotipificación sirve también para separar células en grupos diferentes de acuerdo con los marcadores que tengan en su superficie. También se llama inmunofenotipado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-25</DateFirstPublished><DateLastModified>2019-07-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000341450">
+  <TermName>immunophenotyping</TermName>
+  <TermPronunciation>(IH-myoo-noh-FEE-noh-ty-ping)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A process that uses antibodies to identify cells based on the types of antigens or markers on the surface of the cells. This process is used in basic research and to help diagnose diseases, such as specific types of leukemia and lymphoma. Immunophenotyping may also be used to separate cells into different groups based on the markers they have on the surface.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711177" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunophenotyping&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711178" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunofenotipificación&quot;" language="es" id="_4"/>
+  <SpanishTermName>inmunofenotipificación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso en el que se usan anticuerpos para identificar células según el tipo de antígenos o marcadores en su superficie. Este proceso se utiliza para diagnosticar tipos específicos de leucemia y linfoma por medio de la comparación de las células cancerosas con las células normales del sistema inmunitario. La inmunofenotipificación sirve también para separar células en grupos diferentes de acuerdo con los marcadores que tengan en su superficie. También se llama inmunofenotipado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-25</DateFirstPublished>
+  <DateLastModified>2019-07-23</DateLastModified>
+</GlossaryTerm>

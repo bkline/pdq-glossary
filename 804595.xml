@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000804595"><TermName>androgen-sensitive prostate cancer</TermName><TermPronunciation>(AN-droh-jen-SEN-sih-tiv PROS-tayt KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Prostate cancer that needs androgens (male hormones) to grow and therefore stops growing when androgens are not present. Many early-stage prostate cancers are androgen-dependent, so reducing the amount of androgens in the body or blocking their action may be an effective type of therapy. Also called androgen-dependent prostate cancer, castrate-sensitive prostate cancer, CSPC, hormone-sensitive prostate cancer, and HSPC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;androgen-sensitive prostate cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de próstata sensible a andrógenos&quot;" language="es" id="_4"/><SpanishTermName>cáncer de próstata sensible a andrógenos</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer de próstata que necesita andrógenos (hormonas masculinas) para crecer y que, por consiguiente, deja de crecer cuando no hay andrógenos. Muchos de los cánceres de próstata en estadio temprano son de este tipo, por lo que reducir o bloquear la cantidad de andrógenos en el cuerpo quizás sea una forma de tratamiento eficaz. También se llama cáncer de próstata dependiente de andrógenos, cáncer de próstata sensible a hormonas, cáncer de próstata sensible a la castración, CPHS y CSPC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-09-10</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet" UseWith="en">Hormone Therapy for Prostate Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-terapia-hormonal" UseWith="es">Terapia hormonal para el cáncer de próstata</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804595">
+  <TermName>androgen-sensitive prostate cancer</TermName>
+  <TermPronunciation>(AN-droh-jen-SEN-sih-tiv PROS-tayt KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Prostate cancer that needs androgens (male hormones) to grow and therefore stops growing when androgens are not present. Many early-stage prostate cancers are androgen-dependent, so reducing the amount of androgens in the body or blocking their action may be an effective type of therapy. Also called androgen-dependent prostate cancer, castrate-sensitive prostate cancer, CSPC, hormone-sensitive prostate cancer, and HSPC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;androgen-sensitive prostate cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de próstata sensible a andrógenos&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de próstata sensible a andrógenos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer de próstata que necesita andrógenos (hormonas masculinas) para crecer y que, por consiguiente, deja de crecer cuando no hay andrógenos. Muchos de los cánceres de próstata en estadio temprano son de este tipo, por lo que reducir o bloquear la cantidad de andrógenos en el cuerpo quizás sea una forma de tratamiento eficaz. También se llama cáncer de próstata dependiente de andrógenos, cáncer de próstata sensible a hormonas, cáncer de próstata sensible a la castración, CPHS y CSPC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-09-10</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet" UseWith="en">Hormone Therapy for Prostate Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-terapia-hormonal" UseWith="es">Terapia hormonal para el cáncer de próstata</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

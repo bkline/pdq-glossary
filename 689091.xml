@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000689091"><TermName>prosthetist</TermName><TermPronunciation>(PROS-theh-tist)</TermPronunciation><TermDefinition><DefinitionText>A person who has special training in making and fitting artificial body parts, such as arms or legs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733322" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prosthetist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733323" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;protésico&quot;" language="es" id="_4"/><SpanishTermName>protésico</SpanishTermName><SpanishTermDefinition><DefinitionText>Persona que tiene una formación especial para hacer prótesis (partes artificiales del cuerpo, como brazos y piernas)  y ajustarlas a la persona que las usa. También se llama protesista.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-08-22</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000689091">
+  <TermName>prosthetist</TermName>
+  <TermPronunciation>(PROS-theh-tist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A person who has special training in making and fitting artificial body parts, such as arms or legs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733322" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prosthetist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733323" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;protésico&quot;" language="es" id="_4"/>
+  <SpanishTermName>protésico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Persona que tiene una formación especial para hacer prótesis (partes artificiales del cuerpo, como brazos y piernas)  y ajustarlas a la persona que las usa. También se llama protesista.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-08-22</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

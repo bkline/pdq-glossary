@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000814666"><TermName>lymphovenous bypass</TermName><TermPronunciation>(LIM-foh-VEE-nus BY-pass)</TermPronunciation><TermDefinition><DefinitionText>Surgery done to help relieve symptoms of lymphedema (swelling caused by a buildup of lymph in the tissues). Lymphedema can occur when lymph vessels or nodes become damaged or blocked. During a lymphovenous bypass, lymph vessels are rerouted to connect directly to nearby veins in the affected part of the body so that lymph can flow around the damaged or blocked area. This creates a new path for lymph to re-enter the bloodstream and travel through the body. Also called LVA, LVB, and lymphaticovenous anastomosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815689" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphovenous bypass&quot;" language="en" id="_4"/><MediaLink ref="CDR0000815690" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;derivación linfovenosa&quot;" language="es" id="_5"/><SpanishTermName>derivación linfovenosa</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía que ayuda a aliviar los síntomas del linfedema (hinchazón que se produce cuando la linfa se acumula en el tejido). El linfedema ocurre cuando los vasos o los ganglios linfáticos se dañan o bloquean. Durante la derivación linfovenosa se crea una desviación de los vasos linfáticos y estos se conectan con las venas cercanas a la parte del cuerpo afectada, de modo que la linfa fluya alrededor del área dañada u obstruida. Esto crea una nueva vía para que la linfa regrese al torrente sanguíneo y circule a través del cuerpo. También se llama ALV, anastomosis linfovenosa, baipás linfovenoso y LVB.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-03-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814666">
+  <TermName>lymphovenous bypass</TermName>
+  <TermPronunciation>(LIM-foh-VEE-nus BY-pass)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery done to help relieve symptoms of lymphedema (swelling caused by a buildup of lymph in the tissues). Lymphedema can occur when lymph vessels or nodes become damaged or blocked. During a lymphovenous bypass, lymph vessels are rerouted to connect directly to nearby veins in the affected part of the body so that lymph can flow around the damaged or blocked area. This creates a new path for lymph to re-enter the bloodstream and travel through the body. Also called LVA, LVB, and lymphaticovenous anastomosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815689" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphovenous bypass&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000815690" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;derivación linfovenosa&quot;" language="es" id="_5"/>
+  <SpanishTermName>derivación linfovenosa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía que ayuda a aliviar los síntomas del linfedema (hinchazón que se produce cuando la linfa se acumula en el tejido). El linfedema ocurre cuando los vasos o los ganglios linfáticos se dañan o bloquean. Durante la derivación linfovenosa se crea una desviación de los vasos linfáticos y estos se conectan con las venas cercanas a la parte del cuerpo afectada, de modo que la linfa fluya alrededor del área dañada u obstruida. Esto crea una nueva vía para que la linfa regrese al torrente sanguíneo y circule a través del cuerpo. También se llama ALV, anastomosis linfovenosa, baipás linfovenoso y LVB.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-03-01</DateFirstPublished>
+</GlossaryTerm>

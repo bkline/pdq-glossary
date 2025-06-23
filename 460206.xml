@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000460206"><TermName>positive predictive value</TermName><TermPronunciation>(PAH-zih-tiv preh-DIK-tiv VAL-yoo)</TermPronunciation><TermDefinition><DefinitionText>The likelihood that an individual with a positive test result truly has the particular gene and/or disease in question. Also called PPV.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>The likelihood that a person who has a positive test result does have the disease, condition, biomarker, or mutation (change) in the gene being tested. The positive predictive value is a way of measuring how accurate a specific test is. Also called PPV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positive predictive value&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804236" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor predictivo de un resultado positivo&quot;" language="es" id="_4"/><SpanishTermName>valor predictivo de un resultado positivo</SpanishTermName><SpanishTermDefinition><DefinitionText>Probabilidad de que una persona con un resultado positivo en una prueba verdaderamente tenga el gen o enfermedad en estudio. También se llama valor diagnóstico de un resultado positivo, valor predictivo positivo y VPP.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Probabilidad de que una persona con un resultado positivo en una prueba tenga la enfermedad, afección, biomarcador o mutación (cambio) en el gen evaluado. El valor predictivo de un resultado positivo  es una manera de medir qué tan exacta es una prueba determinada. También se llama valor diagnóstico de un resultado positivo, valor predictivo positivo y VPP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460206">
+  <TermName>positive predictive value</TermName>
+  <TermPronunciation>(PAH-zih-tiv preh-DIK-tiv VAL-yoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The likelihood that an individual with a positive test result truly has the particular gene and/or disease in question. Also called PPV.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The likelihood that a person who has a positive test result does have the disease, condition, biomarker, or mutation (change) in the gene being tested. The positive predictive value is a way of measuring how accurate a specific test is. Also called PPV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positive predictive value&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804236" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor predictivo de un resultado positivo&quot;" language="es" id="_4"/>
+  <SpanishTermName>valor predictivo de un resultado positivo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Probabilidad de que una persona con un resultado positivo en una prueba verdaderamente tenga el gen o enfermedad en estudio. También se llama valor diagnóstico de un resultado positivo, valor predictivo positivo y VPP.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Probabilidad de que una persona con un resultado positivo en una prueba tenga la enfermedad, afección, biomarcador o mutación (cambio) en el gen evaluado. El valor predictivo de un resultado positivo  es una manera de medir qué tan exacta es una prueba determinada. También se llama valor diagnóstico de un resultado positivo, valor predictivo positivo y VPP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

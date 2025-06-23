@@ -1,5 +1,33 @@
-<GlossaryTerm id="CDR0000045136"><TermName>stage I melanoma</TermName><TermPronunciation>(... MEH-luh-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Stage I is divided into stages IA and IB. In stage IA, the tumor is not more than 1 millimeter thick, with or without ulceration (a break in the skin).   In stage IB, the tumor is more than 1 but not more than 2 millimeters thick, without ulceration.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705058" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I melanoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705059" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma en estadio I&quot;" language="es" id="_4"/><MediaLink ref="CDR0000579053" type="image/jpeg" alt="Two-panel drawing of stage I melanoma; the panel on the left shows a stage IA tumor that is not more than 1 millimeter thick, with ulceration (a break in the skin) and without ulceration. The panel on the right shows a stage IB tumor that is more than 1 but not more than 2 millimeters thick, without ulceration. Also shown are the epidermis (outer layer of the skin), the dermis (inner layer of the skin), and the subcutaneous tissue below the dermis." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Stage I melanoma. In stage IA, the tumor is not more than 1 millimeter thick, with or without ulceration (a break in the skin). In stage IB, the tumor is more than 1 but not more than 2 millimeters thick, without ulceration. Skin thickness is different on different parts of the body.</Caption></MediaLink><MediaLink ref="CDR0000609803" type="image/jpeg" alt="Dibujo de dos paneles del melanoma en estadio I. En el panel de la izquierda se observa un tumor en estadio IA que no mide más de 1 mm de grosor, y hay ulceración (rotura de la piel) o no hay ulceración. En el panel de la derecha se observa un tumor en estadio IB que mide más de 1 mm pero no más de 2 mm y no hay ulceración. También se muestran la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis." language="es" audience="Patients" placement="image-center" id="_5"><Caption language="es">Melanoma en estadio I. En el estadio IA, el tumor no mide más de 1 mm de grosor, y hay ulceración (rotura de la piel) o no hay ulceración. En el estadio IB, el tumor mide más de 1 mm pero no más de 2 mm de grosor y no hay ulceración. El grosor de la piel es distinto en diferentes partes del cuerpo.</Caption></MediaLink><SpanishTermName>melanoma en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio I se divide en los
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045136">
+  <TermName>stage I melanoma</TermName>
+  <TermPronunciation>(... MEH-luh-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage I is divided into stages IA and IB. In stage IA, the tumor is not more than 1 millimeter thick, with or without ulceration (a break in the skin).   In stage IB, the tumor is more than 1 but not more than 2 millimeters thick, without ulceration.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705058" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I melanoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705059" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma en estadio I&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000579053" type="image/jpeg" alt="Two-panel drawing of stage I melanoma; the panel on the left shows a stage IA tumor that is not more than 1 millimeter thick, with ulceration (a break in the skin) and without ulceration. The panel on the right shows a stage IB tumor that is more than 1 but not more than 2 millimeters thick, without ulceration. Also shown are the epidermis (outer layer of the skin), the dermis (inner layer of the skin), and the subcutaneous tissue below the dermis." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Stage I melanoma. In stage IA, the tumor is not more than 1 millimeter thick, with or without ulceration (a break in the skin). In stage IB, the tumor is more than 1 but not more than 2 millimeters thick, without ulceration. Skin thickness is different on different parts of the body.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000609803" type="image/jpeg" alt="Dibujo de dos paneles del melanoma en estadio I. En el panel de la izquierda se observa un tumor en estadio IA que no mide más de 1 mm de grosor, y hay ulceración (rotura de la piel) o no hay ulceración. En el panel de la derecha se observa un tumor en estadio IB que mide más de 1 mm pero no más de 2 mm y no hay ulceración. También se muestran la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis." language="es" audience="Patients" placement="image-center" id="_5">
+    <Caption language="es">Melanoma en estadio I. En el estadio IA, el tumor no mide más de 1 mm de grosor, y hay ulceración (rotura de la piel) o no hay ulceración. En el estadio IB, el tumor mide más de 1 mm pero no más de 2 mm de grosor y no hay ulceración. El grosor de la piel es distinto en diferentes partes del cuerpo.</Caption>
+  </MediaLink>
+  <SpanishTermName>melanoma en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio I se divide en los
 estadios IA y IB. En el estadio IA, el tumor no mide más de
 1 mm de grosor y a veces hay ulceración (rotura de la piel). En el estadio IB, el tumor mide más de 1
 mm pero no más de 2 mm de grosor y no hay
-ulceración.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-09-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062713" url="/types/skin/patient/melanoma-treatment-pdq">Melanoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256816" url="/espanol/tipos/piel/paciente/tratamiento-melanoma-pdq">Tratamiento del melanoma</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+ulceración.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-09-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062713" url="/types/skin/patient/melanoma-treatment-pdq">Melanoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256816" url="/espanol/tipos/piel/paciente/tratamiento-melanoma-pdq">Tratamiento del melanoma</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

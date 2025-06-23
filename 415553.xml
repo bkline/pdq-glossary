@@ -1,4 +1,8 @@
-<GlossaryTerm id="CDR0000415553"><TermName>AMD 3100</TermName><TermDefinition><DefinitionText>A drug used
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000415553">
+  <TermName>AMD 3100</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used
           with granulocyte colony-stimulating factor before an
           autologous stem cell transplant in patients with
           non-Hodgkin lymphoma or multiple myeloma. It is also being
@@ -7,8 +11,23 @@
           from the bone marrow to the blood so they can be collected,
           stored, and then given back to the patient.
           AMD 3100 is a type of
-          hematopoietic stem cell mobilizer. Also called Mozobil and plerixafor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AMD 3100</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con un factor estimulante de colonias de granulocitos antes de
+          hematopoietic stem cell mobilizer. Also called Mozobil and plerixafor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AMD 3100</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con un factor estimulante de colonias de granulocitos antes de
 un trasplante autógeno de células madre en pacientes con linfoma no Hodgkin o mieloma múltiple.
 También está en estudio para el tratamiento de otros tipos de cáncer. AMD 3100 ayuda a que las células madre salgan de la
 médula ósea y pasen a la sangre para que sea posible extraerlas, almacenarlas y devolverlas al paciente.
-AMD 3100 es un tipo de movilizador de células madre hematopoyéticas. También se llama Mozobil y plerixafor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished><DateLastModified>2021-05-18</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000630629" url="/about-cancer/treatment/drugs/plerixafor">Plerixafor</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+AMD 3100 es un tipo de movilizador de células madre hematopoyéticas. También se llama Mozobil y plerixafor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+  <DateLastModified>2021-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000630629" url="/about-cancer/treatment/drugs/plerixafor">Plerixafor</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

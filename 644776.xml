@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000644776"><TermName>Shwachman-Diamond syndrome</TermName><TermPronunciation>(SHWAK-mun-DY-mund SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder in which the pancreas and bone marrow do not work the way they should. Symptoms include problems digesting food, a low number of neutrophils (a type of white blood cell), bone problems, and being short. Infants with the disorder get bacterial infections and are at an increased risk of aplastic anemia, myelodysplastic syndrome, and leukemia. Also called SDS and Shwachman syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726299" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Shwachman-Diamond syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome Shwachman-Diamond&quot;" language="es" id="_4"/><SpanishTermName>síndrome Shwachman-Diamond</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro por el cual el páncreas y la médula ósea no funcionan bien. Los síntomas incluyen problemas para digerir los alimentos, cantidad baja de neutrófilos (tipo de glóbulo blanco), alteraciones de los huesos y estatura baja. Los lactantes con este trastorno presentan infecciones bacterianas y un mayor riesgo de anemia aplásica, síndrome mielodisplásico y leucemia. También se llama SDS y síndrome de Shwachman.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-13</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/4863/shwachman-diamond-syndrome">Shwachman-Diamond syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/shwachman-diamond-syndrome/">Shwachman-Diamond syndrome (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644776">
+  <TermName>Shwachman-Diamond syndrome</TermName>
+  <TermPronunciation>(SHWAK-mun-DY-mund SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder in which the pancreas and bone marrow do not work the way they should. Symptoms include problems digesting food, a low number of neutrophils (a type of white blood cell), bone problems, and being short. Infants with the disorder get bacterial infections and are at an increased risk of aplastic anemia, myelodysplastic syndrome, and leukemia. Also called SDS and Shwachman syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726299" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Shwachman-Diamond syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome Shwachman-Diamond&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome Shwachman-Diamond</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno hereditario raro por el cual el páncreas y la médula ósea no funcionan bien. Los síntomas incluyen problemas para digerir los alimentos, cantidad baja de neutrófilos (tipo de glóbulo blanco), alteraciones de los huesos y estatura baja. Los lactantes con este trastorno presentan infecciones bacterianas y un mayor riesgo de anemia aplásica, síndrome mielodisplásico y leucemia. También se llama SDS y síndrome de Shwachman.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-13</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/4863/shwachman-diamond-syndrome">Shwachman-Diamond syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/shwachman-diamond-syndrome/">Shwachman-Diamond syndrome (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

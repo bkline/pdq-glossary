@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000460148"><TermName>familial</TermName><TermPronunciation>(fuh-MIH-lee-ul)</TermPronunciation><TermDefinition><DefinitionText>Having to do with a phenotype or trait that occurs with greater frequency in a given family than in the general population. Familial traits may be related to shared genetic factors and/or shared lifestyle or environmental factors.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736948" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familial&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804220" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familiar&quot;" language="es" id="_4"/><SpanishTermName>familiar</SpanishTermName><SpanishTermDefinition><DefinitionText>Relacionado con un fenotipo o rasgo que es más frecuente en una familia determinada que en la población general. Es posible que los rasgos familiares estén relacionados con factores genéticos y estilos de vida compartidos, o factores ambientales.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460148">
+  <TermName>familial</TermName>
+  <TermPronunciation>(fuh-MIH-lee-ul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Having to do with a phenotype or trait that occurs with greater frequency in a given family than in the general population. Familial traits may be related to shared genetic factors and/or shared lifestyle or environmental factors.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736948" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familial&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804220" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familiar&quot;" language="es" id="_4"/>
+  <SpanishTermName>familiar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Relacionado con un fenotipo o rasgo que es más frecuente en una familia determinada que en la población general. Es posible que los rasgos familiares estén relacionados con factores genéticos y estilos de vida compartidos, o factores ambientales.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000616123"><TermName>dolasetron mesylate</TermName><TermPronunciation>(doh-LAH-seh-tron MEH-zih-layt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to prevent nausea and vomiting caused by chemotherapy. Dolasetron mesylate blocks the action of the chemical serotonin, which binds to certain nerves and may trigger nausea and vomiting. Blocking serotonin may help lessen nausea and vomiting. Dolasetron mesylate  is a type of serotonin receptor antagonist and a type of antiemetic.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721164" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dolasetron mesylate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mesilato de dolasetrón&quot;" language="es" id="_4"/><SpanishTermName>mesilato de dolasetrón</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para prevenir las náuseas y los vómitos producidos por la quimioterapia. El mesilato de dolasetrón impide la acción de la sustancia química serotonina, que se une a ciertos nervios y puede provocar náuseas y vómitos. El bloqueo de la serotonina quizás ayude a disminuir las náuseas y los vómitos. El mesilato de dolasetrón es un tipo de antiemético y de antagonista del receptor de serotonina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-10-01</DateFirstPublished><DateLastModified>2018-09-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000616123">
+  <TermName>dolasetron mesylate</TermName>
+  <TermPronunciation>(doh-LAH-seh-tron MEH-zih-layt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to prevent nausea and vomiting caused by chemotherapy. Dolasetron mesylate blocks the action of the chemical serotonin, which binds to certain nerves and may trigger nausea and vomiting. Blocking serotonin may help lessen nausea and vomiting. Dolasetron mesylate  is a type of serotonin receptor antagonist and a type of antiemetic.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721164" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dolasetron mesylate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mesilato de dolasetrón&quot;" language="es" id="_4"/>
+  <SpanishTermName>mesilato de dolasetrón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para prevenir las náuseas y los vómitos producidos por la quimioterapia. El mesilato de dolasetrón impide la acción de la sustancia química serotonina, que se une a ciertos nervios y puede provocar náuseas y vómitos. El bloqueo de la serotonina quizás ayude a disminuir las náuseas y los vómitos. El mesilato de dolasetrón es un tipo de antiemético y de antagonista del receptor de serotonina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-10-01</DateFirstPublished>
+  <DateLastModified>2018-09-04</DateLastModified>
+</GlossaryTerm>

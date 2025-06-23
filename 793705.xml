@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000793705"><TermName>stage II adult soft tissue sarcoma of the retroperitoneum</TermName><TermPronunciation>(… uh-DULT ... TIH-shoo sar-KOH-muh ... REH-troh-PAYR-ih-toh-NEE-um)</TermPronunciation><TermDefinition><DefinitionText>The tumor is 5 centimeters or smaller and is mid grade or high grade. Mid-grade and high-grade cancer cells look more abnormal under a microscope and grow and spread more quickly than low-grade cancer cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795185" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II adult soft tissue sarcoma of the retroperitoneum&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de tejido blando del retroperitoneo en estadio II en adultos&quot;" language="es" id="_4"/><SpanishTermName>sarcoma de tejido blando del retroperitoneo en estadio II en adultos</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor mide 5 cm o menos, y es de grado intermedio o alto. Las células cancerosas de grado intermedio o alto se ven más anormales cuando se observan al microscopio; además, se multiplican y diseminan más rápido que las células cancerosas de grado bajo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-06-25</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258102" url="/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq">Soft Tissue Sarcoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000520407" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq">Tratamiento del sarcoma de tejido blando</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793705">
+  <TermName>stage II adult soft tissue sarcoma of the retroperitoneum</TermName>
+  <TermPronunciation>(… uh-DULT ... TIH-shoo sar-KOH-muh ... REH-troh-PAYR-ih-toh-NEE-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is 5 centimeters or smaller and is mid grade or high grade. Mid-grade and high-grade cancer cells look more abnormal under a microscope and grow and spread more quickly than low-grade cancer cells.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795185" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II adult soft tissue sarcoma of the retroperitoneum&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de tejido blando del retroperitoneo en estadio II en adultos&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma de tejido blando del retroperitoneo en estadio II en adultos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor mide 5 cm o menos, y es de grado intermedio o alto. Las células cancerosas de grado intermedio o alto se ven más anormales cuando se observan al microscopio; además, se multiplican y diseminan más rápido que las células cancerosas de grado bajo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-06-25</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258102" url="/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq">Soft Tissue Sarcoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000520407" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq">Tratamiento del sarcoma de tejido blando</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

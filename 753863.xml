@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000753863"><TermName>CISNET</TermName><TermDefinition><DefinitionText>A group of researchers supported by the National Cancer Institute (NCI) who use statistical models to help understand how cancer prevention, screening, and treatment programs can affect the number of new cases of cancer diagnosed each year and the number of deaths from cancer each year. The CISNET is now studying breast, colorectal, esophageal, lung, and prostate cancers. The models they create help guide future cancer control strategies, research priorities, policies, and decision making. Also called Cancer Intervention and Surveillance Modeling Network.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CISNET</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de investigadores auspiciado por el Instituto Nacional del Cáncer (NCI) que utiliza modelos estadísticos para entender el efecto de los programas de prevención, detección y tratamiento del cáncer en el número anual de casos nuevos y muertes por esta enfermedad.  En la actualidad, CISNET estudia varios tipos de cáncer, entre otros, de mama, colon y recto, esófago, pulmón y próstata. Estos modelos estadísticos orientan  las estrategias de control, prioridades de investigación, políticas y decisiones sobre el cáncer en el futuro.  También se llama Red de Modelos de Intervención y Vigilancia del Cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-01-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000753863">
+  <TermName>CISNET</TermName>
+  <TermDefinition>
+    <DefinitionText>A group of researchers supported by the National Cancer Institute (NCI) who use statistical models to help understand how cancer prevention, screening, and treatment programs can affect the number of new cases of cancer diagnosed each year and the number of deaths from cancer each year. The CISNET is now studying breast, colorectal, esophageal, lung, and prostate cancers. The models they create help guide future cancer control strategies, research priorities, policies, and decision making. Also called Cancer Intervention and Surveillance Modeling Network.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CISNET</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de investigadores auspiciado por el Instituto Nacional del Cáncer (NCI) que utiliza modelos estadísticos para entender el efecto de los programas de prevención, detección y tratamiento del cáncer en el número anual de casos nuevos y muertes por esta enfermedad.  En la actualidad, CISNET estudia varios tipos de cáncer, entre otros, de mama, colon y recto, esófago, pulmón y próstata. Estos modelos estadísticos orientan  las estrategias de control, prioridades de investigación, políticas y decisiones sobre el cáncer en el futuro.  También se llama Red de Modelos de Intervención y Vigilancia del Cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-01-28</DateFirstPublished>
+</GlossaryTerm>

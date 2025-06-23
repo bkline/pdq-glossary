@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000796818"><TermName>NTRK gene fusion</TermName><TermPronunciation>(… jeen FYOO-zhun)</TermPronunciation><TermDefinition><DefinitionText>A mutation (change) that occurs when a piece of the chromosome containing a gene called NTRK breaks off and joins with a gene on another chromosome. NTRK gene fusions lead to abnormal proteins called TRK fusion proteins, which may cause cancer cells to grow. NTRK gene fusions may be found in some types of cancer, including cancers of the brain, head and neck, thyroid, soft tissue, lung, and colon. Also called neurotrophic tyrosine receptor kinase gene fusion.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797978" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NTRK gene fusion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797977" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusión de gen NTRK&quot;" language="es" id="_4"/><SpanishTermName>fusión de gen NTRK</SpanishTermName><SpanishTermDefinition><DefinitionText>Mutación (cambio) que se presenta cuando se rompe una sección del cromosoma que contiene un gen <GeneName>NTRK</GeneName> y se une con un gen en otro cromosoma. Las fusiones de genes NTRK hacen que se produzcan proteínas anormales llamadas proteínas de fusión  TRK, y es posible que estimulen la multiplicación de células cancerosas. A veces, se encuentran fusiones de genes NTRK en algunos tipos de cáncer, como el cáncer de encéfalo, cabeza y cuello, tiroides, tejido blando, pulmón y colon. También se llama fusión de gen de receptor tirosina–cinasa neurotrófico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796818">
+  <TermName>NTRK gene fusion</TermName>
+  <TermPronunciation>(… jeen FYOO-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A mutation (change) that occurs when a piece of the chromosome containing a gene called NTRK breaks off and joins with a gene on another chromosome. NTRK gene fusions lead to abnormal proteins called TRK fusion proteins, which may cause cancer cells to grow. NTRK gene fusions may be found in some types of cancer, including cancers of the brain, head and neck, thyroid, soft tissue, lung, and colon. Also called neurotrophic tyrosine receptor kinase gene fusion.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797978" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NTRK gene fusion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797977" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusión de gen NTRK&quot;" language="es" id="_4"/>
+  <SpanishTermName>fusión de gen NTRK</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Mutación (cambio) que se presenta cuando se rompe una sección del cromosoma que contiene un gen 
+      <GeneName>NTRK</GeneName>
+       y se une con un gen en otro cromosoma. Las fusiones de genes NTRK hacen que se produzcan proteínas anormales llamadas proteínas de fusión  TRK, y es posible que estimulen la multiplicación de células cancerosas. A veces, se encuentran fusiones de genes NTRK en algunos tipos de cáncer, como el cáncer de encéfalo, cabeza y cuello, tiroides, tejido blando, pulmón y colon. También se llama fusión de gen de receptor tirosina–cinasa neurotrófico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

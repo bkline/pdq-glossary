@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000781852"><TermName>germline variant</TermName><TermPronunciation>(JERM-line VAYR-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>A variant in a reproductive cell (egg or sperm) that is in the DNA of every cell in the offspring's body. A variant contained within the germline can be passed from parent to offspring and is, therefore, hereditary. Also called germline mutation.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A gene change in a body's reproductive cell (egg or sperm) that becomes incorporated into the DNA of every cell in the body of the offspring. Germline variants are passed on from parents to offspring. Also called germline mutation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782431" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;germline variant&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804325" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante de la línea germinal&quot;" language="es" id="_4"/><SpanishTermName>variante de la línea germinal</SpanishTermName><SpanishTermDefinition><DefinitionText>Variante  que se encuentra en una célula reproductora (óvulo o espermatozoide) y que está presente en el ADN de todas las células de la descendencia. Una variante de la línea germinal pasa del progenitor a su descendencia, por lo tanto, es hereditaria. También se llama mutación de la línea germinal y variante germinal.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Cambio en un gen de una célula reproductora (óvulo o espermatozoide) que se añade al ADN de todas las células del cuerpo de los hijos de ambos sexos. Las variantes de la línea germinal pasan de progenitores (madre o padre) a hijos de ambos sexos. También se llama mutación de la línea germinal y variante germinal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-06-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781852">
+  <TermName>germline variant</TermName>
+  <TermPronunciation>(JERM-line VAYR-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A variant in a reproductive cell (egg or sperm) that is in the DNA of every cell in the offspring's body. A variant contained within the germline can be passed from parent to offspring and is, therefore, hereditary. Also called germline mutation.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A gene change in a body's reproductive cell (egg or sperm) that becomes incorporated into the DNA of every cell in the body of the offspring. Germline variants are passed on from parents to offspring. Also called germline mutation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782431" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;germline variant&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804325" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante de la línea germinal&quot;" language="es" id="_4"/>
+  <SpanishTermName>variante de la línea germinal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Variante  que se encuentra en una célula reproductora (óvulo o espermatozoide) y que está presente en el ADN de todas las células de la descendencia. Una variante de la línea germinal pasa del progenitor a su descendencia, por lo tanto, es hereditaria. También se llama mutación de la línea germinal y variante germinal.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Cambio en un gen de una célula reproductora (óvulo o espermatozoide) que se añade al ADN de todas las células del cuerpo de los hijos de ambos sexos. Las variantes de la línea germinal pasan de progenitores (madre o padre) a hijos de ambos sexos. También se llama mutación de la línea germinal y variante germinal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-06-22</DateFirstPublished>
+</GlossaryTerm>

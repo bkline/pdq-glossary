@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000793550"><TermName>Sclerosol Intrapleural Aerosol</TermName><TermPronunciation>(SKLAYR-oh-sol IN-truh-PLOOR-ul AYR-oh-sol)</TermPronunciation><TermDefinition><DefinitionText>A mist or powdered form of the mineral magnesium silicate that is used to prevent malignant pleural effusions from coming back. Malignant pleural effusion is a condition in which cancer causes an abnormal collection of fluid in the space between the lung and chest wall. When Sclerosol Intrapleural Aerosol is given through a tube inserted into the pleural space, it causes the space to close up so fluid cannot collect there. Sclerosol Intrapleural Aerosol is a type of sclerosing agent. Also called Sterile Talc Powder, Steritalc, and talc.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795206" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Sclerosol Intrapleural Aerosol&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795207" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aerosol intrapleural de Sclerosol&quot;" language="es" id="_4"/><SpanishTermName>aerosol intrapleural de Sclerosol</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento en polvo o en aerosol que contiene el mineral silicato de magnesio y que se usa para prevenir que vuelvan los derrames pleurales malignos. Un derrame pleural maligno es una afección por la que el cáncer hace que se acumule líquido en el espacio entre los pulmones y la pared del tórax. Cuando el aerosol intrapleural de Sclerosol  se administra por un tubo que se coloca en el espacio pleural, hace que el espacio se cierre lo que evita la acumulación de líquido. El aerosol intrapleural de Sclerosol es un tipo de esclerosante. También se llama polvo estéril de talco, Steritalc y talco.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-06-06</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000495779" url="/about-cancer/treatment/drugs/talc">Talc</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793550">
+  <TermName>Sclerosol Intrapleural Aerosol</TermName>
+  <TermPronunciation>(SKLAYR-oh-sol IN-truh-PLOOR-ul AYR-oh-sol)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A mist or powdered form of the mineral magnesium silicate that is used to prevent malignant pleural effusions from coming back. Malignant pleural effusion is a condition in which cancer causes an abnormal collection of fluid in the space between the lung and chest wall. When Sclerosol Intrapleural Aerosol is given through a tube inserted into the pleural space, it causes the space to close up so fluid cannot collect there. Sclerosol Intrapleural Aerosol is a type of sclerosing agent. Also called Sterile Talc Powder, Steritalc, and talc.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795206" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Sclerosol Intrapleural Aerosol&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795207" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aerosol intrapleural de Sclerosol&quot;" language="es" id="_4"/>
+  <SpanishTermName>aerosol intrapleural de Sclerosol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento en polvo o en aerosol que contiene el mineral silicato de magnesio y que se usa para prevenir que vuelvan los derrames pleurales malignos. Un derrame pleural maligno es una afección por la que el cáncer hace que se acumule líquido en el espacio entre los pulmones y la pared del tórax. Cuando el aerosol intrapleural de Sclerosol  se administra por un tubo que se coloca en el espacio pleural, hace que el espacio se cierre lo que evita la acumulación de líquido. El aerosol intrapleural de Sclerosol es un tipo de esclerosante. También se llama polvo estéril de talco, Steritalc y talco.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-06-06</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000495779" url="/about-cancer/treatment/drugs/talc">Talc</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000651193"><TermName>condition</TermName><TermPronunciation>(kun-DIH-shun)</TermPronunciation><TermDefinition><DefinitionText>In medicine, a term that refers to a person's state of health. For example, a patient's condition in the hospital may be described as good, stable, or serious. Condition may also refer to a normal state with regard to one's health, such as pregnancy, or to a disease, disorder, illness, or injury.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condition&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condición&quot;" language="es" id="_6"/><SpanishTermName>condición</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, término que se refiere al estado de salud de una persona. Por ejemplo, se suele describir la situación de un paciente hospitalizado como en buenas condiciones, en condición estable o grave. El término condición también se usa para hacer referencia a un estado normal de salud, como el embarazo. En otros casos, se usa para describir un problema de salud como una afección, alteración, trastorno, dolencia o lesión. También se llama estado de salud.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-08-26</DateFirstPublished><DateLastModified>2023-12-27</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000651193">
+  <TermName>condition</TermName>
+  <TermPronunciation>(kun-DIH-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, a term that refers to a person's state of health. For example, a patient's condition in the hospital may be described as good, stable, or serious. Condition may also refer to a normal state with regard to one's health, such as pregnancy, or to a disease, disorder, illness, or injury.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condition&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condición&quot;" language="es" id="_6"/>
+  <SpanishTermName>condición</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, término que se refiere al estado de salud de una persona. Por ejemplo, se suele describir la situación de un paciente hospitalizado como en buenas condiciones, en condición estable o grave. El término condición también se usa para hacer referencia a un estado normal de salud, como el embarazo. En otros casos, se usa para describir un problema de salud como una afección, alteración, trastorno, dolencia o lesión. También se llama estado de salud.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-08-26</DateFirstPublished>
+  <DateLastModified>2023-12-27</DateLastModified>
+</GlossaryTerm>

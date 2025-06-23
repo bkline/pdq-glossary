@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797595"><TermName>flu-like syndrome</TermName><TermPronunciation>(floo … SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A group of symptoms that are similar to those caused by the influenza (flu) virus. These include fever, chills, headache, muscle or body aches, cough, sore throat, runny nose, fatigue, nausea, vomiting, and diarrhea. Flu-like syndrome may be caused by viral infections or other illnesses that are not caused by the influenza virus. It may also occur as a side effect of certain types of anticancer therapy, especially biological therapies, such as interferon or interleukin. Also called flu-like symptoms.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flu-like syndrome&quot;" language="en" id="_5"/><MediaLink ref="CDR0000799531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome pseudogripal&quot;" language="es" id="_6"/><SpanishTermName>síndrome pseudogripal</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de síntomas parecidos a los que produce el virus de la gripe  (influenza). Incluyen fiebre, escalofríos, dolores de cabeza, dolores en los músculos o el cuerpo, tos, dolor de garganta, secreción nasal, cansancio, náuseas, vómitos y diarrea. Las infecciones víricas y otras enfermedades no causadas por el virus de la gripe a veces producen el síndrome pseudogripal. También son efectos secundarios de ciertos tipos de medicamentos contra el cáncer, en especial los  que se usan en las terapias biológicas, como los interferones y las interleucinas. También se llama síndrome similar a la gripe, síndrome similar a la influenza y síntomas pseudogripales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797595">
+  <TermName>flu-like syndrome</TermName>
+  <TermPronunciation>(floo … SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of symptoms that are similar to those caused by the influenza (flu) virus. These include fever, chills, headache, muscle or body aches, cough, sore throat, runny nose, fatigue, nausea, vomiting, and diarrhea. Flu-like syndrome may be caused by viral infections or other illnesses that are not caused by the influenza virus. It may also occur as a side effect of certain types of anticancer therapy, especially biological therapies, such as interferon or interleukin. Also called flu-like symptoms.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flu-like syndrome&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000799531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome pseudogripal&quot;" language="es" id="_6"/>
+  <SpanishTermName>síndrome pseudogripal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de síntomas parecidos a los que produce el virus de la gripe  (influenza). Incluyen fiebre, escalofríos, dolores de cabeza, dolores en los músculos o el cuerpo, tos, dolor de garganta, secreción nasal, cansancio, náuseas, vómitos y diarrea. Las infecciones víricas y otras enfermedades no causadas por el virus de la gripe a veces producen el síndrome pseudogripal. También son efectos secundarios de ciertos tipos de medicamentos contra el cáncer, en especial los  que se usan en las terapias biológicas, como los interferones y las interleucinas. También se llama síndrome similar a la gripe, síndrome similar a la influenza y síntomas pseudogripales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-25</DateFirstPublished>
+</GlossaryTerm>

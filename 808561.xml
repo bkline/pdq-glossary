@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000808561"><TermName>organism strain</TermName><TermPronunciation>(OR-guh-NIH-zum …)</TermPronunciation><TermDefinition><DefinitionText>A group of organisms that belong to the same species but share certain genetic characteristics not found in other members of the species. Microorganisms, such as viruses, bacteria, and fungi, have many strains within a single species. Different strains of an organism may have different biological characteristics, such as the ability to cause more severe disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000810320" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;organism strain&quot;" language="en" id="_4"/><MediaLink ref="CDR0000810998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cepa de organismos&quot;" language="es" id="_5"/><SpanishTermName>cepa de organismos</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de organismos que pertenecen a la misma especie, pero que comparten ciertas características genéticas que no se encuentran en otros miembros de dicha especie. Los microorganismos, como virus, bacterias y hongos, presentan muchas cepas dentro de una misma especie. Las distintas cepas de un organismo quizás tengan características biológicas diferentes, como la capacidad de causar enfermedades más graves. También se llama estirpe de organismos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-05-31</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808561">
+  <TermName>organism strain</TermName>
+  <TermPronunciation>(OR-guh-NIH-zum …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of organisms that belong to the same species but share certain genetic characteristics not found in other members of the species. Microorganisms, such as viruses, bacteria, and fungi, have many strains within a single species. Different strains of an organism may have different biological characteristics, such as the ability to cause more severe disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000810320" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;organism strain&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000810998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cepa de organismos&quot;" language="es" id="_5"/>
+  <SpanishTermName>cepa de organismos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de organismos que pertenecen a la misma especie, pero que comparten ciertas características genéticas que no se encuentran en otros miembros de dicha especie. Los microorganismos, como virus, bacterias y hongos, presentan muchas cepas dentro de una misma especie. Las distintas cepas de un organismo quizás tengan características biológicas diferentes, como la capacidad de causar enfermedades más graves. También se llama estirpe de organismos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-05-31</DateFirstPublished>
+</GlossaryTerm>

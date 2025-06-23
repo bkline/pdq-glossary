@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000781882"><TermName>Hemangeol</TermName><TermPronunciation>(hee-MAN-jee-ol)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient propranolol hydrochloride and is used to treat infants 5 weeks to 5 months of age with infantile hemangioma (a benign blood vessel tumor). It is also being studied in the treatment of other conditions and some types of cancer. Hemangeol may help shrink certain types of vascular tumors.  It is a type of beta blocker.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hemangeol&quot;" language="en" id="_3"/><MediaLink ref="CDR0000782452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hemangeol&quot;" language="es" id="_4"/><SpanishTermName>Hemangeol</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo clorhidrato de propranolol y se usa para el tratamiento de lactantes de 5 semanas a 5 meses de edad con un hemangioma infantil (tumor benigno de los vasos sanguíneos). También está en estudio para el tratamiento de otras afecciones y algunos tipos de cáncer. Es posible que Hemangeol también reduzca el tamaño de ciertos tipos de tumores vasculares. Es un tipo de betabloqueante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-06-27</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000781904" url="/about-cancer/treatment/drugs/propranolol-hydrochloride">Propranolol Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781882">
+  <TermName>Hemangeol</TermName>
+  <TermPronunciation>(hee-MAN-jee-ol)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient propranolol hydrochloride and is used to treat infants 5 weeks to 5 months of age with infantile hemangioma (a benign blood vessel tumor). It is also being studied in the treatment of other conditions and some types of cancer. Hemangeol may help shrink certain types of vascular tumors.  It is a type of beta blocker.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hemangeol&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000782452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hemangeol&quot;" language="es" id="_4"/>
+  <SpanishTermName>Hemangeol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo clorhidrato de propranolol y se usa para el tratamiento de lactantes de 5 semanas a 5 meses de edad con un hemangioma infantil (tumor benigno de los vasos sanguíneos). También está en estudio para el tratamiento de otras afecciones y algunos tipos de cáncer. Es posible que Hemangeol también reduzca el tamaño de ciertos tipos de tumores vasculares. Es un tipo de betabloqueante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-06-27</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000781904" url="/about-cancer/treatment/drugs/propranolol-hydrochloride">Propranolol Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

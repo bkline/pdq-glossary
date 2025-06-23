@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000407758"><TermName>disorder</TermName><TermPronunciation>(dis-OR-der)</TermPronunciation><TermDefinition><DefinitionText>In medicine, an abnormal condition that affects the body's function but may or may not have specific signs and symptoms. A disorder may indicate that a specific disease is present, but there is usually not enough evidence to make a diagnosis. There are many different types of disorders, including physical, mental, emotional, behavioral, genetic, and functional disorders.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disorder&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713266" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno&quot;" language="es" id="_4"/><SpanishTermName>trastorno</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, alteración que afecta el funcionamiento del cuerpo y que en ocasiones produce signos y síntomas específicos. Un trastorno puede indicar la presencia de una enfermedad determinada, pero por lo general no hay pruebas suficientes para establecer un diagnóstico. Existen muchos tipos diferentes de trastornos, como los físicos, mentales, emocionales, conductuales, genéticos o funcionales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><DateLastModified>2023-12-27</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000407758">
+  <TermName>disorder</TermName>
+  <TermPronunciation>(dis-OR-der)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, an abnormal condition that affects the body's function but may or may not have specific signs and symptoms. A disorder may indicate that a specific disease is present, but there is usually not enough evidence to make a diagnosis. There are many different types of disorders, including physical, mental, emotional, behavioral, genetic, and functional disorders.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disorder&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713266" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastorno&quot;" language="es" id="_4"/>
+  <SpanishTermName>trastorno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, alteración que afecta el funcionamiento del cuerpo y que en ocasiones produce signos y síntomas específicos. Un trastorno puede indicar la presencia de una enfermedad determinada, pero por lo general no hay pruebas suficientes para establecer un diagnóstico. Existen muchos tipos diferentes de trastornos, como los físicos, mentales, emocionales, conductuales, genéticos o funcionales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <DateLastModified>2023-12-27</DateLastModified>
+</GlossaryTerm>

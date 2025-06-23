@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000811566"><TermName>biliary tract cancer</TermName><TermPronunciation>(BIH-lee-AYR-ee … KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A rare cancer that forms in the cells that line the bile ducts, gallbladder, or ampulla of Vater (the area where the bile ducts from the liver and pancreas join and enter the first part of the small intestine). Biliary tract cancers tend to grow and spread quickly. They are usually diagnosed at an advanced stage and have a poor prognosis (outcome).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813976" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biliary tract cancer&quot;" language="en" id="_5"/><MediaLink ref="CDR0000813977" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer biliar&quot;" language="es" id="_6"/><SpanishTermName>cáncer biliar</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer raro que se forma en las células que revisten las vías o conductos biliares, la vesícula biliar o la ampolla de Vater (área donde los conductos biliares del hígado y el páncreas se unen y se conectan con la primera parte del intestino delgado). Los cánceres biliares suelen crecer y diseminarse con rapidez. Por lo general, se diagnostican en un estadio avanzado y tienen un pronóstico (desenlace) precario. También se llama cáncer de sistema biliar y cáncer de tracto biliar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-23</DateFirstPublished><DateLastModified>2023-06-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811566">
+  <TermName>biliary tract cancer</TermName>
+  <TermPronunciation>(BIH-lee-AYR-ee … KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare cancer that forms in the cells that line the bile ducts, gallbladder, or ampulla of Vater (the area where the bile ducts from the liver and pancreas join and enter the first part of the small intestine). Biliary tract cancers tend to grow and spread quickly. They are usually diagnosed at an advanced stage and have a poor prognosis (outcome).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813976" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biliary tract cancer&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000813977" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer biliar&quot;" language="es" id="_6"/>
+  <SpanishTermName>cáncer biliar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer raro que se forma en las células que revisten las vías o conductos biliares, la vesícula biliar o la ampolla de Vater (área donde los conductos biliares del hígado y el páncreas se unen y se conectan con la primera parte del intestino delgado). Los cánceres biliares suelen crecer y diseminarse con rapidez. Por lo general, se diagnostican en un estadio avanzado y tienen un pronóstico (desenlace) precario. También se llama cáncer de sistema biliar y cáncer de tracto biliar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-23</DateFirstPublished>
+  <DateLastModified>2023-06-23</DateLastModified>
+</GlossaryTerm>

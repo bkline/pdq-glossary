@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000806200"><TermName>SES</TermName><TermDefinition><DefinitionText>A way of describing people based on their education, income, and type of job. SES is usually described as low, medium, and high. People with a lower SES usually have less access to financial, educational, social, and health resources than those with a higher SES. As a result, they are more likely to be in poor health and have chronic health conditions and disabilities. Also called socioeconomic status.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>NSE</SpanishTermName><SpanishTermDefinition><DefinitionText>Descripción de la situación de una persona según la educación, los ingresos y el tipo de trabajo que tiene. El NSE por lo general se define como bajo, medio o alto. Las personas con un NSE bajo, a menudo, tienen menos acceso a recursos financieros, educativos, sociales y de salud que aquellas que tienen un NSE más alto. Por eso, es más probable que estas personas tengan una salud precaria y presenten afecciones crónicas y discapacidades. También se llama ESE y nivel socioeconómico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-01-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806200">
+  <TermName>SES</TermName>
+  <TermDefinition>
+    <DefinitionText>A way of describing people based on their education, income, and type of job. SES is usually described as low, medium, and high. People with a lower SES usually have less access to financial, educational, social, and health resources than those with a higher SES. As a result, they are more likely to be in poor health and have chronic health conditions and disabilities. Also called socioeconomic status.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>NSE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Descripción de la situación de una persona según la educación, los ingresos y el tipo de trabajo que tiene. El NSE por lo general se define como bajo, medio o alto. Las personas con un NSE bajo, a menudo, tienen menos acceso a recursos financieros, educativos, sociales y de salud que aquellas que tienen un NSE más alto. Por eso, es más probable que estas personas tengan una salud precaria y presenten afecciones crónicas y discapacidades. También se llama ESE y nivel socioeconómico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-01-03</DateFirstPublished>
+</GlossaryTerm>

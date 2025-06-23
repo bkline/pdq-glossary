@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000613206"><TermName>levoleucovorin calcium</TermName><TermPronunciation>(LEE-voh-LOO-koh-VOR-in KAL-see-um)</TermPronunciation><TermDefinition><DefinitionText>A drug used to lessen the toxic effects of the anticancer drug methotrexate or other substances that block the action of folic acid. It is also used with fluorouracil as palliative therapy to treat advanced colorectal cancer. Levoleucovorin calcium is a form of folic acid. It is a type of chemoprotective agent and a type of chemosensitizing agent. Also called Fusilev.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720784" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;levoleucovorin calcium&quot;" language="en" id="_5"/><MediaLink ref="CDR0000720785" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;levoleucovorina cálcica&quot;" language="es" id="_4"/><SpanishTermName>levoleucovorina cálcica</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para disminuir los efectos tóxicos del medicamento contra el cáncer metotrexato y de otras sustancias que bloquean la acción del ácido fólico. Además, se usa con el fluorouracilo como terapia paliativa para tratar el cáncer colorrectal avanzado. La levoleucovorina cálcica es un tipo de ácido fólico, un quimioprotector y un quimiosensibilizador. También se llama Fusilev.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-08-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000613206">
+  <TermName>levoleucovorin calcium</TermName>
+  <TermPronunciation>(LEE-voh-LOO-koh-VOR-in KAL-see-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to lessen the toxic effects of the anticancer drug methotrexate or other substances that block the action of folic acid. It is also used with fluorouracil as palliative therapy to treat advanced colorectal cancer. Levoleucovorin calcium is a form of folic acid. It is a type of chemoprotective agent and a type of chemosensitizing agent. Also called Fusilev.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720784" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;levoleucovorin calcium&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000720785" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;levoleucovorina cálcica&quot;" language="es" id="_4"/>
+  <SpanishTermName>levoleucovorina cálcica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para disminuir los efectos tóxicos del medicamento contra el cáncer metotrexato y de otras sustancias que bloquean la acción del ácido fólico. Además, se usa con el fluorouracilo como terapia paliativa para tratar el cáncer colorrectal avanzado. La levoleucovorina cálcica es un tipo de ácido fólico, un quimioprotector y un quimiosensibilizador. También se llama Fusilev.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-08-25</DateFirstPublished>
+</GlossaryTerm>

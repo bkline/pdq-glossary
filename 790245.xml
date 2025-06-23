@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000790245"><TermName>Idhifa</TermName><TermPronunciation>(ide-HEE-fuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with acute myeloid leukemia that has come back or has not gotten better with other treatment. It is used in patients whose cancer has a mutation (change) in the <GeneName>IDH2</GeneName> gene.  It is also being studied in the treatment of other types of cancer.  Idhifa blocks the protein made by the mutated <GeneName>IDH2</GeneName> gene.  Blocking this protein may help keep cancer cells from growing.  Idhifa is a type of enzyme inhibitor. Also called enasidenib mesylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Idhifa&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Idhifa&quot;" language="es" id="_4"/><SpanishTermName>Idhifa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con leucemia mieloide aguda que volvió o no mejoró con otro tratamiento. Se usa en pacientes cuyo cáncer tiene una mutación (cambio) en el gen <GeneName>IDH2</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. Idhifa bloquea la proteína que se origina del gen <GeneName>IDH2</GeneName> mutado. Bloquear esta proteína quizás ayude a evitar la multiplicación de células cancerosas. Idhifa es un tipo de inhibidor enzimático. También se llama mesilato de enasidenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-08-07</DateFirstPublished><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000790240" url="/about-cancer/treatment/drugs/enasidenibmesylate">Enasidenib Mesylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790245">
+  <TermName>Idhifa</TermName>
+  <TermPronunciation>(ide-HEE-fuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with acute myeloid leukemia that has come back or has not gotten better with other treatment. It is used in patients whose cancer has a mutation (change) in the 
+      <GeneName>IDH2</GeneName>
+       gene.  It is also being studied in the treatment of other types of cancer.  Idhifa blocks the protein made by the mutated 
+      <GeneName>IDH2</GeneName>
+       gene.  Blocking this protein may help keep cancer cells from growing.  Idhifa is a type of enzyme inhibitor. Also called enasidenib mesylate.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Idhifa&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Idhifa&quot;" language="es" id="_4"/>
+  <SpanishTermName>Idhifa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con leucemia mieloide aguda que volvió o no mejoró con otro tratamiento. Se usa en pacientes cuyo cáncer tiene una mutación (cambio) en el gen 
+      <GeneName>IDH2</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. Idhifa bloquea la proteína que se origina del gen 
+      <GeneName>IDH2</GeneName>
+       mutado. Bloquear esta proteína quizás ayude a evitar la multiplicación de células cancerosas. Idhifa es un tipo de inhibidor enzimático. También se llama mesilato de enasidenib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-08-07</DateFirstPublished>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000790240" url="/about-cancer/treatment/drugs/enasidenibmesylate">Enasidenib Mesylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000763267"><TermName>idelalisib</TermName><TermPronunciation>(i-deh-luh-LIH-sib)</TermPronunciation><TermDefinition><DefinitionText>A drug used with rituximab to treat chronic lymphocytic leukemia that has come back. It is also being studied in the treatment of other types of cancer. Idelalisib blocks certain proteins, which may help keep cancer cells from growing and may kill them. It is a type of kinase inhibitor. Also called Zydelig.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000764441" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;idelalisib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000764440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;idelalisib&quot;" language="es" id="_4"/><SpanishTermName>idelalisib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con rituximab para el tratamiento de la leucemia linfocítica crónica que reapareció. También está en estudio para el tratamiento de otros tipos de cáncer.  El idelalisib bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor  de cinasas. También se llama Zydelig.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-07-30</DateFirstPublished><DateLastModified>2022-01-25</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000763259" url="/about-cancer/treatment/drugs/idelalisib">Idelalisib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000763267">
+  <TermName>idelalisib</TermName>
+  <TermPronunciation>(i-deh-luh-LIH-sib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with rituximab to treat chronic lymphocytic leukemia that has come back. It is also being studied in the treatment of other types of cancer. Idelalisib blocks certain proteins, which may help keep cancer cells from growing and may kill them. It is a type of kinase inhibitor. Also called Zydelig.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000764441" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;idelalisib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000764440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;idelalisib&quot;" language="es" id="_4"/>
+  <SpanishTermName>idelalisib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con rituximab para el tratamiento de la leucemia linfocítica crónica que reapareció. También está en estudio para el tratamiento de otros tipos de cáncer.  El idelalisib bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor  de cinasas. También se llama Zydelig.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-07-30</DateFirstPublished>
+  <DateLastModified>2022-01-25</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000763259" url="/about-cancer/treatment/drugs/idelalisib">Idelalisib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

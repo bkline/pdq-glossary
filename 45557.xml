@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045557"><TermName>ultrasonography</TermName><TermPronunciation>(UL-truh-soh-NAH-gruh-fee)</TermPronunciation><TermDefinition><DefinitionText>A procedure that uses high-energy sound waves to look at tissues and organs inside the body. The sound waves make echoes that form pictures of the tissues and organs on a computer screen (sonogram). Ultrasonography may be used to help diagnose diseases, such as cancer. It may also be used during pregnancy to check the fetus (unborn baby) and during medical procedures, such as biopsies. Also called ultrasound.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705590" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ultrasonography&quot;" language="en" id="_2"/><MediaLink ref="CDR0000801274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ultrasonografía&quot;" language="es" id="_4"/><SpanishTermName>ultrasonografía</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento en el que se usan ondas de sonido de alta energía (ultrasonidos) para observar los tejidos y órganos del interior del cuerpo. Las ondas de sonido crean ecos que forman imágenes de los tejidos y órganos en una pantalla de computadora (ecograma). La ultrasonografía se usa para ayudar a diagnosticar enfermedades, como el cáncer. También es posible usarla durante el embarazo para revisar el feto (bebé que no ha nacido) y durante procedimientos médicos, como biopsias. También se llama ecografía y sonografía.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-08-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045557">
+  <TermName>ultrasonography</TermName>
+  <TermPronunciation>(UL-truh-soh-NAH-gruh-fee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure that uses high-energy sound waves to look at tissues and organs inside the body. The sound waves make echoes that form pictures of the tissues and organs on a computer screen (sonogram). Ultrasonography may be used to help diagnose diseases, such as cancer. It may also be used during pregnancy to check the fetus (unborn baby) and during medical procedures, such as biopsies. Also called ultrasound.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705590" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ultrasonography&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000801274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ultrasonografía&quot;" language="es" id="_4"/>
+  <SpanishTermName>ultrasonografía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento en el que se usan ondas de sonido de alta energía (ultrasonidos) para observar los tejidos y órganos del interior del cuerpo. Las ondas de sonido crean ecos que forman imágenes de los tejidos y órganos en una pantalla de computadora (ecograma). La ultrasonografía se usa para ayudar a diagnosticar enfermedades, como el cáncer. También es posible usarla durante el embarazo para revisar el feto (bebé que no ha nacido) y durante procedimientos médicos, como biopsias. También se llama ecografía y sonografía.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-08-30</DateLastModified>
+</GlossaryTerm>

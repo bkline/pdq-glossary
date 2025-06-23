@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000561228"><TermName>c-ABL</TermName><TermDefinition><DefinitionText>An enzyme that is involved in many cell processes, such as cell division. The gene for c-ABL is on chromosome 9. In most people with chronic myelogenous leukemia, the part of chromosome 9 with c-ABL has broken off and traded places with part of chromosome 22 to form the <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> fusion gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>c-ABL</SpanishTermName><SpanishTermDefinition><DefinitionText>Enzima que participa en muchos procesos celulares, como la división celular. El gen para la c-ABL está en el cromosoma 9. En la mayoría de las personas con leucemia mielógena crónica, la parte del cromosoma 9 que contiene el gen para la c-ABL se quiebra y cambia de lugar con una parte del cromosoma 22 y se forma el gen de fusión <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName>.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-03-06</DateFirstPublished><DateLastModified>2024-10-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561228">
+  <TermName>c-ABL</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      An enzyme that is involved in many cell processes, such as cell division. The gene for c-ABL is on chromosome 9. In most people with chronic myelogenous leukemia, the part of chromosome 9 with c-ABL has broken off and traded places with part of chromosome 22 to form the 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+       fusion gene.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>c-ABL</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Enzima que participa en muchos procesos celulares, como la división celular. El gen para la c-ABL está en el cromosoma 9. En la mayoría de las personas con leucemia mielógena crónica, la parte del cromosoma 9 que contiene el gen para la c-ABL se quiebra y cambia de lugar con una parte del cromosoma 22 y se forma el gen de fusión 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+      .
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-03-06</DateFirstPublished>
+  <DateLastModified>2024-10-29</DateLastModified>
+</GlossaryTerm>

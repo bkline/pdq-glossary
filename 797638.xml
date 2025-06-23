@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797638"><TermName>acneiform rash</TermName><TermPronunciation>(ak-NEE-ih-form …)</TermPronunciation><TermDefinition><DefinitionText>A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform rash may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform dermatitis and acneiform eruption.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799570" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acneiform rash&quot;" language="en" id="_3"/><MediaLink ref="CDR0000799571" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exantema acneiforme&quot;" language="es" id="_4"/><SpanishTermName>exantema acneiforme</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección de la piel por la que se producen bultos pequeños sobresalientes parecidos al acné, que a menudo surgen en la cara, el cuero cabelludo, el pecho y la parte superior de la espalda. Los bultos en la piel por lo general son rojos, están llenos de pus y a veces se cubren con costras. Es posible que produzcan dolor, sensibilidad y picazón, y que la piel afectada se infecte. Las causas del exantema acneiforme son infecciones o ciertos medicamentos, como los que se usan para el tratamiento del cáncer, por ejemplo, los inhibidores del receptor del factor de crecimiento epidérmico (EGFR). También se llama dermatitis acneiforme y erupción acneiforme.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797638">
+  <TermName>acneiform rash</TermName>
+  <TermPronunciation>(ak-NEE-ih-form …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform rash may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform dermatitis and acneiform eruption.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799570" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acneiform rash&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000799571" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exantema acneiforme&quot;" language="es" id="_4"/>
+  <SpanishTermName>exantema acneiforme</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección de la piel por la que se producen bultos pequeños sobresalientes parecidos al acné, que a menudo surgen en la cara, el cuero cabelludo, el pecho y la parte superior de la espalda. Los bultos en la piel por lo general son rojos, están llenos de pus y a veces se cubren con costras. Es posible que produzcan dolor, sensibilidad y picazón, y que la piel afectada se infecte. Las causas del exantema acneiforme son infecciones o ciertos medicamentos, como los que se usan para el tratamiento del cáncer, por ejemplo, los inhibidores del receptor del factor de crecimiento epidérmico (EGFR). También se llama dermatitis acneiforme y erupción acneiforme.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-25</DateFirstPublished>
+</GlossaryTerm>

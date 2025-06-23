@@ -1,3 +1,25 @@
-<GlossaryTerm id="CDR0000754852"><TermName>Imbruvica</TermName><TermPronunciation>(im-BROO-vih-kuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with chronic lymphocytic leukemia, small lymphocytic lymphoma, or Waldenstrom macroglobulinemia (a type of non-Hodgkin lymphoma). It is also used to treat adults and children aged 1 year and older with chronic graft versus host disease. It is also being studied in the treatment of other types of cancer. Imbruvica blocks a protein called BTK, which may help keep cancer cells from growing. It may also lower the body’s immune response. Imbruvica is a type of tyrosine kinase inhibitor. Also called ibrutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000757960" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imbruvica&quot;" language="en" id="_3"/><MediaLink ref="CDR0000757959" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imbruvica&quot;" language="es" id="_4"/><SpanishTermName>Imbruvica</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos con leucemia linfocítica crónica, linfoma linfocítico pequeño o macroglobulinemia de Waldenström (tipo de linfoma no Hodgkin). También se usa para el tratamiento de adultos y niños de 1 año o más con enfermedad crónica de injerto contra huésped. Asimismo, está en estudio para el tratamiento de otros
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000754852">
+  <TermName>Imbruvica</TermName>
+  <TermPronunciation>(im-BROO-vih-kuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults with chronic lymphocytic leukemia, small lymphocytic lymphoma, or Waldenstrom macroglobulinemia (a type of non-Hodgkin lymphoma). It is also used to treat adults and children aged 1 year and older with chronic graft versus host disease. It is also being studied in the treatment of other types of cancer. Imbruvica blocks a protein called BTK, which may help keep cancer cells from growing. It may also lower the body’s immune response. Imbruvica is a type of tyrosine kinase inhibitor. Also called ibrutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000757960" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imbruvica&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000757959" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Imbruvica&quot;" language="es" id="_4"/>
+  <SpanishTermName>Imbruvica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos con leucemia linfocítica crónica, linfoma linfocítico pequeño o macroglobulinemia de Waldenström (tipo de linfoma no Hodgkin). También se usa para el tratamiento de adultos y niños de 1 año o más con enfermedad crónica de injerto contra huésped. Asimismo, está en estudio para el tratamiento de otros
 tipos de cáncer. Imbruvica bloquea una proteína que se llama BTK, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es posible que también disminuya la respuesta inmunitaria del cuerpo. Es un tipo de
-inhibidor de tirosina–cinasas. También se llama ibrutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-11-26</DateFirstPublished><DateLastModified>2023-04-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000754956" url="/about-cancer/treatment/drugs/ibrutinib">Ibrutinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+inhibidor de tirosina–cinasas. También se llama ibrutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-11-26</DateFirstPublished>
+  <DateLastModified>2023-04-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000754956" url="/about-cancer/treatment/drugs/ibrutinib">Ibrutinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

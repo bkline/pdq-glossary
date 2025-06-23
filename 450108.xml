@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000450108"><TermName>fever</TermName><TermPronunciation>(FEE-ver)</TermPronunciation><TermDefinition><DefinitionText>An increase in body temperature above normal (98.6 degrees F), usually caused by disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714949" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fever&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714950" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fiebre&quot;" language="es" id="_4"/><SpanishTermName>fiebre</SpanishTermName><SpanishTermDefinition><DefinitionText>Aumento de la temperatura corporal por encima de lo normal (98,6 °F o 38 °C), por lo general, a causa de una enfermedad. También se llama pirexia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-01-25</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062827" url="/about-cancer/treatment/side-effects/hot-flashes-pdq">Hot Flashes and Night Sweats</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256646" url="/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq">Sofocos y sudores nocturnos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000450108">
+  <TermName>fever</TermName>
+  <TermPronunciation>(FEE-ver)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An increase in body temperature above normal (98.6 degrees F), usually caused by disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714949" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fever&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714950" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fiebre&quot;" language="es" id="_4"/>
+  <SpanishTermName>fiebre</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Aumento de la temperatura corporal por encima de lo normal (98,6 °F o 38 °C), por lo general, a causa de una enfermedad. También se llama pirexia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-01-25</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062827" url="/about-cancer/treatment/side-effects/hot-flashes-pdq">Hot Flashes and Night Sweats</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256646" url="/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq">Sofocos y sudores nocturnos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800011"><TermName>intrapericardial chemotherapy</TermName><TermPronunciation>(IN-truh-PAYR-ih-KAR-dee-ul KEE-moh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A type of treatment in which anticancer drugs are injected through a thin tube directly into the pericardium (the sac around the heart). Intrapericardial chemotherapy may be used to treat a condition called malignant pericardial effusion, in which fluid collects in the pericardium. It is most often caused by lung cancer, breast cancer, melanoma, leukemia, and lymphoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802553" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intrapericardial chemotherapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802554" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia intrapericárdica&quot;" language="es" id="_4"/><SpanishTermName>quimioterapia intrapericárdica</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tratamiento en el que se usa un tubo delgado para inyectar directamente en el pericardio (saco que rodea el corazón) medicamentos contra el cáncer. La quimioterapia intrapericárdica a veces se usa para tratar una afección llamada derrame pericárdico maligno, por la que se acumula líquido en el pericardio. El cáncer de pulmón, el cáncer de mama, el melanoma, la leucemia o el linfoma son causas comunes de derrame pericárdico maligno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800011">
+  <TermName>intrapericardial chemotherapy</TermName>
+  <TermPronunciation>(IN-truh-PAYR-ih-KAR-dee-ul KEE-moh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of treatment in which anticancer drugs are injected through a thin tube directly into the pericardium (the sac around the heart). Intrapericardial chemotherapy may be used to treat a condition called malignant pericardial effusion, in which fluid collects in the pericardium. It is most often caused by lung cancer, breast cancer, melanoma, leukemia, and lymphoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802553" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intrapericardial chemotherapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802554" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia intrapericárdica&quot;" language="es" id="_4"/>
+  <SpanishTermName>quimioterapia intrapericárdica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tratamiento en el que se usa un tubo delgado para inyectar directamente en el pericardio (saco que rodea el corazón) medicamentos contra el cáncer. La quimioterapia intrapericárdica a veces se usa para tratar una afección llamada derrame pericárdico maligno, por la que se acumula líquido en el pericardio. El cáncer de pulmón, el cáncer de mama, el melanoma, la leucemia o el linfoma son causas comunes de derrame pericárdico maligno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-09</DateFirstPublished>
+</GlossaryTerm>

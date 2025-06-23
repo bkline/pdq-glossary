@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000814943"><TermName>ITD</TermName><TermDefinition><DefinitionText>A type of genetic change in which a DNA sequence in a gene is copied and inserted right after the original DNA sequence. This changes the sequence of the gene, which can affect the function of the protein made from the gene. ITDs are associated with certain types of cancer, such as acute myeloid leukemia. Also called internal tandem duplication.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ITD</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cambio genético en el que una secuencia de ADN de un gen se copia y se inserta justo después de la secuencia de ADN original. Esto cambia la secuencia genética, lo que a veces afecta la función de la proteína que se origina a partir del gen. Las ITD están relacionadas con ciertos tipos de cáncer, como la leucemia mieloide aguda. También se llama DIT, DTI y duplicación interna en tándem.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-05-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814943">
+  <TermName>ITD</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of genetic change in which a DNA sequence in a gene is copied and inserted right after the original DNA sequence. This changes the sequence of the gene, which can affect the function of the protein made from the gene. ITDs are associated with certain types of cancer, such as acute myeloid leukemia. Also called internal tandem duplication.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ITD</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cambio genético en el que una secuencia de ADN de un gen se copia y se inserta justo después de la secuencia de ADN original. Esto cambia la secuencia genética, lo que a veces afecta la función de la proteína que se origina a partir del gen. Las ITD están relacionadas con ciertos tipos de cáncer, como la leucemia mieloide aguda. También se llama DIT, DTI y duplicación interna en tándem.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-05-08</DateFirstPublished>
+</GlossaryTerm>

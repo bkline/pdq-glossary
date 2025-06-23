@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000794369"><TermName>methicillin-resistant Staphylococcus aureus</TermName><TermPronunciation>(MEH-thih-SIH-lin-reh-ZIH-stunt STA-fuh-loh-KAH-kus AW-ree-us)</TermPronunciation><TermDefinition><DefinitionText>A type of bacteria that causes an infection that does not respond to common antibiotics, including methicillin, amoxicillin, and penicillin. Most methicillin-resistant Staphylococcus aureus infections occur on the skin and are mild. However, they can also be serious or life threatening and difficult to treat. Methicillin-resistant Staphylococcus aureus infections usually occur in people with weakened immune systems who are in hospitals, nursing homes, or other health care centers.  They can also occur in healthy people who have skin-to-skin contact with others, such as childcare workers, team athletes, and people who live in crowded conditions. Also called MRSA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796089" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;methicillin-resistant Staphylococcus aureus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Staphylococcus aureus resistente a la meticilina&quot;" language="es" id="_4"/><SpanishTermName>Staphylococcus aureus resistente a la meticilina</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de bacteria que causa una infección que no responde a los antibióticos comunes, como la meticilina, la amoxicilina y la penicilina. La mayoría de las infecciones por <Emphasis>Staphylococcus aureus</Emphasis> resistente a la meticilina se producen en la piel y son leves. Sin embargo, a veces son graves o potencialmente mortales, y difíciles de tratar. Las infecciones por <Emphasis>Staphylococcus aureus</Emphasis> resistente a la meticilina se suelen presentar en personas con sistemas inmunitarios debilitados que acuden a hospitales, hogares de ancianos u otros centros de atención médica. También se presentan en personas sanas que tienen contacto directo de su piel con la piel de otras personas; por ejemplo, los cuidadores de niños, los atletas de deportes en equipo y las personas que viven en condiciones de hacinamiento. También se llama SARM y Staphylococcus aureus meticilinorresistente.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-11-08</DateFirstPublished><DateLastModified>2024-02-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794369">
+  <TermName>methicillin-resistant Staphylococcus aureus</TermName>
+  <TermPronunciation>(MEH-thih-SIH-lin-reh-ZIH-stunt STA-fuh-loh-KAH-kus AW-ree-us)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of bacteria that causes an infection that does not respond to common antibiotics, including methicillin, amoxicillin, and penicillin. Most methicillin-resistant Staphylococcus aureus infections occur on the skin and are mild. However, they can also be serious or life threatening and difficult to treat. Methicillin-resistant Staphylococcus aureus infections usually occur in people with weakened immune systems who are in hospitals, nursing homes, or other health care centers.  They can also occur in healthy people who have skin-to-skin contact with others, such as childcare workers, team athletes, and people who live in crowded conditions. Also called MRSA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796089" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;methicillin-resistant Staphylococcus aureus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796088" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Staphylococcus aureus resistente a la meticilina&quot;" language="es" id="_4"/>
+  <SpanishTermName>Staphylococcus aureus resistente a la meticilina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Tipo de bacteria que causa una infección que no responde a los antibióticos comunes, como la meticilina, la amoxicilina y la penicilina. La mayoría de las infecciones por 
+      <Emphasis>Staphylococcus aureus</Emphasis>
+       resistente a la meticilina se producen en la piel y son leves. Sin embargo, a veces son graves o potencialmente mortales, y difíciles de tratar. Las infecciones por 
+      <Emphasis>Staphylococcus aureus</Emphasis>
+       resistente a la meticilina se suelen presentar en personas con sistemas inmunitarios debilitados que acuden a hospitales, hogares de ancianos u otros centros de atención médica. También se presentan en personas sanas que tienen contacto directo de su piel con la piel de otras personas; por ejemplo, los cuidadores de niños, los atletas de deportes en equipo y las personas que viven en condiciones de hacinamiento. También se llama SARM y Staphylococcus aureus meticilinorresistente.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-11-08</DateFirstPublished>
+  <DateLastModified>2024-02-08</DateLastModified>
+</GlossaryTerm>

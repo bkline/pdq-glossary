@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045401"><TermName>losoxantrone</TermName><TermPronunciation>(loh-SOK-san-trone)</TermPronunciation><TermDefinition><DefinitionText>An anticancer drug that belongs to the family of drugs called antipyrazoles.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;losoxantrone&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730939" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;losoxantrona&quot;" language="es" id="_4"/><SpanishTermName>losoxantrona</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento contra el cáncer. Es un antipirazol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045401">
+  <TermName>losoxantrone</TermName>
+  <TermPronunciation>(loh-SOK-san-trone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An anticancer drug that belongs to the family of drugs called antipyrazoles.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730938" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;losoxantrone&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730939" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;losoxantrona&quot;" language="es" id="_4"/>
+  <SpanishTermName>losoxantrona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento contra el cáncer. Es un antipirazol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

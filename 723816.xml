@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000723816"><TermName>Voraxaze</TermName><TermPronunciation>(vor-AK-sayz)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat toxic levels of the anticancer drug methotrexate in the blood of adults and children with kidney problems.  Voraxaze is a bacterial enzyme that helps break down and remove methotrexate from the body. It may also help certain drugs kill cancer cells. Voraxaze is a type of chemoprotective agent and a type of prodrug activator. Also called carboxypeptidase-G2 and glucarpidase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734662" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Voraxaze&quot;" language="en" id="_3"/><MediaLink ref="CDR0000734661" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Voraxaze&quot;" language="es" id="_4"/><SpanishTermName>Voraxaze</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de concentraciones tóxicas del medicamento anticanceroso metotrexato  en la sangre de adultos y niños con problemas renales. Voraxaze es una enzima bacteriana que ayuda a descomponer el metotrexato y  eliminarlo del cuerpo. Además, es posible que también ayude a que otros medicamentos destruyan células cancerosas. Voraxaze es un tipo de quimioprotector y de activador de profármaco. También se llama carboxipeptidasa-G2 y glucarpidasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-02-23</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000723873" url="/about-cancer/treatment/drugs/glucarpidase">Glucarpidase</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000723816">
+  <TermName>Voraxaze</TermName>
+  <TermPronunciation>(vor-AK-sayz)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat toxic levels of the anticancer drug methotrexate in the blood of adults and children with kidney problems.  Voraxaze is a bacterial enzyme that helps break down and remove methotrexate from the body. It may also help certain drugs kill cancer cells. Voraxaze is a type of chemoprotective agent and a type of prodrug activator. Also called carboxypeptidase-G2 and glucarpidase.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734662" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Voraxaze&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000734661" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Voraxaze&quot;" language="es" id="_4"/>
+  <SpanishTermName>Voraxaze</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de concentraciones tóxicas del medicamento anticanceroso metotrexato  en la sangre de adultos y niños con problemas renales. Voraxaze es una enzima bacteriana que ayuda a descomponer el metotrexato y  eliminarlo del cuerpo. Además, es posible que también ayude a que otros medicamentos destruyan células cancerosas. Voraxaze es un tipo de quimioprotector y de activador de profármaco. También se llama carboxipeptidasa-G2 y glucarpidasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-02-23</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000723873" url="/about-cancer/treatment/drugs/glucarpidase">Glucarpidase</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

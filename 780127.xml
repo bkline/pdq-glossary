@@ -1,12 +1,34 @@
-<GlossaryTerm id="CDR0000780127"><TermName>Droxia</TermName><TermPronunciation>(DROK-see-uh)</TermPronunciation><TermDefinition><DefinitionText>A drug that
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780127">
+  <TermName>Droxia</TermName>
+  <TermPronunciation>(DROK-see-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that
           contains the active ingredient hydroxyurea and is used to
           treat certain patients with sickle cell anemia. It is also
           being studied in the treatment of other conditions and some
           types of cancer. Droxia may help keep abnormal red blood
           cells from forming, which may reduce the number of painful
           sickle cell crises and the need for blood transfusions. It
-          is a type of antimetabolite.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000781329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Droxia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000781328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Droxia&quot;" language="es" id="_4"/><SpanishTermName>Droxia</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo hidroxiurea y que se usa para
+          is a type of antimetabolite.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000781329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Droxia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000781328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Droxia&quot;" language="es" id="_4"/>
+  <SpanishTermName>Droxia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo hidroxiurea y que se usa para
 el tratamiento de ciertos pacientes con anemia de células
 falciformes. También está en estudio para el tratamiento de
 otras afecciones y algunos tipos de cáncer. Es posible que Droxia ayude a evitar que se formen glóbulos rojos anormales, lo que quizás reduzca el número de crisis de células falciformes dolorosas y la necesidad de transfusiones de sangre. Es un
-tipo de antimetabolito.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-04-13</DateFirstPublished><DateLastModified>2020-12-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000780126" url="/about-cancer/treatment/drugs/hydroxyurea">Hydroxyurea</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+tipo de antimetabolito.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-04-13</DateFirstPublished>
+  <DateLastModified>2020-12-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000780126" url="/about-cancer/treatment/drugs/hydroxyurea">Hydroxyurea</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

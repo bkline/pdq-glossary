@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000446543"><TermName>genomics</TermName><TermPronunciation>(jeh-NOH-mix)</TermPronunciation><TermDefinition><DefinitionText>The study of the complete set of DNA (including all of its genes) in a person or other organism. Almost every cell in a person’s body contains a complete copy of the genome. The genome contains all the information needed for a person to develop and grow. Studying the genome may help researchers understand how genes interact with each other and with the environment and how certain diseases, such as cancer, diabetes, and heart disease, form. This may lead to new ways to diagnose, treat, and prevent disease. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714582" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genomics&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714583" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genómica&quot;" language="es" id="_4"/><SpanishTermName>genómica</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio de un conjunto completo de ADN (con todos sus genes) de una persona u otro organismo. Casi todas las células del cuerpo de una persona tienen un copia completa del genoma. El genoma  contiene toda la información necesaria para el desarrollo y el crecimiento de una persona. El estudio del genoma ayuda a los investigadores a entender la interacción de los genes entre sí y con el entorno,  así como la manera en que surgen ciertas enfermedades, como el cáncer, la diabetes y las afecciones del corazón. Es posible que esto lleve a nuevas maneras de diagnosticar, tratar y prevenir enfermedades.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><DateLastModified>2016-09-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446543">
+  <TermName>genomics</TermName>
+  <TermPronunciation>(jeh-NOH-mix)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The study of the complete set of DNA (including all of its genes) in a person or other organism. Almost every cell in a person’s body contains a complete copy of the genome. The genome contains all the information needed for a person to develop and grow. Studying the genome may help researchers understand how genes interact with each other and with the environment and how certain diseases, such as cancer, diabetes, and heart disease, form. This may lead to new ways to diagnose, treat, and prevent disease. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714582" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genomics&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714583" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genómica&quot;" language="es" id="_4"/>
+  <SpanishTermName>genómica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio de un conjunto completo de ADN (con todos sus genes) de una persona u otro organismo. Casi todas las células del cuerpo de una persona tienen un copia completa del genoma. El genoma  contiene toda la información necesaria para el desarrollo y el crecimiento de una persona. El estudio del genoma ayuda a los investigadores a entender la interacción de los genes entre sí y con el entorno,  así como la manera en que surgen ciertas enfermedades, como el cáncer, la diabetes y las afecciones del corazón. Es posible que esto lleve a nuevas maneras de diagnosticar, tratar y prevenir enfermedades.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <DateLastModified>2016-09-01</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000543628"><TermName>biochemical recurrence</TermName><TermPronunciation>(BY-oh-KEH-mih-kul ree-KER-ents)</TermPronunciation><TermDefinition><DefinitionText>A rise in the blood level of PSA (prostate-specific antigen) in prostate cancer patients after treatment with surgery or radiation. Biochemical recurrence may occur in patients who do not have symptoms. It may mean that the cancer has come back. Also called biochemical relapse and PSA failure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718358" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biochemical recurrence&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718357" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;recurrencia bioquímica&quot;" language="es" id="_4"/><SpanishTermName>recurrencia bioquímica</SpanishTermName><SpanishTermDefinition><DefinitionText>Aumento de la concentración del antígeno prostático específico (PSA) en la sangre de los pacientes de cáncer de próstata después del tratamiento con cirugía o radiación. La recurrencia bioquímica a veces se presenta en pacientes que no tienen síntomas y quizás signifique que el cáncer volvió. También se llama recaída del PSA y recidiva bioquímica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-04-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000543628">
+  <TermName>biochemical recurrence</TermName>
+  <TermPronunciation>(BY-oh-KEH-mih-kul ree-KER-ents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rise in the blood level of PSA (prostate-specific antigen) in prostate cancer patients after treatment with surgery or radiation. Biochemical recurrence may occur in patients who do not have symptoms. It may mean that the cancer has come back. Also called biochemical relapse and PSA failure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718358" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biochemical recurrence&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718357" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;recurrencia bioquímica&quot;" language="es" id="_4"/>
+  <SpanishTermName>recurrencia bioquímica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Aumento de la concentración del antígeno prostático específico (PSA) en la sangre de los pacientes de cáncer de próstata después del tratamiento con cirugía o radiación. La recurrencia bioquímica a veces se presenta en pacientes que no tienen síntomas y quizás signifique que el cáncer volvió. También se llama recaída del PSA y recidiva bioquímica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-04-13</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000799481"><TermName>MSSE</TermName><TermDefinition><DefinitionText>A rare, inherited disorder in which many fast-growing tumors that look like squamous cell skin cancer form on the nose, face, ears, arms, and legs. The tumors usually go away on their own, but often leave deep, pitted scars in the skin. The tumors on the arms and legs are often larger and leave flat scars. MSSE is caused by mutations (changes) in the TGFBR1 gene. Also called Ferguson-Smith syndrome and multiple self-healing squamous epithelioma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>MSSE</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario poco común por el que se forman muchos tumores de crecimiento rápido que se parecen al cáncer de células escamosas en la piel de la nariz, la cara, los brazos y las piernas. A menudo los tumores desaparecen por si solos, pero a veces producen cicatrices en forma de agujeros profundos en la piel. Los tumores que se forman en los brazos y las piernas por lo general son más grades y producen cicatrices aplanadas. La causa del MSSE son mutaciones (cambios) en el gen <GeneName>TGFBR1</GeneName>. También se llama epitelioma escamoso múltiple de resolución espontánea y síndrome de Ferguson-Smith.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-02-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799481">
+  <TermName>MSSE</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder in which many fast-growing tumors that look like squamous cell skin cancer form on the nose, face, ears, arms, and legs. The tumors usually go away on their own, but often leave deep, pitted scars in the skin. The tumors on the arms and legs are often larger and leave flat scars. MSSE is caused by mutations (changes) in the TGFBR1 gene. Also called Ferguson-Smith syndrome and multiple self-healing squamous epithelioma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>MSSE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario poco común por el que se forman muchos tumores de crecimiento rápido que se parecen al cáncer de células escamosas en la piel de la nariz, la cara, los brazos y las piernas. A menudo los tumores desaparecen por si solos, pero a veces producen cicatrices en forma de agujeros profundos en la piel. Los tumores que se forman en los brazos y las piernas por lo general son más grades y producen cicatrices aplanadas. La causa del MSSE son mutaciones (cambios) en el gen 
+      <GeneName>TGFBR1</GeneName>
+      . También se llama epitelioma escamoso múltiple de resolución espontánea y síndrome de Ferguson-Smith.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-02-12</DateFirstPublished>
+</GlossaryTerm>

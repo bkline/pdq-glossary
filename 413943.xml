@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000413943"><TermName>CellCept</TermName><TermPronunciation>(SEL-sept)</TermPronunciation><TermDefinition><DefinitionText>A drug used to prevent graft-versus-host disease (GVHD) after organ transplants. It is also being studied in the prevention of GVHD after stem cell transplants for cancer, and in the treatment of some autoimmune disorders. CellCept is a type of immunosuppressive agent. Also called mycophenolate mofetil.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CellCept&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CellCept&quot;" language="es" id="_4"/><SpanishTermName>CellCept</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para prevenir la enfermedad de injerto contra huésped (EICH) después de trasplantes de órganos y también está en estudio para prevenir esta enfermedad después de trasplantes de células madre en pacientes de cáncer; además está en estudio para el tratamiento de algunos trastornos autoinmunitarios. CellCept es un tipo de inmunodepresor. También se llama micofenolato mofetilo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-10-10</DateFirstPublished><DateLastModified>2007-10-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413943">
+  <TermName>CellCept</TermName>
+  <TermPronunciation>(SEL-sept)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to prevent graft-versus-host disease (GVHD) after organ transplants. It is also being studied in the prevention of GVHD after stem cell transplants for cancer, and in the treatment of some autoimmune disorders. CellCept is a type of immunosuppressive agent. Also called mycophenolate mofetil.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CellCept&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713511" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CellCept&quot;" language="es" id="_4"/>
+  <SpanishTermName>CellCept</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para prevenir la enfermedad de injerto contra huésped (EICH) después de trasplantes de órganos y también está en estudio para prevenir esta enfermedad después de trasplantes de células madre en pacientes de cáncer; además está en estudio para el tratamiento de algunos trastornos autoinmunitarios. CellCept es un tipo de inmunodepresor. También se llama micofenolato mofetilo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-10-10</DateFirstPublished>
+  <DateLastModified>2007-10-08</DateLastModified>
+</GlossaryTerm>

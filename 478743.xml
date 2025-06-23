@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000478743"><TermName>advanced cancer</TermName><TermPronunciation>(ad-VANST KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A term that is often used to describe cancer that is unlikely to be cured. However, some advanced cancers can be controlled for many years with treatment and are thought of as a chronic illness. Treatment may be given to help shrink the tumor, slow the growth of cancer cells, relieve symptoms, or help a person live longer. Advanced cancer may also be used to describe cancer that has spread from where it first started to nearby tissue, lymph nodes, or other parts of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716498" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;advanced cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716499" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer avanzado&quot;" language="es" id="_4"/><SpanishTermName>cáncer avanzado</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa con frecuencia para describir el cáncer que tiene pocas probabilidades de curación. Sin embargo, algunos cánceres avanzados se pueden tratar durante muchos años, por lo que se consideran una enfermedad crónica. Es posible administrar tratamiento para disminuir el tamaño del tumor, retrasar la multiplicación celular, aliviar los síntomas o prolongar la vida de una persona. En ocasiones, se usa este término para describir un cáncer que se diseminó desde donde empezó hasta los tejidos cercanos, ganglios linfáticos u otras partes del cuerpo. También se llama cáncer en estadio avanzado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-02-12</DateFirstPublished><DateLastModified>2023-10-13</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/advanced-cancer" UseWith="en">Advanced Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/advanced-cancer">Coping with Advanced Cancer: Choices for Care Near the End of Life</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/cancer-avanzado" UseWith="es">Cáncer avanzado</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000478743">
+  <TermName>advanced cancer</TermName>
+  <TermPronunciation>(ad-VANST KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term that is often used to describe cancer that is unlikely to be cured. However, some advanced cancers can be controlled for many years with treatment and are thought of as a chronic illness. Treatment may be given to help shrink the tumor, slow the growth of cancer cells, relieve symptoms, or help a person live longer. Advanced cancer may also be used to describe cancer that has spread from where it first started to nearby tissue, lymph nodes, or other parts of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716498" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;advanced cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716499" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer avanzado&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer avanzado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa con frecuencia para describir el cáncer que tiene pocas probabilidades de curación. Sin embargo, algunos cánceres avanzados se pueden tratar durante muchos años, por lo que se consideran una enfermedad crónica. Es posible administrar tratamiento para disminuir el tamaño del tumor, retrasar la multiplicación celular, aliviar los síntomas o prolongar la vida de una persona. En ocasiones, se usa este término para describir un cáncer que se diseminó desde donde empezó hasta los tejidos cercanos, ganglios linfáticos u otras partes del cuerpo. También se llama cáncer en estadio avanzado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-02-12</DateFirstPublished>
+  <DateLastModified>2023-10-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/advanced-cancer" UseWith="en">Advanced Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/advanced-cancer">Coping with Advanced Cancer: Choices for Care Near the End of Life</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/cancer-avanzado" UseWith="es">Cáncer avanzado</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

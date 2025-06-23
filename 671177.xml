@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000671177"><TermName>heteroduplex analysis</TermName><TermPronunciation>(HEH-teh-roh-DOO-plex uh-NA-lih-sis)</TermPronunciation><TermDefinition><DefinitionText>A laboratory method used to detect sequence differences between normal DNA and the DNA to be tested. Heteroduplex analysis is commonly used to screen for point variants (mutations) in a gene but does not identify the exact location of the variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000737000" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;heteroduplex analysis&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804275" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;análisis de heterodúplex&quot;" language="es" id="_4"/><MediaLink ref="CDR0000686275" type="image/jpeg" alt="DNA duplexes; drawing shows double-stranded homoduplex DNA with the normal binding of wild-type DNA sequences (labeled A-T and G-C). Drawing shows double-stranded heteroduplex DNA with two unpaired regions (labeled A-C and G-T)." language="en" audience="Health_professionals" placement="image-center" id="_2"><Caption language="en">DNA duplexes. Homoduplex DNA shows the normal binding of wild-type DNA sequences. Heteroduplex DNA shows unpaired regions, which are sites of possible mutations.</Caption></MediaLink><MediaLink ref="CDR0000799111" type="image/jpeg" alt="En el dibujo se observan homodúplex de ADN bicatenario con los enlaces normales de secuencias de ADN natural (etiquetas A-T y G-C). También se muestran heterodúplex de ADN bicatenario con dos regiones no enlazadas (etiquetas A-C y G-T)." language="es" audience="Health_professionals" placement="image-center" id="_4"><Caption language="es">En los homodúplex de ADN se observan los enlaces normales de secuencias de ADN natural. En los heterodúplex de ADN se observan regiones no enlazadas, que son sitios de posibles mutaciones.</Caption></MediaLink><SpanishTermName>análisis de heterodúplex</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio que se usa para detectar diferencias en la secuencia entre el ADN normal y el ADN en análisis. Es habitual que se use con el fin de descubrir variantes puntuales (mutaciones) en un gen, pero no identifica la localización exacta de la variante.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000671177">
+  <TermName>heteroduplex analysis</TermName>
+  <TermPronunciation>(HEH-teh-roh-DOO-plex uh-NA-lih-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory method used to detect sequence differences between normal DNA and the DNA to be tested. Heteroduplex analysis is commonly used to screen for point variants (mutations) in a gene but does not identify the exact location of the variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000737000" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;heteroduplex analysis&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804275" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;análisis de heterodúplex&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000686275" type="image/jpeg" alt="DNA duplexes; drawing shows double-stranded homoduplex DNA with the normal binding of wild-type DNA sequences (labeled A-T and G-C). Drawing shows double-stranded heteroduplex DNA with two unpaired regions (labeled A-C and G-T)." language="en" audience="Health_professionals" placement="image-center" id="_2">
+    <Caption language="en">DNA duplexes. Homoduplex DNA shows the normal binding of wild-type DNA sequences. Heteroduplex DNA shows unpaired regions, which are sites of possible mutations.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000799111" type="image/jpeg" alt="En el dibujo se observan homodúplex de ADN bicatenario con los enlaces normales de secuencias de ADN natural (etiquetas A-T y G-C). También se muestran heterodúplex de ADN bicatenario con dos regiones no enlazadas (etiquetas A-C y G-T)." language="es" audience="Health_professionals" placement="image-center" id="_4">
+    <Caption language="es">En los homodúplex de ADN se observan los enlaces normales de secuencias de ADN natural. En los heterodúplex de ADN se observan regiones no enlazadas, que son sitios de posibles mutaciones.</Caption>
+  </MediaLink>
+  <SpanishTermName>análisis de heterodúplex</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio que se usa para detectar diferencias en la secuencia entre el ADN normal y el ADN en análisis. Es habitual que se use con el fin de descubrir variantes puntuales (mutaciones) en un gen, pero no identifica la localización exacta de la variante.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-19</DateFirstPublished>
+</GlossaryTerm>

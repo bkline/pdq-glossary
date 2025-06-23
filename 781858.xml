@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000781858"><TermName>sclerotherapy</TermName><TermPronunciation>(SKLAYR-oh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A treatment
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781858">
+  <TermName>sclerotherapy</TermName>
+  <TermPronunciation>(SKLAYR-oh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A treatment
           used to destroy abnormal blood vessels. A liquid is
           injected into a blood vessel, causing it to scar and break
           down. The blood flows through nearby healthy veins and the
@@ -6,4 +11,17 @@
           Sclerotherapy is used to treat certain types of vascular
           tumors. It is also used to treat varicose and spider veins,
           hemorrhoids, and other blood vessel
-          problems.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785365" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sclerotherapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785366" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;escleroterapia&quot;" language="es" id="_4"/><SpanishTermName>escleroterapia</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento que se usa para destruir vasos sanguíneos anormales. En un vaso sanguíneo, se inyecta un líquido que hace que se seque y se rompa. La sangre fluye a través de venas cercanas sanas, y el tejido normal absorbe el vaso sanguíneo destruido.   La escleroterapia se utiliza para tratar ciertos tipos de tumores vasculares. También se usa para tratar várices y venas en forma de araña, hemorroides y otros problemas en los vasos sanguíneos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-23</DateFirstPublished></GlossaryTerm>
+          problems.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785365" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sclerotherapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785366" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;escleroterapia&quot;" language="es" id="_4"/>
+  <SpanishTermName>escleroterapia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento que se usa para destruir vasos sanguíneos anormales. En un vaso sanguíneo, se inyecta un líquido que hace que se seque y se rompa. La sangre fluye a través de venas cercanas sanas, y el tejido normal absorbe el vaso sanguíneo destruido.   La escleroterapia se utiliza para tratar ciertos tipos de tumores vasculares. También se usa para tratar várices y venas en forma de araña, hemorroides y otros problemas en los vasos sanguíneos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-23</DateFirstPublished>
+</GlossaryTerm>

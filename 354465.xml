@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000354465"><TermName>LDH</TermName><TermDefinition><DefinitionText>One of a group of enzymes found in the blood and other body tissues, and involved in energy production in cells. An increased amount in the blood may be a sign of tissue damage and some types of cancer or other diseases. Also called lactate dehydrogenase and lactic acid dehydrogenase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>LDH</SpanishTermName><SpanishTermDefinition><DefinitionText>Enzima que pertenece a un grupo de enzimas que participan en la producción de energía en las células y se encuentran en la sangre y otros tejidos del cuerpo. A veces, una cantidad elevada de la LDH en la sangre indica daño en los tejidos o la presencia de algunos tipos de cáncer u otras enfermedades. También se llama deshidrogenasa láctica y lactato–deshidrogenasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-01-23</DateFirstPublished><DateLastModified>2007-10-26</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000354465">
+  <TermName>LDH</TermName>
+  <TermDefinition>
+    <DefinitionText>One of a group of enzymes found in the blood and other body tissues, and involved in energy production in cells. An increased amount in the blood may be a sign of tissue damage and some types of cancer or other diseases. Also called lactate dehydrogenase and lactic acid dehydrogenase.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>LDH</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enzima que pertenece a un grupo de enzimas que participan en la producción de energía en las células y se encuentran en la sangre y otros tejidos del cuerpo. A veces, una cantidad elevada de la LDH en la sangre indica daño en los tejidos o la presencia de algunos tipos de cáncer u otras enfermedades. También se llama deshidrogenasa láctica y lactato–deshidrogenasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-01-23</DateFirstPublished>
+  <DateLastModified>2007-10-26</DateLastModified>
+</GlossaryTerm>

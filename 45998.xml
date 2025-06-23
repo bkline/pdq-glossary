@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045998"><TermName>ionomycin</TermName><TermPronunciation>(I-on-oh-MY-sin)</TermPronunciation><TermDefinition><DefinitionText>An antibiotic drug used to treat infection.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731340" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ionomycin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731341" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ionomicina&quot;" language="es" id="_4"/><SpanishTermName>ionomicina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento antibiótico utilizado para tratar infecciones.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045998">
+  <TermName>ionomycin</TermName>
+  <TermPronunciation>(I-on-oh-MY-sin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An antibiotic drug used to treat infection.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731340" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ionomycin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731341" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ionomicina&quot;" language="es" id="_4"/>
+  <SpanishTermName>ionomicina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento antibiótico utilizado para tratar infecciones.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

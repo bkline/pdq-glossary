@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000799829"><TermName>stage I HPV-negative oropharyngeal cancer</TermName><TermPronunciation>(... NEH-guh-tiv OR-oh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is 2 centimeters or smaller.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801116" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I HPV-negative oropharyngeal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801117" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de orofaringe negativo para el VPH en estadio I&quot;" language="es" id="_4"/><SpanishTermName>cáncer de orofaringe negativo para el VPH en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio I, el tumor mide 2 cm o menos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-11-08</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256822" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799829">
+  <TermName>stage I HPV-negative oropharyngeal cancer</TermName>
+  <TermPronunciation>(... NEH-guh-tiv OR-oh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is 2 centimeters or smaller.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801116" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I HPV-negative oropharyngeal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801117" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de orofaringe negativo para el VPH en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de orofaringe negativo para el VPH en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio I, el tumor mide 2 cm o menos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-11-08</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256822" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

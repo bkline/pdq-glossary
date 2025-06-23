@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000285637"><TermName>photopheresis</TermName><TermPronunciation>(FOH-toh-feh-REE-sis)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which blood is removed from the body and treated with ultraviolet light and drugs that become active when exposed to light. The blood is then returned to the body. It is being studied in the treatment of some blood and bone marrow diseases and graft-vs-host disease (GVHD). Also called extracorporeal photopheresis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710279" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photopheresis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fotoaféresis&quot;" language="es" id="_6"/><SpanishTermName>fotoaféresis</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se extrae sangre del cuerpo y se trata con luz ultravioleta y medicamentos que se activan al exponerse a la luz. Luego, la sangre se devuelve al cuerpo. Se encuentra en estudio para el tratamiento de algunas enfermedades de la sangre y la médula ósea, y de la enfermedad de injerto contra huésped (EICH). También se llama fotaféresis, fotoaféresis extracorpórea y fotoféresis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-02-21</DateFirstPublished><DateLastModified>2005-01-18</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000285637">
+  <TermName>photopheresis</TermName>
+  <TermPronunciation>(FOH-toh-feh-REE-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which blood is removed from the body and treated with ultraviolet light and drugs that become active when exposed to light. The blood is then returned to the body. It is being studied in the treatment of some blood and bone marrow diseases and graft-vs-host disease (GVHD). Also called extracorporeal photopheresis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710279" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photopheresis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fotoaféresis&quot;" language="es" id="_6"/>
+  <SpanishTermName>fotoaféresis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para el que se extrae sangre del cuerpo y se trata con luz ultravioleta y medicamentos que se activan al exponerse a la luz. Luego, la sangre se devuelve al cuerpo. Se encuentra en estudio para el tratamiento de algunas enfermedades de la sangre y la médula ósea, y de la enfermedad de injerto contra huésped (EICH). También se llama fotaféresis, fotoaféresis extracorpórea y fotoféresis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-02-21</DateFirstPublished>
+  <DateLastModified>2005-01-18</DateLastModified>
+</GlossaryTerm>

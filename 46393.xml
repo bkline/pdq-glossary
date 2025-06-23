@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046393"><TermName>fulguration</TermName><TermPronunciation>(ful-guh-RAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A procedure that uses heat from an electric current to destroy abnormal tissue, such as a tumor or other lesion. It may also be used to control bleeding during surgery or after an injury. The electric current passes through an electrode that is placed on or near the tissue. The tip of the electrode is heated by the electric current to burn or destroy the tissue.  Fulguration is a type of electrosurgery. Also called electrocautery, electrocoagulation, and electrofulguration.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708659" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fulguration&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708660" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fulguración&quot;" language="es" id="_4"/><SpanishTermName>fulguración</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento que usa el calor de una corriente eléctrica para destruir tejido anormal, como un tumor u otra lesión. También se usa para controlar el sangrado  durante una cirugía o después de una lesión. La corriente eléctrica pasa a través de un electrodo que se coloca sobre el tejido o cerca de este. La punta del electrodo se calienta con la corriente eléctrica para quemar o destruir el tejido. La fulguración es un tipo de electrocirugía. También se llama electrocauterización, electrocoagulación y electrofulguración.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-07-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046393">
+  <TermName>fulguration</TermName>
+  <TermPronunciation>(ful-guh-RAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure that uses heat from an electric current to destroy abnormal tissue, such as a tumor or other lesion. It may also be used to control bleeding during surgery or after an injury. The electric current passes through an electrode that is placed on or near the tissue. The tip of the electrode is heated by the electric current to burn or destroy the tissue.  Fulguration is a type of electrosurgery. Also called electrocautery, electrocoagulation, and electrofulguration.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708659" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fulguration&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708660" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fulguración&quot;" language="es" id="_4"/>
+  <SpanishTermName>fulguración</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento que usa el calor de una corriente eléctrica para destruir tejido anormal, como un tumor u otra lesión. También se usa para controlar el sangrado  durante una cirugía o después de una lesión. La corriente eléctrica pasa a través de un electrodo que se coloca sobre el tejido o cerca de este. La punta del electrodo se calienta con la corriente eléctrica para quemar o destruir el tejido. La fulguración es un tipo de electrocirugía. También se llama electrocauterización, electrocoagulación y electrofulguración.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-07-16</DateLastModified>
+</GlossaryTerm>

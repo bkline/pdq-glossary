@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046578"><TermName>shave biopsy</TermName><TermPronunciation>(shayv BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which a skin abnormality and a thin layer of surrounding skin are removed with a small blade for examination under a microscope. Stitches are not needed with this procedure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;shave biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708976" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por rasurado&quot;" language="es" id="_4"/><SpanishTermName>biopsia por rasurado</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento por el que se extrae un área anormal de piel y una capa fina de piel alrededor de esta con una cuchilla pequeña para observarlas al microscopio. Con este procedimiento, no se necesitan puntos de sutura. También se llama biopsia por afeitado y biopsia por raspado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2004-06-22</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046578">
+  <TermName>shave biopsy</TermName>
+  <TermPronunciation>(shayv BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which a skin abnormality and a thin layer of surrounding skin are removed with a small blade for examination under a microscope. Stitches are not needed with this procedure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;shave biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708976" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por rasurado&quot;" language="es" id="_4"/>
+  <SpanishTermName>biopsia por rasurado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento por el que se extrae un área anormal de piel y una capa fina de piel alrededor de esta con una cuchilla pequeña para observarlas al microscopio. Con este procedimiento, no se necesitan puntos de sutura. También se llama biopsia por afeitado y biopsia por raspado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2004-06-22</DateLastModified>
+</GlossaryTerm>

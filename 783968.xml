@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000783968"><TermName>splice-site variant</TermName><TermPronunciation>(... VAYR-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>A genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence. Also called splice-site mutation.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000785432" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;splice-site variant&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804337" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante del sitio de empalme&quot;" language="es" id="_4"/><SpanishTermName>variante del sitio de empalme</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética en la secuencia de ADN que ocurre en el límite entre un exón y un intrón (sitio de empalme). Este cambio puede alterar el corte y empalme del ARN lo que conlleva la pérdida de exones o la inclusión de intrones que  alteran la secuencia de codificación de la proteína. También se llama mutación en el sitio de empalme.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783968">
+  <TermName>splice-site variant</TermName>
+  <TermPronunciation>(... VAYR-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence. Also called splice-site mutation.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785432" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;splice-site variant&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804337" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante del sitio de empalme&quot;" language="es" id="_4"/>
+  <SpanishTermName>variante del sitio de empalme</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración genética en la secuencia de ADN que ocurre en el límite entre un exón y un intrón (sitio de empalme). Este cambio puede alterar el corte y empalme del ARN lo que conlleva la pérdida de exones o la inclusión de intrones que  alteran la secuencia de codificación de la proteína. También se llama mutación en el sitio de empalme.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-28</DateFirstPublished>
+</GlossaryTerm>

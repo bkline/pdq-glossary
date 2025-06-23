@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000682153"><TermName>cabazitaxel</TermName><TermPronunciation>(kuh-BA-zih-TAK-sil)</TermPronunciation><TermDefinition><DefinitionText>A drug used with prednisone to treat prostate cancer that has spread to other parts of the body and is castration resistant (has not responded to treatments that lower testosterone levels). It is used in patients who have already been treated with anticancer drugs that included docetaxel.  It is also being studied in the treatment of other types of cancer.  Cabazitaxel stops cancer cells from growing and dividing and may kill them. It is a type of taxane. Also called Jevtana and taxoid XRP6258.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cabazitaxel&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cabazitaxel&quot;" language="es" id="_4"/><SpanishTermName>cabazitaxel</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con prednisona para el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo y que es resistente a la castración (no respondió a los tratamientos que disminuyen las concentraciones de testosterona). Se utiliza en pacientes que ya recibieron medicamentos contra el cáncer, entre ellos, el docetaxel.  También está en estudio para el tratamiento de otros tipos de cáncer.  El cabazitaxel detiene el crecimiento y la multiplicación de las células cancerosas y es posible que las destruya. Es un tipo de taxano. También se llama Jevtana y taxoide XRP6258.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-07-20</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000680913" url="/about-cancer/treatment/drugs/cabazitaxel">Cabazitaxel</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000682153">
+  <TermName>cabazitaxel</TermName>
+  <TermPronunciation>(kuh-BA-zih-TAK-sil)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with prednisone to treat prostate cancer that has spread to other parts of the body and is castration resistant (has not responded to treatments that lower testosterone levels). It is used in patients who have already been treated with anticancer drugs that included docetaxel.  It is also being studied in the treatment of other types of cancer.  Cabazitaxel stops cancer cells from growing and dividing and may kill them. It is a type of taxane. Also called Jevtana and taxoid XRP6258.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cabazitaxel&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cabazitaxel&quot;" language="es" id="_4"/>
+  <SpanishTermName>cabazitaxel</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con prednisona para el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo y que es resistente a la castración (no respondió a los tratamientos que disminuyen las concentraciones de testosterona). Se utiliza en pacientes que ya recibieron medicamentos contra el cáncer, entre ellos, el docetaxel.  También está en estudio para el tratamiento de otros tipos de cáncer.  El cabazitaxel detiene el crecimiento y la multiplicación de las células cancerosas y es posible que las destruya. Es un tipo de taxano. También se llama Jevtana y taxoide XRP6258.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-07-20</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000680913" url="/about-cancer/treatment/drugs/cabazitaxel">Cabazitaxel</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

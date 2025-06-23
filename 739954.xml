@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000739954"><TermName>Bosulif</TermName><TermPronunciation>(BAH-soo-lif)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults and children aged 1 year and older with chronic myelogenous leukemia that is Philadelphia chromosome positive. It is used in some newly diagnosed patients. It is also used in patients who cannot be treated with or have not gotten better after other treatment. It is also being studied in the treatment of other types of cancer. Bosulif blocks BCR::ABL1 and other proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called bosutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000742104" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Bosulif&quot;" language="en" id="_3"/><MediaLink ref="CDR0000742103" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Bosulif&quot;" language="es" id="_4"/><SpanishTermName>Bosulif</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos y niños de 1 año o más con leucemia mielógena crónica positiva para el cromosoma Filadelfia.   Se utiliza en algunos pacientes que acaban de recibir el diagnóstico, y también en aquellos que no pueden recibir otro tratamiento o que no mejoraron con un tratamiento anterior. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer.  Bosulif bloquea BCR::ABL1 y otras proteínas, lo que quizás ayude a impedir la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama bosutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-09-13</DateFirstPublished><DateLastModified>2024-10-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000739892" url="/about-cancer/treatment/drugs/bosutinib">Bosutinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000739954">
+  <TermName>Bosulif</TermName>
+  <TermPronunciation>(BAH-soo-lif)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults and children aged 1 year and older with chronic myelogenous leukemia that is Philadelphia chromosome positive. It is used in some newly diagnosed patients. It is also used in patients who cannot be treated with or have not gotten better after other treatment. It is also being studied in the treatment of other types of cancer. Bosulif blocks BCR::ABL1 and other proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called bosutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000742104" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Bosulif&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000742103" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Bosulif&quot;" language="es" id="_4"/>
+  <SpanishTermName>Bosulif</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos y niños de 1 año o más con leucemia mielógena crónica positiva para el cromosoma Filadelfia.   Se utiliza en algunos pacientes que acaban de recibir el diagnóstico, y también en aquellos que no pueden recibir otro tratamiento o que no mejoraron con un tratamiento anterior. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer.  Bosulif bloquea BCR::ABL1 y otras proteínas, lo que quizás ayude a impedir la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama bosutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-09-13</DateFirstPublished>
+  <DateLastModified>2024-10-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000739892" url="/about-cancer/treatment/drugs/bosutinib">Bosutinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

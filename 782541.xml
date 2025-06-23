@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000782541"><TermName>extraskeletal mesenchymal chondrosarcoma</TermName><TermPronunciation>(EK-struh-SKEH-leh-tul meh-ZEN-kih-mul KON-droh-sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that forms in cartilage or other soft tissue but not in bone. It usually occurs in the head and neck. Most extraskeletal mesenchymal chondrosarcomas are fast-growing and may spread to other parts of the body. They may also recur (come back) many years after treatment. Extraskeletal mesenchymal chondrosarcoma usually occurs in young adults. It is a type of soft tissue sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785419" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extraskeletal mesenchymal chondrosarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785418" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condrosarcoma mesenquimatoso extraesquelético&quot;" language="es" id="_4"/><SpanishTermName>condrosarcoma mesenquimatoso extraesquelético</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer poco frecuente que se forma en el cartílago u otro tejido blando, pero no en el hueso. Habitualmente aparece en la cabeza y el cuello. La mayoría de los condrosarcomas mesenquimatosos extraesqueléticos crecen rápido y se pueden diseminar a otras partes del cuerpo. También pueden recidivar (volver) muchos años después del tratamiento. El condrosarcoma mesenquimatoso extraesquelético se suele presentar en adultos jóvenes. Es un tipo de sarcoma de tejido blando.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782541">
+  <TermName>extraskeletal mesenchymal chondrosarcoma</TermName>
+  <TermPronunciation>(EK-struh-SKEH-leh-tul meh-ZEN-kih-mul KON-droh-sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that forms in cartilage or other soft tissue but not in bone. It usually occurs in the head and neck. Most extraskeletal mesenchymal chondrosarcomas are fast-growing and may spread to other parts of the body. They may also recur (come back) many years after treatment. Extraskeletal mesenchymal chondrosarcoma usually occurs in young adults. It is a type of soft tissue sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785419" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extraskeletal mesenchymal chondrosarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785418" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condrosarcoma mesenquimatoso extraesquelético&quot;" language="es" id="_4"/>
+  <SpanishTermName>condrosarcoma mesenquimatoso extraesquelético</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer poco frecuente que se forma en el cartílago u otro tejido blando, pero no en el hueso. Habitualmente aparece en la cabeza y el cuello. La mayoría de los condrosarcomas mesenquimatosos extraesqueléticos crecen rápido y se pueden diseminar a otras partes del cuerpo. También pueden recidivar (volver) muchos años después del tratamiento. El condrosarcoma mesenquimatoso extraesquelético se suele presentar en adultos jóvenes. Es un tipo de sarcoma de tejido blando.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+</GlossaryTerm>

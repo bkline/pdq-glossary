@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000782472"><TermName>aggressive fibromatosis</TermName><TermPronunciation>(uh-GREH-siv FY-broh-muh-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A rare type of soft tissue tumor that forms in fibrous connective tissue of the body, usually in the abdomen, head and neck, shoulders, upper arms, and thighs. Aggressive fibromatoses are intermediate tumors, meaning they can grow into and damage nearby tissue (locally aggressive) but do not spread to other parts of the body. They are painful, difficult to completely remove with surgery, and often come back after surgery. Aggressive fibromatoses occur in adults and children. Also called desmoid tumor and desmoid-type fibromatosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785342" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aggressive fibromatosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785343" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibromatosis agresiva&quot;" language="es" id="_4"/><SpanishTermName>fibromatosis agresiva</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad por la que se presenta un tipo raro de tumor de tejido blando que se forma en el tejido conjuntivo fibroso del cuerpo, por lo general aparece en el abdomen, la cabeza y el cuello, los hombros, los brazos y los muslos. En la fibromatosis agresiva se forman tumores intermedios, lo que significa que crecen en el tejido cercano y lo dañan (localmente agresivos), pero no se diseminan a otras partes del cuerpo. Son dolorosos, difíciles de extirpar completamente con cirugía y, a menudo, vuelven después del tratamiento. Se presentan en niños y adultos. También se llama fibromatosis profunda, fibromatosis tipo desmoide y tumor desmoide.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished><DateLastModified>2025-03-19</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/pediatric-adult-rare-tumor/rare-tumors/rare-soft-tissue-tumors/desmoid-tumor" UseWith="en">Desmoid Tumor</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/pediatric-adult-rare-tumor/espanol/tumores-raros/tumores-raros-tejidos-blandos/tumor-desmoide" UseWith="en">Tumor desmoide</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000806988" UseWith="en" audience="Patients">fibrous connective tissue</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000806988" UseWith="es" audience="Patients">tejido fibroso</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782472">
+  <TermName>aggressive fibromatosis</TermName>
+  <TermPronunciation>(uh-GREH-siv FY-broh-muh-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of soft tissue tumor that forms in fibrous connective tissue of the body, usually in the abdomen, head and neck, shoulders, upper arms, and thighs. Aggressive fibromatoses are intermediate tumors, meaning they can grow into and damage nearby tissue (locally aggressive) but do not spread to other parts of the body. They are painful, difficult to completely remove with surgery, and often come back after surgery. Aggressive fibromatoses occur in adults and children. Also called desmoid tumor and desmoid-type fibromatosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785342" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aggressive fibromatosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785343" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibromatosis agresiva&quot;" language="es" id="_4"/>
+  <SpanishTermName>fibromatosis agresiva</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad por la que se presenta un tipo raro de tumor de tejido blando que se forma en el tejido conjuntivo fibroso del cuerpo, por lo general aparece en el abdomen, la cabeza y el cuello, los hombros, los brazos y los muslos. En la fibromatosis agresiva se forman tumores intermedios, lo que significa que crecen en el tejido cercano y lo dañan (localmente agresivos), pero no se diseminan a otras partes del cuerpo. Son dolorosos, difíciles de extirpar completamente con cirugía y, a menudo, vuelven después del tratamiento. Se presentan en niños y adultos. También se llama fibromatosis profunda, fibromatosis tipo desmoide y tumor desmoide.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+  <DateLastModified>2025-03-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/pediatric-adult-rare-tumor/rare-tumors/rare-soft-tissue-tumors/desmoid-tumor" UseWith="en">Desmoid Tumor</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/pediatric-adult-rare-tumor/espanol/tumores-raros/tumores-raros-tejidos-blandos/tumor-desmoide" UseWith="en">Tumor desmoide</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000806988" UseWith="en" audience="Patients">fibrous connective tissue</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000806988" UseWith="es" audience="Patients">tejido fibroso</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

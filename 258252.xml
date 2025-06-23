@@ -1,1 +1,43 @@
-<GlossaryTerm id="CDR0000258252"><TermName>Gleevec</TermName><TermPronunciation>(GLEE-vek)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of leukemia and other blood cancers, gastrointestinal stromal tumors, skin tumors called dermatofibrosarcoma protuberans, and a certain type of a rare condition called systemic mastocytosis. It is also being studied in the treatment of other conditions and types of cancer. Gleevec blocks certain proteins made by the <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName>, <GeneName>PDGFR</GeneName>, or <GeneName>c-KIT</GeneName> oncogene, which may help keep cancer cells from growing and may kill them. Gleevec is a type of tyrosine kinase inhibitor. Also called imatinib mesylate, Imkeldi, and STI571.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710086" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gleevec&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710085" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gleevec&quot;" language="es" id="_4"/><SpanishTermName>Gleevec</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de leucemia y otros cánceres de sangre. También se utiliza para el tratamiento de los tumores de estroma gastrointestinal, los tumores de piel llamados dermatofibrosarcomas protuberantes y una afección rara llamada mastocitosis sistémica. Además, está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Gleevec bloquea ciertas proteínas que se originan de los genes <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> y <GeneName>PDGFR</GeneName>, o del oncogén <GeneName>c-KIT</GeneName>, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Gleevec es un tipo de inhibidor de tirosina–cinasas. También se llama Imkeldi, mesilato de imatinib y STI571.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2002-10-19</DateFirstPublished><DateLastModified>2024-12-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000487488" url="/about-cancer/treatment/drugs/imatinibmesylate">Imatinib Mesylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000258252">
+  <TermName>Gleevec</TermName>
+  <TermPronunciation>(GLEE-vek)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat certain types of leukemia and other blood cancers, gastrointestinal stromal tumors, skin tumors called dermatofibrosarcoma protuberans, and a certain type of a rare condition called systemic mastocytosis. It is also being studied in the treatment of other conditions and types of cancer. Gleevec blocks certain proteins made by the 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+      , 
+      <GeneName>PDGFR</GeneName>
+      , or 
+      <GeneName>c-KIT</GeneName>
+       oncogene, which may help keep cancer cells from growing and may kill them. Gleevec is a type of tyrosine kinase inhibitor. Also called imatinib mesylate, Imkeldi, and STI571.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710086" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gleevec&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710085" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gleevec&quot;" language="es" id="_4"/>
+  <SpanishTermName>Gleevec</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de ciertos tipos de leucemia y otros cánceres de sangre. También se utiliza para el tratamiento de los tumores de estroma gastrointestinal, los tumores de piel llamados dermatofibrosarcomas protuberantes y una afección rara llamada mastocitosis sistémica. Además, está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Gleevec bloquea ciertas proteínas que se originan de los genes 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+       y 
+      <GeneName>PDGFR</GeneName>
+      , o del oncogén 
+      <GeneName>c-KIT</GeneName>
+      , lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Gleevec es un tipo de inhibidor de tirosina–cinasas. También se llama Imkeldi, mesilato de imatinib y STI571.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2002-10-19</DateFirstPublished>
+  <DateLastModified>2024-12-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000487488" url="/about-cancer/treatment/drugs/imatinibmesylate">Imatinib Mesylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

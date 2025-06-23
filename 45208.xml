@@ -1,13 +1,34 @@
-<GlossaryTerm id="CDR0000045208"><TermName>decitabine</TermName><TermPronunciation>(deh-SY-tuh-been)</TermPronunciation><TermDefinition><DefinitionText>A drug used to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045208">
+  <TermName>decitabine</TermName>
+  <TermPronunciation>(deh-SY-tuh-been)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to
           treat adults with myelodysplastic syndromes, including
           chronic myelomonocytic leukemia. It is also being studied
           in the treatment of other types of cancer.
           Decitabine stops cells from
           making DNA and may kill cancer cells. It is a type of
-          antimetabolite. Also called Dacogen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705154" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabine&quot;" language="en" id="_5"/><MediaLink ref="CDR0000705155" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabina&quot;" language="es" id="_4"/><SpanishTermName>decitabina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+          antimetabolite. Also called Dacogen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705154" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabine&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000705155" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabina&quot;" language="es" id="_4"/>
+  <SpanishTermName>decitabina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de adultos con síndromes mielodisplásicos, como la leucemia
 mielomonocítica crónica. También está en
 estudio para el tratamiento de otros tipos de cáncer.
 La decitabina impide que las células elaboren
 ADN y es posible que destruya células cancerosas. Es un
-tipo de antimetabolito. También se llama Dacogen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-01-04</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000495366" url="/about-cancer/treatment/drugs/decitabine">Decitabine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+tipo de antimetabolito. También se llama Dacogen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-01-04</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000495366" url="/about-cancer/treatment/drugs/decitabine">Decitabine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

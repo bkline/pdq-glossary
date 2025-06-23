@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044428"><TermName>13-cis retinoic acid</TermName><TermPronunciation>(... REH-tih-NOH-ik A-sid)</TermPronunciation><TermDefinition><DefinitionText>A drug closely related to vitamin A that is used to treat severe acne and may also be used to treat other skin conditions and some types of cancer, including neuroblastoma. It is also being studied in the prevention and treatment of other types of cancer. 13-cis retinoic acid binds to and activates certain protein receptors in cells, including cancer cells. This may slow the growth of cancer cells and change how these cells look and act. 13-cis retinoic acid is a type of retinoid. Also called isotretinoin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704588" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;13-cis retinoic acid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704587" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ácido retinoico 13-cis&quot;" language="es" id="_4"/><SpanishTermName>ácido retinoico 13-cis</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento relacionado muy de cerca con la vitamina A que se usa para el tratamiento del acné ,otras afecciones de la piel y algunos tipos de cáncer, como el neuroblastoma. También está en estudio para la prevención y el tratamiento de otros tipos de cáncer.  se une a ciertos receptores de proteínas de las células, incluidas las cancerosas, y los activa. Esto hace más lenta la multiplicación de las células cancerosas y cambia el aspecto y el comportamiento de estas células. Es un tipo de retinoide. También se llama ácido 13-cis-retinoico e isotretinoína.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-08-25</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044428">
+  <TermName>13-cis retinoic acid</TermName>
+  <TermPronunciation>(... REH-tih-NOH-ik A-sid)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug closely related to vitamin A that is used to treat severe acne and may also be used to treat other skin conditions and some types of cancer, including neuroblastoma. It is also being studied in the prevention and treatment of other types of cancer. 13-cis retinoic acid binds to and activates certain protein receptors in cells, including cancer cells. This may slow the growth of cancer cells and change how these cells look and act. 13-cis retinoic acid is a type of retinoid. Also called isotretinoin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704588" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;13-cis retinoic acid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704587" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ácido retinoico 13-cis&quot;" language="es" id="_4"/>
+  <SpanishTermName>ácido retinoico 13-cis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento relacionado muy de cerca con la vitamina A que se usa para el tratamiento del acné ,otras afecciones de la piel y algunos tipos de cáncer, como el neuroblastoma. También está en estudio para la prevención y el tratamiento de otros tipos de cáncer.  se une a ciertos receptores de proteínas de las células, incluidas las cancerosas, y los activa. Esto hace más lenta la multiplicación de las células cancerosas y cambia el aspecto y el comportamiento de estas células. Es un tipo de retinoide. También se llama ácido 13-cis-retinoico e isotretinoína.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-08-25</DateLastModified>
+</GlossaryTerm>

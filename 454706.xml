@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000454706"><TermName>psychiatrist</TermName><TermPronunciation>(sy-KY-uh-trist)</TermPronunciation><TermDefinition><DefinitionText>A medical doctor who has special training in preventing, diagnosing, and treating mental, emotional, and behavioral disorders.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715168" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychiatrist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715167" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psiquiatra&quot;" language="es" id="_4"/><SpanishTermName>psiquiatra</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en la prevención, el diagnóstico y el tratamiento de trastornos mentales, emocionales y del comportamiento. También se llama especialista en psiquiatría.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-06-16</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000454706">
+  <TermName>psychiatrist</TermName>
+  <TermPronunciation>(sy-KY-uh-trist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A medical doctor who has special training in preventing, diagnosing, and treating mental, emotional, and behavioral disorders.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715168" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychiatrist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715167" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psiquiatra&quot;" language="es" id="_4"/>
+  <SpanishTermName>psiquiatra</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en la prevención, el diagnóstico y el tratamiento de trastornos mentales, emocionales y del comportamiento. También se llama especialista en psiquiatría.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-06-16</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

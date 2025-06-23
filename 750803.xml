@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000750803"><TermName>agoraphobia</TermName><TermPronunciation>(A-gor-uh-FOH-bee-uh)</TermPronunciation><TermDefinition><DefinitionText>An intense fear of being in open places or in situations where it may be hard to escape, or where help may not be available. People with agoraphobia are usually very anxious about having a panic attack in a public place. They may also have a fear of being alone or have trouble leaving their home. They usually avoid elevators, bridges, and public places. Agoraphobia is a type of phobia and a type of anxiety disorder.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000754468" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;agoraphobia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000754467" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;agorafobia&quot;" language="es" id="_4"/><SpanishTermName>agorafobia</SpanishTermName><SpanishTermDefinition><DefinitionText>Miedo intenso a estar en lugares abiertos o en situaciones de las que quizás sea difícil escapar o donde no haya ayuda disponible. Las personas con agorafobia suelen sentir mucha ansiedad ante la posibilidad de tener un ataque de pánico en un lugar público. También es posible que tengan miedo de estar solas o problemas para salir de casa. Por lo general, evitan los ascensores, los puentes y los lugares públicos. La agorafobia es un tipo de fobia y de trastorno de ansiedad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-09-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000750803">
+  <TermName>agoraphobia</TermName>
+  <TermPronunciation>(A-gor-uh-FOH-bee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An intense fear of being in open places or in situations where it may be hard to escape, or where help may not be available. People with agoraphobia are usually very anxious about having a panic attack in a public place. They may also have a fear of being alone or have trouble leaving their home. They usually avoid elevators, bridges, and public places. Agoraphobia is a type of phobia and a type of anxiety disorder.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000754468" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;agoraphobia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000754467" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;agorafobia&quot;" language="es" id="_4"/>
+  <SpanishTermName>agorafobia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Miedo intenso a estar en lugares abiertos o en situaciones de las que quizás sea difícil escapar o donde no haya ayuda disponible. Las personas con agorafobia suelen sentir mucha ansiedad ante la posibilidad de tener un ataque de pánico en un lugar público. También es posible que tengan miedo de estar solas o problemas para salir de casa. Por lo general, evitan los ascensores, los puentes y los lugares públicos. La agorafobia es un tipo de fobia y de trastorno de ansiedad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-09-17</DateFirstPublished>
+</GlossaryTerm>

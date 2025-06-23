@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000776887"><TermName>variant</TermName><TermPronunciation>(VAYR-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>An alteration in the most common DNA nucleotide sequence. The term variant can be used to describe an alteration that may be benign, pathogenic, or of unknown significance. The term variant is increasingly being used in place of the term mutation.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>Any change in the DNA sequence of a cell. Variants may be caused by mistakes during cell division, or they may be caused by exposure to DNA-damaging agents in the environment. Variants can be harmful, beneficial, or have no effect. If they occur in cells that make eggs or sperm, they can be inherited; if variants occur in other types of cells, they are not inherited. Certain variants may lead to cancer or other diseases. A variant is sometimes called a mutation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000777156" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variant&quot;" language="en" id="_4"/><MediaLink ref="CDR0000804315" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante&quot;" language="es" id="_5"/><SpanishTermName>variante</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración en la secuencia más común de nucleótidos del ADN. El  término variante se usa   para describir una alteración que puede ser benigna, patógena o de   repercusión incierta. Este término se usa cada vez más en lugar del término mutación. También se llama variación de secuencia, variación genética, variante de secuencia y variante genética.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Cualquier cambio en la secuencia del ADN de una célula. Las variantes a veces aparecen por errores durante la división celular o por exposición a sustancias del ambiente que dañan el ADN. Las variantes pueden tener un efecto perjudicial, un efecto favorable o ningún efecto. Las variantes que están en las células que dan origen a los óvulos o los espermatozoides se heredan; las variantes que están en otros tipos de células no se heredan. Ciertas variantes producen  cáncer u otras enfermedades. Las variantes a veces se llaman mutaciones. También se llama variación de secuencia, variación genética, variante de secuencia y variante genética.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-11-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776887">
+  <TermName>variant</TermName>
+  <TermPronunciation>(VAYR-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An alteration in the most common DNA nucleotide sequence. The term variant can be used to describe an alteration that may be benign, pathogenic, or of unknown significance. The term variant is increasingly being used in place of the term mutation.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>Any change in the DNA sequence of a cell. Variants may be caused by mistakes during cell division, or they may be caused by exposure to DNA-damaging agents in the environment. Variants can be harmful, beneficial, or have no effect. If they occur in cells that make eggs or sperm, they can be inherited; if variants occur in other types of cells, they are not inherited. Certain variants may lead to cancer or other diseases. A variant is sometimes called a mutation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000777156" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variant&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000804315" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante&quot;" language="es" id="_5"/>
+  <SpanishTermName>variante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración en la secuencia más común de nucleótidos del ADN. El  término variante se usa   para describir una alteración que puede ser benigna, patógena o de   repercusión incierta. Este término se usa cada vez más en lugar del término mutación. También se llama variación de secuencia, variación genética, variante de secuencia y variante genética.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Cualquier cambio en la secuencia del ADN de una célula. Las variantes a veces aparecen por errores durante la división celular o por exposición a sustancias del ambiente que dañan el ADN. Las variantes pueden tener un efecto perjudicial, un efecto favorable o ningún efecto. Las variantes que están en las células que dan origen a los óvulos o los espermatozoides se heredan; las variantes que están en otros tipos de células no se heredan. Ciertas variantes producen  cáncer u otras enfermedades. Las variantes a veces se llaman mutaciones. También se llama variación de secuencia, variación genética, variante de secuencia y variante genética.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-11-12</DateFirstPublished>
+</GlossaryTerm>

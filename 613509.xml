@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000613509"><TermName>fusion gene</TermName><TermPronunciation>(FYOO-zhun jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene made by joining parts of two different genes. Fusion genes, and the fusion proteins that come from them, may be made in the laboratory, or made naturally in the body when part of the DNA from one chromosome moves to another chromosome. Fusion proteins produced by this change may lead to the development of some types of cancer. For example, the <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> fusion gene and protein are found in some types of leukemia. Fusion genes and proteins may also be found in several other types of cancer, including soft tissue sarcoma, cancers of the prostate, breast, lung, bladder, colon, and rectum, and CNS tumors. Fusion genes and proteins are being studied in the diagnosis and treatment of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720922" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusion gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720923" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen de fusión&quot;" language="es" id="_4"/><SpanishTermName>gen de fusión</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que se forma por la unión de partes de dos genes diferentes. Los genes de fusión, y las proteínas de fusión que se originan de los mismos, se producen en el laboratorio o de manera natural en el cuerpo cuando parte del ADN de un cromosoma se pasa a otro cromosoma. Es posible que las proteínas de fusión producidas por este cambio causen la formación de algunos tipos de cáncer. Por ejemplo, el gen de fusión <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> y su proteína se encuentran en ciertos tipos de leucemia. Los genes y las proteínas de fusión a veces están presentes en muchos otros tipos de cáncer, como el sarcoma de tejido blando, los  cánceres de próstata, mama, pulmón, vejiga, colon y recto, y los tumores del sistema nervioso central. Los genes y las proteínas de fusión están en estudio para el diagnóstico y el tratamiento del cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-08-29</DateFirstPublished><DateLastModified>2024-10-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000613509">
+  <TermName>fusion gene</TermName>
+  <TermPronunciation>(FYOO-zhun jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene made by joining parts of two different genes. Fusion genes, and the fusion proteins that come from them, may be made in the laboratory, or made naturally in the body when part of the DNA from one chromosome moves to another chromosome. Fusion proteins produced by this change may lead to the development of some types of cancer. For example, the 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+       fusion gene and protein are found in some types of leukemia. Fusion genes and proteins may also be found in several other types of cancer, including soft tissue sarcoma, cancers of the prostate, breast, lung, bladder, colon, and rectum, and CNS tumors. Fusion genes and proteins are being studied in the diagnosis and treatment of cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720922" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusion gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720923" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen de fusión&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen de fusión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que se forma por la unión de partes de dos genes diferentes. Los genes de fusión, y las proteínas de fusión que se originan de los mismos, se producen en el laboratorio o de manera natural en el cuerpo cuando parte del ADN de un cromosoma se pasa a otro cromosoma. Es posible que las proteínas de fusión producidas por este cambio causen la formación de algunos tipos de cáncer. Por ejemplo, el gen de fusión 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+       y su proteína se encuentran en ciertos tipos de leucemia. Los genes y las proteínas de fusión a veces están presentes en muchos otros tipos de cáncer, como el sarcoma de tejido blando, los  cánceres de próstata, mama, pulmón, vejiga, colon y recto, y los tumores del sistema nervioso central. Los genes y las proteínas de fusión están en estudio para el diagnóstico y el tratamiento del cáncer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-08-29</DateFirstPublished>
+  <DateLastModified>2024-10-29</DateLastModified>
+</GlossaryTerm>

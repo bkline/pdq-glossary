@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803523"><TermName>clinical utility</TermName><TermPronunciation>(KLIH-nih-kul yoo-TIH-lih-tee)</TermPronunciation><TermDefinition><DefinitionText>A term that refers to the likelihood that a test will, by prompting an intervention, result in an improved health outcome. The clinical utility of a genetic test is based on the health benefits related to the interventions offered to individuals with positive test results. </DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000804486" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clinical utility&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804487" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;utilidad clínica&quot;" language="es" id="_4"/><SpanishTermName>utilidad clínica</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se refiere a la verosimilitud de que una prueba, al provocar una intervención,  conlleve mejores resultados de salud. La utilidad clínica de una prueba genética se sustenta en los beneficios para la salud relacionados con las intervenciones que se ofrecen a las personas con resultados positivos para dichas pruebas.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2020-11-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803523">
+  <TermName>clinical utility</TermName>
+  <TermPronunciation>(KLIH-nih-kul yoo-TIH-lih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term that refers to the likelihood that a test will, by prompting an intervention, result in an improved health outcome. The clinical utility of a genetic test is based on the health benefits related to the interventions offered to individuals with positive test results. </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804486" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clinical utility&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804487" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;utilidad clínica&quot;" language="es" id="_4"/>
+  <SpanishTermName>utilidad clínica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se refiere a la verosimilitud de que una prueba, al provocar una intervención,  conlleve mejores resultados de salud. La utilidad clínica de una prueba genética se sustenta en los beneficios para la salud relacionados con las intervenciones que se ofrecen a las personas con resultados positivos para dichas pruebas.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-11-24</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000044537"><TermName>xerostomia</TermName><TermPronunciation>(ZEER-oh-STOH-mee-uh)</TermPronunciation><TermDefinition><DefinitionText>Dry mouth. It occurs when the body is not able to make enough saliva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704724" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;xerostomia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704725" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;xerostomía&quot;" language="es" id="_4"/><SpanishTermName>xerostomía</SpanishTermName><SpanishTermDefinition><DefinitionText>Sensación de sequedad en la boca. Se produce cuando el cuerpo no puede elaborar suficiente saliva. También se llama boca seca, sequedad bucal, sequedad de boca y sequedad oral.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat">Mouth and Throat Problems: Cancer Treatment Side Effects</RelatedExternalRef><RelatedSummaryRef UseWith="en" href="CDR0000062871" url="/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq">Oral Complications of Cancer Therapies</RelatedSummaryRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta">Problemas en la boca y en la garganta</RelatedExternalRef><RelatedSummaryRef UseWith="es" href="CDR0000256665" url="/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta/complicaciones-orales-pdq">Complicaciones orales del tratamiento del cáncer</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044537">
+  <TermName>xerostomia</TermName>
+  <TermPronunciation>(ZEER-oh-STOH-mee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Dry mouth. It occurs when the body is not able to make enough saliva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704724" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;xerostomia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704725" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;xerostomía&quot;" language="es" id="_4"/>
+  <SpanishTermName>xerostomía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sensación de sequedad en la boca. Se produce cuando el cuerpo no puede elaborar suficiente saliva. También se llama boca seca, sequedad bucal, sequedad de boca y sequedad oral.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat">Mouth and Throat Problems: Cancer Treatment Side Effects</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062871" url="/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq">Oral Complications of Cancer Therapies</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta">Problemas en la boca y en la garganta</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256665" url="/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta/complicaciones-orales-pdq">Complicaciones orales del tratamiento del cáncer</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

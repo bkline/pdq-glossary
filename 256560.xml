@@ -1,2 +1,26 @@
-<GlossaryTerm id="CDR0000256560"><TermName>emesis</TermName><TermPronunciation>(EH-meh-sis)</TermPronunciation><TermDefinition><DefinitionText>The forceful ejection of some or all of the contents of the stomach through the mouth. Emesis may be caused by many things, including certain smells, irritation to the stomach, infections, stress, pain, motion sickness, migraines, certain medicines, some diseases or conditions, and brain injury or concussion. It can also be a symptom of some cancers and a side effect of certain cancer treatments. Also called vomiting.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emesis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emesis&quot;" language="es" id="_4"/><SpanishTermName>emesis</SpanishTermName><SpanishTermDefinition><DefinitionText>Expulsión fuerte de algunos o todos los
-contenidos del estómago por la boca. Hay muchas causas de la emesis, como ciertos olores, irritación en el estómago, infecciones, estrés, dolor, mareo, migrañas, determinados medicamentos, enfermedades o afecciones, lesiones cerebrales o contusiones. También es un síntoma de algunos cánceres y un efecto secundario de ciertos tratamientos para esta enfermedad. También se llama vómito.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-02-09</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/nausea-vomiting" UseWith="en">Nausea and Vomiting and Cancer Treatment</RelatedExternalRef><RelatedExternalRef xref="https://medlineplus.gov/ency/article/003117.htm" UseWith="en">Nausea and vomiting - adults (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/nauseas-vomitos">Náuseas y vómitos relacionados con el tratamiento del cáncer</RelatedExternalRef><RelatedExternalRef xref="https://medlineplus.gov/spanish/ency/article/003117.htm" UseWith="es">Náuseas y vómitos en adultos  (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000256560">
+  <TermName>emesis</TermName>
+  <TermPronunciation>(EH-meh-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The forceful ejection of some or all of the contents of the stomach through the mouth. Emesis may be caused by many things, including certain smells, irritation to the stomach, infections, stress, pain, motion sickness, migraines, certain medicines, some diseases or conditions, and brain injury or concussion. It can also be a symptom of some cancers and a side effect of certain cancer treatments. Also called vomiting.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emesis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710135" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emesis&quot;" language="es" id="_4"/>
+  <SpanishTermName>emesis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Expulsión fuerte de algunos o todos los
+contenidos del estómago por la boca. Hay muchas causas de la emesis, como ciertos olores, irritación en el estómago, infecciones, estrés, dolor, mareo, migrañas, determinados medicamentos, enfermedades o afecciones, lesiones cerebrales o contusiones. También es un síntoma de algunos cánceres y un efecto secundario de ciertos tratamientos para esta enfermedad. También se llama vómito.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-02-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/nausea-vomiting" UseWith="en">Nausea and Vomiting and Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef xref="https://medlineplus.gov/ency/article/003117.htm" UseWith="en">Nausea and vomiting - adults (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/nauseas-vomitos">Náuseas y vómitos relacionados con el tratamiento del cáncer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://medlineplus.gov/spanish/ency/article/003117.htm" UseWith="es">Náuseas y vómitos en adultos  (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

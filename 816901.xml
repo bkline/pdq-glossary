@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816901"><TermName>usual care</TermName><TermPronunciation>(YOO-zhoo-ul kayr)</TermPronunciation><TermDefinition><DefinitionText>The care that a provider would normally give to their patients.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;usual care&quot;" language="en" id="_5"/><MediaLink ref="CDR0000817436" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atención habitual&quot;" language="es" id="_6"/><SpanishTermName>atención habitual</SpanishTermName><SpanishTermDefinition><DefinitionText>Asistencia que un proveedor proporciona a sus pacientes de forma regular. También se llama asistencia sanitaria habitual y cuidados habituales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816901">
+  <TermName>usual care</TermName>
+  <TermPronunciation>(YOO-zhoo-ul kayr)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The care that a provider would normally give to their patients.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;usual care&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000817436" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atención habitual&quot;" language="es" id="_6"/>
+  <SpanishTermName>atención habitual</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Asistencia que un proveedor proporciona a sus pacientes de forma regular. También se llama asistencia sanitaria habitual y cuidados habituales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-16</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000416100"><TermName>drug resistance</TermName><TermPronunciation>(... reh-ZIH-stunts)</TermPronunciation><TermDefinition><DefinitionText>When cancer cells or microorganisms, such as bacteria or viruses, don’t respond to a drug that is usually able to kill or weaken them. Drug resistance may be present before treatment is given or may occur during or after treatment with the drug. In cancer treatment, there are many things that may cause resistance to anticancer drugs. For example, DNA changes or other genetic changes may change the way the drug gets into the cancer cells or the way the drug is broken down within the cancer cells. Drug resistance can lead to cancer treatment not working or to the cancer coming back.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713439" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drug resistance&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713438" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resistencia farmacológica&quot;" language="es" id="_4"/><SpanishTermName>resistencia farmacológica</SpanishTermName><SpanishTermDefinition><DefinitionText>Situación que se presenta cuando  células cancerosas o microorganismos, como bacterias o virus, no responden al medicamento   que suele debilitarlos o destruirlos. La resistencia farmacológica se presenta antes, durante o después  de administrar el tratamiento. Hay muchas causas de resistencia a los medicamentos contra el cáncer; por ejemplo, cambios en el ADN o cambios genéticos que alteran la manera en que el fármaco entra a las células o se destruye dentro de las células cancerosas. La resistencia farmacológica a veces hace que el tratamiento del cáncer no funcione o que el cáncer reaparezca. También se llama farmacorresistencia y resistencia a medicamentos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-03-24</DateFirstPublished><DateLastModified>2020-04-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000416100">
+  <TermName>drug resistance</TermName>
+  <TermPronunciation>(... reh-ZIH-stunts)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>When cancer cells or microorganisms, such as bacteria or viruses, don’t respond to a drug that is usually able to kill or weaken them. Drug resistance may be present before treatment is given or may occur during or after treatment with the drug. In cancer treatment, there are many things that may cause resistance to anticancer drugs. For example, DNA changes or other genetic changes may change the way the drug gets into the cancer cells or the way the drug is broken down within the cancer cells. Drug resistance can lead to cancer treatment not working or to the cancer coming back.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713439" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drug resistance&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713438" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resistencia farmacológica&quot;" language="es" id="_4"/>
+  <SpanishTermName>resistencia farmacológica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Situación que se presenta cuando  células cancerosas o microorganismos, como bacterias o virus, no responden al medicamento   que suele debilitarlos o destruirlos. La resistencia farmacológica se presenta antes, durante o después  de administrar el tratamiento. Hay muchas causas de resistencia a los medicamentos contra el cáncer; por ejemplo, cambios en el ADN o cambios genéticos que alteran la manera en que el fármaco entra a las células o se destruye dentro de las células cancerosas. La resistencia farmacológica a veces hace que el tratamiento del cáncer no funcione o que el cáncer reaparezca. También se llama farmacorresistencia y resistencia a medicamentos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-03-24</DateFirstPublished>
+  <DateLastModified>2020-04-15</DateLastModified>
+</GlossaryTerm>

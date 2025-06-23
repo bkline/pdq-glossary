@@ -1,5 +1,27 @@
-<GlossaryTerm id="CDR0000754340"><TermName>Gazyva</TermName><TermPronunciation>(guh-ZY-vuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to treat certain types of follicular lymphoma and chronic lymphocytic leukemia. It is also being studied in the treatment of other types of cancer. Gazyva binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of leukemia and lymphoma cells. Gazyva may block CD20 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called obinutuzumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000757933" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gazyva&quot;" language="en" id="_3"/><MediaLink ref="CDR0000757932" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gazyva&quot;" language="es" id="_4"/><SpanishTermName>Gazyva</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para tratar ciertos tipos de linfoma folicular y leucemia linfocítica crónica. También está en estudio para el tratamiento de otros tipos de cáncer.
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000754340">
+  <TermName>Gazyva</TermName>
+  <TermPronunciation>(guh-ZY-vuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with other drugs to treat certain types of follicular lymphoma and chronic lymphocytic leukemia. It is also being studied in the treatment of other types of cancer. Gazyva binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of leukemia and lymphoma cells. Gazyva may block CD20 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called obinutuzumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000757933" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gazyva&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000757932" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gazyva&quot;" language="es" id="_4"/>
+  <SpanishTermName>Gazyva</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con otros medicamentos para tratar ciertos tipos de linfoma folicular y leucemia linfocítica crónica. También está en estudio para el tratamiento de otros tipos de cáncer.
 Gazyva se une a una proteína llamada CD20, que se encuentra en las células B (tipo de
 glóbulo blanco) y en algunos tipos de células de leucemia y linfoma. Es posible que Gazyva bloquee CD20 y ayude al sistema inmunitario a destruir células
 cancerosas. Es un tipo de
-anticuerpo monoclonal. También se llama obinutuzumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-11-12</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000754305" url="/about-cancer/treatment/drugs/obinutuzumab">Obinutuzumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+anticuerpo monoclonal. También se llama obinutuzumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-11-12</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000754305" url="/about-cancer/treatment/drugs/obinutuzumab">Obinutuzumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

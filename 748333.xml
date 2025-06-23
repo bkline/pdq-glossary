@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000748333"><TermName>withdrawal</TermName><TermPronunciation>(with-DRAWL)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe the physical and mental symptoms that a person has when they suddenly stop or cut back the use of an addictive substance, such as opiates and opioids, nicotine products, or alcohol. The withdrawal symptoms that a person has depend on many factors, such as the substance that was used, how often it was used, and the length of time it was used.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000752623" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;withdrawal&quot;" language="en" id="_3"/><MediaLink ref="CDR0000752622" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abstinencia&quot;" language="es" id="_4"/><SpanishTermName>abstinencia</SpanishTermName><SpanishTermDefinition><DefinitionText>Término utilizado para describir los síntomas físicos y mentales de una persona cuando deja de fumar o reduce de manera repentina el consumo de una sustancia adictiva, como los opiáceos y los opioides, los productos de nicotina o las bebidas alcohólicas. Los síntomas de abstinencia que presentan las personas dependen de muchos factores, como el tipo de sustancia,  la frecuencia de su uso y el período de tiempo durante el que se ha consumido. También se llama cuadro de abstinencia y síndrome de abstinencia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-07-18</DateFirstPublished><DateLastModified>2022-08-26</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/withdrawal-fact-sheet">Handling Nicotine Withdrawal and Triggers When You Decide To Quit Tobacco</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/ency/article/000949.htm">Opiate and opioid withdrawal (MedlinePlus)</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/tabaco/hoja-informativa-abstinencia" UseWith="es">Cómo controlar los síntomas de abstinencia de nicotina al dejar de fumar </RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/000949.htm">Opiáceos y abstinencia de opioides (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000748333">
+  <TermName>withdrawal</TermName>
+  <TermPronunciation>(with-DRAWL)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe the physical and mental symptoms that a person has when they suddenly stop or cut back the use of an addictive substance, such as opiates and opioids, nicotine products, or alcohol. The withdrawal symptoms that a person has depend on many factors, such as the substance that was used, how often it was used, and the length of time it was used.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000752623" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;withdrawal&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000752622" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abstinencia&quot;" language="es" id="_4"/>
+  <SpanishTermName>abstinencia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término utilizado para describir los síntomas físicos y mentales de una persona cuando deja de fumar o reduce de manera repentina el consumo de una sustancia adictiva, como los opiáceos y los opioides, los productos de nicotina o las bebidas alcohólicas. Los síntomas de abstinencia que presentan las personas dependen de muchos factores, como el tipo de sustancia,  la frecuencia de su uso y el período de tiempo durante el que se ha consumido. También se llama cuadro de abstinencia y síndrome de abstinencia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-07-18</DateFirstPublished>
+  <DateLastModified>2022-08-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/withdrawal-fact-sheet">Handling Nicotine Withdrawal and Triggers When You Decide To Quit Tobacco</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/ency/article/000949.htm">Opiate and opioid withdrawal (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/tabaco/hoja-informativa-abstinencia" UseWith="es">Cómo controlar los síntomas de abstinencia de nicotina al dejar de fumar </RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/000949.htm">Opiáceos y abstinencia de opioides (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

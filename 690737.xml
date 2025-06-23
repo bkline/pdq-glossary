@@ -1,10 +1,29 @@
-<GlossaryTerm id="CDR0000690737"><TermName>child-life specialist</TermName><TermPronunciation>(… SPEH-shuh-list)</TermPronunciation><TermDefinition><DefinitionText>A health care
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000690737">
+  <TermName>child-life specialist</TermName>
+  <TermPronunciation>(… SPEH-shuh-list)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A health care
           professional who is trained in the emotional and
           developmental needs of children. A
           child-life specialist helps children and their
           families understand medical issues and gives psychological
-          and emotional support. Also called child-life worker.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732889" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;child-life specialist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;especialista en vida infantil&quot;" language="es" id="_4"/><SpanishTermName>especialista en vida infantil</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la salud con capacitación
+          and emotional support. Also called child-life worker.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732889" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;child-life specialist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;especialista en vida infantil&quot;" language="es" id="_4"/>
+  <SpanishTermName>especialista en vida infantil</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la salud con capacitación
 en las necesidades emocionales y de
 desarrollo de la niñez. Los especialistas en vida infantil ayudan a los niños, las niñas y sus
 familias a entender los asuntos médicos y proporcionan apoyo
-psicológico y emocional. También se llama especialista en atención emocional pediátrica y profesional de la vida infantil.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-08-22</DateFirstPublished><DateLastModified>2024-02-01</DateLastModified></GlossaryTerm>
+psicológico y emocional. También se llama especialista en atención emocional pediátrica y profesional de la vida infantil.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-08-22</DateFirstPublished>
+  <DateLastModified>2024-02-01</DateLastModified>
+</GlossaryTerm>

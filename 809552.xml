@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809552"><TermName>patient care costs</TermName><TermPronunciation>(PAY-shunt kayr …)</TermPronunciation><TermDefinition><DefinitionText>The costs related to the treatment of a disease, such as cancer. These costs include doctor visits, hospital stays, laboratory tests, imaging tests, and standard treatments. Patient care costs may also include routine care given to a person participating in a clinical trial. These costs are often covered, at least in part, by health insurance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811484" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;patient care costs&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811485" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;costos de atención del paciente&quot;" language="es" id="_4"/><SpanishTermName>costos de atención del paciente</SpanishTermName><SpanishTermDefinition><DefinitionText>Costos relacionados con el tratamiento de una enfermedad, como el cáncer. Estos costos incluyen las citas médicas, las hospitalizaciones, las pruebas de laboratorio, las pruebas con imágenes y los tratamientos estándar. Los costos de atención del paciente a veces también incluyen los cuidados de rutina que se le proporcionan a una persona que participa en un ensayo clínico. Los seguros médicos por lo general cubren dichos costos, o al menos una parte de estos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809552">
+  <TermName>patient care costs</TermName>
+  <TermPronunciation>(PAY-shunt kayr …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The costs related to the treatment of a disease, such as cancer. These costs include doctor visits, hospital stays, laboratory tests, imaging tests, and standard treatments. Patient care costs may also include routine care given to a person participating in a clinical trial. These costs are often covered, at least in part, by health insurance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811484" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;patient care costs&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811485" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;costos de atención del paciente&quot;" language="es" id="_4"/>
+  <SpanishTermName>costos de atención del paciente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Costos relacionados con el tratamiento de una enfermedad, como el cáncer. Estos costos incluyen las citas médicas, las hospitalizaciones, las pruebas de laboratorio, las pruebas con imágenes y los tratamientos estándar. Los costos de atención del paciente a veces también incluyen los cuidados de rutina que se le proporcionan a una persona que participa en un ensayo clínico. Los seguros médicos por lo general cubren dichos costos, o al menos una parte de estos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-05</DateFirstPublished>
+</GlossaryTerm>

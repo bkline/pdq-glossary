@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000801447"><TermName>Tukysa</TermName><TermPronunciation>(too-KY-suh)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to treat adults with certain types of HER2-positive breast cancer or certain types of HER2-positive colorectal cancer that do not have a mutation (change) in the <GeneName>RAS</GeneName> gene.  It is also being studied in the treatment of other types of cancer. Tukysa blocks a protein called HER2, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called tucatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802702" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tukysa&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802703" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tukysa&quot;" language="es" id="_4"/><SpanishTermName>Tukysa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de mama positivo para HER2 o ciertos tipos de cáncer colorrectal positivo para HER2 que no tiene una mutación (cambio) en el gen <GeneName>RAS</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. Tukysa bloquea la proteína HER2, lo que quizás ayude a impedir que las células cancerosas se multipliquen y tal vez las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama tucatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-20</DateFirstPublished><DateLastModified>2023-01-23</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000801469" url="/about-cancer/treatment/drugs/tucatinib">Tucatinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801447">
+  <TermName>Tukysa</TermName>
+  <TermPronunciation>(too-KY-suh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used with other drugs to treat adults with certain types of HER2-positive breast cancer or certain types of HER2-positive colorectal cancer that do not have a mutation (change) in the 
+      <GeneName>RAS</GeneName>
+       gene.  It is also being studied in the treatment of other types of cancer. Tukysa blocks a protein called HER2, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called tucatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802702" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tukysa&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802703" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tukysa&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tukysa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de mama positivo para HER2 o ciertos tipos de cáncer colorrectal positivo para HER2 que no tiene una mutación (cambio) en el gen 
+      <GeneName>RAS</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. Tukysa bloquea la proteína HER2, lo que quizás ayude a impedir que las células cancerosas se multipliquen y tal vez las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama tucatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-20</DateFirstPublished>
+  <DateLastModified>2023-01-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000801469" url="/about-cancer/treatment/drugs/tucatinib">Tucatinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

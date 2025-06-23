@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046010"><TermName>stage IV adrenocortical cancer</TermName><TermPronunciation>(... uh-DREE-noh-KOR-tih-kul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is any size, may have spread to nearby lymph nodes, and has spread to other parts of the body, such as the lung, bone, or peritoneum.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707579" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV adrenocortical cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707580" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de corteza suprarrenal en estadio IV&quot;" language="es" id="_4"/><SpanishTermName>cáncer de corteza suprarrenal en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor es de cualquier tamaño; es posible que se haya diseminado a los ganglios linfáticos cercanos y ya se diseminó a otras partes del cuerpo, como el pulmón, el hueso o el peritoneo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-01-05</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000269044" url="/types/adrenocortical/patient/adrenocortical-treatment-pdq">Adrenocortical Carcinoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000559804" url="/espanol/tipos/suprarrenal/paciente/tratamiento-corteza-suprarrenal-pdq">Tratamiento del carcinoma de corteza suprarrenal</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046010">
+  <TermName>stage IV adrenocortical cancer</TermName>
+  <TermPronunciation>(... uh-DREE-noh-KOR-tih-kul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is any size, may have spread to nearby lymph nodes, and has spread to other parts of the body, such as the lung, bone, or peritoneum.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707579" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV adrenocortical cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707580" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de corteza suprarrenal en estadio IV&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de corteza suprarrenal en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor es de cualquier tamaño; es posible que se haya diseminado a los ganglios linfáticos cercanos y ya se diseminó a otras partes del cuerpo, como el pulmón, el hueso o el peritoneo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-01-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000269044" url="/types/adrenocortical/patient/adrenocortical-treatment-pdq">Adrenocortical Carcinoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000559804" url="/espanol/tipos/suprarrenal/paciente/tratamiento-corteza-suprarrenal-pdq">Tratamiento del carcinoma de corteza suprarrenal</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

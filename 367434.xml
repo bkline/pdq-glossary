@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000367434"><TermName>ABI-007</TermName><TermDefinition><DefinitionText>A form of the anticancer drug paclitaxel that is used alone or with other drugs to treat certain types of breast cancer, non-small cell lung cancer, and pancreatic cancer. ABI-007 may have fewer side effects and work better than other forms of paclitaxel.  It is also being studied in the treatment of other types of cancer.  ABI-007 stops cancer cells from growing and dividing and may kill them.   It is a type of taxane. Also called Abraxane, nanoparticle paclitaxel, paclitaxel albumin-stabilized nanoparticle formulation, and protein-bound paclitaxel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ABI-007</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma del medicamento contra el cáncer paclitaxel que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de mama, cáncer de pulmón de células no pequeñas y cáncer de páncreas. ABI-007 tal vez produzca menos efectos secundarios, y sea más eficaz que otras formas de paclitaxel.  También está en estudio para el tratamiento de otros tipos de cáncer.  ABI-007 detiene el crecimiento y la multiplicación de las células cancerosas y es posible que las destruya. Es un tipo de taxano. También se llama Abraxane, formulación de nanopartículas de paclitaxel estabilizadas con albúmina, nanopartícula de paclitaxel y paclitaxel fijado a proteínas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-04-23</DateFirstPublished><DateLastModified>2020-12-22</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000495323" url="/about-cancer/treatment/drugs/nanoparticlepaclitaxel">Paclitaxel Albumin-stabilized Nanoparticle Formulation</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000367434">
+  <TermName>ABI-007</TermName>
+  <TermDefinition>
+    <DefinitionText>A form of the anticancer drug paclitaxel that is used alone or with other drugs to treat certain types of breast cancer, non-small cell lung cancer, and pancreatic cancer. ABI-007 may have fewer side effects and work better than other forms of paclitaxel.  It is also being studied in the treatment of other types of cancer.  ABI-007 stops cancer cells from growing and dividing and may kill them.   It is a type of taxane. Also called Abraxane, nanoparticle paclitaxel, paclitaxel albumin-stabilized nanoparticle formulation, and protein-bound paclitaxel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ABI-007</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma del medicamento contra el cáncer paclitaxel que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de mama, cáncer de pulmón de células no pequeñas y cáncer de páncreas. ABI-007 tal vez produzca menos efectos secundarios, y sea más eficaz que otras formas de paclitaxel.  También está en estudio para el tratamiento de otros tipos de cáncer.  ABI-007 detiene el crecimiento y la multiplicación de las células cancerosas y es posible que las destruya. Es un tipo de taxano. También se llama Abraxane, formulación de nanopartículas de paclitaxel estabilizadas con albúmina, nanopartícula de paclitaxel y paclitaxel fijado a proteínas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-04-23</DateFirstPublished>
+  <DateLastModified>2020-12-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000495323" url="/about-cancer/treatment/drugs/nanoparticlepaclitaxel">Paclitaxel Albumin-stabilized Nanoparticle Formulation</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

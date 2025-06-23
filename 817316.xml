@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817316"><TermName>pancreatic exocrine tumor</TermName><TermPronunciation>(PAN-kree-A-tik EK-soh-krin TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A tumor that forms in exocrine cells of the pancreas. Exocrine pancreas cells make up the glands and ducts that produce enzymes (digestive juices) to help with digestion. Pancreatic exocrine tumors may be benign (not cancer) or malignant (cancer). The most common malignant type is pancreatic ductal adenocarcinoma, which is also the most common type of pancreatic cancer.  Malignant pancreatic exocrine tumors are usually found at an advanced stage because they usually do not cause symptoms early on.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817825" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pancreatic exocrine tumor&quot;" language="en" id="_5"/><MediaLink ref="CDR0000817826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor exocrino de páncreas&quot;" language="es" id="_6"/><SpanishTermName>tumor exocrino de páncreas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor que se forma en las células exocrinas del páncreas. Las células exocrinas del páncreas forman las glándulas y conductos que producen enzimas (jugos digestivos) que ayudan en la digestión. Los tumores exocrinos de páncreas pueden ser benignos (no cancerosos) o malignos (cancerosos). El tipo maligno más frecuente es el adenocarcinoma ductal de páncreas, que también es el tipo más común de cáncer de páncreas.  Los tumores exocrinos malignos de páncreas suelen detectarse en un estadio avanzado, ya que al inicio no suelen causar síntomas. También se llama tumor exocrino pancreático y tumor pancreático exocrino.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-02-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817316">
+  <TermName>pancreatic exocrine tumor</TermName>
+  <TermPronunciation>(PAN-kree-A-tik EK-soh-krin TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A tumor that forms in exocrine cells of the pancreas. Exocrine pancreas cells make up the glands and ducts that produce enzymes (digestive juices) to help with digestion. Pancreatic exocrine tumors may be benign (not cancer) or malignant (cancer). The most common malignant type is pancreatic ductal adenocarcinoma, which is also the most common type of pancreatic cancer.  Malignant pancreatic exocrine tumors are usually found at an advanced stage because they usually do not cause symptoms early on.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817825" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pancreatic exocrine tumor&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000817826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor exocrino de páncreas&quot;" language="es" id="_6"/>
+  <SpanishTermName>tumor exocrino de páncreas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor que se forma en las células exocrinas del páncreas. Las células exocrinas del páncreas forman las glándulas y conductos que producen enzimas (jugos digestivos) que ayudan en la digestión. Los tumores exocrinos de páncreas pueden ser benignos (no cancerosos) o malignos (cancerosos). El tipo maligno más frecuente es el adenocarcinoma ductal de páncreas, que también es el tipo más común de cáncer de páncreas.  Los tumores exocrinos malignos de páncreas suelen detectarse en un estadio avanzado, ya que al inicio no suelen causar síntomas. También se llama tumor exocrino pancreático y tumor pancreático exocrino.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-02-14</DateFirstPublished>
+</GlossaryTerm>

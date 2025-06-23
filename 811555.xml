@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000811555"><TermName>Jaypirca</TermName><TermPronunciation>(jay-PIR-kuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with chronic lymphocytic leukemia, small lymphocytic lymphoma, or mantle cell lymphoma that was treated with at least two other types of therapy, including a BTK inhibitor. It is also being studied in the treatment of other types of cancer. Jaypirca blocks a protein called BTK, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called pirtobrutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812301" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jaypirca&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812302" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jaypirca&quot;" language="es" id="_4"/><SpanishTermName>Jaypirca</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con leucemia linfocítica crónica, linfoma linfocítico de células pequeñas o linfoma de células de manto que se trató con, por lo menos, otros dos tipos de terapias, entre ellas un inhibidor de la BTK. También está en estudio para el tratamiento de otros tipos de cáncer. Jaypirca bloquea la proteína BTK, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama pirtobrutinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-02-03</DateFirstPublished><DateLastModified>2023-12-05</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000811609" url="/about-cancer/treatment/drugs/pirtobrutinib">Pirtobrutinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811555">
+  <TermName>Jaypirca</TermName>
+  <TermPronunciation>(jay-PIR-kuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with chronic lymphocytic leukemia, small lymphocytic lymphoma, or mantle cell lymphoma that was treated with at least two other types of therapy, including a BTK inhibitor. It is also being studied in the treatment of other types of cancer. Jaypirca blocks a protein called BTK, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called pirtobrutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812301" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jaypirca&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812302" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jaypirca&quot;" language="es" id="_4"/>
+  <SpanishTermName>Jaypirca</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con leucemia linfocítica crónica, linfoma linfocítico de células pequeñas o linfoma de células de manto que se trató con, por lo menos, otros dos tipos de terapias, entre ellas un inhibidor de la BTK. También está en estudio para el tratamiento de otros tipos de cáncer. Jaypirca bloquea la proteína BTK, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama pirtobrutinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-02-03</DateFirstPublished>
+  <DateLastModified>2023-12-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000811609" url="/about-cancer/treatment/drugs/pirtobrutinib">Pirtobrutinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

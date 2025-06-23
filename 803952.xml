@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000803952"><TermName>tepotinib hydrochloride</TermName><TermPronunciation>(teh-POH-tih-nib HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer that has spread to other parts of the body and has a certain mutation (change) in the <GeneName>MET</GeneName> gene. It is also being studied in the treatment of other types of cancer. Tepotinib hydrochloride blocks a protein made by the <GeneName>MET</GeneName> gene, which may help keep cancer cells from growing and spreading and may kill them. It is a type of tyrosine kinase inhibitor. Also called Tepmetko.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tepotinib hydrochloride&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de tepotinib&quot;" language="es" id="_4"/><SpanishTermName>clorhidrato de tepotinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó a otras partes del cuerpo y que tiene cierta mutación (cambio) en el gen <GeneName>MET</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. El clorhidrato de tepotinib bloquea una proteína que se origina del gen <GeneName>MET</GeneName>, lo que quizás ayude a evitar que las células cancerosas se multipliquen y diseminen, y es posible que las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama Tepmetko.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-04</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000803954" url="/about-cancer/treatment/drugs/tepotinibhydrochloride">Tepotinib Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803952">
+  <TermName>tepotinib hydrochloride</TermName>
+  <TermPronunciation>(teh-POH-tih-nib HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer that has spread to other parts of the body and has a certain mutation (change) in the 
+      <GeneName>MET</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Tepotinib hydrochloride blocks a protein made by the 
+      <GeneName>MET</GeneName>
+       gene, which may help keep cancer cells from growing and spreading and may kill them. It is a type of tyrosine kinase inhibitor. Also called Tepmetko.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tepotinib hydrochloride&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805380" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de tepotinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>clorhidrato de tepotinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó a otras partes del cuerpo y que tiene cierta mutación (cambio) en el gen 
+      <GeneName>MET</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. El clorhidrato de tepotinib bloquea una proteína que se origina del gen 
+      <GeneName>MET</GeneName>
+      , lo que quizás ayude a evitar que las células cancerosas se multipliquen y diseminen, y es posible que las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama Tepmetko.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-04</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000803954" url="/about-cancer/treatment/drugs/tepotinibhydrochloride">Tepotinib Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

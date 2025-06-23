@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000637625"><TermName>bleomycin sulfate</TermName><TermPronunciation>(blee-oh-MY-sin SUL-fayt)</TermPronunciation><TermDefinition><DefinitionText>A drug that comes from the bacterium <ScientificName>Streptomyces verticillus</ScientificName> and is used alone or with other drugs to treat many types of cancer, including Hodgkin lymphoma, non-Hodgkin lymphoma, testicular cancer,  malignant pleural effusion, and squamous cell carcinoma of the cervix, head and neck, penis, and vulva. It is also being studied in the treatment of other types of cancer.  Bleomycin sulfate damages the cell’s DNA and may kill cancer cells. It is a type of antineoplastic antibiotic. Bleomycin is the active ingredient of bleomycin sulfate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722777" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bleomycin sulfate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722778" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de bleomicina&quot;" language="es" id="_4"/><SpanishTermName>sulfato de bleomicina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se obtiene de la bacteria <ScientificName>Streptomyces verticillus</ScientificName> y se usa solo o con otros medicamentos para el tratamiento de muchos tipos de cáncer, como el linfoma de Hodgkin, el linfoma no Hodgkin, el cáncer de testículo, el carcinoma de células escamosas de cuello uterino, de cabeza y cuello, de pene y de vulva. Además, se usa para tratar el derrame pleural maligno. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de bleomicina daña el ADN de la célula y es posible que destruya células cancerosas. Es un tipo de antibiótico antineoplásico. La bleomicina es el principio activo del sulfato de bleomicina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-03-10</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000615384" url="/about-cancer/treatment/drugs/bleomycin">Bleomycin Sulfate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000637625">
+  <TermName>bleomycin sulfate</TermName>
+  <TermPronunciation>(blee-oh-MY-sin SUL-fayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug that comes from the bacterium 
+      <ScientificName>Streptomyces verticillus</ScientificName>
+       and is used alone or with other drugs to treat many types of cancer, including Hodgkin lymphoma, non-Hodgkin lymphoma, testicular cancer,  malignant pleural effusion, and squamous cell carcinoma of the cervix, head and neck, penis, and vulva. It is also being studied in the treatment of other types of cancer.  Bleomycin sulfate damages the cell’s DNA and may kill cancer cells. It is a type of antineoplastic antibiotic. Bleomycin is the active ingredient of bleomycin sulfate.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722777" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bleomycin sulfate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722778" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de bleomicina&quot;" language="es" id="_4"/>
+  <SpanishTermName>sulfato de bleomicina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se obtiene de la bacteria 
+      <ScientificName>Streptomyces verticillus</ScientificName>
+       y se usa solo o con otros medicamentos para el tratamiento de muchos tipos de cáncer, como el linfoma de Hodgkin, el linfoma no Hodgkin, el cáncer de testículo, el carcinoma de células escamosas de cuello uterino, de cabeza y cuello, de pene y de vulva. Además, se usa para tratar el derrame pleural maligno. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de bleomicina daña el ADN de la célula y es posible que destruya células cancerosas. Es un tipo de antibiótico antineoplásico. La bleomicina es el principio activo del sulfato de bleomicina.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-03-10</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000615384" url="/about-cancer/treatment/drugs/bleomycin">Bleomycin Sulfate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

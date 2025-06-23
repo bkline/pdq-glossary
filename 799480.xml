@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000799480"><TermName>Ferguson-Smith syndrome</TermName><TermPronunciation>(FER-guh-son … SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder in which many fast-growing tumors that look like squamous cell skin cancer form on the nose, face, ears, arms, and legs. The tumors usually go away on their own, but often leave deep, pitted scars in the skin. The tumors on the arms and legs are often larger and leave flat scars. Ferguson-Smith syndrome is caused by mutations (changes) in the TGFBR1 gene. Also called MSSE and multiple self-healing squamous epithelioma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ferguson-Smith syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Ferguson-Smith&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Ferguson-Smith</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario poco común por el que se forman muchos tumores de crecimiento rápido que se parecen al cáncer de células escamosas en la piel de la nariz, la cara, los brazos y las piernas. A menudo los tumores desaparecen por si solos, pero a veces producen cicatrices en forma de agujeros profundos en la piel. Los tumores que se forman en los brazos y las piernas por lo general son más grades y producen cicatrices aplanadas. La causa del síndrome de Ferguson-Smith son mutaciones (cambios) en el gen <GeneName>TGFBR1</GeneName>. También se llama epitelioma escamoso múltiple de resolución espontánea y MSSE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-02-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799480">
+  <TermName>Ferguson-Smith syndrome</TermName>
+  <TermPronunciation>(FER-guh-son … SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder in which many fast-growing tumors that look like squamous cell skin cancer form on the nose, face, ears, arms, and legs. The tumors usually go away on their own, but often leave deep, pitted scars in the skin. The tumors on the arms and legs are often larger and leave flat scars. Ferguson-Smith syndrome is caused by mutations (changes) in the TGFBR1 gene. Also called MSSE and multiple self-healing squamous epithelioma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ferguson-Smith syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802534" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Ferguson-Smith&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Ferguson-Smith</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario poco común por el que se forman muchos tumores de crecimiento rápido que se parecen al cáncer de células escamosas en la piel de la nariz, la cara, los brazos y las piernas. A menudo los tumores desaparecen por si solos, pero a veces producen cicatrices en forma de agujeros profundos en la piel. Los tumores que se forman en los brazos y las piernas por lo general son más grades y producen cicatrices aplanadas. La causa del síndrome de Ferguson-Smith son mutaciones (cambios) en el gen 
+      <GeneName>TGFBR1</GeneName>
+      . También se llama epitelioma escamoso múltiple de resolución espontánea y MSSE.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-02-12</DateFirstPublished>
+</GlossaryTerm>

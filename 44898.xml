@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044898"><TermName>phosphorus P 32</TermName><TermPronunciation>(FOS-for-us ...)</TermPronunciation><TermDefinition><DefinitionText>A radioactive form of the element phosphorus. It is used in the laboratory to label DNA and proteins.  It has also been used to treat a blood disorder called polycythemia vera and certain types of leukemia, but it is not commonly used anymore. Phosphorus P 32 gives off radiation that damages the DNA in a cell, which can cause the cell to die.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706109" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phosphorus P 32&quot;" language="en" id="_5"/><MediaLink ref="CDR0000706110" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fósforo P 32&quot;" language="es" id="_6"/><SpanishTermName>fósforo P 32</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma radiactiva del elemento fósforo. Se usa en el laboratorio para radiomarcar ADN y proteínas. También se utilizó para tratar una afección de la sangre que se llama policitemia vera y ciertos tipos de leucemia, pero ya no se suele usar. El fósforo P 32 emite una radiación que daña el ADN de una célula, lo que puede destruirla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044898">
+  <TermName>phosphorus P 32</TermName>
+  <TermPronunciation>(FOS-for-us ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive form of the element phosphorus. It is used in the laboratory to label DNA and proteins.  It has also been used to treat a blood disorder called polycythemia vera and certain types of leukemia, but it is not commonly used anymore. Phosphorus P 32 gives off radiation that damages the DNA in a cell, which can cause the cell to die.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706109" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phosphorus P 32&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000706110" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fósforo P 32&quot;" language="es" id="_6"/>
+  <SpanishTermName>fósforo P 32</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma radiactiva del elemento fósforo. Se usa en el laboratorio para radiomarcar ADN y proteínas. También se utilizó para tratar una afección de la sangre que se llama policitemia vera y ciertos tipos de leucemia, pero ya no se suele usar. El fósforo P 32 emite una radiación que daña el ADN de una célula, lo que puede destruirla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

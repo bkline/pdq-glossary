@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000789667"><TermName>rituximab and hyaluronidase</TermName><TermPronunciation>(rih-TUK-sih-mab … HY-al-yoo-RAH-nih-days)</TermPronunciation><TermDefinition><DefinitionText>A combination of two drugs used to treat adults with certain types of follicular lymphoma, diffuse large B-cell lymphoma, or chronic lymphocytic leukemia. Rituximab binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Hyaluronidase allows rituximab to be given by injection under the skin. Rituximab and hyaluronidase can be given in less time than rituximab alone, which is given as an infusion. Also called Rituxan Hycela.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791482" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rituximab and hyaluronidase&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791483" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rituximab con hialuronidasa&quot;" language="es" id="_4"/><SpanishTermName>rituximab con hialuronidasa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que está compuesto por dos fármacos y que se usa para el tratamiento de adultos con ciertos tipos de linfoma folicular, linfoma difuso de células B grandes o leucemia linfocítica crónica. El rituximab se une a una proteína llamada CD20, que se encuentra en las  células B (tipo de glóbulo blanco) y en algunos tipos de células cancerosas. Es posible que esto ayude al sistema inmunitario a destruir células cancerosas. La hialuronidasa permite que el rituximab se administre por inyección debajo de la piel. La combinación de rituximab con hialuronidasa se administra más rápido que el rituximab solo, que se administra por infusión. También se llama Rituxan Hycela y rituximab y hialuronidasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-08-31</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000790532" url="/about-cancer/treatment/drugs/rituximabandhyaluronidasehuman">Rituximab and Hyaluronidase Human</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789667">
+  <TermName>rituximab and hyaluronidase</TermName>
+  <TermPronunciation>(rih-TUK-sih-mab … HY-al-yoo-RAH-nih-days)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A combination of two drugs used to treat adults with certain types of follicular lymphoma, diffuse large B-cell lymphoma, or chronic lymphocytic leukemia. Rituximab binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Hyaluronidase allows rituximab to be given by injection under the skin. Rituximab and hyaluronidase can be given in less time than rituximab alone, which is given as an infusion. Also called Rituxan Hycela.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791482" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rituximab and hyaluronidase&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791483" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rituximab con hialuronidasa&quot;" language="es" id="_4"/>
+  <SpanishTermName>rituximab con hialuronidasa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que está compuesto por dos fármacos y que se usa para el tratamiento de adultos con ciertos tipos de linfoma folicular, linfoma difuso de células B grandes o leucemia linfocítica crónica. El rituximab se une a una proteína llamada CD20, que se encuentra en las  células B (tipo de glóbulo blanco) y en algunos tipos de células cancerosas. Es posible que esto ayude al sistema inmunitario a destruir células cancerosas. La hialuronidasa permite que el rituximab se administre por inyección debajo de la piel. La combinación de rituximab con hialuronidasa se administra más rápido que el rituximab solo, que se administra por infusión. También se llama Rituxan Hycela y rituximab y hialuronidasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-08-31</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000790532" url="/about-cancer/treatment/drugs/rituximabandhyaluronidasehuman">Rituximab and Hyaluronidase Human</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

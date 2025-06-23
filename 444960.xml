@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000444960"><TermName>adverse event</TermName><TermPronunciation>(AD-vers eh-VENT)</TermPronunciation><TermDefinition><DefinitionText>An undesired effect of a drug or other type of treatment, such as surgery. Adverse events can range from mild to severe and can be life-threatening.  Also called adverse effect and adverse reaction.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714527" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adverse event&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714526" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;evento adverso&quot;" language="es" id="_4"/><SpanishTermName>evento adverso</SpanishTermName><SpanishTermDefinition><DefinitionText>Efecto no deseado de un medicamento u otro tipo de tratamiento, como una cirugía. Los eventos adversos pueden ser de moderados a graves, e incluso poner en peligro la vida del paciente. También se llama acontecimiento adverso, efecto adverso, reacción adversa y suceso adverso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2022-12-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000444960">
+  <TermName>adverse event</TermName>
+  <TermPronunciation>(AD-vers eh-VENT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An undesired effect of a drug or other type of treatment, such as surgery. Adverse events can range from mild to severe and can be life-threatening.  Also called adverse effect and adverse reaction.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714527" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adverse event&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714526" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;evento adverso&quot;" language="es" id="_4"/>
+  <SpanishTermName>evento adverso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Efecto no deseado de un medicamento u otro tipo de tratamiento, como una cirugía. Los eventos adversos pueden ser de moderados a graves, e incluso poner en peligro la vida del paciente. También se llama acontecimiento adverso, efecto adverso, reacción adversa y suceso adverso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2022-12-29</DateLastModified>
+</GlossaryTerm>

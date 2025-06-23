@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000662493"><TermName>5-FU-leucovorin calcium</TermName><TermPronunciation>(… LOO-koh-VOR-in KAL-see-um)</TermPronunciation><TermDefinition><DefinitionText>A chemotherapy combination used to treat colorectal cancer. It is also used with radiation therapy to treat esophageal cancer and stomach cancer. It includes the drugs fluorouracil and leucovorin calcium. Also called 5-FU-leucovorin calcium regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798063" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;5-FU-leucovorin calcium&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798061" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;5-FU y leucovorina cálcica&quot;" language="es" id="_4"/><SpanishTermName>5-FU y leucovorina cálcica</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer colorrectal. También se usa con radioterapia para tratar el cáncer de esófago y el cáncer de estómago. Incluye los medicamentos fluorouracilo y leucovorina cálcica. También se llama régimen de 5-FU y leucovorina cálcica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-26</DateFirstPublished><DateLastModified>2019-03-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000702346" url="/about-cancer/treatment/drugs/FU-LV">FU-LV</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000662493">
+  <TermName>5-FU-leucovorin calcium</TermName>
+  <TermPronunciation>(… LOO-koh-VOR-in KAL-see-um)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A chemotherapy combination used to treat colorectal cancer. It is also used with radiation therapy to treat esophageal cancer and stomach cancer. It includes the drugs fluorouracil and leucovorin calcium. Also called 5-FU-leucovorin calcium regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798063" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;5-FU-leucovorin calcium&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798061" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;5-FU y leucovorina cálcica&quot;" language="es" id="_4"/>
+  <SpanishTermName>5-FU y leucovorina cálcica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer colorrectal. También se usa con radioterapia para tratar el cáncer de esófago y el cáncer de estómago. Incluye los medicamentos fluorouracilo y leucovorina cálcica. También se llama régimen de 5-FU y leucovorina cálcica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-26</DateFirstPublished>
+  <DateLastModified>2019-03-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000702346" url="/about-cancer/treatment/drugs/FU-LV">FU-LV</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

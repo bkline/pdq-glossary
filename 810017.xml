@@ -1,1 +1,14 @@
-<GlossaryTerm id="CDR0000810017"><TermName>Level of evidence A1</TermName><TermDefinition><DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of overall survival from a defined time, total mortality, or cause-specific mortality.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia A1</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración la supervivencia general durante un periodo definido, la mortalidad total o la mortalidad por causa específica.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810017">
+  <TermName>Level of evidence A1</TermName>
+  <TermDefinition>
+    <DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of overall survival from a defined time, total mortality, or cause-specific mortality.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia A1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración la supervivencia general durante un periodo definido, la mortalidad total o la mortalidad por causa específica.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-29</DateFirstPublished>
+</GlossaryTerm>

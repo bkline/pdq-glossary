@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000446528"><TermName>salivary gland cancer</TermName><TermPronunciation>(SA-lih-VAYR-ee gland KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A rare cancer that forms in tissues of a salivary gland (gland in the mouth that makes saliva). Most salivary gland cancers occur in older people.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714780" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;salivary gland cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714781" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de glándulas salivales&quot;" language="es" id="_4"/><SpanishTermName>cáncer de glándulas salivales</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer raro que se forma en los tejidos de una glándula salival (cada una de las glándulas de la boca que produce saliva). La mayoría de los cánceres de glándulas salivales se presentan en personas de edad avanzada. También se llama cáncer de glándulas salivares.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258034" url="/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000530606" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq">Tratamiento del cáncer de glándulas salivales</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446528">
+  <TermName>salivary gland cancer</TermName>
+  <TermPronunciation>(SA-lih-VAYR-ee gland KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare cancer that forms in tissues of a salivary gland (gland in the mouth that makes saliva). Most salivary gland cancers occur in older people.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714780" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;salivary gland cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714781" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de glándulas salivales&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de glándulas salivales</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer raro que se forma en los tejidos de una glándula salival (cada una de las glándulas de la boca que produce saliva). La mayoría de los cánceres de glándulas salivales se presentan en personas de edad avanzada. También se llama cáncer de glándulas salivares.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258034" url="/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000530606" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq">Tratamiento del cáncer de glándulas salivales</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

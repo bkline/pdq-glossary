@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044783"><TermName>time to progression</TermName><TermPronunciation>(… pruh-GREH-shun)</TermPronunciation><TermDefinition><DefinitionText>The length of time from the date of diagnosis or the start of treatment for a disease until the disease starts to get worse or spread to other parts of the body. In a clinical trial, measuring the time to progression is one way to see how well a new treatment works. Also called TTP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705964" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;time to progression&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705963" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiempo transcurrido hasta la progresión&quot;" language="es" id="_4"/><SpanishTermName>tiempo transcurrido hasta la progresión</SpanishTermName><SpanishTermDefinition><DefinitionText>Tiempo que pasa desde el diagnóstico de una enfermedad o el comienzo del tratamiento hasta  que la enfermedad empieza a empeorar o se disemina a otras partes del cuerpo. En un ensayo clínico, medir el tiempo transcurrido hasta la progresión es una manera de determinar la eficacia de un tratamiento nuevo. También se llama TTP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-10-22</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044783">
+  <TermName>time to progression</TermName>
+  <TermPronunciation>(… pruh-GREH-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The length of time from the date of diagnosis or the start of treatment for a disease until the disease starts to get worse or spread to other parts of the body. In a clinical trial, measuring the time to progression is one way to see how well a new treatment works. Also called TTP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705964" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;time to progression&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705963" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tiempo transcurrido hasta la progresión&quot;" language="es" id="_4"/>
+  <SpanishTermName>tiempo transcurrido hasta la progresión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tiempo que pasa desde el diagnóstico de una enfermedad o el comienzo del tratamiento hasta  que la enfermedad empieza a empeorar o se disemina a otras partes del cuerpo. En un ensayo clínico, medir el tiempo transcurrido hasta la progresión es una manera de determinar la eficacia de un tratamiento nuevo. También se llama TTP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-10-22</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000643115"><TermName>AGUS</TermName><TermDefinition><DefinitionText>A term that has been used to describe abnormal cells that come from glands in the walls of the cervix (the lower, narrow end of the uterus). These abnormal cells are found in a small number of Pap smears (a procedure used to detect cervical cancer) and may be a sign of more serious lesions or cancer. The term used now is atypical glandular cells. Also called atypical glandular cells of uncertain significance and atypical glandular cells of undetermined significance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AGUS</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se ha usado para describir las células anormales de las glándulas en la pared del cuello uterino (porción final, inferior y estrecha del útero).   Estas células anormales se encuentran en un pequeño número de frotis de Pap (procedimiento que se usa para detectar el cáncer del cuello uterino) y a veces son un signo de lesiones más graves o cáncer.   El término que se usa ahora es células glandulares atípicas. También se llama células glandulares atípicas de significado incierto y células glandulares atípicas de significado indeterminado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-10-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000643115">
+  <TermName>AGUS</TermName>
+  <TermDefinition>
+    <DefinitionText>A term that has been used to describe abnormal cells that come from glands in the walls of the cervix (the lower, narrow end of the uterus). These abnormal cells are found in a small number of Pap smears (a procedure used to detect cervical cancer) and may be a sign of more serious lesions or cancer. The term used now is atypical glandular cells. Also called atypical glandular cells of uncertain significance and atypical glandular cells of undetermined significance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AGUS</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se ha usado para describir las células anormales de las glándulas en la pared del cuello uterino (porción final, inferior y estrecha del útero).   Estas células anormales se encuentran en un pequeño número de frotis de Pap (procedimiento que se usa para detectar el cáncer del cuello uterino) y a veces son un signo de lesiones más graves o cáncer.   El término que se usa ahora es células glandulares atípicas. También se llama células glandulares atípicas de significado incierto y células glandulares atípicas de significado indeterminado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-10-05</DateFirstPublished>
+</GlossaryTerm>

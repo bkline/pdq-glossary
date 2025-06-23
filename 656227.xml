@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000656227"><TermName>nutrigenomics</TermName><TermPronunciation>(NOO-trih-jeh-NOH-mix)</TermPronunciation><TermDefinition><DefinitionText>The study of how food affects a person’s genes and how a person’s genes affect the way the body responds to food. Nutrigenomics is used to learn more about how genes and diet together may affect a person’s health and risk of developing diseases, such as cancer. It may also help find new ways to prevent and treat disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736932" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nutrigenomics&quot;" language="en" id="_2"/><MediaLink ref="CDR0000784960" type="audio/mpeg" alt="" language="es" id="_4"/><SpanishTermName>nutrigenómica</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio del modo en que los alimentos afectan los genes de una persona y de la forma en que los genes afectan la reacción del cuerpo a los alimentos. La nutrigenómica se utiliza para aprender más acerca de cómo los genes y la alimentación en conjunto afectan la salud y el riesgo de presentar enfermedades, como el cáncer. También puede ayudar a encontrar nuevas formas de prevenir y tratar la enfermedad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-09-30</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000656227">
+  <TermName>nutrigenomics</TermName>
+  <TermPronunciation>(NOO-trih-jeh-NOH-mix)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The study of how food affects a person’s genes and how a person’s genes affect the way the body responds to food. Nutrigenomics is used to learn more about how genes and diet together may affect a person’s health and risk of developing diseases, such as cancer. It may also help find new ways to prevent and treat disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736932" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nutrigenomics&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000784960" type="audio/mpeg" alt="" language="es" id="_4"/>
+  <SpanishTermName>nutrigenómica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio del modo en que los alimentos afectan los genes de una persona y de la forma en que los genes afectan la reacción del cuerpo a los alimentos. La nutrigenómica se utiliza para aprender más acerca de cómo los genes y la alimentación en conjunto afectan la salud y el riesgo de presentar enfermedades, como el cáncer. También puede ayudar a encontrar nuevas formas de prevenir y tratar la enfermedad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-09-30</DateFirstPublished>
+</GlossaryTerm>

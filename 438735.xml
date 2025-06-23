@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000438735"><TermName>PNH</TermName><TermDefinition><DefinitionText>Paroxysmal nocturnal hemoglobinuria. A rare disorder in which red blood cells are easily destroyed by certain immune system proteins. Symptoms include blood clots, and red or brownish urine in the morning. Aplastic anemia (decreased production of blood cells) may lead to PNH, and people with this disorder are at increased risk of acute myelogenous leukemia. Also called paroxysmal nocturnal hemoglobinuria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>HNP</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno raro por el que ciertas proteínas del sistema inmunitario causan una destrucción rápida de glóbulos rojos. Los síntomas son coágulos sanguíneos y orina de color rojo o marrón en la mañana. Es posible que la anemia aplásica (disminución en la producción de glóbulos rojos) lleve a la HNP. Las personas con este trastorno tienen mayor riesgo de leucemia mielógena aguda. También se llama hemoglobinuria nocturna paroxística.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-24</DateFirstPublished><DateLastModified>2007-06-29</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7337/paroxysmal-nocturnal-hemoglobinuria">Paroxysmal nocturnal hemoglobinuria (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/paroxysmal-nocturnal-hemoglobinuria/">Paroxysmal nocturnal hemoglobinuria (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/000534.htm">Hemoglobinuria paroxística nocturna (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000438735">
+  <TermName>PNH</TermName>
+  <TermDefinition>
+    <DefinitionText>Paroxysmal nocturnal hemoglobinuria. A rare disorder in which red blood cells are easily destroyed by certain immune system proteins. Symptoms include blood clots, and red or brownish urine in the morning. Aplastic anemia (decreased production of blood cells) may lead to PNH, and people with this disorder are at increased risk of acute myelogenous leukemia. Also called paroxysmal nocturnal hemoglobinuria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>HNP</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno raro por el que ciertas proteínas del sistema inmunitario causan una destrucción rápida de glóbulos rojos. Los síntomas son coágulos sanguíneos y orina de color rojo o marrón en la mañana. Es posible que la anemia aplásica (disminución en la producción de glóbulos rojos) lleve a la HNP. Las personas con este trastorno tienen mayor riesgo de leucemia mielógena aguda. También se llama hemoglobinuria nocturna paroxística.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-24</DateFirstPublished>
+  <DateLastModified>2007-06-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7337/paroxysmal-nocturnal-hemoglobinuria">Paroxysmal nocturnal hemoglobinuria (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/paroxysmal-nocturnal-hemoglobinuria/">Paroxysmal nocturnal hemoglobinuria (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/000534.htm">Hemoglobinuria paroxística nocturna (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

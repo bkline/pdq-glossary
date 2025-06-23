@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000801486"><TermName>Trodelvy</TermName><TermPronunciation>(troh-DEL-vee)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with certain types of breast cancer that have already been treated with other therapy. It is also being studied in the treatment of other types of cancer. Trodelvy contains a monoclonal antibody called sacituzumab that binds to a protein called TROP2, which is found on some cancer cells. It also contains an anticancer drug called SN-38, which may help kill cancer cells. Trodelvy is a type of antibody-drug conjugate. Also called sacituzumab govitecan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802717" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trodelvy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802718" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trodelvy&quot;" language="es" id="_4"/><SpanishTermName>Trodelvy</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de cáncer de mama que ya se trató con otra terapia. También está en estudio para el tratamiento de otros tipos de cáncer.  Trodelvy contiene el anticuerpo monoclonal sacituzumab, que se une a la proteína TROP2 presente en algunas células cancerosas. Además, contiene un fármaco contra el cáncer llamado SN-38 que quizás ayude a destruir células cancerosas. Trodelvy es un tipo de conjugado anticuerpo-fármaco. También se llama sacituzumab govitecán.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-01</DateFirstPublished><DateLastModified>2024-10-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000801533" url="/about-cancer/treatment/drugs/sacituzumabgovitecan-hziy">Sacituzumab Govitecan-hziy</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801486">
+  <TermName>Trodelvy</TermName>
+  <TermPronunciation>(troh-DEL-vee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with certain types of breast cancer that have already been treated with other therapy. It is also being studied in the treatment of other types of cancer. Trodelvy contains a monoclonal antibody called sacituzumab that binds to a protein called TROP2, which is found on some cancer cells. It also contains an anticancer drug called SN-38, which may help kill cancer cells. Trodelvy is a type of antibody-drug conjugate. Also called sacituzumab govitecan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802717" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trodelvy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802718" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Trodelvy&quot;" language="es" id="_4"/>
+  <SpanishTermName>Trodelvy</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de cáncer de mama que ya se trató con otra terapia. También está en estudio para el tratamiento de otros tipos de cáncer.  Trodelvy contiene el anticuerpo monoclonal sacituzumab, que se une a la proteína TROP2 presente en algunas células cancerosas. Además, contiene un fármaco contra el cáncer llamado SN-38 que quizás ayude a destruir células cancerosas. Trodelvy es un tipo de conjugado anticuerpo-fármaco. También se llama sacituzumab govitecán.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-01</DateFirstPublished>
+  <DateLastModified>2024-10-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000801533" url="/about-cancer/treatment/drugs/sacituzumabgovitecan-hziy">Sacituzumab Govitecan-hziy</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045449"><TermName>clarithromycin</TermName><TermPronunciation>(kluh-RITH-roh-MY-sin)</TermPronunciation><TermDefinition><DefinitionText>An antibiotic drug used in the treatment of infections. It belongs to the family of drugs called macrolides.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730909" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clarithromycin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730908" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;claritromicina&quot;" language="es" id="_4"/><SpanishTermName>claritromicina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento antibiótico usado para el tratamiento de infecciones. Es un tipo de macrólido.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2003-10-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045449">
+  <TermName>clarithromycin</TermName>
+  <TermPronunciation>(kluh-RITH-roh-MY-sin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An antibiotic drug used in the treatment of infections. It belongs to the family of drugs called macrolides.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730909" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clarithromycin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730908" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;claritromicina&quot;" language="es" id="_4"/>
+  <SpanishTermName>claritromicina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento antibiótico usado para el tratamiento de infecciones. Es un tipo de macrólido.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2003-10-15</DateLastModified>
+</GlossaryTerm>

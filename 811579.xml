@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000811579"><TermName>meningococcal vaccine</TermName><TermPronunciation>(meh-NIN-jeh-KAH-kul vak-SEEN)</TermPronunciation><TermDefinition><DefinitionText>A vaccine that helps protect the body against infection with certain types of <ScientificName>Neisseria meningitidis</ScientificName> bacteria that cause meningococcal disease. Meningococcal disease is a serious, life-threatening illness that affects the blood and the thin layers of tissue that cover and protect the brain and spinal cord. There are five meningococcal vaccines approved in the United States. Three of the vaccines are meningococcal conjugate vaccines, which protect against four different strains of meningococcal bacteria. The other two vaccines are meningococcal recombinant protein vaccines, which protect against a fifth strain.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813990" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;meningococcal vaccine&quot;" language="en" id="_5"/><MediaLink ref="CDR0000813991" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vacuna antimeningocócica&quot;" language="es" id="_6"/><SpanishTermName>vacuna antimeningocócica</SpanishTermName><SpanishTermDefinition><DefinitionText>Vacuna que ayuda a proteger el cuerpo contra la infección por ciertos tipos de la bacteria <ScientificName>Neisseria meningitidis</ScientificName> que causan la enfermedad meningocócica. La enfermedad meningocócica es una enfermedad grave, potencialmente mortal, que afecta la sangre y las finas capas de tejido que cubren y protegen el encéfalo y la médula espinal. Hay cinco vacunas antimeningocócicas aprobadas en los Estados Unidos: tres de ellas son vacunas conjugadas, que protegen contra cuatro cepas diferentes de la bacteria meningocócica, y las otras dos son vacunas de proteínas recombinantes, que protegen contra una quinta cepa. También se llama vacuna contra el meningococo y vacuna meningocócica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811579">
+  <TermName>meningococcal vaccine</TermName>
+  <TermPronunciation>(meh-NIN-jeh-KAH-kul vak-SEEN)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A vaccine that helps protect the body against infection with certain types of 
+      <ScientificName>Neisseria meningitidis</ScientificName>
+       bacteria that cause meningococcal disease. Meningococcal disease is a serious, life-threatening illness that affects the blood and the thin layers of tissue that cover and protect the brain and spinal cord. There are five meningococcal vaccines approved in the United States. Three of the vaccines are meningococcal conjugate vaccines, which protect against four different strains of meningococcal bacteria. The other two vaccines are meningococcal recombinant protein vaccines, which protect against a fifth strain.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813990" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;meningococcal vaccine&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000813991" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vacuna antimeningocócica&quot;" language="es" id="_6"/>
+  <SpanishTermName>vacuna antimeningocócica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Vacuna que ayuda a proteger el cuerpo contra la infección por ciertos tipos de la bacteria 
+      <ScientificName>Neisseria meningitidis</ScientificName>
+       que causan la enfermedad meningocócica. La enfermedad meningocócica es una enfermedad grave, potencialmente mortal, que afecta la sangre y las finas capas de tejido que cubren y protegen el encéfalo y la médula espinal. Hay cinco vacunas antimeningocócicas aprobadas en los Estados Unidos: tres de ellas son vacunas conjugadas, que protegen contra cuatro cepas diferentes de la bacteria meningocócica, y las otras dos son vacunas de proteínas recombinantes, que protegen contra una quinta cepa. También se llama vacuna contra el meningococo y vacuna meningocócica.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-26</DateFirstPublished>
+</GlossaryTerm>

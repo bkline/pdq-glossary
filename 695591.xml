@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000695591"><TermName>genodermatosis</TermName><TermPronunciation>(JEE-noh-DER-muh-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>An inherited syndrome that includes a dermatological (skin) phenotype.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736921" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genodermatosis&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804282" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genodermatosis&quot;" language="es" id="_4"/><SpanishTermName>genodermatosis</SpanishTermName><SpanishTermDefinition><DefinitionText>Síndrome hereditario que expresa un fenotipo cutáneo.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2011-02-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000695591">
+  <TermName>genodermatosis</TermName>
+  <TermPronunciation>(JEE-noh-DER-muh-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An inherited syndrome that includes a dermatological (skin) phenotype.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736921" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genodermatosis&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804282" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genodermatosis&quot;" language="es" id="_4"/>
+  <SpanishTermName>genodermatosis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Síndrome hereditario que expresa un fenotipo cutáneo.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-02-14</DateFirstPublished>
+</GlossaryTerm>

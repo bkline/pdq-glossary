@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000044242"><TermName>liver cancer</TermName><TermPronunciation>(LIH-ver KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Primary liver cancer is cancer that forms in the tissues of the liver. Secondary liver cancer is cancer that spreads to the liver from another part of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liver cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704349" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de hígado&quot;" language="es" id="_4"/><MediaLink ref="CDR0000428446" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</Caption></MediaLink><MediaLink ref="CDR0000445049" type="image/jpeg" alt="Anatomía del aparato gastrointestinal (digestivo); en la imagen se muestra el esófago, el hígado, el estómago, el intestino delgado y el intestino grueso." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El estómago y el esófago son partes del aparato gastrointestinal superior (digestivo).</Caption></MediaLink><SpanishTermName>cáncer de hígado</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer primario de hígado es cáncer que se forma en los tejidos del hígado. El cáncer secundario del hígado es cáncer que se disemina al hígado desde otra parte del cuerpo. También se llama cáncer hepático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-01-10</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/liver">Liver and Bile Duct Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/higado">Cáncer de hígado y vías biliares</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044242">
+  <TermName>liver cancer</TermName>
+  <TermPronunciation>(LIH-ver KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Primary liver cancer is cancer that forms in the tissues of the liver. Secondary liver cancer is cancer that spreads to the liver from another part of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liver cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704349" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de hígado&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000428446" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000445049" type="image/jpeg" alt="Anatomía del aparato gastrointestinal (digestivo); en la imagen se muestra el esófago, el hígado, el estómago, el intestino delgado y el intestino grueso." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El estómago y el esófago son partes del aparato gastrointestinal superior (digestivo).</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de hígado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer primario de hígado es cáncer que se forma en los tejidos del hígado. El cáncer secundario del hígado es cáncer que se disemina al hígado desde otra parte del cuerpo. También se llama cáncer hepático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-01-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/liver">Liver and Bile Duct Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/higado">Cáncer de hígado y vías biliares</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

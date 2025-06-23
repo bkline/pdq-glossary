@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000445074"><TermName>ovarian cancer</TermName><TermPronunciation>(oh-VAYR-ee-un KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the ovary (one of a pair of female reproductive glands in which the ova, or eggs, are formed). Most ovarian cancers are either ovarian epithelial cancers (cancer that begins in the cells on the surface of the ovary) or malignant germ cell tumors (cancer that begins in egg cells). Fallopian tube cancer and primary peritoneal cancer are similar to ovarian epithelial cancer and are staged and treated the same way.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714636" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714637" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ovario&quot;" language="es" id="_4"/><SpanishTermName>cáncer de ovario</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos del ovario (una de las dos glándulas reproductoras femeninas donde se forman los óvulos o células germinales de la mujer). La mayoría de los cánceres de ovario son cánceres epiteliales (cáncer que empieza en las células de la superficie del ovario) o tumores malignos de células germinativas o germinales (cáncer que empieza en los óvulos). El cáncer de trompa de Falopio y el cáncer primario de peritoneo son similares al cáncer epitelial de ovario, y se estadifican y tratan de la misma forma. También se llama cáncer ovárico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2014-12-27</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/ovarian">Ovarian, Fallopian Tube, and Primary Peritoneal Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ovario">Cáncer de ovario, de trompa de Falopio y primario de peritoneo</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000445074">
+  <TermName>ovarian cancer</TermName>
+  <TermPronunciation>(oh-VAYR-ee-un KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the ovary (one of a pair of female reproductive glands in which the ova, or eggs, are formed). Most ovarian cancers are either ovarian epithelial cancers (cancer that begins in the cells on the surface of the ovary) or malignant germ cell tumors (cancer that begins in egg cells). Fallopian tube cancer and primary peritoneal cancer are similar to ovarian epithelial cancer and are staged and treated the same way.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714636" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714637" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ovario&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de ovario</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos del ovario (una de las dos glándulas reproductoras femeninas donde se forman los óvulos o células germinales de la mujer). La mayoría de los cánceres de ovario son cánceres epiteliales (cáncer que empieza en las células de la superficie del ovario) o tumores malignos de células germinativas o germinales (cáncer que empieza en los óvulos). El cáncer de trompa de Falopio y el cáncer primario de peritoneo son similares al cáncer epitelial de ovario, y se estadifican y tratan de la misma forma. También se llama cáncer ovárico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2014-12-27</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/ovarian">Ovarian, Fallopian Tube, and Primary Peritoneal Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ovario">Cáncer de ovario, de trompa de Falopio y primario de peritoneo</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

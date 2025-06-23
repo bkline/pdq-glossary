@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000813582"><TermName>non-atrophic gastritis</TermName><TermPronunciation>(non-ay-TROH-fik gas-TRY-tis)</TermPronunciation><TermDefinition><DefinitionText>A condition marked by inflammation of the inner lining of the stomach. It is usually caused by an infection with the bacterium <ScientificName>H. pylori</ScientificName> that continues or worsens over a long period of time. Non-atrophic gastritis can lead to atrophic gastritis (thinning of the lining of the stomach caused by long-term inflammation) and certain types of stomach cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;non-atrophic gastritis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000815670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis no atrófica&quot;" language="es" id="_4"/><SpanishTermName>gastritis no atrófica</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad caracterizada por la inflamación del revestimiento interno del estómago. Por lo general, la causa de esta afección es la infección por la bacteria <ScientificName>H. pylori</ScientificName> que continúa o empeora durante un largo período de tiempo. La gastritis no atrófica a veces ocasiona gastritis atrófica (adelgazamiento del revestimiento del estómago que se produce debido a una inflamación prolongada) y ciertos tipos de cáncer de estómago.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-27</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813582">
+  <TermName>non-atrophic gastritis</TermName>
+  <TermPronunciation>(non-ay-TROH-fik gas-TRY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A condition marked by inflammation of the inner lining of the stomach. It is usually caused by an infection with the bacterium 
+      <ScientificName>H. pylori</ScientificName>
+       that continues or worsens over a long period of time. Non-atrophic gastritis can lead to atrophic gastritis (thinning of the lining of the stomach caused by long-term inflammation) and certain types of stomach cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;non-atrophic gastritis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000815670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis no atrófica&quot;" language="es" id="_4"/>
+  <SpanishTermName>gastritis no atrófica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Enfermedad caracterizada por la inflamación del revestimiento interno del estómago. Por lo general, la causa de esta afección es la infección por la bacteria 
+      <ScientificName>H. pylori</ScientificName>
+       que continúa o empeora durante un largo período de tiempo. La gastritis no atrófica a veces ocasiona gastritis atrófica (adelgazamiento del revestimiento del estómago que se produce debido a una inflamación prolongada) y ciertos tipos de cáncer de estómago.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-27</DateFirstPublished>
+</GlossaryTerm>

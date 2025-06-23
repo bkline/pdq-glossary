@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000748780"><TermName>stage I gestational trophoblastic neoplasia</TermName><TermPronunciation>(... jeh-STAY-shuh-nul troh-fuh-BLAS-tik NEE-oh-PLAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>The tumor is in the uterus only.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000749871" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I gestational trophoblastic neoplasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000749870" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia trofoblástica de la gestación en estadio I&quot;" language="es" id="_4"/><SpanishTermName>neoplasia trofoblástica de la gestación en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor se encuentra solo en el útero.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-04-18</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062699" url="/types/gestational-trophoblastic/patient/gtd-treatment-pdq">Gestational Trophoblastic Disease Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256801" url="/espanol/tipos/trofoblastico-gestacion/paciente/tratamiento-etg-pdq">Tratamiento de la enfermedad trofoblástica de la gestación</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000748780">
+  <TermName>stage I gestational trophoblastic neoplasia</TermName>
+  <TermPronunciation>(... jeh-STAY-shuh-nul troh-fuh-BLAS-tik NEE-oh-PLAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is in the uterus only.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000749871" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I gestational trophoblastic neoplasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000749870" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia trofoblástica de la gestación en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>neoplasia trofoblástica de la gestación en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor se encuentra solo en el útero.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-04-18</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062699" url="/types/gestational-trophoblastic/patient/gtd-treatment-pdq">Gestational Trophoblastic Disease Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256801" url="/espanol/tipos/trofoblastico-gestacion/paciente/tratamiento-etg-pdq">Tratamiento de la enfermedad trofoblástica de la gestación</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

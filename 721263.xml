@@ -1,1 +1,40 @@
-<GlossaryTerm id="CDR0000721263"><TermName>BRAF V600 mutation</TermName><TermPronunciation>(… myoo-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A type of mutation (change) in the <GeneName>BRAF </GeneName> gene that causes a mutant form of the BRAF protein to be made. This results in uncontrolled cell division and growth, which can lead to cancer. Drugs that target this mutant BRAF protein may kill cancer cells or stop them from growing. The <GeneName>BRAF</GeneName> V600 mutation is most commonly found in melanoma, but it may also be found in some other types of cancer, including cancers of the colon, rectum, lung, thyroid, ovary, and brain. Checking for the <GeneName>BRAF</GeneName> V600 mutation in tumor tissue may help plan cancer treatment. There are different forms of the <GeneName>BRAF</GeneName> V600 mutation, including V600E and V600K. V600E is the most common form.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;BRAF V600 mutation&quot;" language="en" id="_6"/><MediaLink ref="CDR0000734597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación BRAFV600&quot;" language="es" id="_7"/><SpanishTermName>mutación BRAF V600</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de mutación (cambio) en el gen <GeneName>BRAF</GeneName> que produce una forma mutada de la proteína BRAF. Esto causa el crecimiento y la multiplicación celular descontrolada , lo que puede derivar en un cáncer.  Los medicamentos que se dirigen a esta proteína BRAF mutada a veces destruyen células cancerosas o impiden su multiplicación. La mutación <GeneName>BRAF</GeneName> V600 se encuentra por lo general en el  melanoma, pero a veces  también en otros tipos de cáncer, como cánceres de colon, recto, pulmón, tiroides, ovario y encéfalo. Identificar la mutación <GeneName>BRAF</GeneName> V600 en un tejido tumoral quizás ayude a planificar el tratamiento del cáncer. Hay diferentes tipos de mutaciones <GeneName>BRAF</GeneName> V600, como la V600E y la  V600K. La V600E es el tipo más común. También se llama mutación en el codón 600 del gen BRAF y mutación V600 en BRAF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-02-06</DateFirstPublished><DateLastModified>2022-12-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000721263">
+  <TermName>BRAF V600 mutation</TermName>
+  <TermPronunciation>(… myoo-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A type of mutation (change) in the 
+      <GeneName>BRAF </GeneName>
+       gene that causes a mutant form of the BRAF protein to be made. This results in uncontrolled cell division and growth, which can lead to cancer. Drugs that target this mutant BRAF protein may kill cancer cells or stop them from growing. The 
+      <GeneName>BRAF</GeneName>
+       V600 mutation is most commonly found in melanoma, but it may also be found in some other types of cancer, including cancers of the colon, rectum, lung, thyroid, ovary, and brain. Checking for the 
+      <GeneName>BRAF</GeneName>
+       V600 mutation in tumor tissue may help plan cancer treatment. There are different forms of the 
+      <GeneName>BRAF</GeneName>
+       V600 mutation, including V600E and V600K. V600E is the most common form.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;BRAF V600 mutation&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000734597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación BRAFV600&quot;" language="es" id="_7"/>
+  <SpanishTermName>mutación BRAF V600</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Tipo de mutación (cambio) en el gen 
+      <GeneName>BRAF</GeneName>
+       que produce una forma mutada de la proteína BRAF. Esto causa el crecimiento y la multiplicación celular descontrolada , lo que puede derivar en un cáncer.  Los medicamentos que se dirigen a esta proteína BRAF mutada a veces destruyen células cancerosas o impiden su multiplicación. La mutación 
+      <GeneName>BRAF</GeneName>
+       V600 se encuentra por lo general en el  melanoma, pero a veces  también en otros tipos de cáncer, como cánceres de colon, recto, pulmón, tiroides, ovario y encéfalo. Identificar la mutación 
+      <GeneName>BRAF</GeneName>
+       V600 en un tejido tumoral quizás ayude a planificar el tratamiento del cáncer. Hay diferentes tipos de mutaciones 
+      <GeneName>BRAF</GeneName>
+       V600, como la V600E y la  V600K. La V600E es el tipo más común. También se llama mutación en el codón 600 del gen BRAF y mutación V600 en BRAF.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-02-06</DateFirstPublished>
+  <DateLastModified>2022-12-29</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000046125"><TermName>peritoneal cavity</TermName><TermPronunciation>(PAYR-ih-toh-NEE-ul KA-vuh-tee)</TermPronunciation><TermDefinition><DefinitionText>The space within the abdomen that contains the intestines, the stomach, and the liver. It is bound by thin membranes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peritoneal cavity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cavidad peritoneal&quot;" language="es" id="_4"/><MediaLink ref="CDR0000816809" type="image/jpeg" alt="Drawing shows a cross section of the peritoneal cavity and the peritoneum. Also shown are the liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">The peritoneal cavity is the space that contains most of the organs in the abdomen, including the liver, stomach, and intestines.  The peritoneum is the tissue that lines the abdominal wall and covers most of the organs in the abdomen.</Caption></MediaLink><MediaLink ref="CDR0000817900" type="image/jpeg" alt="En el dibujo se observa un corte transversal de la cavidad peritoneal y se señala el peritoneo. También se señala el hígado, el estómago, el páncreas, el intestino grueso, el epiplón mayor, el intestino delgado, un ovario, el útero, la vejiga y el recto." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">La cavidad peritoneal es el espacio que contiene la mayoría de los órganos del abdomen, como el hígado, el estómago y los intestinos. El peritoneo es el tejido que recubre la pared abdominal y cubre la mayoría de los órganos en el abdomen.</Caption></MediaLink><SpanishTermName>cavidad peritoneal</SpanishTermName><SpanishTermDefinition><DefinitionText>Espacio dentro del abdomen, que contiene los intestinos, el estómago y el hígado. Está limitado por membranas delgadas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2025-03-31</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046125">
+  <TermName>peritoneal cavity</TermName>
+  <TermPronunciation>(PAYR-ih-toh-NEE-ul KA-vuh-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The space within the abdomen that contains the intestines, the stomach, and the liver. It is bound by thin membranes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peritoneal cavity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cavidad peritoneal&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000816809" type="image/jpeg" alt="Drawing shows a cross section of the peritoneal cavity and the peritoneum. Also shown are the liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">The peritoneal cavity is the space that contains most of the organs in the abdomen, including the liver, stomach, and intestines.  The peritoneum is the tissue that lines the abdominal wall and covers most of the organs in the abdomen.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000817900" type="image/jpeg" alt="En el dibujo se observa un corte transversal de la cavidad peritoneal y se señala el peritoneo. También se señala el hígado, el estómago, el páncreas, el intestino grueso, el epiplón mayor, el intestino delgado, un ovario, el útero, la vejiga y el recto." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">La cavidad peritoneal es el espacio que contiene la mayoría de los órganos del abdomen, como el hígado, el estómago y los intestinos. El peritoneo es el tejido que recubre la pared abdominal y cubre la mayoría de los órganos en el abdomen.</Caption>
+  </MediaLink>
+  <SpanishTermName>cavidad peritoneal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Espacio dentro del abdomen, que contiene los intestinos, el estómago y el hígado. Está limitado por membranas delgadas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2025-03-31</DateLastModified>
+</GlossaryTerm>

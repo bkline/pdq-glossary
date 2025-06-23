@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000763031"><TermName>throughput</TermName><TermPronunciation>(THROO-put)</TermPronunciation><TermDefinition><DefinitionText>The amount of information, people, or materials that is put through a process during a specific period of time. In medicine, throughput can be used to describe the number of laboratory tests, such as genetic sequencing, performed or the number of patients seen in a clinic during a certain period of time.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000764450" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;throughput&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rendimiento&quot;" language="es" id="_4"/><SpanishTermName>rendimiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Cantidad de información, personas o material que se somete a un proceso durante un periodo específico. En el ámbito de la medicina se usa para describir el número de procedimientos de laboratorio realizados, como la secuenciación genética, o el número de pacientes que se atienden en un consultorio durante un intervalo de tiempo concreto.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2014-07-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000763031">
+  <TermName>throughput</TermName>
+  <TermPronunciation>(THROO-put)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The amount of information, people, or materials that is put through a process during a specific period of time. In medicine, throughput can be used to describe the number of laboratory tests, such as genetic sequencing, performed or the number of patients seen in a clinic during a certain period of time.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000764450" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;throughput&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rendimiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>rendimiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cantidad de información, personas o material que se somete a un proceso durante un periodo específico. En el ámbito de la medicina se usa para describir el número de procedimientos de laboratorio realizados, como la secuenciación genética, o el número de pacientes que se atienden en un consultorio durante un intervalo de tiempo concreto.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-07-16</DateFirstPublished>
+</GlossaryTerm>

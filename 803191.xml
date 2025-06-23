@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000803191"><TermName>CPM</TermName><TermDefinition><DefinitionText>Surgery to remove the healthy breast in a person who is having or has had the other breast with cancer removed. CPM may be done to reduce the risk of a second breast cancer in people who are at very high risk. Also called contralateral prophylactic mastectomy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>MPC</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar la mama (seno) sana de una persona a la que se le extirpó o se le extirpará  la mama con cáncer del lado contrario. La MPC a veces se hace para reducir el riesgo de un segundo cáncer de mama en quienes tienen un riesgo muy alto. También se llama mastectomía profiláctica contralateral.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803191">
+  <TermName>CPM</TermName>
+  <TermDefinition>
+    <DefinitionText>Surgery to remove the healthy breast in a person who is having or has had the other breast with cancer removed. CPM may be done to reduce the risk of a second breast cancer in people who are at very high risk. Also called contralateral prophylactic mastectomy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>MPC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar la mama (seno) sana de una persona a la que se le extirpó o se le extirpará  la mama con cáncer del lado contrario. La MPC a veces se hace para reducir el riesgo de un segundo cáncer de mama en quienes tienen un riesgo muy alto. También se llama mastectomía profiláctica contralateral.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

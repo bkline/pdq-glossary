@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000787353"><TermName>Ethyol</TermName><TermPronunciation>(eh-THY-ol)</TermPronunciation><TermDefinition><DefinitionText>A drug used to help protect the kidneys in patients receiving cisplatin for advanced ovarian cancer and to help reduce dry mouth in patients receiving radiation therapy after surgery for head and neck cancer. Ethyol helps protect healthy tissue from some of the side effects caused by certain types of cancer treatment. It is a type of chemoprotective agent and a type of radioprotective agent. Also called amifostine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788382" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ethyol&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788381" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ethyol&quot;" language="es" id="_4"/><SpanishTermName>Ethyol</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para ayudar a proteger los riñones de pacientes con cáncer de ovario en estadio avanzado que reciben cisplatino y que también se utiliza para reducir la sequedad de boca en pacientes sometidos a radioterapia después de una cirugía para un cáncer de cabeza y cuello. Ethyol ayuda a proteger el tejido sano de algunos de los efectos secundarios causados por ciertos tipos de tratamientos del cáncer. Es un tipo de quimioprotector y un tipo de radioprotector. También se llama amifostina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-02</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000787363" url="/about-cancer/treatment/drugs/amifostine">Amifostine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000787353">
+  <TermName>Ethyol</TermName>
+  <TermPronunciation>(eh-THY-ol)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to help protect the kidneys in patients receiving cisplatin for advanced ovarian cancer and to help reduce dry mouth in patients receiving radiation therapy after surgery for head and neck cancer. Ethyol helps protect healthy tissue from some of the side effects caused by certain types of cancer treatment. It is a type of chemoprotective agent and a type of radioprotective agent. Also called amifostine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788382" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ethyol&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788381" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ethyol&quot;" language="es" id="_4"/>
+  <SpanishTermName>Ethyol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para ayudar a proteger los riñones de pacientes con cáncer de ovario en estadio avanzado que reciben cisplatino y que también se utiliza para reducir la sequedad de boca en pacientes sometidos a radioterapia después de una cirugía para un cáncer de cabeza y cuello. Ethyol ayuda a proteger el tejido sano de algunos de los efectos secundarios causados por ciertos tipos de tratamientos del cáncer. Es un tipo de quimioprotector y un tipo de radioprotector. También se llama amifostina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-02</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000787363" url="/about-cancer/treatment/drugs/amifostine">Amifostine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

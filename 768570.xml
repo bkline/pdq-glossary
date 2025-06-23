@@ -1,3 +1,31 @@
-<GlossaryTerm id="CDR0000768570"><TermName>tumor DNA sequencing</TermName><TermPronunciation>(TOO-mer ... SEE-kwen-sing)</TermPronunciation><TermDefinition><DefinitionText>Sequencing of somatic tissue, such as tumors, refers to looking for variants in DNA that typically occur after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These variants can (but do not always) cause cancer or other diseases.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A laboratory method used to learn the exact order (sequence) of the chemical building blocks that make up tumor DNA. Errors in the sequence of the building blocks can cause cancer cells to grow and spread. Knowing the DNA sequence of a person’s tumor may help plan treatment that targets the specific error in the tumor.  
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000768570">
+  <TermName>tumor DNA sequencing</TermName>
+  <TermPronunciation>(TOO-mer ... SEE-kwen-sing)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Sequencing of somatic tissue, such as tumors, refers to looking for variants in DNA that typically occur after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These variants can (but do not always) cause cancer or other diseases.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A laboratory method used to learn the exact order (sequence) of the chemical building blocks that make up tumor DNA. Errors in the sequence of the building blocks can cause cancer cells to grow and spread. Knowing the DNA sequence of a person’s tumor may help plan treatment that targets the specific error in the tumor.  
 
-</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000771218" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor DNA sequencing&quot;" language="en" id="_2"/><MediaLink ref="CDR0000796971" type="audio/mpeg" alt="" language="es" id="_4"/><SpanishTermName>secuenciación del ADN tumoral</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio que se usa para conocer el orden exacto (secuencia) de los componentes químicos básicos del ADN tumoral. Los errores en la secuencia de estos componentes básicos pueden hacer que las células cancerosas se multipliquen y diseminen. Es posible que el conocimiento de la secuencia del ADN del tumor de una persona ayude a planificar el tratamiento que se dirige al error específico en el tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Secuenciación de tejido somático, como el tejido tumoral, destinada a identificar variantes en el ADN que por lo general ocurren después de la concepción. Las mutaciones somáticas ocurren en cualquier célula del cuerpo, excepto en las células germinativas (espermatozoides y óvulos) y por lo tanto, no se transmiten a la descendencia. En ocasiones estas variantes causan cáncer u otras enfermedades.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2015-01-28</DateFirstPublished></GlossaryTerm>
+</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000771218" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor DNA sequencing&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000796971" type="audio/mpeg" alt="" language="es" id="_4"/>
+  <SpanishTermName>secuenciación del ADN tumoral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio que se usa para conocer el orden exacto (secuencia) de los componentes químicos básicos del ADN tumoral. Los errores en la secuencia de estos componentes básicos pueden hacer que las células cancerosas se multipliquen y diseminen. Es posible que el conocimiento de la secuencia del ADN del tumor de una persona ayude a planificar el tratamiento que se dirige al error específico en el tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Secuenciación de tejido somático, como el tejido tumoral, destinada a identificar variantes en el ADN que por lo general ocurren después de la concepción. Las mutaciones somáticas ocurren en cualquier célula del cuerpo, excepto en las células germinativas (espermatozoides y óvulos) y por lo tanto, no se transmiten a la descendencia. En ocasiones estas variantes causan cáncer u otras enfermedades.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-01-28</DateFirstPublished>
+</GlossaryTerm>

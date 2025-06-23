@@ -1,1 +1,41 @@
-<GlossaryTerm id="CDR0000339342"><TermName>homozygous genotype</TermName><TermPronunciation>(HOH-moh-ZY-gus JEE-noh-tipe)</TermPronunciation><TermDefinition><DefinitionText>The presence of two identical alleles at a particular gene locus. A homozygous genotype may include two normal alleles or two alleles that have the same variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A term that describes having two identical versions of the same gene (one inherited from the mother and one inherited from the father). In a homozygous genotype, either both genes are normal or both genes have the same mutation (change). For example, a person who inherits the same mutation in both copies of the <GeneName>LDLR</GeneName> gene is homozygous for that gene and will develop a severe form of familial hypercholesterolemia (very high levels of cholesterol in the blood).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736964" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;homozygous genotype&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804194" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genotipo homocigoto&quot;" language="es" id="_4"/><SpanishTermName>genotipo homocigoto</SpanishTermName><SpanishTermDefinition><DefinitionText>Presencia de dos alelos idénticos en un locus génico en particular. Un genotipo homocigoto presenta dos alelos normales o dos alelos con la misma variante. También se llama genotipo homocigótico.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Término que describe la presencia de dos copias idénticas del mismo gen (una heredada de la madre y la otra heredada del padre). En un genotipo homocigótico, ambos genes son normales o comparten la misma mutación (cambio). Por ejemplo, una persona que hereda la misma mutación en ambas copias del gen <GeneName>LDLR</GeneName> es homocigótica para ese gen y presentará una forma grave de hipercolesterolemia familiar (concentraciones muy altas de colesterol en la sangre). También se llama genotipo homocigótico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-03</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=105">Homozygous (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Homocigoto">Homocigoto (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000339342">
+  <TermName>homozygous genotype</TermName>
+  <TermPronunciation>(HOH-moh-ZY-gus JEE-noh-tipe)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The presence of two identical alleles at a particular gene locus. A homozygous genotype may include two normal alleles or two alleles that have the same variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>
+      A term that describes having two identical versions of the same gene (one inherited from the mother and one inherited from the father). In a homozygous genotype, either both genes are normal or both genes have the same mutation (change). For example, a person who inherits the same mutation in both copies of the 
+      <GeneName>LDLR</GeneName>
+       gene is homozygous for that gene and will develop a severe form of familial hypercholesterolemia (very high levels of cholesterol in the blood).
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736964" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;homozygous genotype&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804194" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genotipo homocigoto&quot;" language="es" id="_4"/>
+  <SpanishTermName>genotipo homocigoto</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de dos alelos idénticos en un locus génico en particular. Un genotipo homocigoto presenta dos alelos normales o dos alelos con la misma variante. También se llama genotipo homocigótico.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Término que describe la presencia de dos copias idénticas del mismo gen (una heredada de la madre y la otra heredada del padre). En un genotipo homocigótico, ambos genes son normales o comparten la misma mutación (cambio). Por ejemplo, una persona que hereda la misma mutación en ambas copias del gen 
+      <GeneName>LDLR</GeneName>
+       es homocigótica para ese gen y presentará una forma grave de hipercolesterolemia familiar (concentraciones muy altas de colesterol en la sangre). También se llama genotipo homocigótico.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-03</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=105">Homozygous (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Homocigoto">Homocigoto (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

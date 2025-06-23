@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000812864"><TermName>anoscopy</TermName><TermPronunciation>(ay-NOS-koh-pee)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which a short, lighted tube called an anoscope is inserted into the anus and lower part of the rectum to check for abnormal areas. The anoscope may be used with a special magnifying instrument called a colposcope and a weak acetic acid solution to make abnormal tissue easier to see. Tissue samples may be removed so they can be checked under a microscope for signs of disease. An anoscopy may be used to help diagnose cancers of the anus or rectum. It may also be used to diagnose other conditions, such as hemorrhoids, anal fissures (tears), and anal polyps.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814882" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anoscopy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814883" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anoscopia&quot;" language="es" id="_4"/><SpanishTermName>anoscopia</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento durante el cual se introduce en el ano y la parte inferior del recto un tubo corto con una luz llamado anoscopio para determinar si hay áreas anormales. El anoscopio en ocasiones se usa con un instrumento que tiene una lente de aumento llamado colposcopio y con una solución de ácido acético (ácido débil) que permite que se vea mejor el tejido anormal. A veces, se extraen muestras de tejido para examinarlas al microscopio y determinar si hay signos de enfermedad. La anoscopia se usa para ayudar a diagnosticar cánceres de ano o recto, u otras afecciones, como hemorroides, fisuras anales (desgarros) y pólipos anales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-09-13</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/lab-tests/anoscopy/">Anoscopy (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/pruebas-de-laboratorio/anoscopia/">Anoscopia (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000812864">
+  <TermName>anoscopy</TermName>
+  <TermPronunciation>(ay-NOS-koh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which a short, lighted tube called an anoscope is inserted into the anus and lower part of the rectum to check for abnormal areas. The anoscope may be used with a special magnifying instrument called a colposcope and a weak acetic acid solution to make abnormal tissue easier to see. Tissue samples may be removed so they can be checked under a microscope for signs of disease. An anoscopy may be used to help diagnose cancers of the anus or rectum. It may also be used to diagnose other conditions, such as hemorrhoids, anal fissures (tears), and anal polyps.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814882" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anoscopy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814883" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anoscopia&quot;" language="es" id="_4"/>
+  <SpanishTermName>anoscopia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento durante el cual se introduce en el ano y la parte inferior del recto un tubo corto con una luz llamado anoscopio para determinar si hay áreas anormales. El anoscopio en ocasiones se usa con un instrumento que tiene una lente de aumento llamado colposcopio y con una solución de ácido acético (ácido débil) que permite que se vea mejor el tejido anormal. A veces, se extraen muestras de tejido para examinarlas al microscopio y determinar si hay signos de enfermedad. La anoscopia se usa para ayudar a diagnosticar cánceres de ano o recto, u otras afecciones, como hemorroides, fisuras anales (desgarros) y pólipos anales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-09-13</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/lab-tests/anoscopy/">Anoscopy (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/pruebas-de-laboratorio/anoscopia/">Anoscopia (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

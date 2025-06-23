@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000600473"><TermName>MEK inhibitor AZD6244</TermName><TermPronunciation>(... in-HIH-bih-ter...)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat children aged 2 years and older with a rare genetic condition called neurofibromatosis type 1. It is used in patients who have plexiform neurofibromas that are causing symptoms and cannot be removed by surgery. It is also being studied in the treatment of some types of cancer. MEK inhibitor AZD6244 blocks proteins called MEK1 and MEK2, which may help keep abnormal cells or cancer cells from growing. It is a type of kinase inhibitor. Also called AZD6244, Koselugo, and selumetinib sulfate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720637" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK inhibitor AZD6244&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720636" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor del MEK AZD6244&quot;" language="es" id="_4"/><SpanishTermName>inhibidor del MEK AZD6244</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de niños de 2 años o más con una afección genética rara llamada neurofibromatosis de tipo 1. Se utiliza en pacientes que tienen neurofibromas plexiformes que producen síntomas y que no se pueden extirpar con cirugía. También está en estudio para el tratamiento de algunos tipos de cáncer. El inhibidor del MEK AZD6244 bloquea las proteínas MEK1 y MEK2, lo que quizás ayude a impedir la multiplicación de células anormales o de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama AZD6244, Koselugo y sulfato de selumetinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-07-14</DateFirstPublished><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000801350" url="/about-cancer/treatment/drugs/selumetinibsulfate">Selumetinib Sulfate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000600473">
+  <TermName>MEK inhibitor AZD6244</TermName>
+  <TermPronunciation>(... in-HIH-bih-ter...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat children aged 2 years and older with a rare genetic condition called neurofibromatosis type 1. It is used in patients who have plexiform neurofibromas that are causing symptoms and cannot be removed by surgery. It is also being studied in the treatment of some types of cancer. MEK inhibitor AZD6244 blocks proteins called MEK1 and MEK2, which may help keep abnormal cells or cancer cells from growing. It is a type of kinase inhibitor. Also called AZD6244, Koselugo, and selumetinib sulfate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720637" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK inhibitor AZD6244&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720636" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor del MEK AZD6244&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor del MEK AZD6244</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de niños de 2 años o más con una afección genética rara llamada neurofibromatosis de tipo 1. Se utiliza en pacientes que tienen neurofibromas plexiformes que producen síntomas y que no se pueden extirpar con cirugía. También está en estudio para el tratamiento de algunos tipos de cáncer. El inhibidor del MEK AZD6244 bloquea las proteínas MEK1 y MEK2, lo que quizás ayude a impedir la multiplicación de células anormales o de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama AZD6244, Koselugo y sulfato de selumetinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-07-14</DateFirstPublished>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000801350" url="/about-cancer/treatment/drugs/selumetinibsulfate">Selumetinib Sulfate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

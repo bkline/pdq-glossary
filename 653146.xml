@@ -1,2 +1,25 @@
-<GlossaryTerm id="CDR0000653146"><TermName>small-molecule drug</TermName><TermPronunciation>(… MAH-leh-kyool ...)</TermPronunciation><TermDefinition><DefinitionText>A drug that can enter cells easily because it has a low molecular weight. Once inside the cells, it can affect other molecules, such as proteins, and may cause cancer cells to die. This is different from drugs that have a large molecular weight, which keeps them from getting inside cells easily. 
-Many targeted therapies are small-molecule drugs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000743011" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;small-molecule drug&quot;" language="en" id="_3"/><MediaLink ref="CDR0000743010" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medicamento micromolecular&quot;" language="es" id="_4"/><SpanishTermName>medicamento micromolecular</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que entra a las células con facilidad porque tiene un peso molecular bajo. Una vez dentro de la células afecta otras moléculas, como proteínas, y es posible que destruya las células cancerosas. Estos medicamentos son diferentes de los medicamentos con peso molecular alto que no logran entrar a las células con facilidad. En muchas terapias dirigidas se usan medicamentos micromoleculares. También se llama medicamento de molécula pequeña.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-10-17</DateFirstPublished><DateLastModified>2020-01-16</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies">Targeted Therapy to Treat Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/terapia-dirigida/hoja-informativa-terapias-dirigidas">Terapias dirigidas contra el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000653146">
+  <TermName>small-molecule drug</TermName>
+  <TermPronunciation>(… MAH-leh-kyool ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that can enter cells easily because it has a low molecular weight. Once inside the cells, it can affect other molecules, such as proteins, and may cause cancer cells to die. This is different from drugs that have a large molecular weight, which keeps them from getting inside cells easily. 
+Many targeted therapies are small-molecule drugs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000743011" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;small-molecule drug&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000743010" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medicamento micromolecular&quot;" language="es" id="_4"/>
+  <SpanishTermName>medicamento micromolecular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que entra a las células con facilidad porque tiene un peso molecular bajo. Una vez dentro de la células afecta otras moléculas, como proteínas, y es posible que destruya las células cancerosas. Estos medicamentos son diferentes de los medicamentos con peso molecular alto que no logran entrar a las células con facilidad. En muchas terapias dirigidas se usan medicamentos micromoleculares. También se llama medicamento de molécula pequeña.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-10-17</DateFirstPublished>
+  <DateLastModified>2020-01-16</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies">Targeted Therapy to Treat Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/terapia-dirigida/hoja-informativa-terapias-dirigidas">Terapias dirigidas contra el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

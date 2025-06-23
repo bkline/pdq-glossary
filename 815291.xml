@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000815291"><TermName>adjuvant chemotherapy</TermName><TermPronunciation>(A-juh-vunt KEE-moh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Anticancer drugs given after the primary (or first) treatment to kill any cancer cells that remain in the body and to lower the risk that the cancer will come back. For example, adjuvant chemotherapy may be given after breast cancer surgery to kill any remaining breast cancer cells and to help keep the cancer from coming back. Adjuvant chemotherapy may sometimes be called preventative chemotherapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000816245" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adjuvant chemotherapy&quot;" language="en" id="_4"/><MediaLink ref="CDR0000816246" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia adyuvante&quot;" language="es" id="_5"/><SpanishTermName>quimioterapia adyuvante</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamentos contra el cáncer que se administran después del primer tratamiento (primario) para destruir cualquier célula cancerosa que quede en el cuerpo y reducir el riesgo de que el cáncer vuelva. Por ejemplo, es posible recibir este tipo de quimioterapia después de una cirugía para el cáncer de mama a fin de destruir las células cancerosas que hayan quedado y evitar que la enfermedad regrese. Este tipo de quimioterapia a veces se llama quimioterapia preventiva. También se llama quimioterapia coadyuvante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000815291">
+  <TermName>adjuvant chemotherapy</TermName>
+  <TermPronunciation>(A-juh-vunt KEE-moh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Anticancer drugs given after the primary (or first) treatment to kill any cancer cells that remain in the body and to lower the risk that the cancer will come back. For example, adjuvant chemotherapy may be given after breast cancer surgery to kill any remaining breast cancer cells and to help keep the cancer from coming back. Adjuvant chemotherapy may sometimes be called preventative chemotherapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000816245" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adjuvant chemotherapy&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000816246" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia adyuvante&quot;" language="es" id="_5"/>
+  <SpanishTermName>quimioterapia adyuvante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamentos contra el cáncer que se administran después del primer tratamiento (primario) para destruir cualquier célula cancerosa que quede en el cuerpo y reducir el riesgo de que el cáncer vuelva. Por ejemplo, es posible recibir este tipo de quimioterapia después de una cirugía para el cáncer de mama a fin de destruir las células cancerosas que hayan quedado y evitar que la enfermedad regrese. Este tipo de quimioterapia a veces se llama quimioterapia preventiva. También se llama quimioterapia coadyuvante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-04-10</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000455670"><TermName>abdominal x-ray</TermName><TermPronunciation>(ab-DAH-mih-nul EX-ray)</TermPronunciation><TermDefinition><DefinitionText>An x-ray of the organs inside the abdomen. An x-ray is a type of radiation that can pass through the body and onto film, making pictures of areas inside the body. X-rays may be used to help diagnose disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715234" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abdominal x-ray&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715235" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiografía del abdomen&quot;" language="es" id="_4"/><MediaLink ref="CDR0000428435" type="image/jpeg" alt="X-ray of the abdomen; drawing shows the patient on a table and x-rays are used to take pictures of the inside of the body." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">X-ray of the abdomen. The patient lies on a table and x-rays are used to take pictures of the inside of the body.</Caption></MediaLink><MediaLink ref="CDR0000747140" type="image/jpeg" alt="Radiografía del abdomen; el dibujo muestra al paciente en una camilla y se utilizan rayos-X para tomar imágenes de la parte interior del cuerpo." language="es" audience="Patients" placement="image-center" id="_5"><Caption language="es">Radiografía del abdomen.  El paciente se acuesta en una camilla y se utilizan rayos-X  para tomar imágenes de la parte interior del cuerpo.</Caption></MediaLink><SpanishTermName>radiografía del abdomen</SpanishTermName><SpanishTermDefinition><DefinitionText>Radiografía de los órganos del interior del abdomen.  La radiografía es un procedimiento para el que se usan rayos X, un tipo de radiación que puede atravesar el cuerpo y plasmarse en una placa radiográfica. Esto permite crear imágenes del interior del cuerpo. Las radiografías se usan para ayudar a diagnosticar enfermedades. También se llama radiografía abdominal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-21</DateFirstPublished><DateLastModified>2014-02-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000455670">
+  <TermName>abdominal x-ray</TermName>
+  <TermPronunciation>(ab-DAH-mih-nul EX-ray)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An x-ray of the organs inside the abdomen. An x-ray is a type of radiation that can pass through the body and onto film, making pictures of areas inside the body. X-rays may be used to help diagnose disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715234" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abdominal x-ray&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715235" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiografía del abdomen&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000428435" type="image/jpeg" alt="X-ray of the abdomen; drawing shows the patient on a table and x-rays are used to take pictures of the inside of the body." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">X-ray of the abdomen. The patient lies on a table and x-rays are used to take pictures of the inside of the body.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000747140" type="image/jpeg" alt="Radiografía del abdomen; el dibujo muestra al paciente en una camilla y se utilizan rayos-X para tomar imágenes de la parte interior del cuerpo." language="es" audience="Patients" placement="image-center" id="_5">
+    <Caption language="es">Radiografía del abdomen.  El paciente se acuesta en una camilla y se utilizan rayos-X  para tomar imágenes de la parte interior del cuerpo.</Caption>
+  </MediaLink>
+  <SpanishTermName>radiografía del abdomen</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Radiografía de los órganos del interior del abdomen.  La radiografía es un procedimiento para el que se usan rayos X, un tipo de radiación que puede atravesar el cuerpo y plasmarse en una placa radiográfica. Esto permite crear imágenes del interior del cuerpo. Las radiografías se usan para ayudar a diagnosticar enfermedades. También se llama radiografía abdominal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-21</DateFirstPublished>
+  <DateLastModified>2014-02-04</DateLastModified>
+</GlossaryTerm>

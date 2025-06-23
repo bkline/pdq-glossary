@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000597239"><TermName>3’-deoxy-3’-(18F) fluorothymidine</TermName><TermPronunciation>(… dee-OK-see … FLOOR-oh-THY-mih-deen)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in the diagnosis of cancer. 3’-deoxy-3’-(18F) fluorothymidine is injected into the blood and builds up in cells that are dividing, including cancer cells. The radiation that it gives off as it decays (breaks down) helps make clear pictures of tumors during a positron emission tomography (PET) scan. Also called 18F-FLT, 18F-fluorothymidine, and fluorine F 18-fluorothymidine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721000" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;3’-deoxy-3’-(18F) fluorothymidine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721001" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;3’-deoxi-3’-(18F) fluorotimidina&quot;" language="es" id="_4"/><SpanishTermName>3’-deoxi-3’-(18F) fluorotimidina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en  estudio para el diagnóstico de cáncer. La 3’-deoxi-3’-(18F) fluorotimidina se inyecta en la sangre y se acumula en las células que se multiplican, incluso las células cancerosas. La radiación que emite a medida que se desintegra (descompone) ayuda a lograr imágenes claras de los tumores en una tomografía con emisión de positrones (TEP). También se llama 18F-FLT, 18F-fluorotimidina y flúor F 18-fluorotimidina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-06-09</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000597239">
+  <TermName>3’-deoxy-3’-(18F) fluorothymidine</TermName>
+  <TermPronunciation>(… dee-OK-see … FLOOR-oh-THY-mih-deen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in the diagnosis of cancer. 3’-deoxy-3’-(18F) fluorothymidine is injected into the blood and builds up in cells that are dividing, including cancer cells. The radiation that it gives off as it decays (breaks down) helps make clear pictures of tumors during a positron emission tomography (PET) scan. Also called 18F-FLT, 18F-fluorothymidine, and fluorine F 18-fluorothymidine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721000" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;3’-deoxy-3’-(18F) fluorothymidine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721001" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;3’-deoxi-3’-(18F) fluorotimidina&quot;" language="es" id="_4"/>
+  <SpanishTermName>3’-deoxi-3’-(18F) fluorotimidina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en  estudio para el diagnóstico de cáncer. La 3’-deoxi-3’-(18F) fluorotimidina se inyecta en la sangre y se acumula en las células que se multiplican, incluso las células cancerosas. La radiación que emite a medida que se desintegra (descompone) ayuda a lograr imágenes claras de los tumores en una tomografía con emisión de positrones (TEP). También se llama 18F-FLT, 18F-fluorotimidina y flúor F 18-fluorotimidina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-06-09</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

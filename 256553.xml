@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000256553"><TermName>genetic susceptibility</TermName><TermPronunciation>(jeh-NEH-tik suh-SEP-tih-BIH-lih-tee)</TermPronunciation><TermDefinition><DefinitionText>An inherited increase in the risk of developing a disease. Also called genetic predisposition, hereditary predisposition, and inherited predisposition.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>An increased chance or likelihood of developing a particular disease based on the presence of one or more genetic variants and/or a family history suggestive of an increased risk of the disease. Having a genetic susceptibility does not mean an individual will develop the disease. Lifestyle and environmental factors can also affect an individual's risk of disease. Also called genetic predisposition, hereditary predisposition, and inherited predisposition.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000709835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetic susceptibility&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;susceptibilidad genética&quot;" language="es" id="_4"/><SpanishTermName>susceptibilidad genética</SpanishTermName><SpanishTermDefinition><DefinitionText>Aumento del riesgo de presentar una enfermedad debido a causas hereditarias. También se llama predisposición genética, predisposición heredada y predisposición hereditaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Aumento de la probabilidad o posibilidad de contraer  una enfermedad específica debido a la presencia de una o más variantes genéticas o por una historia familiar que indica un aumento en el riesgo de la enfermedad. Tener una susceptibilidad genética no significa que una persona presentará la enfermedad. El estilo de vida y los factores ambientales también pueden afectar el riesgo de las personas de presentar una enfermedad. También se llama predisposición genética, predisposición heredada y predisposición hereditaria.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateLastModified>2007-06-05</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet" UseWith="en">Genetic Testing for Inherited Cancer Susceptibility Syndromes</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq" UseWith="en">Cancer Genetics Risk Assessment and Counseling (Health Professional Version)</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/evaluacion-del-riesgo-pdq" UseWith="es">Evaluación del riesgo de cáncer y asesoramiento genético (Versión para profesionales de salud)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/hoja-informativa-pruebas-geneticas">Pruebas genéticas para detectar el riesgo de cáncer hereditario</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000256553">
+  <TermName>genetic susceptibility</TermName>
+  <TermPronunciation>(jeh-NEH-tik suh-SEP-tih-BIH-lih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An inherited increase in the risk of developing a disease. Also called genetic predisposition, hereditary predisposition, and inherited predisposition.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>An increased chance or likelihood of developing a particular disease based on the presence of one or more genetic variants and/or a family history suggestive of an increased risk of the disease. Having a genetic susceptibility does not mean an individual will develop the disease. Lifestyle and environmental factors can also affect an individual's risk of disease. Also called genetic predisposition, hereditary predisposition, and inherited predisposition.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetic susceptibility&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;susceptibilidad genética&quot;" language="es" id="_4"/>
+  <SpanishTermName>susceptibilidad genética</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Aumento del riesgo de presentar una enfermedad debido a causas hereditarias. También se llama predisposición genética, predisposición heredada y predisposición hereditaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Aumento de la probabilidad o posibilidad de contraer  una enfermedad específica debido a la presencia de una o más variantes genéticas o por una historia familiar que indica un aumento en el riesgo de la enfermedad. Tener una susceptibilidad genética no significa que una persona presentará la enfermedad. El estilo de vida y los factores ambientales también pueden afectar el riesgo de las personas de presentar una enfermedad. También se llama predisposición genética, predisposición heredada y predisposición hereditaria.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-06-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet" UseWith="en">Genetic Testing for Inherited Cancer Susceptibility Syndromes</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq" UseWith="en">Cancer Genetics Risk Assessment and Counseling (Health Professional Version)</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/evaluacion-del-riesgo-pdq" UseWith="es">Evaluación del riesgo de cáncer y asesoramiento genético (Versión para profesionales de salud)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/hoja-informativa-pruebas-geneticas">Pruebas genéticas para detectar el riesgo de cáncer hereditario</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

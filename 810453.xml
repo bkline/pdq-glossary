@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000810453"><TermName>karyotyping</TermName><TermPronunciation>(KAYR-ee-oh-ty-ping)</TermPronunciation><TermDefinition><DefinitionText>A type of genetic test that analyzes the size, shape, and number of chromosomes in a sample of cells taken from blood, amniotic fluid, bone marrow, or other tissue. Changes in the number or structure of chromosomes may be a sign of a birth defect or genetic disease or condition, such as Down syndrome, Klinefelter syndrome, or Turner syndrome. Karyotyping may also be used to help diagnose certain types of cancer, such as leukemia, lymphoma, or myeloma, and/or help plan treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812231" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;karyotyping&quot;" language="en" id="_6"/><MediaLink ref="CDR0000812232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cariotipado&quot;" language="es" id="_7"/><SpanishTermName>cariotipado</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de prueba genética con la que se analiza el tamaño, la forma y la cantidad de cromosomas en una muestra de células extraídas de la sangre, el líquido amniótico, la médula ósea u otro tejido. Los cambios en el número o la estructura de los cromosomas a veces son signos de un defecto congénito o de una enfermedad o afección genética, como el síndrome de Down, el síndrome de Klinefelter o el síndrome de Turner. El cariotipado también se usa para ayudar a diagnosticar ciertos tipos de cáncer, como la leucemia, el linfoma o el mieloma, y para ayudar a planificar el tratamiento. También se llama cariotipaje y cariotipificación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-12-30</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://medlineplus.gov/lab-tests/karyotype-genetic-test/" UseWith="en">Karyotype Genetic Test (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cariotipo/">Prueba de cariotipo (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810453">
+  <TermName>karyotyping</TermName>
+  <TermPronunciation>(KAYR-ee-oh-ty-ping)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of genetic test that analyzes the size, shape, and number of chromosomes in a sample of cells taken from blood, amniotic fluid, bone marrow, or other tissue. Changes in the number or structure of chromosomes may be a sign of a birth defect or genetic disease or condition, such as Down syndrome, Klinefelter syndrome, or Turner syndrome. Karyotyping may also be used to help diagnose certain types of cancer, such as leukemia, lymphoma, or myeloma, and/or help plan treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812231" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;karyotyping&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000812232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cariotipado&quot;" language="es" id="_7"/>
+  <SpanishTermName>cariotipado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de prueba genética con la que se analiza el tamaño, la forma y la cantidad de cromosomas en una muestra de células extraídas de la sangre, el líquido amniótico, la médula ósea u otro tejido. Los cambios en el número o la estructura de los cromosomas a veces son signos de un defecto congénito o de una enfermedad o afección genética, como el síndrome de Down, el síndrome de Klinefelter o el síndrome de Turner. El cariotipado también se usa para ayudar a diagnosticar ciertos tipos de cáncer, como la leucemia, el linfoma o el mieloma, y para ayudar a planificar el tratamiento. También se llama cariotipaje y cariotipificación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-12-30</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://medlineplus.gov/lab-tests/karyotype-genetic-test/" UseWith="en">Karyotype Genetic Test (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cariotipo/">Prueba de cariotipo (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796909"><TermName>torso</TermName><TermPronunciation>(TOR-soh)</TermPronunciation><TermDefinition><DefinitionText>The main part of the body that contains the chest, abdomen, pelvis, and back. Most of the body’s organs and the backbone are found in the torso. Also called trunk.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797999" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;torso&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;torso&quot;" language="es" id="_4"/><SpanishTermName>torso</SpanishTermName><SpanishTermDefinition><DefinitionText>Parte principal del cuerpo que incluye el tórax, el abdomen, la pelvis y la espalda. La  mayoría de los órganos del cuerpo y la columna vertebral se encuentran en el torso. También se llama tronco.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796909">
+  <TermName>torso</TermName>
+  <TermPronunciation>(TOR-soh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The main part of the body that contains the chest, abdomen, pelvis, and back. Most of the body’s organs and the backbone are found in the torso. Also called trunk.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797999" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;torso&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;torso&quot;" language="es" id="_4"/>
+  <SpanishTermName>torso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parte principal del cuerpo que incluye el tórax, el abdomen, la pelvis y la espalda. La  mayoría de los órganos del cuerpo y la columna vertebral se encuentran en el torso. También se llama tronco.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

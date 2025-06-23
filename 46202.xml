@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046202"><TermName>peginterferon alfa-2b</TermName><TermPronunciation>(peg-IN-ter-FEER-on AL-fuh ...)</TermPronunciation><TermDefinition><DefinitionText>A drug that is no longer available in the United States that was used under the brand name Sylatron to prevent melanoma from coming back after it has been removed by surgery and under the brand name PEG-Intron to treat chronic hepatitis C. Peginterferon alfa-2b is a form of interferon alfa (a substance normally made by cells in the immune system) that is made in the laboratory and linked to a substance called PEG, which makes the drug stay in the body longer.  It is a type of cytokine and a type of immunomodulating agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707823" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peginterferon alfa-2b&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707822" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peginterferón alfa-2b&quot;" language="es" id="_4"/><SpanishTermName>peginterferón alfa-2b</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento, no disponible en los Estados Unidos, que se usaba bajo el nombre comercial Sylatron para prevenir que el melanoma reaparezca después de que se extirpa mediante cirugía. Además, se usaba con el nombre comercial PEG-Intron para el tratamiento de la hepatitis C crónica. El 	peginterferón alfa-2b es una forma de interferón alfa (sustancia que normalmente se produce en las células del sistema inmunitario) que se elabora en el laboratorio y se une a una sustancia llamada PEG, que hace que el medicamento dure más tiempo dentro del cuerpo. Es un tipo de citocina y de inmunomodulador.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-04-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046202">
+  <TermName>peginterferon alfa-2b</TermName>
+  <TermPronunciation>(peg-IN-ter-FEER-on AL-fuh ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that is no longer available in the United States that was used under the brand name Sylatron to prevent melanoma from coming back after it has been removed by surgery and under the brand name PEG-Intron to treat chronic hepatitis C. Peginterferon alfa-2b is a form of interferon alfa (a substance normally made by cells in the immune system) that is made in the laboratory and linked to a substance called PEG, which makes the drug stay in the body longer.  It is a type of cytokine and a type of immunomodulating agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707823" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peginterferon alfa-2b&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707822" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peginterferón alfa-2b&quot;" language="es" id="_4"/>
+  <SpanishTermName>peginterferón alfa-2b</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento, no disponible en los Estados Unidos, que se usaba bajo el nombre comercial Sylatron para prevenir que el melanoma reaparezca después de que se extirpa mediante cirugía. Además, se usaba con el nombre comercial PEG-Intron para el tratamiento de la hepatitis C crónica. El 	peginterferón alfa-2b es una forma de interferón alfa (sustancia que normalmente se produce en las células del sistema inmunitario) que se elabora en el laboratorio y se une a una sustancia llamada PEG, que hace que el medicamento dure más tiempo dentro del cuerpo. Es un tipo de citocina y de inmunomodulador.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-04-06</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000651184"><TermName>chronic prostatitis/chronic pelvic pain syndrome</TermName><TermPronunciation>(KRAH-nik PROS-tuh-TY-tis/KRAH-nik PEL-vik payn SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A condition of the prostate gland that continues or gets worse over a long period of time. Symptoms include body aches, pain in the lower back and genital area, a burning feeling during urination, and problems with emptying the bladder all the way. Also called CP/CPPS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726499" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chronic prostatitis/chronic pelvic pain syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatitis crónica/síndrome de dolor pélvico crónico&quot;" language="es" id="_4"/><SpanishTermName>prostatitis crónica o síndrome de dolor pélvico crónico</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección de la próstata que continúa o empeora durante un período prolongado. Los síntomas incluyen dolores corporales, dolor en la parte inferior de la espalda y el área genital, sensación de ardor al orinar y problemas para vaciar la vejiga por completo. También se llama PC o SDPC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-08-26</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/prostate/understanding-prostate-changes" UseWith="en">Understanding Prostate Changes and Conditions</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata" UseWith="es">Significado de los cambios en la próstata: Guía de salud para los hombres</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000651184">
+  <TermName>chronic prostatitis/chronic pelvic pain syndrome</TermName>
+  <TermPronunciation>(KRAH-nik PROS-tuh-TY-tis/KRAH-nik PEL-vik payn SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition of the prostate gland that continues or gets worse over a long period of time. Symptoms include body aches, pain in the lower back and genital area, a burning feeling during urination, and problems with emptying the bladder all the way. Also called CP/CPPS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726499" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chronic prostatitis/chronic pelvic pain syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatitis crónica/síndrome de dolor pélvico crónico&quot;" language="es" id="_4"/>
+  <SpanishTermName>prostatitis crónica o síndrome de dolor pélvico crónico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección de la próstata que continúa o empeora durante un período prolongado. Los síntomas incluyen dolores corporales, dolor en la parte inferior de la espalda y el área genital, sensación de ardor al orinar y problemas para vaciar la vejiga por completo. También se llama PC o SDPC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-08-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/prostate/understanding-prostate-changes" UseWith="en">Understanding Prostate Changes and Conditions</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata" UseWith="es">Significado de los cambios en la próstata: Guía de salud para los hombres</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

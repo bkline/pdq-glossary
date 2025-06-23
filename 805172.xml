@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805172"><TermName>high-grade DCIS</TermName><TermPronunciation>(hy-grayd …)</TermPronunciation><TermDefinition><DefinitionText>A condition in which cells that look very different from normal cells under a microscope are found in the lining of a breast duct. There may also be areas of dead cells in the abnormal tissue. The abnormal cells have not spread outside the duct to other tissues in the breast. High-grade DCIS tends to grow more quickly than low-grade or intermediate-grade DCIS and is more likely to come back or become invasive breast cancer and spread to other tissues.  Also called grade III DCIS, grade III ductal carcinoma in situ, and high-grade ductal carcinoma in situ.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808431" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;high-grade DCIS&quot;" language="en" id="_3"/><SpanishTermName>CDIS de grado alto</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un conducto de la mama. Estas células son muy diferentes a las células normales cuando se observan al microscopio.  A veces, también se observan áreas de células muertas dentro del tejido anormal. Las células anormales no se han diseminado a otros tejidos de la mama  fuera del conducto. El CDIS de grado alto suele crecer más rápido que el CDIS de grado bajo o de grado intermedio. Además, es más probable que vuelva, o se convierta en un cáncer de mama invasivo  y se disemine a otros tejidos. También se llama carcinoma ductal in situ de grado alto, carcinoma ductal in situ de grado III y CDIS de grado III.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-10-12</DateFirstPublished><DateLastModified>2022-05-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805172">
+  <TermName>high-grade DCIS</TermName>
+  <TermPronunciation>(hy-grayd …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which cells that look very different from normal cells under a microscope are found in the lining of a breast duct. There may also be areas of dead cells in the abnormal tissue. The abnormal cells have not spread outside the duct to other tissues in the breast. High-grade DCIS tends to grow more quickly than low-grade or intermediate-grade DCIS and is more likely to come back or become invasive breast cancer and spread to other tissues.  Also called grade III DCIS, grade III ductal carcinoma in situ, and high-grade ductal carcinoma in situ.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808431" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;high-grade DCIS&quot;" language="en" id="_3"/>
+  <SpanishTermName>CDIS de grado alto</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un conducto de la mama. Estas células son muy diferentes a las células normales cuando se observan al microscopio.  A veces, también se observan áreas de células muertas dentro del tejido anormal. Las células anormales no se han diseminado a otros tejidos de la mama  fuera del conducto. El CDIS de grado alto suele crecer más rápido que el CDIS de grado bajo o de grado intermedio. Además, es más probable que vuelva, o se convierta en un cáncer de mama invasivo  y se disemine a otros tejidos. También se llama carcinoma ductal in situ de grado alto, carcinoma ductal in situ de grado III y CDIS de grado III.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-10-12</DateFirstPublished>
+  <DateLastModified>2022-05-04</DateLastModified>
+</GlossaryTerm>

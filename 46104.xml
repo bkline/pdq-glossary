@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046104"><TermName>stage II hypopharyngeal cancer</TermName><TermPronunciation>(... HY-poh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is (1) found in more than one area of the hypopharynx or in a nearby area; or (2)  larger than 2 centimeters but not larger than 4 centimeters and has not spread to the larynx (voice box).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707681" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II hypopharyngeal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707680" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de hipofaringe en estadio II&quot;" language="es" id="_4"/><SpanishTermName>cáncer de hipofaringe en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio II, se presenta una de las siguientes situaciones: 1) El tumor se encuentra en más de un área de la hipofaringe o en un área cercana a esta. 2) El tumor mide más de 2 cm, pero no más de 4 cm, y no se diseminó a la laringe.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-09-30</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258014" url="/types/head-and-neck/patient/adult/hypopharyngeal-treatment-pdq">Hypopharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256820" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq">Tratamiento del cáncer de hipofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046104">
+  <TermName>stage II hypopharyngeal cancer</TermName>
+  <TermPronunciation>(... HY-poh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is (1) found in more than one area of the hypopharynx or in a nearby area; or (2)  larger than 2 centimeters but not larger than 4 centimeters and has not spread to the larynx (voice box).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707681" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II hypopharyngeal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707680" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de hipofaringe en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de hipofaringe en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio II, se presenta una de las siguientes situaciones: 1) El tumor se encuentra en más de un área de la hipofaringe o en un área cercana a esta. 2) El tumor mide más de 2 cm, pero no más de 4 cm, y no se diseminó a la laringe.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-09-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258014" url="/types/head-and-neck/patient/adult/hypopharyngeal-treatment-pdq">Hypopharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256820" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq">Tratamiento del cáncer de hipofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

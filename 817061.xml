@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817061"><TermName>biological endpoint</TermName><TermPronunciation>(BY-oh-LAH-jih-kul END-poynt)</TermPronunciation><TermDefinition><DefinitionText>In clinical trials, a physiological feature thought to be affected by the treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biological endpoint&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817454" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;criterio de valoración biológico&quot;" language="es" id="_4"/><SpanishTermName>criterio de valoración biológico</SpanishTermName><SpanishTermDefinition><DefinitionText>En el entorno de los ensayos clínicos, característica fisiológica que se considera que afecta el tratamiento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-11-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817061">
+  <TermName>biological endpoint</TermName>
+  <TermPronunciation>(BY-oh-LAH-jih-kul END-poynt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In clinical trials, a physiological feature thought to be affected by the treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biological endpoint&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817454" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;criterio de valoración biológico&quot;" language="es" id="_4"/>
+  <SpanishTermName>criterio de valoración biológico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el entorno de los ensayos clínicos, característica fisiológica que se considera que afecta el tratamiento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-11-13</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000559141"><TermName>CC-4047</TermName><TermDefinition><DefinitionText>A drug that is similar to thalidomide and is used alone or with other drugs to treat adults with certain types of multiple myeloma or Kaposi sarcoma.  It is also being studied in the treatment of other types of cancer. CC-4047 may help the immune system kill cancer cells. It may also prevent the growth of new blood vessels that tumors need to grow. CC-4047 is a type of immunomodulating agent and a type of antiangiogenesis agent. Also called pomalidomide and Pomalyst.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CC-4047</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento similar a la talidomida, que se utiliza solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de mieloma múltiple o sarcoma de Kaposi. También está en estudio para el tratamiento de otros  tipos de cáncer. Es posible que CC-4047 ayude al sistema inmunitario a destruir células cancerosas. Asimismo, tal vez impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. CC-4047 es un tipo de inmunomodulador y de antiangiogénico. También se llama pomalidomida y Pomalyst.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-03-07</DateFirstPublished><DateLastModified>2021-06-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000746335" url="/about-cancer/treatment/drugs/pomalidomide">Pomalidomide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000559141">
+  <TermName>CC-4047</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug that is similar to thalidomide and is used alone or with other drugs to treat adults with certain types of multiple myeloma or Kaposi sarcoma.  It is also being studied in the treatment of other types of cancer. CC-4047 may help the immune system kill cancer cells. It may also prevent the growth of new blood vessels that tumors need to grow. CC-4047 is a type of immunomodulating agent and a type of antiangiogenesis agent. Also called pomalidomide and Pomalyst.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CC-4047</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento similar a la talidomida, que se utiliza solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de mieloma múltiple o sarcoma de Kaposi. También está en estudio para el tratamiento de otros  tipos de cáncer. Es posible que CC-4047 ayude al sistema inmunitario a destruir células cancerosas. Asimismo, tal vez impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. CC-4047 es un tipo de inmunomodulador y de antiangiogénico. También se llama pomalidomida y Pomalyst.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-03-07</DateFirstPublished>
+  <DateLastModified>2021-06-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000746335" url="/about-cancer/treatment/drugs/pomalidomide">Pomalidomide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

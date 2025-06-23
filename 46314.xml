@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000046314"><TermName>lobectomy</TermName><TermPronunciation>(loh-BEK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery to remove a whole lobe (section) of an organ (such as the lungs, liver, brain, or thyroid gland).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708028" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lobectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708027" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lobectomía&quot;" language="es" id="_4"/><MediaLink ref="CDR0000466538" type="image/jpeg" alt="Lobectomy; drawing shows lobes of both lungs, trachea, bronchi, bronchioles, and lymph nodes. Cancer is shown in one lobe. The removed lobe is shown next to the lung from which it was removed." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Lobectomy. A lobe of the lung is removed.</Caption></MediaLink><MediaLink ref="CDR0000466539" type="image/jpeg" alt="Lobectomía. En el dibujo se observan los pulmones izquierdo y derecho, la tráquea, los bronquios, los bronquiolos y los ganglios linfáticos. En el lóbulo superior del pulmón derecho se señala con una línea punteada el área con cáncer que se extirpará." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Lobectomía. Se extirpa un lóbulo (porción o área) del pulmón.</Caption></MediaLink><SpanishTermName>lobectomía</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extraer un lóbulo entero (sección) de un órgano (por ejemplo, los pulmones, el hígado, el cerebro, la glándula tiroidea).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2006-10-03</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046314">
+  <TermName>lobectomy</TermName>
+  <TermPronunciation>(loh-BEK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to remove a whole lobe (section) of an organ (such as the lungs, liver, brain, or thyroid gland).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708028" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lobectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708027" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lobectomía&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000466538" type="image/jpeg" alt="Lobectomy; drawing shows lobes of both lungs, trachea, bronchi, bronchioles, and lymph nodes. Cancer is shown in one lobe. The removed lobe is shown next to the lung from which it was removed." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Lobectomy. A lobe of the lung is removed.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000466539" type="image/jpeg" alt="Lobectomía. En el dibujo se observan los pulmones izquierdo y derecho, la tráquea, los bronquios, los bronquiolos y los ganglios linfáticos. En el lóbulo superior del pulmón derecho se señala con una línea punteada el área con cáncer que se extirpará." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Lobectomía. Se extirpa un lóbulo (porción o área) del pulmón.</Caption>
+  </MediaLink>
+  <SpanishTermName>lobectomía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extraer un lóbulo entero (sección) de un órgano (por ejemplo, los pulmones, el hígado, el cerebro, la glándula tiroidea).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2006-10-03</DateLastModified>
+</GlossaryTerm>

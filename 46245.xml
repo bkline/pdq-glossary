@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046245"><TermName>pediatric</TermName><TermPronunciation>(pee-dee-A-trik)</TermPronunciation><TermDefinition><DefinitionText>Having to do with children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707902" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707901" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediátrico&quot;" language="es" id="_4"/><SpanishTermName>pediátrico</SpanishTermName><SpanishTermDefinition><DefinitionText>Relacionado con la población pediátrica (niños y adolescentes).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-03-29</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/childhood-cancers">Childhood Cancers</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/infantil">Cánceres infantiles</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046245">
+  <TermName>pediatric</TermName>
+  <TermPronunciation>(pee-dee-A-trik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Having to do with children.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707902" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707901" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediátrico&quot;" language="es" id="_4"/>
+  <SpanishTermName>pediátrico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Relacionado con la población pediátrica (niños y adolescentes).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-03-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/childhood-cancers">Childhood Cancers</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/infantil">Cánceres infantiles</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

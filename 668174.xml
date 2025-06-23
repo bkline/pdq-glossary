@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000668174"><TermName>stage 0 Merkel cell carcinoma in situ</TermName><TermPronunciation>(stayj … MER-kul sel KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>Abnormal Merkel cells are found in the top layer of the skin. These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725785" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 Merkel cell carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725786" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células de Merkel in situ en estadio 0&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de células de Merkel in situ en estadio 0</SpanishTermName><SpanishTermDefinition><DefinitionText>Se encuentran células de Merkel anormales en la capa superficial de la piel. Es posible que estas células anormales se  vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-03-15</DateFirstPublished><DateLastModified>2018-01-09</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000441548" url="/types/skin/patient/merkel-cell-treatment-pdq">Merkel Cell Carcinoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000470863" url="/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq">Tratamiento del carcinoma de células de Merkel</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000668174">
+  <TermName>stage 0 Merkel cell carcinoma in situ</TermName>
+  <TermPronunciation>(stayj … MER-kul sel KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal Merkel cells are found in the top layer of the skin. These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725785" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 Merkel cell carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725786" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células de Merkel in situ en estadio 0&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de células de Merkel in situ en estadio 0</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se encuentran células de Merkel anormales en la capa superficial de la piel. Es posible que estas células anormales se  vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-03-15</DateFirstPublished>
+  <DateLastModified>2018-01-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000441548" url="/types/skin/patient/merkel-cell-treatment-pdq">Merkel Cell Carcinoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000470863" url="/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq">Tratamiento del carcinoma de células de Merkel</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

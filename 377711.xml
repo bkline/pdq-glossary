@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000377711"><TermName>metronomic chemotherapy</TermName><TermPronunciation>(MEH-truh-NAH-mik KEE-moh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment in which low doses of anticancer drugs are given on a continuous or frequent, regular schedule (such as daily or weekly), usually over a long time. Metronomic chemotherapy causes less severe side effects than standard chemotherapy. Giving low doses of chemotherapy may stop the growth of new blood vessels that tumors need to grow.  Also called low-dose chemotherapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711628" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metronomic chemotherapy&quot;" language="en" id="_5"/><MediaLink ref="CDR0000711629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia metronómica&quot;" language="es" id="_6"/><SpanishTermName>quimioterapia metronómica</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento continuo, frecuente o habitual (por día o mes) con dosis bajas de medicamentos contra el cáncer que se suelen administrar durante mucho tiempo. La quimioterapia metronómica produce efectos secundarios menos graves que la quimioterapia estándar. Es posible que la administración de dosis bajas de quimioterapia impida que se formen vasos sanguíneos nuevos que los tumores necesitan para crecer. También se llama quimioterapia de dosis baja.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-06-23</DateFirstPublished><DateLastModified>2018-04-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000377711">
+  <TermName>metronomic chemotherapy</TermName>
+  <TermPronunciation>(MEH-truh-NAH-mik KEE-moh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment in which low doses of anticancer drugs are given on a continuous or frequent, regular schedule (such as daily or weekly), usually over a long time. Metronomic chemotherapy causes less severe side effects than standard chemotherapy. Giving low doses of chemotherapy may stop the growth of new blood vessels that tumors need to grow.  Also called low-dose chemotherapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711628" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;metronomic chemotherapy&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000711629" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia metronómica&quot;" language="es" id="_6"/>
+  <SpanishTermName>quimioterapia metronómica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento continuo, frecuente o habitual (por día o mes) con dosis bajas de medicamentos contra el cáncer que se suelen administrar durante mucho tiempo. La quimioterapia metronómica produce efectos secundarios menos graves que la quimioterapia estándar. Es posible que la administración de dosis bajas de quimioterapia impida que se formen vasos sanguíneos nuevos que los tumores necesitan para crecer. También se llama quimioterapia de dosis baja.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-06-23</DateFirstPublished>
+  <DateLastModified>2018-04-17</DateLastModified>
+</GlossaryTerm>

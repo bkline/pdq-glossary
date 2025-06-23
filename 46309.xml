@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046309"><TermName>localized cancer</TermName><TermPronunciation>(LOH-kuh-lized KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Describes cancer that is found only in the tissue or organ where it first began and that has not spread to nearby lymph nodes or to other parts of the body. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708018" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;localized cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer localizado&quot;" language="es" id="_4"/><SpanishTermName>cáncer localizado</SpanishTermName><SpanishTermDefinition><DefinitionText>Describe el cáncer que se encuentra solo en el tejido o el órgano donde se originó y que no se ha diseminado a los ganglios linfáticos cercanos o a otras partes del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-12-28</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046309">
+  <TermName>localized cancer</TermName>
+  <TermPronunciation>(LOH-kuh-lized KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes cancer that is found only in the tissue or organ where it first began and that has not spread to nearby lymph nodes or to other parts of the body. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708018" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;localized cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708017" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer localizado&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer localizado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Describe el cáncer que se encuentra solo en el tejido o el órgano donde se originó y que no se ha diseminado a los ganglios linfáticos cercanos o a otras partes del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-12-28</DateLastModified>
+</GlossaryTerm>

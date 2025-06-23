@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000791309"><TermName>mixed germ cell tumor</TermName><TermPronunciation>(mikst jerm sel TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that is made up of at least two different types of germ cell tumors (tumors that begin in cells that form sperm or eggs). These may include choriocarcinoma, embryonal carcinoma, yolk sac tumor, teratoma, and seminoma. Mixed germ cell tumors occur most often in the ovary or testicle, but they may also occur in the chest, abdomen, or brain.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mixed germ cell tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor mixto de células germinativas&quot;" language="es" id="_4"/><SpanishTermName>tumor mixto de células germinativas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer poco común formado por dos o más tipos diferentes de tumores de células germinativas (tumores que empiezan en las células que producen los espermatozoides o los óvulos). Estos tumores son el coriocarcinoma, el carcinoma embrionario, el tumor de saco vitelino, el teratoma y el seminoma. Los tumores mixtos de células germinativas se presentan con más frecuencia en los ovarios o los testículos, pero también surgen en el tórax, el abdomen o el encéfalo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791309">
+  <TermName>mixed germ cell tumor</TermName>
+  <TermPronunciation>(mikst jerm sel TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that is made up of at least two different types of germ cell tumors (tumors that begin in cells that form sperm or eggs). These may include choriocarcinoma, embryonal carcinoma, yolk sac tumor, teratoma, and seminoma. Mixed germ cell tumors occur most often in the ovary or testicle, but they may also occur in the chest, abdomen, or brain.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mixed germ cell tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor mixto de células germinativas&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor mixto de células germinativas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer poco común formado por dos o más tipos diferentes de tumores de células germinativas (tumores que empiezan en las células que producen los espermatozoides o los óvulos). Estos tumores son el coriocarcinoma, el carcinoma embrionario, el tumor de saco vitelino, el teratoma y el seminoma. Los tumores mixtos de células germinativas se presentan con más frecuencia en los ovarios o los testículos, pero también surgen en el tórax, el abdomen o el encéfalo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-09</DateFirstPublished>
+</GlossaryTerm>

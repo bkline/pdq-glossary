@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000809741"><TermName>anti-seizure medication</TermName><TermPronunciation>(AN-tee-SEE-zher MEH-dih-KAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A type of drug that is used to prevent or treat seizures or convulsions by controlling abnormal electrical activity in the brain. Anti-seizure medications are used to treat epilepsy and other seizure disorders. They are also used to treat medical conditions, such as bipolar disorder, nerve pain, migraine headaches, fibromyalgia, and restless leg syndrome. There are many different types of anti-seizure medications. Also called anticonvulsant and antiepileptic.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anti-seizure medication&quot;" language="en" id="_5"/><MediaLink ref="CDR0000811515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medicamento anticonvulsivo&quot;" language="es" id="_6"/><SpanishTermName>medicamento anticonvulsivo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento que se usa para prevenir o tratar las convulsiones, las crisis convulsivas o las crisis epilépticas mediante el control de la actividad eléctrica anómala en el encéfalo. Los medicamentos anticonvulsivos se utilizan para el tratamiento de la epilepsia y otros trastornos convulsivos. También se usan para tratar afecciones, como el trastorno bipolar, el dolor en los nervios, las migrañas, la fibromialgia o el síndrome de las piernas inquietas. Hay muchos tipos diferentes de medicamentos anticonvulsivos. También se llama anticonvulsivo, antiepiléptico, fármaco anticonvulsivo y medicamento anticonvulsionante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-29</DateFirstPublished><DateLastModified>2022-08-26</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809741">
+  <TermName>anti-seizure medication</TermName>
+  <TermPronunciation>(AN-tee-SEE-zher MEH-dih-KAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of drug that is used to prevent or treat seizures or convulsions by controlling abnormal electrical activity in the brain. Anti-seizure medications are used to treat epilepsy and other seizure disorders. They are also used to treat medical conditions, such as bipolar disorder, nerve pain, migraine headaches, fibromyalgia, and restless leg syndrome. There are many different types of anti-seizure medications. Also called anticonvulsant and antiepileptic.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anti-seizure medication&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000811515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medicamento anticonvulsivo&quot;" language="es" id="_6"/>
+  <SpanishTermName>medicamento anticonvulsivo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento que se usa para prevenir o tratar las convulsiones, las crisis convulsivas o las crisis epilépticas mediante el control de la actividad eléctrica anómala en el encéfalo. Los medicamentos anticonvulsivos se utilizan para el tratamiento de la epilepsia y otros trastornos convulsivos. También se usan para tratar afecciones, como el trastorno bipolar, el dolor en los nervios, las migrañas, la fibromialgia o el síndrome de las piernas inquietas. Hay muchos tipos diferentes de medicamentos anticonvulsivos. También se llama anticonvulsivo, antiepiléptico, fármaco anticonvulsivo y medicamento anticonvulsionante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-29</DateFirstPublished>
+  <DateLastModified>2022-08-26</DateLastModified>
+</GlossaryTerm>

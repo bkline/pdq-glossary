@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000626360"><TermName>yttrium Y 90-DOTA anti-CEA monoclonal antibody M5A</TermName><TermPronunciation>(IH-tree-um … MAH-noh-KLOH-nul AN-tee-BAH-dee …)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of some types of cancer. M5A is a monoclonal antibody that binds to a protein called CEA, which is found on some cancer cells. It is linked to a radioactive substance called yttrium Y 90, which may help kill cancer cells. Yttrium Y 90-DOTA anti-CEA monoclonal antibody M5A is a type of radioimmunoconjugate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000723180" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yttrium Y 90 DOTA anti-CEA monoclonal antibody M5A&quot;" language="en" id="_3"/><MediaLink ref="CDR0000723181" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;itrio Y 90-DOTA-anticuerpo monoclonal M5A anti-CEA&quot;" language="es" id="_4"/><SpanishTermName>itrio Y 90-DOTA-anticuerpo monoclonal M5A anti-CEA</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer. El M5A es un anticuerpo monoclonal que se une a una proteína que se llama CEA la cual se encuentra en la superficie de algunas células cancerosas. La sustancia se enlaza con un radioisótopo, el itrio Y90 y es posible que ayude a destruir las células cancerosas. El itrio Y 90-DOTA-anticuerpo monoclonal M5A anti-CEA es un tipo de radioinmunoconjugado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-11-25</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000626360">
+  <TermName>yttrium Y 90-DOTA anti-CEA monoclonal antibody M5A</TermName>
+  <TermPronunciation>(IH-tree-um … MAH-noh-KLOH-nul AN-tee-BAH-dee …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of some types of cancer. M5A is a monoclonal antibody that binds to a protein called CEA, which is found on some cancer cells. It is linked to a radioactive substance called yttrium Y 90, which may help kill cancer cells. Yttrium Y 90-DOTA anti-CEA monoclonal antibody M5A is a type of radioimmunoconjugate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000723180" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yttrium Y 90 DOTA anti-CEA monoclonal antibody M5A&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000723181" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;itrio Y 90-DOTA-anticuerpo monoclonal M5A anti-CEA&quot;" language="es" id="_4"/>
+  <SpanishTermName>itrio Y 90-DOTA-anticuerpo monoclonal M5A anti-CEA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer. El M5A es un anticuerpo monoclonal que se une a una proteína que se llama CEA la cual se encuentra en la superficie de algunas células cancerosas. La sustancia se enlaza con un radioisótopo, el itrio Y90 y es posible que ayude a destruir las células cancerosas. El itrio Y 90-DOTA-anticuerpo monoclonal M5A anti-CEA es un tipo de radioinmunoconjugado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-11-25</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

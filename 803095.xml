@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000803095"><TermName>KRT5 gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein that is a type of keratin involved in forming the structure of certain cells, especially those that make up the skin, hair, and nails, and in the development of skin color. Mutations (changes) in the <GeneName>KRT5</GeneName> gene have been found in an inherited condition called epidermolysis bullosa simplex, which causes the skin to tear and blister easily. People with this condition have an increased risk of developing skin cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805227" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;KRT5 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen KRT5&quot;" language="es" id="_4"/><SpanishTermName>gen KRT5</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que es un tipo de queratina. Esta proteína forma parte de la estructura de ciertas células, en especial las células de la piel, el pelo y las uñas. Además, esta proteína afecta el color de la piel. Se han encontrado mutaciones (cambios) del gen <GeneName>KRT5</GeneName> en una afección hereditaria llamada epidermólisis ampollosa simple, por la que la piel se desgarra y se forman ampollas con facilidad. Las personas con esta afección tienen un aumento del riesgo de presentar cáncer de piel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/krt5">KRT5 gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803095">
+  <TermName>KRT5 gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein that is a type of keratin involved in forming the structure of certain cells, especially those that make up the skin, hair, and nails, and in the development of skin color. Mutations (changes) in the 
+      <GeneName>KRT5</GeneName>
+       gene have been found in an inherited condition called epidermolysis bullosa simplex, which causes the skin to tear and blister easily. People with this condition have an increased risk of developing skin cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805227" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;KRT5 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen KRT5&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen KRT5</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que es un tipo de queratina. Esta proteína forma parte de la estructura de ciertas células, en especial las células de la piel, el pelo y las uñas. Además, esta proteína afecta el color de la piel. Se han encontrado mutaciones (cambios) del gen 
+      <GeneName>KRT5</GeneName>
+       en una afección hereditaria llamada epidermólisis ampollosa simple, por la que la piel se desgarra y se forman ampollas con facilidad. Las personas con esta afección tienen un aumento del riesgo de presentar cáncer de piel.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/krt5">KRT5 gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

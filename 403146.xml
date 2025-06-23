@@ -1,9 +1,30 @@
-<GlossaryTerm id="CDR0000403146"><TermName>SWS</TermName><TermDefinition><DefinitionText>A rare,
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000403146">
+  <TermName>SWS</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare,
           congenital disorder that affects the brain, skin, and eyes.
           Abnormal blood vessel growth occurs in the trigeminal nerve
           in the face and the meninges (covering) of the brain. This
           abnormal growth causes red or purple skin discoloration
           (sometimes called a port wine stain), usually on one side
           of the face, and can also cause seizures, learning
-          disabilities, and glaucoma. Also called Sturge-Weber syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>SSW</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno congénito raro que afecta el encéfalo, la piel y los ojos. Se presenta crecimiento de vasos sanguíneos anormales en el nervio trigémino de la cara y en las meninges (cubiertas) del encéfalo. Este crecimiento anormal produce una coloración rojiza o violácea en la piel (a veces se llama mancha en vino de Oporto), por lo general en un lado de la cara. Además, es posible que cause convulsiones, problemas de aprendizaje y glaucoma. También se llama síndrome de Sturge-Weber.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><DateLastModified>2007-02-20</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7706/sturge-weber-syndrome">Sturge-Weber
-syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/sturge-weber-syndrome/">Sturge-Weber syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001426.htm">Sturge-Weber syndrome (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+          disabilities, and glaucoma. Also called Sturge-Weber syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>SSW</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno congénito raro que afecta el encéfalo, la piel y los ojos. Se presenta crecimiento de vasos sanguíneos anormales en el nervio trigémino de la cara y en las meninges (cubiertas) del encéfalo. Este crecimiento anormal produce una coloración rojiza o violácea en la piel (a veces se llama mancha en vino de Oporto), por lo general en un lado de la cara. Además, es posible que cause convulsiones, problemas de aprendizaje y glaucoma. También se llama síndrome de Sturge-Weber.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <DateLastModified>2007-02-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7706/sturge-weber-syndrome">Sturge-Weber
+syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/sturge-weber-syndrome/">Sturge-Weber syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001426.htm">Sturge-Weber syndrome (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

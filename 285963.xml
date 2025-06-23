@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000285963"><TermName>carcinosis</TermName><TermPronunciation>(KAR-sih-noh-sis)</TermPronunciation><TermDefinition><DefinitionText>A serious condition in which cancer cells from an original (primary) tumor spread to form many tumors throughout the body or to a large area of the body. In most cases, carcinosis is a sign that the cancer is getting worse and cannot be cured. The most common types of carcinosis are leptomeningeal carcinomatosis (affects the thin layers of tissue that cover and protect the brain and spinal cord), lymphangitic carcinomatosis (usually affects the lungs), and peritoneal carcinomatosis (affects the tissue that lines the abdominal wall and covers most of the organs in the abdomen).  Also called carcinomatosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731561" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinosis&quot;" language="es" id="_4"/><SpanishTermName>carcinosis</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección grave por la que las células cancerosas de un tumor original (primario) se diseminan y forman muchos tumores por todo el cuerpo o en gran parte del cuerpo. En la mayoría de los casos la carcinosis es un signo de que el cáncer está empeorando y no se puede curar. Los tipos más comunes son la carcinomatosis leptomeníngea (afecta las capas delgadas de tejido que cubren y protegen el encéfalo y la médula espinal), la carcinomatosis linfangítica (suele afectar los pulmones), y la carcinomatosis peritoneal (afecta el tejido que reviste la pared abdominal y cubre la mayoría de los órganos del abdomen). También se llama carcinomatosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-02-21</DateFirstPublished><DateLastModified>2022-05-05</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000285963">
+  <TermName>carcinosis</TermName>
+  <TermPronunciation>(KAR-sih-noh-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A serious condition in which cancer cells from an original (primary) tumor spread to form many tumors throughout the body or to a large area of the body. In most cases, carcinosis is a sign that the cancer is getting worse and cannot be cured. The most common types of carcinosis are leptomeningeal carcinomatosis (affects the thin layers of tissue that cover and protect the brain and spinal cord), lymphangitic carcinomatosis (usually affects the lungs), and peritoneal carcinomatosis (affects the tissue that lines the abdominal wall and covers most of the organs in the abdomen).  Also called carcinomatosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731561" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinosis&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinosis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección grave por la que las células cancerosas de un tumor original (primario) se diseminan y forman muchos tumores por todo el cuerpo o en gran parte del cuerpo. En la mayoría de los casos la carcinosis es un signo de que el cáncer está empeorando y no se puede curar. Los tipos más comunes son la carcinomatosis leptomeníngea (afecta las capas delgadas de tejido que cubren y protegen el encéfalo y la médula espinal), la carcinomatosis linfangítica (suele afectar los pulmones), y la carcinomatosis peritoneal (afecta el tejido que reviste la pared abdominal y cubre la mayoría de los órganos del abdomen). También se llama carcinomatosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-02-21</DateFirstPublished>
+  <DateLastModified>2022-05-05</DateLastModified>
+</GlossaryTerm>

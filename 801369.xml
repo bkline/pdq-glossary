@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000801369"><TermName>Jelmyto</TermName><TermPronunciation>(jel-MY-toh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient mitomycin, which comes from the bacterium Streptomyces, and is used to treat adults with a certain type of urothelial cancer.  It is given as a solution through a catheter that is placed into the ureter or kidney. Jelmyto damages the cell’s DNA and may kill cancer cells.  It is a type of antineoplastic antibiotic and a type of alkylating agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802698" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jelmyto&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802699" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jelmyto&quot;" language="es" id="_4"/><SpanishTermName>Jelmyto</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo mitomicina, que se obtiene de las bacterias del género <ScientificName>Streptomyces</ScientificName> y se usa para el tratamiento de adultos con cierto tipo de cáncer urotelial. Se administra como solución mediante un catéter que se coloca en el uréter o el riñón. Jelmyto daña el ADN de la célula y es posible que destruya células cancerosas. Es un tipo de antibiótico antineoplásico y de alquilante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-16</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000712481" url="/about-cancer/treatment/drugs/mitomycin">Mitomycin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801369">
+  <TermName>Jelmyto</TermName>
+  <TermPronunciation>(jel-MY-toh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient mitomycin, which comes from the bacterium Streptomyces, and is used to treat adults with a certain type of urothelial cancer.  It is given as a solution through a catheter that is placed into the ureter or kidney. Jelmyto damages the cell’s DNA and may kill cancer cells.  It is a type of antineoplastic antibiotic and a type of alkylating agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802698" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jelmyto&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802699" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Jelmyto&quot;" language="es" id="_4"/>
+  <SpanishTermName>Jelmyto</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que contiene el principio activo mitomicina, que se obtiene de las bacterias del género 
+      <ScientificName>Streptomyces</ScientificName>
+       y se usa para el tratamiento de adultos con cierto tipo de cáncer urotelial. Se administra como solución mediante un catéter que se coloca en el uréter o el riñón. Jelmyto daña el ADN de la célula y es posible que destruya células cancerosas. Es un tipo de antibiótico antineoplásico y de alquilante.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-16</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000712481" url="/about-cancer/treatment/drugs/mitomycin">Mitomycin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

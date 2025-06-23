@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000389465"><TermName>oral and maxillofacial surgeon</TermName><TermPronunciation>(OR-ul ... MAK-sih-loh-FAY-shul SER-jun)</TermPronunciation><TermDefinition><DefinitionText>A dentist who has special training in surgery of the mouth, face, and jaw.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oral and maxillofacial surgeon&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano oral y maxilofacial&quot;" language="es" id="_4"/><SpanishTermName>cirujano oral y maxilofacial</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional en odontología que se especializa en la cirugía de la boca, la cara y la mandíbula. También se llama especialista en cirugía oral y maxilofacial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-09-03</DateFirstPublished><DateLastModified>2016-06-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000389465">
+  <TermName>oral and maxillofacial surgeon</TermName>
+  <TermPronunciation>(OR-ul ... MAK-sih-loh-FAY-shul SER-jun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A dentist who has special training in surgery of the mouth, face, and jaw.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713425" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oral and maxillofacial surgeon&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713424" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano oral y maxilofacial&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirujano oral y maxilofacial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional en odontología que se especializa en la cirugía de la boca, la cara y la mandíbula. También se llama especialista en cirugía oral y maxilofacial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-09-03</DateFirstPublished>
+  <DateLastModified>2016-06-17</DateLastModified>
+</GlossaryTerm>

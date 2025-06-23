@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798303"><TermName>VAdriaC regimen</TermName><TermPronunciation>(VAY-dree-ak REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat Ewing sarcoma and other sarcomas, such as mesenchymal chondrosarcoma. It includes the drugs vincristine sulfate, doxorubicin hydrochloride (Adriamycin), and cyclophosphamide. Also called VAdriaC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798875" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VAdriaC regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798874" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen VAdriaC&quot;" language="es" id="_4"/><SpanishTermName>régimen VAdriaC</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del sarcoma de Ewing y otros sarcomas, como el condrosarcoma mesenquimatoso. Incluye los medicamentos sulfato de vincristina, clorhidrato de doxorrubicina (Adriamycin) y ciclofosfamida. También se llama VAdriaC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798303">
+  <TermName>VAdriaC regimen</TermName>
+  <TermPronunciation>(VAY-dree-ak REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat Ewing sarcoma and other sarcomas, such as mesenchymal chondrosarcoma. It includes the drugs vincristine sulfate, doxorubicin hydrochloride (Adriamycin), and cyclophosphamide. Also called VAdriaC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798875" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VAdriaC regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798874" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen VAdriaC&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen VAdriaC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del sarcoma de Ewing y otros sarcomas, como el condrosarcoma mesenquimatoso. Incluye los medicamentos sulfato de vincristina, clorhidrato de doxorrubicina (Adriamycin) y ciclofosfamida. También se llama VAdriaC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-23</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000802102"><TermName>ECM</TermName><TermDefinition><DefinitionText>A large network of proteins and other molecules that surround, support, and give structure to cells and tissues in the body. The ECM helps cells attach to, and communicate with, nearby cells, and plays an important role in cell growth, cell movement, and other cell functions. The ECM is also involved in repairing damaged tissue. Abnormal changes in the ECM may lead to the development of certain diseases, such as cancer. The ECM of cancer cells can affect how they grow and spread. Also called extracellular matrix.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>MEC</SpanishTermName><SpanishTermDefinition><DefinitionText>Red grande de proteínas y otras moléculas que rodean, sostienen y dan estructura a las células y tejidos del cuerpo. La MEC ayuda a que las células se unan y se comuniquen con las células cercanas, y desempeña una función importante en la multiplicación celular, el movimiento celular y otras funciones celulares. También participa en la reparación del tejido dañado. Los cambios anormales en la MEC a veces causan ciertas enfermedades, como el cáncer. La MEC de las células cancerosas afecta la forma en que estas se multiplican y se diseminan. También se llama matriz extracelular.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-10-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802102">
+  <TermName>ECM</TermName>
+  <TermDefinition>
+    <DefinitionText>A large network of proteins and other molecules that surround, support, and give structure to cells and tissues in the body. The ECM helps cells attach to, and communicate with, nearby cells, and plays an important role in cell growth, cell movement, and other cell functions. The ECM is also involved in repairing damaged tissue. Abnormal changes in the ECM may lead to the development of certain diseases, such as cancer. The ECM of cancer cells can affect how they grow and spread. Also called extracellular matrix.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>MEC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Red grande de proteínas y otras moléculas que rodean, sostienen y dan estructura a las células y tejidos del cuerpo. La MEC ayuda a que las células se unan y se comuniquen con las células cercanas, y desempeña una función importante en la multiplicación celular, el movimiento celular y otras funciones celulares. También participa en la reparación del tejido dañado. Los cambios anormales en la MEC a veces causan ciertas enfermedades, como el cáncer. La MEC de las células cancerosas afecta la forma en que estas se multiplican y se diseminan. También se llama matriz extracelular.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-10-20</DateFirstPublished>
+</GlossaryTerm>

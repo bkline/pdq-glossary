@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000779750"><TermName>contraception</TermName><TermPronunciation>(KON-truh-SEP-shun)</TermPronunciation><TermDefinition><DefinitionText>The use of drugs, devices, or surgery to prevent pregnancy. There are many different types of contraception. These include barrier methods to keep sperm from fertilizing the egg, hormone methods, intrauterine devices (IUDs), and surgery to close the fallopian tubes in women or close off the two tubes that carry sperm out of the testicles in men. Also called birth control.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000781311" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;contraception&quot;" language="en" id="_3"/><MediaLink ref="CDR0000781310" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anticoncepción&quot;" language="es" id="_4"/><SpanishTermName>anticoncepción</SpanishTermName><SpanishTermDefinition><DefinitionText>Empleo de medicamentos, dispositivos o cirugía para prevenir el embarazo. Hay muchos tipos diferentes de anticoncepción. Estos incluyen métodos de barrera para evitar que los espermatozoides fecunden el óvulo, métodos hormonales, dispositivos intrauterinos (DIU) y cirugía para cerrar las trompas de Falopio de la mujer  o cirugía para cerrar los dos tubos por donde salen los espermatozoides  de los testículos en el hombre. También se llama regulación de la natalidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-04-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000779750">
+  <TermName>contraception</TermName>
+  <TermPronunciation>(KON-truh-SEP-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The use of drugs, devices, or surgery to prevent pregnancy. There are many different types of contraception. These include barrier methods to keep sperm from fertilizing the egg, hormone methods, intrauterine devices (IUDs), and surgery to close the fallopian tubes in women or close off the two tubes that carry sperm out of the testicles in men. Also called birth control.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000781311" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;contraception&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000781310" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anticoncepción&quot;" language="es" id="_4"/>
+  <SpanishTermName>anticoncepción</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Empleo de medicamentos, dispositivos o cirugía para prevenir el embarazo. Hay muchos tipos diferentes de anticoncepción. Estos incluyen métodos de barrera para evitar que los espermatozoides fecunden el óvulo, métodos hormonales, dispositivos intrauterinos (DIU) y cirugía para cerrar las trompas de Falopio de la mujer  o cirugía para cerrar los dos tubos por donde salen los espermatozoides  de los testículos en el hombre. También se llama regulación de la natalidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-04-19</DateFirstPublished>
+</GlossaryTerm>

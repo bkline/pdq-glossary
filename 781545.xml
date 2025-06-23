@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000781545"><TermName>retiform hemangioendothelioma</TermName><TermPronunciation>(REE-tih-form hee-MAN-jee-oh-EN-doh-THEE-lee-OH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare, slow-growing tumor that usually forms on or under the skin of the arms, legs, and trunk. The tumor has blood vessels that branch out like a tree. Retiform hemangioendotheliomas can spread to nearby tissue and often come back after treatment. They usually do not spread to other parts of the body. They occur in young adults and sometimes children. Retiform hemangioendotheliomas are a type of vascular tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784434" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;retiform hemangioendothelioma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemangioendotelioma retiforme&quot;" language="es" id="_4"/><SpanishTermName>hemangioendotelioma retiforme</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor de crecimiento lento muy poco frecuente que, por lo general, se forma sobre la piel o debajo de esta en los brazos, las piernas y el tronco. El tumor tiene vasos sanguíneos que forman ramas como las de un árbol. Los hemangioendoteliomas retiformes a veces se diseminan al tejido cercano y a menudo vuelven después del tratamiento. Estos tumores no se diseminan a otras partes del cuerpo, se presentan en adultos jóvenes y, en ocasiones, en niños. Los  hemangioendoteliomas retiformes son un tipo de tumor vascular.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781545">
+  <TermName>retiform hemangioendothelioma</TermName>
+  <TermPronunciation>(REE-tih-form hee-MAN-jee-oh-EN-doh-THEE-lee-OH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, slow-growing tumor that usually forms on or under the skin of the arms, legs, and trunk. The tumor has blood vessels that branch out like a tree. Retiform hemangioendotheliomas can spread to nearby tissue and often come back after treatment. They usually do not spread to other parts of the body. They occur in young adults and sometimes children. Retiform hemangioendotheliomas are a type of vascular tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784434" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;retiform hemangioendothelioma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemangioendotelioma retiforme&quot;" language="es" id="_4"/>
+  <SpanishTermName>hemangioendotelioma retiforme</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de crecimiento lento muy poco frecuente que, por lo general, se forma sobre la piel o debajo de esta en los brazos, las piernas y el tronco. El tumor tiene vasos sanguíneos que forman ramas como las de un árbol. Los hemangioendoteliomas retiformes a veces se diseminan al tejido cercano y a menudo vuelven después del tratamiento. Estos tumores no se diseminan a otras partes del cuerpo, se presentan en adultos jóvenes y, en ocasiones, en niños. Los  hemangioendoteliomas retiformes son un tipo de tumor vascular.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+</GlossaryTerm>

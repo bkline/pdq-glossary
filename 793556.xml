@@ -1,8 +1,30 @@
-<GlossaryTerm id="CDR0000793556"><TermName>Granix</TermName><TermPronunciation>(GRA-nix)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient filgrastim and is used in adults and children to treat severe neutropenia (a lower-than-normal number of white blood cells) caused by some types of chemotherapy. Granix helps the bone marrow make more white blood cells.  It is a type of colony-stimulating factor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000795211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Granix&quot;" language="en" id="_3"/><MediaLink ref="CDR0000795210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Granix&quot;" language="es" id="_4"/><SpanishTermName>Granix</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo filgrastim y se  usa en adultos y niños para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793556">
+  <TermName>Granix</TermName>
+  <TermPronunciation>(GRA-nix)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient filgrastim and is used in adults and children to treat severe neutropenia (a lower-than-normal number of white blood cells) caused by some types of chemotherapy. Granix helps the bone marrow make more white blood cells.  It is a type of colony-stimulating factor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000795211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Granix&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000795210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Granix&quot;" language="es" id="_4"/>
+  <SpanishTermName>Granix</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo filgrastim y se  usa en adultos y niños para
 el tratamiento de la neutropenia grave (afección
 por la que hay
 menos glóbulos blancos
 que lo normal)
 causada por algunos
 tipos de quimioterapia. Granix ayuda a que la médula ósea produzca más glóbulos blancos. Es un tipo de factor estimulante de
-colonias.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-06-06</DateFirstPublished><DateLastModified>2021-05-18</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000641058" url="/about-cancer/treatment/drugs/filgrastim">Filgrastim</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+colonias.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-06-06</DateFirstPublished>
+  <DateLastModified>2021-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000641058" url="/about-cancer/treatment/drugs/filgrastim">Filgrastim</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

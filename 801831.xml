@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000801831"><TermName>lurbinectedin</TermName><TermPronunciation>(LOOR-bih-NEK-teh-din)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with small cell lung cancer that has spread to other parts of the body and got worse during or after treatment with platinum chemotherapy. It is also being studied in the treatment of other types of cancer. Lurbinectedin may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called Zepzelca.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802745" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lurbinectedin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802746" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lurbinectedina&quot;" language="es" id="_4"/><SpanishTermName>lurbinectedina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células pequeñas que se diseminó a otras partes del cuerpo y que empeoró durante el tratamiento con quimioterapia a base de platinos o después. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que la lurbinectedina destruya células cancerosas porque daña su ADN e impide su multiplicación. Es un tipo de alquilante. También se llama Zepzelca.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-06-17</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000801841" url="/about-cancer/treatment/drugs/lurbinectedin">Lurbinectedin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801831">
+  <TermName>lurbinectedin</TermName>
+  <TermPronunciation>(LOOR-bih-NEK-teh-din)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with small cell lung cancer that has spread to other parts of the body and got worse during or after treatment with platinum chemotherapy. It is also being studied in the treatment of other types of cancer. Lurbinectedin may kill cancer cells by damaging their DNA and stopping them from dividing. It is a type of alkylating agent. Also called Zepzelca.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802745" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lurbinectedin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802746" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lurbinectedina&quot;" language="es" id="_4"/>
+  <SpanishTermName>lurbinectedina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células pequeñas que se diseminó a otras partes del cuerpo y que empeoró durante el tratamiento con quimioterapia a base de platinos o después. También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que la lurbinectedina destruya células cancerosas porque daña su ADN e impide su multiplicación. Es un tipo de alquilante. También se llama Zepzelca.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-06-17</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000801841" url="/about-cancer/treatment/drugs/lurbinectedin">Lurbinectedin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

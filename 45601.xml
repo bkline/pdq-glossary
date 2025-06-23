@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000045601"><TermName>ascites</TermName><TermPronunciation>(uh-SY-teez)</TermPronunciation><TermDefinition><DefinitionText>Abnormal buildup of fluid in the abdomen that may cause swelling. In late-stage cancer, tumor cells may be found in the fluid in the abdomen. Ascites also occurs in patients with liver disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705654" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ascites&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705653" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ascitis&quot;" language="es" id="_4"/><MediaLink ref="CDR0000815772" type="image/jpeg" alt="Drawing shows a cross section of the peritoneal cavity with ascites. Also shown are the peritoneum, liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Ascites is as an abnormal buildup of fluid in the abdomen that may cause swelling. It occurs when fluid builds up between the two layers of tissue called the peritoneum. The peritoneum lines the abdominal wall and covers most of the organs in the abdomen.</Caption></MediaLink><MediaLink ref="CDR0000817901" type="image/jpeg" alt="En el dibujo se observa un corte transversal de la cavidad peritoneal con ascitis. Se señalan el peritoneo, el hígado, el estómago, el páncreas, el intestino grueso, el epiplón mayor, el intestino delgado, un ovario, el útero, la vejiga y el recto." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">La ascitis es la acumulación anormal de líquido en el abdomen que en ocasiones causa distensión (hinchazón). Se presenta cuando se acumula el líquido entre dos capas de tejido que se llaman peritoneo. El peritoneo recubre la pared abdominal y cubre la mayoría de los órganos del abdomen.</Caption></MediaLink><SpanishTermName>ascitis</SpanishTermName><SpanishTermDefinition><DefinitionText>Acumulación anormal de líquido en el abdomen que en ocasiones causa distensión (hinchazón). Cuando el cáncer está muy avanzado, a veces se encuentran células tumorales en el líquido del abdomen. La ascitis también se presenta en los pacientes enfermos del hígado. También se llama ascitis peritoneal, hidroperitoneo e hidropesía abdominal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2025-03-31</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/ascites" UseWith="en">Ascites and Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/ascitis" UseWith="es">Ascitis por cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045601">
+  <TermName>ascites</TermName>
+  <TermPronunciation>(uh-SY-teez)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal buildup of fluid in the abdomen that may cause swelling. In late-stage cancer, tumor cells may be found in the fluid in the abdomen. Ascites also occurs in patients with liver disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705654" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ascites&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705653" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ascitis&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000815772" type="image/jpeg" alt="Drawing shows a cross section of the peritoneal cavity with ascites. Also shown are the peritoneum, liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Ascites is as an abnormal buildup of fluid in the abdomen that may cause swelling. It occurs when fluid builds up between the two layers of tissue called the peritoneum. The peritoneum lines the abdominal wall and covers most of the organs in the abdomen.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000817901" type="image/jpeg" alt="En el dibujo se observa un corte transversal de la cavidad peritoneal con ascitis. Se señalan el peritoneo, el hígado, el estómago, el páncreas, el intestino grueso, el epiplón mayor, el intestino delgado, un ovario, el útero, la vejiga y el recto." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">La ascitis es la acumulación anormal de líquido en el abdomen que en ocasiones causa distensión (hinchazón). Se presenta cuando se acumula el líquido entre dos capas de tejido que se llaman peritoneo. El peritoneo recubre la pared abdominal y cubre la mayoría de los órganos del abdomen.</Caption>
+  </MediaLink>
+  <SpanishTermName>ascitis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Acumulación anormal de líquido en el abdomen que en ocasiones causa distensión (hinchazón). Cuando el cáncer está muy avanzado, a veces se encuentran células tumorales en el líquido del abdomen. La ascitis también se presenta en los pacientes enfermos del hígado. También se llama ascitis peritoneal, hidroperitoneo e hidropesía abdominal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2025-03-31</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/ascites" UseWith="en">Ascites and Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/ascitis" UseWith="es">Ascitis por cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,11 +1,26 @@
-<GlossaryTerm id="CDR0000803526"><TermName>SNV</TermName><TermDefinition><DefinitionText>A DNA sequence
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803526">
+  <TermName>SNV</TermName>
+  <TermDefinition>
+    <DefinitionText>A DNA sequence
           variation that occurs when a single nucleotide (adenine,
           thymine, cytosine, or guanine) in the genome sequence is
           altered. SNVs may be rare
           or common in a population. Sometimes
           SNVs are referred to as single
           nucleotide polymorphisms if they are present in at least 1%
-          of the population.  Also called single nucleotide variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><SpanishTermName>SNV</SpanishTermName><SpanishTermDefinition><DefinitionText>Variación en la secuencia de ADN que ocurre cuando se altera un solo nucleótido (adenina,
+          of the population.  Also called single nucleotide variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>SNV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Variación en la secuencia de ADN que ocurre cuando se altera un solo nucleótido (adenina,
           timina, citocina o guanina) en  la secuencia del genoma. La  SNV puede ser infrecuente o frecuente dentro de una población. En ocasiones, 
           se usa el término polimorfismos de un solo nucleótido cuando las SNV se presentan en por lo menos  1 %
-          de la población.  También se llama variante de un solo nucleótido.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2020-11-24</DateFirstPublished></GlossaryTerm>
+          de la población.  También se llama variante de un solo nucleótido.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-11-24</DateFirstPublished>
+</GlossaryTerm>

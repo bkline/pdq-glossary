@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000803679"><TermName>Tepadina</TermName><TermPronunciation>(teh-pah-DEE-nuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of bladder cancer, breast cancer, ovarian cancer, and malignant effusion (a condition in which cancer causes an abnormal amount of fluid to collect in hollow spaces or between tissues of the body). It is also being studied in the treatment of other types of cancer. Tepadina damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent. Also called thiotepa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tepadina&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805352" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tepadina&quot;" language="es" id="_4"/><SpanishTermName>Tepadina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de vejiga, cáncer de mama, cáncer de ovario, y el derrame maligno (afección por la que el cáncer hace que se acumule una cantidad anormal de líquido entre tejidos o espacios del cuerpo). También está en estudio para el tratamiento de otros tipos de cáncer. Tepadina daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante. También se llama tiotepa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-12-21</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000765870" url="/about-cancer/treatment/drugs/thiotepa">Thiotepa</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803679">
+  <TermName>Tepadina</TermName>
+  <TermPronunciation>(teh-pah-DEE-nuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of bladder cancer, breast cancer, ovarian cancer, and malignant effusion (a condition in which cancer causes an abnormal amount of fluid to collect in hollow spaces or between tissues of the body). It is also being studied in the treatment of other types of cancer. Tepadina damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent. Also called thiotepa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805351" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tepadina&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805352" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tepadina&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tepadina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de vejiga, cáncer de mama, cáncer de ovario, y el derrame maligno (afección por la que el cáncer hace que se acumule una cantidad anormal de líquido entre tejidos o espacios del cuerpo). También está en estudio para el tratamiento de otros tipos de cáncer. Tepadina daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante. También se llama tiotepa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-12-21</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000765870" url="/about-cancer/treatment/drugs/thiotepa">Thiotepa</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

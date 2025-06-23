@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046123"><TermName>stage IV vulvar cancer</TermName><TermPronunciation>(... VUL-ver KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is any size and has become attached to the bone, or cancer has spread to lymph nodes that are not movable or have become ulcerated, or there is distant spread. Stage IV is divided into stages IVA and IVB. In stage IVA, the cancer is attached to the pelvic bone or has spread to lymph nodes in the groin that are not movable or have become ulcerated. In stage IVB, the cancer has spread beyond the pelvis to distant parts of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV vulvar cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vulva en estadio IV&quot;" language="es" id="_4"/><SpanishTermName>cáncer de vulva en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor es de cualquier tamaño y presenta una de las siguientes características: el cáncer está adherido al hueso, el cáncer se diseminó a ganglios linfáticos que están fijos o ulcerados, o el cáncer se diseminó a partes del cuerpo alejadas del tumor. El estadio lV se divide en los estadios lVA y lVB. En el estadio lVA, el cáncer está adherido al hueso de la cadera o se diseminó a ganglios linfáticos de la ingle que están fijos o ulcerados. En el estadio lVB, el cáncer se diseminó fuera de la pelvis  a partes del cuerpo alejadas del tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-01-13</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000419665" url="/types/vulvar/patient/vulvar-treatment-pdq">Vulvar Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000452963" url="/espanol/tipos/vulva/paciente/tratamiento-vulva-pdq">Tratamiento del cáncer de vulva</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046123">
+  <TermName>stage IV vulvar cancer</TermName>
+  <TermPronunciation>(... VUL-ver KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is any size and has become attached to the bone, or cancer has spread to lymph nodes that are not movable or have become ulcerated, or there is distant spread. Stage IV is divided into stages IVA and IVB. In stage IVA, the cancer is attached to the pelvic bone or has spread to lymph nodes in the groin that are not movable or have become ulcerated. In stage IVB, the cancer has spread beyond the pelvis to distant parts of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV vulvar cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vulva en estadio IV&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de vulva en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor es de cualquier tamaño y presenta una de las siguientes características: el cáncer está adherido al hueso, el cáncer se diseminó a ganglios linfáticos que están fijos o ulcerados, o el cáncer se diseminó a partes del cuerpo alejadas del tumor. El estadio lV se divide en los estadios lVA y lVB. En el estadio lVA, el cáncer está adherido al hueso de la cadera o se diseminó a ganglios linfáticos de la ingle que están fijos o ulcerados. En el estadio lVB, el cáncer se diseminó fuera de la pelvis  a partes del cuerpo alejadas del tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-01-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000419665" url="/types/vulvar/patient/vulvar-treatment-pdq">Vulvar Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000452963" url="/espanol/tipos/vulva/paciente/tratamiento-vulva-pdq">Tratamiento del cáncer de vulva</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

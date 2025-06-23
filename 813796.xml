@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000813796"><TermName>BiTE</TermName><TermDefinition><DefinitionText>A substance made in the laboratory that can bind to two target proteins on the surface of different cells. For example, a BiTE may bind to a certain protein on healthy T cells (a type of immune cell) and, at the same time, to a different protein on cancer cells. This brings the T cells and cancer cells close together so the T cells can more effectively kill the cancer cells. Some BiTEs are being used to treat certain types of cancer, including acute lymphoblastic leukemia, multiple myeloma, lymphoma, and small cell lung cancer. They are a type of targeted therapy. Also called bispecific T-cell engager.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BiTE</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia producida en el laboratorio que se une a dos proteínas diferentes en la superficie de distintos tipos de células. Por ejemplo, es posible que un BiTE se una a cierta proteína en las células T (tipo de célula inmunitaria) sanas y al mismo tiempo se una a otra proteína en las células cancerosas. Esto hace que las células T se acerquen a las células cancerosas y las puedan destruir de manera más eficaz. Algunos BiTE se usan para el tratamiento de ciertos tipos de cáncer, como la leucemia linfoblástica aguda, el mieloma múltiple, el linfoma y el cáncer de pulmón de células pequeñas. Son un tipo de terapia dirigida. También se llama acoplador biespecífico de células T.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-02-09</DateFirstPublished><DateLastModified>2024-06-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813796">
+  <TermName>BiTE</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance made in the laboratory that can bind to two target proteins on the surface of different cells. For example, a BiTE may bind to a certain protein on healthy T cells (a type of immune cell) and, at the same time, to a different protein on cancer cells. This brings the T cells and cancer cells close together so the T cells can more effectively kill the cancer cells. Some BiTEs are being used to treat certain types of cancer, including acute lymphoblastic leukemia, multiple myeloma, lymphoma, and small cell lung cancer. They are a type of targeted therapy. Also called bispecific T-cell engager.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BiTE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia producida en el laboratorio que se une a dos proteínas diferentes en la superficie de distintos tipos de células. Por ejemplo, es posible que un BiTE se una a cierta proteína en las células T (tipo de célula inmunitaria) sanas y al mismo tiempo se una a otra proteína en las células cancerosas. Esto hace que las células T se acerquen a las células cancerosas y las puedan destruir de manera más eficaz. Algunos BiTE se usan para el tratamiento de ciertos tipos de cáncer, como la leucemia linfoblástica aguda, el mieloma múltiple, el linfoma y el cáncer de pulmón de células pequeñas. Son un tipo de terapia dirigida. También se llama acoplador biespecífico de células T.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-02-09</DateFirstPublished>
+  <DateLastModified>2024-06-13</DateLastModified>
+</GlossaryTerm>

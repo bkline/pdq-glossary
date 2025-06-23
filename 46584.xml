@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046584"><TermName>soft tissue sarcoma</TermName><TermPronunciation>(…TIH-shoo sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A cancer that begins in the muscle, fat, fibrous tissue, blood vessels, or other supporting tissue of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708979" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;soft tissue sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de tejido blando&quot;" language="es" id="_4"/><MediaLink ref="CDR0000770049" type="image/jpeg" alt="Soft tissue sarcoma; drawing shows different types of tissue in the body where soft tissue sarcomas form, including the lymph vessels, blood vessels, fat, muscles, tendons, ligaments, cartilage, and nerves." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Soft tissue sarcoma forms in the soft tissues of the body, including the muscles, tendons, ligaments, cartilage,  fat, blood vessels, lymph vessels, nerves, and tissues around joints. </Caption></MediaLink><MediaLink ref="CDR0000770318" type="image/jpeg" alt="Sarcoma de tejido blando; la imagen muestra los diferentes tipos de tejidos del cuerpo donde se forman los sarcomas de tejido blando, como los vasos linfáticos, los vasos sanguíneos, la grasa, los tendones, los ligamentos, los cartílagos y los nervios." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El sarcoma de tejido blando se forma en los tejidos blandos del cuerpo, como los músculos, los tendones, los ligamentos, los cartílagos, la grasa, los vasos sanguíneos, los vasos linfáticos, los nervios y los tejidos que rodean las articulaciones.</Caption></MediaLink><SpanishTermName>sarcoma de tejido blando</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que empieza en el músculo, la grasa, el tejido fibroso, los vasos sanguíneos u otros tejidos de sostén del cuerpo. También se llama sarcoma de partes blandas, tumor maligno de tejidos blandos y tumor mesenquimal maligno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2015-03-30</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/soft-tissue-sarcoma">Soft Tissue Sarcoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando">Sarcoma de tejido blando</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046584">
+  <TermName>soft tissue sarcoma</TermName>
+  <TermPronunciation>(…TIH-shoo sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A cancer that begins in the muscle, fat, fibrous tissue, blood vessels, or other supporting tissue of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708979" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;soft tissue sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de tejido blando&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000770049" type="image/jpeg" alt="Soft tissue sarcoma; drawing shows different types of tissue in the body where soft tissue sarcomas form, including the lymph vessels, blood vessels, fat, muscles, tendons, ligaments, cartilage, and nerves." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Soft tissue sarcoma forms in the soft tissues of the body, including the muscles, tendons, ligaments, cartilage,  fat, blood vessels, lymph vessels, nerves, and tissues around joints. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000770318" type="image/jpeg" alt="Sarcoma de tejido blando; la imagen muestra los diferentes tipos de tejidos del cuerpo donde se forman los sarcomas de tejido blando, como los vasos linfáticos, los vasos sanguíneos, la grasa, los tendones, los ligamentos, los cartílagos y los nervios." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El sarcoma de tejido blando se forma en los tejidos blandos del cuerpo, como los músculos, los tendones, los ligamentos, los cartílagos, la grasa, los vasos sanguíneos, los vasos linfáticos, los nervios y los tejidos que rodean las articulaciones.</Caption>
+  </MediaLink>
+  <SpanishTermName>sarcoma de tejido blando</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que empieza en el músculo, la grasa, el tejido fibroso, los vasos sanguíneos u otros tejidos de sostén del cuerpo. También se llama sarcoma de partes blandas, tumor maligno de tejidos blandos y tumor mesenquimal maligno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2015-03-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/soft-tissue-sarcoma">Soft Tissue Sarcoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando">Sarcoma de tejido blando</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

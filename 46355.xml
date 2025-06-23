@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000046355"><TermName>indolent</TermName><TermPronunciation>(IN-doh-lent)</TermPronunciation><TermDefinition><DefinitionText>A type of cancer that grows slowly.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;indolent&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708598" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;de crecimiento lento&quot;" language="es" id="_4"/><SpanishTermName>de crecimiento lento</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer que crece lentamente. También se llama inactivo, indolente y poco activo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046355">
+  <TermName>indolent</TermName>
+  <TermPronunciation>(IN-doh-lent)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of cancer that grows slowly.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;indolent&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708598" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;de crecimiento lento&quot;" language="es" id="_4"/>
+  <SpanishTermName>de crecimiento lento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer que crece lentamente. También se llama inactivo, indolente y poco activo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

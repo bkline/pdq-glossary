@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000795811"><TermName>larotrectinib sulfate</TermName><TermPronunciation>(LAYR-oh-TREK-tih-nib SUL-fayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults and children with certain types of solid tumors that have spread or cannot be removed by surgery and have the <GeneName>NTRK</GeneName> gene fusion. It is also being studied in the treatment of other types of cancer.   Larotrectinib sulfate blocks the TRK protein, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called LOXO-101, Trk inhibitor LOXO-101, and Vitrakvi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797285" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;larotrectinib sulfate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de larotrectinib&quot;" language="es" id="_4"/><SpanishTermName>sulfato de larotrectinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos y niños con ciertos tipos de tumores sólidos que se diseminaron o que no se pueden extirpar mediante cirugía. Se utiliza  en pacientes cuyos tumores  presentan una fusión del gen <GeneName>NTRK</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de larotrectinib  bloquea la proteína TRK,  lo que es posible que ayude a impedir la multiplicación de células cancerosas y las destruya.   El sulfato de larotrectinib es un tipo de inhibidor de tirosina–cinasas. También se llama inhibidor de Trk LOXO-101, LOXO-101 y Vitrakvi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-06</DateFirstPublished><DateLastModified>2021-10-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000795854" url="/about-cancer/treatment/drugs/larotrectinibsulfate">Larotrectinib Sulfate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000795811">
+  <TermName>larotrectinib sulfate</TermName>
+  <TermPronunciation>(LAYR-oh-TREK-tih-nib SUL-fayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults and children with certain types of solid tumors that have spread or cannot be removed by surgery and have the 
+      <GeneName>NTRK</GeneName>
+       gene fusion. It is also being studied in the treatment of other types of cancer.   Larotrectinib sulfate blocks the TRK protein, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called LOXO-101, Trk inhibitor LOXO-101, and Vitrakvi.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797285" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;larotrectinib sulfate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de larotrectinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>sulfato de larotrectinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos y niños con ciertos tipos de tumores sólidos que se diseminaron o que no se pueden extirpar mediante cirugía. Se utiliza  en pacientes cuyos tumores  presentan una fusión del gen 
+      <GeneName>NTRK</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de larotrectinib  bloquea la proteína TRK,  lo que es posible que ayude a impedir la multiplicación de células cancerosas y las destruya.   El sulfato de larotrectinib es un tipo de inhibidor de tirosina–cinasas. También se llama inhibidor de Trk LOXO-101, LOXO-101 y Vitrakvi.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-06</DateFirstPublished>
+  <DateLastModified>2021-10-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000795854" url="/about-cancer/treatment/drugs/larotrectinibsulfate">Larotrectinib Sulfate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

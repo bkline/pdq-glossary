@@ -1,3 +1,30 @@
-<GlossaryTerm id="CDR0000644302"><TermName>botulinum toxin type A</TermName><TermPronunciation>(BAH-choo-LY-num TOK-sin ...)</TermPronunciation><TermDefinition><DefinitionText>A toxin made by the bacterium <ScientificName>Clostridium
-          botulinum</ScientificName>. It can cause food poisoning. The drug Botox is a form of the toxin that can be used in small amounts to treat certain medical conditions. These include severe underarm sweating and severe muscle spasms in the neck and shoulders. Botulinum toxin type A is also used to smooth wrinkles on the face. It is being studied in the treatment of pain in patients with skin leiomyomas (benign smooth muscle tumors) and other conditions.  Also called Botox and botulinum toxin A.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726055" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;botulinum toxin type A&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toxina botulínica de tipo A&quot;" language="es" id="_4"/><SpanishTermName>toxina botulínica de tipo A</SpanishTermName><SpanishTermDefinition><DefinitionText>Toxina elaborada por una bacteria, <ScientificName>Clostridium
-          botulinum</ScientificName>. Puede causar intoxicación alimentaria. El medicamento Botox es una forma de esta toxina que se usa en cantidades pequeñas para el tratamiento de ciertas afecciones, como sudoración excesiva en las axilas y espasmos musculares graves en el cuello y los hombros. La toxina botulínica de tipo A también se usa para reducir las arrugas de la cara. Está en estudio para el tratamiento del dolor en pacientes con leiomiomas en la piel (tumores benignos de músculo liso) y otras afecciones. También se llama Botox y toxina botulínica A.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-03</DateFirstPublished><DateLastModified>2010-03-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644302">
+  <TermName>botulinum toxin type A</TermName>
+  <TermPronunciation>(BAH-choo-LY-num TOK-sin ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A toxin made by the bacterium 
+      <ScientificName>Clostridium
+          botulinum</ScientificName>
+      . It can cause food poisoning. The drug Botox is a form of the toxin that can be used in small amounts to treat certain medical conditions. These include severe underarm sweating and severe muscle spasms in the neck and shoulders. Botulinum toxin type A is also used to smooth wrinkles on the face. It is being studied in the treatment of pain in patients with skin leiomyomas (benign smooth muscle tumors) and other conditions.  Also called Botox and botulinum toxin A.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726055" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;botulinum toxin type A&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;toxina botulínica de tipo A&quot;" language="es" id="_4"/>
+  <SpanishTermName>toxina botulínica de tipo A</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Toxina elaborada por una bacteria, 
+      <ScientificName>Clostridium
+          botulinum</ScientificName>
+      . Puede causar intoxicación alimentaria. El medicamento Botox es una forma de esta toxina que se usa en cantidades pequeñas para el tratamiento de ciertas afecciones, como sudoración excesiva en las axilas y espasmos musculares graves en el cuello y los hombros. La toxina botulínica de tipo A también se usa para reducir las arrugas de la cara. Está en estudio para el tratamiento del dolor en pacientes con leiomiomas en la piel (tumores benignos de músculo liso) y otras afecciones. También se llama Botox y toxina botulínica A.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-03</DateFirstPublished>
+  <DateLastModified>2010-03-01</DateLastModified>
+</GlossaryTerm>

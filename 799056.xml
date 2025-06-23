@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000799056"><TermName>Rozlytrek</TermName><TermPronunciation>(roz-LY-trek)</TermPronunciation><TermDefinition><DefinitionText>A drug used in adults to treat non-small cell lung cancer that has spread and is <GeneName>ROS1</GeneName> positive and in adults and children aged 1 month and older to treat certain types of solid tumors that have an <GeneName>NTRK</GeneName> gene fusion. It is also being studied in the treatment of other types of cancer. Rozlytrek blocks certain proteins involved in cell signaling and cell growth. Blocking these proteins may help keep cancer cells from growing and may kill them. Rozlytrek is a type of tyrosine kinase inhibitor. Also called entrectinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801060" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rozlytrek&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801061" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rozlytrek&quot;" language="es" id="_4"/><SpanishTermName>Rozlytrek</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa en adultos para el tratamiento del cáncer de pulmón de células no pequeñas que se diseminó y es positivo para <GeneName>ROS1</GeneName>. También se usa en adultos y niños de 1 mes o más para el tratamiento de algunos tumores sólidos con  una fusión en el gen <GeneName>NTRK</GeneName>. Además, está en estudio para el tratamiento de otros tipos de cáncer. Rozlytrek  bloquea ciertas proteínas que participan en la señalización y la multiplicación celular. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Rozlytrek es un tipo de inhibidor de tirosina–cinasas. También se llama entrectinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-09-16</DateFirstPublished><DateLastModified>2023-10-24</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000799054" url="/about-cancer/treatment/drugs/entrectinib">Entrectinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799056">
+  <TermName>Rozlytrek</TermName>
+  <TermPronunciation>(roz-LY-trek)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used in adults to treat non-small cell lung cancer that has spread and is 
+      <GeneName>ROS1</GeneName>
+       positive and in adults and children aged 1 month and older to treat certain types of solid tumors that have an 
+      <GeneName>NTRK</GeneName>
+       gene fusion. It is also being studied in the treatment of other types of cancer. Rozlytrek blocks certain proteins involved in cell signaling and cell growth. Blocking these proteins may help keep cancer cells from growing and may kill them. Rozlytrek is a type of tyrosine kinase inhibitor. Also called entrectinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801060" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rozlytrek&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801061" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Rozlytrek&quot;" language="es" id="_4"/>
+  <SpanishTermName>Rozlytrek</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa en adultos para el tratamiento del cáncer de pulmón de células no pequeñas que se diseminó y es positivo para 
+      <GeneName>ROS1</GeneName>
+      . También se usa en adultos y niños de 1 mes o más para el tratamiento de algunos tumores sólidos con  una fusión en el gen 
+      <GeneName>NTRK</GeneName>
+      . Además, está en estudio para el tratamiento de otros tipos de cáncer. Rozlytrek  bloquea ciertas proteínas que participan en la señalización y la multiplicación celular. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Rozlytrek es un tipo de inhibidor de tirosina–cinasas. También se llama entrectinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-09-16</DateFirstPublished>
+  <DateLastModified>2023-10-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000799054" url="/about-cancer/treatment/drugs/entrectinib">Entrectinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

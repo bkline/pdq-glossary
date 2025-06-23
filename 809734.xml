@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809734"><TermName>subspecialist</TermName><TermPronunciation>(sub-SPEH-shuh-list)</TermPronunciation><TermDefinition><DefinitionText>In health care, a doctor or other provider who has additional training in a very specific area of medicine. Examples of subspecialists include pediatric oncologists (doctors who have special training in diagnosing and treating cancer in children) and neuroradiologists (doctors who have special training in creating and interpreting images of the nervous system).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811506" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;subspecialist&quot;" language="en" id="_6"/><MediaLink ref="CDR0000811507" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;subespecialista&quot;" language="es" id="_7"/><SpanishTermName>subespecialista</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la atención de la salud, profesional de la medicina u otro proveedor con formación adicional en un área muy específica de la medicina. Algunos ejemplos de subespecialistas son las personas que se dedican a la oncología pediátrica (profesionales de la medicina con formación especial en el diagnóstico y tratamiento del cáncer infantil) y quienes se dedican a la neurorradiología (profesionales de la medicina con formación especial en la creación e interpretación de imágenes del sistema nervioso). También se llama hiperespecialista, profesional subespecializado y superespecialista.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809734">
+  <TermName>subspecialist</TermName>
+  <TermPronunciation>(sub-SPEH-shuh-list)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In health care, a doctor or other provider who has additional training in a very specific area of medicine. Examples of subspecialists include pediatric oncologists (doctors who have special training in diagnosing and treating cancer in children) and neuroradiologists (doctors who have special training in creating and interpreting images of the nervous system).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811506" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;subspecialist&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000811507" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;subespecialista&quot;" language="es" id="_7"/>
+  <SpanishTermName>subespecialista</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la atención de la salud, profesional de la medicina u otro proveedor con formación adicional en un área muy específica de la medicina. Algunos ejemplos de subespecialistas son las personas que se dedican a la oncología pediátrica (profesionales de la medicina con formación especial en el diagnóstico y tratamiento del cáncer infantil) y quienes se dedican a la neurorradiología (profesionales de la medicina con formación especial en la creación e interpretación de imágenes del sistema nervioso). También se llama hiperespecialista, profesional subespecializado y superespecialista.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-26</DateFirstPublished>
+</GlossaryTerm>

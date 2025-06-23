@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000782021"><TermName>Stewart-Treves syndrome</TermName><TermPronunciation>(STOO-wert-treevz SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782021">
+  <TermName>Stewart-Treves syndrome</TermName>
+  <TermPronunciation>(STOO-wert-treevz SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare
           disorder marked by the presence of an angiosarcoma (a
           malignant tumor of blood or lymph vessels) in a person with
           chronic (long-term) lymphedema. Lymphedema is a condition
@@ -6,7 +11,15 @@
           swelling, usually in the arm or leg. Stewart-Treves
           syndrome usually occurs in patients with breast cancer who
           develop chronic lymphedema after surgery to remove the
-          breast and lymph nodes under the arm.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Stewart-Treves syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Stewart-Treves&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Stewart-Treves</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno poco frecuente que se
+          breast and lymph nodes under the arm.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Stewart-Treves syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Stewart-Treves&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Stewart-Treves</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno poco frecuente que se
 caracteriza por la presencia de un angiosarcoma (tumor
 maligno de los vasos sanguíneos o linfáticos) en una
 persona con linfedema crónico (que dura mucho). El
@@ -16,5 +29,13 @@ por lo común en el brazo o la pierna. El síndrome de
 Stewart-Treves se suele presentar en pacientes de cáncer de
 mama que sufren de linfedema crónico después de la cirugía
 para extirpar la mama y los ganglios linfáticos de la
-axila.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-28</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8706/stewart-treves-syndrome">Stewart
-Treves syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+axila.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8706/stewart-treves-syndrome">Stewart
+Treves syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

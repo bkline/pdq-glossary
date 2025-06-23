@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000815766"><TermName>somatic testing</TermName><TermPronunciation>(soh-MA-tik TES-ting)</TermPronunciation><TermDefinition><DefinitionText>A laboratory method that looks for genetic changes in cells or tissues of the body that have occurred during a person’s lifetime and were not inherited from a parent. Somatic testing is done on a tumor or blood sample to look for certain genetic changes in the tumor’s DNA. This may help doctors learn more about the cancer, plan treatment, predict how well the cancer will respond to treatment, or make a prognosis. Somatic testing may sometimes be called tumor testing or biomarker testing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817391" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;somatic testing&quot;" language="en" id="_4"/><MediaLink ref="CDR0000817392" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prueba somática&quot;" language="es" id="_5"/><SpanishTermName>prueba somática</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio con el que se buscan cambios genéticos, en células o tejidos del cuerpo, que ocurrieron durante la vida de la persona y que no fueron heredados de su padre o madre. Las pruebas somáticas se hacen en un tumor o muestra de sangre para encontrar ciertos cambios genéticos en el ADN del tumor. Esto permite a los médicos comprender mejor el cáncer, planificar el tratamiento, predecir la respuesta del cáncer al tratamiento o establecer el pronóstico. Las pruebas somáticas a veces se conocen como pruebas tumorales o pruebas de biomarcadores. También se llama análisis de células somáticas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-11-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000815766">
+  <TermName>somatic testing</TermName>
+  <TermPronunciation>(soh-MA-tik TES-ting)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory method that looks for genetic changes in cells or tissues of the body that have occurred during a person’s lifetime and were not inherited from a parent. Somatic testing is done on a tumor or blood sample to look for certain genetic changes in the tumor’s DNA. This may help doctors learn more about the cancer, plan treatment, predict how well the cancer will respond to treatment, or make a prognosis. Somatic testing may sometimes be called tumor testing or biomarker testing.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817391" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;somatic testing&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000817392" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prueba somática&quot;" language="es" id="_5"/>
+  <SpanishTermName>prueba somática</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio con el que se buscan cambios genéticos, en células o tejidos del cuerpo, que ocurrieron durante la vida de la persona y que no fueron heredados de su padre o madre. Las pruebas somáticas se hacen en un tumor o muestra de sangre para encontrar ciertos cambios genéticos en el ADN del tumor. Esto permite a los médicos comprender mejor el cáncer, planificar el tratamiento, predecir la respuesta del cáncer al tratamiento o establecer el pronóstico. Las pruebas somáticas a veces se conocen como pruebas tumorales o pruebas de biomarcadores. También se llama análisis de células somáticas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-11-01</DateFirstPublished>
+</GlossaryTerm>

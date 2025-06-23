@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000046139"><TermName>rhabdoid tumor</TermName><TermPronunciation>(RAB-doyd TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare, fast-growing cancer that usually forms in the kidney or central nervous system (the brain and spinal cord) but can also form in soft tissues in other areas of the body. Rhabdoid tumors tend to spread quickly, are hard to treat, and have a poor prognosis. Most rhabdoid tumors are caused by mutations (changes) in the tumor suppressor gene <GeneName>SMARCB1</GeneName>, which makes a protein that helps control cell growth. Rhabdoid tumors usually occur in infants and young children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rhabdoid tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor rabdoide&quot;" language="es" id="_4"/><SpanishTermName>tumor rabdoide</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer raro de crecimiento rápido que suele formarse en el riñón o el sistema nervioso central (encéfalo y médula espinal), aunque también se forma en los tejidos blandos de otras partes del cuerpo. Los tumores rabdoides tienden a diseminarse rápido, son difíciles de tratar y su pronóstico es precario. La causa de la mayoría de los tumores rabdoides son mutaciones (cambios) en el gen supresor de tumores <GeneName>SMARCB1</GeneName>, que da origen a una proteína que participa en el control de la multiplicación celular. Los tumores rabdoides por lo general se presentan en lactantes y niños pequeños. También se llama tumor rabdoideo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-02-09</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7572/rhabdoid-tumor">Rhabdoid tumor (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046139">
+  <TermName>rhabdoid tumor</TermName>
+  <TermPronunciation>(RAB-doyd TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A rare, fast-growing cancer that usually forms in the kidney or central nervous system (the brain and spinal cord) but can also form in soft tissues in other areas of the body. Rhabdoid tumors tend to spread quickly, are hard to treat, and have a poor prognosis. Most rhabdoid tumors are caused by mutations (changes) in the tumor suppressor gene 
+      <GeneName>SMARCB1</GeneName>
+      , which makes a protein that helps control cell growth. Rhabdoid tumors usually occur in infants and young children.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rhabdoid tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor rabdoide&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor rabdoide</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Cáncer raro de crecimiento rápido que suele formarse en el riñón o el sistema nervioso central (encéfalo y médula espinal), aunque también se forma en los tejidos blandos de otras partes del cuerpo. Los tumores rabdoides tienden a diseminarse rápido, son difíciles de tratar y su pronóstico es precario. La causa de la mayoría de los tumores rabdoides son mutaciones (cambios) en el gen supresor de tumores 
+      <GeneName>SMARCB1</GeneName>
+      , que da origen a una proteína que participa en el control de la multiplicación celular. Los tumores rabdoides por lo general se presentan en lactantes y niños pequeños. También se llama tumor rabdoideo.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-02-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7572/rhabdoid-tumor">Rhabdoid tumor (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

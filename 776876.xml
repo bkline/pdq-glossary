@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000776876"><TermName>Cotellic</TermName><TermPronunciation>(coh-TEL-lik)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone to treat adults with a group of blood disorders called  histiocytic neoplasms and with vemurafenib to treat adults with melanoma that has spread or cannot be removed by surgery and has a certain mutation (change) in the <GeneName>BRAF</GeneName> gene. It is also being studied in the treatment of other types of cancer. Cotellic blocks proteins called MEK1 and MEK2, which may help keep tumor cells from growing. It is a type of kinase inhibitor. Also called cobimetinib fumarate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000778409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Cotellic&quot;" language="en" id="_3"/><MediaLink ref="CDR0000778408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Cotellic&quot;" language="es" id="_4"/><SpanishTermName>Cotellic</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa como monoterapia (sin otros medicamentos) para el tratamiento de un grupo de enfermedades de la sangre llamadas neoplasias histiocíticas. También se usa con el vemurafenib para el tratamiento de adultos con melanoma que se diseminó o que no es posible extirpar mediante cirugía, y  tiene determinada mutación (cambio) en el gen <GeneName>BRAF</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. Cotellic bloquea las proteínas MEK1 y MEK2, lo que quizás ayude a evitar la multiplicación de células tumorales. Es un tipo de inhibidor de cinasas. También se llama fumarato de cobimetinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-11-16</DateFirstPublished><DateLastModified>2022-11-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000776883" url="/about-cancer/treatment/drugs/cobimetinib">Cobimetinib Fumarate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776876">
+  <TermName>Cotellic</TermName>
+  <TermPronunciation>(coh-TEL-lik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used alone to treat adults with a group of blood disorders called  histiocytic neoplasms and with vemurafenib to treat adults with melanoma that has spread or cannot be removed by surgery and has a certain mutation (change) in the 
+      <GeneName>BRAF</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Cotellic blocks proteins called MEK1 and MEK2, which may help keep tumor cells from growing. It is a type of kinase inhibitor. Also called cobimetinib fumarate.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000778409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Cotellic&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000778408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Cotellic&quot;" language="es" id="_4"/>
+  <SpanishTermName>Cotellic</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa como monoterapia (sin otros medicamentos) para el tratamiento de un grupo de enfermedades de la sangre llamadas neoplasias histiocíticas. También se usa con el vemurafenib para el tratamiento de adultos con melanoma que se diseminó o que no es posible extirpar mediante cirugía, y  tiene determinada mutación (cambio) en el gen 
+      <GeneName>BRAF</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. Cotellic bloquea las proteínas MEK1 y MEK2, lo que quizás ayude a evitar la multiplicación de células tumorales. Es un tipo de inhibidor de cinasas. También se llama fumarato de cobimetinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-11-16</DateFirstPublished>
+  <DateLastModified>2022-11-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000776883" url="/about-cancer/treatment/drugs/cobimetinib">Cobimetinib Fumarate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,5 +1,34 @@
-<GlossaryTerm id="CDR0000803460"><TermName>TYRP1 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in making melanin (a pigment that gives color to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803460">
+  <TermName>TYRP1 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in making melanin (a pigment that gives color to
           skin, hair, and eyes). Mutations (changes) in the
-          <GeneName>TYRP1</GeneName> gene have
+          
+      <GeneName>TYRP1</GeneName>
+       gene have
           been found in an inherited condition called oculocutaneous
-          albinism. People with this condition have very pale skin and light-colored hair and eyes. They also have a high risk of developing skin cancer at an early age.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;TYRP1 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen TYRP1&quot;" language="es" id="_4"/><SpanishTermName>gen TYRP1</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la producción de melanina (pigmento que da color a la piel, el pelo  y los ojos). Se han encontrado mutaciones (cambios) del gen <GeneName>TYRP1</GeneName> en una afección hereditaria llamada albinismo oculocutáneo. Las personas con esta afección tienen la piel muy pálida,  así como el cabello y los ojos de color claro. También tienen un riesgo alto de presentar cáncer de piel a una edad temprana.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/tyrp1/">TYRP1 gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+          albinism. People with this condition have very pale skin and light-colored hair and eyes. They also have a high risk of developing skin cancer at an early age.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;TYRP1 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen TYRP1&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen TYRP1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la producción de melanina (pigmento que da color a la piel, el pelo  y los ojos). Se han encontrado mutaciones (cambios) del gen 
+      <GeneName>TYRP1</GeneName>
+       en una afección hereditaria llamada albinismo oculocutáneo. Las personas con esta afección tienen la piel muy pálida,  así como el cabello y los ojos de color claro. También tienen un riesgo alto de presentar cáncer de piel a una edad temprana.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/tyrp1/">TYRP1 gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

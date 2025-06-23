@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000043974"><TermName>sperm banking</TermName><TermPronunciation>(spurm...)</TermPronunciation><TermDefinition><DefinitionText>The process of freezing sperm and storing it for future use. Samples of semen are collected and checked under a microscope in the laboratory to count sperm cells and find out how healthy they are. The sperm cells are then frozen and stored. Sperm banking is often used for men who want to have children after having treatment that may cause infertility, such as certain cancer treatments. Sperm banking is a type of fertility preservation. Also called sperm cryopreservation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000703975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sperm banking&quot;" language="en" id="_3"/><MediaLink ref="CDR0000703974" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;almacenamiento de espermatozoides&quot;" language="es" id="_4"/><SpanishTermName>almacenamiento de espermatozoides</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso mediante el cual se congelan y almacenan espermatozoides para usarlos en el futuro. Se toman muestras de semen que se examinan al microscopio en el laboratorio para contar los espermatozoides y determinar qué tan sanos son. Luego, los espermatozoides se congelan y almacenan. El almacenamiento de espermatozoides se suele usar en hombres que quieren tener hijos después de recibir un tratamiento que puede causar esterilidad, como ciertos tratamientos contra el cáncer. El almacenamiento de espermatozoides es un tipo de preservación de la fertilidad. También se llama crioconservación de espermatozoides.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-04-18</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men" UseWith="en">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres" UseWith="es">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos </RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000043974">
+  <TermName>sperm banking</TermName>
+  <TermPronunciation>(spurm...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The process of freezing sperm and storing it for future use. Samples of semen are collected and checked under a microscope in the laboratory to count sperm cells and find out how healthy they are. The sperm cells are then frozen and stored. Sperm banking is often used for men who want to have children after having treatment that may cause infertility, such as certain cancer treatments. Sperm banking is a type of fertility preservation. Also called sperm cryopreservation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000703975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sperm banking&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000703974" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;almacenamiento de espermatozoides&quot;" language="es" id="_4"/>
+  <SpanishTermName>almacenamiento de espermatozoides</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso mediante el cual se congelan y almacenan espermatozoides para usarlos en el futuro. Se toman muestras de semen que se examinan al microscopio en el laboratorio para contar los espermatozoides y determinar qué tan sanos son. Luego, los espermatozoides se congelan y almacenan. El almacenamiento de espermatozoides se suele usar en hombres que quieren tener hijos después de recibir un tratamiento que puede causar esterilidad, como ciertos tratamientos contra el cáncer. El almacenamiento de espermatozoides es un tipo de preservación de la fertilidad. También se llama crioconservación de espermatozoides.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-04-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men" UseWith="en">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres" UseWith="es">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos </RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

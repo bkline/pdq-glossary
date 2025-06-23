@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816960"><TermName>macrobiotic diet</TermName><TermPronunciation>(MA-kroh-by-AH-tik DY-et)</TermPronunciation><TermDefinition><DefinitionText>A plant-based diet that is high in unprocessed carbohydrates and low in fat and processed carbohydrates. A macrobiotic diet consists mostly of whole grains and organic vegetables, including fermented vegetables and beans. The components of the diet may vary according to a person’s age, sex, existing health issues, level of activity, and the climate where they live. There is no proof that a macrobiotic diet can slow, cure, or keep diseases such as cancer from coming back.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817773" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;macrobiotic diet&quot;" language="en" id="_5"/><MediaLink ref="CDR0000817774" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dieta macrobiótica&quot;" language="es" id="_6"/><SpanishTermName>dieta macrobiótica</SpanishTermName><SpanishTermDefinition><DefinitionText>Dieta a base de productos vegetales (plantas), rica en carbohidratos no procesados y baja en grasas y carbohidratos procesados. La dieta macrobiótica consiste principalmente en cereales o granos integrales y verduras orgánicas, incluso verduras fermentadas y legumbres (granos como frijoles, lentejas y arvejas, entre otras). Es posible que los componentes de la dieta varíen en función de la edad, el sexo, los problemas de salud, el nivel de actividad o el clima. No se ha comprobado que una dieta macrobiótica retrase, cure ni evite la reaparición de enfermedades como el cáncer. También se llama alimentación macrobiótica y régimen macrobiótico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-12-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816960">
+  <TermName>macrobiotic diet</TermName>
+  <TermPronunciation>(MA-kroh-by-AH-tik DY-et)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A plant-based diet that is high in unprocessed carbohydrates and low in fat and processed carbohydrates. A macrobiotic diet consists mostly of whole grains and organic vegetables, including fermented vegetables and beans. The components of the diet may vary according to a person’s age, sex, existing health issues, level of activity, and the climate where they live. There is no proof that a macrobiotic diet can slow, cure, or keep diseases such as cancer from coming back.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817773" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;macrobiotic diet&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000817774" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dieta macrobiótica&quot;" language="es" id="_6"/>
+  <SpanishTermName>dieta macrobiótica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Dieta a base de productos vegetales (plantas), rica en carbohidratos no procesados y baja en grasas y carbohidratos procesados. La dieta macrobiótica consiste principalmente en cereales o granos integrales y verduras orgánicas, incluso verduras fermentadas y legumbres (granos como frijoles, lentejas y arvejas, entre otras). Es posible que los componentes de la dieta varíen en función de la edad, el sexo, los problemas de salud, el nivel de actividad o el clima. No se ha comprobado que una dieta macrobiótica retrase, cure ni evite la reaparición de enfermedades como el cáncer. También se llama alimentación macrobiótica y régimen macrobiótico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-12-13</DateFirstPublished>
+</GlossaryTerm>

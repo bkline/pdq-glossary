@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000486427"><TermName>ovarian low malignant potential tumor</TermName><TermPronunciation>(oh-VAYR-ee-un...muh-LIG-nunt poh-TEN-shul TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A condition in which abnormal cells that may become cancer form in the tissue that covers the ovary (one of a pair of female reproductive glands in which eggs are made). Ovarian low malignant potential tumors rarely spread outside of the ovary. Also called ovarian borderline malignant tumor and ovarian borderline tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718461" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian low malignant potential tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de ovario de bajo potencial maligno&quot;" language="es" id="_4"/><SpanishTermName>tumor de ovario de bajo potencial maligno</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección en la que se forman células anormales, que se pueden volver cancerosas, en el tejido que recubre el ovario (cada una de las dos glándulas reproductoras femeninas donde se forman los óvulos). Los tumores de ovario de bajo potencial maligno casi nunca se diseminan fuera del ovario. También se llama tumor de ovario de escasa malignidad, tumor de ovario de malignidad limítrofe y tumor limítrofe de ovario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-12-01</DateFirstPublished><DateLastModified>2025-03-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000486427">
+  <TermName>ovarian low malignant potential tumor</TermName>
+  <TermPronunciation>(oh-VAYR-ee-un...muh-LIG-nunt poh-TEN-shul TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which abnormal cells that may become cancer form in the tissue that covers the ovary (one of a pair of female reproductive glands in which eggs are made). Ovarian low malignant potential tumors rarely spread outside of the ovary. Also called ovarian borderline malignant tumor and ovarian borderline tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718461" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian low malignant potential tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de ovario de bajo potencial maligno&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor de ovario de bajo potencial maligno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección en la que se forman células anormales, que se pueden volver cancerosas, en el tejido que recubre el ovario (cada una de las dos glándulas reproductoras femeninas donde se forman los óvulos). Los tumores de ovario de bajo potencial maligno casi nunca se diseminan fuera del ovario. También se llama tumor de ovario de escasa malignidad, tumor de ovario de malignidad limítrofe y tumor limítrofe de ovario.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-12-01</DateFirstPublished>
+  <DateLastModified>2025-03-12</DateLastModified>
+</GlossaryTerm>

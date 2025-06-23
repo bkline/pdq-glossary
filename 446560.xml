@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000446560"><TermName>ovarian germ cell tumor</TermName><TermPronunciation>(oh-VAYR-ee-un jerm sel TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>An abnormal mass of tissue that forms in germ (egg) cells in the ovary (female reproductive gland in which the eggs are formed). These tumors usually occur in teenage girls or young women, usually affect just one ovary, and can be benign (not cancer) or malignant (cancer). The most common ovarian germ cell tumor is called dysgerminoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714611" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian germ cell tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714610" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de células germinativas de ovario&quot;" language="es" id="_4"/><SpanishTermName>tumor de células germinativas de ovario</SpanishTermName><SpanishTermDefinition><DefinitionText>Masa anormal de tejido que se forma en las células germinales o germinativas (óvulos) del ovario (glándula reproductora femenina donde se forman los óvulos). Por lo general, estos tumores se presentan en las adolescentes o mujeres jóvenes, afectan solo un ovario y pueden ser benignos (no cancerosos) o malignos (cancerosos). El disgerminoma es el tumor de células germinativas de ovario más común. También se llama tumor de células germinales de ovario y tumor germinal de ovario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/ovarian">Ovarian, Fallopian Tube, and Primary Peritoneal Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ovario">Cáncer de ovario, de trompa de Falopio y primario de peritoneo</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446560">
+  <TermName>ovarian germ cell tumor</TermName>
+  <TermPronunciation>(oh-VAYR-ee-un jerm sel TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abnormal mass of tissue that forms in germ (egg) cells in the ovary (female reproductive gland in which the eggs are formed). These tumors usually occur in teenage girls or young women, usually affect just one ovary, and can be benign (not cancer) or malignant (cancer). The most common ovarian germ cell tumor is called dysgerminoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714611" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian germ cell tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714610" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de células germinativas de ovario&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor de células germinativas de ovario</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Masa anormal de tejido que se forma en las células germinales o germinativas (óvulos) del ovario (glándula reproductora femenina donde se forman los óvulos). Por lo general, estos tumores se presentan en las adolescentes o mujeres jóvenes, afectan solo un ovario y pueden ser benignos (no cancerosos) o malignos (cancerosos). El disgerminoma es el tumor de células germinativas de ovario más común. También se llama tumor de células germinales de ovario y tumor germinal de ovario.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/ovarian">Ovarian, Fallopian Tube, and Primary Peritoneal Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ovario">Cáncer de ovario, de trompa de Falopio y primario de peritoneo</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

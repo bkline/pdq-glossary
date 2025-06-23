@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000572245"><TermName>Totect</TermName><TermPronunciation>(TOH-tekt)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient dexrazoxane and is used to treat severe side effects caused by certain types of anticancer drugs. It is used to reduce heart damage in women who are receiving doxorubicin for breast cancer that has spread to other parts of the body. It is also used to treat the toxic effects of an anticancer drug that leaks from a vein into surrounding tissue and causes tissue damage. Totect is a type of cardioprotective agent, a type of chemoprotective agent, and a type of topoisomerase inhibitor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720783" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Totect&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Totect&quot;" language="es" id="_4"/><SpanishTermName>Totect</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo dexrazoxano y se usa para el tratamiento de los efectos secundarios graves de ciertos tipos de medicamentos contra el cáncer. Se utiliza para reducir el daño en el corazón de mujeres que reciben doxorrubicina para un cáncer de mama que se diseminó a otras partes del cuerpo. También se usa para el tratamiento de los efectos tóxicos que se producen cuando un medicamento contra el cáncer sale de la vena y daña los tejidos cercanos. Totect es un tipo de cardioprotector, de quimioprotector y de inhibidor de la topoisomerasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-10-05</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000570125" url="/about-cancer/treatment/drugs/dexrazoxanehydrochloride">Dexrazoxane Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000572245">
+  <TermName>Totect</TermName>
+  <TermPronunciation>(TOH-tekt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient dexrazoxane and is used to treat severe side effects caused by certain types of anticancer drugs. It is used to reduce heart damage in women who are receiving doxorubicin for breast cancer that has spread to other parts of the body. It is also used to treat the toxic effects of an anticancer drug that leaks from a vein into surrounding tissue and causes tissue damage. Totect is a type of cardioprotective agent, a type of chemoprotective agent, and a type of topoisomerase inhibitor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720783" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Totect&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Totect&quot;" language="es" id="_4"/>
+  <SpanishTermName>Totect</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo dexrazoxano y se usa para el tratamiento de los efectos secundarios graves de ciertos tipos de medicamentos contra el cáncer. Se utiliza para reducir el daño en el corazón de mujeres que reciben doxorrubicina para un cáncer de mama que se diseminó a otras partes del cuerpo. También se usa para el tratamiento de los efectos tóxicos que se producen cuando un medicamento contra el cáncer sale de la vena y daña los tejidos cercanos. Totect es un tipo de cardioprotector, de quimioprotector y de inhibidor de la topoisomerasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-10-05</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000570125" url="/about-cancer/treatment/drugs/dexrazoxanehydrochloride">Dexrazoxane Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000411380"><TermName>MGUS</TermName><TermDefinition><DefinitionText>A benign condition in which there is a higher-than-normal level of a protein called M protein in the blood. Patients with MGUS are at an increased risk of developing cancer. Also called monoclonal gammopathy of undetermined significance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>GMSI</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección benigna en la que hay una concentración más alta que lo normal de una proteína de la sangre llamada proteína M. Los pacientes con GMSI tienen un riesgo más alto de presentar cáncer. También se llama gammapatía monoclonal de significado incierto.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-12-22</DateFirstPublished><DateLastModified>2007-10-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000411380">
+  <TermName>MGUS</TermName>
+  <TermDefinition>
+    <DefinitionText>A benign condition in which there is a higher-than-normal level of a protein called M protein in the blood. Patients with MGUS are at an increased risk of developing cancer. Also called monoclonal gammopathy of undetermined significance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>GMSI</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección benigna en la que hay una concentración más alta que lo normal de una proteína de la sangre llamada proteína M. Los pacientes con GMSI tienen un riesgo más alto de presentar cáncer. También se llama gammapatía monoclonal de significado incierto.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-12-22</DateFirstPublished>
+  <DateLastModified>2007-10-01</DateLastModified>
+</GlossaryTerm>

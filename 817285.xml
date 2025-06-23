@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000817285"><TermName>zenocutuzumab</TermName><TermPronunciation>(ZEH-noh-kyoo-TOO-zyoo-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer and a type of pancreatic cancer called pancreatic adenocarcinoma. It is used in patients whose cancer has an <GeneName>NRG1</GeneName> gene fusion, and has spread or cannot be removed by surgery after systemic therapy. It is also being studied in the treatment of other types of cancer. Zenocutuzumab binds to two proteins called HER2 and HER3, which are found on some cancer cells. This may help keep cancer cells from growing and may help the immune system kill cancer cells. Zenocutuzumab is a type of monoclonal antibody. Also called Bizengri.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817813" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;zenocutuzumab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817814" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;zenocutuzumab&quot;" language="es" id="_4"/><SpanishTermName>zenocutuzumab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas y un tipo de cáncer de páncreas llamado adenocarcinoma pancreático. Se utiliza en pacientes cuyo cáncer tiene un gen de fusión de <GeneName>NRG1</GeneName>, y que se diseminó o no puede extirparse mediante cirugía después del tratamiento sistémico. También está en estudio para el tratamiento de otros tipos de cáncer. El zenocutuzumab se une a dos proteínas llamadas HER2 y HER3, que se encuentran en algunas células cancerosas. Es posible que esto impida la multiplicación de células cancerosas y  ayude al sistema inmunitario a destruir células cancerosas. El zenocutuzumab es un tipo de anticuerpo monoclonal. También se llama Bizengri.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-12-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817285">
+  <TermName>zenocutuzumab</TermName>
+  <TermPronunciation>(ZEH-noh-kyoo-TOO-zyoo-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer and a type of pancreatic cancer called pancreatic adenocarcinoma. It is used in patients whose cancer has an 
+      <GeneName>NRG1</GeneName>
+       gene fusion, and has spread or cannot be removed by surgery after systemic therapy. It is also being studied in the treatment of other types of cancer. Zenocutuzumab binds to two proteins called HER2 and HER3, which are found on some cancer cells. This may help keep cancer cells from growing and may help the immune system kill cancer cells. Zenocutuzumab is a type of monoclonal antibody. Also called Bizengri.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817813" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;zenocutuzumab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817814" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;zenocutuzumab&quot;" language="es" id="_4"/>
+  <SpanishTermName>zenocutuzumab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas y un tipo de cáncer de páncreas llamado adenocarcinoma pancreático. Se utiliza en pacientes cuyo cáncer tiene un gen de fusión de 
+      <GeneName>NRG1</GeneName>
+      , y que se diseminó o no puede extirparse mediante cirugía después del tratamiento sistémico. También está en estudio para el tratamiento de otros tipos de cáncer. El zenocutuzumab se une a dos proteínas llamadas HER2 y HER3, que se encuentran en algunas células cancerosas. Es posible que esto impida la multiplicación de células cancerosas y  ayude al sistema inmunitario a destruir células cancerosas. El zenocutuzumab es un tipo de anticuerpo monoclonal. También se llama Bizengri.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-12-20</DateFirstPublished>
+</GlossaryTerm>

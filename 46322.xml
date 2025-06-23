@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000046322"><TermName>Li-Fraumeni syndrome</TermName><TermPronunciation>(lee-FRAH-meh-nee SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder that is caused by mutations (changes) in the <GeneName>TP53</GeneName> gene. Having Li-Fraumeni syndrome increases the risk of developing many types of cancer. Cancers often develop at an early age, and more than one type of cancer may occur in the same person. Li-Fraumeni syndrome is a type of hereditary cancer syndrome. Also called LFS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731647" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Li-Fraumeni syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731646" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Li-Fraumeni&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Li-Fraumeni</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro causado por mutaciones (cambios) en el gen <GeneName>TP53</GeneName>. El síndrome de Li-Fraumeni aumenta el riesgo de muchos tipos de cáncer. Los cánceres a menudo aparecen a una edad temprana y es posible que la persona presente   más de un tipo de cáncer. El síndrome de Li-Fraumeni es un tipo de síndrome de cáncer hereditario. También se llama SLF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-01-09</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6902/li-fraumeni-syndrome">Li-Fraumeni syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/li-fraumeni-syndrome/">Li-Fraumeni syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11860/sindrome-de-li-fraumeni">Síndrome de Li-Fraumeni (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046322">
+  <TermName>Li-Fraumeni syndrome</TermName>
+  <TermPronunciation>(lee-FRAH-meh-nee SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A rare, inherited disorder that is caused by mutations (changes) in the 
+      <GeneName>TP53</GeneName>
+       gene. Having Li-Fraumeni syndrome increases the risk of developing many types of cancer. Cancers often develop at an early age, and more than one type of cancer may occur in the same person. Li-Fraumeni syndrome is a type of hereditary cancer syndrome. Also called LFS.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731647" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Li-Fraumeni syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731646" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Li-Fraumeni&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Li-Fraumeni</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario raro causado por mutaciones (cambios) en el gen 
+      <GeneName>TP53</GeneName>
+      . El síndrome de Li-Fraumeni aumenta el riesgo de muchos tipos de cáncer. Los cánceres a menudo aparecen a una edad temprana y es posible que la persona presente   más de un tipo de cáncer. El síndrome de Li-Fraumeni es un tipo de síndrome de cáncer hereditario. También se llama SLF.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-01-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6902/li-fraumeni-syndrome">Li-Fraumeni syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/li-fraumeni-syndrome/">Li-Fraumeni syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11860/sindrome-de-li-fraumeni">Síndrome de Li-Fraumeni (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

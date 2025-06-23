@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000335146"><TermName>Level of evidence 3iiC</TermName><TermDefinition><DefinitionText>Consecutive case series (not population-based) with carefully assessed quality of life as an endpoint. See <SummaryRef href="CDR0000256874" url="/publications/pdq/levels-evidence/cam">Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies (PDQ®)</SummaryRef> for more information.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia científica 3iiC</SpanishTermName><SpanishTermDefinition><DefinitionText>Serie de casos consecutivos (no basados en la población) en la que se usa la calidad de vida evaluada de manera minuciosa como un criterio de valoración. Para obtener más información, consultar <SummaryRef href="CDR0000765703" url="/espanol/publicaciones/pdq/niveles-de-evidencia/cam">Niveles de evidencia de los estudios sobre las terapias integrales, alternativas y complementarias en seres humanos con cáncer</SummaryRef> (PDQ®).</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335146">
+  <TermName>Level of evidence 3iiC</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      Consecutive case series (not population-based) with carefully assessed quality of life as an endpoint. See 
+      <SummaryRef href="CDR0000256874" url="/publications/pdq/levels-evidence/cam">Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies (PDQ®)</SummaryRef>
+       for more information.
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia científica 3iiC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Serie de casos consecutivos (no basados en la población) en la que se usa la calidad de vida evaluada de manera minuciosa como un criterio de valoración. Para obtener más información, consultar 
+      <SummaryRef href="CDR0000765703" url="/espanol/publicaciones/pdq/niveles-de-evidencia/cam">Niveles de evidencia de los estudios sobre las terapias integrales, alternativas y complementarias en seres humanos con cáncer</SummaryRef>
+       (PDQ®).
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+</GlossaryTerm>

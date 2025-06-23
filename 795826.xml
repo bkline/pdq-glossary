@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000795826"><TermName>TMB</TermName><TermDefinition><DefinitionText>The total number of mutations (changes) found in the DNA of cancer cells. Knowing the TMB may help plan the best treatment. For example, tumors that have a high number of mutations appear to be more likely to respond to certain types of immunotherapy. TMB is being used as a type of biomarker. Also called tumor mutational burden.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>TMB</SpanishTermName><SpanishTermDefinition><DefinitionText>Número total de mutaciones (cambios) que se encuentran en el ADN de las células cancerosas. El conocimiento de la TMB sirve para planificar el mejor tratamiento. Por ejemplo, es más probable que los tumores que tienen un número alto de mutaciones respondan al tratamiento con ciertos tipos de inmunoterapia. La TMB se usa como un tipo de marcador biológico. También se llama carga mutacional del tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-01-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000795826">
+  <TermName>TMB</TermName>
+  <TermDefinition>
+    <DefinitionText>The total number of mutations (changes) found in the DNA of cancer cells. Knowing the TMB may help plan the best treatment. For example, tumors that have a high number of mutations appear to be more likely to respond to certain types of immunotherapy. TMB is being used as a type of biomarker. Also called tumor mutational burden.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>TMB</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Número total de mutaciones (cambios) que se encuentran en el ADN de las células cancerosas. El conocimiento de la TMB sirve para planificar el mejor tratamiento. Por ejemplo, es más probable que los tumores que tienen un número alto de mutaciones respondan al tratamiento con ciertos tipos de inmunoterapia. La TMB se usa como un tipo de marcador biológico. También se llama carga mutacional del tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-01-03</DateFirstPublished>
+</GlossaryTerm>

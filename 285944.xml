@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000285944"><TermName>ZD6474</TermName><TermDefinition><DefinitionText>A drug used to treat medullary thyroid cancer that is locally advanced and cannot be removed by surgery or has spread to other parts of the body. It is also being studied in the treatment of other types of cancer. ZD6474 blocks certain proteins, which may help keep cancer cells from growing. It may also prevent the growth of new blood vessels that tumors need to grow. ZD6474 is a type of tyrosine kinase inhibitor and a type of antiangiogenesis agent. Also called Caprelsa and vandetanib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ZD6474</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del cáncer de tiroides medular localmente avanzado que no se puede extirpar mediante cirugía o que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer.  ZD6474 bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer.  ZD6474 es un tipo de antiangiogénico y de inhibidor de tirosina–cinasas. También se llama Caprelsa y vandetanib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-02-21</DateFirstPublished><DateLastModified>2021-06-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000698680" url="/about-cancer/treatment/drugs/vandetanib">Vandetanib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000285944">
+  <TermName>ZD6474</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat medullary thyroid cancer that is locally advanced and cannot be removed by surgery or has spread to other parts of the body. It is also being studied in the treatment of other types of cancer. ZD6474 blocks certain proteins, which may help keep cancer cells from growing. It may also prevent the growth of new blood vessels that tumors need to grow. ZD6474 is a type of tyrosine kinase inhibitor and a type of antiangiogenesis agent. Also called Caprelsa and vandetanib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ZD6474</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del cáncer de tiroides medular localmente avanzado que no se puede extirpar mediante cirugía o que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer.  ZD6474 bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer.  ZD6474 es un tipo de antiangiogénico y de inhibidor de tirosina–cinasas. También se llama Caprelsa y vandetanib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-02-21</DateFirstPublished>
+  <DateLastModified>2021-06-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000698680" url="/about-cancer/treatment/drugs/vandetanib">Vandetanib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

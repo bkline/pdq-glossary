@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045760"><TermName>lymph node drainage</TermName><TermPronunciation>(limf node DRAY-nij)</TermPronunciation><TermDefinition><DefinitionText>The flow of lymph from an area of tissue into a particular lymph node.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymph node drainage&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drenaje de ganglio linfático&quot;" language="es" id="_4"/><SpanishTermName>drenaje de ganglio linfático</SpanishTermName><SpanishTermDefinition><DefinitionText>Flujo de linfa de un área de tejido a un ganglio linfático determinado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045760">
+  <TermName>lymph node drainage</TermName>
+  <TermPronunciation>(limf node DRAY-nij)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The flow of lymph from an area of tissue into a particular lymph node.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymph node drainage&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drenaje de ganglio linfático&quot;" language="es" id="_4"/>
+  <SpanishTermName>drenaje de ganglio linfático</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Flujo de linfa de un área de tejido a un ganglio linfático determinado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

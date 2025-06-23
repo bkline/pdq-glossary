@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000430872"><TermName>AZD2171</TermName><TermDefinition><DefinitionText>A substance being studied in the treatment of some types of cancer. AZD2171 may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of antiangiogenesis agent and a type of vascular endothelial growth factor (VEGF) receptor tyrosine kinase inhibitor. Also called cediranib maleate and Recentin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AZD2171</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Es posible que AZD2171 prevenga la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer,  y que destruya las células cancerosas. Es un tipo de antiangiogénico y de inhibidor de la tirosina–cinasa del receptor del factor de crecimiento endotelial vascular (VEGFR). También se llama maleato de cediranib y Recentin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished><DateLastModified>2009-04-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000430872">
+  <TermName>AZD2171</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of some types of cancer. AZD2171 may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of antiangiogenesis agent and a type of vascular endothelial growth factor (VEGF) receptor tyrosine kinase inhibitor. Also called cediranib maleate and Recentin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AZD2171</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Es posible que AZD2171 prevenga la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer,  y que destruya las células cancerosas. Es un tipo de antiangiogénico y de inhibidor de la tirosina–cinasa del receptor del factor de crecimiento endotelial vascular (VEGFR). También se llama maleato de cediranib y Recentin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+  <DateLastModified>2009-04-21</DateLastModified>
+</GlossaryTerm>

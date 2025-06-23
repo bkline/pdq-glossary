@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000044961"><TermName>genetic counseling</TermName><TermPronunciation>(jeh-NEH-tik KOWN-suh-ling)</TermPronunciation><TermDefinition><DefinitionText>A communication process between a specially trained health professional and a person concerned about the genetic risk of disease. The person's family and personal medical history may be discussed, and counseling may lead to genetic testing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A communication process that seeks to assist affected or at-risk individuals and families in understanding the natural history, disease risks, and mode of transmission of a genetic disorder; to facilitate informed consent for genetic testing when appropriate; to discuss options for risk management and family planning; and to provide for or refer individuals for psychosocial support as needed.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000706206" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetic counseling&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706207" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;asesoramiento genético&quot;" language="es" id="_7"/><SpanishTermName>asesoramiento genético</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso de comunicación entre un profesional de la salud con capacitación especial y una persona preocupada por el riesgo genético de enfermedad. Durante esta consulta se conversa sobre los antecedentes médicos familiares y personales y, según estos, se da asesoramiento sobre pruebas genéticas. También se llama consejería genética y orientación genética.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Proceso de comunicación cuyo objetivo es asesorar a personas y familias afectadas o en riesgo para  que comprendan la evolución natural, los riesgos de la enfermedad y el modo de transmisión de un trastorno genético. También propicia la obtención del consentimiento informado cuando se indica el uso de pruebas genéticas; el análisis de las opciones para el control del riesgo y la planificación familiar; y además se proporciona asistencia psicológica o se los deriva para que reciban esta asistencia en caso de ser necesario. También se llama consejería genética y orientación genética.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateLastModified>2007-04-19</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq" UseWith="en">Cancer Genetics Risk Assessment and Counseling (Health Professional Version)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Genetic-Counseling">Genetic Counseling (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Consejo-genetico">Consejo genético (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044961">
+  <TermName>genetic counseling</TermName>
+  <TermPronunciation>(jeh-NEH-tik KOWN-suh-ling)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A communication process between a specially trained health professional and a person concerned about the genetic risk of disease. The person's family and personal medical history may be discussed, and counseling may lead to genetic testing.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A communication process that seeks to assist affected or at-risk individuals and families in understanding the natural history, disease risks, and mode of transmission of a genetic disorder; to facilitate informed consent for genetic testing when appropriate; to discuss options for risk management and family planning; and to provide for or refer individuals for psychosocial support as needed.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706206" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetic counseling&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706207" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;asesoramiento genético&quot;" language="es" id="_7"/>
+  <SpanishTermName>asesoramiento genético</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso de comunicación entre un profesional de la salud con capacitación especial y una persona preocupada por el riesgo genético de enfermedad. Durante esta consulta se conversa sobre los antecedentes médicos familiares y personales y, según estos, se da asesoramiento sobre pruebas genéticas. También se llama consejería genética y orientación genética.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso de comunicación cuyo objetivo es asesorar a personas y familias afectadas o en riesgo para  que comprendan la evolución natural, los riesgos de la enfermedad y el modo de transmisión de un trastorno genético. También propicia la obtención del consentimiento informado cuando se indica el uso de pruebas genéticas; el análisis de las opciones para el control del riesgo y la planificación familiar; y además se proporciona asistencia psicológica o se los deriva para que reciban esta asistencia en caso de ser necesario. También se llama consejería genética y orientación genética.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-04-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq" UseWith="en">Cancer Genetics Risk Assessment and Counseling (Health Professional Version)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Genetic-Counseling">Genetic Counseling (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Consejo-genetico">Consejo genético (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

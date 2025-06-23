@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000613897"><TermName>BCL2</TermName><TermDefinition><DefinitionText>A protein that helps control whether a cell lives or dies by blocking a type of cell death called apoptosis. The gene for BCL2 is found on chromosome 18, and transfer of the BCL2 gene to a different chromosome is seen in many B-cell leukemias and lymphomas. This causes the BCL2 protein to be made in larger amounts, which may keep cancer cells from dying. Also called B-cell leukemia/lymphoma 2 protein.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BCL2</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que ayuda a controlar la supervivencia o destrucción de una célula al impedir un tipo de muerte celular que se llama apoptosis. El gen para la BCL2 se encuentra en el cromosoma 18, y en muchas leucemias y linfomas de células B se observa la transferencia del gen que da origen a esta proteína, a un cromosoma diferente. Esto hace que  se elabore más cantidad de la BCL2, lo que quizás impida la muerte de las células cancerosas. También se llama proteína 2 de la leucemia o linfoma de células B.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000613897">
+  <TermName>BCL2</TermName>
+  <TermDefinition>
+    <DefinitionText>A protein that helps control whether a cell lives or dies by blocking a type of cell death called apoptosis. The gene for BCL2 is found on chromosome 18, and transfer of the BCL2 gene to a different chromosome is seen in many B-cell leukemias and lymphomas. This causes the BCL2 protein to be made in larger amounts, which may keep cancer cells from dying. Also called B-cell leukemia/lymphoma 2 protein.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BCL2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que ayuda a controlar la supervivencia o destrucción de una célula al impedir un tipo de muerte celular que se llama apoptosis. El gen para la BCL2 se encuentra en el cromosoma 18, y en muchas leucemias y linfomas de células B se observa la transferencia del gen que da origen a esta proteína, a un cromosoma diferente. Esto hace que  se elabore más cantidad de la BCL2, lo que quizás impida la muerte de las células cancerosas. También se llama proteína 2 de la leucemia o linfoma de células B.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-03</DateFirstPublished>
+</GlossaryTerm>

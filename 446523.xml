@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000446523"><TermName>oropharyngeal cancer</TermName><TermPronunciation>(OR-oh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the oropharynx (the middle part of the throat, behind the mouth). The oropharynx includes the soft palate (the back muscular part of the roof of the mouth), the side and back walls of the throat, the tonsils, and the back one-third of the tongue. Most oropharyngeal cancers are squamous cell carcinomas (cancer that begins in the thin, flat cells lining the inside of the oropharynx).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714771" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oropharyngeal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714770" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de orofaringe&quot;" language="es" id="_4"/><SpanishTermName>cáncer de orofaringe</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos de la orofaringe (parte media de la garganta, ubicada por detrás de la boca). La orofaringe abarca el paladar blando (parte posterior muscular del techo de la boca), las amígdalas, el tercio posterior de la lengua y las paredes de la garganta (laterales y posterior). La mayoría de los cánceres de orofaringe son carcinomas de células escamosas (cáncer que empieza en las células planas que revisten la orofaringe).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><DateLastModified>2023-03-02</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256728" url="/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446523">
+  <TermName>oropharyngeal cancer</TermName>
+  <TermPronunciation>(OR-oh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the oropharynx (the middle part of the throat, behind the mouth). The oropharynx includes the soft palate (the back muscular part of the roof of the mouth), the side and back walls of the throat, the tonsils, and the back one-third of the tongue. Most oropharyngeal cancers are squamous cell carcinomas (cancer that begins in the thin, flat cells lining the inside of the oropharynx).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714771" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oropharyngeal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714770" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de orofaringe&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de orofaringe</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos de la orofaringe (parte media de la garganta, ubicada por detrás de la boca). La orofaringe abarca el paladar blando (parte posterior muscular del techo de la boca), las amígdalas, el tercio posterior de la lengua y las paredes de la garganta (laterales y posterior). La mayoría de los cánceres de orofaringe son carcinomas de células escamosas (cáncer que empieza en las células planas que revisten la orofaringe).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <DateLastModified>2023-03-02</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256728" url="/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

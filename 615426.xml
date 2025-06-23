@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000615426"><TermName>18F-16 alpha-fluoroestradiol</TermName><TermPronunciation>(… AL-fuh-FLOOR-oh-es-truh-DY-ol)</TermPronunciation><TermDefinition><DefinitionText>A radiolabeled substance being studied as an imaging agent in breast cancer. 18F-16 alpha-fluoroestradiol binds to estrogen receptors and gives off radiation that can be detected by a positron emission tomography (PET) scan. The PET scan forms an image that shows where cancer cells with estrogen receptors can be found in the body. Also called 18F-FES and fluorine F 18-16 alpha-fluoroestradiol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;18F-16 alpha-fluoroestradiol&quot;" language="en" id="_5"/><MediaLink ref="CDR0000720851" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-16 alfa-fluoroestradiol&quot;" language="es" id="_6"/><SpanishTermName>18F-16 alfa-fluoroestradiol</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiomarcada en estudio para usar en pruebas de imaginología del cáncer de mama. El 18F-16 alfa-fluoroestradiol se une a los receptores de estrógeno y emite una radiación que se puede detectar mediante una tomografía con emisión de positrones (TEP). La TEP crea una imagen que muestra el lugar del cuerpo donde están las células cancerosas con receptores de estrógeno. También se llama 18F-FES y flúor F 18-16 alfa-fluoroestradiol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-23</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000615426">
+  <TermName>18F-16 alpha-fluoroestradiol</TermName>
+  <TermPronunciation>(… AL-fuh-FLOOR-oh-es-truh-DY-ol)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radiolabeled substance being studied as an imaging agent in breast cancer. 18F-16 alpha-fluoroestradiol binds to estrogen receptors and gives off radiation that can be detected by a positron emission tomography (PET) scan. The PET scan forms an image that shows where cancer cells with estrogen receptors can be found in the body. Also called 18F-FES and fluorine F 18-16 alpha-fluoroestradiol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;18F-16 alpha-fluoroestradiol&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000720851" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-16 alfa-fluoroestradiol&quot;" language="es" id="_6"/>
+  <SpanishTermName>18F-16 alfa-fluoroestradiol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiomarcada en estudio para usar en pruebas de imaginología del cáncer de mama. El 18F-16 alfa-fluoroestradiol se une a los receptores de estrógeno y emite una radiación que se puede detectar mediante una tomografía con emisión de positrones (TEP). La TEP crea una imagen que muestra el lugar del cuerpo donde están las células cancerosas con receptores de estrógeno. También se llama 18F-FES y flúor F 18-16 alfa-fluoroestradiol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-23</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

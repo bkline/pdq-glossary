@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000805842"><TermName>extramedullary myeloid tumor</TermName><TermPronunciation>(EK-struh-MED-yoo-LAYR-ee MY-eh-loyd TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer that is made up of myeloblasts (a type of immature white blood cell) and forms outside the bone marrow and blood. The tumor cells may look green when viewed under a microscope. Extramedullary myeloid tumors can occur anywhere in the body. They most commonly occur in people with acute myeloid leukemia or a myeloproliferative disorder. Also called chloroma, granulocytic sarcoma, and myeloid sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808476" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extramedullary myeloid tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000808477" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor mieloide extramedular&quot;" language="es" id="_4"/><SpanishTermName>tumor mieloide extramedular</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer raro que se compone de mieloblastos (tipo de glóbulo blanco inmaduro) y que se forma fuera de la médula ósea y la sangre. Las células del tumor a veces se ven de color verde cuando se observan al microscopio.  Es posible que el tumor mieloide extramedular se origine en cualquier parte del cuerpo. Por lo general, se presenta en personas con leucemia mielógena aguda o un trastorno mieloproliferativo. También se llama cloroma, sarcoma granulocítico y sarcoma mieloide.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-12-30</DateFirstPublished><DateLastModified>2021-12-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805842">
+  <TermName>extramedullary myeloid tumor</TermName>
+  <TermPronunciation>(EK-struh-MED-yoo-LAYR-ee MY-eh-loyd TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer that is made up of myeloblasts (a type of immature white blood cell) and forms outside the bone marrow and blood. The tumor cells may look green when viewed under a microscope. Extramedullary myeloid tumors can occur anywhere in the body. They most commonly occur in people with acute myeloid leukemia or a myeloproliferative disorder. Also called chloroma, granulocytic sarcoma, and myeloid sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808476" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extramedullary myeloid tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000808477" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor mieloide extramedular&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor mieloide extramedular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer raro que se compone de mieloblastos (tipo de glóbulo blanco inmaduro) y que se forma fuera de la médula ósea y la sangre. Las células del tumor a veces se ven de color verde cuando se observan al microscopio.  Es posible que el tumor mieloide extramedular se origine en cualquier parte del cuerpo. Por lo general, se presenta en personas con leucemia mielógena aguda o un trastorno mieloproliferativo. También se llama cloroma, sarcoma granulocítico y sarcoma mieloide.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-12-30</DateFirstPublished>
+  <DateLastModified>2021-12-30</DateLastModified>
+</GlossaryTerm>

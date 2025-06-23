@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000044215"><TermName>millimeter</TermName><TermPronunciation>(MIH-luh-MEE-ter)</TermPronunciation><TermDefinition><DefinitionText>A measure of length in the metric system. A millimeter is one thousandth of a meter. There are 25 millimeters in an inch.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;millimeter&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;milímetro&quot;" language="es" id="_4"/><MediaLink ref="CDR0000796250" type="image/jpeg" alt="Drawing shows different sizes of common items in millimeters (mm): a sharp pencil point (1 mm), a new crayon point (2 mm), a pencil-top eraser (5 mm), a pea (10 mm), a peanut (20 mm), and a lime (50 mm). Also shown is a 2-centimeter (cm) ruler that shows 10 mm is equal to 1 cm." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Tumor sizes are often measured in millimeters (mm) or centimeters. Common items that can be used to show  tumor size in mm include: a sharp pencil point (1 mm), a new crayon point (2 mm), a pencil-top eraser (5 mm), a pea (10 mm), a peanut (20 mm), and a lime (50 mm).</Caption></MediaLink><MediaLink ref="CDR0000796964" type="image/jpeg" alt="En la imagen se muestran objetos comunes de distintos tamaños en milímetros (mm): la punta fina de un lápiz (1 mm), la punta de un crayón nuevo (2 mm), la goma de borrar de un lápiz (5 mm), una arveja (10 mm), un maní (20 mm) y una lima (50 mm). También se observa una regla de dos centímetros (cm)  que muestra que 10 mm equivalen a 1 cm." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Por lo general, el tamaño de un tumor se mide en milímetros (mm) o centímetros (cm). Algunos objetos comunes que se usan para mostrar el tamaño de un tumor en mm son los siguientes: la punta fina de un lápiz (1 mm), la punta de un crayón nuevo (2 mm), la goma de borrar de un lápiz (5 mm), una arveja (10 mm), un maní (20 mm) y una lima (50 mm).</Caption></MediaLink><SpanishTermName>milímetro</SpanishTermName><SpanishTermDefinition><DefinitionText>Medida de longitud del sistema métrico. Un milímetro (mm) es una milésima de un metro. Una pulgada tiene 25 mm.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-04-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044215">
+  <TermName>millimeter</TermName>
+  <TermPronunciation>(MIH-luh-MEE-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A measure of length in the metric system. A millimeter is one thousandth of a meter. There are 25 millimeters in an inch.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;millimeter&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;milímetro&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000796250" type="image/jpeg" alt="Drawing shows different sizes of common items in millimeters (mm): a sharp pencil point (1 mm), a new crayon point (2 mm), a pencil-top eraser (5 mm), a pea (10 mm), a peanut (20 mm), and a lime (50 mm). Also shown is a 2-centimeter (cm) ruler that shows 10 mm is equal to 1 cm." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Tumor sizes are often measured in millimeters (mm) or centimeters. Common items that can be used to show  tumor size in mm include: a sharp pencil point (1 mm), a new crayon point (2 mm), a pencil-top eraser (5 mm), a pea (10 mm), a peanut (20 mm), and a lime (50 mm).</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000796964" type="image/jpeg" alt="En la imagen se muestran objetos comunes de distintos tamaños en milímetros (mm): la punta fina de un lápiz (1 mm), la punta de un crayón nuevo (2 mm), la goma de borrar de un lápiz (5 mm), una arveja (10 mm), un maní (20 mm) y una lima (50 mm). También se observa una regla de dos centímetros (cm)  que muestra que 10 mm equivalen a 1 cm." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Por lo general, el tamaño de un tumor se mide en milímetros (mm) o centímetros (cm). Algunos objetos comunes que se usan para mostrar el tamaño de un tumor en mm son los siguientes: la punta fina de un lápiz (1 mm), la punta de un crayón nuevo (2 mm), la goma de borrar de un lápiz (5 mm), una arveja (10 mm), un maní (20 mm) y una lima (50 mm).</Caption>
+  </MediaLink>
+  <SpanishTermName>milímetro</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medida de longitud del sistema métrico. Un milímetro (mm) es una milésima de un metro. Una pulgada tiene 25 mm.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-04-16</DateLastModified>
+</GlossaryTerm>

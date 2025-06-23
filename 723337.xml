@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000723337"><TermName>geneticist</TermName><TermPronunciation>(jeh-NEH-tih-sist)</TermPronunciation><TermDefinition><DefinitionText>A scientist who has special training in the study of genes and heredity (the passing of genetic information from parents to their children). A medical geneticist is a doctor who specializes in diagnosing and treating genetic disorders or conditions. Medical geneticists also counsel  individuals and families at risk for certain genetic disorders or cancers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734640" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;geneticist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000734639" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetista&quot;" language="es" id="_4"/><SpanishTermName>genetista</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional científico especializado en el estudio de los genes y la herencia (paso de información genética de padres a hijos). Las personas que han recibido formación en medicina y se especializan en el diagnóstico y el tratamiento de trastornos o afecciones genéticas se conocen como médicos genetistas. Los médicos genetistas también asesoran a las personas y las familias en riesgo de ciertos trastornos genéticos o tipos de cáncer. También se llama especialista en genética.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-04-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000723337">
+  <TermName>geneticist</TermName>
+  <TermPronunciation>(jeh-NEH-tih-sist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A scientist who has special training in the study of genes and heredity (the passing of genetic information from parents to their children). A medical geneticist is a doctor who specializes in diagnosing and treating genetic disorders or conditions. Medical geneticists also counsel  individuals and families at risk for certain genetic disorders or cancers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734640" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;geneticist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000734639" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetista&quot;" language="es" id="_4"/>
+  <SpanishTermName>genetista</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional científico especializado en el estudio de los genes y la herencia (paso de información genética de padres a hijos). Las personas que han recibido formación en medicina y se especializan en el diagnóstico y el tratamiento de trastornos o afecciones genéticas se conocen como médicos genetistas. Los médicos genetistas también asesoran a las personas y las familias en riesgo de ciertos trastornos genéticos o tipos de cáncer. También se llama especialista en genética.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-04-11</DateFirstPublished>
+</GlossaryTerm>

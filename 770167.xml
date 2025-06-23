@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000770167"><TermName>dinutuximab</TermName><TermPronunciation>(din-yoo-TUK-sih-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used with granulocyte-macrophage colony-stimulating factor (GM-CSF), aldesleukin (IL-2), and 13-cis-retinoic acid to treat children with high-risk neuroblastoma. It is used in patients whose disease has gotten better with other anticancer treatment. Dinutuximab binds to a substance called GD2, which is found on some types of cancer cells. Dinutuximab may block GD2 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called Ch14.18, MOAB Ch14.18, monoclonal antibody Ch14.18, and Unituxin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000771244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dinutuximab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000771243" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dinutuximab&quot;" language="es" id="_4"/><SpanishTermName>dinutuximab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con el factor estimulante de las colonias de granulocitos y macrófagos  (GM-CSF), la aldesleucina (IL-2) y el ácido retinoico 13-cis para el tratamiento de niños con neuroblastoma de riesgo alto. Se utiliza en pacientes cuya enfermedad mejoró con otros tratamientos  contra el cáncer. El dinutuximab se  une a una sustancia llamada GD2, que se encuentra en algunos tipos de células cancerosas.  Es posible que el dinutuximab bloquee la GD2 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal. También se llama AcM Ch14.18, anticuerpo monoclonal Ch14.18, Ch14.18 y Unituxin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-03-26</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000770044" url="/about-cancer/treatment/drugs/dinutuximab">Dinutuximab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000770167">
+  <TermName>dinutuximab</TermName>
+  <TermPronunciation>(din-yoo-TUK-sih-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with granulocyte-macrophage colony-stimulating factor (GM-CSF), aldesleukin (IL-2), and 13-cis-retinoic acid to treat children with high-risk neuroblastoma. It is used in patients whose disease has gotten better with other anticancer treatment. Dinutuximab binds to a substance called GD2, which is found on some types of cancer cells. Dinutuximab may block GD2 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called Ch14.18, MOAB Ch14.18, monoclonal antibody Ch14.18, and Unituxin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000771244" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dinutuximab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000771243" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dinutuximab&quot;" language="es" id="_4"/>
+  <SpanishTermName>dinutuximab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con el factor estimulante de las colonias de granulocitos y macrófagos  (GM-CSF), la aldesleucina (IL-2) y el ácido retinoico 13-cis para el tratamiento de niños con neuroblastoma de riesgo alto. Se utiliza en pacientes cuya enfermedad mejoró con otros tratamientos  contra el cáncer. El dinutuximab se  une a una sustancia llamada GD2, que se encuentra en algunos tipos de células cancerosas.  Es posible que el dinutuximab bloquee la GD2 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal. También se llama AcM Ch14.18, anticuerpo monoclonal Ch14.18, Ch14.18 y Unituxin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-03-26</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000770044" url="/about-cancer/treatment/drugs/dinutuximab">Dinutuximab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000689706"><TermName>TUMT</TermName><TermDefinition><DefinitionText>A procedure used to treat benign prostatic hypertrophy (BPH). An instrument is inserted through the urethra into the bladder. A small microwave antenna on the instrument heats nearby prostate tissue and destroys it.  This relieves pressure and improves urine flow. Also called transurethral microwave thermotherapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>TTUM</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento que se usa para tratar la hiperplasia prostática benigna (HPB). Se introduce un instrumento a través de la uretra hasta la vejiga, que  tiene una antena pequeña de microondas que calienta y destruye el tejido de la próstata cercano.   Esto alivia la presión y mejora el flujo de orina. También se llama termoterapia transuretral con microondas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-01-11</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/prostate/understanding-prostate-changes">Understanding Prostate Changes and Conditions</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata" UseWith="es">Significado de los cambios en la próstata: Guía de salud para los hombres</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000689706">
+  <TermName>TUMT</TermName>
+  <TermDefinition>
+    <DefinitionText>A procedure used to treat benign prostatic hypertrophy (BPH). An instrument is inserted through the urethra into the bladder. A small microwave antenna on the instrument heats nearby prostate tissue and destroys it.  This relieves pressure and improves urine flow. Also called transurethral microwave thermotherapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>TTUM</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento que se usa para tratar la hiperplasia prostática benigna (HPB). Se introduce un instrumento a través de la uretra hasta la vejiga, que  tiene una antena pequeña de microondas que calienta y destruye el tejido de la próstata cercano.   Esto alivia la presión y mejora el flujo de orina. También se llama termoterapia transuretral con microondas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-01-11</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/prostate/understanding-prostate-changes">Understanding Prostate Changes and Conditions</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata" UseWith="es">Significado de los cambios en la próstata: Guía de salud para los hombres</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

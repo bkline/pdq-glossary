@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044951"><TermName>complementary medicine</TermName><TermPronunciation>(KOM-pleh-MEN-tuh-ree MEH-dih-sin)</TermPronunciation><TermDefinition><DefinitionText>Treatments that are used along with standard treatments, but are not considered standard.  Standard treatments are based on the results of scientific research and are currently accepted and widely used. Less research has been done for most types of complementary medicine. Complementary medicine  includes acupuncture, dietary supplements, massage therapy, hypnosis, and meditation. For example, acupuncture may be used with certain drugs to help lessen cancer pain or nausea and vomiting. Also called complementary therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706190" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;complementary medicine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706191" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medicina complementaria&quot;" language="es" id="_4"/><SpanishTermName>medicina complementaria</SpanishTermName><SpanishTermDefinition><DefinitionText>Cualquier tratamiento que se usa junto con el tratamiento estándar, pero que no se considera como tal. Los tratamientos estándar se fundamentan en la investigación científica y se aceptan y utilizan de manera amplia en la actualidad. Para la mayoría de los tipos de medicina complementaria se han llevado a cabo menos investigaciones. Este tipo de tratamientos abarca la acupuntura, los suplementos alimentarios, la terapia de masaje, la hipnosis y la meditación. Por ejemplo, es posible usar acupuntura con ciertos medicamentos para ayudar a reducir el dolor del cáncer, las náuseas o los vómitos. También se llama terapia complementaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-08-26</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/cam">Complementary and Alternative Medicine </RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/mca">Medicina complementaria y alternativa</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044951">
+  <TermName>complementary medicine</TermName>
+  <TermPronunciation>(KOM-pleh-MEN-tuh-ree MEH-dih-sin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatments that are used along with standard treatments, but are not considered standard.  Standard treatments are based on the results of scientific research and are currently accepted and widely used. Less research has been done for most types of complementary medicine. Complementary medicine  includes acupuncture, dietary supplements, massage therapy, hypnosis, and meditation. For example, acupuncture may be used with certain drugs to help lessen cancer pain or nausea and vomiting. Also called complementary therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706190" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;complementary medicine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706191" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medicina complementaria&quot;" language="es" id="_4"/>
+  <SpanishTermName>medicina complementaria</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cualquier tratamiento que se usa junto con el tratamiento estándar, pero que no se considera como tal. Los tratamientos estándar se fundamentan en la investigación científica y se aceptan y utilizan de manera amplia en la actualidad. Para la mayoría de los tipos de medicina complementaria se han llevado a cabo menos investigaciones. Este tipo de tratamientos abarca la acupuntura, los suplementos alimentarios, la terapia de masaje, la hipnosis y la meditación. Por ejemplo, es posible usar acupuntura con ciertos medicamentos para ayudar a reducir el dolor del cáncer, las náuseas o los vómitos. También se llama terapia complementaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-08-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/cam">Complementary and Alternative Medicine </RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/mca">Medicina complementaria y alternativa</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

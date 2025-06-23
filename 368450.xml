@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000368450"><TermName>stage 0 testicular carcinoma in situ</TermName><TermPronunciation>(...tes-TIH-kyoo-ler KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>Abnormal cells are found in the tiny tubules where the sperm cells begin to develop. These abnormal cells may become cancer and spread into nearby normal tissue. All tumor marker levels are normal. Also called testicular intraepithelial neoplasia and testicular intratubular germ cell neoplasia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711317" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 testicular carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711316" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de testículo in situ en estadio 0&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de testículo in situ en estadio 0</SpanishTermName><SpanishTermDefinition><DefinitionText>Se encuentran células anormales en los túbulos diminutos donde empieza el desarrollo de los espermatozoides. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano. Todas las concentraciones  de marcadores tumorales son normales. También se llama neoplasia intraepitelial de testículo y neoplasia intratubular de células germinativas de testículo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-05-28</DateFirstPublished><DateLastModified>2007-09-21</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000257530" url="/types/testicular/patient/testicular-treatment-pdq">Testicular Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256799" url="/espanol/tipos/testiculo/paciente/tratamiento-testiculo-pdq">Tratamiento del cáncer de testículo</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000368450">
+  <TermName>stage 0 testicular carcinoma in situ</TermName>
+  <TermPronunciation>(...tes-TIH-kyoo-ler KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal cells are found in the tiny tubules where the sperm cells begin to develop. These abnormal cells may become cancer and spread into nearby normal tissue. All tumor marker levels are normal. Also called testicular intraepithelial neoplasia and testicular intratubular germ cell neoplasia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711317" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 testicular carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711316" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de testículo in situ en estadio 0&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de testículo in situ en estadio 0</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se encuentran células anormales en los túbulos diminutos donde empieza el desarrollo de los espermatozoides. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano. Todas las concentraciones  de marcadores tumorales son normales. También se llama neoplasia intraepitelial de testículo y neoplasia intratubular de células germinativas de testículo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-05-28</DateFirstPublished>
+  <DateLastModified>2007-09-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000257530" url="/types/testicular/patient/testicular-treatment-pdq">Testicular Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256799" url="/espanol/tipos/testiculo/paciente/tratamiento-testiculo-pdq">Tratamiento del cáncer de testículo</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

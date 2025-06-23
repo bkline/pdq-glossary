@@ -1,1 +1,39 @@
-<GlossaryTerm id="CDR0000795107"><TermName>cemiplimab</TermName><TermPronunciation>(seh-MIP-lih-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug that binds to the protein PD-1 to help immune cells kill cancer cells better and is used to treat different types of cancer. Cemiplimab is used to treat certain types of basal cell carcinoma and cutaneous squamous cell carcinoma (types of skin cancer) that are locally advanced or have spread to other parts of the body. It is also used alone or with other drugs to treat adults with non-small cell lung cancer that is locally advanced or has spread to other parts of the body and may have the PD-L1 protein, but does not have a mutation (change) in the <GeneName>EGFR</GeneName>, <GeneName>ALK</GeneName>, or <GeneName>ROS1</GeneName> gene. It is also being studied in the treatment of other types of cancer. Cemiplimab may block PD-1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Libtayo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796175" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cemiplimab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796174" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cemiplimab&quot;" language="es" id="_4"/><SpanishTermName>cemiplimab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se une a la proteína PD-1 para ayudar al sistema inmunitario a destruir más células cancerosas, y que se usa para el tratamiento de diferentes tipos de cáncer. El cemiplimab se usa para tratar ciertos tipos de carcinomas cutáneos de células basales y de células escamosas (tipos de cáncer de piel) localmente avanzados o que se diseminaron a otras partes del cuerpo. También se usa solo o con otros medicamentos para el tratamiento de adultos  con cáncer de pulmón de células no pequeñas localmente avanzado o que se diseminó a otras partes del cuerpo y que tiene la proteína PD-1, pero que no tiene una mutación (cambio) en los genes <GeneName>EGFR</GeneName>, <GeneName>ALK</GeneName> o <GeneName>ROS1</GeneName>. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. Es posible que  el cemiplimab bloquee  PD-1 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Libtayo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-10-04</DateFirstPublished><DateLastModified>2022-11-10</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000795036" url="/about-cancer/treatment/drugs/cemiplimab-rwlc">Cemiplimab-rwlc</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000795107">
+  <TermName>cemiplimab</TermName>
+  <TermPronunciation>(seh-MIP-lih-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug that binds to the protein PD-1 to help immune cells kill cancer cells better and is used to treat different types of cancer. Cemiplimab is used to treat certain types of basal cell carcinoma and cutaneous squamous cell carcinoma (types of skin cancer) that are locally advanced or have spread to other parts of the body. It is also used alone or with other drugs to treat adults with non-small cell lung cancer that is locally advanced or has spread to other parts of the body and may have the PD-L1 protein, but does not have a mutation (change) in the 
+      <GeneName>EGFR</GeneName>
+      , 
+      <GeneName>ALK</GeneName>
+      , or 
+      <GeneName>ROS1</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Cemiplimab may block PD-1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Libtayo.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796175" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cemiplimab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796174" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cemiplimab&quot;" language="es" id="_4"/>
+  <SpanishTermName>cemiplimab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se une a la proteína PD-1 para ayudar al sistema inmunitario a destruir más células cancerosas, y que se usa para el tratamiento de diferentes tipos de cáncer. El cemiplimab se usa para tratar ciertos tipos de carcinomas cutáneos de células basales y de células escamosas (tipos de cáncer de piel) localmente avanzados o que se diseminaron a otras partes del cuerpo. También se usa solo o con otros medicamentos para el tratamiento de adultos  con cáncer de pulmón de células no pequeñas localmente avanzado o que se diseminó a otras partes del cuerpo y que tiene la proteína PD-1, pero que no tiene una mutación (cambio) en los genes 
+      <GeneName>EGFR</GeneName>
+      , 
+      <GeneName>ALK</GeneName>
+       o 
+      <GeneName>ROS1</GeneName>
+      . Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. Es posible que  el cemiplimab bloquee  PD-1 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Libtayo.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-10-04</DateFirstPublished>
+  <DateLastModified>2022-11-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000795036" url="/about-cancer/treatment/drugs/cemiplimab-rwlc">Cemiplimab-rwlc</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

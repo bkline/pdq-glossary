@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000322893"><TermName>tumor board review</TermName><TermPronunciation>(TOO-mer bord reh-VYOO)</TermPronunciation><TermDefinition><DefinitionText>A treatment planning process in which a group of cancer doctors and other health care specialists meet regularly to review and discuss new and complex cancer cases. The goal of a tumor board review is to decide as a group on the best treatment plan for a patient. These  meetings can involve specialists from many areas of health care, including medical oncologists, radiation oncologists, surgeons, pathologists, radiologists, genetics experts, nurses, physical therapists, and social workers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731831" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor board review&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731830" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;revisión del comité de tumores&quot;" language="es" id="_4"/><SpanishTermName>revisión del comité de tumores</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso de planificación del tratamiento en el que un grupo de especialistas en oncología y otras áreas de  atención médica se reúnen con regularidad para revisar y analizar casos de pacientes con cánceres nuevos o complejos. El objetivo de una revisión del comité de tumores es decidir en grupo el mejor plan de tratamiento para un paciente. En estas reuniones participan especialistas de muchas áreas de la salud, como oncología médica, oncología radiológica, cirugía, patología, radiología, genética, enfermería, fisioterapia y trabajo social.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2022-12-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000322893">
+  <TermName>tumor board review</TermName>
+  <TermPronunciation>(TOO-mer bord reh-VYOO)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A treatment planning process in which a group of cancer doctors and other health care specialists meet regularly to review and discuss new and complex cancer cases. The goal of a tumor board review is to decide as a group on the best treatment plan for a patient. These  meetings can involve specialists from many areas of health care, including medical oncologists, radiation oncologists, surgeons, pathologists, radiologists, genetics experts, nurses, physical therapists, and social workers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731831" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor board review&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731830" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;revisión del comité de tumores&quot;" language="es" id="_4"/>
+  <SpanishTermName>revisión del comité de tumores</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso de planificación del tratamiento en el que un grupo de especialistas en oncología y otras áreas de  atención médica se reúnen con regularidad para revisar y analizar casos de pacientes con cánceres nuevos o complejos. El objetivo de una revisión del comité de tumores es decidir en grupo el mejor plan de tratamiento para un paciente. En estas reuniones participan especialistas de muchas áreas de la salud, como oncología médica, oncología radiológica, cirugía, patología, radiología, genética, enfermería, fisioterapia y trabajo social.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2022-12-29</DateLastModified>
+</GlossaryTerm>

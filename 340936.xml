@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000340936"><TermName>silymarin</TermName><TermPronunciation>(SIH-lih-MAYR-in)</TermPronunciation><TermDefinition><DefinitionText>A substance obtained from milk thistle seeds that is being studied in the prevention of liver damage caused by certain cancer treatments.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731360" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;silymarin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731361" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;silimarina&quot;" language="es" id="_4"/><SpanishTermName>silimarina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se obtiene de las semillas del cardo mariano que se estudia para la prevención del daño hepático que causan ciertos tratamientos del cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-25</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000466216" url="/about-cancer/treatment/cam/patient/milk-thistle-pdq">Milk Thistle</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000783453" url="/espanol/cancer/tratamiento/mca/paciente/cardo-mariano-pdq">Cardo mariano</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000340936">
+  <TermName>silymarin</TermName>
+  <TermPronunciation>(SIH-lih-MAYR-in)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance obtained from milk thistle seeds that is being studied in the prevention of liver damage caused by certain cancer treatments.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731360" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;silymarin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731361" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;silimarina&quot;" language="es" id="_4"/>
+  <SpanishTermName>silimarina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que se obtiene de las semillas del cardo mariano que se estudia para la prevención del daño hepático que causan ciertos tratamientos del cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-25</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000466216" url="/about-cancer/treatment/cam/patient/milk-thistle-pdq">Milk Thistle</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000783453" url="/espanol/cancer/tratamiento/mca/paciente/cardo-mariano-pdq">Cardo mariano</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

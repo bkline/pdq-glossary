@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000440101"><TermName>asthma</TermName><TermPronunciation>(AZ-muh)</TermPronunciation><TermDefinition><DefinitionText>A chronic disease in which the bronchial airways in the lungs become narrowed and swollen, making it difficult to breathe. Symptoms include wheezing, coughing, tightness in the chest, shortness of breath, and rapid breathing. An asthma attack may be brought on by pet hair, dust, smoke, pollen, mold, exercise, cold air, or stress.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;asthma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;asma&quot;" language="es" id="_4"/><SpanishTermName>asma</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad crónica que produce estrechamiento e hinchazón de los bronquios en los pulmones, lo que hace difícil la respiración. Los síntomas incluyen sibilancias, tos, presión en el pecho, dificultad para respirar y respiración rápida. Las posibles causas de un ataque de asma son el pelo de animales, el polvo, el humo, el polen, el moho, el ejercicio, el aire frío o el estrés. También se llama asma bronquial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-24</DateFirstPublished><DateLastModified>2013-01-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000440101">
+  <TermName>asthma</TermName>
+  <TermPronunciation>(AZ-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A chronic disease in which the bronchial airways in the lungs become narrowed and swollen, making it difficult to breathe. Symptoms include wheezing, coughing, tightness in the chest, shortness of breath, and rapid breathing. An asthma attack may be brought on by pet hair, dust, smoke, pollen, mold, exercise, cold air, or stress.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;asthma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;asma&quot;" language="es" id="_4"/>
+  <SpanishTermName>asma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad crónica que produce estrechamiento e hinchazón de los bronquios en los pulmones, lo que hace difícil la respiración. Los síntomas incluyen sibilancias, tos, presión en el pecho, dificultad para respirar y respiración rápida. Las posibles causas de un ataque de asma son el pelo de animales, el polvo, el humo, el polen, el moho, el ejercicio, el aire frío o el estrés. También se llama asma bronquial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-24</DateFirstPublished>
+  <DateLastModified>2013-01-29</DateLastModified>
+</GlossaryTerm>

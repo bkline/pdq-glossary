@@ -1,1 +1,36 @@
-<GlossaryTerm id="CDR0000776356"><TermName>NCTN</TermName><TermDefinition><DefinitionText>A National Cancer Institute (NCI) program that gives funds and other support to cancer research organizations to conduct cancer clinical trials. The NCTN helps these organizations develop new clinical trials and manage their regulatory, financial, membership, and scientific committees. It also helps with statistics and data management, Institutional Review Boards (IRBs), and patient tissue sample collection and storage. This support allows researchers to conduct trials that focus on specific cancers and patient populations and new treatment methods. The groups in the NCTN include the Alliance for Clinical Trials in Oncology, ECOG-ACRIN Cancer Research Group, NRG Oncology, SWOG, Children’s Oncology Group (COG), and the NCI of Canada-Clinical Trials Group (NCIC-CTG). The NCTN was previously known as the NCI Clinical Trials Cooperative Group Program. Also called National Clinical Trials Network.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>NCTN</SpanishTermName><SpanishTermDefinition><DefinitionText>Programa del Instituto Nacional del Cáncer (NCI) que proporciona recursos financieros y otras formas de apoyo a organizaciones de investigación oncológica para llevar a cabo ensayos clínicos sobre el cáncer. La NCTN ayuda a estas organizaciones a concebir nuevos ensayos clínicos y organizar sus comités reglamentarios, financieros, de miembros y científicos. También apoya la administración de datos y estadísticas, los Consejos de Revisión Institucional (CRI),  así como  la recolección y almacenamiento de muestras de tejido de los pacientes. Esta colaboración permite que los investigadores lleven a cabo ensayos que se enfocan en tipos específicos de cáncer y poblaciones de pacientes, además de nuevos métodos de tratamiento. Los grupos que pertenecen a  esta red son <ForeignWord>Alliance for Clinical Trials in Oncology</ForeignWord> (Alianza para Estudios Clínicos en Oncología), <ForeignWord>ECOG-ACRIN Cancer Research Group</ForeignWord> (Grupo de Investigación Oncológica ECOG-ACRIN), <ForeignWord>NRG Oncology</ForeignWord> (Grupo Oncológico NRG), <ForeignWord>SWOG Cancer Research Network</ForeignWord> (Red de Investigación Oncológica SWOG), <ForeignWord>Children’s Oncology Group</ForeignWord> (Grupo de Oncología Infantil [COG]) y <ForeignWord>NCI of Canada-Clinical Trials Group</ForeignWord> (Grupo de Ensayos Clínicos del Instituto Nacional del Cáncer de Canadá [NCIC-CTG]). El nombre anterior del NCTN era  Programa de Grupos Cooperativos de Estudios Clínicos del NCI. También se llama Red Nacional de Ensayos Clínicos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-02-17</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/research/infrastructure/clinical-trials/nctn">NCTN: NCI’s National Clinical Trials Network</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/investigacion/infraestructura/estudios-clinicos/nctn">Red Nacional de Estudios Clínicos (NCTN) del NCI</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000045656" UseWith="en" audience="Patients">NCI clinical trials cooperative group</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000045656" UseWith="es" audience="Patients">grupo cooperativo de ensayos clínicos del NCI</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000776356">
+  <TermName>NCTN</TermName>
+  <TermDefinition>
+    <DefinitionText>A National Cancer Institute (NCI) program that gives funds and other support to cancer research organizations to conduct cancer clinical trials. The NCTN helps these organizations develop new clinical trials and manage their regulatory, financial, membership, and scientific committees. It also helps with statistics and data management, Institutional Review Boards (IRBs), and patient tissue sample collection and storage. This support allows researchers to conduct trials that focus on specific cancers and patient populations and new treatment methods. The groups in the NCTN include the Alliance for Clinical Trials in Oncology, ECOG-ACRIN Cancer Research Group, NRG Oncology, SWOG, Children’s Oncology Group (COG), and the NCI of Canada-Clinical Trials Group (NCIC-CTG). The NCTN was previously known as the NCI Clinical Trials Cooperative Group Program. Also called National Clinical Trials Network.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>NCTN</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Programa del Instituto Nacional del Cáncer (NCI) que proporciona recursos financieros y otras formas de apoyo a organizaciones de investigación oncológica para llevar a cabo ensayos clínicos sobre el cáncer. La NCTN ayuda a estas organizaciones a concebir nuevos ensayos clínicos y organizar sus comités reglamentarios, financieros, de miembros y científicos. También apoya la administración de datos y estadísticas, los Consejos de Revisión Institucional (CRI),  así como  la recolección y almacenamiento de muestras de tejido de los pacientes. Esta colaboración permite que los investigadores lleven a cabo ensayos que se enfocan en tipos específicos de cáncer y poblaciones de pacientes, además de nuevos métodos de tratamiento. Los grupos que pertenecen a  esta red son 
+      <ForeignWord>Alliance for Clinical Trials in Oncology</ForeignWord>
+       (Alianza para Estudios Clínicos en Oncología), 
+      <ForeignWord>ECOG-ACRIN Cancer Research Group</ForeignWord>
+       (Grupo de Investigación Oncológica ECOG-ACRIN), 
+      <ForeignWord>NRG Oncology</ForeignWord>
+       (Grupo Oncológico NRG), 
+      <ForeignWord>SWOG Cancer Research Network</ForeignWord>
+       (Red de Investigación Oncológica SWOG), 
+      <ForeignWord>Children’s Oncology Group</ForeignWord>
+       (Grupo de Oncología Infantil [COG]) y 
+      <ForeignWord>NCI of Canada-Clinical Trials Group</ForeignWord>
+       (Grupo de Ensayos Clínicos del Instituto Nacional del Cáncer de Canadá [NCIC-CTG]). El nombre anterior del NCTN era  Programa de Grupos Cooperativos de Estudios Clínicos del NCI. También se llama Red Nacional de Ensayos Clínicos.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-02-17</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/research/infrastructure/clinical-trials/nctn">NCTN: NCI’s National Clinical Trials Network</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/investigacion/infraestructura/estudios-clinicos/nctn">Red Nacional de Estudios Clínicos (NCTN) del NCI</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000045656" UseWith="en" audience="Patients">NCI clinical trials cooperative group</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000045656" UseWith="es" audience="Patients">grupo cooperativo de ensayos clínicos del NCI</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

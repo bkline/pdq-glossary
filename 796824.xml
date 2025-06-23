@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796824"><TermName>blastic plasmacytoid dendritic cell neoplasm</TermName><TermPronunciation>(BLAS-tik PLAZ-muh-SY-toyd den-DRIH-tik sel NEE-oh-PLA-zum)</TermPronunciation><TermDefinition><DefinitionText>A rare, fast-growing cancer that affects the blood, bone marrow, and skin. It can also affect the lymph nodes, spleen, and central nervous system. Most patients with blastic plasmacytoid dendritic cell neoplasm have red-brown or deep purple skin lesions on one or more areas of the body. Blastic plasmacytoid dendritic cell neoplasm usually occurs in older adults and is difficult to diagnose and treat. Also called BPDCN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;blastic plasmacytoid dendritic cell neoplasm&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797983" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia de células dendríticas plasmocitoides blásticas&quot;" language="es" id="_4"/><SpanishTermName>neoplasia de células dendríticas plasmocitoides blásticas</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer poco frecuente de crecimiento rápido que afecta la sangre, la médula ósea y la piel. También puede afectar los ganglios linfáticos, el bazo y el sistema nervioso central. La mayoría de los pacientes con neoplasia de células dendríticas plasmocitoides blásticas tienen lesiones en la piel de color marrón rojizo o morado  oscuro en una o más áreas del cuerpo.  Esta neoplasia a menudo se presenta en adultos mayores y su diagnóstico y tratamiento son difíciles. También se llama NCDPB.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796824">
+  <TermName>blastic plasmacytoid dendritic cell neoplasm</TermName>
+  <TermPronunciation>(BLAS-tik PLAZ-muh-SY-toyd den-DRIH-tik sel NEE-oh-PLA-zum)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, fast-growing cancer that affects the blood, bone marrow, and skin. It can also affect the lymph nodes, spleen, and central nervous system. Most patients with blastic plasmacytoid dendritic cell neoplasm have red-brown or deep purple skin lesions on one or more areas of the body. Blastic plasmacytoid dendritic cell neoplasm usually occurs in older adults and is difficult to diagnose and treat. Also called BPDCN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;blastic plasmacytoid dendritic cell neoplasm&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797983" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia de células dendríticas plasmocitoides blásticas&quot;" language="es" id="_4"/>
+  <SpanishTermName>neoplasia de células dendríticas plasmocitoides blásticas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer poco frecuente de crecimiento rápido que afecta la sangre, la médula ósea y la piel. También puede afectar los ganglios linfáticos, el bazo y el sistema nervioso central. La mayoría de los pacientes con neoplasia de células dendríticas plasmocitoides blásticas tienen lesiones en la piel de color marrón rojizo o morado  oscuro en una o más áreas del cuerpo.  Esta neoplasia a menudo se presenta en adultos mayores y su diagnóstico y tratamiento son difíciles. También se llama NCDPB.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-09</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000269453"><TermName>symptom management</TermName><TermPronunciation>(SIMP-tum MA-nij-ment)</TermPronunciation><TermDefinition><DefinitionText>Care given to help relieve the symptoms of a disease, such as cancer, and the side effects caused by treatment of the disease. Symptom management may help a person feel more comfortable, but it does not treat or cure the disease. It may involve taking certain medicines to relieve pain or nausea or using guided imagery or deep breathing exercises to reduce stress or anxiety. Symptom management is one aspect of palliative care and supportive care.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;symptom management&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento de los síntomas&quot;" language="es" id="_4"/><SpanishTermName>tratamiento de los síntomas</SpanishTermName><SpanishTermDefinition><DefinitionText>Atención que se brinda para aliviar los síntomas de una enfermedad, como el cáncer, y los efectos secundarios provocados por el tratamiento. El tratamiento de los síntomas quizás ayude a que la persona se sienta más cómoda, pero no trata ni cura la enfermedad. Es posible que implique tener que tomar determinados medicamentos con el fin de aliviar el dolor o las náuseas, o usar imágenes guiadas o ejercicios de respiración profunda para reducir el estrés o la ansiedad. El tratamiento de los síntomas es un aspecto de los cuidados paliativos y de apoyo. También se llama control de síntomas y tratamiento sintomático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2002-12-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000269453">
+  <TermName>symptom management</TermName>
+  <TermPronunciation>(SIMP-tum MA-nij-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Care given to help relieve the symptoms of a disease, such as cancer, and the side effects caused by treatment of the disease. Symptom management may help a person feel more comfortable, but it does not treat or cure the disease. It may involve taking certain medicines to relieve pain or nausea or using guided imagery or deep breathing exercises to reduce stress or anxiety. Symptom management is one aspect of palliative care and supportive care.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731453" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;symptom management&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tratamiento de los síntomas&quot;" language="es" id="_4"/>
+  <SpanishTermName>tratamiento de los síntomas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Atención que se brinda para aliviar los síntomas de una enfermedad, como el cáncer, y los efectos secundarios provocados por el tratamiento. El tratamiento de los síntomas quizás ayude a que la persona se sienta más cómoda, pero no trata ni cura la enfermedad. Es posible que implique tener que tomar determinados medicamentos con el fin de aliviar el dolor o las náuseas, o usar imágenes guiadas o ejercicios de respiración profunda para reducir el estrés o la ansiedad. El tratamiento de los síntomas es un aspecto de los cuidados paliativos y de apoyo. También se llama control de síntomas y tratamiento sintomático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2002-12-21</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000816562"><TermName>lazertinib mesylate hydrate</TermName><TermPronunciation>(la-ZER-tih-nib MEH-zih-layt HY-drayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used with amivantamab to treat adults with non-small cell lung cancer that has spread to other parts of the body or cannot be removed by surgery and has certain mutations (changes) in the <GeneName>EGFR</GeneName> gene. Lazertinib mesylate hydrate blocks certain proteins made by the mutated <GeneName>EGFR</GeneName> gene, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called Lazcluze.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817415" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lazertinib mesylate hydrate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817416" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hidrato de mesilato de lazertinib&quot;" language="es" id="_4"/><SpanishTermName>hidrato de mesilato de lazertinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con el amivantamab para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó a otras partes del cuerpo, o que no es posible extirpar mediante cirugía, y que tiene ciertas mutaciones (cambios) en el gen <GeneName>EGFR</GeneName>. El hidrato de mesilato de lazertinib bloquea ciertas proteínas que se originan del gen <GeneName>EGFR</GeneName> mutado, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama Lazcluze.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-09-04</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000816649" url="/about-cancer/treatment/drugs/lazertinib-mesylate-hydrate">Lazertinib Mesylate Hydrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816562">
+  <TermName>lazertinib mesylate hydrate</TermName>
+  <TermPronunciation>(la-ZER-tih-nib MEH-zih-layt HY-drayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used with amivantamab to treat adults with non-small cell lung cancer that has spread to other parts of the body or cannot be removed by surgery and has certain mutations (changes) in the 
+      <GeneName>EGFR</GeneName>
+       gene. Lazertinib mesylate hydrate blocks certain proteins made by the mutated 
+      <GeneName>EGFR</GeneName>
+       gene, which may help keep cancer cells from growing and may kill them. It is a type of tyrosine kinase inhibitor. Also called Lazcluze.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817415" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lazertinib mesylate hydrate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817416" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hidrato de mesilato de lazertinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>hidrato de mesilato de lazertinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa con el amivantamab para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó a otras partes del cuerpo, o que no es posible extirpar mediante cirugía, y que tiene ciertas mutaciones (cambios) en el gen 
+      <GeneName>EGFR</GeneName>
+      . El hidrato de mesilato de lazertinib bloquea ciertas proteínas que se originan del gen 
+      <GeneName>EGFR</GeneName>
+       mutado, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de tirosina–cinasas. También se llama Lazcluze.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-09-04</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000816649" url="/about-cancer/treatment/drugs/lazertinib-mesylate-hydrate">Lazertinib Mesylate Hydrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

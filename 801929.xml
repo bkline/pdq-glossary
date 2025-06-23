@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000801929"><TermName>telehealth</TermName><TermPronunciation>(TEH-leh-helth)</TermPronunciation><TermDefinition><DefinitionText>The delivery of health care from a distance using electronic information and technology, such as computers, cameras, videoconferencing, satellites, wireless communications, and the internet.  Also called telemedicine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804398" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;telehealth&quot;" language="en" id="_4"/><MediaLink ref="CDR0000804399" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;telesalud&quot;" language="es" id="_5"/><SpanishTermName>telesalud</SpanishTermName><SpanishTermDefinition><DefinitionText>Prestación de atención médica a distancia mediante el empleo de información y tecnologías electrónicas, como computadoras, cámaras, videoconferencias, satélites, comunicaciones inhalámbricas y la Internet. También se llama telemedicina y telesanidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-07</DateFirstPublished><DateLastModified>2024-02-02</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801929">
+  <TermName>telehealth</TermName>
+  <TermPronunciation>(TEH-leh-helth)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The delivery of health care from a distance using electronic information and technology, such as computers, cameras, videoconferencing, satellites, wireless communications, and the internet.  Also called telemedicine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804398" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;telehealth&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000804399" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;telesalud&quot;" language="es" id="_5"/>
+  <SpanishTermName>telesalud</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Prestación de atención médica a distancia mediante el empleo de información y tecnologías electrónicas, como computadoras, cámaras, videoconferencias, satélites, comunicaciones inhalámbricas y la Internet. También se llama telemedicina y telesanidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-07</DateFirstPublished>
+  <DateLastModified>2024-02-02</DateLastModified>
+</GlossaryTerm>

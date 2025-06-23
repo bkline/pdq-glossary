@@ -1,5 +1,27 @@
-<GlossaryTerm id="CDR0000791164"><TermName>cascade screening</TermName><TermPronunciation>(kas-KADE SKREE-ning)</TermPronunciation><TermDefinition><DefinitionText>A systematic process for the identification of individuals within a family at risk for a hereditary condition. Cascade screening begins with finding a pathogenic/likely pathogenic variant through broad-based testing (such as full gene or multigene panel testing) in one family member, usually affected with the condition. Then, testing just for the specific family variant is extended to at-risk biologic relatives. This process is repeated as more affected individuals or pathogenic variant carriers are identified. Cascade screening is sometimes referred to as cascade testing (preferred term).</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000792248" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cascade screening&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804338" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;detección en cascada&quot;" language="es" id="_4"/><SpanishTermName>detección en cascada</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso sistemático para la
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791164">
+  <TermName>cascade screening</TermName>
+  <TermPronunciation>(kas-KADE SKREE-ning)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A systematic process for the identification of individuals within a family at risk for a hereditary condition. Cascade screening begins with finding a pathogenic/likely pathogenic variant through broad-based testing (such as full gene or multigene panel testing) in one family member, usually affected with the condition. Then, testing just for the specific family variant is extended to at-risk biologic relatives. This process is repeated as more affected individuals or pathogenic variant carriers are identified. Cascade screening is sometimes referred to as cascade testing (preferred term).</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792248" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cascade screening&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804338" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;detección en cascada&quot;" language="es" id="_4"/>
+  <SpanishTermName>detección en cascada</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso sistemático para la
 identificación de personas en riesgo de presentar una
 afección hereditaria dentro de una familia. El primer paso de la detección en cascada es la búsqueda de una variante patógena, o probablemente patógena, mediante un análisis de base amplia (como una prueba de secuenciación de un gen completo o un análisis multigénico) en un familiar que, por lo general, se encuentra afectado. A continuación, los familiares biológicos en riesgo se someten a una prueba que detecta solo la variante familiar específica. El proceso  se repite a medida que se identifican más personas
 afectadas o portadoras de la variante
-patógena. Este proceso también se conoce como "pruebas en cascada" (término preferido).</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2017-10-03</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq" UseWith="en">Cancer Genetics Risk Assessment and Counseling (Health Professional Version)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/evaluacion-del-riesgo-pdq">Evaluación del riesgo de cáncer y asesoramiento genético (Versión para profesionales de salud)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+patógena. Este proceso también se conoce como &quot;pruebas en cascada&quot; (término preferido).</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-10-03</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/causes-prevention/genetics/risk-assessment-pdq" UseWith="en">Cancer Genetics Risk Assessment and Counseling (Health Professional Version)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica/evaluacion-del-riesgo-pdq">Evaluación del riesgo de cáncer y asesoramiento genético (Versión para profesionales de salud)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000467828"><TermName>anatomy</TermName><TermPronunciation>(uh-NA-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>The study of the structure of a plant or animal. Human anatomy includes the cells, tissues, and organs that make up the body and how they are organized in the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716780" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anatomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716781" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anatomía&quot;" language="es" id="_4"/><SpanishTermName>anatomía</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio de la estructura de una planta o un animal. La anatomía humana incluye el estudio de las células, los tejidos y los órganos que componen el cuerpo y el modo en que se organizan en el mismo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-11</DateFirstPublished><DateLastModified>2022-03-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000467828">
+  <TermName>anatomy</TermName>
+  <TermPronunciation>(uh-NA-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The study of the structure of a plant or animal. Human anatomy includes the cells, tissues, and organs that make up the body and how they are organized in the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716780" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anatomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716781" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anatomía&quot;" language="es" id="_4"/>
+  <SpanishTermName>anatomía</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio de la estructura de una planta o un animal. La anatomía humana incluye el estudio de las células, los tejidos y los órganos que componen el cuerpo y el modo en que se organizan en el mismo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-11</DateFirstPublished>
+  <DateLastModified>2022-03-15</DateLastModified>
+</GlossaryTerm>

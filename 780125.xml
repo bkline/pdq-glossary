@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000780125"><TermName>Hydrea</TermName><TermPronunciation>(hy-DREE-uh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient hydroxyurea and is used alone or with other anticancer drugs or radiation therapy to treat certain types of chronic myelogenous leukemia and head and neck cancer. It is also being studied in the treatment of other conditions and types of cancer. Hydrea stops cells from making DNA and may kill cancer cells. It may also make cancer cells easier to kill with radiation therapy. Hydrea is a type of antimetabolite.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000781327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hydrea&quot;" language="en" id="_3"/><MediaLink ref="CDR0000781326" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hydrea&quot;" language="es" id="_4"/><SpanishTermName>Hydrea</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo hidroxiurea. Se usa solo, con otros medicamentos contra el cáncer o con la radioterapia para el tratamiento de ciertos tipos de leucemia mieloide crónica y cáncer de cabeza y cuello. Asimismo, está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Hydrea impide que las células elaboren ADN y es posible que destruya células cancerosas. También, en ocasiones hace que sea más fácil destruir las células cancerosas con radioterapia. Hydrea es un tipo de antimetabolito.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-04-13</DateFirstPublished><DateLastModified>2020-12-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000780126" url="/about-cancer/treatment/drugs/hydroxyurea">Hydroxyurea</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780125">
+  <TermName>Hydrea</TermName>
+  <TermPronunciation>(hy-DREE-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient hydroxyurea and is used alone or with other anticancer drugs or radiation therapy to treat certain types of chronic myelogenous leukemia and head and neck cancer. It is also being studied in the treatment of other conditions and types of cancer. Hydrea stops cells from making DNA and may kill cancer cells. It may also make cancer cells easier to kill with radiation therapy. Hydrea is a type of antimetabolite.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000781327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hydrea&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000781326" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hydrea&quot;" language="es" id="_4"/>
+  <SpanishTermName>Hydrea</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo hidroxiurea. Se usa solo, con otros medicamentos contra el cáncer o con la radioterapia para el tratamiento de ciertos tipos de leucemia mieloide crónica y cáncer de cabeza y cuello. Asimismo, está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Hydrea impide que las células elaboren ADN y es posible que destruya células cancerosas. También, en ocasiones hace que sea más fácil destruir las células cancerosas con radioterapia. Hydrea es un tipo de antimetabolito.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-04-13</DateFirstPublished>
+  <DateLastModified>2020-12-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000780126" url="/about-cancer/treatment/drugs/hydroxyurea">Hydroxyurea</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

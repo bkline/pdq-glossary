@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000796503"><TermName>stage IVB salivary gland cancer</TermName><TermPronunciation>(... SA-lih-VAYR-ee gland KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage IV
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796503">
+  <TermName>stage IVB salivary gland cancer</TermName>
+  <TermPronunciation>(... SA-lih-VAYR-ee gland KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage IV
           salivary gland cancer is divided into stages IVA, IVB, and
           IVC. In stage IVB, (1) the tumor is any size and cancer may
           have spread to soft tissue around the salivary gland or to
@@ -18,4 +23,21 @@
           surrounds the carotid artery. Cancer may have spread to one
           or more lymph nodes of any size on either or both sides of
           the head or neck and may have grown outside the lymph
-          nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797320" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IVB salivary gland cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801287" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de glándulas salivales en estadio IVB&quot;" language="es" id="_4"/><SpanishTermName>cáncer de glándulas salivales en estadio IVB</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer de glándulas salivales en estadio IV se divide en los estadios IVA, IVB y IVC. En el estadio IVB, se presenta una de las siguientes situaciones: 1) El tumor es de cualquier tamaño y es posible que se haya diseminado al tejido blando que rodea la glándula salival o a la piel, la mandíbula, el conducto auditivo externo o el nervio facial. El cáncer se diseminó a uno de los siguientes sitios: a) el cáncer se diseminó a 1 ganglio linfático que mide más de 6 cm y el cáncer no se diseminó fuera del ganglio linfático; b) el cáncer se diseminó a 1 ganglio linfático del mismo lado de la  cabeza o el cuello que el tumor; el ganglio linfático mide más de 3 cm y el cáncer se diseminó fuera del ganglio linfático; c) el cáncer se diseminó a más de 1 ganglio linfático del mismo lado de la cabeza o el cuello que el tumor, del lado contrario al tumor primario, o a ambos lados de la cabeza o el cuello; el cáncer se diseminó fuera de cualquiera de los ganglios linfáticos; d) el cáncer se diseminó a 1 ganglio linfático de cualquier tamaño del lado de la cabeza o el cuello contrario al tumor primario; el cáncer se diseminó fuera del ganglio linfático. 2) El cáncer se diseminó a la base del cráneo o rodea la arteria carótida. Es posible que el cáncer se haya diseminado a 1 o más ganglios linfáticos de cualquier tamaño que están a uno o ambos lados de la cabeza o el cuello, y que el cáncer se haya diseminado fuera de los ganglios linfáticos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-01-11</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258034" url="/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000530606" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq">Tratamiento del cáncer de glándulas salivales</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+          nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797320" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IVB salivary gland cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801287" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de glándulas salivales en estadio IVB&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de glándulas salivales en estadio IVB</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer de glándulas salivales en estadio IV se divide en los estadios IVA, IVB y IVC. En el estadio IVB, se presenta una de las siguientes situaciones: 1) El tumor es de cualquier tamaño y es posible que se haya diseminado al tejido blando que rodea la glándula salival o a la piel, la mandíbula, el conducto auditivo externo o el nervio facial. El cáncer se diseminó a uno de los siguientes sitios: a) el cáncer se diseminó a 1 ganglio linfático que mide más de 6 cm y el cáncer no se diseminó fuera del ganglio linfático; b) el cáncer se diseminó a 1 ganglio linfático del mismo lado de la  cabeza o el cuello que el tumor; el ganglio linfático mide más de 3 cm y el cáncer se diseminó fuera del ganglio linfático; c) el cáncer se diseminó a más de 1 ganglio linfático del mismo lado de la cabeza o el cuello que el tumor, del lado contrario al tumor primario, o a ambos lados de la cabeza o el cuello; el cáncer se diseminó fuera de cualquiera de los ganglios linfáticos; d) el cáncer se diseminó a 1 ganglio linfático de cualquier tamaño del lado de la cabeza o el cuello contrario al tumor primario; el cáncer se diseminó fuera del ganglio linfático. 2) El cáncer se diseminó a la base del cráneo o rodea la arteria carótida. Es posible que el cáncer se haya diseminado a 1 o más ganglios linfáticos de cualquier tamaño que están a uno o ambos lados de la cabeza o el cuello, y que el cáncer se haya diseminado fuera de los ganglios linfáticos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-01-11</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258034" url="/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000530606" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq">Tratamiento del cáncer de glándulas salivales</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

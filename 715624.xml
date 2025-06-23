@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000715624"><TermName>atypical mole</TermName><TermPronunciation>(ay-TIH-pih-kul mole)</TermPronunciation><TermDefinition><DefinitionText>A type of mole that looks different from a common mole. Several different types of moles are called atypical.  Atypical moles are often larger than common moles and have regular or ragged or blurred borders that are not easy to see.  Colors of atypical moles may be the same as the rest of the skin, or lighter, darker, or uneven.  Parts or all of the mole may be raised above the skin surface. It is rare, but some atypical moles can develop into melanoma (a type of skin cancer).  An atypical mole is sometimes called a Spitz nevus, a congenital nevus, a birthmark, or a dysplastic nevus.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atypical mole&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lunar atípico&quot;" language="es" id="_4"/><SpanishTermName>lunar atípico</SpanishTermName><SpanishTermDefinition><DefinitionText>Un tipo de lunar  cuya apariencia es diferente a la de un lunar común. Varios tipos de lunares se llaman atípicos. Casi siempre, los lunares atípicos son más grandes que los lunares comunes, y sus bordes son uniformes, irregulares o borrosos, que no se pueden ver fácilmente. El color de los lunares atípicos puede ser igual al del resto de la piel, o puede ser de color más claro, más oscuro o  disparejo. Todo el lunar o una parte del lunar puede sobresalir de la superficie de la piel. Aunque es poco frecuente, los lunares atípicos  se pueden volver melanoma (un tipo de cáncer de piel). A veces, un lunar atípico se conoce como nevo de Spitz, nevo congénito, marca de nacimiento o nevo displásico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-10-26</DateFirstPublished><DateLastModified>2016-01-11</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/skin/moles-fact-sheet">Common Moles, Dysplastic Nevi, and Risk of Melanoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/piel/hoja-informativa-lunares">Lunares comunes, nevos displásicos y el riesgo de melanoma</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000715624">
+  <TermName>atypical mole</TermName>
+  <TermPronunciation>(ay-TIH-pih-kul mole)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of mole that looks different from a common mole. Several different types of moles are called atypical.  Atypical moles are often larger than common moles and have regular or ragged or blurred borders that are not easy to see.  Colors of atypical moles may be the same as the rest of the skin, or lighter, darker, or uneven.  Parts or all of the mole may be raised above the skin surface. It is rare, but some atypical moles can develop into melanoma (a type of skin cancer).  An atypical mole is sometimes called a Spitz nevus, a congenital nevus, a birthmark, or a dysplastic nevus.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;atypical mole&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lunar atípico&quot;" language="es" id="_4"/>
+  <SpanishTermName>lunar atípico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Un tipo de lunar  cuya apariencia es diferente a la de un lunar común. Varios tipos de lunares se llaman atípicos. Casi siempre, los lunares atípicos son más grandes que los lunares comunes, y sus bordes son uniformes, irregulares o borrosos, que no se pueden ver fácilmente. El color de los lunares atípicos puede ser igual al del resto de la piel, o puede ser de color más claro, más oscuro o  disparejo. Todo el lunar o una parte del lunar puede sobresalir de la superficie de la piel. Aunque es poco frecuente, los lunares atípicos  se pueden volver melanoma (un tipo de cáncer de piel). A veces, un lunar atípico se conoce como nevo de Spitz, nevo congénito, marca de nacimiento o nevo displásico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-10-26</DateFirstPublished>
+  <DateLastModified>2016-01-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/skin/moles-fact-sheet">Common Moles, Dysplastic Nevi, and Risk of Melanoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/piel/hoja-informativa-lunares">Lunares comunes, nevos displásicos y el riesgo de melanoma</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

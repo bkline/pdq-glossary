@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045657"><TermName>core biopsy</TermName><TermPronunciation>(... BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>The removal of a tissue sample with a wide needle for examination under a microscope. Also called core needle biopsy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705743" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;core biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705744" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por punción con aguja gruesa&quot;" language="es" id="_5"/><SpanishTermName>biopsia por punción con aguja gruesa</SpanishTermName><SpanishTermDefinition><DefinitionText>Extracción de una muestra de tejido con una aguja ancha para observarla al microscopio. También se llama biopsia con aguja gruesa, biopsia con aguja hueca, biopsia por punción con aguja hueca y punción biópsica con aguja gruesa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2008-01-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045657">
+  <TermName>core biopsy</TermName>
+  <TermPronunciation>(... BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The removal of a tissue sample with a wide needle for examination under a microscope. Also called core needle biopsy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705743" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;core biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705744" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia por punción con aguja gruesa&quot;" language="es" id="_5"/>
+  <SpanishTermName>biopsia por punción con aguja gruesa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Extracción de una muestra de tejido con una aguja ancha para observarla al microscopio. También se llama biopsia con aguja gruesa, biopsia con aguja hueca, biopsia por punción con aguja hueca y punción biópsica con aguja gruesa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2008-01-04</DateLastModified>
+</GlossaryTerm>

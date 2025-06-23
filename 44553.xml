@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044553"><TermName>papillary thyroid cancer</TermName><TermPronunciation>(PA-pih-LAYR-ee THY-royd KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in follicular cells in the thyroid and grows in small finger-like shapes. It grows slowly, is more common in women than in men, and often occurs before age 45. It is the most common type of thyroid cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704754" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;papillary thyroid cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704755" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides papilar&quot;" language="es" id="_4"/><SpanishTermName>cáncer de tiroides papilar</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se origina en las células foliculares de la tiroides y crece en forma de pequeños dedos. Es de crecimiento lento, más común en las mujeres que en los hombres y, a menudo, se presenta antes de los 45 años. Es el tipo más frecuente de cáncer de tiroides. También se llama cáncer papilar de tiroides, cáncer tiroideo papilar y carcinoma de tiroides papilar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-08-20</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/thyroid">Thyroid Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/tiroides" UseWith="es">Cáncer de tiroides</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044553">
+  <TermName>papillary thyroid cancer</TermName>
+  <TermPronunciation>(PA-pih-LAYR-ee THY-royd KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in follicular cells in the thyroid and grows in small finger-like shapes. It grows slowly, is more common in women than in men, and often occurs before age 45. It is the most common type of thyroid cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704754" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;papillary thyroid cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704755" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides papilar&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de tiroides papilar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se origina en las células foliculares de la tiroides y crece en forma de pequeños dedos. Es de crecimiento lento, más común en las mujeres que en los hombres y, a menudo, se presenta antes de los 45 años. Es el tipo más frecuente de cáncer de tiroides. También se llama cáncer papilar de tiroides, cáncer tiroideo papilar y carcinoma de tiroides papilar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/thyroid">Thyroid Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/tiroides" UseWith="es">Cáncer de tiroides</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000790156"><TermName>disability insurance</TermName><TermPronunciation>(dih-suh-BIH-lih-tee in-SHOOR-ents)</TermPronunciation><TermDefinition><DefinitionText>An insurance plan that pays some of a person’s income when he or she is disabled from an illness or injury and cannot work. The two main types of disability insurance are short-term disability (STD) and long-term disability (LTD). STD may last for up to 2 years. LTD usually begins after STD ends and may last for a person’s lifetime.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disability insurance&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792187" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seguro de incapacidad&quot;" language="es" id="_4"/><SpanishTermName>seguro de incapacidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Plan de seguro que reemplaza parte del  ingreso de una persona cuando se incapacita por una enfermedad o traumatismo que le impide trabajar. Los dos tipos principales de seguro de incapacidad son a corto plazo y a largo plazo. Es posible que el seguro de incapacidad a corto plazo dure hasta 2 años. El seguro de incapacidad a largo plazo  por lo general comienza una vez acaba el de corto plazo y a veces dura el resto de la vida.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-10-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790156">
+  <TermName>disability insurance</TermName>
+  <TermPronunciation>(dih-suh-BIH-lih-tee in-SHOOR-ents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An insurance plan that pays some of a person’s income when he or she is disabled from an illness or injury and cannot work. The two main types of disability insurance are short-term disability (STD) and long-term disability (LTD). STD may last for up to 2 years. LTD usually begins after STD ends and may last for a person’s lifetime.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disability insurance&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792187" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seguro de incapacidad&quot;" language="es" id="_4"/>
+  <SpanishTermName>seguro de incapacidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Plan de seguro que reemplaza parte del  ingreso de una persona cuando se incapacita por una enfermedad o traumatismo que le impide trabajar. Los dos tipos principales de seguro de incapacidad son a corto plazo y a largo plazo. Es posible que el seguro de incapacidad a corto plazo dure hasta 2 años. El seguro de incapacidad a largo plazo  por lo general comienza una vez acaba el de corto plazo y a veces dura el resto de la vida.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-10-12</DateFirstPublished>
+</GlossaryTerm>

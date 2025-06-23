@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000781893"><TermName>emollient</TermName><TermPronunciation>(eh-MOL-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>A substance that helps soothe, soften, and increase moisture levels, especially in the skin. Emollients may be used in a lotion, cream, ointment, or gel to prevent or treat dry, rough, scaly, itchy skin and other skin problems, such as rashes or burns. They may also be used to help protect the skin against irritation. Emollients may also be given by mouth to prevent or treat constipation by moistening and softening the stool.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784392" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emollient&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784393" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emoliente&quot;" language="es" id="_4"/><SpanishTermName>emoliente</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que suaviza,  ablanda y aumenta el grado de  humedad, especialmente en la piel. Los emolientes se usan en loción, crema, ungüento o gel   para prevenir  o tratar la piel seca, áspera, con descamación o picazón, así como otros problemas de la piel, como sarpullidos o quemaduras. Además se usan para proteger la piel contra la irritación. Los emolientes también se administran por la boca con el fin de prevenir o tratar el estreñimiento porque hidratan y ablandan la materia fecal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-08-31</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781893">
+  <TermName>emollient</TermName>
+  <TermPronunciation>(eh-MOL-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that helps soothe, soften, and increase moisture levels, especially in the skin. Emollients may be used in a lotion, cream, ointment, or gel to prevent or treat dry, rough, scaly, itchy skin and other skin problems, such as rashes or burns. They may also be used to help protect the skin against irritation. Emollients may also be given by mouth to prevent or treat constipation by moistening and softening the stool.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784392" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emollient&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784393" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;emoliente&quot;" language="es" id="_4"/>
+  <SpanishTermName>emoliente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que suaviza,  ablanda y aumenta el grado de  humedad, especialmente en la piel. Los emolientes se usan en loción, crema, ungüento o gel   para prevenir  o tratar la piel seca, áspera, con descamación o picazón, así como otros problemas de la piel, como sarpullidos o quemaduras. Además se usan para proteger la piel contra la irritación. Los emolientes también se administran por la boca con el fin de prevenir o tratar el estreñimiento porque hidratan y ablandan la materia fecal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-08-31</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000444966"><TermName>anal cancer</TermName><TermPronunciation>(AY-nul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the anus. The anus is the opening of the rectum (last part of the large intestine) to the outside of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano&quot;" language="es" id="_4"/><MediaLink ref="CDR0000415499" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, colon, small intestine, rectum, and anus." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Anatomy of the lower gastrointestinal (digestive) system showing  the colon, rectum, and anus. Other organs that make up the digestive system are also shown.</Caption></MediaLink><MediaLink ref="CDR0000415510" type="image/jpeg" alt="Anatomía del aparato digestivo (gastrointestinal). En la imagen se observan el esófago, el hígado, el estómago, el colon, el intestino delgado, el recto y el ano." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía del aparato digestivo (gastrointestinal) inferior. Se observan el colon, el recto y el ano. También se muestran otros órganos que forman parte del aparato digestivo.</Caption></MediaLink><SpanishTermName>cáncer de ano</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos del ano. El ano es la abertura del recto (la última parte del intestino grueso) hacia el exterior del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2006-11-07</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/anal">Anal Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ano">Cáncer de ano</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000444966">
+  <TermName>anal cancer</TermName>
+  <TermPronunciation>(AY-nul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the anus. The anus is the opening of the rectum (last part of the large intestine) to the outside of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000415499" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, colon, small intestine, rectum, and anus." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Anatomy of the lower gastrointestinal (digestive) system showing  the colon, rectum, and anus. Other organs that make up the digestive system are also shown.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000415510" type="image/jpeg" alt="Anatomía del aparato digestivo (gastrointestinal). En la imagen se observan el esófago, el hígado, el estómago, el colon, el intestino delgado, el recto y el ano." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía del aparato digestivo (gastrointestinal) inferior. Se observan el colon, el recto y el ano. También se muestran otros órganos que forman parte del aparato digestivo.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de ano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos del ano. El ano es la abertura del recto (la última parte del intestino grueso) hacia el exterior del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2006-11-07</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/anal">Anal Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ano">Cáncer de ano</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

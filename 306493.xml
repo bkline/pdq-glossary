@@ -1,3 +1,22 @@
-<GlossaryTerm id="CDR0000306493"><TermName>BAY 43-9006</TermName><TermDefinition><DefinitionText>A drug used to treat certain types of hepatocellular carcinoma (a type of liver cancer), renal cell carcinoma (a type of kidney cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. BAY 43-9006 blocks certain proteins, which may help keep cancer cells from growing and dividing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. BAY 43-9006 is a type of kinase inhibitor and a type of antiangiogenesis agent. Also called Nexavar and sorafenib tosylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BAY 43-9006</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000306493">
+  <TermName>BAY 43-9006</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of hepatocellular carcinoma (a type of liver cancer), renal cell carcinoma (a type of kidney cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. BAY 43-9006 blocks certain proteins, which may help keep cancer cells from growing and dividing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. BAY 43-9006 is a type of kinase inhibitor and a type of antiangiogenesis agent. Also called Nexavar and sorafenib tosylate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BAY 43-9006</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de ciertos tipos de carcinoma hepatocelular (tipo de cáncer de hígado), carcinoma de células renales (tipo de cáncer de riñón), y cáncer de tiroides. También está en estudio para el tratamiento de otros tipos de
-cáncer. BAY 43-9006 bloquea ciertas proteínas, lo que quizás ayude a evitar la formación y multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. BAY 43-9006 es un tipo de antiangiogénico y de  inhibidor de cinasa. También se llama Nexavar y tosilato de sorafenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><DateLastModified>2021-06-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492017" url="/about-cancer/treatment/drugs/sorafenibtosylate">Sorafenib Tosylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+cáncer. BAY 43-9006 bloquea ciertas proteínas, lo que quizás ayude a evitar la formación y multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. BAY 43-9006 es un tipo de antiangiogénico y de  inhibidor de cinasa. También se llama Nexavar y tosilato de sorafenib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <DateLastModified>2021-06-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492017" url="/about-cancer/treatment/drugs/sorafenibtosylate">Sorafenib Tosylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

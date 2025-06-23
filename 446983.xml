@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000446983"><TermName>wide local excision</TermName><TermPronunciation>(…LOH-kul ek-SIH-zhun)</TermPronunciation><TermDefinition><DefinitionText>A surgical procedure in which a scalpel (a sharp knife) is used to cut out a tumor or other abnormal lesion and some normal tissue around it. The amount of normal tissue removed depends on how deep or how large the tumor being removed is. A wide local excision is often done to remove some types of skin cancer or breast cancer. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714521" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;wide local excision&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714520" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación local amplia&quot;" language="es" id="_7"/><SpanishTermName>extirpación local amplia</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento quirúrgico para el que se usa un bisturí (cuchillo afilado) para extirpar  un tumor u otra lesión anormal y algo del tejido normal que lo rodea. La cantidad de tejido normal que se extrae depende del tamaño del tumor y que tan profundo penetra en el tejido. La  extirpación local amplia a menudo se usa para extirpar algunos tipos de cáncer de piel o cáncer de mama. También se llama escisión local amplia y excisión local amplia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-01-25</DateFirstPublished><DateLastModified>2021-10-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446983">
+  <TermName>wide local excision</TermName>
+  <TermPronunciation>(…LOH-kul ek-SIH-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgical procedure in which a scalpel (a sharp knife) is used to cut out a tumor or other abnormal lesion and some normal tissue around it. The amount of normal tissue removed depends on how deep or how large the tumor being removed is. A wide local excision is often done to remove some types of skin cancer or breast cancer. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714521" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;wide local excision&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714520" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación local amplia&quot;" language="es" id="_7"/>
+  <SpanishTermName>extirpación local amplia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento quirúrgico para el que se usa un bisturí (cuchillo afilado) para extirpar  un tumor u otra lesión anormal y algo del tejido normal que lo rodea. La cantidad de tejido normal que se extrae depende del tamaño del tumor y que tan profundo penetra en el tejido. La  extirpación local amplia a menudo se usa para extirpar algunos tipos de cáncer de piel o cáncer de mama. También se llama escisión local amplia y excisión local amplia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-01-25</DateFirstPublished>
+  <DateLastModified>2021-10-13</DateLastModified>
+</GlossaryTerm>

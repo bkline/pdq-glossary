@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000644342"><TermName>Intron A</TermName><TermPronunciation>(IN-tron…)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with AIDS-related Kaposi sarcoma, hairy cell leukemia, certain types of follicular lymphoma or melanoma, genital warts or perianal warts, or chronic hepatitis B or C. It is also being studied in the treatment of other types of cancer and other conditions.  Intron A is a form of interferon alfa (a substance normally made by cells in the immune system) that is made in the laboratory.  It is a type of cytokine and a type of immunomodulating agent. Also called IFN alpha-2B, interferon alfa-2b, and recombinant interferon alfa-2b.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726085" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Intron A&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726084" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Intron A&quot;" language="es" id="_4"/><SpanishTermName>Intron A</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se utiliza solo o con otros medicamentos para el tratamiento en adultos con sarcoma de Kaposi relacionado con el SIDA, leucemia de células pilosas, ciertos tipos de linfoma folicular o melanoma, verrugas genitales, verrugas perianales y hepatitis B o C crónica. También está en estudio para el tratamiento de otros tipos de cáncer y otras afecciones. Intron A es una forma de interferón alfa (sustancia que normalmente se produce en las células del sistema inmunitario) que se elabora en el laboratorio. Es un tipo de citocina y de inmunomodulador. También se llama IFN alfa 2B, interferón alfa 2b e interferón alfa 2b recombinante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-10-05</DateFirstPublished><DateLastModified>2021-06-02</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000744420" url="/about-cancer/treatment/drugs/recombinant-interferon-alfa-2b">Recombinant Interferon Alfa-2b</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644342">
+  <TermName>Intron A</TermName>
+  <TermPronunciation>(IN-tron…)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults with AIDS-related Kaposi sarcoma, hairy cell leukemia, certain types of follicular lymphoma or melanoma, genital warts or perianal warts, or chronic hepatitis B or C. It is also being studied in the treatment of other types of cancer and other conditions.  Intron A is a form of interferon alfa (a substance normally made by cells in the immune system) that is made in the laboratory.  It is a type of cytokine and a type of immunomodulating agent. Also called IFN alpha-2B, interferon alfa-2b, and recombinant interferon alfa-2b.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726085" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Intron A&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726084" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Intron A&quot;" language="es" id="_4"/>
+  <SpanishTermName>Intron A</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se utiliza solo o con otros medicamentos para el tratamiento en adultos con sarcoma de Kaposi relacionado con el SIDA, leucemia de células pilosas, ciertos tipos de linfoma folicular o melanoma, verrugas genitales, verrugas perianales y hepatitis B o C crónica. También está en estudio para el tratamiento de otros tipos de cáncer y otras afecciones. Intron A es una forma de interferón alfa (sustancia que normalmente se produce en las células del sistema inmunitario) que se elabora en el laboratorio. Es un tipo de citocina y de inmunomodulador. También se llama IFN alfa 2B, interferón alfa 2b e interferón alfa 2b recombinante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-10-05</DateFirstPublished>
+  <DateLastModified>2021-06-02</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000744420" url="/about-cancer/treatment/drugs/recombinant-interferon-alfa-2b">Recombinant Interferon Alfa-2b</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

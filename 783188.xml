@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000783188"><TermName>urothelial cancer</TermName><TermPronunciation>(YOOR-oh-THEE-lee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that begins in cells called urothelial cells that line the urethra, bladder, ureters, renal pelvis, and some other organs. Urothelial cells are also called transitional cells. These cells can change shape and stretch without breaking apart. Also called transitional cell cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784420" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;urothelial cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784421" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer urotelial&quot;" language="es" id="_4"/><SpanishTermName>cáncer urotelial</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en células denominadas células uroteliales, que revisten la uretra, la vejiga, los uréteres, la pelvis renal y algunos otros órganos. Las células uroteliales también se llaman células de transición. Estas células pueden cambiar de forma y estirarse sin romperse. También se llama cáncer de células de transición, cáncer de células uroteliales, cáncer de urotelio, CCU y CU.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished><DateLastModified>2016-09-01</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/kidney">Kidney (Renal Cell) Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/rinon">Cáncer de riñón</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783188">
+  <TermName>urothelial cancer</TermName>
+  <TermPronunciation>(YOOR-oh-THEE-lee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that begins in cells called urothelial cells that line the urethra, bladder, ureters, renal pelvis, and some other organs. Urothelial cells are also called transitional cells. These cells can change shape and stretch without breaking apart. Also called transitional cell cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784420" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;urothelial cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784421" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer urotelial&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer urotelial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en células denominadas células uroteliales, que revisten la uretra, la vejiga, los uréteres, la pelvis renal y algunos otros órganos. Las células uroteliales también se llaman células de transición. Estas células pueden cambiar de forma y estirarse sin romperse. También se llama cáncer de células de transición, cáncer de células uroteliales, cáncer de urotelio, CCU y CU.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+  <DateLastModified>2016-09-01</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/kidney">Kidney (Renal Cell) Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/rinon">Cáncer de riñón</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

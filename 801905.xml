@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000801905"><TermName>acquired immunity</TermName><TermPronunciation>(uh-KWY-erd ih-MYOO-nih-tee)</TermPronunciation><TermDefinition><DefinitionText>A type of immunity that develops when a person’s immune system responds to a foreign substance or microorganism, or that occurs after a person receives antibodies from another source. The two types of acquired immunity are adaptive and passive. Adaptive immunity occurs in response to being infected with or vaccinated against a microorganism. The body makes an immune response, which can prevent future infection with the microorganism. Passive immunity occurs when a person receives antibodies to a disease or toxin rather than making them through his or her own immune system.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804394" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acquired immunity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804395" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunidad adquirida&quot;" language="es" id="_4"/><SpanishTermName>inmunidad adquirida</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de inmunidad que se produce cuando el sistema inmunitario de una persona responde a una sustancia extraña o un microorganismo, también se produce después de que una persona recibe anticuerpos de otra fuente. Los dos tipos de inmunidad adquirida son adaptativa y pasiva. La inmunidad adaptativa es una respuesta inmunitaria a la infección o la vacunación contra un microorganismo, que ayuda a prevenir futuras infecciones por el mismo microorganismo. La inmunidad pasiva se presenta cuando una persona recibe anticuerpos contra una enfermedad o una toxina en lugar de producirlos en su sistema inmunitario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-09-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801905">
+  <TermName>acquired immunity</TermName>
+  <TermPronunciation>(uh-KWY-erd ih-MYOO-nih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of immunity that develops when a person’s immune system responds to a foreign substance or microorganism, or that occurs after a person receives antibodies from another source. The two types of acquired immunity are adaptive and passive. Adaptive immunity occurs in response to being infected with or vaccinated against a microorganism. The body makes an immune response, which can prevent future infection with the microorganism. Passive immunity occurs when a person receives antibodies to a disease or toxin rather than making them through his or her own immune system.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804394" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acquired immunity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804395" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inmunidad adquirida&quot;" language="es" id="_4"/>
+  <SpanishTermName>inmunidad adquirida</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de inmunidad que se produce cuando el sistema inmunitario de una persona responde a una sustancia extraña o un microorganismo, también se produce después de que una persona recibe anticuerpos de otra fuente. Los dos tipos de inmunidad adquirida son adaptativa y pasiva. La inmunidad adaptativa es una respuesta inmunitaria a la infección o la vacunación contra un microorganismo, que ayuda a prevenir futuras infecciones por el mismo microorganismo. La inmunidad pasiva se presenta cuando una persona recibe anticuerpos contra una enfermedad o una toxina en lugar de producirlos en su sistema inmunitario.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-09-16</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798762"><TermName>MEK inhibitor</TermName><TermPronunciation>(… in-HIH-bih-ter)</TermPronunciation><TermDefinition><DefinitionText>A substance that blocks proteins called MEK1 and MEK2, which help control cell growth and survival. Blocking these proteins may help keep cancer cells from growing and may kill them. Some MEK inhibitors are used to treat cancer. They are a type of targeted therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801014" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK inhibitor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de MEK&quot;" language="es" id="_4"/><SpanishTermName>inhibidor de MEK</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que bloquea las proteínas llamadas MEK1 y  MEK2, que ayudan a controlar la multiplicación y la supervivencia de las células. Es posible que bloquear estas proteínas ayude a impedir que las células cancerosas se multipliquen, y las destruya. Algunos inhibidores de MEK se usan para tratar el cáncer.  Son un tipo de medicamento de terapia dirigida.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-01-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798762">
+  <TermName>MEK inhibitor</TermName>
+  <TermPronunciation>(… in-HIH-bih-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that blocks proteins called MEK1 and MEK2, which help control cell growth and survival. Blocking these proteins may help keep cancer cells from growing and may kill them. Some MEK inhibitors are used to treat cancer. They are a type of targeted therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801014" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK inhibitor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de MEK&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor de MEK</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que bloquea las proteínas llamadas MEK1 y  MEK2, que ayudan a controlar la multiplicación y la supervivencia de las células. Es posible que bloquear estas proteínas ayude a impedir que las células cancerosas se multipliquen, y las destruya. Algunos inhibidores de MEK se usan para tratar el cáncer.  Son un tipo de medicamento de terapia dirigida.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-01-10</DateFirstPublished>
+</GlossaryTerm>

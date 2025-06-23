@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000812815"><TermName>Columvi</TermName><TermPronunciation>(koh-LOOM-vee)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with certain types of diffuse large B-cell lymphoma or large B-cell lymphoma that came back or did not get better after treatment with at least two other systemic therapies. It is also being studied in the treatment of other types of cancer. Columvi binds to a protein called CD3, which is found on T cells (a type of white blood cell). It also binds to a protein called CD20, which is found on B cells (another type of white blood cell) and some lymphoma cells. This may help the immune system kill cancer cells. Columvi is a type of bispecific monoclonal antibody. Also called glofitamab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814038" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Columvi&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814039" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Columvi&quot;" language="es" id="_4"/><SpanishTermName>Columvi</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de linfoma difuso de células B grandes, o linfoma de células B grandes, que volvió o que no mejoró después de recibir, por lo menos, otras dos terapias sistémicas. También está en estudio para el tratamiento de otros tipos de cáncer. Columvi se une a una proteína llamada CD3, que se encuentra en las células T (un tipo de glóbulo blanco). Además, se une a una proteína llamada CD20, que se encuentra en las células B (otro tipo de glóbulo blanco) y en algunas células de linfoma. Es posible que esto ayude al sistema inmunitario a destruir células cancerosas. Columvi es un tipo de anticuerpo monoclonal biespecífico. También se llama glofitamab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-26</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000812834" url="/about-cancer/treatment/drugs/glofitamab-gxbm">Glofitamab-gxbm</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000812815">
+  <TermName>Columvi</TermName>
+  <TermPronunciation>(koh-LOOM-vee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with certain types of diffuse large B-cell lymphoma or large B-cell lymphoma that came back or did not get better after treatment with at least two other systemic therapies. It is also being studied in the treatment of other types of cancer. Columvi binds to a protein called CD3, which is found on T cells (a type of white blood cell). It also binds to a protein called CD20, which is found on B cells (another type of white blood cell) and some lymphoma cells. This may help the immune system kill cancer cells. Columvi is a type of bispecific monoclonal antibody. Also called glofitamab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814038" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Columvi&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814039" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Columvi&quot;" language="es" id="_4"/>
+  <SpanishTermName>Columvi</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de linfoma difuso de células B grandes, o linfoma de células B grandes, que volvió o que no mejoró después de recibir, por lo menos, otras dos terapias sistémicas. También está en estudio para el tratamiento de otros tipos de cáncer. Columvi se une a una proteína llamada CD3, que se encuentra en las células T (un tipo de glóbulo blanco). Además, se une a una proteína llamada CD20, que se encuentra en las células B (otro tipo de glóbulo blanco) y en algunas células de linfoma. Es posible que esto ayude al sistema inmunitario a destruir células cancerosas. Columvi es un tipo de anticuerpo monoclonal biespecífico. También se llama glofitamab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000812834" url="/about-cancer/treatment/drugs/glofitamab-gxbm">Glofitamab-gxbm</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000522478"><TermName>placebo therapy</TermName><TermPronunciation>(pluh-SEE-boh THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>An inactive treatment that is designed to mimic as closely as possible the active treatment being studied in a clinical trial. For example, a placebo pill made of an inactive substance is given instead of the pill with the active drug.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;placebo therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718113" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de placebo&quot;" language="es" id="_4"/><SpanishTermName>terapia de placebo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento inactivo que está diseñado para imitar lo mejor posible el tratamiento activo que está en estudio en un ensayo clínico. Por ejemplo, se administra un comprimido de placebo fabricado con una sustancia inactiva, en lugar del comprimido del medicamento que contiene la sustancia activa (fármaco). También se llama tratamiento con placebo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-11-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000522478">
+  <TermName>placebo therapy</TermName>
+  <TermPronunciation>(pluh-SEE-boh THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An inactive treatment that is designed to mimic as closely as possible the active treatment being studied in a clinical trial. For example, a placebo pill made of an inactive substance is given instead of the pill with the active drug.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;placebo therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718113" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de placebo&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia de placebo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento inactivo que está diseñado para imitar lo mejor posible el tratamiento activo que está en estudio en un ensayo clínico. Por ejemplo, se administra un comprimido de placebo fabricado con una sustancia inactiva, en lugar del comprimido del medicamento que contiene la sustancia activa (fármaco). También se llama tratamiento con placebo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-11-17</DateFirstPublished>
+</GlossaryTerm>

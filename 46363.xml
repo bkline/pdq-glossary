@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046363"><TermName>hepatocellular carcinoma</TermName><TermPronunciation>(heh-PA-toh-SEL-yoo-ler KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of cancer that forms in liver cells called hepatocytes. Hepatocytes are the most common cells of the liver, and they carry out most of the functions of the liver.  Factors that may increase a person’s risk of developing hepatocellular carcinoma include having chronic infection with hepatitis B virus or hepatitis C virus, non-alcoholic steatohepatitis, chronic alcohol use disorder, and cirrhosis. Most adult primary liver cancers are hepatocellular carcinomas. Also called HCC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708613" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hepatocellular carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708614" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma hepatocelular&quot;" language="es" id="_4"/><SpanishTermName>carcinoma hepatocelular</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer que se forma en las células del hígado llamadas hepatocitos. Los hepatocitos son las células más comunes del hígado y realizan la mayoría de las funciones de este órgano. Los factores que tal vez aumenten el riesgo de que una persona presente carcinoma hepatocelular son la infección crónica por el virus de la hepatitis B o C, la esteatohepatitis no alcohólica, el trastorno por consumo crónico de alcohol y la cirrosis. La mayoría de los cánceres primarios de hígado en  adultos son carcinoma hepatocelular. También se llama cáncer de células hepáticas, carcinoma de células hepáticas, CHC, hepatocarcinoma y hepatoma maligno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2025-04-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046363">
+  <TermName>hepatocellular carcinoma</TermName>
+  <TermPronunciation>(heh-PA-toh-SEL-yoo-ler KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of cancer that forms in liver cells called hepatocytes. Hepatocytes are the most common cells of the liver, and they carry out most of the functions of the liver.  Factors that may increase a person’s risk of developing hepatocellular carcinoma include having chronic infection with hepatitis B virus or hepatitis C virus, non-alcoholic steatohepatitis, chronic alcohol use disorder, and cirrhosis. Most adult primary liver cancers are hepatocellular carcinomas. Also called HCC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708613" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hepatocellular carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708614" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma hepatocelular&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma hepatocelular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer que se forma en las células del hígado llamadas hepatocitos. Los hepatocitos son las células más comunes del hígado y realizan la mayoría de las funciones de este órgano. Los factores que tal vez aumenten el riesgo de que una persona presente carcinoma hepatocelular son la infección crónica por el virus de la hepatitis B o C, la esteatohepatitis no alcohólica, el trastorno por consumo crónico de alcohol y la cirrosis. La mayoría de los cánceres primarios de hígado en  adultos son carcinoma hepatocelular. También se llama cáncer de células hepáticas, carcinoma de células hepáticas, CHC, hepatocarcinoma y hepatoma maligno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2025-04-07</DateLastModified>
+</GlossaryTerm>

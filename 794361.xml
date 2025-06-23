@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000794361"><TermName>rete testis</TermName><TermPronunciation>(REE-tee TES-tis)</TermPronunciation><TermDefinition><DefinitionText>A network of small tubes in the testicle that helps move sperm cells (male reproductive cells) from the testicle to the epididymis. The epididymis is where the sperm mature and are stored.  </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rete testis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;red testicular&quot;" language="es" id="_4"/><SpanishTermName>red testicular</SpanishTermName><SpanishTermDefinition><DefinitionText>Red de tubos pequeños en el testículo por donde pasan los espermatozoides (células reproductoras masculinas) desde el testículo al epidídimo. El epidídimo es el lugar donde los espermatozoides maduran y se almacenan. También se llama red de Haller.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-11-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794361">
+  <TermName>rete testis</TermName>
+  <TermPronunciation>(REE-tee TES-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A network of small tubes in the testicle that helps move sperm cells (male reproductive cells) from the testicle to the epididymis. The epididymis is where the sperm mature and are stored.  </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rete testis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;red testicular&quot;" language="es" id="_4"/>
+  <SpanishTermName>red testicular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Red de tubos pequeños en el testículo por donde pasan los espermatozoides (células reproductoras masculinas) desde el testículo al epidídimo. El epidídimo es el lugar donde los espermatozoides maduran y se almacenan. También se llama red de Haller.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-11-08</DateFirstPublished>
+</GlossaryTerm>

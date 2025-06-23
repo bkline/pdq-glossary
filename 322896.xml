@@ -1,3 +1,26 @@
-<GlossaryTerm id="CDR0000322896"><TermName>loop excision</TermName><TermPronunciation>(...ek-SIH-zhun)</TermPronunciation><TermDefinition><DefinitionText>A technique
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000322896">
+  <TermName>loop excision</TermName>
+  <TermPronunciation>(...ek-SIH-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A technique
           that uses electric current passed through a thin wire loop
-          to remove abnormal tissue. Also called LEEP and loop electrosurgical excision procedure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;loop excision&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación con asa&quot;" language="es" id="_7"/><SpanishTermName>extirpación con asa</SpanishTermName><SpanishTermDefinition><DefinitionText>Técnica para extirpar tejido anormal mediante el uso de una corriente eléctrica que pasa por un alambre fino en forma de asa. También se llama escisión con asa, excisión con asa, LEEP y procedimiento de extirpación electroquirúrgica con asa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2007-02-01</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000810192" url="/types/cervical/screening/abnormal-hpv-pap-test-results">HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000810505" url="/espanol/tipos/cuello-uterino/deteccion/resultados-anormales-pruebas-vph-pap">Resultados anormales de las pruebas del VPH y de Pap para la detección del cáncer de cuello uterino</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+          to remove abnormal tissue. Also called LEEP and loop electrosurgical excision procedure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;loop excision&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación con asa&quot;" language="es" id="_7"/>
+  <SpanishTermName>extirpación con asa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Técnica para extirpar tejido anormal mediante el uso de una corriente eléctrica que pasa por un alambre fino en forma de asa. También se llama escisión con asa, excisión con asa, LEEP y procedimiento de extirpación electroquirúrgica con asa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2007-02-01</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000810192" url="/types/cervical/screening/abnormal-hpv-pap-test-results">HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000810505" url="/espanol/tipos/cuello-uterino/deteccion/resultados-anormales-pruebas-vph-pap">Resultados anormales de las pruebas del VPH y de Pap para la detección del cáncer de cuello uterino</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

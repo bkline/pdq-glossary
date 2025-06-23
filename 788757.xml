@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000788757"><TermName>Alunbrig</TermName><TermPronunciation>(uh-LUN-brig)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer that has spread and is ALK positive. It is also being studied in the treatment of other types of cancer. Alunbrig blocks certain proteins made by the <GeneName>ALK</GeneName> gene. Blocking these proteins may stop the growth and spread of cancer cells. Alunbrig is a type of tyrosine kinase inhibitor. Also called brigatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000789264" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alunbrig&quot;" language="en" id="_3"/><MediaLink ref="CDR0000789263" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alunbrig&quot;" language="es" id="_4"/><SpanishTermName>Alunbrig</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó y es positivo para ALK. También está en estudio para el tratamiento de otros tipos de cáncer. Alunbrig bloquea ciertas proteínas que se originan del gen <GeneName>ALK</GeneName>. Bloquear estas proteínas quizás detenga la multiplicación  y diseminación de células cancerosas. Alunbrig es un tipo de inhibidor de tirosina–cinasas. También se llama brigatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-05-11</DateFirstPublished><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000788884" url="/about-cancer/treatment/drugs/brigatinib">Brigatinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000788757">
+  <TermName>Alunbrig</TermName>
+  <TermPronunciation>(uh-LUN-brig)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer that has spread and is ALK positive. It is also being studied in the treatment of other types of cancer. Alunbrig blocks certain proteins made by the 
+      <GeneName>ALK</GeneName>
+       gene. Blocking these proteins may stop the growth and spread of cancer cells. Alunbrig is a type of tyrosine kinase inhibitor. Also called brigatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000789264" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alunbrig&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000789263" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Alunbrig&quot;" language="es" id="_4"/>
+  <SpanishTermName>Alunbrig</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que se diseminó y es positivo para ALK. También está en estudio para el tratamiento de otros tipos de cáncer. Alunbrig bloquea ciertas proteínas que se originan del gen 
+      <GeneName>ALK</GeneName>
+      . Bloquear estas proteínas quizás detenga la multiplicación  y diseminación de células cancerosas. Alunbrig es un tipo de inhibidor de tirosina–cinasas. También se llama brigatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-05-11</DateFirstPublished>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000788884" url="/about-cancer/treatment/drugs/brigatinib">Brigatinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

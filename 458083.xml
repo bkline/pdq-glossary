@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000458083"><TermName>adrenal medulla</TermName><TermPronunciation>(uh-DREE-nul meh-DOO-luh)</TermPronunciation><TermDefinition><DefinitionText>The inner part of the adrenal gland (a small organ on top of each kidney). The adrenal medulla makes chemicals such as epinephrine (adrenaline) and norepinephrine (noradrenaline) which are involved in sending nerve signals.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716552" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adrenal medulla&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716553" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;médula suprarrenal&quot;" language="es" id="_4"/><MediaLink ref="CDR0000739009" type="image/jpeg" alt="Anatomy of the adrenal gland; drawing of the abdomen showing the left and right adrenal glands, the left and right kidneys, and major blood vessels. Also shown is an inset of an adrenal gland showing the adrenal cortex and the adrenal medulla." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Anatomy of the adrenal gland. There are two adrenal glands, one on top of each kidney. The outer part of each gland is the adrenal cortex and the inner part is the adrenal medulla.</Caption></MediaLink><MediaLink ref="CDR0000748084" type="image/jpeg" alt="Anatomía de la glándula suprarrenal (adrenal). En el dibujo se observa el abdomen de una persona adulta, con los vasos sanguíneos mayores, las glándulas suprarrenales izquierda y derecha, y los riñones izquierdo y derecho. En un recuadro de la esquina superior izquierda, se observa una sección de la glándula suprarrenal en la que se señalan la corteza suprarrenal y la médula suprarrenal." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía de la glándula suprarrenal (adrenal). Hay dos glándulas suprarrenales, una encima de cada riñón. La capa exterior de cada glándula es la corteza suprarrenal y el centro es la médula suprarrenal.</Caption></MediaLink><SpanishTermName>médula suprarrenal</SpanishTermName><SpanishTermDefinition><DefinitionText>Parte interna de la glándula suprarrenal (un órgano pequeño situado encima de cada riñón). La médula suprarrenal produce sustancias químicas como la epinefrina (adrenalina) y la norepinefrina (noradrenalina) que participan en la transmisión de impulsos nerviosos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-14</DateFirstPublished><DateLastModified>2013-06-03</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000458083">
+  <TermName>adrenal medulla</TermName>
+  <TermPronunciation>(uh-DREE-nul meh-DOO-luh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The inner part of the adrenal gland (a small organ on top of each kidney). The adrenal medulla makes chemicals such as epinephrine (adrenaline) and norepinephrine (noradrenaline) which are involved in sending nerve signals.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716552" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adrenal medulla&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716553" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;médula suprarrenal&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000739009" type="image/jpeg" alt="Anatomy of the adrenal gland; drawing of the abdomen showing the left and right adrenal glands, the left and right kidneys, and major blood vessels. Also shown is an inset of an adrenal gland showing the adrenal cortex and the adrenal medulla." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Anatomy of the adrenal gland. There are two adrenal glands, one on top of each kidney. The outer part of each gland is the adrenal cortex and the inner part is the adrenal medulla.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000748084" type="image/jpeg" alt="Anatomía de la glándula suprarrenal (adrenal). En el dibujo se observa el abdomen de una persona adulta, con los vasos sanguíneos mayores, las glándulas suprarrenales izquierda y derecha, y los riñones izquierdo y derecho. En un recuadro de la esquina superior izquierda, se observa una sección de la glándula suprarrenal en la que se señalan la corteza suprarrenal y la médula suprarrenal." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía de la glándula suprarrenal (adrenal). Hay dos glándulas suprarrenales, una encima de cada riñón. La capa exterior de cada glándula es la corteza suprarrenal y el centro es la médula suprarrenal.</Caption>
+  </MediaLink>
+  <SpanishTermName>médula suprarrenal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parte interna de la glándula suprarrenal (un órgano pequeño situado encima de cada riñón). La médula suprarrenal produce sustancias químicas como la epinefrina (adrenalina) y la norepinefrina (noradrenalina) que participan en la transmisión de impulsos nerviosos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-14</DateFirstPublished>
+  <DateLastModified>2013-06-03</DateLastModified>
+</GlossaryTerm>

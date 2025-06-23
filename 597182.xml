@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000597182"><TermName>Recentin</TermName><TermPronunciation>(reh-SEN-tin)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of some types of cancer. Recentin may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of antiangiogenesis agent and a type of vascular endothelial growth factor (VEGF) receptor tyrosine kinase inhibitor. Also called AZD2171 and cediranib maleate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720981" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Recentin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Recentin&quot;" language="es" id="_4"/><SpanishTermName>Recentin</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Es posible que Recentin prevenga la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer,  y que destruya las células cancerosas. Es un tipo de antiangiogénico y de inhibidor de la tirosina–cinasa del receptor del factor de crecimiento endotelial vascular (VEGFR). También se llama AZD2171 y maleato de cediranib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-05-30</DateFirstPublished><DateLastModified>2009-04-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000597182">
+  <TermName>Recentin</TermName>
+  <TermPronunciation>(reh-SEN-tin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of some types of cancer. Recentin may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of antiangiogenesis agent and a type of vascular endothelial growth factor (VEGF) receptor tyrosine kinase inhibitor. Also called AZD2171 and cediranib maleate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720981" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Recentin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Recentin&quot;" language="es" id="_4"/>
+  <SpanishTermName>Recentin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Es posible que Recentin prevenga la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer,  y que destruya las células cancerosas. Es un tipo de antiangiogénico y de inhibidor de la tirosina–cinasa del receptor del factor de crecimiento endotelial vascular (VEGFR). También se llama AZD2171 y maleato de cediranib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-05-30</DateFirstPublished>
+  <DateLastModified>2009-04-21</DateLastModified>
+</GlossaryTerm>

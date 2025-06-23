@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000801933"><TermName>decitabine and cedazuridine</TermName><TermPronunciation>(deh-SY-tuh-been … SEE-daz-YOOR-ih-deen)</TermPronunciation><TermDefinition><DefinitionText>A combination of two drugs used to treat adults with myelodysplastic syndromes, including chronic myelomonocytic leukemia. It is also being studied in the treatment of other types of cancer. Decitabine stops cells from making DNA, which may help keep cancer cells from growing and may kill them. Cedazuridine prevents the breakdown of decitabine in the body, which may allow more cancer cells to be killed. Decitabine and cedazuridine is a type of antimetabolite and a type of cytidine deaminase inhibitor. Also called Inqovi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804400" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabine and cedazuridine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804401" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabina y cedazuridina&quot;" language="es" id="_4"/><SpanishTermName>decitabina y cedazuridina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que está compuesto por dos fármacos  y que se usa para el tratamiento de adultos con ciertos tipos de síndromes mielodisplásicos, como la leucemia mielomonocítica crónica. También está en estudio para el tratamiento de otros tipos de cáncer. La decitabina impide que las células elaboren ADN, lo que ayuda a evitar la multiplicación de células cancerosas y es posible que las destruya. La cedazuridina previene la descomposición de  la decitabina en el cuerpo, de manera que quizás se destruyan más células cancerosas. La combinación de decitabina y cedazuridina contiene un tipo de antimetabolito y de inhibidor de la citidina–desaminasa. También se llama Inqovi.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-07-09</DateFirstPublished><DateLastModified>2020-12-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000802045" url="/about-cancer/treatment/drugs/decitabineandcedazuridine">Decitabine and Cedazuridine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801933">
+  <TermName>decitabine and cedazuridine</TermName>
+  <TermPronunciation>(deh-SY-tuh-been … SEE-daz-YOOR-ih-deen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A combination of two drugs used to treat adults with myelodysplastic syndromes, including chronic myelomonocytic leukemia. It is also being studied in the treatment of other types of cancer. Decitabine stops cells from making DNA, which may help keep cancer cells from growing and may kill them. Cedazuridine prevents the breakdown of decitabine in the body, which may allow more cancer cells to be killed. Decitabine and cedazuridine is a type of antimetabolite and a type of cytidine deaminase inhibitor. Also called Inqovi.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804400" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabine and cedazuridine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804401" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;decitabina y cedazuridina&quot;" language="es" id="_4"/>
+  <SpanishTermName>decitabina y cedazuridina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que está compuesto por dos fármacos  y que se usa para el tratamiento de adultos con ciertos tipos de síndromes mielodisplásicos, como la leucemia mielomonocítica crónica. También está en estudio para el tratamiento de otros tipos de cáncer. La decitabina impide que las células elaboren ADN, lo que ayuda a evitar la multiplicación de células cancerosas y es posible que las destruya. La cedazuridina previene la descomposición de  la decitabina en el cuerpo, de manera que quizás se destruyan más células cancerosas. La combinación de decitabina y cedazuridina contiene un tipo de antimetabolito y de inhibidor de la citidina–desaminasa. También se llama Inqovi.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-07-09</DateFirstPublished>
+  <DateLastModified>2020-12-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000802045" url="/about-cancer/treatment/drugs/decitabineandcedazuridine">Decitabine and Cedazuridine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

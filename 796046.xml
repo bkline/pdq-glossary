@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000796046"><TermName>Truxima</TermName><TermPronunciation>(truk-SEE-muh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient rituximab and is used alone or with other drugs to treat adults with certain types of B-cell non-Hodgkin lymphoma or chronic lymphocytic leukemia that are CD20 positive. It is also being studied in the treatment of other conditions and types of cancer. Truxima binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Truxima is a type of monoclonal antibody.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797262" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Truxima&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797261" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Truxima&quot;" language="es" id="_4"/><SpanishTermName>Truxima</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo rituximab y se utiliza solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de linfoma no Hodgkin de células B o leucemia linfocítica crónica que expresan CD20. También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Truxima se une a una proteína llamada CD20, que se encuentra en las células B (tipo de glóbulo blanco) y en algunos tipos de células cancerosas. Es posible que esto ayude al sistema inmunitario a destruir células cancerosas. Truxima es un tipo de anticuerpo monoclonal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-11</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000495778" url="/about-cancer/treatment/drugs/rituximab">Rituximab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796046">
+  <TermName>Truxima</TermName>
+  <TermPronunciation>(truk-SEE-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient rituximab and is used alone or with other drugs to treat adults with certain types of B-cell non-Hodgkin lymphoma or chronic lymphocytic leukemia that are CD20 positive. It is also being studied in the treatment of other conditions and types of cancer. Truxima binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Truxima is a type of monoclonal antibody.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797262" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Truxima&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797261" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Truxima&quot;" language="es" id="_4"/>
+  <SpanishTermName>Truxima</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo rituximab y se utiliza solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de linfoma no Hodgkin de células B o leucemia linfocítica crónica que expresan CD20. También está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Truxima se une a una proteína llamada CD20, que se encuentra en las células B (tipo de glóbulo blanco) y en algunos tipos de células cancerosas. Es posible que esto ayude al sistema inmunitario a destruir células cancerosas. Truxima es un tipo de anticuerpo monoclonal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-11</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000495778" url="/about-cancer/treatment/drugs/rituximab">Rituximab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

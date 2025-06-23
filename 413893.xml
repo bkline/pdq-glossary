@@ -1,2 +1,25 @@
-<GlossaryTerm id="CDR0000413893"><TermName>stage III distal bile duct cancer</TermName><TermPronunciation>(... DIS-tul bile dukt KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage III is divided into stages IIIA and IIIB. In stage IIIA, cancer has spread into the wall of the distal  bile duct and to 4 or more nearby lymph nodes. In stage IIIB, cancer has spread to the large vessels that carry blood to the organs in the abdomen. Cancer may have spread to 1 or more nearby lymph nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III distal bile duct cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713185" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares distales en estadio III&quot;" language="es" id="_4"/><SpanishTermName>cáncer de vías biliares distales en estadio III</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio III se divide en los estadios IIIA y IIIB. En el estadio IIIA, el cáncer se diseminó dentro de la pared de la vía biliar
-distal (conducto colédoco), y a 4 o más ganglios linfáticos cercanos. En el estadio IIIB, el cáncer se diseminó a los vasos sanguíneos grandes que transportan sangre a los órganos del abdomen. Es posible que el cáncer se haya diseminado a 1 o más ganglios linfáticos cercanos. También se llama cáncer de conducto biliar distal en estadio III.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-04-23</DateFirstPublished><DateLastModified>2020-06-26</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413893">
+  <TermName>stage III distal bile duct cancer</TermName>
+  <TermPronunciation>(... DIS-tul bile dukt KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage III is divided into stages IIIA and IIIB. In stage IIIA, cancer has spread into the wall of the distal  bile duct and to 4 or more nearby lymph nodes. In stage IIIB, cancer has spread to the large vessels that carry blood to the organs in the abdomen. Cancer may have spread to 1 or more nearby lymph nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713186" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III distal bile duct cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713185" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares distales en estadio III&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de vías biliares distales en estadio III</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio III se divide en los estadios IIIA y IIIB. En el estadio IIIA, el cáncer se diseminó dentro de la pared de la vía biliar
+distal (conducto colédoco), y a 4 o más ganglios linfáticos cercanos. En el estadio IIIB, el cáncer se diseminó a los vasos sanguíneos grandes que transportan sangre a los órganos del abdomen. Es posible que el cáncer se haya diseminado a 1 o más ganglios linfáticos cercanos. También se llama cáncer de conducto biliar distal en estadio III.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-04-23</DateFirstPublished>
+  <DateLastModified>2020-06-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

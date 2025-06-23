@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044324"><TermName>pharmacokinetics</TermName><TermPronunciation>(FAR-muh-koh-kih-NEH-tix)</TermPronunciation><TermDefinition><DefinitionText>The activity of drugs in the body over a period of time, including the processes by which drugs are absorbed, distributed in the body, localized in the tissues, and excreted.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704480" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pharmacokinetics&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704481" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;farmacocinética&quot;" language="es" id="_4"/><SpanishTermName>farmacocinética</SpanishTermName><SpanishTermDefinition><DefinitionText>Actividad de los medicamentos en el cuerpo durante un período de tiempo.  Esto incluye procesos como la absorción, la distribución en el cuerpo, la ubicación en los tejidos y la eliminación del medicamento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-03-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044324">
+  <TermName>pharmacokinetics</TermName>
+  <TermPronunciation>(FAR-muh-koh-kih-NEH-tix)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The activity of drugs in the body over a period of time, including the processes by which drugs are absorbed, distributed in the body, localized in the tissues, and excreted.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704480" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pharmacokinetics&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704481" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;farmacocinética&quot;" language="es" id="_4"/>
+  <SpanishTermName>farmacocinética</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Actividad de los medicamentos en el cuerpo durante un período de tiempo.  Esto incluye procesos como la absorción, la distribución en el cuerpo, la ubicación en los tejidos y la eliminación del medicamento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-03-19</DateLastModified>
+</GlossaryTerm>

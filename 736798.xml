@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000736798"><TermName>MIBG scan</TermName><TermPronunciation>(... skan)</TermPronunciation><TermDefinition><DefinitionText>A procedure used to find neuroendocrine tumors, such as neuroblastomas and pheochromocytomas. A small amount of a substance called radioactive MIBG is injected into a vein and travels through the bloodstream. Neuroendocrine tumor cells take up the radioactive MIBG and are detected by a scanner.  Also called iobenguane scan and metaiodobenzylguanidine scan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000742992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MIBG scan&quot;" language="en" id="_3"/><MediaLink ref="CDR0000742993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gammagrafía con MIBG&quot;" language="es" id="_4"/><SpanishTermName>gammagrafía con MIBG</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento que se usa para encontrar tumores neuroendocrinos, como los neuroblastomas y los feocromocitomas. Se inyecta en una vena una pequeña cantidad de una sustancia radiactiva que se llama MIBG y esta circula por el torrente sanguíneo. Los tumores neuroendocrinos absorben la MIBG y se detectan con un escáner. También se llama gammagrafía con iobenguano y gammagrafía con metayodobencilguanidina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-11-01</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000736798">
+  <TermName>MIBG scan</TermName>
+  <TermPronunciation>(... skan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure used to find neuroendocrine tumors, such as neuroblastomas and pheochromocytomas. A small amount of a substance called radioactive MIBG is injected into a vein and travels through the bloodstream. Neuroendocrine tumor cells take up the radioactive MIBG and are detected by a scanner.  Also called iobenguane scan and metaiodobenzylguanidine scan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000742992" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MIBG scan&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000742993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gammagrafía con MIBG&quot;" language="es" id="_4"/>
+  <SpanishTermName>gammagrafía con MIBG</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento que se usa para encontrar tumores neuroendocrinos, como los neuroblastomas y los feocromocitomas. Se inyecta en una vena una pequeña cantidad de una sustancia radiactiva que se llama MIBG y esta circula por el torrente sanguíneo. Los tumores neuroendocrinos absorben la MIBG y se detectan con un escáner. También se llama gammagrafía con iobenguano y gammagrafía con metayodobencilguanidina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-11-01</DateFirstPublished>
+</GlossaryTerm>

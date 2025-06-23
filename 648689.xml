@@ -1,3 +1,22 @@
-<GlossaryTerm id="CDR0000648689"><TermName>IMC-1121B</TermName><TermDefinition><DefinitionText>A drug that binds to the protein vascular endothelial growth factor (VEGF) to help keep new blood vessels from forming and is used to treat different types of cancer. It is used alone or with other drugs to treat certain types of non-small cell lung cancer, hepatocellular carcinoma (a type of liver cancer),  colorectal cancer, stomach cancer, and gastroesophageal junction cancer. It is also being studied in the treatment of other types of cancer. IMC-1121B may prevent the growth of new blood vessels that tumors need to grow. It is a type of antiangiogenesis agent and a type of monoclonal antibody.
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000648689">
+  <TermName>IMC-1121B</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug that binds to the protein vascular endothelial growth factor (VEGF) to help keep new blood vessels from forming and is used to treat different types of cancer. It is used alone or with other drugs to treat certain types of non-small cell lung cancer, hepatocellular carcinoma (a type of liver cancer),  colorectal cancer, stomach cancer, and gastroesophageal junction cancer. It is also being studied in the treatment of other types of cancer. IMC-1121B may prevent the growth of new blood vessels that tumors need to grow. It is a type of antiangiogenesis agent and a type of monoclonal antibody.
 
- Also called anti-VEGFR-2 fully human monoclonal antibody IMC-1121B, Cyramza, and ramucirumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>IMC-1121B</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se une a la proteína del factor de crecimiento endotelial vascular (VEGF) para impedir que se formen vasos sanguíneos nuevos y  se usa para tratar tipos diferentes de cáncer. También se utiliza solo  o con otros medicamentos para tratar ciertos tipos de cáncer de pulmón de células no pequeñas, carcinoma hepatocelular (tipo de cáncer de hígado), cáncer colorrectal, cáncer de estómago y cáncer de unión gastroesofágica. Además, está en estudio para el tratamiento de otros tipos de cáncer.  Es posible que el IMC-1121B impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de antiangiogénico y de anticuerpo monoclonal. También se llama anticuerpo monoclonal totalmente humano anti-VEGFR-2 IMC-1121B, Cyramza y ramucirumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-01-11</DateFirstPublished><DateLastModified>2020-06-02</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000760376" url="/about-cancer/treatment/drugs/ramucirumab">Ramucirumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+ Also called anti-VEGFR-2 fully human monoclonal antibody IMC-1121B, Cyramza, and ramucirumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>IMC-1121B</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se une a la proteína del factor de crecimiento endotelial vascular (VEGF) para impedir que se formen vasos sanguíneos nuevos y  se usa para tratar tipos diferentes de cáncer. También se utiliza solo  o con otros medicamentos para tratar ciertos tipos de cáncer de pulmón de células no pequeñas, carcinoma hepatocelular (tipo de cáncer de hígado), cáncer colorrectal, cáncer de estómago y cáncer de unión gastroesofágica. Además, está en estudio para el tratamiento de otros tipos de cáncer.  Es posible que el IMC-1121B impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de antiangiogénico y de anticuerpo monoclonal. También se llama anticuerpo monoclonal totalmente humano anti-VEGFR-2 IMC-1121B, Cyramza y ramucirumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-01-11</DateFirstPublished>
+  <DateLastModified>2020-06-02</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000760376" url="/about-cancer/treatment/drugs/ramucirumab">Ramucirumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

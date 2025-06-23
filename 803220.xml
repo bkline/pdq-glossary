@@ -1,8 +1,34 @@
-<GlossaryTerm id="CDR0000803220"><TermName>LRMDA gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803220">
+  <TermName>LRMDA gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that
           makes a protein involved in the formation of cells that
           make the pigment melanin, which gives color to skin and
-          eyes. Mutations (changes) in the <GeneName>LRMDA</GeneName>
+          eyes. Mutations (changes) in the 
+      <GeneName>LRMDA</GeneName>
+      
           gene have been found in a rare inherited condition called
           oculocutaneous albinism type 7. People with this condition
           have vision problems, very fair skin, and a high risk of
-          developing skin cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805273" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;LRMDA gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen LRMDA&quot;" language="es" id="_4"/><SpanishTermName>gen LRMDA</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la diferenciación de las células productoras de melanina (pigmento que da el color a la piel y  los ojos). Se han encontrado mutaciones (cambios) del gen <GeneName>LRMDA</GeneName> en una afección hereditaria rara  llamada albinismo oculocutáneo de tipo 7. Las personas con esta afección tienen problemas con la vista, la piel muy clara y un riesgo alto de presentar cáncer de piel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished></GlossaryTerm>
+          developing skin cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805273" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;LRMDA gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen LRMDA&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen LRMDA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la diferenciación de las células productoras de melanina (pigmento que da el color a la piel y  los ojos). Se han encontrado mutaciones (cambios) del gen 
+      <GeneName>LRMDA</GeneName>
+       en una afección hereditaria rara  llamada albinismo oculocutáneo de tipo 7. Las personas con esta afección tienen problemas con la vista, la piel muy clara y un riesgo alto de presentar cáncer de piel.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+</GlossaryTerm>

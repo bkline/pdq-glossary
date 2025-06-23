@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000672835"><TermName>dysgerminoma</TermName><TermPronunciation>(DIS-jer-mih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of cancer that begins in germ cells in females. Germ cells are cells that form sperm in males or eggs in females. Dysgerminomas occur most often in the ovaries, but they may also occur in other areas of the body, including the central nervous system. Some dysgerminomas make a hormone called beta-human chorionic gonadotropin (beta-HCG) that may cause signs and symptoms of disease. Dysgerminomas tend to grow and spread slowly. They are the most common type of ovarian germ cell tumor. They usually occur in teenage girls or young women.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726021" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dysgerminoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726020" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disgerminoma&quot;" language="es" id="_4"/><SpanishTermName>disgerminoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer que empieza en las células germinativas de las mujeres. Las células germinativas son células que producen espermatozoides en los varones y óvulos en las mujeres. Los disgerminomas se presentan con mayor frecuencia en los ovarios, pero también surgen en otras áreas del cuerpo, incluso en el sistema nervioso central. Algunos disgerminomas elaboran una hormona que se llama gonadotropina coriónica humana β (GCH-β) que a veces causa signos y síntomas de enfermedad. Los disgerminomas tienden a crecer y diseminarse lentamente.   Son el tipo más común de tumor de células germinativas de ovario.   Por lo general, se presentan en mujeres adolescentes y jóvenes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-08-28</DateFirstPublished><DateLastModified>2018-03-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000672835">
+  <TermName>dysgerminoma</TermName>
+  <TermPronunciation>(DIS-jer-mih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of cancer that begins in germ cells in females. Germ cells are cells that form sperm in males or eggs in females. Dysgerminomas occur most often in the ovaries, but they may also occur in other areas of the body, including the central nervous system. Some dysgerminomas make a hormone called beta-human chorionic gonadotropin (beta-HCG) that may cause signs and symptoms of disease. Dysgerminomas tend to grow and spread slowly. They are the most common type of ovarian germ cell tumor. They usually occur in teenage girls or young women.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726021" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dysgerminoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726020" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;disgerminoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>disgerminoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer que empieza en las células germinativas de las mujeres. Las células germinativas son células que producen espermatozoides en los varones y óvulos en las mujeres. Los disgerminomas se presentan con mayor frecuencia en los ovarios, pero también surgen en otras áreas del cuerpo, incluso en el sistema nervioso central. Algunos disgerminomas elaboran una hormona que se llama gonadotropina coriónica humana β (GCH-β) que a veces causa signos y síntomas de enfermedad. Los disgerminomas tienden a crecer y diseminarse lentamente.   Son el tipo más común de tumor de células germinativas de ovario.   Por lo general, se presentan en mujeres adolescentes y jóvenes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-08-28</DateFirstPublished>
+  <DateLastModified>2018-03-07</DateLastModified>
+</GlossaryTerm>

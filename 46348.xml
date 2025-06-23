@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000046348"><TermName>infertility</TermName><TermPronunciation>(IN-fer-TIH-lih-tee)</TermPronunciation><TermDefinition><DefinitionText>The inability to produce children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708586" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infertility&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708585" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esterilidad&quot;" language="es" id="_4"/><SpanishTermName>esterilidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Incapacidad para reproducirse (tener descendencia). También se llama infertilidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-10-26</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-hombres">Problemas de salud sexual en hombres con cáncer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres">Problemas de salud sexual en mujeres con cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046348">
+  <TermName>infertility</TermName>
+  <TermPronunciation>(IN-fer-TIH-lih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The inability to produce children.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708586" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infertility&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708585" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;esterilidad&quot;" language="es" id="_4"/>
+  <SpanishTermName>esterilidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Incapacidad para reproducirse (tener descendencia). También se llama infertilidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-10-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-hombres">Problemas de salud sexual en hombres con cáncer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres">Problemas de salud sexual en mujeres con cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

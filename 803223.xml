@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000803223"><TermName>drug product</TermName><TermPronunciation>(… PRAH-dukt)</TermPronunciation><TermDefinition><DefinitionText>A dosage form that contains one or more active and/or inactive ingredients. Drug products come in many dosage forms, including tablets, capsules, liquids, creams, and patches. They can also be given in different ways, such as by mouth, by infusion into a vein, or by drops that are put into the ear or eye. The form with the active ingredient is used to prevent, diagnose, treat, or relieve symptoms of a disease or abnormal condition. A drug product that does not contain an active ingredient and is used in research studies is called a placebo.   Also called medication.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805277" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drug product&quot;" language="en" id="_4"/><MediaLink ref="CDR0000805278" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;producto farmacéutico&quot;" language="es" id="_5"/><SpanishTermName>producto farmacéutico</SpanishTermName><SpanishTermDefinition><DefinitionText>Formulación  que contiene uno o más principios activos así como ingredientes inactivos. Los productos farmacéuticos se fabrican en diferentes presentaciones, como comprimidos, cápsulas, líquidos, cremas y parches. Se administran de diferentes maneras, entre ellas, por la boca, mediante infusión en una vena o como gotas que se aplican en los oídos o los ojos. La formulación que contiene el fármaco (principio activo) se usa para prevenir, diagnosticar, tratar o aliviar los síntomas de una enfermedad o afección. Un producto farmacéutico que no contiene un principio activo y que se usa en los estudios de investigación se llama placebo. También se llama especialidad farmacéutica y medicamento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished><DateLastModified>2021-02-09</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803223">
+  <TermName>drug product</TermName>
+  <TermPronunciation>(… PRAH-dukt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A dosage form that contains one or more active and/or inactive ingredients. Drug products come in many dosage forms, including tablets, capsules, liquids, creams, and patches. They can also be given in different ways, such as by mouth, by infusion into a vein, or by drops that are put into the ear or eye. The form with the active ingredient is used to prevent, diagnose, treat, or relieve symptoms of a disease or abnormal condition. A drug product that does not contain an active ingredient and is used in research studies is called a placebo.   Also called medication.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805277" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;drug product&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000805278" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;producto farmacéutico&quot;" language="es" id="_5"/>
+  <SpanishTermName>producto farmacéutico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Formulación  que contiene uno o más principios activos así como ingredientes inactivos. Los productos farmacéuticos se fabrican en diferentes presentaciones, como comprimidos, cápsulas, líquidos, cremas y parches. Se administran de diferentes maneras, entre ellas, por la boca, mediante infusión en una vena o como gotas que se aplican en los oídos o los ojos. La formulación que contiene el fármaco (principio activo) se usa para prevenir, diagnosticar, tratar o aliviar los síntomas de una enfermedad o afección. Un producto farmacéutico que no contiene un principio activo y que se usa en los estudios de investigación se llama placebo. También se llama especialidad farmacéutica y medicamento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+  <DateLastModified>2021-02-09</DateLastModified>
+</GlossaryTerm>

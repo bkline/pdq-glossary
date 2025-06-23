@@ -1,1 +1,21 @@
-<GlossaryTerm id="CDR0000804983"><TermName>BBD</TermName><TermDefinition><DefinitionText>A group of conditions marked by changes in breast tissue that are not cancer but may become cancer. Types of BBD include atypical ductal hyperplasia, atypical lobular hyperplasia,  lobular carcinoma in situ, and complex sclerosing lesion (radial scar). Having BBD increases the risk of breast cancer. Also called borderline breast disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BBD</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de afecciones caracterizadas por cambios no cancerosos en el tejido de la mama, que a veces se convierten en cáncer. Los tipos de BBD incluyen la hiperplasia ductal atípica, la hiperplasia lobulillar atípica,  el carcinoma lobulillar <Emphasis>in situ</Emphasis> y la lesión esclerosante compleja (cicatriz radial). La presencia de BBD aumenta el riesgo de cáncer de mama. También se llama enfermedad limítrofe de mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-08-09</DateFirstPublished><DateLastModified>2021-11-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804983">
+  <TermName>BBD</TermName>
+  <TermDefinition>
+    <DefinitionText>A group of conditions marked by changes in breast tissue that are not cancer but may become cancer. Types of BBD include atypical ductal hyperplasia, atypical lobular hyperplasia,  lobular carcinoma in situ, and complex sclerosing lesion (radial scar). Having BBD increases the risk of breast cancer. Also called borderline breast disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BBD</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Grupo de afecciones caracterizadas por cambios no cancerosos en el tejido de la mama, que a veces se convierten en cáncer. Los tipos de BBD incluyen la hiperplasia ductal atípica, la hiperplasia lobulillar atípica,  el carcinoma lobulillar 
+      <Emphasis>in situ</Emphasis>
+       y la lesión esclerosante compleja (cicatriz radial). La presencia de BBD aumenta el riesgo de cáncer de mama. También se llama enfermedad limítrofe de mama.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-08-09</DateFirstPublished>
+  <DateLastModified>2021-11-08</DateLastModified>
+</GlossaryTerm>

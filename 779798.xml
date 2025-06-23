@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000779798"><TermName>Arimidex</TermName><TermPronunciation>(uh-RIH-mih-dex)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of breast cancer in postmenopausal women. It is also being studied in the treatment of other types of cancer. Arimidex lowers the amount of estrogen made by the body. This may stop the growth of cancer cells that need estrogen to grow. Arimidex is a type of nonsteroidal aromatase inhibitor. Also called anastrozole.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000780308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Arimidex&quot;" language="en" id="_3"/><MediaLink ref="CDR0000780307" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Arimidex&quot;" language="es" id="_4"/><SpanishTermName>Arimidex</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para tratar ciertos tipos de cáncer de mama en mujeres posmenopáusicas. También está en estudio para el tratamiento de otros tipos de cáncer. Arimidex disminuye la cantidad de estrógeno que produce el cuerpo. Este medicamento puede detener la formación de células cancerosas que necesitan del estrógeno para crecer. Arimidex es un tipo de inhibidor no esteroideo de la aromatasa. También se llama anastrozol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-03-29</DateFirstPublished><DateLastModified>2016-03-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000526103" url="/about-cancer/treatment/drugs/anastrozole">Anastrozole</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000779798">
+  <TermName>Arimidex</TermName>
+  <TermPronunciation>(uh-RIH-mih-dex)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of breast cancer in postmenopausal women. It is also being studied in the treatment of other types of cancer. Arimidex lowers the amount of estrogen made by the body. This may stop the growth of cancer cells that need estrogen to grow. Arimidex is a type of nonsteroidal aromatase inhibitor. Also called anastrozole.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000780308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Arimidex&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000780307" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Arimidex&quot;" language="es" id="_4"/>
+  <SpanishTermName>Arimidex</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para tratar ciertos tipos de cáncer de mama en mujeres posmenopáusicas. También está en estudio para el tratamiento de otros tipos de cáncer. Arimidex disminuye la cantidad de estrógeno que produce el cuerpo. Este medicamento puede detener la formación de células cancerosas que necesitan del estrógeno para crecer. Arimidex es un tipo de inhibidor no esteroideo de la aromatasa. También se llama anastrozol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-03-29</DateFirstPublished>
+  <DateLastModified>2016-03-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000526103" url="/about-cancer/treatment/drugs/anastrozole">Anastrozole</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

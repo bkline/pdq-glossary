@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000563950"><TermName>familial medullary thyroid cancer</TermName><TermPronunciation>(fuh-MIH-lee-ul MED-yoo-LAYR-ee THY-royd KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>An inherited form of medullary thyroid cancer (cancer that forms in the cells of the thyroid that make the hormone calcitonin).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familial medullary thyroid cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides medular familiar&quot;" language="es" id="_6"/><SpanishTermName>cáncer de tiroides medular familiar</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma heredada de cáncer de tiroides medular (cáncer que se forma en las células de la tiroides que elaboran la hormona calcitonina). También se llama cáncer medular de tiroides familiar, carcinoma medular de tiroides familiar y MTC familiar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-08-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000563950">
+  <TermName>familial medullary thyroid cancer</TermName>
+  <TermPronunciation>(fuh-MIH-lee-ul MED-yoo-LAYR-ee THY-royd KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An inherited form of medullary thyroid cancer (cancer that forms in the cells of the thyroid that make the hormone calcitonin).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familial medullary thyroid cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720711" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides medular familiar&quot;" language="es" id="_6"/>
+  <SpanishTermName>cáncer de tiroides medular familiar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma heredada de cáncer de tiroides medular (cáncer que se forma en las células de la tiroides que elaboran la hormona calcitonina). También se llama cáncer medular de tiroides familiar, carcinoma medular de tiroides familiar y MTC familiar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-08-20</DateFirstPublished>
+</GlossaryTerm>

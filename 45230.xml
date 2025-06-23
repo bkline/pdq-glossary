@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045230"><TermName>cisplatin</TermName><TermPronunciation>(sis-PLA-tin)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of bladder cancer, ovarian cancer, and testicular cancer. It is also being studied in the treatment of other types of cancer. Cisplatin damages the cell's DNA and may kill cancer cells. It is a type of platinum compound. The brand name Platinol has been taken off the market and is no longer available.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705183" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cisplatin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cisplatino&quot;" language="es" id="_4"/><SpanishTermName>cisplatino</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de vejiga, cáncer de ovario y cáncer de testículo. También está en estudio para el tratamiento de otros tipos de cáncer. El cisplatino daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de compuesto de platino. La marca comercial Platinol se retiró del mercado y ya no se consigue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-12-22</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000533338" url="/about-cancer/treatment/drugs/cisplatin">Cisplatin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045230">
+  <TermName>cisplatin</TermName>
+  <TermPronunciation>(sis-PLA-tin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of bladder cancer, ovarian cancer, and testicular cancer. It is also being studied in the treatment of other types of cancer. Cisplatin damages the cell's DNA and may kill cancer cells. It is a type of platinum compound. The brand name Platinol has been taken off the market and is no longer available.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705183" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cisplatin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cisplatino&quot;" language="es" id="_4"/>
+  <SpanishTermName>cisplatino</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de vejiga, cáncer de ovario y cáncer de testículo. También está en estudio para el tratamiento de otros tipos de cáncer. El cisplatino daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de compuesto de platino. La marca comercial Platinol se retiró del mercado y ya no se consigue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-12-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000533338" url="/about-cancer/treatment/drugs/cisplatin">Cisplatin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

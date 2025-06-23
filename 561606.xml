@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000561606"><TermName>mouse model</TermName><TermPronunciation>(... MAH-dul)</TermPronunciation><TermDefinition><DefinitionText>The use of special strains of mice to study a human disease or condition, and how to prevent and treat it.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mouse model&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ratón modelo&quot;" language="es" id="_4"/><SpanishTermName>modelo murino</SpanishTermName><SpanishTermDefinition><DefinitionText>Uso de cepas especiales de ratones para estudiar una enfermedad o afección humana, y la manera de prevenirla y tratarla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561606">
+  <TermName>mouse model</TermName>
+  <TermPronunciation>(... MAH-dul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The use of special strains of mice to study a human disease or condition, and how to prevent and treat it.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mouse model&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ratón modelo&quot;" language="es" id="_4"/>
+  <SpanishTermName>modelo murino</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Uso de cepas especiales de ratones para estudiar una enfermedad o afección humana, y la manera de prevenirla y tratarla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-06</DateFirstPublished>
+</GlossaryTerm>

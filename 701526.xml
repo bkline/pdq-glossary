@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000701526"><TermName>lymphangitic carcinomatosis</TermName><TermPronunciation>(LIM-fan-JIH-tik KAR-sih-NOH-muh-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A serious condition in which cancer cells spread from the original (primary) tumor to the lymph vessels (the thin tubes that carry lymph and white blood cells through the body’s lymph system). The cancer cells build up in the lymph vessels, which causes them to become blocked. Lymphangitic carcinomatosis usually occurs in the lungs. It can happen in many types of cancer, but it is most common in people with cancers of the breast, lung, colon, stomach, pancreas, or prostate. Also called carcinomatous lymphangitis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732940" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphangitic carcinomatosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732939" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinomatosis linfangítica&quot;" language="es" id="_4"/><SpanishTermName>carcinomatosis linfangítica</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección grave por la que las células cancerosas se diseminan desde el tumor original (primario) a los vasos linfáticos (tubos delgados que transportan la linfa y los glóbulos blancos por el sistema linfático del cuerpo). Las células cancerosas se acumulan en los vasos linfáticos y causan obstrucción. La carcinomatosis linfangítica suele presentarse en los pulmones. Esta afección se relaciona con muchos tipos de cáncer, pero es más común en personas con cáncer de mama, pulmón, colon, estómago, páncreas o próstata. También se llama linfangitis carcinomatosa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-10-20</DateFirstPublished><DateLastModified>2022-05-05</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000701526">
+  <TermName>lymphangitic carcinomatosis</TermName>
+  <TermPronunciation>(LIM-fan-JIH-tik KAR-sih-NOH-muh-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A serious condition in which cancer cells spread from the original (primary) tumor to the lymph vessels (the thin tubes that carry lymph and white blood cells through the body’s lymph system). The cancer cells build up in the lymph vessels, which causes them to become blocked. Lymphangitic carcinomatosis usually occurs in the lungs. It can happen in many types of cancer, but it is most common in people with cancers of the breast, lung, colon, stomach, pancreas, or prostate. Also called carcinomatous lymphangitis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732940" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphangitic carcinomatosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732939" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinomatosis linfangítica&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinomatosis linfangítica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección grave por la que las células cancerosas se diseminan desde el tumor original (primario) a los vasos linfáticos (tubos delgados que transportan la linfa y los glóbulos blancos por el sistema linfático del cuerpo). Las células cancerosas se acumulan en los vasos linfáticos y causan obstrucción. La carcinomatosis linfangítica suele presentarse en los pulmones. Esta afección se relaciona con muchos tipos de cáncer, pero es más común en personas con cáncer de mama, pulmón, colon, estómago, páncreas o próstata. También se llama linfangitis carcinomatosa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-10-20</DateFirstPublished>
+  <DateLastModified>2022-05-05</DateLastModified>
+</GlossaryTerm>

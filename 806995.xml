@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000806995"><TermName>CAD system</TermName><TermPronunciation>(... SIS-tem)</TermPronunciation><TermDefinition><DefinitionText>A computer-based system that uses special software to help look for suspicious areas of tissue on an x-ray image. A CAD system highlights these areas on the image so they can be looked at more closely. A  CAD system is used with certain types of imaging, such as mammography or chest x-ray, to help diagnose a disease, such as cancer. Also called computer-aided detection system.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000809784" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CAD system&quot;" language="en" id="_3"/><SpanishTermName>sistema CAD</SpanishTermName><SpanishTermDefinition><DefinitionText>Sistema informático que utiliza un software especial para ayudar a buscar áreas de tejido sospechosas en una imagen de rayos X. Un sistema CAD resalta estas áreas en la imagen para que sean observadas con más detalle. El sistema CAD se usa con ciertos tipos de imágenes, como la mamografía o la radiografía del tórax, para ayudar a diagnosticar enfermedades como  el cáncer. También se llama sistema de detección asistido por computadora.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-03-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806995">
+  <TermName>CAD system</TermName>
+  <TermPronunciation>(... SIS-tem)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A computer-based system that uses special software to help look for suspicious areas of tissue on an x-ray image. A CAD system highlights these areas on the image so they can be looked at more closely. A  CAD system is used with certain types of imaging, such as mammography or chest x-ray, to help diagnose a disease, such as cancer. Also called computer-aided detection system.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000809784" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CAD system&quot;" language="en" id="_3"/>
+  <SpanishTermName>sistema CAD</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sistema informático que utiliza un software especial para ayudar a buscar áreas de tejido sospechosas en una imagen de rayos X. Un sistema CAD resalta estas áreas en la imagen para que sean observadas con más detalle. El sistema CAD se usa con ciertos tipos de imágenes, como la mamografía o la radiografía del tórax, para ayudar a diagnosticar enfermedades como  el cáncer. También se llama sistema de detección asistido por computadora.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-03-16</DateFirstPublished>
+</GlossaryTerm>

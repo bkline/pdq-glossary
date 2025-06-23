@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044702"><TermName>pathology report</TermName><TermPronunciation>(puh-THAH-loh-jee ...)</TermPronunciation><TermDefinition><DefinitionText>The description of cells and tissues made by a pathologist based on microscopic evidence, and sometimes used to make a diagnosis of a disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pathology report&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705855" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;informe de patología&quot;" language="es" id="_4"/><SpanishTermName>informe de patología</SpanishTermName><SpanishTermDefinition><DefinitionText>Descripción de las células y los tejidos que realiza un patólogo a partir del estudio microscópico. A veces también se usa para diagnosticar una enfermedad. También se llama informe anatomopatológico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-03-29</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet">Pathology Reports</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-informes-de-patologia">Informes anatomopatológicos</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044702">
+  <TermName>pathology report</TermName>
+  <TermPronunciation>(puh-THAH-loh-jee ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The description of cells and tissues made by a pathologist based on microscopic evidence, and sometimes used to make a diagnosis of a disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pathology report&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705855" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;informe de patología&quot;" language="es" id="_4"/>
+  <SpanishTermName>informe de patología</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Descripción de las células y los tejidos que realiza un patólogo a partir del estudio microscópico. A veces también se usa para diagnosticar una enfermedad. También se llama informe anatomopatológico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-03-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet">Pathology Reports</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-informes-de-patologia">Informes anatomopatológicos</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

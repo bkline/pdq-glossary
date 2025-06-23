@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000783964"><TermName>missense variant</TermName><TermPronunciation>(MIS-sens VAYR-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>A genetic alteration in which a single base pair substitution alters the genetic code in a way that produces an amino acid that is different from the usual amino acid at that position. Some missense variants (or mutations) will alter the function of the protein.  Also called missense mutation.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A change in the DNA sequence of a gene that results in one amino acid (protein building block) being replaced with an amino acid that is different from the usual one at that position in the gene. Some missense variants have little or no effect on the function of the protein, while others may change the function of the protein. Also called missense mutation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785428" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;missense variant&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante de cambio de sentido&quot;" language="es" id="_4"/><SpanishTermName>variante de cambio de sentido</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética en la que una sustitución de un solo par de bases altera el código genético de manera que se produce un aminoácido diferente al que se encuentra por lo habitual en esa posición. Algunas variantes de cambio de sentido o mutaciones de aminoácido alteran la función proteica. También se llama mutación de aminoácido.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Cambio en la secuencia de ADN de un gen en el que se reemplaza un aminoácido (componente básico de las proteínas) por otro aminoácido diferente al que por lo habitual se encuentra en esa posición del gen. Algunas variantes de cambio de sentido tienen un efecto muy leve en la función de la proteína o no tienen efecto, mientras que otras ocasionan cambios en dicha función. También se llama mutación de aminoácido.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-28</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Missense-Mutation">Missense Mutation (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Mutacion-con-cambio-de-sentido">Mutación con cambio de sentido (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783964">
+  <TermName>missense variant</TermName>
+  <TermPronunciation>(MIS-sens VAYR-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic alteration in which a single base pair substitution alters the genetic code in a way that produces an amino acid that is different from the usual amino acid at that position. Some missense variants (or mutations) will alter the function of the protein.  Also called missense mutation.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A change in the DNA sequence of a gene that results in one amino acid (protein building block) being replaced with an amino acid that is different from the usual one at that position in the gene. Some missense variants have little or no effect on the function of the protein, while others may change the function of the protein. Also called missense mutation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785428" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;missense variant&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante de cambio de sentido&quot;" language="es" id="_4"/>
+  <SpanishTermName>variante de cambio de sentido</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración genética en la que una sustitución de un solo par de bases altera el código genético de manera que se produce un aminoácido diferente al que se encuentra por lo habitual en esa posición. Algunas variantes de cambio de sentido o mutaciones de aminoácido alteran la función proteica. También se llama mutación de aminoácido.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Cambio en la secuencia de ADN de un gen en el que se reemplaza un aminoácido (componente básico de las proteínas) por otro aminoácido diferente al que por lo habitual se encuentra en esa posición del gen. Algunas variantes de cambio de sentido tienen un efecto muy leve en la función de la proteína o no tienen efecto, mientras que otras ocasionan cambios en dicha función. También se llama mutación de aminoácido.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Missense-Mutation">Missense Mutation (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Mutacion-con-cambio-de-sentido">Mutación con cambio de sentido (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

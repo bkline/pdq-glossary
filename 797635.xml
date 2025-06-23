@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000797635"><TermName>acute paronychia</TermName><TermPronunciation>(uh-KYOOT PAYR-uh-NIH-kee-uh)</TermPronunciation><TermDefinition><DefinitionText>An infection
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797635">
+  <TermName>acute paronychia</TermName>
+  <TermPronunciation>(uh-KYOOT PAYR-uh-NIH-kee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An infection
           of the soft tissue around a fingernail or toenail that
           begins suddenly and can get worse quickly. It is usually
           caused when bacteria enter through a break in the skin from
@@ -10,5 +15,18 @@
           include pain, tenderness, warmth, redness, and swelling
           around the nail. Pus may form in the skin around or under
           the nail. When treated, acute paronychia usually heals
-          within 10 days.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acute paronychia&quot;" language="en" id="_5"/><MediaLink ref="CDR0000799597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;paroniquia aguda&quot;" language="es" id="_6"/><SpanishTermName>paroniquia aguda</SpanishTermName><SpanishTermDefinition><DefinitionText>Infección del tejido blando que rodea una uña de la mano o el pie, que comienza de repente  y empeora rápido. La causa a menudo es una bacteria que entra a través de una abertura de la piel en un uñero (padrastro) o una uña encarnada, por daño en la cutícula (piel de la base de la uña) o 
-          por una lesión de la zona donde la uña se une con la piel. A veces, la causa de la paroniquia aguda es el tratamiento con ciertos medicamentos para el cáncer o trastornos inmunitarios. Los signos y síntomas son dolor, sensibilidad, calor, enrojecimiento e hinchazón alrededor de la uña. Es posible que se acumule pus en la piel que rodea la uña o por debajo de la uña. Cuando la paroniquia aguda se trata, por lo general se cura en 10 días. También se llama panadizo y perionixis aguda.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-25</DateFirstPublished></GlossaryTerm>
+          within 10 days.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acute paronychia&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000799597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;paroniquia aguda&quot;" language="es" id="_6"/>
+  <SpanishTermName>paroniquia aguda</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Infección del tejido blando que rodea una uña de la mano o el pie, que comienza de repente  y empeora rápido. La causa a menudo es una bacteria que entra a través de una abertura de la piel en un uñero (padrastro) o una uña encarnada, por daño en la cutícula (piel de la base de la uña) o 
+          por una lesión de la zona donde la uña se une con la piel. A veces, la causa de la paroniquia aguda es el tratamiento con ciertos medicamentos para el cáncer o trastornos inmunitarios. Los signos y síntomas son dolor, sensibilidad, calor, enrojecimiento e hinchazón alrededor de la uña. Es posible que se acumule pus en la piel que rodea la uña o por debajo de la uña. Cuando la paroniquia aguda se trata, por lo general se cura en 10 días. También se llama panadizo y perionixis aguda.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-25</DateFirstPublished>
+</GlossaryTerm>

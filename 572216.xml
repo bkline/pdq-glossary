@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000572216"><TermName>physical medicine specialist</TermName><TermPronunciation>(FIH-zih-kul MEH-dih-sin SPEH-shuh-list)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in physical medicine. Physical medicine is the prevention and treatment of disease or injury with physical methods, such as exercise and machines. Also called physiatrist.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720752" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;physical medicine specialist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720753" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;especialista en medicina física&quot;" language="es" id="_4"/><SpanishTermName>especialista en medicina física</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que tiene formación especial en medicina física. La medicina física se ocupa de la prevención y el tratamiento de enfermedades o lesiones con métodos físicos, como el uso de ejercicios y máquinas. También se llama fisiatra.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-10-04</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000572216">
+  <TermName>physical medicine specialist</TermName>
+  <TermPronunciation>(FIH-zih-kul MEH-dih-sin SPEH-shuh-list)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in physical medicine. Physical medicine is the prevention and treatment of disease or injury with physical methods, such as exercise and machines. Also called physiatrist.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720752" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;physical medicine specialist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720753" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;especialista en medicina física&quot;" language="es" id="_4"/>
+  <SpanishTermName>especialista en medicina física</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que tiene formación especial en medicina física. La medicina física se ocupa de la prevención y el tratamiento de enfermedades o lesiones con métodos físicos, como el uso de ejercicios y máquinas. También se llama fisiatra.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-10-04</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

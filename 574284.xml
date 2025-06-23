@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000574284"><TermName>classic Hodgkin lymphoma</TermName><TermPronunciation>(KLA-sik HOJ-kin lim-FOH-muh)</TermPronunciation><TermDefinition><DefinitionText>The most common type of Hodgkin lymphoma (a cancer of the immune system). Classic Hodgkin lymphoma is marked by the presence of a type of cell called the Reed-Sternberg cell.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720769" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;classic Hodgkin lymphoma&quot;" language="en" id="_5"/><MediaLink ref="CDR0000720768" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma de Hodgkin clásico&quot;" language="es" id="_4"/><MediaLink ref="CDR0000576466" type="image/jpeg" alt="Reed-Sternberg cell; photograph shows normal lymphocytes compared with a Reed-Sternberg cell." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Reed-Sternberg cell. Reed-Sternberg cells are large, abnormal lymphocytes (a type of white blood cell) that may contain more than one nucleus. These cells are found in people with Hodgkin lymphoma. Reed-Sternberg cells are also called Hodgkin and Reed-Sternberg cells.</Caption></MediaLink><MediaLink ref="CDR0000583752" type="image/jpeg" alt="Célula de Reed-Sternberg. En la fotografía se observan linfocitos normales y se los compara con una célula de Reed-Sternberg." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Célula de Reed-Sternberg. Las células de Reed-Sternberg son linfocitos (tipo de glóbulo blanco) grandes y anormales que en ocasiones contienen más de un núcleo. Estas células se encuentran en personas con linfoma de Hodgkin. Las células de Reed-Sternberg también se llaman células de Hodgkin y Reed-Sternberg.</Caption></MediaLink><SpanishTermName>linfoma de Hodgkin clásico</SpanishTermName><SpanishTermDefinition><DefinitionText>El tipo más común de linfoma de Hodgkin (cáncer del sistema inmunitario). El linfoma de Hodgkin clásico se caracteriza por la presencia de un tipo de célula llamada célula de Reed-Sternberg.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-10-24</DateFirstPublished><DateLastModified>2019-05-28</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000574284">
+  <TermName>classic Hodgkin lymphoma</TermName>
+  <TermPronunciation>(KLA-sik HOJ-kin lim-FOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The most common type of Hodgkin lymphoma (a cancer of the immune system). Classic Hodgkin lymphoma is marked by the presence of a type of cell called the Reed-Sternberg cell.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720769" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;classic Hodgkin lymphoma&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000720768" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma de Hodgkin clásico&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000576466" type="image/jpeg" alt="Reed-Sternberg cell; photograph shows normal lymphocytes compared with a Reed-Sternberg cell." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Reed-Sternberg cell. Reed-Sternberg cells are large, abnormal lymphocytes (a type of white blood cell) that may contain more than one nucleus. These cells are found in people with Hodgkin lymphoma. Reed-Sternberg cells are also called Hodgkin and Reed-Sternberg cells.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000583752" type="image/jpeg" alt="Célula de Reed-Sternberg. En la fotografía se observan linfocitos normales y se los compara con una célula de Reed-Sternberg." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Célula de Reed-Sternberg. Las células de Reed-Sternberg son linfocitos (tipo de glóbulo blanco) grandes y anormales que en ocasiones contienen más de un núcleo. Estas células se encuentran en personas con linfoma de Hodgkin. Las células de Reed-Sternberg también se llaman células de Hodgkin y Reed-Sternberg.</Caption>
+  </MediaLink>
+  <SpanishTermName>linfoma de Hodgkin clásico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tipo más común de linfoma de Hodgkin (cáncer del sistema inmunitario). El linfoma de Hodgkin clásico se caracteriza por la presencia de un tipo de célula llamada célula de Reed-Sternberg.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-10-24</DateFirstPublished>
+  <DateLastModified>2019-05-28</DateLastModified>
+</GlossaryTerm>

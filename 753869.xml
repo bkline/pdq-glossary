@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000753869"><TermName>mTOR inhibitor</TermName><TermPronunciation>(… in-HIH-bih-ter)</TermPronunciation><TermDefinition><DefinitionText>A substance that blocks a protein called mTOR, which helps control cell division. Blocking mTOR’s action may keep cancer cells from growing and prevent the growth of new blood vessels that tumors need to grow. Some mTOR inhibitors are used to treat cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000759287" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mTOR inhibitor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000759286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de mTOR&quot;" language="es" id="_4"/><SpanishTermName>inhibidor de mTOR</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que impide la acción de la proteína mTOR, que ayuda a controlar la multiplicación celular. El bloqueo de la acción de mTOR quizás impida la multiplicación de las células cancerosas y la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer. Algunos inhibidores de mTOR se usan para tratar el cáncer. También se llama inhibidor del blanco de la rapamicina en los mamíferos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-01-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000753869">
+  <TermName>mTOR inhibitor</TermName>
+  <TermPronunciation>(… in-HIH-bih-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that blocks a protein called mTOR, which helps control cell division. Blocking mTOR’s action may keep cancer cells from growing and prevent the growth of new blood vessels that tumors need to grow. Some mTOR inhibitors are used to treat cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000759287" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mTOR inhibitor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000759286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de mTOR&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor de mTOR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que impide la acción de la proteína mTOR, que ayuda a controlar la multiplicación celular. El bloqueo de la acción de mTOR quizás impida la multiplicación de las células cancerosas y la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer. Algunos inhibidores de mTOR se usan para tratar el cáncer. También se llama inhibidor del blanco de la rapamicina en los mamíferos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-01-28</DateFirstPublished>
+</GlossaryTerm>

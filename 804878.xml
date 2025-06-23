@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000804878"><TermName>dostarlimab</TermName><TermPronunciation>(dos-TAR-lih-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults with certain types of endometrial cancer or other solid tumors that have come back or are advanced. These include cancers that have certain mutations (changes) in genes involved in DNA repair. It is also being studied in the treatment of other types of cancer. Dostarlimab binds to a protein called PD-1, which is found on T cells (a type of immune cell). Dostarlimab may block PD-1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Jemperli.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dostarlimab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dostarlimab&quot;" language="es" id="_4"/><SpanishTermName>dostarlimab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de algunos tipos de cáncer de endometrio u otros tumores sólidos en estadio avanzado o que reaparecieron. Esto incluye cánceres que tienen ciertas mutaciones (cambios) en genes que participan en la reparación del ADN. También está en estudio para el tratamiento de otros tipos de cáncer. El dostarlimab se une a una proteína llamada PD-1, que se encuentra en las células T (tipo de célula inmunitaria). Es posible que el dostarlimab bloquee PD-1 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Jemperli.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-04-27</DateFirstPublished><DateLastModified>2024-08-06</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000804890" url="/about-cancer/treatment/drugs/dostarlimab-gxly">Dostarlimab-gxly</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804878">
+  <TermName>dostarlimab</TermName>
+  <TermPronunciation>(dos-TAR-lih-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults with certain types of endometrial cancer or other solid tumors that have come back or are advanced. These include cancers that have certain mutations (changes) in genes involved in DNA repair. It is also being studied in the treatment of other types of cancer. Dostarlimab binds to a protein called PD-1, which is found on T cells (a type of immune cell). Dostarlimab may block PD-1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Jemperli.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dostarlimab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dostarlimab&quot;" language="es" id="_4"/>
+  <SpanishTermName>dostarlimab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de algunos tipos de cáncer de endometrio u otros tumores sólidos en estadio avanzado o que reaparecieron. Esto incluye cánceres que tienen ciertas mutaciones (cambios) en genes que participan en la reparación del ADN. También está en estudio para el tratamiento de otros tipos de cáncer. El dostarlimab se une a una proteína llamada PD-1, que se encuentra en las células T (tipo de célula inmunitaria). Es posible que el dostarlimab bloquee PD-1 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Jemperli.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-04-27</DateFirstPublished>
+  <DateLastModified>2024-08-06</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000804890" url="/about-cancer/treatment/drugs/dostarlimab-gxly">Dostarlimab-gxly</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

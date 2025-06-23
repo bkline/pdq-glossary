@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000789006"><TermName>hypotrichosis</TermName><TermPronunciation>(HY-poh-trih-KOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A rare condition in which there is little or no hair growth on the head, including the brows above the eyes and the edge of the eyelids, or other areas of the body where hair normally grows. Hair in the affected areas usually stays short and is dry and rough. It may also be tightly curled, lighter in color, and break easily. Hypotrichosis is usually congenital (present at birth) and is linked to several different genetic syndromes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hypotrichosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791470" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hipotricosis&quot;" language="es" id="_4"/><SpanishTermName>hipotricosis</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección poco frecuente por la que el pelo de la cabeza crece poco o nada, incluso en las cejas y el borde de las pestañas, u otras áreas del cuerpo donde el pelo suele crecer normalmente. El pelo de las áreas afectadas por lo general es corto, seco y desigual. También puede estar muy rizado, de color más claro y quebrarse con facilidad. La hipotricosis suele ser congénita (presente al nacer) y se relaciona con varios síndromes genéticos diferentes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-08</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789006">
+  <TermName>hypotrichosis</TermName>
+  <TermPronunciation>(HY-poh-trih-KOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare condition in which there is little or no hair growth on the head, including the brows above the eyes and the edge of the eyelids, or other areas of the body where hair normally grows. Hair in the affected areas usually stays short and is dry and rough. It may also be tightly curled, lighter in color, and break easily. Hypotrichosis is usually congenital (present at birth) and is linked to several different genetic syndromes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hypotrichosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791470" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hipotricosis&quot;" language="es" id="_4"/>
+  <SpanishTermName>hipotricosis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección poco frecuente por la que el pelo de la cabeza crece poco o nada, incluso en las cejas y el borde de las pestañas, u otras áreas del cuerpo donde el pelo suele crecer normalmente. El pelo de las áreas afectadas por lo general es corto, seco y desigual. También puede estar muy rizado, de color más claro y quebrarse con facilidad. La hipotricosis suele ser congénita (presente al nacer) y se relaciona con varios síndromes genéticos diferentes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-08</DateFirstPublished>
+</GlossaryTerm>

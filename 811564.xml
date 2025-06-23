@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000811564"><TermName>intravesical chemotherapy</TermName><TermPronunciation>(IN-truh-VEH-sih-kul KEE-moh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment in which anticancer drugs are put directly into the bladder through a thin, flexible tube inserted into the urethra (the tube through which urine leaves the body from the bladder). Intravesical chemotherapy may be used to treat some types of early-stage bladder cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813974" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intravesical chemotherapy&quot;" language="en" id="_4"/><MediaLink ref="CDR0000813975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia intravesical&quot;" language="es" id="_5"/><SpanishTermName>quimioterapia intravesical</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento en el que se colocan medicamentos contra el cáncer directamente en la vejiga a través de un tubo delgado y flexible que se introduce por la uretra (conducto por el que la orina sale del cuerpo desde la vejiga). La quimioterapia intravesical se usa para tratar algunos tipos de cáncer de vejiga en estadio temprano. También se llama quimioterapia endovesical.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-23</DateFirstPublished><DateLastModified>2023-06-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811564">
+  <TermName>intravesical chemotherapy</TermName>
+  <TermPronunciation>(IN-truh-VEH-sih-kul KEE-moh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment in which anticancer drugs are put directly into the bladder through a thin, flexible tube inserted into the urethra (the tube through which urine leaves the body from the bladder). Intravesical chemotherapy may be used to treat some types of early-stage bladder cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813974" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intravesical chemotherapy&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000813975" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia intravesical&quot;" language="es" id="_5"/>
+  <SpanishTermName>quimioterapia intravesical</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento en el que se colocan medicamentos contra el cáncer directamente en la vejiga a través de un tubo delgado y flexible que se introduce por la uretra (conducto por el que la orina sale del cuerpo desde la vejiga). La quimioterapia intravesical se usa para tratar algunos tipos de cáncer de vejiga en estadio temprano. También se llama quimioterapia endovesical.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-23</DateFirstPublished>
+  <DateLastModified>2023-06-23</DateLastModified>
+</GlossaryTerm>

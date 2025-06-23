@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000785688"><TermName>Abrikossoff tumor</TermName><TermPronunciation>(AH-bree-KAH-sof TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare type of soft tissue tumor that usually begins in Schwann cells (cells that hold nerve cells in place). It can occur anywhere in the body, but it usually occurs in or under the skin of the head and neck (especially the mouth or tongue). It may also occur in the chest, breast, esophagus, stomach, or other internal organ. Most Abrikossoff tumors are benign (not cancer), but some may be malignant (cancer) and spread quickly to nearby tissue. They usually occur in middle-aged adults. Also called granular cell tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000789268" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Abrikossoff tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000789267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de Abrikósov&quot;" language="es" id="_4"/><SpanishTermName>tumor de Abrikósov</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo poco frecuente de tumor de tejido blando que por lo general surge en las células de Schwann (células  que sostienen las células nerviosas en su lugar). Se presenta en cualquier parte del cuerpo, pero a menudo se encuentra debajo de la piel de la cabeza y el cuello (en especial, en la boca o lengua). También se presenta en el tórax, la mama, el esófago, el estómago u otros órganos internos. La mayoría de los tumores de Abrikósov son benignos (no cancerosos), pero algunos se vuelven malignos (cancerosos) y se diseminan con rapidez al tejido cercano. A menudo se presentan en adultos de mediana edad. También se llama tumor de células granulosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-05-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000785688">
+  <TermName>Abrikossoff tumor</TermName>
+  <TermPronunciation>(AH-bree-KAH-sof TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of soft tissue tumor that usually begins in Schwann cells (cells that hold nerve cells in place). It can occur anywhere in the body, but it usually occurs in or under the skin of the head and neck (especially the mouth or tongue). It may also occur in the chest, breast, esophagus, stomach, or other internal organ. Most Abrikossoff tumors are benign (not cancer), but some may be malignant (cancer) and spread quickly to nearby tissue. They usually occur in middle-aged adults. Also called granular cell tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000789268" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Abrikossoff tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000789267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de Abrikósov&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor de Abrikósov</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo poco frecuente de tumor de tejido blando que por lo general surge en las células de Schwann (células  que sostienen las células nerviosas en su lugar). Se presenta en cualquier parte del cuerpo, pero a menudo se encuentra debajo de la piel de la cabeza y el cuello (en especial, en la boca o lengua). También se presenta en el tórax, la mama, el esófago, el estómago u otros órganos internos. La mayoría de los tumores de Abrikósov son benignos (no cancerosos), pero algunos se vuelven malignos (cancerosos) y se diseminan con rapidez al tejido cercano. A menudo se presentan en adultos de mediana edad. También se llama tumor de células granulosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-05-10</DateFirstPublished>
+</GlossaryTerm>

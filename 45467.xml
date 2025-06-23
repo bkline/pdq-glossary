@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045467"><TermName>cetuximab</TermName><TermPronunciation>(seh-TUK-sih-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of head and neck cancer and colorectal cancer. It is also being studied in the treatment of other types of cancer. Cetuximab binds to a protein called EGFR, which is found on some types of cancer cells. This may help keep cancer cells from growing. Cetuximab is a type of monoclonal antibody. Also called Erbitux.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cetuximab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cetuximab&quot;" language="es" id="_4"/><SpanishTermName>cetuximab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de cabeza y cuello y cáncer colorrectal. También está en estudio para el tratamiento de otros tipos de cáncer. El cetuximab se une a una proteína llamada EGFR, que está en la superficie de algunos tipos de células cancerosas. Es posible que esto ayude a impedir la multiplicación de células cancerosas. El cetuximab es un tipo de anticuerpo monoclonal. También se llama Erbitux.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-10-01</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000491901" url="/about-cancer/treatment/drugs/cetuximab">Cetuximab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045467">
+  <TermName>cetuximab</TermName>
+  <TermPronunciation>(seh-TUK-sih-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of head and neck cancer and colorectal cancer. It is also being studied in the treatment of other types of cancer. Cetuximab binds to a protein called EGFR, which is found on some types of cancer cells. This may help keep cancer cells from growing. Cetuximab is a type of monoclonal antibody. Also called Erbitux.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705501" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cetuximab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705500" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cetuximab&quot;" language="es" id="_4"/>
+  <SpanishTermName>cetuximab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de cabeza y cuello y cáncer colorrectal. También está en estudio para el tratamiento de otros tipos de cáncer. El cetuximab se une a una proteína llamada EGFR, que está en la superficie de algunos tipos de células cancerosas. Es posible que esto ayude a impedir la multiplicación de células cancerosas. El cetuximab es un tipo de anticuerpo monoclonal. También se llama Erbitux.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-10-01</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000491901" url="/about-cancer/treatment/drugs/cetuximab">Cetuximab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

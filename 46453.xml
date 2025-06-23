@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046453"><TermName>dermatologist</TermName><TermPronunciation>(der-muh-TAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training to diagnose and treat skin problems.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708765" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dermatologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708764" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dermatólogo&quot;" language="es" id="_4"/><SpanishTermName>dermatólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de los problemas de la piel. También se llama especialista en dermatología.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-03-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046453">
+  <TermName>dermatologist</TermName>
+  <TermPronunciation>(der-muh-TAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training to diagnose and treat skin problems.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708765" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dermatologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708764" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dermatólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>dermatólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de los problemas de la piel. También se llama especialista en dermatología.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-03-29</DateLastModified>
+</GlossaryTerm>

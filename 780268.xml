@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000780268"><TermName>venetoclax</TermName><TermPronunciation>(veh-NEH-toh-klax)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain adults with acute myeloid leukemia that is newly diagnosed and adults with chronic lymphocytic leukemia  or  small lymphocytic lymphoma. It is also being studied in the treatment of other types of cancer. Venetoclax binds to a protein called BCL2, which is found on some types of cancer cells. Blocking this protein may help kill cancer cells and may make them more sensitive to anticancer drugs. Venetoclax is a type of BCL2 inhibitor. Also called Venclexta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000781315" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;venetoclax&quot;" language="en" id="_3"/><MediaLink ref="CDR0000781314" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;venetoclax&quot;" language="es" id="_4"/><SpanishTermName>venetoclax</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa  solo o con otros medicamentos para el tratamiento de algunos adultos con leucemia mieloide aguda recién diagnosticada y adultos con leucemia linfocítica crónica o linfoma linfocítico pequeño. También está en estudio para el tratamiento de otros tipos de cáncer. El venetoclax se une a una proteína llamada BCL2, que se encuentra en algunos tipos de células cancerosas. Es posible que bloquear la acción de esta proteína ayude a destruir células cancerosas y las haga más sensibles a los medicamentos contra el cáncer. El venetoclax es un tipo de inhibidor de BCL2. También se llama Venclexta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-04-13</DateFirstPublished><DateLastModified>2020-10-19</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000780272" url="/about-cancer/treatment/drugs/venetoclax">Venetoclax</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780268">
+  <TermName>venetoclax</TermName>
+  <TermPronunciation>(veh-NEH-toh-klax)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain adults with acute myeloid leukemia that is newly diagnosed and adults with chronic lymphocytic leukemia  or  small lymphocytic lymphoma. It is also being studied in the treatment of other types of cancer. Venetoclax binds to a protein called BCL2, which is found on some types of cancer cells. Blocking this protein may help kill cancer cells and may make them more sensitive to anticancer drugs. Venetoclax is a type of BCL2 inhibitor. Also called Venclexta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000781315" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;venetoclax&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000781314" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;venetoclax&quot;" language="es" id="_4"/>
+  <SpanishTermName>venetoclax</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa  solo o con otros medicamentos para el tratamiento de algunos adultos con leucemia mieloide aguda recién diagnosticada y adultos con leucemia linfocítica crónica o linfoma linfocítico pequeño. También está en estudio para el tratamiento de otros tipos de cáncer. El venetoclax se une a una proteína llamada BCL2, que se encuentra en algunos tipos de células cancerosas. Es posible que bloquear la acción de esta proteína ayude a destruir células cancerosas y las haga más sensibles a los medicamentos contra el cáncer. El venetoclax es un tipo de inhibidor de BCL2. También se llama Venclexta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-04-13</DateFirstPublished>
+  <DateLastModified>2020-10-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000780272" url="/about-cancer/treatment/drugs/venetoclax">Venetoclax</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

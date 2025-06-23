@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000318825"><TermName>rehabilitation specialist</TermName><TermPronunciation>(REE-huh-BIH-lih-TAY-shun SPEH-shuh-list)</TermPronunciation><TermDefinition><DefinitionText>A health care professional who helps people recover from an illness or injury and return to daily life. Examples of rehabilitation specialists are physical therapists and occupational therapists.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711548" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rehabilitation specialist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711547" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;especialista en rehabilitación&quot;" language="es" id="_4"/><SpanishTermName>especialista en rehabilitación</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la salud que ayuda a las personas a recuperarse de una enfermedad o lesión y reincorporarse a la vida diaria. Los fisioterapeutas y los ergoterapeutas son ejemplos de especialistas en rehabilitación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2024-02-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000318825">
+  <TermName>rehabilitation specialist</TermName>
+  <TermPronunciation>(REE-huh-BIH-lih-TAY-shun SPEH-shuh-list)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A health care professional who helps people recover from an illness or injury and return to daily life. Examples of rehabilitation specialists are physical therapists and occupational therapists.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711548" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rehabilitation specialist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711547" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;especialista en rehabilitación&quot;" language="es" id="_4"/>
+  <SpanishTermName>especialista en rehabilitación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la salud que ayuda a las personas a recuperarse de una enfermedad o lesión y reincorporarse a la vida diaria. Los fisioterapeutas y los ergoterapeutas son ejemplos de especialistas en rehabilitación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2024-02-06</DateLastModified>
+</GlossaryTerm>

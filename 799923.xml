@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000799923"><TermName>chondroma</TermName><TermPronunciation>(kon-DROH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare, slow-growing tumor that is made up of cartilage and forms on or in bones or soft tissue. It is not cancer. The tumor usually occurs in the hands or feet, but it may also occur in the upper arm, thigh, collarbone, ribs, pelvis, spine, skull, and nasal sinuses. Most chondromas do not cause symptoms, but pain, swelling, and broken bones can occur. Chondromas usually don’t spread to other parts of the body, but in rare cases they may become malignant (cancer). They can occur in both adults and children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802551" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chondroma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802552" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condroma&quot;" language="es" id="_4"/><SpanishTermName>condroma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor benigno poco común de crecimiento lento formado por cartílago que surge en los huesos o en los tejidos blandos.  A menudo se presenta en las manos o los pies, pero a veces se forma  en los brazos, las clavículas, las costillas, la pelvis, la columna vertebral, el cráneo y los senos paranasales. La mayoría de los condromas no causan síntomas, aunque es posible que produzcan dolor, hinchazón y fracturas óseas. Estos tumores por lo general no se diseminan a otras partes del cuerpo, pero en casos infrecuentes se vuelven malignos (cancerosos). Los condromas se presentan en niños y adultos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-02-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799923">
+  <TermName>chondroma</TermName>
+  <TermPronunciation>(kon-DROH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, slow-growing tumor that is made up of cartilage and forms on or in bones or soft tissue. It is not cancer. The tumor usually occurs in the hands or feet, but it may also occur in the upper arm, thigh, collarbone, ribs, pelvis, spine, skull, and nasal sinuses. Most chondromas do not cause symptoms, but pain, swelling, and broken bones can occur. Chondromas usually don’t spread to other parts of the body, but in rare cases they may become malignant (cancer). They can occur in both adults and children.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802551" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chondroma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802552" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;condroma&quot;" language="es" id="_4"/>
+  <SpanishTermName>condroma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor benigno poco común de crecimiento lento formado por cartílago que surge en los huesos o en los tejidos blandos.  A menudo se presenta en las manos o los pies, pero a veces se forma  en los brazos, las clavículas, las costillas, la pelvis, la columna vertebral, el cráneo y los senos paranasales. La mayoría de los condromas no causan síntomas, aunque es posible que produzcan dolor, hinchazón y fracturas óseas. Estos tumores por lo general no se diseminan a otras partes del cuerpo, pero en casos infrecuentes se vuelven malignos (cancerosos). Los condromas se presentan en niños y adultos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-02-13</DateFirstPublished>
+</GlossaryTerm>

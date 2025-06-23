@@ -1,1 +1,38 @@
-<GlossaryTerm id="CDR0000803225"><TermName>MSH2 gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in repairing DNA errors that can occur when DNA is copied in a cell. Mutations (changes) in the <GeneName>MSH2</GeneName> gene may cause unrepaired errors in DNA to build up in the cell, which may lead to abnormal cell growth and cancer. <GeneName>MSH2 </GeneName> gene mutations have been found in the inherited conditions Lynch syndrome and Muir-Torre syndrome. People with these conditions have an increased risk of developing colorectal cancer and other types of cancer. The <GeneName>MSH2 </GeneName> gene is a type of DNA mismatch repair (MMR) gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805279" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MSH2 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen MSH2&quot;" language="es" id="_4"/><SpanishTermName>gen MSH2</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la reparación de los errores que ocurren cuando el ADN se duplica en una célula. Las mutaciones (cambios) en el gen <GeneName>MSH2</GeneName> quizás causen que se acumulen errores sin reparar en el ADN de la célula, lo que en ocasiones produce la multiplicación de células anormales y cáncer. Se han encontrado mutaciones del gen <GeneName>MSH2</GeneName> en dos afecciones hereditarias llamadas síndrome de Lynch y síndrome de Muir-Torre. Las personas con estas afecciones tienen un aumento del riesgo de presentar cáncer colorrectal y otros tipos de cáncer.  El gen <GeneName>MSH2</GeneName> es un tipo de gen de reparación de errores de emparejamiento (MMR) del ADN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/msh2">MSH2 gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803225">
+  <TermName>MSH2 gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in repairing DNA errors that can occur when DNA is copied in a cell. Mutations (changes) in the 
+      <GeneName>MSH2</GeneName>
+       gene may cause unrepaired errors in DNA to build up in the cell, which may lead to abnormal cell growth and cancer. 
+      <GeneName>MSH2 </GeneName>
+       gene mutations have been found in the inherited conditions Lynch syndrome and Muir-Torre syndrome. People with these conditions have an increased risk of developing colorectal cancer and other types of cancer. The 
+      <GeneName>MSH2 </GeneName>
+       gene is a type of DNA mismatch repair (MMR) gene.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805279" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MSH2 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805280" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen MSH2&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen MSH2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la reparación de los errores que ocurren cuando el ADN se duplica en una célula. Las mutaciones (cambios) en el gen 
+      <GeneName>MSH2</GeneName>
+       quizás causen que se acumulen errores sin reparar en el ADN de la célula, lo que en ocasiones produce la multiplicación de células anormales y cáncer. Se han encontrado mutaciones del gen 
+      <GeneName>MSH2</GeneName>
+       en dos afecciones hereditarias llamadas síndrome de Lynch y síndrome de Muir-Torre. Las personas con estas afecciones tienen un aumento del riesgo de presentar cáncer colorrectal y otros tipos de cáncer.  El gen 
+      <GeneName>MSH2</GeneName>
+       es un tipo de gen de reparación de errores de emparejamiento (MMR) del ADN.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/msh2">MSH2 gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

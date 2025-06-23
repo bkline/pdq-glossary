@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000513009"><TermName>N-benzoyl-staurosporine</TermName><TermPronunciation>(...BEN-zoyl-STAW-roh-SPOR-een)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other anticancer drugs to treat adults with certain types of acute myeloid leukemia, mast cell leukemia, or systemic mastocytosis. It is also being studied in the treatment of other types of cancer. N-benzoyl-staurosporine blocks certain proteins, which may help keep cancer cells from growing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. N-benzoyl-staurosporine is a type of tyrosine kinase inhibitor and a type of antiangiogenesis agent. Also called midostaurin, PKC412, and Rydapt.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718419" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;N-benzoyl-staurosporine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718418" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;N-benzoilo-estaurosporina&quot;" language="es" id="_4"/><SpanishTermName>N-benzoilo-estaurosporina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos contra el cáncer para el tratamiento de adultos con ciertos  tipos de leucemia mieloide aguda, leucemia de mastocitos o mastocitosis sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. La N-benzoilo-estaurosporina bloquea ciertas proteínas,  lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es posible que además impida  la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. La N-benzoilo-estaurosporina es un tipo de antiangiogénico y de inhibidor de la proteína cinasa. También se llama midostaurina, PKC412 y Rydapt.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-14</DateFirstPublished><DateLastModified>2021-06-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000788890" url="/about-cancer/treatment/drugs/midostaurin">Midostaurin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000513009">
+  <TermName>N-benzoyl-staurosporine</TermName>
+  <TermPronunciation>(...BEN-zoyl-STAW-roh-SPOR-een)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other anticancer drugs to treat adults with certain types of acute myeloid leukemia, mast cell leukemia, or systemic mastocytosis. It is also being studied in the treatment of other types of cancer. N-benzoyl-staurosporine blocks certain proteins, which may help keep cancer cells from growing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. N-benzoyl-staurosporine is a type of tyrosine kinase inhibitor and a type of antiangiogenesis agent. Also called midostaurin, PKC412, and Rydapt.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718419" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;N-benzoyl-staurosporine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718418" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;N-benzoilo-estaurosporina&quot;" language="es" id="_4"/>
+  <SpanishTermName>N-benzoilo-estaurosporina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos contra el cáncer para el tratamiento de adultos con ciertos  tipos de leucemia mieloide aguda, leucemia de mastocitos o mastocitosis sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. La N-benzoilo-estaurosporina bloquea ciertas proteínas,  lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es posible que además impida  la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. La N-benzoilo-estaurosporina es un tipo de antiangiogénico y de inhibidor de la proteína cinasa. También se llama midostaurina, PKC412 y Rydapt.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-14</DateFirstPublished>
+  <DateLastModified>2021-06-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000788890" url="/about-cancer/treatment/drugs/midostaurin">Midostaurin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

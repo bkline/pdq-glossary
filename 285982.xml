@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000285982"><TermName>blinded study</TermName><TermPronunciation>(BLINE-ded STUH-dee)</TermPronunciation><TermDefinition><DefinitionText>A type of study in which the patients (single-blinded) or the patients and their doctors (double-blinded) do not know which drug or treatment is being given. The opposite of a blinded study is an open label study.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710133" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;blinded study&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710134" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio con enmascaramiento&quot;" language="es" id="_4"/><SpanishTermName>estudio con enmascaramiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de estudio en el que solo los pacientes (enmascaramiento simple), o los pacientes y sus médicos (enmascaramiento doble) no saben qué medicamento o tratamiento van a recibir. Un estudio sin enmascaramiento (sin anonimato) es lo opuesto. También se llama ensayo encubierto, estudio ciego, estudio con anonimato, estudio con ocultación y estudio enmascarado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-02-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000285982">
+  <TermName>blinded study</TermName>
+  <TermPronunciation>(BLINE-ded STUH-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of study in which the patients (single-blinded) or the patients and their doctors (double-blinded) do not know which drug or treatment is being given. The opposite of a blinded study is an open label study.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710133" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;blinded study&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710134" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio con enmascaramiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>estudio con enmascaramiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de estudio en el que solo los pacientes (enmascaramiento simple), o los pacientes y sus médicos (enmascaramiento doble) no saben qué medicamento o tratamiento van a recibir. Un estudio sin enmascaramiento (sin anonimato) es lo opuesto. También se llama ensayo encubierto, estudio ciego, estudio con anonimato, estudio con ocultación y estudio enmascarado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-02-21</DateFirstPublished>
+</GlossaryTerm>

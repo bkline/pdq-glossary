@@ -1,8 +1,30 @@
-<GlossaryTerm id="CDR0000407757"><TermName>constipation</TermName><TermPronunciation>(KON-stih-PAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A condition in
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000407757">
+  <TermName>constipation</TermName>
+  <TermPronunciation>(KON-stih-PAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in
           which stool becomes hard, dry, and difficult to pass, and
           bowel movements don’t happen very often. Other symptoms may
           include painful bowel movements, and feeling bloated,
-          uncomfortable, and sluggish.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713265" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;constipation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713264" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estreñimiento&quot;" language="es" id="_4"/><SpanishTermName>estreñimiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección en la que las heces son duras, secas y difíciles de evacuar; y las deposiciones (evacuaciones intestinales) son menos frecuentes y dolorosas. Otros
+          uncomfortable, and sluggish.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713265" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;constipation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713264" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estreñimiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>estreñimiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección en la que las heces son duras, secas y difíciles de evacuar; y las deposiciones (evacuaciones intestinales) son menos frecuentes y dolorosas. Otros
 síntomas son sensación de hinchazón o distensión, incomodidad y
-letargo. También se llama constipación y obstipación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/constipation">Constipation
-and Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento">Estreñimiento relacionado con el tratamiento del cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+letargo. También se llama constipación y obstipación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/constipation">Constipation
+and Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento">Estreñimiento relacionado con el tratamiento del cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

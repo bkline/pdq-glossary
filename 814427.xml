@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000814427"><TermName>fruquintinib</TermName><TermPronunciation>(froo-KWIN-tih-nib)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with colorectal cancer that has spread to other parts of the body and has already been treated with other anticancer therapy. It is also being studied in the treatment of other types of cancer. Fruquintinib blocks a protein called VEGFR, which may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of antiangiogenesis agent and a type of kinase inhibitor. Also called Fruzaqla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814925" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fruquintinib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814926" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fruquintinib&quot;" language="es" id="_4"/><SpanishTermName>fruquintinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer colorrectal que se diseminó a otras partes del cuerpo y que ya recibieron otro tratamiento contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. El fruquintinib bloquea una proteína llamada VEGFR, lo que es posible que impida la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer y destruya células cancerosas. Es un tipo de antiangiogénico  y de inhibidor de cinasas. También se llama Fruzaqla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-11-16</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000814465" url="/about-cancer/treatment/drugs/fruquintinib">Fruquintinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000814427">
+  <TermName>fruquintinib</TermName>
+  <TermPronunciation>(froo-KWIN-tih-nib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with colorectal cancer that has spread to other parts of the body and has already been treated with other anticancer therapy. It is also being studied in the treatment of other types of cancer. Fruquintinib blocks a protein called VEGFR, which may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of antiangiogenesis agent and a type of kinase inhibitor. Also called Fruzaqla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814925" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fruquintinib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814926" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fruquintinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>fruquintinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer colorrectal que se diseminó a otras partes del cuerpo y que ya recibieron otro tratamiento contra el cáncer. También está en estudio para el tratamiento de otros tipos de cáncer. El fruquintinib bloquea una proteína llamada VEGFR, lo que es posible que impida la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer y destruya células cancerosas. Es un tipo de antiangiogénico  y de inhibidor de cinasas. También se llama Fruzaqla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-11-16</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000814465" url="/about-cancer/treatment/drugs/fruquintinib">Fruquintinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

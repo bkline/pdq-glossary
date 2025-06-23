@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000817141"><TermName>Revuforj</TermName><TermPronunciation>(REH-vyoo-forj)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults and children aged 1 year and older with acute leukemia that has a certain change in the <GeneName>KMT2A</GeneName> gene and has come back or has not gotten better with other treatment.  It is also being studied in the treatment of other types of cancer. Revuforj binds to a protein called menin and keeps it from binding to another protein called KMT2A. This stops or slows the growth of leukemia cells with changes in the <GeneName>KMT2A</GeneName> gene. Also called revumenib citrate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817795" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Revuforj&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817796" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Revuforj&quot;" language="es" id="_4"/><SpanishTermName>Revuforj</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento en adultos, así como niños de 1 año o más con leucemia aguda que presenta cierto cambio en el gen <GeneName>KMT2A</GeneName> y que reapareció o que no mejoró con otros tratamientos.  También está en estudio para el tratamiento de otros tipos de cáncer. Revuforj se une a una proteína llamada menina e impide que esta se una a otra proteína llamada KMT2A. Esto detiene o demora la multiplicación de células leucémicas con cambios en el gen <GeneName>KMT2A</GeneName>. También se llama citrato de revumenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-11-21</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000817185" url="/about-cancer/treatment/drugs/revumenib-citrate">Revumenib Citrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817141">
+  <TermName>Revuforj</TermName>
+  <TermPronunciation>(REH-vyoo-forj)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults and children aged 1 year and older with acute leukemia that has a certain change in the 
+      <GeneName>KMT2A</GeneName>
+       gene and has come back or has not gotten better with other treatment.  It is also being studied in the treatment of other types of cancer. Revuforj binds to a protein called menin and keeps it from binding to another protein called KMT2A. This stops or slows the growth of leukemia cells with changes in the 
+      <GeneName>KMT2A</GeneName>
+       gene. Also called revumenib citrate.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817795" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Revuforj&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817796" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Revuforj&quot;" language="es" id="_4"/>
+  <SpanishTermName>Revuforj</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento en adultos, así como niños de 1 año o más con leucemia aguda que presenta cierto cambio en el gen 
+      <GeneName>KMT2A</GeneName>
+       y que reapareció o que no mejoró con otros tratamientos.  También está en estudio para el tratamiento de otros tipos de cáncer. Revuforj se une a una proteína llamada menina e impide que esta se una a otra proteína llamada KMT2A. Esto detiene o demora la multiplicación de células leucémicas con cambios en el gen 
+      <GeneName>KMT2A</GeneName>
+      . También se llama citrato de revumenib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-11-21</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000817185" url="/about-cancer/treatment/drugs/revumenib-citrate">Revumenib Citrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

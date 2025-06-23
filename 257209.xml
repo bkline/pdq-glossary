@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000257209"><TermName>hormone responsive</TermName><TermPronunciation>(HOR-mone reh-SPONT-siv)</TermPronunciation><TermDefinition><DefinitionText>In oncology, describes cancer that responds to hormone treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone responsive&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731503" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormonosensible&quot;" language="es" id="_6"/><SpanishTermName>hormonosensible</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la oncología, describe el cáncer que responde al tratamiento hormonal. También se llama sensible a las hormonas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000257209">
+  <TermName>hormone responsive</TermName>
+  <TermPronunciation>(HOR-mone reh-SPONT-siv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In oncology, describes cancer that responds to hormone treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone responsive&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731503" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormonosensible&quot;" language="es" id="_6"/>
+  <SpanishTermName>hormonosensible</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la oncología, describe el cáncer que responde al tratamiento hormonal. También se llama sensible a las hormonas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

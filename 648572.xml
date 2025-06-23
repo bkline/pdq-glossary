@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000648572"><TermName>Carney syndrome</TermName><TermPronunciation>(KAR-nee SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder marked by dark spots on the skin and tumors in the heart, endocrine glands, skin, and nerves. There are two types of Carney syndrome, which are  caused by mutations (changes) in different genes. Also called Carney complex.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726128" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Carney syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726129" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Carney&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Carney</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección hereditaria rara que se caracteriza por manchas oscuras en la piel y tumores de corazón, glándulas endocrinas, piel y nervios. Hay dos tipos de síndrome de Carney causados por mutaciones (cambios) de genes distintos. También se llama complejo de Carney.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-05-20</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/1119/carney-complex">Carney complex (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/carney-complex/">Carney complex (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000648572">
+  <TermName>Carney syndrome</TermName>
+  <TermPronunciation>(KAR-nee SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder marked by dark spots on the skin and tumors in the heart, endocrine glands, skin, and nerves. There are two types of Carney syndrome, which are  caused by mutations (changes) in different genes. Also called Carney complex.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726128" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Carney syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726129" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Carney&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Carney</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección hereditaria rara que se caracteriza por manchas oscuras en la piel y tumores de corazón, glándulas endocrinas, piel y nervios. Hay dos tipos de síndrome de Carney causados por mutaciones (cambios) de genes distintos. También se llama complejo de Carney.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-05-20</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/1119/carney-complex">Carney complex (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/carney-complex/">Carney complex (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000781867"><TermName>PHACE syndrome</TermName><TermPronunciation>(… SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare disorder marked by a hemangioma (a benign blood vessel tumor) that spreads across an area of the body, usually the face, head, or neck. Other health problems that affect the large blood vessels, heart, eyes, or brain may also occur. PHACE syndrome may also cause developmental delays, hearing problems, thyroid problems, and migraines. PHACE syndrome usually occurs in infants and is much more common in girls than boys.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785377" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PHACE syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785378" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome PHACE&quot;" language="es" id="_4"/><SpanishTermName>síndrome PHACE</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno poco frecuente que se caracteriza por la presencia de un hemangioma (tumor benigno de los vasos sanguíneos) que se disemina en un área del cuerpo, por lo general la cara, la cabeza o el cuello. A veces, también se presentan otros problemas de salud que afectan los vasos sanguíneos grandes, el corazón, los ojos o el encéfalo. El síndrome PHACE también causa retrasos en el desarrollo, problemas de audición, problemas de tiroides y migrañas. El síndrome PHACE se suele presentar en lactantes y es mucho más común en las niñas que en los niños.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-23</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8338/phace-syndrome">PHACE syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781867">
+  <TermName>PHACE syndrome</TermName>
+  <TermPronunciation>(… SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare disorder marked by a hemangioma (a benign blood vessel tumor) that spreads across an area of the body, usually the face, head, or neck. Other health problems that affect the large blood vessels, heart, eyes, or brain may also occur. PHACE syndrome may also cause developmental delays, hearing problems, thyroid problems, and migraines. PHACE syndrome usually occurs in infants and is much more common in girls than boys.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785377" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PHACE syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785378" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome PHACE&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome PHACE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno poco frecuente que se caracteriza por la presencia de un hemangioma (tumor benigno de los vasos sanguíneos) que se disemina en un área del cuerpo, por lo general la cara, la cabeza o el cuello. A veces, también se presentan otros problemas de salud que afectan los vasos sanguíneos grandes, el corazón, los ojos o el encéfalo. El síndrome PHACE también causa retrasos en el desarrollo, problemas de audición, problemas de tiroides y migrañas. El síndrome PHACE se suele presentar en lactantes y es mucho más común en las niñas que en los niños.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8338/phace-syndrome">PHACE syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

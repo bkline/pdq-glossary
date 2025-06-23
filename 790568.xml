@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000790568"><TermName>pediatric cancer</TermName><TermPronunciation>(pee-dee-A-trik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe cancers that occur between birth and 14 years of age.  Pediatric cancers are very rare and may differ from adult cancers in the way they grow and spread, how they are treated, and how they respond to treatment. The most common types of pediatric cancer are  leukemia, brain and spinal cord tumors, lymphoma, neuroblastoma, Wilms tumor (a type of kidney cancer), retinoblastoma, and cancers of the bone and soft tissue. Also called childhood cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791491" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791490" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer en la niñez&quot;" language="es" id="_4"/><SpanishTermName>cáncer en la niñez</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para describir cánceres que se presentan entre el nacimiento y los 14 años de edad. Estos cánceres son muy raros y a veces se diferencian de los cánceres en adultos  por la manera en que se forman y diseminan, así como por el modo en que se tratan y responden al tratamiento. Los tipos más comunes de cánceres en la niñez son la leucemia, los tumores de encéfalo y médula espinal, el linfoma, el neuroblastoma, el tumor de Wilms (tipo de cáncer de riñón), el retinoblastoma y los cánceres de hueso y tejido blando. También se llama cáncer infantil y cáncer pediátrico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-08-21</DateFirstPublished><DateLastModified>2021-07-23</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/childhood-cancers">Childhood Cancers</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment">PDQ® Cancer Information Summaries: Pediatric Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/infantil">Cánceres infantiles</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/pdq/sumarios-de-informacion/tratamiento-pediatrico">Sumarios del PDQ® de información sobre el cáncer: Tratamiento en niños</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790568">
+  <TermName>pediatric cancer</TermName>
+  <TermPronunciation>(pee-dee-A-trik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe cancers that occur between birth and 14 years of age.  Pediatric cancers are very rare and may differ from adult cancers in the way they grow and spread, how they are treated, and how they respond to treatment. The most common types of pediatric cancer are  leukemia, brain and spinal cord tumors, lymphoma, neuroblastoma, Wilms tumor (a type of kidney cancer), retinoblastoma, and cancers of the bone and soft tissue. Also called childhood cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791491" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pediatric cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791490" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer en la niñez&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer en la niñez</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para describir cánceres que se presentan entre el nacimiento y los 14 años de edad. Estos cánceres son muy raros y a veces se diferencian de los cánceres en adultos  por la manera en que se forman y diseminan, así como por el modo en que se tratan y responden al tratamiento. Los tipos más comunes de cánceres en la niñez son la leucemia, los tumores de encéfalo y médula espinal, el linfoma, el neuroblastoma, el tumor de Wilms (tipo de cáncer de riñón), el retinoblastoma y los cánceres de hueso y tejido blando. También se llama cáncer infantil y cáncer pediátrico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-08-21</DateFirstPublished>
+  <DateLastModified>2021-07-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/childhood-cancers">Childhood Cancers</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment">PDQ® Cancer Information Summaries: Pediatric Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/infantil">Cánceres infantiles</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/pdq/sumarios-de-informacion/tratamiento-pediatrico">Sumarios del PDQ® de información sobre el cáncer: Tratamiento en niños</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

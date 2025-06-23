@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000795009"><TermName>Copiktra</TermName><TermPronunciation>(koh-PIK-truh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with chronic lymphocytic leukemia or small lymphocytic lymphoma that came back or did not get better after treatment with at least two other therapies. It is also being studied in the treatment of other types of cancer. Copiktra blocks certain proteins, which may help keep cancer cells from growing and may kill them. It is a type of kinase inhibitor. Also called duvelisib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796137" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Copiktra&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Copiktra&quot;" language="es" id="_4"/><SpanishTermName>Copiktra</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con leucemia linfocítica crónica o linfoma linfocítico pequeño que volvió o no mejoró después de recibir por lo menos otras dos terapias. También está en estudio para el tratamiento de otros tipos de cáncer. Copiktra bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de cinasas. También se llama duvelisib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-10-02</DateFirstPublished><DateLastModified>2021-12-09</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000795258" url="/about-cancer/treatment/drugs/duvelisib">Duvelisib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000795009">
+  <TermName>Copiktra</TermName>
+  <TermPronunciation>(koh-PIK-truh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with chronic lymphocytic leukemia or small lymphocytic lymphoma that came back or did not get better after treatment with at least two other therapies. It is also being studied in the treatment of other types of cancer. Copiktra blocks certain proteins, which may help keep cancer cells from growing and may kill them. It is a type of kinase inhibitor. Also called duvelisib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796137" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Copiktra&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796136" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Copiktra&quot;" language="es" id="_4"/>
+  <SpanishTermName>Copiktra</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con leucemia linfocítica crónica o linfoma linfocítico pequeño que volvió o no mejoró después de recibir por lo menos otras dos terapias. También está en estudio para el tratamiento de otros tipos de cáncer. Copiktra bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas y las destruya. Es un tipo de inhibidor de cinasas. También se llama duvelisib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-10-02</DateFirstPublished>
+  <DateLastModified>2021-12-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000795258" url="/about-cancer/treatment/drugs/duvelisib">Duvelisib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000792085"><TermName>IVIG</TermName><TermDefinition><DefinitionText>A substance made from antibodies that have been taken from the blood of many healthy donors. It is given to a patient through a needle or tube inserted into a vein. IVIGs are used to treat certain types of immune disorders in which there are low amounts of antibodies in the blood. They are also used to treat many different autoimmune disorders, infections, or other conditions. They may also be used to help prevent infections in patients who have had a stem cell or organ transplant. IVIGs are a type of immunotherapy. Also called intravenous immunoglobulin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>IGIV</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se elabora con anticuerpos que se extraen de la sangre de muchos donantes sanos. Se administran al paciente mediante una aguja o un tubo que se introduce en una vena. Las IGIV se usan para tratar ciertos tipos de trastornos inmunitarios en los que hay pocos anticuerpos en la sangre. Asimismo, se usan para tratar muchos trastornos autoinmunitarios, infecciones u otras afecciones. Es posible también que se utilicen para prevenir infecciones en pacientes que reciben un trasplante de células madre o de un órgano. La IGIV es un tipo de sustancia para la inmunoterapia. También se llama inmunoglobulina intravenosa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-04-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792085">
+  <TermName>IVIG</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance made from antibodies that have been taken from the blood of many healthy donors. It is given to a patient through a needle or tube inserted into a vein. IVIGs are used to treat certain types of immune disorders in which there are low amounts of antibodies in the blood. They are also used to treat many different autoimmune disorders, infections, or other conditions. They may also be used to help prevent infections in patients who have had a stem cell or organ transplant. IVIGs are a type of immunotherapy. Also called intravenous immunoglobulin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>IGIV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que se elabora con anticuerpos que se extraen de la sangre de muchos donantes sanos. Se administran al paciente mediante una aguja o un tubo que se introduce en una vena. Las IGIV se usan para tratar ciertos tipos de trastornos inmunitarios en los que hay pocos anticuerpos en la sangre. Asimismo, se usan para tratar muchos trastornos autoinmunitarios, infecciones u otras afecciones. Es posible también que se utilicen para prevenir infecciones en pacientes que reciben un trasplante de células madre o de un órgano. La IGIV es un tipo de sustancia para la inmunoterapia. También se llama inmunoglobulina intravenosa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-04-17</DateFirstPublished>
+</GlossaryTerm>

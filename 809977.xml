@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000809977"><TermName>cut point</TermName><TermDefinition><DefinitionText>In medicine, the test result values used to categorize certain types of laboratory findings as normal or abnormal. Values above or below the cut point may be used to help doctors determine the presence or risk of certain diseases or conditions, such as obesity, diabetes, or high cholesterol.  </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cut point&quot;" language="en" id="_6"/><MediaLink ref="CDR0000812211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor de corte&quot;" language="es" id="_7"/><SpanishTermName>valor de corte</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, los valores de los resultados de las pruebas que se utilizan para clasificar ciertos tipos de hallazgos de laboratorio como normales o anormales. Los valores por encima o por debajo del valor de corte a veces se usan para ayudar a los médicos a determinar la presencia o el riesgo de ciertas enfermedades o afecciones, como la obesidad, la diabetes o el colesterol alto. También se llama punto de corte y valor divisorio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-12-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809977">
+  <TermName>cut point</TermName>
+  <TermDefinition>
+    <DefinitionText>In medicine, the test result values used to categorize certain types of laboratory findings as normal or abnormal. Values above or below the cut point may be used to help doctors determine the presence or risk of certain diseases or conditions, such as obesity, diabetes, or high cholesterol.  </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cut point&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000812211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;valor de corte&quot;" language="es" id="_7"/>
+  <SpanishTermName>valor de corte</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, los valores de los resultados de las pruebas que se utilizan para clasificar ciertos tipos de hallazgos de laboratorio como normales o anormales. Los valores por encima o por debajo del valor de corte a veces se usan para ayudar a los médicos a determinar la presencia o el riesgo de ciertas enfermedades o afecciones, como la obesidad, la diabetes o el colesterol alto. También se llama punto de corte y valor divisorio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-12-28</DateFirstPublished>
+</GlossaryTerm>

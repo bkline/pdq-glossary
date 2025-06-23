@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797673"><TermName>thorax</TermName><TermPronunciation>(THOR-ax)</TermPronunciation><TermDefinition><DefinitionText>The area of the body between the neck and the abdomen. The thorax contains vital organs, including the heart, major blood vessels, and lungs. It is supported by the ribs, breastbone, and spine. A thin muscle called the diaphragm separates the thorax from the abdomen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799615" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;thorax&quot;" language="en" id="_3"/><MediaLink ref="CDR0000799614" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tórax&quot;" language="es" id="_4"/><SpanishTermName>tórax</SpanishTermName><SpanishTermDefinition><DefinitionText>Área del cuerpo entre el cuello y el abdomen. El tórax contiene órganos vitales, como el corazón, los  vasos sanguíneos principales y los pulmones. Lo sostienen las costillas, el esternón y la columna vertebral. Un músculo delgado que se llama diafragma separa el tórax del abdomen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-08-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797673">
+  <TermName>thorax</TermName>
+  <TermPronunciation>(THOR-ax)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The area of the body between the neck and the abdomen. The thorax contains vital organs, including the heart, major blood vessels, and lungs. It is supported by the ribs, breastbone, and spine. A thin muscle called the diaphragm separates the thorax from the abdomen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799615" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;thorax&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000799614" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tórax&quot;" language="es" id="_4"/>
+  <SpanishTermName>tórax</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Área del cuerpo entre el cuello y el abdomen. El tórax contiene órganos vitales, como el corazón, los  vasos sanguíneos principales y los pulmones. Lo sostienen las costillas, el esternón y la columna vertebral. Un músculo delgado que se llama diafragma separa el tórax del abdomen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-08-22</DateFirstPublished>
+</GlossaryTerm>

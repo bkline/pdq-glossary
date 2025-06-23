@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796062"><TermName>chromosomal instability</TermName><TermPronunciation>(KROH-muh-SOH-mul IN-stuh-BIH-lih-tee)</TermPronunciation><TermDefinition><DefinitionText>A genomic imbalance that occurs when a cell has an abnormal number of chromosomes. This can be caused by unexpected chromosomal crossover or by the presence of small, extra-chromosomal pieces of DNA.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000797297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chromosomal instability&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804341" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inestabilidad cromosómica&quot;" language="es" id="_4"/><SpanishTermName>inestabilidad cromosómica</SpanishTermName><SpanishTermDefinition><DefinitionText>Desequilibrio genómico que se presenta cuando una célula tiene un número anormal de cromosomas. La causa puede ser un entrecruzamiento de cromosomas inesperado o la presencia de pequeños fragmentos de ADN extracromosómico.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2019-01-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796062">
+  <TermName>chromosomal instability</TermName>
+  <TermPronunciation>(KROH-muh-SOH-mul IN-stuh-BIH-lih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genomic imbalance that occurs when a cell has an abnormal number of chromosomes. This can be caused by unexpected chromosomal crossover or by the presence of small, extra-chromosomal pieces of DNA.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chromosomal instability&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804341" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inestabilidad cromosómica&quot;" language="es" id="_4"/>
+  <SpanishTermName>inestabilidad cromosómica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Desequilibrio genómico que se presenta cuando una célula tiene un número anormal de cromosomas. La causa puede ser un entrecruzamiento de cromosomas inesperado o la presencia de pequeños fragmentos de ADN extracromosómico.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-01-15</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000817467"><TermName>Datroway</TermName><TermPronunciation>(DA-troh-way)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with breast cancer that cannot be removed by surgery or has spread to other parts of the body, has been treated with other therapies, and is hormone receptor positive (HR+) and HER2-negative. It is also being studied in the treatment of other types of cancer. Datroway contains a monoclonal antibody called datopotamab that binds to a protein called TROP2, which is found on some cancer cells. It also contains an anticancer drug called deruxtecan, which may help kill cancer cells. Datroway is a type of antibody-drug conjugate. Also called datopotamab deruxtecan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817833" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Datroway&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817834" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Datroway&quot;" language="es" id="_4"/><SpanishTermName>Datroway</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de  adultos con  cáncer de mama que no se puede extirpar mediante cirugía o se ha diseminado a otras partes del cuerpo, que se ha tratado con otras terapias, y que es positivo para receptores hormonales (HR+) y negativo para HER2. También está en estudio para el tratamiento de otros tipos de cáncer. Datroway contiene un anticuerpo monoclonal llamado datopotamab que se une a la proteína TROP2, presente en algunas células cancerosas. Además, contiene un medicamento anticanceroso llamado deruxtecán, que quizás ayude a destruir células cancerosas. Datroway es un tipo de conjugado anticuerpo-fármaco. También se llama datopotamab deruxtecán.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-02-14</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000817456" url="/about-cancer/treatment/drugs/datopotamab-deruxtecan-dlnk">Datopotamab Deruxtecan-dlnk</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817467">
+  <TermName>Datroway</TermName>
+  <TermPronunciation>(DA-troh-way)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with breast cancer that cannot be removed by surgery or has spread to other parts of the body, has been treated with other therapies, and is hormone receptor positive (HR+) and HER2-negative. It is also being studied in the treatment of other types of cancer. Datroway contains a monoclonal antibody called datopotamab that binds to a protein called TROP2, which is found on some cancer cells. It also contains an anticancer drug called deruxtecan, which may help kill cancer cells. Datroway is a type of antibody-drug conjugate. Also called datopotamab deruxtecan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817833" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Datroway&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817834" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Datroway&quot;" language="es" id="_4"/>
+  <SpanishTermName>Datroway</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de  adultos con  cáncer de mama que no se puede extirpar mediante cirugía o se ha diseminado a otras partes del cuerpo, que se ha tratado con otras terapias, y que es positivo para receptores hormonales (HR+) y negativo para HER2. También está en estudio para el tratamiento de otros tipos de cáncer. Datroway contiene un anticuerpo monoclonal llamado datopotamab que se une a la proteína TROP2, presente en algunas células cancerosas. Además, contiene un medicamento anticanceroso llamado deruxtecán, que quizás ayude a destruir células cancerosas. Datroway es un tipo de conjugado anticuerpo-fármaco. También se llama datopotamab deruxtecán.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-02-14</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000817456" url="/about-cancer/treatment/drugs/datopotamab-deruxtecan-dlnk">Datopotamab Deruxtecan-dlnk</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

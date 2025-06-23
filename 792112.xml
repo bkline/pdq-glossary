@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000792112"><TermName>stage IV intrahepatic bile duct cancer</TermName><TermPronunciation>(... IN-truh-heh-PA-tik bile dukt KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer has spread to other parts of the body, such as the bone, lungs, distant lymph nodes, or tissue lining the wall of the abdomen and most organs in the abdomen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV intrahepatic bile duct cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares intrahepáticas en estadio IV&quot;" language="es" id="_4"/><SpanishTermName>cáncer de vías biliares intrahepáticas en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer se diseminó a otras partes del cuerpo, como los huesos, los pulmones, los ganglios linfáticos lejanos o el tejido que reviste la pared del abdomen y la mayoría de los órganos del abdomen. También se llama cáncer de conducto biliar intrahepático en estadio IV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-28</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792112">
+  <TermName>stage IV intrahepatic bile duct cancer</TermName>
+  <TermPronunciation>(... IN-truh-heh-PA-tik bile dukt KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer has spread to other parts of the body, such as the bone, lungs, distant lymph nodes, or tissue lining the wall of the abdomen and most organs in the abdomen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV intrahepatic bile duct cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares intrahepáticas en estadio IV&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de vías biliares intrahepáticas en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer se diseminó a otras partes del cuerpo, como los huesos, los pulmones, los ganglios linfáticos lejanos o el tejido que reviste la pared del abdomen y la mayoría de los órganos del abdomen. También se llama cáncer de conducto biliar intrahepático en estadio IV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

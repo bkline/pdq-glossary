@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000538168"><TermName>thoracic surgical oncologist</TermName><TermPronunciation>(thor-A-sik SER-jih-kul on-KAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A surgeon who has special training in operating on tumors found inside the chest.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718641" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;thoracic surgical oncologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718640" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano de oncología torácica&quot;" language="es" id="_4"/><SpanishTermName>cirujano de oncología torácica</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en cirugías de tumores en el tórax. También se llama especialista en cirugía torácica oncológica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-03-02</DateFirstPublished><DateLastModified>2016-06-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000538168">
+  <TermName>thoracic surgical oncologist</TermName>
+  <TermPronunciation>(thor-A-sik SER-jih-kul on-KAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgeon who has special training in operating on tumors found inside the chest.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718641" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;thoracic surgical oncologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718640" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano de oncología torácica&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirujano de oncología torácica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en cirugías de tumores en el tórax. También se llama especialista en cirugía torácica oncológica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-03-02</DateFirstPublished>
+  <DateLastModified>2016-06-16</DateLastModified>
+</GlossaryTerm>

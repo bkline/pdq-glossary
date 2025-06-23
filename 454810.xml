@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000454810"><TermName>night sweats</TermName><TermDefinition><DefinitionText>Episodes of excessive sweating that occur during sleep. Night sweats can be severe and soak a person’s bedclothes and bed sheets, which may cause the person to wake up. Night sweats are a common symptom of menopause. They may also be caused by illness or medical conditions, such as infection, cancer, low blood sugar, hormone disorders, and neurologic conditions. They may also be a side effect of certain medicines, cancer treatment, too much caffeine or alcohol, or tobacco or drug use.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802508" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;night sweats&quot;" language="en" id="_5"/><MediaLink ref="CDR0000802509" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sudores nocturnos&quot;" language="es" id="_6"/><SpanishTermName>sudores nocturnos</SpanishTermName><SpanishTermDefinition><DefinitionText>Episodios de sudoración excesiva durante el sueño. Los sudores nocturnos a veces son abundantes, empapan la ropa y las sábanas, y despiertan a la persona. Estos sudores son un síntoma común de la menopausia, pero también los causan  enfermedades o afecciones como infecciones, cáncer, azúcar sanguíneo bajo, trastornos hormonales y afecciones neurológicas. En ocasiones son un efecto secundario de ciertos medicamentos, el tratamiento del cáncer, el exceso de cafeína o alcohol y el consumo de tabaco o drogas. También se llama hiperhidrosis nocturna y sudoración nocturna.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-28</DateFirstPublished><DateLastModified>2020-06-26</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062827" url="/about-cancer/treatment/side-effects/hot-flashes-pdq">Hot Flashes and Night Sweats</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256646" url="/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq">Sofocos y sudores nocturnos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000454810">
+  <TermName>night sweats</TermName>
+  <TermDefinition>
+    <DefinitionText>Episodes of excessive sweating that occur during sleep. Night sweats can be severe and soak a person’s bedclothes and bed sheets, which may cause the person to wake up. Night sweats are a common symptom of menopause. They may also be caused by illness or medical conditions, such as infection, cancer, low blood sugar, hormone disorders, and neurologic conditions. They may also be a side effect of certain medicines, cancer treatment, too much caffeine or alcohol, or tobacco or drug use.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802508" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;night sweats&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000802509" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sudores nocturnos&quot;" language="es" id="_6"/>
+  <SpanishTermName>sudores nocturnos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Episodios de sudoración excesiva durante el sueño. Los sudores nocturnos a veces son abundantes, empapan la ropa y las sábanas, y despiertan a la persona. Estos sudores son un síntoma común de la menopausia, pero también los causan  enfermedades o afecciones como infecciones, cáncer, azúcar sanguíneo bajo, trastornos hormonales y afecciones neurológicas. En ocasiones son un efecto secundario de ciertos medicamentos, el tratamiento del cáncer, el exceso de cafeína o alcohol y el consumo de tabaco o drogas. También se llama hiperhidrosis nocturna y sudoración nocturna.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-28</DateFirstPublished>
+  <DateLastModified>2020-06-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062827" url="/about-cancer/treatment/side-effects/hot-flashes-pdq">Hot Flashes and Night Sweats</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256646" url="/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq">Sofocos y sudores nocturnos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

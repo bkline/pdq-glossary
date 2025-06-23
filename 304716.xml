@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000304716"><TermName>diagnostic mammogram</TermName><TermPronunciation>(DY-ug-NAH-stik MA-muh-gram)</TermPronunciation><TermDefinition><DefinitionText>An x-ray picture of the breast used to check for breast cancer after a lump or other sign or symptom of the disease has been found. It is also used to follow up on a suspicious change found during a screening mammogram. A diagnostic mammogram usually involves taking more detailed x-ray pictures of the breast from different angles to check the suspicious area more closely.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731709" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnostic mammogram&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731708" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mamografía de diagnóstico&quot;" language="es" id="_4"/><SpanishTermName>mamografía de diagnóstico</SpanishTermName><SpanishTermDefinition><DefinitionText>Radiografía que se usa para detectar cáncer de mama después de que se encuentra un bulto u otro signo o síntoma de la enfermedad. También se utiliza en  el seguimiento de un cambio sospechoso que se encontró durante una mamografía de detección. En una mamografía de diagnóstico se suelen tomar radiografías más detalladas de la mama (seno) desde distintos ángulos para examinar más de cerca el área sospechosa. También se llama mamografía diagnóstica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><DateLastModified>2021-10-14</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/breast/mammograms-fact-sheet" UseWith="en">Mammograms</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mamografias" UseWith="es">Mamografías</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304716">
+  <TermName>diagnostic mammogram</TermName>
+  <TermPronunciation>(DY-ug-NAH-stik MA-muh-gram)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An x-ray picture of the breast used to check for breast cancer after a lump or other sign or symptom of the disease has been found. It is also used to follow up on a suspicious change found during a screening mammogram. A diagnostic mammogram usually involves taking more detailed x-ray pictures of the breast from different angles to check the suspicious area more closely.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731709" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnostic mammogram&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731708" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mamografía de diagnóstico&quot;" language="es" id="_4"/>
+  <SpanishTermName>mamografía de diagnóstico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Radiografía que se usa para detectar cáncer de mama después de que se encuentra un bulto u otro signo o síntoma de la enfermedad. También se utiliza en  el seguimiento de un cambio sospechoso que se encontró durante una mamografía de detección. En una mamografía de diagnóstico se suelen tomar radiografías más detalladas de la mama (seno) desde distintos ángulos para examinar más de cerca el área sospechosa. También se llama mamografía diagnóstica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <DateLastModified>2021-10-14</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/breast/mammograms-fact-sheet" UseWith="en">Mammograms</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mamografias" UseWith="es">Mamografías</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,7 +1,20 @@
-<GlossaryTerm id="CDR0000046656"><TermName>stage IV anal cancer</TermName><TermPronunciation>(... AY-nul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046656">
+  <TermName>stage IV anal cancer</TermName>
+  <TermPronunciation>(... AY-nul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is
           any size. Cancer may have spread to lymph nodes or nearby
           organs and has spread to other parts of the body, such as
-          the liver or lungs.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709879" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV anal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709880" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano en estadio IV&quot;" language="es" id="_4"/><SpanishTermName>cáncer de ano en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor es de cualquier
+          the liver or lungs.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709879" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV anal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709880" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de ano en estadio IV&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de ano en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor es de cualquier
 tamaño. Es posible que el
 cáncer
 se
@@ -10,4 +23,13 @@ diseminado a los ganglios
 linfáticos
 u órganos cercanos
 y ya se diseminó a otras partes del cuerpo, como el hígado o
-los pulmones.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-01-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258179" url="/types/anal/patient/anal-treatment-pdq">Anal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256763" url="/espanol/tipos/ano/paciente/tratamiento-ano-pdq">Tratamiento del cáncer de ano</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+los pulmones.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-01-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258179" url="/types/anal/patient/anal-treatment-pdq">Anal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256763" url="/espanol/tipos/ano/paciente/tratamiento-ano-pdq">Tratamiento del cáncer de ano</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

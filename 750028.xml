@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000750028"><TermName>COPP-ABV</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma in children. It may be used with radiation therapy. COPP-ABV includes the drugs cyclophosphamide, vincristine sulfate (Oncovin), procarbazine hydrochloride, prednisone, doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, and vinblastine sulfate. Also called COPP-ABV regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;COPP-ABV&quot;" language="en" id="_3"/><SpanishTermName>COPP-ABV</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del linfoma de Hodgkin en los niños. Se puede usar con radioterapia.  Incluye los medicamentos ciclofosfamida, sulfato de vincristina (Oncovin), clorhidrato de procarbazina, clorhidrato de doxorrubicina (Adriamycin), sulfato de bleomicina y sulfato de vinblastina. También se llama régimen COPP-ABV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-06-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000750028">
+  <TermName>COPP-ABV</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma in children. It may be used with radiation therapy. COPP-ABV includes the drugs cyclophosphamide, vincristine sulfate (Oncovin), procarbazine hydrochloride, prednisone, doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, and vinblastine sulfate. Also called COPP-ABV regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;COPP-ABV&quot;" language="en" id="_3"/>
+  <SpanishTermName>COPP-ABV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del linfoma de Hodgkin en los niños. Se puede usar con radioterapia.  Incluye los medicamentos ciclofosfamida, sulfato de vincristina (Oncovin), clorhidrato de procarbazina, clorhidrato de doxorrubicina (Adriamycin), sulfato de bleomicina y sulfato de vinblastina. También se llama régimen COPP-ABV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-06-19</DateFirstPublished>
+</GlossaryTerm>

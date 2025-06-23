@@ -1,1 +1,28 @@
-<GlossaryTerm id="CDR0000817303"><TermName>ensartinib hydrochloride</TermName><TermPronunciation>(en-SAR-tih-nib HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer that is ALK positive, has spread, and has not been treated with an ALK inhibitor. It is also being studied in the treatment of other types of cancer. Ensartinib hydrochloride blocks certain proteins made by the <GeneName>ALK</GeneName> gene, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called Ensacove.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817821" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensartinib hydrochloride&quot;" language="en" id="_4"/><MediaLink ref="CDR0000817822" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de ensartinib&quot;" language="es" id="_5"/><SpanishTermName>clorhidrato de ensartinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas positivo para ALK  que se diseminó y no se ha tratado con un inhibidor de ALK. También está en estudio para el tratamiento de otros tipos de cáncer. El clorhidrato de ensartinib bloquea ciertas proteínas  que se originan del gen <GeneName>ALK</GeneName>, lo que quizás impida la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama Ensacove e hidrocloruro de ensartinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-12-20</DateFirstPublished><DateLastModified>2025-01-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817303">
+  <TermName>ensartinib hydrochloride</TermName>
+  <TermPronunciation>(en-SAR-tih-nib HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer that is ALK positive, has spread, and has not been treated with an ALK inhibitor. It is also being studied in the treatment of other types of cancer. Ensartinib hydrochloride blocks certain proteins made by the 
+      <GeneName>ALK</GeneName>
+       gene, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called Ensacove.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817821" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensartinib hydrochloride&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000817822" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de ensartinib&quot;" language="es" id="_5"/>
+  <SpanishTermName>clorhidrato de ensartinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas positivo para ALK  que se diseminó y no se ha tratado con un inhibidor de ALK. También está en estudio para el tratamiento de otros tipos de cáncer. El clorhidrato de ensartinib bloquea ciertas proteínas  que se originan del gen 
+      <GeneName>ALK</GeneName>
+      , lo que quizás impida la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama Ensacove e hidrocloruro de ensartinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-12-20</DateFirstPublished>
+  <DateLastModified>2025-01-08</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809214"><TermName>peritoneal carcinomatosis</TermName><TermPronunciation>(PAYR-ih-toh-NEE-ul KAR-sih-NOH-muh-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A serious condition in which cancer, usually of the digestive tract or female reproductive organs, spreads and causes tumors to grow on the peritoneum. The peritoneum is the tissue that lines the abdominal wall and covers most of the organs in the abdomen.  Peritoneal carcinomatosis can happen in many types of cancer, but it is most common in people with cancers of the ovary, colon, rectum, stomach, pancreas, or appendix. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000809842" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peritoneal carcinomatosis&quot;" language="en" id="_5"/><MediaLink ref="CDR0000809843" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinomatosis peritoneal&quot;" language="es" id="_6"/><SpanishTermName>carcinomatosis peritoneal</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección grave en la que un cáncer, por lo general de tubo digestivo u órganos reproductores femeninos, se disemina y causa tumores en el peritoneo. El peritoneo es el tejido que reviste la pared abdominal y cubre la mayoría de los órganos del abdomen. Es posible que la carcinomatosis peritoneal se presente en muchos tipos de cáncer, pero es más común en las personas con cáncer de ovario, colon, recto, estómago, páncreas o apéndice. También se llama carcinomatosis del peritoneo y carcinosis peritoneal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-04-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809214">
+  <TermName>peritoneal carcinomatosis</TermName>
+  <TermPronunciation>(PAYR-ih-toh-NEE-ul KAR-sih-NOH-muh-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A serious condition in which cancer, usually of the digestive tract or female reproductive organs, spreads and causes tumors to grow on the peritoneum. The peritoneum is the tissue that lines the abdominal wall and covers most of the organs in the abdomen.  Peritoneal carcinomatosis can happen in many types of cancer, but it is most common in people with cancers of the ovary, colon, rectum, stomach, pancreas, or appendix. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000809842" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peritoneal carcinomatosis&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000809843" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinomatosis peritoneal&quot;" language="es" id="_6"/>
+  <SpanishTermName>carcinomatosis peritoneal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección grave en la que un cáncer, por lo general de tubo digestivo u órganos reproductores femeninos, se disemina y causa tumores en el peritoneo. El peritoneo es el tejido que reviste la pared abdominal y cubre la mayoría de los órganos del abdomen. Es posible que la carcinomatosis peritoneal se presente en muchos tipos de cáncer, pero es más común en las personas con cáncer de ovario, colon, recto, estómago, páncreas o apéndice. También se llama carcinomatosis del peritoneo y carcinosis peritoneal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-04-05</DateFirstPublished>
+</GlossaryTerm>

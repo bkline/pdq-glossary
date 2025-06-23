@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000651201"><TermName>open radical prostatectomy</TermName><TermPronunciation>(… RA-dih-kul PROS-tuh-TEK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000651201">
+  <TermName>open radical prostatectomy</TermName>
+  <TermPronunciation>(… RA-dih-kul PROS-tuh-TEK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to
           remove the entire prostate and some of the tissue around
           it, including the seminal vesicles (a gland that helps make
           semen). Nearby lymph nodes may also be removed. During an
@@ -6,7 +11,21 @@
           the wall of the lower abdomen or in the perineum (the area
           between the scrotum and anus). An attempt is made to
           protect the nerves that control penile erection and the
-          bladder from damage. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;open radical prostatectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725618" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatectomía radical abierta&quot;" language="es" id="_4"/><MediaLink ref="CDR0000442274" type="image/jpeg" alt="Two panel drawing showing two ways of doing a radical prostatectomy; in the first panel, dotted line shows where incision is made through the wall of the abdomen for a retropubic prostatectomy; in the second panel, dotted line shows where incision is made in area between the scrotum and the anus for a perineal prostatectomy." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Two types of radical prostatectomy. In a retropubic prostatectomy,  the prostate is removed through an incision in the wall of  the abdomen.  In a perineal prostatectomy, the prostate is removed through an incision in the area between the scrotum and the anus.</Caption></MediaLink><MediaLink ref="CDR0000457832" type="image/jpeg" alt="El dibujo a dos paneles muestra dos formas de hacer una prostatectomía radical; en el primer panel, la línea punteada muestra el lugar donde se hace la incisión a través de la pared del abdomen para realizar una prostatectomía retropúbica; en el segundo panel, la línea punteada muestra el lugar donde se hace la incisión entre el escroto y el ano para realizar una prostatectomía perineal." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Los dos  tipos de prostatectomía radical. En la prostatectomía retropúbica, se extirpa la próstata a través de una incisión en la pared del abdomen. En la prostatectomía perineal, se extirpa la próstata a través de una incisión entre el escroto y el ano.</Caption></MediaLink><SpanishTermName>prostatectomía radical abierta</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar toda la
+          bladder from damage. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;open radical prostatectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725618" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatectomía radical abierta&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000442274" type="image/jpeg" alt="Two panel drawing showing two ways of doing a radical prostatectomy; in the first panel, dotted line shows where incision is made through the wall of the abdomen for a retropubic prostatectomy; in the second panel, dotted line shows where incision is made in area between the scrotum and the anus for a perineal prostatectomy." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Two types of radical prostatectomy. In a retropubic prostatectomy,  the prostate is removed through an incision in the wall of  the abdomen.  In a perineal prostatectomy, the prostate is removed through an incision in the area between the scrotum and the anus.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000457832" type="image/jpeg" alt="El dibujo a dos paneles muestra dos formas de hacer una prostatectomía radical; en el primer panel, la línea punteada muestra el lugar donde se hace la incisión a través de la pared del abdomen para realizar una prostatectomía retropúbica; en el segundo panel, la línea punteada muestra el lugar donde se hace la incisión entre el escroto y el ano para realizar una prostatectomía perineal." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Los dos  tipos de prostatectomía radical. En la prostatectomía retropúbica, se extirpa la próstata a través de una incisión en la pared del abdomen. En la prostatectomía perineal, se extirpa la próstata a través de una incisión entre el escroto y el ano.</Caption>
+  </MediaLink>
+  <SpanishTermName>prostatectomía radical abierta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar toda la
 próstata y algo del tejido que la rodea, como las vesículas
 seminales (glándulas que ayudan a producir el semen). A
 veces, también se extirpan los ganglios linfáticos
@@ -15,6 +34,15 @@ través de una incisión (corte) en la pared del abdomen
 inferior o en el perineo (área entre el escroto y el ano).
 Durante esta cirugía se intentan proteger los nervios que
 controlan la erección del pene y evitar una lesión en la
-vejiga</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-08-26</DateFirstPublished><DateLastModified>2020-06-22</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/understanding-prostate-cancer-treatment">Treatment
+vejiga</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-08-26</DateFirstPublished>
+  <DateLastModified>2020-06-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/understanding-prostate-cancer-treatment">Treatment
 Choices for Men With Early-Stage Prostate Cancer
-</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

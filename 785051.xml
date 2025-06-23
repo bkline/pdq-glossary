@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000785051"><TermName>surrogate pregnancy</TermName><TermPronunciation>(SER-uh-gut PREG-nun-see)</TermPronunciation><TermDefinition><DefinitionText>A type of pregnancy in which a woman carries and gives birth to a baby for a person who is not able to have children. In a surrogate pregnancy, eggs from the woman who will carry the baby or from an egg donor are fertilized with sperm from a sperm donor to make an embryo. The embryo is implanted in the uterus of the surrogate mother, who carries the baby until birth. Surrogate pregnancy may be an option for men or women who want to have children and have had certain anticancer treatments, such as chemotherapy or radiation therapy, that can cause infertility.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791478" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surrogate pregnancy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791479" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;embarazo subrogado&quot;" language="es" id="_4"/><SpanishTermName>embarazo subrogado</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de embarazo en el que una mujer lleva en su vientre un bebé, en lugar de otra persona que no puede tener hijos, hasta dar a luz. En un embarazo subrogado, se forma un embrión con espermatozoides donados que fecundan los óvulos de la gestante subrogada o los óvulos de una donante. El embrión se implanta en el útero  de la gestante subrogada, quien  continúa el embarazo hasta que nace el bebé. Es posible que el embarazo subrogado sea una opción para hombres y mujeres que desean tener hijos pero que recibieron determinados tratamientos contra el cáncer, como la quimioterapia y radioterapia, que a veces causan esterilidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000785051">
+  <TermName>surrogate pregnancy</TermName>
+  <TermPronunciation>(SER-uh-gut PREG-nun-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of pregnancy in which a woman carries and gives birth to a baby for a person who is not able to have children. In a surrogate pregnancy, eggs from the woman who will carry the baby or from an egg donor are fertilized with sperm from a sperm donor to make an embryo. The embryo is implanted in the uterus of the surrogate mother, who carries the baby until birth. Surrogate pregnancy may be an option for men or women who want to have children and have had certain anticancer treatments, such as chemotherapy or radiation therapy, that can cause infertility.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791478" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surrogate pregnancy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791479" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;embarazo subrogado&quot;" language="es" id="_4"/>
+  <SpanishTermName>embarazo subrogado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de embarazo en el que una mujer lleva en su vientre un bebé, en lugar de otra persona que no puede tener hijos, hasta dar a luz. En un embarazo subrogado, se forma un embrión con espermatozoides donados que fecundan los óvulos de la gestante subrogada o los óvulos de una donante. El embrión se implanta en el útero  de la gestante subrogada, quien  continúa el embarazo hasta que nace el bebé. Es posible que el embarazo subrogado sea una opción para hombres y mujeres que desean tener hijos pero que recibieron determinados tratamientos contra el cáncer, como la quimioterapia y radioterapia, que a veces causan esterilidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-12</DateFirstPublished>
+</GlossaryTerm>

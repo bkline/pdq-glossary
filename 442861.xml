@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000442861"><TermName>excisional skin surgery</TermName><TermPronunciation>(ek-SIH-zhuh-nul … SER-juh-ree)</TermPronunciation><TermDefinition><DefinitionText>A surgical procedure used to remove moles, cysts, skin cancer, and other skin growths using local anesthesia. To treat skin cancer, the doctor uses a scalpel to remove the entire tumor and some of the healthy tissue around it.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713756" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;excisional skin surgery&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713757" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación cutánea&quot;" language="es" id="_7"/><SpanishTermName>extirpación cutánea</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento quirúrgico para extirpar, con anestesia local, lunares, quistes, cáncer de piel y otros bultos o masas en la piel. Cuando se usa para el tratamiento del cáncer de piel, el médico utiliza un bisturí para extirpar todo el tumor y parte del tejido sano que lo rodea. También se llama cirugía cutánea excisional y cirugía cutánea por excisión.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000442861">
+  <TermName>excisional skin surgery</TermName>
+  <TermPronunciation>(ek-SIH-zhuh-nul … SER-juh-ree)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgical procedure used to remove moles, cysts, skin cancer, and other skin growths using local anesthesia. To treat skin cancer, the doctor uses a scalpel to remove the entire tumor and some of the healthy tissue around it.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713756" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;excisional skin surgery&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713757" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación cutánea&quot;" language="es" id="_7"/>
+  <SpanishTermName>extirpación cutánea</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento quirúrgico para extirpar, con anestesia local, lunares, quistes, cáncer de piel y otros bultos o masas en la piel. Cuando se usa para el tratamiento del cáncer de piel, el médico utiliza un bisturí para extirpar todo el tumor y parte del tejido sano que lo rodea. También se llama cirugía cutánea excisional y cirugía cutánea por excisión.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-05</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805413"><TermName>seroconversion</TermName><TermPronunciation>(SEER-oh-kun-VER-zhun)</TermPronunciation><TermDefinition><DefinitionText>The production of antibodies (proteins) in the blood of a person who did not have the antibodies before. It occurs after vaccination or exposure to a virus or other substance. Testing for seroconversion can be used to look for the presence of an infection or disease or to see how well the body’s immune system responds to a vaccine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805986" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seroconversion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805987" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seroconversión&quot;" language="es" id="_4"/><SpanishTermName>seroconversión</SpanishTermName><SpanishTermDefinition><DefinitionText>Presencia de anticuerpos (proteínas) en la sangre de una persona que no producía este tipo de anticuerpos. Ocurre después de una vacunación o exposición a un virus o sustancia. Las pruebas de seroconversión sirven para determinar si hay una infección o enfermedad, y para evaluar la respuesta del sistema inmunitario a una vacuna.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-07-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805413">
+  <TermName>seroconversion</TermName>
+  <TermPronunciation>(SEER-oh-kun-VER-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The production of antibodies (proteins) in the blood of a person who did not have the antibodies before. It occurs after vaccination or exposure to a virus or other substance. Testing for seroconversion can be used to look for the presence of an infection or disease or to see how well the body’s immune system responds to a vaccine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805986" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seroconversion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805987" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;seroconversión&quot;" language="es" id="_4"/>
+  <SpanishTermName>seroconversión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de anticuerpos (proteínas) en la sangre de una persona que no producía este tipo de anticuerpos. Ocurre después de una vacunación o exposición a un virus o sustancia. Las pruebas de seroconversión sirven para determinar si hay una infección o enfermedad, y para evaluar la respuesta del sistema inmunitario a una vacuna.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-07-06</DateFirstPublished>
+</GlossaryTerm>

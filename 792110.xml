@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000792110"><TermName>stage III intrahepatic bile duct cancer</TermName><TermPronunciation>(... IN-truh-heh-PA-tik bile dukt KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage III intrahepatic bile duct cancer is divided into stages IIIA and IIIB. In stage IIIA, the tumor has spread through the capsule (outer lining) of the liver.  In stage IIIB, cancer has spread to organs or tissues near the liver, such as the duodenum, colon, stomach, common bile duct, abdominal wall, diaphragm, or the part of the vena cava behind the liver, or the cancer has spread to nearby lymph nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793325" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III intrahepatic bile duct cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793326" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares intrahepáticas en estadio III&quot;" language="es" id="_4"/><SpanishTermName>cáncer de vías biliares intrahepáticas en estadio III</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer de vías biliares intrahepáticas en estadio III se divide en los estadios IIIA y IIIB. En el estadio IIIA, el tumor se diseminó a través de la cápsula (revestimiento externo) del hígado. En el estadio IIIB, el cáncer se diseminó a órganos o tejidos cercanos al hígado, como el duodeno, el colon, el estómago, el conducto colédoco, la pared del abdomen, el diafragma o la parte de la vena cava que está detrás del hígado, o el cáncer se diseminó a los ganglios linfáticos cercanos. También se llama cáncer de conducto biliar intrahepático en estadio III.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-02-28</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792110">
+  <TermName>stage III intrahepatic bile duct cancer</TermName>
+  <TermPronunciation>(... IN-truh-heh-PA-tik bile dukt KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage III intrahepatic bile duct cancer is divided into stages IIIA and IIIB. In stage IIIA, the tumor has spread through the capsule (outer lining) of the liver.  In stage IIIB, cancer has spread to organs or tissues near the liver, such as the duodenum, colon, stomach, common bile duct, abdominal wall, diaphragm, or the part of the vena cava behind the liver, or the cancer has spread to nearby lymph nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793325" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage III intrahepatic bile duct cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793326" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares intrahepáticas en estadio III&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de vías biliares intrahepáticas en estadio III</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer de vías biliares intrahepáticas en estadio III se divide en los estadios IIIA y IIIB. En el estadio IIIA, el tumor se diseminó a través de la cápsula (revestimiento externo) del hígado. En el estadio IIIB, el cáncer se diseminó a órganos o tejidos cercanos al hígado, como el duodeno, el colon, el estómago, el conducto colédoco, la pared del abdomen, el diafragma o la parte de la vena cava que está detrás del hígado, o el cáncer se diseminó a los ganglios linfáticos cercanos. También se llama cáncer de conducto biliar intrahepático en estadio III.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-02-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

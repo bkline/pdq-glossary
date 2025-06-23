@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000318816"><TermName>DNA intercalating agent</TermName><TermPronunciation>(…in-TER-kuh-LAY-ting AY-jent)</TermPronunciation><TermDefinition><DefinitionText>A substance that inserts itself into the DNA structure of a cell and binds to the DNA. This causes DNA damage. In cancer treatment, DNA intercalating agents may kill cancer cells by damaging their DNA and stopping them from dividing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;DNA intercalating agent&quot;" language="en" id="_5"/><MediaLink ref="CDR0000711530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intercalador de ADN&quot;" language="es" id="_6"/><SpanishTermName>intercalador de ADN</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se introduce en la estructura del ADN  de una célula y se une a este. Esta sustancia daña el ADN. En los tratamientos de cáncer, los intercaladores de ADN destruyen o impiden la multiplicación de las células cancerosas al dañar su ADN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2015-04-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000318816">
+  <TermName>DNA intercalating agent</TermName>
+  <TermPronunciation>(…in-TER-kuh-LAY-ting AY-jent)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that inserts itself into the DNA structure of a cell and binds to the DNA. This causes DNA damage. In cancer treatment, DNA intercalating agents may kill cancer cells by damaging their DNA and stopping them from dividing.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;DNA intercalating agent&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000711530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intercalador de ADN&quot;" language="es" id="_6"/>
+  <SpanishTermName>intercalador de ADN</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que se introduce en la estructura del ADN  de una célula y se une a este. Esta sustancia daña el ADN. En los tratamientos de cáncer, los intercaladores de ADN destruyen o impiden la multiplicación de las células cancerosas al dañar su ADN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2015-04-16</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,39 @@
-<GlossaryTerm id="CDR0000801615"><TermName>Retevmo</TermName><TermPronunciation>(reh-TEV-moh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of non-small cell lung cancer in adults and certain types of thyroid cancer or other solid tumor in adults and children aged 2 years and older. It is used in patients whose cancer has  an abnormal <GeneName>RET</GeneName> gene. It is also being studied in the treatment of other types of cancer. Retevmo blocks certain proteins, including those made by the <GeneName>RET</GeneName> fusion gene or the mutated <GeneName>RET</GeneName> gene. Blocking these proteins may help keep cancer cells from growing. Retevmo is a type of tyrosine kinase inhibitor. Also called selpercatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802731" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Retevmo&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Retevmo&quot;" language="es" id="_4"/><SpanishTermName>Retevmo</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de pulmón de células no pequeñas en adultos, y ciertos tipos de cáncer de tiroides u otros tumores sólidos en adultos y en niños de 2 años o más. Se usa en pacientes cuyo cáncer presenta un gen <GeneName>RET</GeneName> anormal. También está en estudio para el tratamiento de otros tipos de cáncer.  Retevmo bloquea ciertas proteínas, incluso las que se originan del gen de fusión <GeneName>RET</GeneName> o del gen <GeneName>RET</GeneName> mutado. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas. Retevmo es un tipo de inhibidor de tirosina–cinasas.  También se llama selpercatinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-12</DateFirstPublished><DateLastModified>2024-05-30</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000801635" url="/about-cancer/treatment/drugs/selpercatinib">Selpercatinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801615">
+  <TermName>Retevmo</TermName>
+  <TermPronunciation>(reh-TEV-moh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat certain types of non-small cell lung cancer in adults and certain types of thyroid cancer or other solid tumor in adults and children aged 2 years and older. It is used in patients whose cancer has  an abnormal 
+      <GeneName>RET</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Retevmo blocks certain proteins, including those made by the 
+      <GeneName>RET</GeneName>
+       fusion gene or the mutated 
+      <GeneName>RET</GeneName>
+       gene. Blocking these proteins may help keep cancer cells from growing. Retevmo is a type of tyrosine kinase inhibitor. Also called selpercatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802731" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Retevmo&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Retevmo&quot;" language="es" id="_4"/>
+  <SpanishTermName>Retevmo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de pulmón de células no pequeñas en adultos, y ciertos tipos de cáncer de tiroides u otros tumores sólidos en adultos y en niños de 2 años o más. Se usa en pacientes cuyo cáncer presenta un gen 
+      <GeneName>RET</GeneName>
+       anormal. También está en estudio para el tratamiento de otros tipos de cáncer.  Retevmo bloquea ciertas proteínas, incluso las que se originan del gen de fusión 
+      <GeneName>RET</GeneName>
+       o del gen 
+      <GeneName>RET</GeneName>
+       mutado. Bloquear estas proteínas quizás ayude a evitar la multiplicación de células cancerosas. Retevmo es un tipo de inhibidor de tirosina–cinasas.  También se llama selpercatinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-12</DateFirstPublished>
+  <DateLastModified>2024-05-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000801635" url="/about-cancer/treatment/drugs/selpercatinib">Selpercatinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

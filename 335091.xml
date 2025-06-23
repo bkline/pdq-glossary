@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000335091"><TermName>clear cell adenocarcinoma</TermName><TermPronunciation>(kleer sel A-deh-noh-KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of cancer in which the cells look clear when viewed under a microscope. Clear cell adenocarcinoma occurs most often in the kidney and in the female reproductive organs. Also called clear cell carcinoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clear cell adenocarcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711378" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenocarcinoma de células claras&quot;" language="es" id="_4"/><SpanishTermName>adenocarcinoma de células claras</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer raro en el que las células tienen un aspecto claro o transparente cuando se  observan al microscopio. El adenocarcinoma de células claras se presenta por lo general en el riñón y en los órganos reproductores femeninos. También se llama carcinoma de células claras.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished><DateLastModified>2021-12-30</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet">Diethylstilbestrol (DES) Exposure and Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-des" UseWith="es">Dietilestilbestrol (DES) y el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335091">
+  <TermName>clear cell adenocarcinoma</TermName>
+  <TermPronunciation>(kleer sel A-deh-noh-KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of cancer in which the cells look clear when viewed under a microscope. Clear cell adenocarcinoma occurs most often in the kidney and in the female reproductive organs. Also called clear cell carcinoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711379" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clear cell adenocarcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711378" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;adenocarcinoma de células claras&quot;" language="es" id="_4"/>
+  <SpanishTermName>adenocarcinoma de células claras</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer raro en el que las células tienen un aspecto claro o transparente cuando se  observan al microscopio. El adenocarcinoma de células claras se presenta por lo general en el riñón y en los órganos reproductores femeninos. También se llama carcinoma de células claras.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+  <DateLastModified>2021-12-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet">Diethylstilbestrol (DES) Exposure and Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-des" UseWith="es">Dietilestilbestrol (DES) y el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

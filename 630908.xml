@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000630908"><TermName>irritable bowel syndrome</TermName><TermPronunciation>(EER-ih-tuh-bul BOW-ul SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A disorder of the intestines commonly marked by abdominal pain, bloating, and changes in a person’s bowel habits.  This may include diarrhea or constipation, or both, with one occurring after the other. Also called IBS, irritable colon, mucus colitis, and spastic colon.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722539" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;irritable bowel syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722540" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome del intestino irritable&quot;" language="es" id="_8"/><SpanishTermName>síndrome del intestino irritable</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno de los intestinos que por lo general se caracteriza por dolor, distensión o hinchazón abdominal; además de cambios en los hábitos intestinales. Algunos síntomas son diarrea y estreñimiento, o ambos, en cuyo caso se presentan uno tras otro. También se llama colitis mucosa, colon espástico, colon irritable, enfermedad del colon irritable, enfermedad del intestino irritable, IBS y síndrome del colon irritable.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-02-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000630908">
+  <TermName>irritable bowel syndrome</TermName>
+  <TermPronunciation>(EER-ih-tuh-bul BOW-ul SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A disorder of the intestines commonly marked by abdominal pain, bloating, and changes in a person’s bowel habits.  This may include diarrhea or constipation, or both, with one occurring after the other. Also called IBS, irritable colon, mucus colitis, and spastic colon.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722539" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;irritable bowel syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722540" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome del intestino irritable&quot;" language="es" id="_8"/>
+  <SpanishTermName>síndrome del intestino irritable</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno de los intestinos que por lo general se caracteriza por dolor, distensión o hinchazón abdominal; además de cambios en los hábitos intestinales. Algunos síntomas son diarrea y estreñimiento, o ambos, en cuyo caso se presentan uno tras otro. También se llama colitis mucosa, colon espástico, colon irritable, enfermedad del colon irritable, enfermedad del intestino irritable, IBS y síndrome del colon irritable.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-02-19</DateFirstPublished>
+</GlossaryTerm>

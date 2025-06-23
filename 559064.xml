@@ -1,5 +1,15 @@
-<GlossaryTerm id="CDR0000559064"><TermName>HuMax-CD20</TermName><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of chronic lymphocytic leukemia. It is also being studied in the treatment of other types of cancer. HuMax-CD20 binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of leukemia and lymphoma cells.
-          HuMax-CD20 may block CD20 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called Arzerra and ofatumumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>HuMax-CD20</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para tratar ciertos tipos de leucemia linfocítica crónica. También
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000559064">
+  <TermName>HuMax-CD20</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of chronic lymphocytic leukemia. It is also being studied in the treatment of other types of cancer. HuMax-CD20 binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of leukemia and lymphoma cells.
+          HuMax-CD20 may block CD20 and help the immune system kill cancer cells. It is a type of monoclonal antibody. Also called Arzerra and ofatumumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>HuMax-CD20</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para tratar ciertos tipos de leucemia linfocítica crónica. También
 está en estudio para el tratamiento de otros tipos de
 cáncer. HuMax-CD20 se une a
 una
@@ -11,4 +21,13 @@ blanco) y
 en algunos tipos de células de leucemias  y linfomas.
 
 
-Es posible que HuMax-CD20 bloquee la CD20 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal. También se llama Arzerra y ofatumumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-07-06</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000658503" url="/about-cancer/treatment/drugs/ofatumumab">Ofatumumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+Es posible que HuMax-CD20 bloquee la CD20 y ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal. También se llama Arzerra y ofatumumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-07-06</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000658503" url="/about-cancer/treatment/drugs/ofatumumab">Ofatumumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

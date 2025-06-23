@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000799322"><TermName>phase 3 clinical trial</TermName><TermPronunciation>(fayz … KLIH-nih-kul TRY-ul)</TermPronunciation><TermDefinition><DefinitionText>A study that tests the safety and how well a new treatment works compared with a standard treatment. For example, phase 3 clinical trials may compare which group of patients has better survival rates or fewer side effects. In most cases, treatments move into phase 3 clinical trials only after they meet the goals of phase 1 and  phase 2 clinical trials. Phase 3 clinical trials may include hundreds of people. Also called phase III clinical trial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801086" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phase 3 clinical trial&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801087" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensayo clínico de fase 3&quot;" language="es" id="_4"/><SpanishTermName>ensayo clínico de fase 3</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio que se realiza para probar si un tratamiento nuevo es seguro y funciona bien comparado con el tratamiento estándar. Por ejemplo, en los ensayos clínicos de fase 3  es posible comparar a  grupos de pacientes para determinar qué grupo tiene mejores tasas de supervivencia o  menos efectos secundarios. En la mayoría de los casos, los tratamientos pasan a los ensayos clínicos de fase 3 solo después de que se logran los objetivos de los ensayos de las fases 1 y 2. En los ensayos clínicos de fase 3 a veces se incluyen a centenares de personas. También se llama ensayo clínico de fase III y estudio clínico de fase 3.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-09-06</DateFirstPublished><DateLastModified>2019-09-09</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799322">
+  <TermName>phase 3 clinical trial</TermName>
+  <TermPronunciation>(fayz … KLIH-nih-kul TRY-ul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A study that tests the safety and how well a new treatment works compared with a standard treatment. For example, phase 3 clinical trials may compare which group of patients has better survival rates or fewer side effects. In most cases, treatments move into phase 3 clinical trials only after they meet the goals of phase 1 and  phase 2 clinical trials. Phase 3 clinical trials may include hundreds of people. Also called phase III clinical trial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801086" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phase 3 clinical trial&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801087" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ensayo clínico de fase 3&quot;" language="es" id="_4"/>
+  <SpanishTermName>ensayo clínico de fase 3</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio que se realiza para probar si un tratamiento nuevo es seguro y funciona bien comparado con el tratamiento estándar. Por ejemplo, en los ensayos clínicos de fase 3  es posible comparar a  grupos de pacientes para determinar qué grupo tiene mejores tasas de supervivencia o  menos efectos secundarios. En la mayoría de los casos, los tratamientos pasan a los ensayos clínicos de fase 3 solo después de que se logran los objetivos de los ensayos de las fases 1 y 2. En los ensayos clínicos de fase 3 a veces se incluyen a centenares de personas. También se llama ensayo clínico de fase III y estudio clínico de fase 3.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-09-06</DateFirstPublished>
+  <DateLastModified>2019-09-09</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046127"><TermName>hormone replacement therapy</TermName><TermPronunciation>(HOR-mone reh-PLAYS-ment THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment with hormones to replace natural hormones when the body does not make enough. For example, hormone replacement therapy may be given when the thyroid gland does not make enough thyroid hormone or when the pituitary gland does not make enough growth hormone. Or, it may be given to women after menopause to replace the hormones estrogen and progesterone that are no longer made by the body. Also called HRT.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707714" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone replacement therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707715" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de reemplazo hormonal&quot;" language="es" id="_4"/><SpanishTermName>terapia de reemplazo hormonal</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento con hormonas para reemplazar las hormonas naturales cuando las que produce el cuerpo no son suficientes. Por ejemplo, la terapia de reemplazo hormonal se suele administrar cuando la glándula tiroidea no produce suficiente hormona tiroidea o cuando la hipófisis no produce suficiente hormona del crecimiento. A veces, este tipo de tratamiento se administra a las mujeres después de la menopausia para reemplazar las hormonas estrógeno y progesterona que el cuerpo ya no elabora. También se llama hormonoterapia de reemplazo, tratamiento hormonal sustitutivo y TRH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-08-15</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/mht-fact-sheet">Menopausal Hormone Therapy and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-hormonas-menopausia">Terapia hormonal para la menopausia y el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046127">
+  <TermName>hormone replacement therapy</TermName>
+  <TermPronunciation>(HOR-mone reh-PLAYS-ment THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment with hormones to replace natural hormones when the body does not make enough. For example, hormone replacement therapy may be given when the thyroid gland does not make enough thyroid hormone or when the pituitary gland does not make enough growth hormone. Or, it may be given to women after menopause to replace the hormones estrogen and progesterone that are no longer made by the body. Also called HRT.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707714" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone replacement therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707715" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de reemplazo hormonal&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia de reemplazo hormonal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento con hormonas para reemplazar las hormonas naturales cuando las que produce el cuerpo no son suficientes. Por ejemplo, la terapia de reemplazo hormonal se suele administrar cuando la glándula tiroidea no produce suficiente hormona tiroidea o cuando la hipófisis no produce suficiente hormona del crecimiento. A veces, este tipo de tratamiento se administra a las mujeres después de la menopausia para reemplazar las hormonas estrógeno y progesterona que el cuerpo ya no elabora. También se llama hormonoterapia de reemplazo, tratamiento hormonal sustitutivo y TRH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-08-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/mht-fact-sheet">Menopausal Hormone Therapy and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-hormonas-menopausia">Terapia hormonal para la menopausia y el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

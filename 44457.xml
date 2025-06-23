@@ -1,15 +1,37 @@
-<GlossaryTerm id="CDR0000044457"><TermName>secondary cancer</TermName><TermPronunciation>(SEH-kun-dayr-ee KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A term used to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044457">
+  <TermName>secondary cancer</TermName>
+  <TermPronunciation>(SEH-kun-dayr-ee KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to
           describe cancer that has spread (metastasized) from the
           place where it first started to another part of the body.
           Secondary cancers are the same type of
           cancer as the original (primary) cancer. For example,
           cancer cells may spread from the breast (primary cancer) to
           form new tumors in the lung (secondary cancer). The cancer cells in the lung are just
-          like the ones in the breast. Also called secondary tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704615" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;secondary cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704616" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer secundario&quot;" language="es" id="_4"/><SpanishTermName>cáncer secundario</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para
+          like the ones in the breast. Also called secondary tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704615" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;secondary cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704616" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer secundario&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer secundario</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para
 describir un cáncer que se diseminó (hizo metástasis) desde
 el lugar de origen a otra parte del cuerpo. Los
 cánceres secundarios son el mismo tipo de cáncer que
 el cáncer original (primario). Por
 ejemplo, es posible que las células cancerosas de
 la mama (cáncer primario) se diseminen al pulmón en donde forman tumores nuevos (cáncer secundario). Las células cancerosas
-en el pulmón son iguales a las de la mama. También se llama tumor secundario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-09-01</DateLastModified><RelatedInformation><RelatedGlossaryTermRef href="CDR0000046658" UseWith="en" audience="Patients">second primary cancer</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000046658" UseWith="es" audience="Patients">segundo cáncer primario</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+en el pulmón son iguales a las de la mama. También se llama tumor secundario.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-09-01</DateLastModified>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000046658" UseWith="en" audience="Patients">second primary cancer</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000046658" UseWith="es" audience="Patients">segundo cáncer primario</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

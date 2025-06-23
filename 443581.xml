@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000443581"><TermName>wisdom tooth</TermName><TermPronunciation>(WIZ-dum tooth)</TermPronunciation><TermDefinition><DefinitionText>The last tooth to come in at the back of each side of the upper and lower jaws. These teeth usually come in between 17 and 23 years of age, but not everyone has them. Also called third molar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714685" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;wisdom tooth&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714684" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;muela del juicio&quot;" language="es" id="_4"/><SpanishTermName>muela del juicio</SpanishTermName><SpanishTermDefinition><DefinitionText>Última muela que sale en la parte de atrás de cada lado del maxilar superior e inferior (mandíbula). Estas muelas aparecen entre los 17 y 23 años pero a algunas personas nunca les salen. También se llama muela cordal y tercer molar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-05</DateFirstPublished><DateLastModified>2007-06-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000443581">
+  <TermName>wisdom tooth</TermName>
+  <TermPronunciation>(WIZ-dum tooth)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The last tooth to come in at the back of each side of the upper and lower jaws. These teeth usually come in between 17 and 23 years of age, but not everyone has them. Also called third molar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714685" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;wisdom tooth&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714684" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;muela del juicio&quot;" language="es" id="_4"/>
+  <SpanishTermName>muela del juicio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Última muela que sale en la parte de atrás de cada lado del maxilar superior e inferior (mandíbula). Estas muelas aparecen entre los 17 y 23 años pero a algunas personas nunca les salen. También se llama muela cordal y tercer molar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-05</DateFirstPublished>
+  <DateLastModified>2007-06-29</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000538640"><TermName>natural history study</TermName><TermPronunciation>(NA-chuh-rul HIH-stuh-ree STUH-dee)</TermPronunciation><TermDefinition><DefinitionText>A study that follows a group of people over time who have, or are at risk of developing, a specific medical condition or disease. A natural history study collects health information in order to understand how the medical condition or disease develops and how to treat it.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718032" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;natural history study&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718031" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio de evolución natural&quot;" language="es" id="_7"/><SpanishTermName>estudio de evolución natural</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio que en el que se sigue a un grupo de personas durante un período de tiempo. Estas personas participan en el estudio porque tienen una enfermedad o afección específicas,  o están en riesgo de presentarlas. En este tipo de estudio se recopila información de salud para entender la manera como aparece la enfermedad o afección, así como la mejor forma de tratarla. También se llama estudio de evolución espontánea y estudio de la historia natural de una enfermedad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-10-04</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000538640">
+  <TermName>natural history study</TermName>
+  <TermPronunciation>(NA-chuh-rul HIH-stuh-ree STUH-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A study that follows a group of people over time who have, or are at risk of developing, a specific medical condition or disease. A natural history study collects health information in order to understand how the medical condition or disease develops and how to treat it.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718032" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;natural history study&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718031" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio de evolución natural&quot;" language="es" id="_7"/>
+  <SpanishTermName>estudio de evolución natural</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio que en el que se sigue a un grupo de personas durante un período de tiempo. Estas personas participan en el estudio porque tienen una enfermedad o afección específicas,  o están en riesgo de presentarlas. En este tipo de estudio se recopila información de salud para entender la manera como aparece la enfermedad o afección, así como la mejor forma de tratarla. También se llama estudio de evolución espontánea y estudio de la historia natural de una enfermedad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-10-04</DateFirstPublished>
+</GlossaryTerm>

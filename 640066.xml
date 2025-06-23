@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000640066"><TermName>referral</TermName><TermPronunciation>(reh-FER-ul)</TermPronunciation><TermDefinition><DefinitionText>In medicine, the act of sending a patient from one health care provider to another for additional health care services. For example, a primary care doctor may refer a patient to a specialist for further diagnosis and treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722991" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;referral&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722990" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;remisión médica&quot;" language="es" id="_7"/><SpanishTermName>remisión médica</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, remitir, derivar o enviar a un paciente de un proveedor de atención de la salud a otro para que reciba servicios médicos adicionales. Por ejemplo, un médico de atención primaria puede remitir a un paciente a un especialista para obtener un diagnóstico y tratamiento más exhaustivos. También se llama derivación médica y referencia médica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-07-02</DateFirstPublished><DateLastModified>2024-03-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000640066">
+  <TermName>referral</TermName>
+  <TermPronunciation>(reh-FER-ul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, the act of sending a patient from one health care provider to another for additional health care services. For example, a primary care doctor may refer a patient to a specialist for further diagnosis and treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722991" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;referral&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722990" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;remisión médica&quot;" language="es" id="_7"/>
+  <SpanishTermName>remisión médica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, remitir, derivar o enviar a un paciente de un proveedor de atención de la salud a otro para que reciba servicios médicos adicionales. Por ejemplo, un médico de atención primaria puede remitir a un paciente a un especialista para obtener un diagnóstico y tratamiento más exhaustivos. También se llama derivación médica y referencia médica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-07-02</DateFirstPublished>
+  <DateLastModified>2024-03-01</DateLastModified>
+</GlossaryTerm>

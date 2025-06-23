@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000774825"><TermName>cardiologist</TermName><TermPronunciation>(KAR-dee-AH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training to diagnose and treat diseases of the heart and blood vessels.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000776464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cardiologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000776465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cardiólogo&quot;" language="es" id="_4"/><SpanishTermName>cardiólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que ha recibido formación en el diagnóstico y tratamiento de las enfermedades del corazón y los vasos sanguíneos. También se llama especialista en cardiología.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-09-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000774825">
+  <TermName>cardiologist</TermName>
+  <TermPronunciation>(KAR-dee-AH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training to diagnose and treat diseases of the heart and blood vessels.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000776464" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cardiologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000776465" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cardiólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>cardiólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que ha recibido formación en el diagnóstico y tratamiento de las enfermedades del corazón y los vasos sanguíneos. También se llama especialista en cardiología.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-09-22</DateFirstPublished>
+</GlossaryTerm>

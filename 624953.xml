@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000624953"><TermName>IL-1-beta</TermName><TermPronunciation>(... BAY-tuh)</TermPronunciation><TermDefinition><DefinitionText>One of a group
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000624953">
+  <TermName>IL-1-beta</TermName>
+  <TermPronunciation>(... BAY-tuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One of a group
           of related proteins made by leukocytes (white blood cells)
           and other cells in the body.
           IL-1-beta, one form of
@@ -14,7 +19,15 @@
           is used as a biological response modifier to boost the
           immune system in cancer therapy.
           IL-1-beta is a type of
-          cytokine. Also called IL-1B and interleukin-1-beta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722652" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;IL-1-beta&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722651" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;IL-1-beta&quot;" language="es" id="_4"/><SpanishTermName>IL-1-beta</SpanishTermName><SpanishTermDefinition><DefinitionText>Pertenece a un grupo de
+          cytokine. Also called IL-1B and interleukin-1-beta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722652" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;IL-1-beta&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722651" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;IL-1-beta&quot;" language="es" id="_4"/>
+  <SpanishTermName>IL-1-beta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Pertenece a un grupo de
 proteínas relacionadas que elaboran los leucocitos
 (glóbulos blancos) y otras células del cuerpo.
 Principalmente los leucocitos, un tipo de glóbulos blancos,
@@ -32,4 +45,10 @@ IL-1-beta que se produce en el
 laboratorio se usa en el tratamiento del cáncer como
 modificador de la respuesta biológica para estimular el
 sistema inmunitario. La IL-1-beta es
-un tipo de citocina.  También se llama IL-1B e interleucina-1-beta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-11-07</DateFirstPublished><DateLastModified>2008-12-02</DateLastModified></GlossaryTerm>
+un tipo de citocina.  También se llama IL-1B e interleucina-1-beta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-11-07</DateFirstPublished>
+  <DateLastModified>2008-12-02</DateLastModified>
+</GlossaryTerm>

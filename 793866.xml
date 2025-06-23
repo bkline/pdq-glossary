@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000793866"><TermName>pneumothorax</TermName><TermPronunciation>(NOO-moh-THOR-ax)</TermPronunciation><TermDefinition><DefinitionText>An abnormal collection of air in the space between the thin layer of tissue that covers the lungs and the chest cavity. This can cause all or part of the lung to collapse. A pneumothorax may be caused by a chest injury, certain medical procedures, lung disease, or other damage to lung tissue. Sometimes the cause of a pneumothorax is not known. The most common symptoms are sudden chest pain and trouble breathing. Some types of pneumothorax may go away on their own, but others may be life threatening.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pneumothorax&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796103" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neumotórax&quot;" language="es" id="_4"/><SpanishTermName>neumotórax</SpanishTermName><SpanishTermDefinition><DefinitionText>Acumulación anormal de aire en el espacio entre la capa delgada de tejido que cubre los pulmones y la cavidad torácica. Esto puede causar que todo el pulmón o una parte de este se desinfle. Un neumotórax puede obedecer a una lesión en el pecho, ciertos procedimientos médicos, una enfermedad pulmonar u otro daño al tejido pulmonar. A veces se desconoce la causa. Los síntomas más comunes son dolor repentino en el pecho y dificultad para respirar. Algunos tipos de neumotórax desaparecen por sí solos pero, en ocasiones, son mortales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-07-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793866">
+  <TermName>pneumothorax</TermName>
+  <TermPronunciation>(NOO-moh-THOR-ax)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abnormal collection of air in the space between the thin layer of tissue that covers the lungs and the chest cavity. This can cause all or part of the lung to collapse. A pneumothorax may be caused by a chest injury, certain medical procedures, lung disease, or other damage to lung tissue. Sometimes the cause of a pneumothorax is not known. The most common symptoms are sudden chest pain and trouble breathing. Some types of pneumothorax may go away on their own, but others may be life threatening.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pneumothorax&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796103" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neumotórax&quot;" language="es" id="_4"/>
+  <SpanishTermName>neumotórax</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Acumulación anormal de aire en el espacio entre la capa delgada de tejido que cubre los pulmones y la cavidad torácica. Esto puede causar que todo el pulmón o una parte de este se desinfle. Un neumotórax puede obedecer a una lesión en el pecho, ciertos procedimientos médicos, una enfermedad pulmonar u otro daño al tejido pulmonar. A veces se desconoce la causa. Los síntomas más comunes son dolor repentino en el pecho y dificultad para respirar. Algunos tipos de neumotórax desaparecen por sí solos pero, en ocasiones, son mortales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-07-19</DateFirstPublished>
+</GlossaryTerm>

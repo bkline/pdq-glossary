@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045054"><TermName>opioid</TermName><TermPronunciation>(OH-pee-OYD)</TermPronunciation><TermDefinition><DefinitionText>A class of drug used to reduce moderate to severe pain. Opioids can be made from the opium poppy plant or in the laboratory. They block pain signals by binding to opioid receptors on nerve cells in the brain, spinal cord, gastrointestinal tract, and other organs in the body. Some opioids may also be used to treat cough and diarrhea. Opioids used for pain relief are usually safe when taken for a short time and as prescribed by a health care provider, but they  can be highly addictive and as a result have often been misused or abused. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706300" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;opioid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706301" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;opioide&quot;" language="es" id="_4"/><SpanishTermName>opioide</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo  de medicamento que se usa para reducir el dolor de moderado a intenso. Los opioides se obtienen de la planta del opio (adormidera) y también se pueden producir en un laboratorio. Estos medicamentos bloquean las señales del dolor al unirse a los receptores de opioides en las células nerviosas del encéfalo, la médula espinal, el tubo digestivo y otros órganos del cuerpo. Algunos también se utilizan para el tratamiento de la tos y la diarrea. Los opioides que se usan para aliviar el dolor por lo general son seguros cuando se toman por un período breve  y se siguen las indicaciones del equipo médico. Sin embargo, pueden ser muy adictivos y, por lo tanto, a menudo se usan de manera indebida o se abusa de ellos. También se llama morfínico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2022-12-28</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045054">
+  <TermName>opioid</TermName>
+  <TermPronunciation>(OH-pee-OYD)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A class of drug used to reduce moderate to severe pain. Opioids can be made from the opium poppy plant or in the laboratory. They block pain signals by binding to opioid receptors on nerve cells in the brain, spinal cord, gastrointestinal tract, and other organs in the body. Some opioids may also be used to treat cough and diarrhea. Opioids used for pain relief are usually safe when taken for a short time and as prescribed by a health care provider, but they  can be highly addictive and as a result have often been misused or abused. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706300" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;opioid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706301" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;opioide&quot;" language="es" id="_4"/>
+  <SpanishTermName>opioide</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo  de medicamento que se usa para reducir el dolor de moderado a intenso. Los opioides se obtienen de la planta del opio (adormidera) y también se pueden producir en un laboratorio. Estos medicamentos bloquean las señales del dolor al unirse a los receptores de opioides en las células nerviosas del encéfalo, la médula espinal, el tubo digestivo y otros órganos del cuerpo. Algunos también se utilizan para el tratamiento de la tos y la diarrea. Los opioides que se usan para aliviar el dolor por lo general son seguros cuando se toman por un período breve  y se siguen las indicaciones del equipo médico. Sin embargo, pueden ser muy adictivos y, por lo tanto, a menudo se usan de manera indebida o se abusa de ellos. También se llama morfínico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2022-12-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,11 +1,21 @@
-<GlossaryTerm id="CDR0000689546"><TermName>consent process</TermName><TermPronunciation>(kun-SENT PRAH-ses)</TermPronunciation><TermDefinition><DefinitionText>A process in
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000689546">
+  <TermName>consent process</TermName>
+  <TermPronunciation>(kun-SENT PRAH-ses)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A process in
           which patients are given important information, including
           possible risks and benefits, about a medical procedure or
           treatment, genetic testing, or a clinical trial. This is to
           help them decide if they want to be treated, tested, or
           take part in the trial. Patients are also given any new
           information that might affect their decision to
-          continue. Also called informed consent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A process of
+          continue. Also called informed consent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A process of
           information exchange between a clinician and an individual
           or their legal proxy designed to facilitate autonomous,
           informed decision making. The informed consent process for
@@ -14,7 +24,15 @@
           potential implications of genetic analysis, a discussion of
           privacy, confidentiality, the documentation and handling of
           genetic test results, as well as options for managing the
-          hereditary disease risk. Also called informed consent.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000733250" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consent process&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733249" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proceso de consentimiento&quot;" language="es" id="_4"/><SpanishTermName>proceso de consentimiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso en el que se
+          hereditary disease risk. Also called informed consent.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733250" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;consent process&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733249" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proceso de consentimiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>proceso de consentimiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso en el que se
 proporciona a los pacientes
 información importante, como los riesgos y beneficios
 posibles de un procedimiento o tratamiento
@@ -23,5 +41,16 @@ Esto se hace para ayudar a los pacientes a decidir si se
 quieren someter a tratamientos o pruebas, o participar en
 un ensayo clínico. Los pacientes también reciben cualquier
 información nueva que pudiera afectar su decisión de
-continuar. También se llama consentimiento informado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Proceso de intercambio de información entre un profesional de la salud  y una persona o su representante legal,  que tiene como fin facilitar la toma de decisiones autónomas y con conocimiento de causa. El proceso de consentimiento informado para hacer una prueba genética debe incluir una explicación de los riesgos médicos y psicosociales, los beneficios, las limitaciones y las posibles implicaciones del análisis genético; también incluye una exposición acerca de la privacidad, la confidencialidad, 
-          la documentación y el procesamiento de los resultados de las pruebas genéticas, además de las opciones para el tratamiento del riesgo de enfermedades hereditarias. También se llama consentimiento informado.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2011-08-25</DateFirstPublished><DateLastModified>2018-01-31</DateLastModified></GlossaryTerm>
+continuar. También se llama consentimiento informado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso de intercambio de información entre un profesional de la salud  y una persona o su representante legal,  que tiene como fin facilitar la toma de decisiones autónomas y con conocimiento de causa. El proceso de consentimiento informado para hacer una prueba genética debe incluir una explicación de los riesgos médicos y psicosociales, los beneficios, las limitaciones y las posibles implicaciones del análisis genético; también incluye una exposición acerca de la privacidad, la confidencialidad, 
+          la documentación y el procesamiento de los resultados de las pruebas genéticas, además de las opciones para el tratamiento del riesgo de enfermedades hereditarias. También se llama consentimiento informado.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-08-25</DateFirstPublished>
+  <DateLastModified>2018-01-31</DateLastModified>
+</GlossaryTerm>

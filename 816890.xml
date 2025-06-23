@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816890"><TermName>feasibility study</TermName><TermPronunciation>(FEE-sih-BIH-lih-tee STUH-dee)</TermPronunciation><TermDefinition><DefinitionText>A pilot study that is designed to explore whether a larger clinical trial can be effectively conducted.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817427" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;feasibility study&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817428" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio de viabilidad&quot;" language="es" id="_4"/><SpanishTermName>estudio de viabilidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio piloto diseñado para evaluar la posibilidad de realizar un ensayo clínico más grande.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816890">
+  <TermName>feasibility study</TermName>
+  <TermPronunciation>(FEE-sih-BIH-lih-tee STUH-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A pilot study that is designed to explore whether a larger clinical trial can be effectively conducted.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817427" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;feasibility study&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817428" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio de viabilidad&quot;" language="es" id="_4"/>
+  <SpanishTermName>estudio de viabilidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio piloto diseñado para evaluar la posibilidad de realizar un ensayo clínico más grande.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-16</DateFirstPublished>
+</GlossaryTerm>

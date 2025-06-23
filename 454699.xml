@@ -1,2 +1,24 @@
-<GlossaryTerm id="CDR0000454699"><TermName>appetite</TermName><TermPronunciation>(A-peh-tite)</TermPronunciation><TermDefinition><DefinitionText>A desire to satisfy a physical or mental need, such as for food, sex, or adventure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714917" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;appetite&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714918" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apetito&quot;" language="es" id="_4"/><SpanishTermName>apetito</SpanishTermName><SpanishTermDefinition><DefinitionText>Deseo de satisfacer una necesidad física o mental, por ejemplo con comida, relaciones sexuales o aventura. También se llama apetencia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-06-02</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss">Weight Changes, Malnutrition, and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito">Falta de
-apetito</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000454699">
+  <TermName>appetite</TermName>
+  <TermPronunciation>(A-peh-tite)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A desire to satisfy a physical or mental need, such as for food, sex, or adventure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714917" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;appetite&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714918" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apetito&quot;" language="es" id="_4"/>
+  <SpanishTermName>apetito</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Deseo de satisfacer una necesidad física o mental, por ejemplo con comida, relaciones sexuales o aventura. También se llama apetencia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-06-02</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss">Weight Changes, Malnutrition, and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito">Falta de
+apetito</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

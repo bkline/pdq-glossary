@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000662477"><TermName>JEB</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat childhood ovarian and testicular germ cell cancers that have spread. It includes the drugs  carboplatin (JM8), etoposide phosphate, and bleomycin sulfate. Also called JEB regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>JEB</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de los cánceres de células germinativas de ovario y testículo infantiles que se diseminaron. Incluye los medicamentos carboplatino (JM8), fosfato de etopósido y sulfato de bleomicina. También se llama régimen JEB.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-26</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000783452" url="/about-cancer/treatment/drugs/JEB">JEB</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000662477">
+  <TermName>JEB</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat childhood ovarian and testicular germ cell cancers that have spread. It includes the drugs  carboplatin (JM8), etoposide phosphate, and bleomycin sulfate. Also called JEB regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>JEB</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de los cánceres de células germinativas de ovario y testículo infantiles que se diseminaron. Incluye los medicamentos carboplatino (JM8), fosfato de etopósido y sulfato de bleomicina. También se llama régimen JEB.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000783452" url="/about-cancer/treatment/drugs/JEB">JEB</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

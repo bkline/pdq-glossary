@@ -1,11 +1,35 @@
-<GlossaryTerm id="CDR0000045674"><TermName>ductal carcinoma in situ</TermName><TermPronunciation>(DUK-tul KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>A condition in which abnormal cells are found in the lining
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045674">
+  <TermName>ductal carcinoma in situ</TermName>
+  <TermPronunciation>(DUK-tul KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which abnormal cells are found in the lining
           of a breast duct. The abnormal cells have not spread
           outside the duct to other tissues in the breast. In some
           cases, ductal carcinoma in situ may become invasive breast
           cancer and spread to other tissues. At this time, there is
           no way to know which abnormal cells could become
-          invasive. Also called DCIS and intraductal breast carcinoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705765" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ductal carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705766" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma ductal in situ&quot;" language="es" id="_4"/><MediaLink ref="CDR0000734087" type="image/jpeg" alt="Ductal carcinoma in situ (DCIS); drawing shows a lobe, ducts, and fatty tissue in a cross section of the breast. The inset shows a normal duct and a duct with abnormal cells." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Ductal carcinoma in situ (DCIS). Abnormal cells are found in the lining of a breast duct.</Caption></MediaLink><MediaLink ref="CDR0000738842" type="image/jpeg" alt="Carcinoma ductal in situ (CDIS); el dibujo muestra un lóbulo, conductos y tejido graso en una sección transversal de la mama. En el recuadro se observan un conducto normal y un conducto con células anormales." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Carcinoma ductal in situ (CDIS). Se encuentran células anormales en el revestimiento de un conducto de la mama.</Caption></MediaLink><SpanishTermName>carcinoma ductal in situ</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un
+          invasive. Also called DCIS and intraductal breast carcinoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705765" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ductal carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705766" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma ductal in situ&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000734087" type="image/jpeg" alt="Ductal carcinoma in situ (DCIS); drawing shows a lobe, ducts, and fatty tissue in a cross section of the breast. The inset shows a normal duct and a duct with abnormal cells." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Ductal carcinoma in situ (DCIS). Abnormal cells are found in the lining of a breast duct.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000738842" type="image/jpeg" alt="Carcinoma ductal in situ (CDIS); el dibujo muestra un lóbulo, conductos y tejido graso en una sección transversal de la mama. En el recuadro se observan un conducto normal y un conducto con células anormales." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Carcinoma ductal in situ (CDIS). Se encuentran células anormales en el revestimiento de un conducto de la mama.</Caption>
+  </MediaLink>
+  <SpanishTermName>carcinoma ductal in situ</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un
 conducto de la mama. Las células anormales no se han diseminado a otros tejidos de la
 mama  fuera del conducto. En algunos casos, el carcinoma ductal in situ
 se convierte en un cáncer de mama invasivo y se disemina a
-otros tejidos. En la actualidad, no es posible saber qué células anormales se volverán invasivas. También se llama carcinoma canalicular in situ, carcinoma ductal localizado, carcinoma intraductal de mama, carcinoma intraductal in situ y CDIS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-11-08</DateLastModified></GlossaryTerm>
+otros tejidos. En la actualidad, no es posible saber qué células anormales se volverán invasivas. También se llama carcinoma canalicular in situ, carcinoma ductal localizado, carcinoma intraductal de mama, carcinoma intraductal in situ y CDIS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-11-08</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000335509"><TermName>SSRI</TermName><TermDefinition><DefinitionText>A type of drug that is used to treat depression and some other conditions. SSRIs stop or delay the body from reabsorbing a substance called serotonin, which leaves more of it available for the body to use. Raising serotonin levels can help regulate mood, appetite, digestion, sleep, and many other bodily functions. SSRIs include drugs such as citalopram, escitalopram, fluoxetine, paroxetine, and sertraline. Also called selective serotonin reuptake inhibitor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ISRS</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento que se usa para el tratamiento de la depresión y otras afecciones. Los ISRS impiden o retrasan la reabsorción en el cuerpo de una sustancia llamada serotonina, que queda disponible en más cantidad para que el cuerpo la utilice. El aumento de la concentración de serotonina  a veces ayuda a regular el estado de ánimo, el apetito, la digestión, el sueño y muchas otras funciones corporales. Los ISRS incluyen medicamentos como el citalopram, el escitalopram, la fluoxetina, la paroxetina y la sertralina. También se llama inhibidor selectivo de la recaptación de serotonina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished><DateLastModified>2021-12-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335509">
+  <TermName>SSRI</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of drug that is used to treat depression and some other conditions. SSRIs stop or delay the body from reabsorbing a substance called serotonin, which leaves more of it available for the body to use. Raising serotonin levels can help regulate mood, appetite, digestion, sleep, and many other bodily functions. SSRIs include drugs such as citalopram, escitalopram, fluoxetine, paroxetine, and sertraline. Also called selective serotonin reuptake inhibitor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ISRS</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento que se usa para el tratamiento de la depresión y otras afecciones. Los ISRS impiden o retrasan la reabsorción en el cuerpo de una sustancia llamada serotonina, que queda disponible en más cantidad para que el cuerpo la utilice. El aumento de la concentración de serotonina  a veces ayuda a regular el estado de ánimo, el apetito, la digestión, el sueño y muchas otras funciones corporales. Los ISRS incluyen medicamentos como el citalopram, el escitalopram, la fluoxetina, la paroxetina y la sertralina. También se llama inhibidor selectivo de la recaptación de serotonina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+  <DateLastModified>2021-12-30</DateLastModified>
+</GlossaryTerm>

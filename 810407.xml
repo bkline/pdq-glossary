@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000810407"><TermName>IVU</TermName><TermDefinition><DefinitionText>An x-ray image of the kidneys, ureters, and bladder, and prostate in men, that is taken after a contrast dye is injected into a vein. As the dye travels through  the bloodstream, it collects in these organs, turning them bright white. This allows the health care provider to see blockages or other urinary tract problems on the x-ray pictures. An IVU may be used to help diagnose certain urinary tract conditions, such as kidney or bladder stones, kidney cysts, urinary tract tumors, and an enlarged prostate. Also called intravenous pyelogram, intravenous urogram, and IVP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>UIV</SpanishTermName><SpanishTermDefinition><DefinitionText>Radiografía de los riñones, los uréteres, la vejiga, y en los hombres, la próstata. Las imágenes se obtienen después de inyectar un tinte de contraste en una vena. A medida que el tinte circula por el torrente sanguíneo, se acumula en estos órganos y hace que se vean de color blanco brillante. Esto permite que el proveedor de atención de la salud detecte en las radiografías obstrucciones u otros problemas del aparato urinario. El UIV a veces se usa para ayudar a diagnosticar  ciertas afecciones del aparato urinario, como cálculos en los riñones o en la vejiga, quistes en los riñones, tumores del aparato urinario y agrandamiento de la próstata. También se llama pielograma intravenoso, PIV y urograma intravenoso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-30</DateFirstPublished><DateLastModified>2022-08-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810407">
+  <TermName>IVU</TermName>
+  <TermDefinition>
+    <DefinitionText>An x-ray image of the kidneys, ureters, and bladder, and prostate in men, that is taken after a contrast dye is injected into a vein. As the dye travels through  the bloodstream, it collects in these organs, turning them bright white. This allows the health care provider to see blockages or other urinary tract problems on the x-ray pictures. An IVU may be used to help diagnose certain urinary tract conditions, such as kidney or bladder stones, kidney cysts, urinary tract tumors, and an enlarged prostate. Also called intravenous pyelogram, intravenous urogram, and IVP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>UIV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Radiografía de los riñones, los uréteres, la vejiga, y en los hombres, la próstata. Las imágenes se obtienen después de inyectar un tinte de contraste en una vena. A medida que el tinte circula por el torrente sanguíneo, se acumula en estos órganos y hace que se vean de color blanco brillante. Esto permite que el proveedor de atención de la salud detecte en las radiografías obstrucciones u otros problemas del aparato urinario. El UIV a veces se usa para ayudar a diagnosticar  ciertas afecciones del aparato urinario, como cálculos en los riñones o en la vejiga, quistes en los riñones, tumores del aparato urinario y agrandamiento de la próstata. También se llama pielograma intravenoso, PIV y urograma intravenoso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-30</DateFirstPublished>
+  <DateLastModified>2022-08-30</DateLastModified>
+</GlossaryTerm>

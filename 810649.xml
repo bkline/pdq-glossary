@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000810649"><TermName>C-section</TermName><TermPronunciation>(… SEK-shun)</TermPronunciation><TermDefinition><DefinitionText>The delivery of a baby through an incision (cut) made in a person’s abdomen and uterus. After the baby is delivered, the umbilical cord is clamped and cut, the placenta is removed, and the cuts in the uterus and abdomen are closed with stitches. A C-section may be done if there are problems during labor or if the baby is in distress, is too big, or is in an abnormal position in the uterus. It may also be done if there is more than one baby being delivered, if there are problems with the placenta, or if the person has an infection or other health problem that would prevent having a vaginal delivery. Also called cesarean delivery and cesarean section.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812249" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;C-section&quot;" language="en" id="_4"/><MediaLink ref="CDR0000812250" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cesárea&quot;" language="es" id="_5"/><SpanishTermName>cesárea</SpanishTermName><SpanishTermDefinition><DefinitionText>Parto de un bebé a través de incisiones (cortes) en el abdomen y el útero. Después de que se extrae el bebé, se sujeta y se corta el cordón umbilical, se retira la placenta y se cosen las incisiones para cerrarlas. La cesárea se hace cuando se complica el trabajo de parto, el bebé está en peligro de muerte, es muy grande o su posición dentro del útero es anormal. A veces también se hace cuando el embarazo es de 2 o más bebés, hay alteraciones de la placenta o la madre tiene infecciones u otros problemas médicos que impiden el parto vaginal. También se llama histerotomía, operación cesárea y parto por cesárea.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-02-24</DateFirstPublished><DateLastModified>2023-03-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810649">
+  <TermName>C-section</TermName>
+  <TermPronunciation>(… SEK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The delivery of a baby through an incision (cut) made in a person’s abdomen and uterus. After the baby is delivered, the umbilical cord is clamped and cut, the placenta is removed, and the cuts in the uterus and abdomen are closed with stitches. A C-section may be done if there are problems during labor or if the baby is in distress, is too big, or is in an abnormal position in the uterus. It may also be done if there is more than one baby being delivered, if there are problems with the placenta, or if the person has an infection or other health problem that would prevent having a vaginal delivery. Also called cesarean delivery and cesarean section.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812249" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;C-section&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000812250" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cesárea&quot;" language="es" id="_5"/>
+  <SpanishTermName>cesárea</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parto de un bebé a través de incisiones (cortes) en el abdomen y el útero. Después de que se extrae el bebé, se sujeta y se corta el cordón umbilical, se retira la placenta y se cosen las incisiones para cerrarlas. La cesárea se hace cuando se complica el trabajo de parto, el bebé está en peligro de muerte, es muy grande o su posición dentro del útero es anormal. A veces también se hace cuando el embarazo es de 2 o más bebés, hay alteraciones de la placenta o la madre tiene infecciones u otros problemas médicos que impiden el parto vaginal. También se llama histerotomía, operación cesárea y parto por cesárea.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-02-24</DateFirstPublished>
+  <DateLastModified>2023-03-08</DateLastModified>
+</GlossaryTerm>

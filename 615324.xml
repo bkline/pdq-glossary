@@ -1,9 +1,31 @@
-<GlossaryTerm id="CDR0000615324"><TermName>vincristine sulfate</TermName><TermPronunciation>(vin-KRIS-teen SUL-fayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000615324">
+  <TermName>vincristine sulfate</TermName>
+  <TermPronunciation>(vin-KRIS-teen SUL-fayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to
           treat acute leukemia and is sometimes used with other drugs
           to treat Hodgkin lymphoma, non-Hodgkin lymphoma,
           rhabdomyosarcoma, neuroblastoma, and Wilms tumor. It is
           also being studied in the treatment of other types of
           cancer. Vincristine sulfate stops cancer cells from growing and dividing and may kill them. It is a type of vinca alkaloid. Vincristine is the active ingredient of
           vincristine sulfate. The brand name Oncovin has been taken
-          off the market and is no longer available.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720803" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vincristine sulfate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720802" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de vincristina&quot;" language="es" id="_4"/><SpanishTermName>sulfato de vincristina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la leucemia aguda, y a veces se usa con otros medicamentos para el tratamiento del linfoma de Hodgkin, el linfoma  no Hodgkin,
-          el rabdomiosarcoma, el neuroblastoma y el tumor de Wilms. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de vincristina detiene el crecimiento y la multiplicación de células cancerosas y es posible que las destruya. Es un tipo de alcaloide de vinca. La vincristina es el ingrediente activo del sulfato de vincristina. La marca comercial Oncovin se retiró del mercado y ya no se consigue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-19</DateFirstPublished><DateLastModified>2020-12-22</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+          off the market and is no longer available.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720803" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vincristine sulfate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720802" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de vincristina&quot;" language="es" id="_4"/>
+  <SpanishTermName>sulfato de vincristina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de la leucemia aguda, y a veces se usa con otros medicamentos para el tratamiento del linfoma de Hodgkin, el linfoma  no Hodgkin,
+          el rabdomiosarcoma, el neuroblastoma y el tumor de Wilms. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de vincristina detiene el crecimiento y la multiplicación de células cancerosas y es posible que las destruya. Es un tipo de alcaloide de vinca. La vincristina es el ingrediente activo del sulfato de vincristina. La marca comercial Oncovin se retiró del mercado y ya no se consigue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-19</DateFirstPublished>
+  <DateLastModified>2020-12-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000599877" url="/about-cancer/treatment/drugs/vincristinesulfate">Vincristine Sulfate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

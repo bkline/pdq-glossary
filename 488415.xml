@@ -1,16 +1,40 @@
-<GlossaryTerm id="CDR0000488415"><TermName>hemophagocytic lymphohistiocytosis</TermName><TermPronunciation>(HEE-moh-FA-goh-SIH-tik LIM-foh-HIS-tee-oh-sy-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A rare disorder
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000488415">
+  <TermName>hemophagocytic lymphohistiocytosis</TermName>
+  <TermPronunciation>(HEE-moh-FA-goh-SIH-tik LIM-foh-HIS-tee-oh-sy-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare disorder
           in which histiocytes and lymphocytes (types of white blood
           cells) build up in organs including the skin, spleen, and
           liver, and destroy other blood cells.
           Hemophagocytic lymphohistiocytosis may be inherited or caused by
           certain conditions or diseases, including infections,
           immunodeficiency (inability of the body to fight
-          infections), and cancer. Also called HLH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718413" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemophagocytic lymphohistiocytosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718412" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfohistiocitosis hemofagocítica&quot;" language="es" id="_4"/><SpanishTermName>linfohistiocitosis hemofagocítica</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno raro en el
+          infections), and cancer. Also called HLH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718413" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemophagocytic lymphohistiocytosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718412" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfohistiocitosis hemofagocítica&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfohistiocitosis hemofagocítica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno raro en el
 que los histiocitos y los linfocitos (tipos de glóbulos
 blancos) se acumulan en órganos, como la piel, el
 bazo y el hígado, y destruyen otras células sanguíneas.
 Es posible que la linfohistiocitosis hemofagocítica sea hereditaria o se presente a causa de ciertas afecciones y enfermedades, como
 infecciones, inmunodeficiencia (incapacidad del cuerpo para
-combatir infecciones) y cáncer. También se llama LHH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-12-01</DateFirstPublished><DateLastModified>2008-01-16</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6589/hemophagocytic-lymphohistiocytosis">Familial
-hemophagocytic lymphohistiocytosis (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/familial-hemophagocytic-lymphohistiocytosis/">Familial hemophagocytic lymphohistiocytosis (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11880/linfohistiocitosis-hemofagocitica">Linfohistiocitosis
-hemofagocítica (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+combatir infecciones) y cáncer. También se llama LHH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-12-01</DateFirstPublished>
+  <DateLastModified>2008-01-16</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6589/hemophagocytic-lymphohistiocytosis">Familial
+hemophagocytic lymphohistiocytosis (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/familial-hemophagocytic-lymphohistiocytosis/">Familial hemophagocytic lymphohistiocytosis (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11880/linfohistiocitosis-hemofagocitica">Linfohistiocitosis
+hemofagocítica (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

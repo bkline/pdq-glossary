@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000045821"><TermName>peau d'orange</TermName><TermPronunciation>(poh duh-RANJ)</TermPronunciation><TermDefinition><DefinitionText>A dimpled condition of the skin of the breast, resembling the skin of an orange, sometimes found in inflammatory breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peau d'orange&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731227" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;piel de naranja&quot;" language="es" id="_4"/><MediaLink ref="CDR0000415524" type="image/jpeg" alt="Inflammatory breast cancer of the left breast showing redness, swelling, peau d'orange, and an inverted nipple." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Inflammatory breast cancer is a type of breast cancer in which the cancer cells block the lymph vessels in the skin of the breast. This causes the breast to look red and swollen. The skin may also appear dimpled or pitted, like the skin of an orange (peau d'orange), and the nipple may be inverted (facing inward).</Caption></MediaLink><MediaLink ref="CDR0000415524" type="image/jpeg" alt="" language="es" audience="Patients" placement="image-center" id="_5"/><SpanishTermName>piel de naranja</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se forman hoyuelos en la piel de la mama y esta tiene el aspecto de la cáscara de una naranja. Esta afección a veces se encuentra en el cáncer de mama inflamatorio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2005-01-11</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/breast/ibc-fact-sheet" UseWith="en">Inflammatory Breast Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-seno-inflamatorio" UseWith="es">Cáncer inflamatorio de seno (mama)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045821">
+  <TermName>peau d'orange</TermName>
+  <TermPronunciation>(poh duh-RANJ)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A dimpled condition of the skin of the breast, resembling the skin of an orange, sometimes found in inflammatory breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;peau d'orange&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731227" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;piel de naranja&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000415524" type="image/jpeg" alt="Inflammatory breast cancer of the left breast showing redness, swelling, peau d'orange, and an inverted nipple." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Inflammatory breast cancer is a type of breast cancer in which the cancer cells block the lymph vessels in the skin of the breast. This causes the breast to look red and swollen. The skin may also appear dimpled or pitted, like the skin of an orange (peau d'orange), and the nipple may be inverted (facing inward).</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000415524" type="image/jpeg" alt="" language="es" audience="Patients" placement="image-center" id="_5"/>
+  <SpanishTermName>piel de naranja</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se forman hoyuelos en la piel de la mama y esta tiene el aspecto de la cáscara de una naranja. Esta afección a veces se encuentra en el cáncer de mama inflamatorio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2005-01-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/breast/ibc-fact-sheet" UseWith="en">Inflammatory Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-seno-inflamatorio" UseWith="es">Cáncer inflamatorio de seno (mama)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

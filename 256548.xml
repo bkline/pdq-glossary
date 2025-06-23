@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000256548"><TermName>Burkitt leukemia</TermName><TermPronunciation>(BER-kit loo-KEE-mee-uh)</TermPronunciation><TermDefinition><DefinitionText>A rare, fast-growing type of leukemia (blood cancer) in which too many white blood cells called B lymphocytes form in the blood and bone marrow. It may start in the lymph nodes as Burkitt lymphoma and then spread to the blood and bone marrow, or it may start in the blood and bone marrow without involvement of the lymph nodes. Both Burkitt leukemia and Burkitt lymphoma have been linked to infection with the Epstein-Barr virus.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Burkitt leukemia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709825" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucemia de Burkitt&quot;" language="es" id="_4"/><SpanishTermName>leucemia de Burkitt</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de leucemia (cáncer de la sangre) poco frecuente de crecimiento rápido por la que se forman demasiados glóbulos blancos llamados linfocitos B en la sangre y la médula ósea. A veces comienza en los ganglios linfáticos como linfoma de Burkitt y luego se disemina a la sangre y la médula ósea, o puede comenzar en la sangre y la médula ósea sin compromiso de los ganglios linfáticos. Tanto la leucemia de Burkitt como el linfoma de Burkitt se relacionaron con la infección por el virus de Epstein-Barr.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-10-26</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000256548">
+  <TermName>Burkitt leukemia</TermName>
+  <TermPronunciation>(BER-kit loo-KEE-mee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, fast-growing type of leukemia (blood cancer) in which too many white blood cells called B lymphocytes form in the blood and bone marrow. It may start in the lymph nodes as Burkitt lymphoma and then spread to the blood and bone marrow, or it may start in the blood and bone marrow without involvement of the lymph nodes. Both Burkitt leukemia and Burkitt lymphoma have been linked to infection with the Epstein-Barr virus.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Burkitt leukemia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709825" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;leucemia de Burkitt&quot;" language="es" id="_4"/>
+  <SpanishTermName>leucemia de Burkitt</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de leucemia (cáncer de la sangre) poco frecuente de crecimiento rápido por la que se forman demasiados glóbulos blancos llamados linfocitos B en la sangre y la médula ósea. A veces comienza en los ganglios linfáticos como linfoma de Burkitt y luego se disemina a la sangre y la médula ósea, o puede comenzar en la sangre y la médula ósea sin compromiso de los ganglios linfáticos. Tanto la leucemia de Burkitt como el linfoma de Burkitt se relacionaron con la infección por el virus de Epstein-Barr.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-10-26</DateLastModified>
+</GlossaryTerm>

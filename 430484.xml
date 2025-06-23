@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000430484"><TermName>health care proxy</TermName><TermPronunciation>(helth kayr PRAK-see)</TermPronunciation><TermDefinition><DefinitionText>A type of advance directive  that gives a person (called a proxy) the authority to make medical decisions for another person if that person is not able to make their own decisions. A proxy is usually a spouse, relative, friend, or lawyer who knows the person's values, wishes, and treatment preferences. Also called durable power of attorney for health care and medical power of attorney.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713611" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;healthcare proxy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713612" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poder notarial de salud&quot;" language="es" id="_8"/><SpanishTermName>poder notarial de salud</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de instrucción por adelantado que otorga a una persona (llamada representante o apoderado) la autoridad de tomar decisiones médicas por otra persona si esta pierde su capacidad de tomar decisiones por sí misma. El representante es, por lo general, un cónyuge, familiar, amigo o abogado que conoce los valores, deseos y preferencias de tratamiento de la persona. También se llama poder notarial para asuntos de salud, poder notarial para asuntos médicos, poder notarial para la atención médica y poder notarial permanente para la atención médica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished><DateLastModified>2024-06-12</DateLastModified><RelatedInformation><RelatedGlossaryTermRef href="CDR0000430404" UseWith="en" audience="Patients">advance directive</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000430404" UseWith="es" audience="Patients">instrucciones por adelantado</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000430484">
+  <TermName>health care proxy</TermName>
+  <TermPronunciation>(helth kayr PRAK-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of advance directive  that gives a person (called a proxy) the authority to make medical decisions for another person if that person is not able to make their own decisions. A proxy is usually a spouse, relative, friend, or lawyer who knows the person's values, wishes, and treatment preferences. Also called durable power of attorney for health care and medical power of attorney.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713611" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;healthcare proxy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713612" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poder notarial de salud&quot;" language="es" id="_8"/>
+  <SpanishTermName>poder notarial de salud</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de instrucción por adelantado que otorga a una persona (llamada representante o apoderado) la autoridad de tomar decisiones médicas por otra persona si esta pierde su capacidad de tomar decisiones por sí misma. El representante es, por lo general, un cónyuge, familiar, amigo o abogado que conoce los valores, deseos y preferencias de tratamiento de la persona. También se llama poder notarial para asuntos de salud, poder notarial para asuntos médicos, poder notarial para la atención médica y poder notarial permanente para la atención médica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+  <DateLastModified>2024-06-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000430404" UseWith="en" audience="Patients">advance directive</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000430404" UseWith="es" audience="Patients">instrucciones por adelantado</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

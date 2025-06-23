@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000798334"><TermName>fibroblast growth factor receptor 2 gene</TermName><TermPronunciation>(FY-broh-blast grothe FAK-ter reh-SEP-ter … jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein  that is involved in cell division, cell maturation, formation of new blood vessels, wound healing, and bone growth and development. A mutation (change) in the fibroblast growth factor receptor 2 gene may cause the FGFR2 protein to become overactive in certain bone disorders, genetic conditions, and cancers. Also called FGFR2 gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000800971" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibroblast growth factor receptor 2 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000800972" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen del receptor 2 del factor de crecimiento de fibroblastos&quot;" language="es" id="_4"/><SpanishTermName>gen del receptor 2 del factor de crecimiento de fibroblastos</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que elabora una proteína llamada  receptor 2 del factor de crecimiento de fibroblastos (FGFR2). La proteína FGFR2 participa en la multiplicación y maduración celular, así como en la formación de vasos sanguíneos nuevos, la cicatrización de heridas, y el crecimiento, desarrollo y mantenimiento de los huesos. Es posible que una mutación (cambio) en el gen del receptor 2 del factor de crecimiento de fibroblastos cause que la proteína FGFR2 se vuelva hiperactiva en determinados trastornos óseos, afecciones genéticas y cánceres. También se llama gen FGFR2.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-08</DateFirstPublished><DateLastModified>2020-12-02</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798334">
+  <TermName>fibroblast growth factor receptor 2 gene</TermName>
+  <TermPronunciation>(FY-broh-blast grothe FAK-ter reh-SEP-ter … jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene that makes a protein  that is involved in cell division, cell maturation, formation of new blood vessels, wound healing, and bone growth and development. A mutation (change) in the fibroblast growth factor receptor 2 gene may cause the FGFR2 protein to become overactive in certain bone disorders, genetic conditions, and cancers. Also called FGFR2 gene.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000800971" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibroblast growth factor receptor 2 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000800972" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen del receptor 2 del factor de crecimiento de fibroblastos&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen del receptor 2 del factor de crecimiento de fibroblastos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Gen que elabora una proteína llamada  receptor 2 del factor de crecimiento de fibroblastos (FGFR2). La proteína FGFR2 participa en la multiplicación y maduración celular, así como en la formación de vasos sanguíneos nuevos, la cicatrización de heridas, y el crecimiento, desarrollo y mantenimiento de los huesos. Es posible que una mutación (cambio) en el gen del receptor 2 del factor de crecimiento de fibroblastos cause que la proteína FGFR2 se vuelva hiperactiva en determinados trastornos óseos, afecciones genéticas y cánceres. También se llama gen FGFR2.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-08</DateFirstPublished>
+  <DateLastModified>2020-12-02</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,40 @@
-<GlossaryTerm id="CDR0000799783"><TermName>oculocutaneous albinism</TermName><TermPronunciation>(AH-kyoo-loh-kyoo-TAY-nee-us AL-bih-NIH-zum)</TermPronunciation><TermDefinition><DefinitionText>A group of rare, inherited disorders in which the skin, hair, and eyes have little or no melanin (pigment). Most people with these disorders have very pale skin, white or light-colored hair, and light-colored eyes. People with oculocutaneous albinism can also have vision problems, including blurry vision, rapid eye movement, crossed eyes, and increased sensitivity to light. People with these disorders have a high risk of developing squamous cell skin cancer at a very early age. The seven types of oculocutaneous albinism are caused by mutations (changes) in the TYR, OCA2, TYRP1, SLC45A2, OCA5, SLC24A5, or C10orf11 gene. These genes are involved in making melanin. The amount of skin, hair, and eye pigment seen in each oculocutaneous albinism type depends on the gene and mutation involved. Also called OCA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802541" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oculocutaneous albinism&quot;" language="en" id="_4"/><MediaLink ref="CDR0000802542" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;albinismo oculocutáneo&quot;" language="es" id="_5"/><SpanishTermName>albinismo oculocutáneo</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de trastornos hereditarios raros  que se caracterizan por la ausencia o escasez de melanima (pigmento) en la piel, el pelo y los ojos. La mayoría de las personas afectadas tienen una piel muy pálida, cabello blanco o de color claro y ojos claros. El albinismo oculocutáneo también causa problemas de la vista, como visión borrosa, movimientos oculares rápidos, estrabismo (bizquera) y aumento de la sensibilidad a la luz. Estos trastornos aumentan el riesgo de presentar cáncer de células escamosas de piel a una edad muy temprana. La causa de los siete tipos de albinismo oculocutáneo son mutaciones (cambios) en los genes <GeneName>TYR</GeneName>, <GeneName>OCA2</GeneName>, <GeneName>TYRP1</GeneName>, <GeneName>SLC45A2</GeneName>, <GeneName>OCA5</GeneName>, <GeneName>SLC24A5</GeneName> o <GeneName>C10orf11</GeneName>. Estos genes participan en la producción de melanina. El gen y la mutación específica determinan la cantidad de melanina en la piel, el pelo y los ojos para cada tipo de albinismo. También se llama albinismo total y AOC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-02-12</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/10958/oculocutaneous-albinism">Oculocutaneous albinism (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/oculocutaneous-albinism/">Oculocutaneous albinism (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001479.htm">Albinismo (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799783">
+  <TermName>oculocutaneous albinism</TermName>
+  <TermPronunciation>(AH-kyoo-loh-kyoo-TAY-nee-us AL-bih-NIH-zum)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of rare, inherited disorders in which the skin, hair, and eyes have little or no melanin (pigment). Most people with these disorders have very pale skin, white or light-colored hair, and light-colored eyes. People with oculocutaneous albinism can also have vision problems, including blurry vision, rapid eye movement, crossed eyes, and increased sensitivity to light. People with these disorders have a high risk of developing squamous cell skin cancer at a very early age. The seven types of oculocutaneous albinism are caused by mutations (changes) in the TYR, OCA2, TYRP1, SLC45A2, OCA5, SLC24A5, or C10orf11 gene. These genes are involved in making melanin. The amount of skin, hair, and eye pigment seen in each oculocutaneous albinism type depends on the gene and mutation involved. Also called OCA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802541" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oculocutaneous albinism&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000802542" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;albinismo oculocutáneo&quot;" language="es" id="_5"/>
+  <SpanishTermName>albinismo oculocutáneo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Grupo de trastornos hereditarios raros  que se caracterizan por la ausencia o escasez de melanima (pigmento) en la piel, el pelo y los ojos. La mayoría de las personas afectadas tienen una piel muy pálida, cabello blanco o de color claro y ojos claros. El albinismo oculocutáneo también causa problemas de la vista, como visión borrosa, movimientos oculares rápidos, estrabismo (bizquera) y aumento de la sensibilidad a la luz. Estos trastornos aumentan el riesgo de presentar cáncer de células escamosas de piel a una edad muy temprana. La causa de los siete tipos de albinismo oculocutáneo son mutaciones (cambios) en los genes 
+      <GeneName>TYR</GeneName>
+      , 
+      <GeneName>OCA2</GeneName>
+      , 
+      <GeneName>TYRP1</GeneName>
+      , 
+      <GeneName>SLC45A2</GeneName>
+      , 
+      <GeneName>OCA5</GeneName>
+      , 
+      <GeneName>SLC24A5</GeneName>
+       o 
+      <GeneName>C10orf11</GeneName>
+      . Estos genes participan en la producción de melanina. El gen y la mutación específica determinan la cantidad de melanina en la piel, el pelo y los ojos para cada tipo de albinismo. También se llama albinismo total y AOC.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-02-12</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/10958/oculocutaneous-albinism">Oculocutaneous albinism (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/oculocutaneous-albinism/">Oculocutaneous albinism (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/001479.htm">Albinismo (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

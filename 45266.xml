@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000045266"><TermName>myelodysplastic syndrome</TermName><TermPronunciation>(MY-eh-loh-dis-PLAS-tik SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A type of cancer in which the bone marrow does not make enough healthy blood cells (white blood cells, red blood cells, and platelets) and there are abnormal cells in the blood and/or bone marrow. When there are fewer healthy blood cells, infection, anemia, or bleeding may occur. Sometimes, myelodysplastic syndrome becomes acute myeloid leukemia (AML). Also called MDS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;myelodysplastic syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome mielodisplásico&quot;" language="es" id="_4"/><SpanishTermName>síndrome mielodisplásico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer en el que la médula ósea no produce suficientes células sanguíneas (glóbulos blancos, glóbulos rojos y plaquetas) sanas, y hay células anormales en la sangre o la médula ósea. Cuando hay menos células sanguíneas sanas,  se pueden presentar infecciones, anemia y sangrado. A veces, el síndrome mielodisplásico se convierte en leucemia mieloide aguda (LMA). También se llama preleucemia, síndrome dismielopoyético, síndrome preleucémico y SMD.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-09-05</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000378089" url="/types/myeloproliferative/patient/myelodysplastic-treatment-pdq">Myelodysplastic Syndromes Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000426393" url="/espanol/tipos/mieloproliferativas/paciente/tratamiento-mielodisplasicos-pdq">Tratamiento de los síndromes mielodisplásicos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045266">
+  <TermName>myelodysplastic syndrome</TermName>
+  <TermPronunciation>(MY-eh-loh-dis-PLAS-tik SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of cancer in which the bone marrow does not make enough healthy blood cells (white blood cells, red blood cells, and platelets) and there are abnormal cells in the blood and/or bone marrow. When there are fewer healthy blood cells, infection, anemia, or bleeding may occur. Sometimes, myelodysplastic syndrome becomes acute myeloid leukemia (AML). Also called MDS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;myelodysplastic syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome mielodisplásico&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome mielodisplásico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer en el que la médula ósea no produce suficientes células sanguíneas (glóbulos blancos, glóbulos rojos y plaquetas) sanas, y hay células anormales en la sangre o la médula ósea. Cuando hay menos células sanguíneas sanas,  se pueden presentar infecciones, anemia y sangrado. A veces, el síndrome mielodisplásico se convierte en leucemia mieloide aguda (LMA). También se llama preleucemia, síndrome dismielopoyético, síndrome preleucémico y SMD.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-09-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000378089" url="/types/myeloproliferative/patient/myelodysplastic-treatment-pdq">Myelodysplastic Syndromes Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000426393" url="/espanol/tipos/mieloproliferativas/paciente/tratamiento-mielodisplasicos-pdq">Tratamiento de los síndromes mielodisplásicos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

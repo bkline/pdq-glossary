@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045728"><TermName>immunosuppressive therapy</TermName><TermPronunciation>(IH-myoo-noh-suh-PREH-siv THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment that lowers the activity of the body’s immune system. This reduces its ability to fight infections and other diseases, such as cancer. Immunosuppressive therapy may be used to keep a person from rejecting a bone marrow or organ transplant. It may also be used to treat conditions in which the immune system is overactive, such as autoimmune diseases and allergies. Some types of immunosuppressive therapy may increase a person’s risk of cancer by lowering the body’s ability to kill cancer cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707151" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunosuppressive therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707152" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia inmunodepresora&quot;" language="es" id="_4"/><SpanishTermName>terapia inmunodepresora</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento que disminuye la actividad del sistema inmunitario del cuerpo, lo que reduce la capacidad de combatir infecciones y otras enfermedades como el cáncer. La terapia inmunodepresora sirve para evitar que una persona rechace un trasplante de médula ósea o de otro órgano. También se puede usar para tratar afecciones en las que el sistema inmunitario es hiperactivo, como las enfermedades autoinmunitarias y las alergias. Algunos tipos de terapia inmunodepresora aumentan el riesgo de una persona de presentar cáncer porque disminuyen la capacidad del cuerpo de destruir células cancerosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-09-01</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045728">
+  <TermName>immunosuppressive therapy</TermName>
+  <TermPronunciation>(IH-myoo-noh-suh-PREH-siv THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that lowers the activity of the body’s immune system. This reduces its ability to fight infections and other diseases, such as cancer. Immunosuppressive therapy may be used to keep a person from rejecting a bone marrow or organ transplant. It may also be used to treat conditions in which the immune system is overactive, such as autoimmune diseases and allergies. Some types of immunosuppressive therapy may increase a person’s risk of cancer by lowering the body’s ability to kill cancer cells.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707151" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immunosuppressive therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707152" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia inmunodepresora&quot;" language="es" id="_4"/>
+  <SpanishTermName>terapia inmunodepresora</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento que disminuye la actividad del sistema inmunitario del cuerpo, lo que reduce la capacidad de combatir infecciones y otras enfermedades como el cáncer. La terapia inmunodepresora sirve para evitar que una persona rechace un trasplante de médula ósea o de otro órgano. También se puede usar para tratar afecciones en las que el sistema inmunitario es hiperactivo, como las enfermedades autoinmunitarias y las alergias. Algunos tipos de terapia inmunodepresora aumentan el riesgo de una persona de presentar cáncer porque disminuyen la capacidad del cuerpo de destruir células cancerosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-09-01</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000785255"><TermName>hemihyperplasia</TermName><TermPronunciation>(HEH-mee-HY-per-PLAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>A condition in which one side of the body or a part of one side is larger than the other. Children with hemihyperplasia have an increased risk of developing certain types of cancer, including Wilms tumor (a childhood kidney cancer) and liver cancer. Also called hemihypertrophy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000786421" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemihyperplasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000786422" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemihiperplasia&quot;" language="es" id="_4"/><SpanishTermName>hemihiperplasia</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que un lado del cuerpo o una parte de un lado del cuerpo son más grandes que la otra. Los niños con hemihiperplasia tienen un riesgo más alto de presentar ciertos tipos de cáncer, como el tumor de Wilms (un cáncer de riñón infantil) y cáncer de hígado. También se llama hemihipertrofia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-11-21</DateFirstPublished><DateLastModified>2016-11-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000785255">
+  <TermName>hemihyperplasia</TermName>
+  <TermPronunciation>(HEH-mee-HY-per-PLAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which one side of the body or a part of one side is larger than the other. Children with hemihyperplasia have an increased risk of developing certain types of cancer, including Wilms tumor (a childhood kidney cancer) and liver cancer. Also called hemihypertrophy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000786421" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemihyperplasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000786422" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemihiperplasia&quot;" language="es" id="_4"/>
+  <SpanishTermName>hemihiperplasia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que un lado del cuerpo o una parte de un lado del cuerpo son más grandes que la otra. Los niños con hemihiperplasia tienen un riesgo más alto de presentar ciertos tipos de cáncer, como el tumor de Wilms (un cáncer de riñón infantil) y cáncer de hígado. También se llama hemihipertrofia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-11-21</DateFirstPublished>
+  <DateLastModified>2016-11-21</DateLastModified>
+</GlossaryTerm>

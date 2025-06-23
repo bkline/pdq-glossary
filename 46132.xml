@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046132"><TermName>carotenoid</TermName><TermPronunciation>(kuh-RAH-teh-noyd)</TermPronunciation><TermDefinition><DefinitionText>A yellow, red, or orange substance found mostly in plants, including carrots, sweet potatoes, dark green leafy vegetables, and many fruits, grains, and oils. Some carotenoids are changed into vitamin A in the body and some are being studied in the prevention of cancer. A carotenoid is a type of antioxidant and a type of provitamin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707725" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carotenoid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707724" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carotenoide&quot;" language="es" id="_4"/><SpanishTermName>carotenoide</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia amarilla, roja o naranja que se encuentra sobre todo en las plantas, como las zanahorias, las batatas, las verduras de hoja verde oscuro y muchas frutas, cereales y aceites. Ciertos tipos de carotenoides se transforman en vitamina A en el cuerpo y algunos están en estudio para prevenir el cáncer. Un carotenoide es un tipo de antioxidante y de provitamina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2010-12-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046132">
+  <TermName>carotenoid</TermName>
+  <TermPronunciation>(kuh-RAH-teh-noyd)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A yellow, red, or orange substance found mostly in plants, including carrots, sweet potatoes, dark green leafy vegetables, and many fruits, grains, and oils. Some carotenoids are changed into vitamin A in the body and some are being studied in the prevention of cancer. A carotenoid is a type of antioxidant and a type of provitamin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707725" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carotenoid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707724" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carotenoide&quot;" language="es" id="_4"/>
+  <SpanishTermName>carotenoide</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia amarilla, roja o naranja que se encuentra sobre todo en las plantas, como las zanahorias, las batatas, las verduras de hoja verde oscuro y muchas frutas, cereales y aceites. Ciertos tipos de carotenoides se transforman en vitamina A en el cuerpo y algunos están en estudio para prevenir el cáncer. Un carotenoide es un tipo de antioxidante y de provitamina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2010-12-13</DateLastModified>
+</GlossaryTerm>

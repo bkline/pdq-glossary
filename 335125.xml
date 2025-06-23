@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000335125"><TermName>Level of evidence 1iiA</TermName><TermDefinition><DefinitionText>Randomized, controlled, nonblinded clinical trial with total mortality as an endpoint. See <SummaryRef href="CDR0000256874" url="/publications/pdq/levels-evidence/cam">Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies (PDQ®)</SummaryRef> for more information.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia científica 1iiA</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico controlado aleatorizado sin enmascaramiento en el que se usa la mortalidad total como un criterio de valoración. Para obtener más información, consultar el resumen <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">Niveles de evidencia de los estudios sobre el tratamiento del cáncer en adultos y niños</SummaryRef> (PDQ®).</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335125">
+  <TermName>Level of evidence 1iiA</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      Randomized, controlled, nonblinded clinical trial with total mortality as an endpoint. See 
+      <SummaryRef href="CDR0000256874" url="/publications/pdq/levels-evidence/cam">Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies (PDQ®)</SummaryRef>
+       for more information.
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia científica 1iiA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Ensayo clínico controlado aleatorizado sin enmascaramiento en el que se usa la mortalidad total como un criterio de valoración. Para obtener más información, consultar el resumen 
+      <SummaryRef href="CDR0000257273" url="/espanol/publicaciones/pdq/niveles-de-evidencia/tratamiento">Niveles de evidencia de los estudios sobre el tratamiento del cáncer en adultos y niños</SummaryRef>
+       (PDQ®).
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+</GlossaryTerm>

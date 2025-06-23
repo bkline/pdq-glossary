@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000413944"><TermName>Eloxatin</TermName><TermPronunciation>(eh-LOK-sah-tin)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to treat stage III colon cancer that was removed by surgery and colorectal cancer that is advanced. It is also being studied in the treatment of other types of cancer. Eloxatin damages the cell’s DNA and may kill cancer cells. It is a type of platinum compound. Also called oxaliplatin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713516" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Eloxatin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Eloxatin&quot;" language="es" id="_4"/><SpanishTermName>Eloxatin</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para tratar el cáncer de colon en estadio III que se extirpó con cirugía y el cáncer colorrectal en estadio avanzado. También está en estudio para el tratamiento de otros tipos de cáncer. Eloxatin daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de compuesto de platino. También se llama oxaliplatino.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-05-23</DateFirstPublished><DateLastModified>2018-02-19</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492041" url="/about-cancer/treatment/drugs/oxaliplatin">Oxaliplatin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413944">
+  <TermName>Eloxatin</TermName>
+  <TermPronunciation>(eh-LOK-sah-tin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with other drugs to treat stage III colon cancer that was removed by surgery and colorectal cancer that is advanced. It is also being studied in the treatment of other types of cancer. Eloxatin damages the cell’s DNA and may kill cancer cells. It is a type of platinum compound. Also called oxaliplatin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713516" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Eloxatin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Eloxatin&quot;" language="es" id="_4"/>
+  <SpanishTermName>Eloxatin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con otros medicamentos para tratar el cáncer de colon en estadio III que se extirpó con cirugía y el cáncer colorrectal en estadio avanzado. También está en estudio para el tratamiento de otros tipos de cáncer. Eloxatin daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de compuesto de platino. También se llama oxaliplatino.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-05-23</DateFirstPublished>
+  <DateLastModified>2018-02-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492041" url="/about-cancer/treatment/drugs/oxaliplatin">Oxaliplatin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

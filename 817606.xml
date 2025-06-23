@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817606"><TermName>vimseltinib dihydrate</TermName><TermPronunciation>(vim-SEL-tih-nib dy-HY-drayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with tenosynovial giant cell tumor, a rare, usually benign (not cancer) tumor that affects the joints. It is used when surgery may make the symptoms worse or cause severe problems. It is also being studied in the treatment of other conditions related to cancer. Vimseltinib dihydrate blocks certain proteins, which may help keep tumor cells from growing and spreading. It is a type of tyrosine kinase inhibitor. Also called Romvimza.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vimseltinib dihydrate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dihidrato de vimseltinib&quot;" language="es" id="_4"/><SpanishTermName>dihidrato de vimseltinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con tumor de células gigantes tenosinoviales (tumor raro, por lo general benigno que afecta las articulaciones). Se utiliza cuando la cirugía tal vez  empeore los síntomas o cause problemas graves. También está en estudio para el tratamiento de otras afecciones relacionadas con el cáncer. El dihidrato de vimseltinib bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación y diseminación de células tumorales. Es un tipo de inhibidor de tirosina–cinasas. También se llama Romvimza.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-02-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817606">
+  <TermName>vimseltinib dihydrate</TermName>
+  <TermPronunciation>(vim-SEL-tih-nib dy-HY-drayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with tenosynovial giant cell tumor, a rare, usually benign (not cancer) tumor that affects the joints. It is used when surgery may make the symptoms worse or cause severe problems. It is also being studied in the treatment of other conditions related to cancer. Vimseltinib dihydrate blocks certain proteins, which may help keep tumor cells from growing and spreading. It is a type of tyrosine kinase inhibitor. Also called Romvimza.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vimseltinib dihydrate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dihidrato de vimseltinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>dihidrato de vimseltinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con tumor de células gigantes tenosinoviales (tumor raro, por lo general benigno que afecta las articulaciones). Se utiliza cuando la cirugía tal vez  empeore los síntomas o cause problemas graves. También está en estudio para el tratamiento de otras afecciones relacionadas con el cáncer. El dihidrato de vimseltinib bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación y diseminación de células tumorales. Es un tipo de inhibidor de tirosina–cinasas. También se llama Romvimza.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-02-28</DateFirstPublished>
+</GlossaryTerm>

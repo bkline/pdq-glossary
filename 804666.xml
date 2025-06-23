@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000804666"><TermName>negative Pap test result</TermName><TermPronunciation>(NEH-guh-tiv ... reh-ZULT)</TermPronunciation><TermDefinition><DefinitionText>A Pap test finding that means no cancer cells or other abnormal cells have been found on the surface of or in the tissue that lines the cervix. Cell changes that suggest inflammation or infection may be included in this finding. Also called negative for intraepithelial lesion or malignancy, NILM, and normal Pap test result.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805406" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;negative Pap test result&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805967" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resultado negativo de la prueba de Pap&quot;" language="es" id="_4"/><SpanishTermName>resultado negativo de la prueba de Pap</SpanishTermName><SpanishTermDefinition><DefinitionText>Resultado de una prueba de Pap que indica la ausencia de células cancerosas u otras células anormales en la superficie del tejido que reviste el cuello uterino o dentro de este tejido. Es posible que el resultado incluya cambios celulares que indiquen inflamación o infección. También se llama negativo para lesión intraepitelial o malignidad, NILM y resultado normal de la prueba de Pap.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-04-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804666">
+  <TermName>negative Pap test result</TermName>
+  <TermPronunciation>(NEH-guh-tiv ... reh-ZULT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A Pap test finding that means no cancer cells or other abnormal cells have been found on the surface of or in the tissue that lines the cervix. Cell changes that suggest inflammation or infection may be included in this finding. Also called negative for intraepithelial lesion or malignancy, NILM, and normal Pap test result.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805406" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;negative Pap test result&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805967" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resultado negativo de la prueba de Pap&quot;" language="es" id="_4"/>
+  <SpanishTermName>resultado negativo de la prueba de Pap</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Resultado de una prueba de Pap que indica la ausencia de células cancerosas u otras células anormales en la superficie del tejido que reviste el cuello uterino o dentro de este tejido. Es posible que el resultado incluya cambios celulares que indiquen inflamación o infección. También se llama negativo para lesión intraepitelial o malignidad, NILM y resultado normal de la prueba de Pap.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-04-07</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044644"><TermName>anesthesiologist</TermName><TermPronunciation>(A-nes-THEE-zee-AH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in giving drugs or other agents to prevent or relieve pain during surgery or other procedures.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704876" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anesthesiologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704877" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anestesiólogo&quot;" language="es" id="_4"/><SpanishTermName>anestesiólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina  que se especializa en la administración de medicamentos y sustancias que sirven para aliviar el dolor durante una cirugía u otros procedimientos. También se llama anestesista y especialista en anestesiología.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-06-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044644">
+  <TermName>anesthesiologist</TermName>
+  <TermPronunciation>(A-nes-THEE-zee-AH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in giving drugs or other agents to prevent or relieve pain during surgery or other procedures.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704876" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anesthesiologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704877" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anestesiólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>anestesiólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina  que se especializa en la administración de medicamentos y sustancias que sirven para aliviar el dolor durante una cirugía u otros procedimientos. También se llama anestesista y especialista en anestesiología.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-06-17</DateLastModified>
+</GlossaryTerm>

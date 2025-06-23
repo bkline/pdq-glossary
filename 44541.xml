@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044541"><TermName>anaplastic thyroid cancer</TermName><TermPronunciation>(A-nuh-PLAS-tik THY-royd KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A rare, aggressive type of thyroid cancer in which the malignant (cancer) cells look very different from normal thyroid cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704733" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anaplastic thyroid cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides anaplásico&quot;" language="es" id="_4"/><SpanishTermName>cáncer de tiroides anaplásico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer de tiroides raro y de gran malignidad, en el que las células malignas (cancerosas) tienen un aspecto muy diferente al de las células normales de la tiroides.  También se llama cáncer anaplásico de tiroides.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-04-26</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/thyroid" UseWith="en">Thyroid Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/tiroides" UseWith="es">Cáncer de tiroides</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044541">
+  <TermName>anaplastic thyroid cancer</TermName>
+  <TermPronunciation>(A-nuh-PLAS-tik THY-royd KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, aggressive type of thyroid cancer in which the malignant (cancer) cells look very different from normal thyroid cells.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704733" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anaplastic thyroid cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de tiroides anaplásico&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de tiroides anaplásico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer de tiroides raro y de gran malignidad, en el que las células malignas (cancerosas) tienen un aspecto muy diferente al de las células normales de la tiroides.  También se llama cáncer anaplásico de tiroides.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-04-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/thyroid" UseWith="en">Thyroid Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/tiroides" UseWith="es">Cáncer de tiroides</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

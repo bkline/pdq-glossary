@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000455141"><TermName>systemic mastocytosis</TermName><TermPronunciation>(sis-TEH-mik MAS-toh-sy-TOH-sis)</TermPronunciation><TermDefinition><DefinitionText>A rare disease in which too many mast cells (a type of immune system cell) are found in the skin, bones, joints, lymph nodes, liver, spleen, and gastrointestinal tract. Mast cells give off chemicals, such as histamine, that can cause flushing (a hot, red face), itching, abdominal cramps, muscle pain, nausea, vomiting, diarrhea, low blood pressure, and shock.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;systemic mastocytosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastocitosis sistémica&quot;" language="es" id="_4"/><SpanishTermName>mastocitosis sistémica</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad rara en la que hay demasiados mastocitos (tipo de célula del sistema inmunitario) en la piel, los huesos, las articulaciones, los ganglios linfáticos, el hígado, el bazo y el tubo digestivo. Los mastocitos producen sustancias químicas, como la histamina, que pueden causar rubor (enrojecimiento  y calor en la cara), picazón, cólicos abdominales, dolor muscular, náusea, vómito, diarrea, presión arterial baja y choque. También se llama mastocitosis generalizada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-08-24</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8616/systemic-mastocytosis">Systemic mastocytosis (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/systemic-mastocytosis/">Systemic mastocytosis (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000455141">
+  <TermName>systemic mastocytosis</TermName>
+  <TermPronunciation>(sis-TEH-mik MAS-toh-sy-TOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare disease in which too many mast cells (a type of immune system cell) are found in the skin, bones, joints, lymph nodes, liver, spleen, and gastrointestinal tract. Mast cells give off chemicals, such as histamine, that can cause flushing (a hot, red face), itching, abdominal cramps, muscle pain, nausea, vomiting, diarrhea, low blood pressure, and shock.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;systemic mastocytosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastocitosis sistémica&quot;" language="es" id="_4"/>
+  <SpanishTermName>mastocitosis sistémica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad rara en la que hay demasiados mastocitos (tipo de célula del sistema inmunitario) en la piel, los huesos, las articulaciones, los ganglios linfáticos, el hígado, el bazo y el tubo digestivo. Los mastocitos producen sustancias químicas, como la histamina, que pueden causar rubor (enrojecimiento  y calor en la cara), picazón, cólicos abdominales, dolor muscular, náusea, vómito, diarrea, presión arterial baja y choque. También se llama mastocitosis generalizada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-08-24</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/8616/systemic-mastocytosis">Systemic mastocytosis (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/systemic-mastocytosis/">Systemic mastocytosis (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

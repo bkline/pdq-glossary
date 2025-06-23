@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000485393"><TermName>attributable risk</TermName><TermPronunciation>(uh-TRIH-byoo-tuh-bul …)</TermPronunciation><TermDefinition><DefinitionText>Proportion of a disease in exposed individuals that can be attributed to an exposure. In the context of genetic studies, the "exposure" is the frequency of a specific genetic variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;attributable risk&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;riesgo atribuible&quot;" language="es" id="_4"/><SpanishTermName>riesgo atribuible</SpanishTermName><SpanishTermDefinition><DefinitionText>Proporción de casos de una enfermedad que se atribuyen a una exposición entre los individuos en riesgo (expuestos). En el contexto de los estudios genéticos, la "exposición" se define a partir de la frecuencia de una variante genética específica.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000485393">
+  <TermName>attributable risk</TermName>
+  <TermPronunciation>(uh-TRIH-byoo-tuh-bul …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Proportion of a disease in exposed individuals that can be attributed to an exposure. In the context of genetic studies, the &quot;exposure&quot; is the frequency of a specific genetic variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;attributable risk&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804252" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;riesgo atribuible&quot;" language="es" id="_4"/>
+  <SpanishTermName>riesgo atribuible</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proporción de casos de una enfermedad que se atribuyen a una exposición entre los individuos en riesgo (expuestos). En el contexto de los estudios genéticos, la &quot;exposición&quot; se define a partir de la frecuencia de una variante genética específica.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-19</DateFirstPublished>
+</GlossaryTerm>

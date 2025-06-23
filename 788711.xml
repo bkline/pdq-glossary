@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000788711"><TermName>11C-acetate</TermName><TermPronunciation>(… A-seh-tayt)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging. 11C-acetate gets taken up by cells in the body, and a PET scanner is used to find which cells in the body have taken it up. Since more 11C-acetate is taken up by cancer cells than by normal cells, it can be used to help find cancer in the body and diagnose disease. Also called carbon C 11-acetate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000790308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-acetate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000790309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-acetato&quot;" language="es" id="_4"/><SpanishTermName>11C-acetato</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en estudio que se usa para la tomografía con emisión de positrones (TEP). Las células del cuerpo absorben el 11C-acetato y se usa un escáner de TEP para encontrar cuáles células del cuerpo lo absorben. Debido a que las células cancerosas absorben esta sustancia más que las células normales, es posible usarla para encontrar cáncer en el cuerpo y diagnosticar enfermedades. También se llama carbono C 11-acetato.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-07-18</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000788711">
+  <TermName>11C-acetate</TermName>
+  <TermPronunciation>(… A-seh-tayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging. 11C-acetate gets taken up by cells in the body, and a PET scanner is used to find which cells in the body have taken it up. Since more 11C-acetate is taken up by cancer cells than by normal cells, it can be used to help find cancer in the body and diagnose disease. Also called carbon C 11-acetate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000790308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-acetate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000790309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-acetato&quot;" language="es" id="_4"/>
+  <SpanishTermName>11C-acetato</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en estudio que se usa para la tomografía con emisión de positrones (TEP). Las células del cuerpo absorben el 11C-acetato y se usa un escáner de TEP para encontrar cuáles células del cuerpo lo absorben. Debido a que las células cancerosas absorben esta sustancia más que las células normales, es posible usarla para encontrar cáncer en el cuerpo y diagnosticar enfermedades. También se llama carbono C 11-acetato.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-07-18</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

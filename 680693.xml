@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000680693"><TermName>11C-choline</TermName><TermPronunciation>(… KOH-leen)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to find certain types of cancer. 11C-choline gets taken up by cells in the body and more of it is taken up by cancer cells than by normal cells. A PET scanner is used to find which cells in the body have taken up 11C-choline.  Also called carbon C 11-choline.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-choline&quot;" language="en" id="_5"/><MediaLink ref="CDR0000727598" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-colina&quot;" language="es" id="_6"/><SpanishTermName>11C-colina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en estudio para usar en la tomografía con emisión de positrones (TEP) con el fin de detectar ciertos tipos de cáncer. Las células del cuerpo absorben 11C-colina y las células tumorales absorben más de esta sustancia que las células normales. Se usa un escáner de TEP  para detectar las células del cuerpo que absorbieron 11C-colina. También se llama carbono C 11-colina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-12-14</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000680693">
+  <TermName>11C-choline</TermName>
+  <TermPronunciation>(… KOH-leen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to find certain types of cancer. 11C-choline gets taken up by cells in the body and more of it is taken up by cancer cells than by normal cells. A PET scanner is used to find which cells in the body have taken up 11C-choline.  Also called carbon C 11-choline.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-choline&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000727598" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;11C-colina&quot;" language="es" id="_6"/>
+  <SpanishTermName>11C-colina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en estudio para usar en la tomografía con emisión de positrones (TEP) con el fin de detectar ciertos tipos de cáncer. Las células del cuerpo absorben 11C-colina y las células tumorales absorben más de esta sustancia que las células normales. Se usa un escáner de TEP  para detectar las células del cuerpo que absorbieron 11C-colina. También se llama carbono C 11-colina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-12-14</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

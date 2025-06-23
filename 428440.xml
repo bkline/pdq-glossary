@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000428440"><TermName>stage 1 neuroblastoma</TermName><TermPronunciation>(... NOOR-oh-blas-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Cancer is in only one area and all of the cancer that can be seen is completely removed during surgery.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713485" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 1 neuroblastoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713486" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroblastoma en estadio 1&quot;" language="es" id="_4"/><SpanishTermName>neuroblastoma en estadio 1</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer solo está en un área y todo el cáncer visible se extirpó durante una cirugía.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-04-23</DateFirstPublished><DateLastModified>2019-10-15</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258023" url="/types/neuroblastoma/patient/neuroblastoma-treatment-pdq">Neuroblastoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000391227" url="/espanol/tipos/neuroblastoma/paciente/tratamiento-neuroblastoma-pdq">Tratamiento del neuroblastoma</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000428440">
+  <TermName>stage 1 neuroblastoma</TermName>
+  <TermPronunciation>(... NOOR-oh-blas-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer is in only one area and all of the cancer that can be seen is completely removed during surgery.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713485" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 1 neuroblastoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713486" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroblastoma en estadio 1&quot;" language="es" id="_4"/>
+  <SpanishTermName>neuroblastoma en estadio 1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer solo está en un área y todo el cáncer visible se extirpó durante una cirugía.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-04-23</DateFirstPublished>
+  <DateLastModified>2019-10-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258023" url="/types/neuroblastoma/patient/neuroblastoma-treatment-pdq">Neuroblastoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000391227" url="/espanol/tipos/neuroblastoma/paciente/tratamiento-neuroblastoma-pdq">Tratamiento del neuroblastoma</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

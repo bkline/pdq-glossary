@@ -1,1 +1,14 @@
-<GlossaryTerm id="CDR0000810021"><TermName>Level of evidence A3</TermName><TermDefinition><DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of quality of life that is well-collected, clinically meaningful, and carefully assessed.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia A3</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración la calidad de vida de importancia clínica cuya información se recabó de manera adecuada y se evaluó minuciosamente. </DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810021">
+  <TermName>Level of evidence A3</TermName>
+  <TermDefinition>
+    <DefinitionText>Randomized controlled clinical trial (double-blinded or non-blinded) with an endpoint of quality of life that is well-collected, clinically meaningful, and carefully assessed.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia A3</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ensayo clínico controlado aleatorizado (con enmascaramiento doble o sin enmascaramiento) en el que se usa como un criterio de valoración la calidad de vida de importancia clínica cuya información se recabó de manera adecuada y se evaluó minuciosamente. </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-29</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045976"><TermName>carmustine</TermName><TermPronunciation>(kar-MUS-teen)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of brain tumors,  Hodgkin lymphoma, and non-Hodgkin lymphoma and with prednisone to treat multiple myeloma.  It is also being studied in the treatment of other types of cancer. Carmustine damages the cell's DNA and may kill cancer cells. It is a type of alkylating agent and a type of nitrosourea. Also called BCNU and BiCNU.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carmustine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carmustina&quot;" language="es" id="_4"/><SpanishTermName>carmustina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de tumores de encéfalo, linfoma de Hodgkin y linfoma no Hodgkin. Además, se usa con prednisona para el tratamiento del mieloma múltiple. También está en estudio para el tratamiento de otros tipos de cáncer. La carmustina daña el DNA de las células y es posible que destruya células cancerosas. Es un tipo de alquilante y de nitrosourea. También se llama BCNU y BiCNU.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-12-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000761705" url="/about-cancer/treatment/drugs/carmustine">Carmustine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045976">
+  <TermName>carmustine</TermName>
+  <TermPronunciation>(kar-MUS-teen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of brain tumors,  Hodgkin lymphoma, and non-Hodgkin lymphoma and with prednisone to treat multiple myeloma.  It is also being studied in the treatment of other types of cancer. Carmustine damages the cell's DNA and may kill cancer cells. It is a type of alkylating agent and a type of nitrosourea. Also called BCNU and BiCNU.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731329" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carmustine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731328" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carmustina&quot;" language="es" id="_4"/>
+  <SpanishTermName>carmustina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de tumores de encéfalo, linfoma de Hodgkin y linfoma no Hodgkin. Además, se usa con prednisona para el tratamiento del mieloma múltiple. También está en estudio para el tratamiento de otros tipos de cáncer. La carmustina daña el DNA de las células y es posible que destruya células cancerosas. Es un tipo de alquilante y de nitrosourea. También se llama BCNU y BiCNU.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-12-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000761705" url="/about-cancer/treatment/drugs/carmustine">Carmustine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000666221"><TermName>RO4929097</TermName><TermDefinition><DefinitionText>A substance being studied in the treatment of cancer. It blocks certain enzymes that are needed for cell growth.  This may slow the growth of cancer cells. It may also decrease the growth of new blood vessels that tumors need to grow. It is a type of gamma-secretase inhibitor and a type of Notch signaling inhibitor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>RO4929097</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento del cáncer. Impide la acción de  ciertas enzimas que las células necesitan para multiplicarse. Es posible que esto retrase la multiplicación de las células cancerosas y que disminuya la formación de  vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de inhibidor de la gamma–secretasa y de inhibidor de la señalización Notch.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-06-04</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000666221">
+  <TermName>RO4929097</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of cancer. It blocks certain enzymes that are needed for cell growth.  This may slow the growth of cancer cells. It may also decrease the growth of new blood vessels that tumors need to grow. It is a type of gamma-secretase inhibitor and a type of Notch signaling inhibitor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>RO4929097</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento del cáncer. Impide la acción de  ciertas enzimas que las células necesitan para multiplicarse. Es posible que esto retrase la multiplicación de las células cancerosas y que disminuya la formación de  vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de inhibidor de la gamma–secretasa y de inhibidor de la señalización Notch.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-06-04</DateFirstPublished>
+</GlossaryTerm>

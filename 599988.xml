@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000599988"><TermName>18F-MISO</TermName><TermDefinition><DefinitionText>A radioactive substance being studied as an imaging agent in head and neck cancer and other types of cancer. It binds to large molecules in cancer cells that have a low level of oxygen. Radiation given off by 18F-MISO is detected by a positron emission tomography (PET) scan. Knowing the amount of 18F-MISO in the cancer cells may help plan the best treatment and help predict whether the cancer will come back after treatment. Also called 18F-fluoromisonidazole, fluorine F 18-fluoromisonidazole, and FMISO.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>18F-MISO</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en estudio para usar en pruebas de imágenes del cáncer de cabeza y cuello, así como otros tipos de cáncer. Se une a moléculas grandes de las células cancerosas que tienen una concentración baja de oxígeno. La radiación que emite el 18F-MISO se detecta con una tomografía por emisión de positrones (TEP). Es posible que conocer la cantidad de 18F-MISO en las células cancerosas ayude a planificar el mejor tratamiento y a pronosticar si el cáncer volverá después del tratamiento. También se llama 18F-fluoromisonidazol, flúor F 18-fluoromisonidazol y FMISO.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-07-14</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000599988">
+  <TermName>18F-MISO</TermName>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied as an imaging agent in head and neck cancer and other types of cancer. It binds to large molecules in cancer cells that have a low level of oxygen. Radiation given off by 18F-MISO is detected by a positron emission tomography (PET) scan. Knowing the amount of 18F-MISO in the cancer cells may help plan the best treatment and help predict whether the cancer will come back after treatment. Also called 18F-fluoromisonidazole, fluorine F 18-fluoromisonidazole, and FMISO.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>18F-MISO</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en estudio para usar en pruebas de imágenes del cáncer de cabeza y cuello, así como otros tipos de cáncer. Se une a moléculas grandes de las células cancerosas que tienen una concentración baja de oxígeno. La radiación que emite el 18F-MISO se detecta con una tomografía por emisión de positrones (TEP). Es posible que conocer la cantidad de 18F-MISO en las células cancerosas ayude a planificar el mejor tratamiento y a pronosticar si el cáncer volverá después del tratamiento. También se llama 18F-fluoromisonidazol, flúor F 18-fluoromisonidazol y FMISO.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-07-14</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

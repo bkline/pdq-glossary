@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000808600"><TermName>Vonjo</TermName><TermPronunciation>(VON-joh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with intermediate-risk or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF, and post-essential thrombocythemia MF. It is used in patients who have a very low blood platelet count. It is also being studied in the treatment of other conditions and some types of cancer. Vonjo blocks JAK2 and other proteins, which may help keep abnormal blood cells or cancer cells from growing.  It is a type of kinase inhibitor. Also called pacritinib citrate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000809826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vonjo&quot;" language="en" id="_3"/><MediaLink ref="CDR0000809827" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vonjo&quot;" language="es" id="_4"/><SpanishTermName>Vonjo</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se  usa para el tratamiento de adultos con mielofibrosis  de riesgo intermedio o alto, incluso la mielofibrosis primaria, la mielofibrosis pospolicitemia vera y la mielofibrosis postrombocitemia esencial. Se utiliza en pacientes con una concentración muy baja de plaquetas en la sangre. También está en estudio para el tratamiento de otras afecciones y algunos tipos de cáncer. Vonjo bloquea JAK2 y otras proteínas, lo que quizás ayude a evitar la multiplicación de células sanguíneas anormales o células cancerosas.  Es un tipo de inhibidor de cinasas. También se llama citrato de pacritinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-03-07</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000809050" url="/about-cancer/treatment/drugs/pacritinib-citrate">Pacritinib Citrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808600">
+  <TermName>Vonjo</TermName>
+  <TermPronunciation>(VON-joh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with intermediate-risk or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF, and post-essential thrombocythemia MF. It is used in patients who have a very low blood platelet count. It is also being studied in the treatment of other conditions and some types of cancer. Vonjo blocks JAK2 and other proteins, which may help keep abnormal blood cells or cancer cells from growing.  It is a type of kinase inhibitor. Also called pacritinib citrate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000809826" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vonjo&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000809827" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vonjo&quot;" language="es" id="_4"/>
+  <SpanishTermName>Vonjo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se  usa para el tratamiento de adultos con mielofibrosis  de riesgo intermedio o alto, incluso la mielofibrosis primaria, la mielofibrosis pospolicitemia vera y la mielofibrosis postrombocitemia esencial. Se utiliza en pacientes con una concentración muy baja de plaquetas en la sangre. También está en estudio para el tratamiento de otras afecciones y algunos tipos de cáncer. Vonjo bloquea JAK2 y otras proteínas, lo que quizás ayude a evitar la multiplicación de células sanguíneas anormales o células cancerosas.  Es un tipo de inhibidor de cinasas. También se llama citrato de pacritinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-03-07</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000809050" url="/about-cancer/treatment/drugs/pacritinib-citrate">Pacritinib Citrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

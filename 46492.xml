@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046492"><TermName>breast reconstruction</TermName><TermPronunciation>(brest REE-kun-STRUK-shun)</TermPronunciation><TermDefinition><DefinitionText>Surgery to rebuild the shape of the breast after a mastectomy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708828" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;breast reconstruction&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708829" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;reconstrucción de la mama&quot;" language="es" id="_4"/><SpanishTermName>reconstrucción de la mama</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía que se realiza para reconstruir la forma de la mama (seno) después de una mastectomía. También se llama reconstrucción del seno y reconstrucción mamaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2003-05-07</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/reconstruction-fact-sheet">Breast Reconstruction After Mastectomy</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-reconstruccion">Reconstrucción del seno después de una mastectomía</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046492">
+  <TermName>breast reconstruction</TermName>
+  <TermPronunciation>(brest REE-kun-STRUK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to rebuild the shape of the breast after a mastectomy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708828" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;breast reconstruction&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708829" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;reconstrucción de la mama&quot;" language="es" id="_4"/>
+  <SpanishTermName>reconstrucción de la mama</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía que se realiza para reconstruir la forma de la mama (seno) después de una mastectomía. También se llama reconstrucción del seno y reconstrucción mamaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2003-05-07</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/reconstruction-fact-sheet">Breast Reconstruction After Mastectomy</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-reconstruccion">Reconstrucción del seno después de una mastectomía</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

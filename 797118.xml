@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000797118"><TermName>Herceptin Hylecta</TermName><TermPronunciation>(her-SEP-tin hy-LEK-tuh)</TermPronunciation><TermDefinition><DefinitionText>A combination of trastuzumab and hyaluronidase used alone or with other drugs to treat adults with certain types of HER2-positive breast cancer. Trastuzumab binds to a protein called HER2, which is found on some cancer cells. This may help the immune system kill cancer cells. Hyaluronidase allows trastuzumab to be given by injection under the skin. Herceptin Hylecta can be given in less time than trastuzumab alone, which is given as an infusion. Also called trastuzumab and hyaluronidase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798010" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herceptin Hylecta&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798009" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herceptin Hylecta&quot;" language="es" id="_4"/><SpanishTermName>Herceptin Hylecta</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento compuesto por dos fármacos y que se usa solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de mama positivos para HER2. El trastuzumab se une a una proteína llamada HER2, que se encuentra en algunas células cancerosas, y ayuda al sistema inmunitario a destruir células cancerosas. La hialuronidasa permite que el trastuzumab se administre por inyección debajo de la piel. Herceptin Hylecta se administra en menos tiempo que el trastuzumab solo, que se administra por infusión. También se llama trastuzumab con hialuronidasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-03-08</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000797206" url="/about-cancer/treatment/drugs/trastuzumabandhyaluronidase-oysk">Trastuzumab and Hyaluronidase-oysk</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797118">
+  <TermName>Herceptin Hylecta</TermName>
+  <TermPronunciation>(her-SEP-tin hy-LEK-tuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A combination of trastuzumab and hyaluronidase used alone or with other drugs to treat adults with certain types of HER2-positive breast cancer. Trastuzumab binds to a protein called HER2, which is found on some cancer cells. This may help the immune system kill cancer cells. Hyaluronidase allows trastuzumab to be given by injection under the skin. Herceptin Hylecta can be given in less time than trastuzumab alone, which is given as an infusion. Also called trastuzumab and hyaluronidase.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798010" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herceptin Hylecta&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798009" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herceptin Hylecta&quot;" language="es" id="_4"/>
+  <SpanishTermName>Herceptin Hylecta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento compuesto por dos fármacos y que se usa solo o con otros medicamentos para el tratamiento de adultos con ciertos tipos de cáncer de mama positivos para HER2. El trastuzumab se une a una proteína llamada HER2, que se encuentra en algunas células cancerosas, y ayuda al sistema inmunitario a destruir células cancerosas. La hialuronidasa permite que el trastuzumab se administre por inyección debajo de la piel. Herceptin Hylecta se administra en menos tiempo que el trastuzumab solo, que se administra por infusión. También se llama trastuzumab con hialuronidasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-03-08</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000797206" url="/about-cancer/treatment/drugs/trastuzumabandhyaluronidase-oysk">Trastuzumab and Hyaluronidase-oysk</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

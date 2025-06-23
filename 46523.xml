@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046523"><TermName>anus</TermName><TermPronunciation>(AY-nus)</TermPronunciation><TermDefinition><DefinitionText>The opening of the rectum to the outside of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708885" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708886" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ano&quot;" language="es" id="_4"/><MediaLink ref="CDR0000415499" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, colon, small intestine, rectum, and anus." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Anatomy of the lower gastrointestinal (digestive) system showing  the colon, rectum, and anus. Other organs that make up the digestive system are also shown.</Caption></MediaLink><MediaLink ref="CDR0000415510" type="image/jpeg" alt="Anatomía del aparato digestivo (gastrointestinal). En la imagen se observan el esófago, el hígado, el estómago, el colon, el intestino delgado, el recto y el ano." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía del aparato digestivo (gastrointestinal) inferior. Se observan el colon, el recto y el ano. También se muestran otros órganos que forman parte del aparato digestivo.</Caption></MediaLink><SpanishTermName>ano</SpanishTermName><SpanishTermDefinition><DefinitionText>Abertura del recto que va hacia la parte exterior del cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2014-10-28</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/anal">Anal Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ano">Cáncer de ano</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046523">
+  <TermName>anus</TermName>
+  <TermPronunciation>(AY-nus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The opening of the rectum to the outside of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708885" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708886" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ano&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000415499" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, colon, small intestine, rectum, and anus." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Anatomy of the lower gastrointestinal (digestive) system showing  the colon, rectum, and anus. Other organs that make up the digestive system are also shown.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000415510" type="image/jpeg" alt="Anatomía del aparato digestivo (gastrointestinal). En la imagen se observan el esófago, el hígado, el estómago, el colon, el intestino delgado, el recto y el ano." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía del aparato digestivo (gastrointestinal) inferior. Se observan el colon, el recto y el ano. También se muestran otros órganos que forman parte del aparato digestivo.</Caption>
+  </MediaLink>
+  <SpanishTermName>ano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Abertura del recto que va hacia la parte exterior del cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2014-10-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/anal">Anal Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/ano">Cáncer de ano</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

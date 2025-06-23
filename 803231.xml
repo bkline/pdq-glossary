@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803231"><TermName>age-adjusted rate</TermName><TermPronunciation>(ayj-uh-JUS-ted rayt)</TermPronunciation><TermDefinition><DefinitionText>A statistical measure that allows groups of people to be compared in a way that the age distribution differences between the groups in a study do not affect what is being measured. For example, when comparing cancer incidence in different racial or ethnic groups, it is important to adjust for the age distribution of the people in each group. Since cancer occurs more often in older people, if one group has more older people than the other, the results without such adjustment could be misleading.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805285" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;age-adjusted rate&quot;" language="en" id="_4"/><MediaLink ref="CDR0000805286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tasa ajustada por edad&quot;" language="es" id="_5"/><SpanishTermName>tasa ajustada por edad</SpanishTermName><SpanishTermDefinition><DefinitionText>Medida estadística que permite la comparación de grupos de personas a fin de que las diferencias en la distribución por edad entre los grupos de un estudio no afecte lo que se mide. Por ejemplo, cuando se compara la incidencia de cáncer en diferentes grupos raciales o étnicos, es importante ajustar según la distribución por edad de las personas en cada grupo. Debido a que el cáncer es más frecuente en personas mayores, si uno de los grupos incluye más personas mayores que el otro grupo, entonces los resultados tal vez sean engañosos si no se hace el ajuste por edad. También se llama tasa ajustada según la edad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803231">
+  <TermName>age-adjusted rate</TermName>
+  <TermPronunciation>(ayj-uh-JUS-ted rayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A statistical measure that allows groups of people to be compared in a way that the age distribution differences between the groups in a study do not affect what is being measured. For example, when comparing cancer incidence in different racial or ethnic groups, it is important to adjust for the age distribution of the people in each group. Since cancer occurs more often in older people, if one group has more older people than the other, the results without such adjustment could be misleading.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805285" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;age-adjusted rate&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000805286" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tasa ajustada por edad&quot;" language="es" id="_5"/>
+  <SpanishTermName>tasa ajustada por edad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medida estadística que permite la comparación de grupos de personas a fin de que las diferencias en la distribución por edad entre los grupos de un estudio no afecte lo que se mide. Por ejemplo, cuando se compara la incidencia de cáncer en diferentes grupos raciales o étnicos, es importante ajustar según la distribución por edad de las personas en cada grupo. Debido a que el cáncer es más frecuente en personas mayores, si uno de los grupos incluye más personas mayores que el otro grupo, entonces los resultados tal vez sean engañosos si no se hace el ajuste por edad. También se llama tasa ajustada según la edad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+</GlossaryTerm>

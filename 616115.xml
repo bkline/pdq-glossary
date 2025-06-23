@@ -1,6 +1,25 @@
-<GlossaryTerm id="CDR0000616115"><TermName>AMG 531</TermName><TermDefinition><DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults and in certain children with immune thrombocytopenic purpura that did not get better with other treatment. It is also being studied in the treatment of other conditions and types of cancer.  AMG 531 binds to the thrombopoietin receptor, which causes the bone marrow to make more platelets. It is a type of thrombopoietin receptor agonist. Also called Nplate and romiplostim.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AMG 531</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000616115">
+  <TermName>AMG 531</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults and in certain children with immune thrombocytopenic purpura that did not get better with other treatment. It is also being studied in the treatment of other conditions and types of cancer.  AMG 531 binds to the thrombopoietin receptor, which causes the bone marrow to make more platelets. It is a type of thrombopoietin receptor agonist. Also called Nplate and romiplostim.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AMG 531</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de la trombocitopenia (concentración baja de plaquetas en la sangre)
 en adultos y en determinados niños con púrpura trombocitopénica inmunitaria que no mejoró con otros tratamientos. También está en estudio para el tratamiento de otras afecciones o tipos de cáncer. AMG 531 se une al receptor de
 la trombopoyetina y hace que la médula ósea elabore más
 plaquetas. Es un tipo de agonista del receptor de la
-trombopoyetina. También se llama Nplate y romiplostim.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-29</DateFirstPublished><DateLastModified>2021-05-18</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000613094" url="/about-cancer/treatment/drugs/romiplostim">Romiplostim</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+trombopoyetina. También se llama Nplate y romiplostim.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-29</DateFirstPublished>
+  <DateLastModified>2021-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000613094" url="/about-cancer/treatment/drugs/romiplostim">Romiplostim</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

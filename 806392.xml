@@ -1,3 +1,18 @@
-<GlossaryTerm id="CDR0000806392"><TermName>RTK</TermName><TermDefinition><DefinitionText>A member of a group of proteins called tyrosine kinases that are found on the surface of cells. RTKs play an important role in many cell functions, including cell-to-cell communication and cell division, maturation, movement, metabolism, and survival. 
-Sometimes, the genes that make RTKs have mutations (changes) that cause RTKs to be overactive or be found in higher-than-normal amounts. This may cause cancer cells to grow. Drugs that block the mutant RTKs are being used to treat some types of cancer. Also called receptor tyrosine kinase.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>RTK</SpanishTermName><SpanishTermDefinition><DefinitionText>Miembro de un grupo de proteínas llamadas tirosina–cinasas que se encuentran en la superficie de las células. Este tipo de proteínas receptoras participan en muchas funciones celulares importantes, como la comunicación entre células y la división, la maduración, el movimiento, el metabolismo y la supervivencia celular. 
-Algunas veces, los genes que producen los receptores tirosina–cinasa (RTK) presentan mutaciones (cambios) que hacen que los receptores sean muy activos o que se encuentren en cantidades superiores a las normales. Es posible que esto provoque la multiplicación de células cancerosas. Los medicamentos que bloquean estos receptores mutados se utilizan para el tratamiento de algunos tipos de cáncer. También se llama receptor tirosina–cinasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-03-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806392">
+  <TermName>RTK</TermName>
+  <TermDefinition>
+    <DefinitionText>A member of a group of proteins called tyrosine kinases that are found on the surface of cells. RTKs play an important role in many cell functions, including cell-to-cell communication and cell division, maturation, movement, metabolism, and survival. 
+Sometimes, the genes that make RTKs have mutations (changes) that cause RTKs to be overactive or be found in higher-than-normal amounts. This may cause cancer cells to grow. Drugs that block the mutant RTKs are being used to treat some types of cancer. Also called receptor tyrosine kinase.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>RTK</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Miembro de un grupo de proteínas llamadas tirosina–cinasas que se encuentran en la superficie de las células. Este tipo de proteínas receptoras participan en muchas funciones celulares importantes, como la comunicación entre células y la división, la maduración, el movimiento, el metabolismo y la supervivencia celular. 
+Algunas veces, los genes que producen los receptores tirosina–cinasa (RTK) presentan mutaciones (cambios) que hacen que los receptores sean muy activos o que se encuentren en cantidades superiores a las normales. Es posible que esto provoque la multiplicación de células cancerosas. Los medicamentos que bloquean estos receptores mutados se utilizan para el tratamiento de algunos tipos de cáncer. También se llama receptor tirosina–cinasa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-03-15</DateFirstPublished>
+</GlossaryTerm>

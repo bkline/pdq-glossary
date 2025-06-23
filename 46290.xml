@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046290"><TermName>medical oncologist</TermName><TermPronunciation>(MEH-dih-kul on-KAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in diagnosing and treating cancer in adults using chemotherapy, hormonal therapy, biological therapy, and targeted therapy. A medical oncologist often is the main health care provider for someone who has cancer. A medical oncologist also gives supportive care and may coordinate treatment given by other specialists.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medical oncologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707979" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oncólogo médico&quot;" language="es" id="_4"/><SpanishTermName>oncólogo médico</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento del cáncer en adultos mediante quimioterapia, terapia hormonal, terapia biológica y terapia dirigida. A menudo es el principal proveedor de atención de un paciente con cáncer, brinda cuidados médicos de apoyo y coordina el tratamiento  recomendado por otros especialistas. También se llama cancerólogo y oncólogo clínico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-07-19</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment">PDQ® Cancer Information Summaries: Adult Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/pdq/sumarios-de-informacion/tratamiento-adultos">Sumarios del PDQ® de información sobre el cáncer: Tratamiento en adultos</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046290">
+  <TermName>medical oncologist</TermName>
+  <TermPronunciation>(MEH-dih-kul on-KAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in diagnosing and treating cancer in adults using chemotherapy, hormonal therapy, biological therapy, and targeted therapy. A medical oncologist often is the main health care provider for someone who has cancer. A medical oncologist also gives supportive care and may coordinate treatment given by other specialists.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;medical oncologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707979" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;oncólogo médico&quot;" language="es" id="_4"/>
+  <SpanishTermName>oncólogo médico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento del cáncer en adultos mediante quimioterapia, terapia hormonal, terapia biológica y terapia dirigida. A menudo es el principal proveedor de atención de un paciente con cáncer, brinda cuidados médicos de apoyo y coordina el tratamiento  recomendado por otros especialistas. También se llama cancerólogo y oncólogo clínico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-07-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment">PDQ® Cancer Information Summaries: Adult Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/pdq/sumarios-de-informacion/tratamiento-adultos">Sumarios del PDQ® de información sobre el cáncer: Tratamiento en adultos</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000803193"><TermName>reproductive history</TermName><TermPronunciation>(REE-proh-DUK-tiv HIH-stor-ee)</TermPronunciation><TermDefinition><DefinitionText>A collection of information about a woman’s health related to reproduction (childbearing). A reproductive history may include information about menstrual periods, the use of birth control, pregnancies, breastfeeding, and menopause. It may also include information about reproductive tract problems, fertility issues, and problems during childbirth. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;reproductive history&quot;" language="en" id="_5"/><MediaLink ref="CDR0000805254" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antecedentes obstétricos&quot;" language="es" id="_6"/><SpanishTermName>antecedentes obstétricos</SpanishTermName><SpanishTermDefinition><DefinitionText>Recopilación de información sobre la salud reproductiva de una mujer. Estos antecedentes incluyen, entre otros, información sobre los periodos menstruales, el uso de anticonceptivos, los embarazos, la lactancia y la menopausia. Además, a veces incluye información sobre las afecciones del aparato reproductor, los problemas reproductivos y las complicaciones durante el parto. También se llama antecedentes reproductivos e historia obstétrica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/reproductive-history-fact-sheet">Reproductive History and Cancer Risk</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-antecedentes-reproduccion">Antecedentes de reproducción y riesgo de cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803193">
+  <TermName>reproductive history</TermName>
+  <TermPronunciation>(REE-proh-DUK-tiv HIH-stor-ee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A collection of information about a woman’s health related to reproduction (childbearing). A reproductive history may include information about menstrual periods, the use of birth control, pregnancies, breastfeeding, and menopause. It may also include information about reproductive tract problems, fertility issues, and problems during childbirth. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805253" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;reproductive history&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000805254" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antecedentes obstétricos&quot;" language="es" id="_6"/>
+  <SpanishTermName>antecedentes obstétricos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Recopilación de información sobre la salud reproductiva de una mujer. Estos antecedentes incluyen, entre otros, información sobre los periodos menstruales, el uso de anticonceptivos, los embarazos, la lactancia y la menopausia. Además, a veces incluye información sobre las afecciones del aparato reproductor, los problemas reproductivos y las complicaciones durante el parto. También se llama antecedentes reproductivos e historia obstétrica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/reproductive-history-fact-sheet">Reproductive History and Cancer Risk</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-antecedentes-reproduccion">Antecedentes de reproducción y riesgo de cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

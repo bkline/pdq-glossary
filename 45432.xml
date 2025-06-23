@@ -1,3 +1,24 @@
-<GlossaryTerm id="CDR0000045432"><TermName>granisetron</TermName><TermPronunciation>(gra-NIH-seh-tron)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs in adults to prevent nausea and vomiting caused by chemotherapy. Granisetron blocks the action of a chemical called serotonin, which binds to certain nerves and may trigger nausea and vomiting.  Blocking serotonin may help lessen nausea and vomiting. Granisetron is a type of antiemetic and a type of serotonin receptor antagonist. Also called Sancuso and Sustol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;granisetron&quot;" language="en" id="_5"/><MediaLink ref="CDR0000705457" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;granisetrón&quot;" language="es" id="_4"/><SpanishTermName>granisetrón</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos en adultos para prevenir las
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045432">
+  <TermName>granisetron</TermName>
+  <TermPronunciation>(gra-NIH-seh-tron)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs in adults to prevent nausea and vomiting caused by chemotherapy. Granisetron blocks the action of a chemical called serotonin, which binds to certain nerves and may trigger nausea and vomiting.  Blocking serotonin may help lessen nausea and vomiting. Granisetron is a type of antiemetic and a type of serotonin receptor antagonist. Also called Sancuso and Sustol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;granisetron&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000705457" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;granisetrón&quot;" language="es" id="_4"/>
+  <SpanishTermName>granisetrón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos en adultos para prevenir las
 náuseas y los vómitos que causa la quimioterapia. El granisetrón
-bloquea la acción de la sustancia química serotonina, que se une a ciertos nervios y quizás provoque náuseas y vómitos. Es posible que el bloqueo de la serotonina ayude a disminuir las náuseas y los vómitos. El granisetrón es un tipo de antagonista del receptor de serotonina y un antiemético. También se llama Sancuso y Sustol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000794042" url="/about-cancer/treatment/drugs/granisetron">Granisetron</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+bloquea la acción de la sustancia química serotonina, que se une a ciertos nervios y quizás provoque náuseas y vómitos. Es posible que el bloqueo de la serotonina ayude a disminuir las náuseas y los vómitos. El granisetrón es un tipo de antagonista del receptor de serotonina y un antiemético. También se llama Sancuso y Sustol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000794042" url="/about-cancer/treatment/drugs/granisetron">Granisetron</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

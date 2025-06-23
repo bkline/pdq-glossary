@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000813555"><TermName>hyperdiploid</TermName><TermPronunciation>(HY-per-DIP-loyd)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe cells that have a higher-than-normal amount of DNA, such as having more than the usual number of chromosomes. Most human cells, except for egg and sperm cells, normally contain 46 chromosomes (23 pairs) in each cell. Some types of cancer cells, such as neuroblastoma cells or leukemia cells, may be hyperdiploid. Knowing whether cancer cells are hyperdiploid may help plan treatment and estimate prognosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815647" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hyperdiploid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000815648" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hiperdiploide&quot;" language="es" id="_4"/><SpanishTermName>hiperdiploide</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para describir células que tienen una cantidad de ADN más alta de la normal, como un número de cromosomas superior al habitual. La mayoría de las células humanas, excepto los óvulos y los espermatozoides, por lo general tienen un total de 46 (23 pares) cromosomas en cada célula. Es posible que algunos tipos de células cancerosas, como las del neuroblastoma o la leucemia, sean hiperdiploides. Saber si las células cancerosas son hiperdiploides quizás ayude a planificar el tratamiento y determinar el pronóstico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813555">
+  <TermName>hyperdiploid</TermName>
+  <TermPronunciation>(HY-per-DIP-loyd)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe cells that have a higher-than-normal amount of DNA, such as having more than the usual number of chromosomes. Most human cells, except for egg and sperm cells, normally contain 46 chromosomes (23 pairs) in each cell. Some types of cancer cells, such as neuroblastoma cells or leukemia cells, may be hyperdiploid. Knowing whether cancer cells are hyperdiploid may help plan treatment and estimate prognosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815647" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hyperdiploid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000815648" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hiperdiploide&quot;" language="es" id="_4"/>
+  <SpanishTermName>hiperdiploide</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para describir células que tienen una cantidad de ADN más alta de la normal, como un número de cromosomas superior al habitual. La mayoría de las células humanas, excepto los óvulos y los espermatozoides, por lo general tienen un total de 46 (23 pares) cromosomas en cada célula. Es posible que algunos tipos de células cancerosas, como las del neuroblastoma o la leucemia, sean hiperdiploides. Saber si las células cancerosas son hiperdiploides quizás ayude a planificar el tratamiento y determinar el pronóstico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-20</DateFirstPublished>
+</GlossaryTerm>

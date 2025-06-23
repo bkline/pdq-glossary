@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000806201"><TermName>socioeconomic status</TermName><TermPronunciation>(SOH-see-oh-EH-kuh-NAH-mik STA-tus)</TermPronunciation><TermDefinition><DefinitionText>A way of describing people based on their education, income, and type of job. Socioeconomic status is usually described as low, medium, and high. People with a lower socioeconomic status usually have less access to financial, educational, social, and health resources than those with a higher socioeconomic status. As a result, they are more likely to be in poor health and have chronic health conditions and disabilities. Also called SES.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808492" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;socioeconomic status&quot;" language="en" id="_5"/><MediaLink ref="CDR0000808493" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nivel socioeconómico&quot;" language="es" id="_6"/><SpanishTermName>nivel socioeconómico</SpanishTermName><SpanishTermDefinition><DefinitionText>Descripción de la situación de una persona según la educación, los ingresos y el tipo de trabajo que tiene. El nivel socioeconómico por lo general se define como bajo, medio o alto. Las personas con un nivel socioeconómico bajo, a menudo, tienen menos acceso a recursos financieros, educativos, sociales y de salud que aquellas que tienen un nivel socioeconómico más alto. Por eso, es más probable que estas personas tengan una salud precaria y presenten afecciones crónicas y discapacidades. También se llama estado socioeconómico, estatus socioeconómico y NSE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-01-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806201">
+  <TermName>socioeconomic status</TermName>
+  <TermPronunciation>(SOH-see-oh-EH-kuh-NAH-mik STA-tus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A way of describing people based on their education, income, and type of job. Socioeconomic status is usually described as low, medium, and high. People with a lower socioeconomic status usually have less access to financial, educational, social, and health resources than those with a higher socioeconomic status. As a result, they are more likely to be in poor health and have chronic health conditions and disabilities. Also called SES.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808492" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;socioeconomic status&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000808493" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nivel socioeconómico&quot;" language="es" id="_6"/>
+  <SpanishTermName>nivel socioeconómico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Descripción de la situación de una persona según la educación, los ingresos y el tipo de trabajo que tiene. El nivel socioeconómico por lo general se define como bajo, medio o alto. Las personas con un nivel socioeconómico bajo, a menudo, tienen menos acceso a recursos financieros, educativos, sociales y de salud que aquellas que tienen un nivel socioeconómico más alto. Por eso, es más probable que estas personas tengan una salud precaria y presenten afecciones crónicas y discapacidades. También se llama estado socioeconómico, estatus socioeconómico y NSE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-01-03</DateFirstPublished>
+</GlossaryTerm>

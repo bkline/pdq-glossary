@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809731"><TermName>diaphragmatic breathing</TermName><TermPronunciation>(DY-uh-fruh-MA-tik BREE-thing)</TermPronunciation><TermDefinition><DefinitionText>A relaxation technique in which a person focuses on taking slow, deep breaths. Diaphragmatic breathing involves breathing in slowly through the nose and then out through the mouth using the diaphragm (the thin muscle that separates the chest from the abdomen) and abdominal muscles. This helps boost the amount of oxygen in the blood, lowers blood pressure and heart rate, and reduces muscle tension. Diaphragmatic breathing may be used to help relieve stress, pain, and anxiety. Also called abdominal breathing and deep breathing.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diaphragmatic breathing&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811503" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;respiración diafragmática&quot;" language="es" id="_4"/><SpanishTermName>respiración diafragmática</SpanishTermName><SpanishTermDefinition><DefinitionText>Técnica de relajación en la que una persona se concentra en respirar de forma lenta y profunda. La respiración diafragmática consiste en inspirar lentamente por la nariz y luego espirar por la boca utilizando el diafragma (músculo delgado que separa el tórax del abdomen) y los músculos abdominales. Esto ayuda a aumentar la cantidad de oxígeno en la sangre, disminuye la presión arterial y la frecuencia cardíaca, y reduce la tensión muscular. La respiración diafragmática puede utilizarse para ayudar a aliviar el estrés, el dolor y la ansiedad. También se llama respiración abdominal y respiración profunda.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809731">
+  <TermName>diaphragmatic breathing</TermName>
+  <TermPronunciation>(DY-uh-fruh-MA-tik BREE-thing)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A relaxation technique in which a person focuses on taking slow, deep breaths. Diaphragmatic breathing involves breathing in slowly through the nose and then out through the mouth using the diaphragm (the thin muscle that separates the chest from the abdomen) and abdominal muscles. This helps boost the amount of oxygen in the blood, lowers blood pressure and heart rate, and reduces muscle tension. Diaphragmatic breathing may be used to help relieve stress, pain, and anxiety. Also called abdominal breathing and deep breathing.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diaphragmatic breathing&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811503" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;respiración diafragmática&quot;" language="es" id="_4"/>
+  <SpanishTermName>respiración diafragmática</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Técnica de relajación en la que una persona se concentra en respirar de forma lenta y profunda. La respiración diafragmática consiste en inspirar lentamente por la nariz y luego espirar por la boca utilizando el diafragma (músculo delgado que separa el tórax del abdomen) y los músculos abdominales. Esto ayuda a aumentar la cantidad de oxígeno en la sangre, disminuye la presión arterial y la frecuencia cardíaca, y reduce la tensión muscular. La respiración diafragmática puede utilizarse para ayudar a aliviar el estrés, el dolor y la ansiedad. También se llama respiración abdominal y respiración profunda.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-26</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000409750"><TermName>lymphoplasmacytic lymphoma</TermName><TermPronunciation>(LIM-foh-plaz-muh-SIH-tik lim-FOH-muh)</TermPronunciation><TermDefinition><DefinitionText>An indolent (slow-growing) type of non-Hodgkin lymphoma marked by abnormal levels of IgM antibodies in the blood and an enlarged liver, spleen, or lymph nodes. Also called Waldenström macroglobulinemia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713174" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphoplasmacytic lymphoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713173" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma linfoplasmocítico&quot;" language="es" id="_4"/><SpanishTermName>linfoma linfoplasmocítico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de linfoma no Hodgkin de crecimiento lento (indolente) que se caracteriza por concentraciones anormales de anticuerpos IgM en la sangre y agrandamiento del hígado, el bazo o los ganglios linfáticos. También se llama linfoma linfoplasmacítico, linfoma linfoplasmocitario y macroglobulinemia de Waldenström.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-12-22</DateFirstPublished><DateLastModified>2007-09-21</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000409750">
+  <TermName>lymphoplasmacytic lymphoma</TermName>
+  <TermPronunciation>(LIM-foh-plaz-muh-SIH-tik lim-FOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An indolent (slow-growing) type of non-Hodgkin lymphoma marked by abnormal levels of IgM antibodies in the blood and an enlarged liver, spleen, or lymph nodes. Also called Waldenström macroglobulinemia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713174" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lymphoplasmacytic lymphoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713173" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma linfoplasmocítico&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfoma linfoplasmocítico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de linfoma no Hodgkin de crecimiento lento (indolente) que se caracteriza por concentraciones anormales de anticuerpos IgM en la sangre y agrandamiento del hígado, el bazo o los ganglios linfáticos. También se llama linfoma linfoplasmacítico, linfoma linfoplasmocitario y macroglobulinemia de Waldenström.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-12-22</DateFirstPublished>
+  <DateLastModified>2007-09-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/lymphoma">Lymphoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/linfoma">Linfoma</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

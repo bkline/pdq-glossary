@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000460158"><TermName>kindred</TermName><TermPronunciation>(KIN-dred)</TermPronunciation><TermDefinition><DefinitionText>An extended family.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736952" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;kindred&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804224" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familia extensa&quot;" language="es" id="_4"/><SpanishTermName>familia extensa</SpanishTermName><SpanishTermDefinition><DefinitionText>Familia ampliada. También se llama parentela y parientes.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460158">
+  <TermName>kindred</TermName>
+  <TermPronunciation>(KIN-dred)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An extended family.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736952" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;kindred&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804224" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familia extensa&quot;" language="es" id="_4"/>
+  <SpanishTermName>familia extensa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Familia ampliada. También se llama parentela y parientes.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

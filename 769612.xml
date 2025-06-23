@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000769612"><TermName>lenvatinib mesylate</TermName><TermPronunciation>(len-VA-tih-nib MEH-zih-layt)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of endometrial cancer, renal cell carcinoma (a type of kidney cancer), hepatocellular carcinoma (a type of liver cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. Lenvatinib mesylate blocks certain proteins, which may help keep cancer cells from growing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Lenvatinib mesylate is a type of tyrosine kinase inhibitor and a type of antiangiogenesis agent. Also called Lenvima.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000771226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lenvatinib mesylate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000771225" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mesilato de lenvatinib&quot;" language="es" id="_4"/><SpanishTermName>mesilato de lenvatinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se utiliza solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de endometrio, carcinoma de células renales (tipo de cáncer de riñón), carcinoma hepatocelular (tipo de cáncer de hígado) y cáncer de tiroides. También está en estudio para el tratamiento de otros tipos de cáncer. El mesilato de lenvatinib bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. El mesilato de lenvatinib es un tipo de antiangiogénico y de inhibidor de tirosina–cinasas. También se llama Lenvima.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-02-26</DateFirstPublished><DateLastModified>2021-07-22</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000769403" url="/about-cancer/treatment/drugs/lenvatinibmesylate">Lenvatinib Mesylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000769612">
+  <TermName>lenvatinib mesylate</TermName>
+  <TermPronunciation>(len-VA-tih-nib MEH-zih-layt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of endometrial cancer, renal cell carcinoma (a type of kidney cancer), hepatocellular carcinoma (a type of liver cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. Lenvatinib mesylate blocks certain proteins, which may help keep cancer cells from growing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Lenvatinib mesylate is a type of tyrosine kinase inhibitor and a type of antiangiogenesis agent. Also called Lenvima.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000771226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;lenvatinib mesylate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000771225" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mesilato de lenvatinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>mesilato de lenvatinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se utiliza solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de endometrio, carcinoma de células renales (tipo de cáncer de riñón), carcinoma hepatocelular (tipo de cáncer de hígado) y cáncer de tiroides. También está en estudio para el tratamiento de otros tipos de cáncer. El mesilato de lenvatinib bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. El mesilato de lenvatinib es un tipo de antiangiogénico y de inhibidor de tirosina–cinasas. También se llama Lenvima.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-02-26</DateFirstPublished>
+  <DateLastModified>2021-07-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000769403" url="/about-cancer/treatment/drugs/lenvatinibmesylate">Lenvatinib Mesylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

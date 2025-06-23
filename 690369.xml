@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000690369"><TermName>Halaven</TermName><TermPronunciation>(HA-lih-ven)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of breast cancer and liposarcoma (a type of soft tissue sarcoma) that have already been treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer.  Halaven blocks cell growth by stopping cell division and may kill cancer cells. It is a type of antimicrotubule agent. Also called E7389 and eribulin mesylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727544" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Halaven&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727543" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Halaven&quot;" language="es" id="_4"/><SpanishTermName>Halaven</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de mama y liposarcoma (tipo de sarcoma de tejido blando) que se trató con otros medicamentos anticancerosos. También está en estudio para el tratamiento de otros tipos de cáncer. Halaven bloquea la multiplicación de las células al impedir la división celular y es posible que destruya células cancerosas. Es un tipo de antimicrotúbulo. También se llama E7389 y mesilato de eribulina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-12-10</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000689690" url="/about-cancer/treatment/drugs/eribulinmesylate">Eribulin Mesylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000690369">
+  <TermName>Halaven</TermName>
+  <TermPronunciation>(HA-lih-ven)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of breast cancer and liposarcoma (a type of soft tissue sarcoma) that have already been treated with other anticancer drugs. It is also being studied in the treatment of other types of cancer.  Halaven blocks cell growth by stopping cell division and may kill cancer cells. It is a type of antimicrotubule agent. Also called E7389 and eribulin mesylate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727544" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Halaven&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727543" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Halaven&quot;" language="es" id="_4"/>
+  <SpanishTermName>Halaven</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de mama y liposarcoma (tipo de sarcoma de tejido blando) que se trató con otros medicamentos anticancerosos. También está en estudio para el tratamiento de otros tipos de cáncer. Halaven bloquea la multiplicación de las células al impedir la división celular y es posible que destruya células cancerosas. Es un tipo de antimicrotúbulo. También se llama E7389 y mesilato de eribulina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-12-10</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000689690" url="/about-cancer/treatment/drugs/eribulinmesylate">Eribulin Mesylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

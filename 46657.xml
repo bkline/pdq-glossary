@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000046657"><TermName>tumor suppressor gene</TermName><TermPronunciation>(TOO-mer suh-PREH-ser jeen)</TermPronunciation><TermDefinition><DefinitionText>A type of gene that makes a protein called a tumor suppressor protein that helps control cell growth. Mutations (changes in DNA) in tumor suppressor genes may lead to cancer. Also called antioncogene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A type of gene that regulates cell growth. When a tumor suppressor gene is mutated, uncontrolled cell growth may occur. This may contribute to the development of cancer. Also called antioncogene.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000709881" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor suppressor gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709882" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen supresor de tumores&quot;" language="es" id="_4"/><SpanishTermName>gen supresor de tumores</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de gen que produce una proteína supresora de tumores que ayuda a controlar la multiplicación celular. Las mutaciones (cambios en el ADN) en  genes supresores de tumores pueden conducir al cáncer. También se llama antioncogén.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Tipo de gen regulador de la multiplicación celular. Cuando se presenta una mutación en un gen supresor de tumores es posible que se produzca una multiplicación celular incontrolada que contribuye a la formación de un cáncer. También se llama antioncogén.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateLastModified>2008-06-15</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Tumor-Suppressor-Gene">Tumor Suppressor Gene (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Gen-supresor-tumoral">Gen supresor tumoral (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046657">
+  <TermName>tumor suppressor gene</TermName>
+  <TermPronunciation>(TOO-mer suh-PREH-ser jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of gene that makes a protein called a tumor suppressor protein that helps control cell growth. Mutations (changes in DNA) in tumor suppressor genes may lead to cancer. Also called antioncogene.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A type of gene that regulates cell growth. When a tumor suppressor gene is mutated, uncontrolled cell growth may occur. This may contribute to the development of cancer. Also called antioncogene.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709881" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor suppressor gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709882" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen supresor de tumores&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen supresor de tumores</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de gen que produce una proteína supresora de tumores que ayuda a controlar la multiplicación celular. Las mutaciones (cambios en el ADN) en  genes supresores de tumores pueden conducir al cáncer. También se llama antioncogén.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de gen regulador de la multiplicación celular. Cuando se presenta una mutación en un gen supresor de tumores es posible que se produzca una multiplicación celular incontrolada que contribuye a la formación de un cáncer. También se llama antioncogén.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2008-06-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Tumor-Suppressor-Gene">Tumor Suppressor Gene (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Gen-supresor-tumoral">Gen supresor tumoral (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

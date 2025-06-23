@@ -1,5 +1,24 @@
-<GlossaryTerm id="CDR0000386201"><TermName>gene expression profile</TermName><TermPronunciation>(jeen ek-SPREH-shun PROH-file)</TermPronunciation><TermDefinition><DefinitionText>Information about all of the genes in a cell or tissue that are making messenger RNA. Messenger RNA molecules carry the genetic information that a cell needs to make proteins. A gene expression profile may be used to help diagnose a disease or condition, such as cancer. It may also be used to help plan treatment, find out how well treatment is working, make a prognosis, or predict whether cancer will come back or spread to other parts of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713178" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gene expression profile&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713177" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfil de expresión génica&quot;" language="es" id="_4"/><SpanishTermName>perfil de expresión génica</SpanishTermName><SpanishTermDefinition><DefinitionText>Información sobre todos los genes de una célula o tejido
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000386201">
+  <TermName>gene expression profile</TermName>
+  <TermPronunciation>(jeen ek-SPREH-shun PROH-file)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Information about all of the genes in a cell or tissue that are making messenger RNA. Messenger RNA molecules carry the genetic information that a cell needs to make proteins. A gene expression profile may be used to help diagnose a disease or condition, such as cancer. It may also be used to help plan treatment, find out how well treatment is working, make a prognosis, or predict whether cancer will come back or spread to other parts of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713178" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gene expression profile&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713177" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfil de expresión génica&quot;" language="es" id="_4"/>
+  <SpanishTermName>perfil de expresión génica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Información sobre todos los genes de una célula o tejido
 que producen ARN mensajero. Las moléculas de ARN mensajero
 transportan la información genética que las células necesitan para elaborar
 proteínas. Es posible usar un perfil de expresión génica para
-diagnosticar una enfermedad o afección como el cáncer. Además, en ocasiones se utiliza para ayudar a planificar el tratamiento, determinar cuán eficaz es el mismo, establecer un pronóstico o predecir si el cáncer volverá o se diseminará a otras partes del cuerpo. También se llama perfil de expresión de genes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-08-24</DateFirstPublished><DateLastModified>2022-12-09</DateLastModified></GlossaryTerm>
+diagnosticar una enfermedad o afección como el cáncer. Además, en ocasiones se utiliza para ayudar a planificar el tratamiento, determinar cuán eficaz es el mismo, establecer un pronóstico o predecir si el cáncer volverá o se diseminará a otras partes del cuerpo. También se llama perfil de expresión de genes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-08-24</DateFirstPublished>
+  <DateLastModified>2022-12-09</DateLastModified>
+</GlossaryTerm>

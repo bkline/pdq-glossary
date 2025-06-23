@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000460154"><TermName>germline</TermName><TermPronunciation>(JERM-line)</TermPronunciation><TermDefinition><DefinitionText>The cells from which eggs or sperm (i.e., gametes) are derived.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>The cells that form eggs in females and sperm in males. Germline cells contain the genetic information that is passed down from one generation to the next.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;germline&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804222" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;línea germinal&quot;" language="es" id="_4"/><SpanishTermName>línea germinal</SpanishTermName><SpanishTermDefinition><DefinitionText>Células que dan origen a los óvulos en las mujeres y los espermatozoides  en los hombres. Las células de la línea germinal contienen la información genética que pasa de una generación a la siguiente.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Células que originan los óvulos y los espermatozoides  (es decir, gametos).</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460154">
+  <TermName>germline</TermName>
+  <TermPronunciation>(JERM-line)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The cells from which eggs or sperm (i.e., gametes) are derived.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The cells that form eggs in females and sperm in males. Germline cells contain the genetic information that is passed down from one generation to the next.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;germline&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804222" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;línea germinal&quot;" language="es" id="_4"/>
+  <SpanishTermName>línea germinal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Células que dan origen a los óvulos en las mujeres y los espermatozoides  en los hombres. Las células de la línea germinal contienen la información genética que pasa de una generación a la siguiente.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Células que originan los óvulos y los espermatozoides  (es decir, gametos).</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

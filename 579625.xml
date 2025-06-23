@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000579625"><TermName>Provenge</TermName><TermPronunciation>(PROH-venj)</TermPronunciation><TermDefinition><DefinitionText>A vaccine used to treat prostate cancer that has spread to other parts of the body. It is used in patients who have few or no symptoms and whose cancer is castration resistant (has not responded to treatments that lower testosterone levels). Provenge is made from a patient’s immune cells that have been treated in the laboratory with GM-CSF (a type of growth factor) and a protein found on prostate cancer cells. Provenge may help the immune system kill prostate cancer cells. It is a type of autologous cellular immunotherapy and a type of dendritic cell vaccine. Also called APC 8015 and sipuleucel-T.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720447" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Provenge&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720446" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Provenge&quot;" language="es" id="_4"/><SpanishTermName>Provenge</SpanishTermName><SpanishTermDefinition><DefinitionText>Vacuna que se usa para  el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo. Se utiliza en pacientes con pocos síntomas o que no tienen síntomas, y cuyo cáncer es resistente a la castración (no respondió a otros tratamientos que reducen las concentraciones de testosterona). Provenge se elabora con células del sistema inmunitario de un paciente tratadas en el laboratorio con GM-CSF (tipo de factor de crecimiento) y una proteína que se encuentra en las células del cáncer de próstata. Es posible que Provenge ayude al sistema inmunitario a destruir las células del cáncer de próstata.  Es un tipo de inmunoterapia celular autógena y de vacuna de células dendríticas. También se llama APC 8015 y sipuleucel-T.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-30</DateFirstPublished><DateLastModified>2021-06-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000672821" url="/about-cancer/treatment/drugs/sipuleucel-T">Sipuleucel-T</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000579625">
+  <TermName>Provenge</TermName>
+  <TermPronunciation>(PROH-venj)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A vaccine used to treat prostate cancer that has spread to other parts of the body. It is used in patients who have few or no symptoms and whose cancer is castration resistant (has not responded to treatments that lower testosterone levels). Provenge is made from a patient’s immune cells that have been treated in the laboratory with GM-CSF (a type of growth factor) and a protein found on prostate cancer cells. Provenge may help the immune system kill prostate cancer cells. It is a type of autologous cellular immunotherapy and a type of dendritic cell vaccine. Also called APC 8015 and sipuleucel-T.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720447" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Provenge&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720446" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Provenge&quot;" language="es" id="_4"/>
+  <SpanishTermName>Provenge</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Vacuna que se usa para  el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo. Se utiliza en pacientes con pocos síntomas o que no tienen síntomas, y cuyo cáncer es resistente a la castración (no respondió a otros tratamientos que reducen las concentraciones de testosterona). Provenge se elabora con células del sistema inmunitario de un paciente tratadas en el laboratorio con GM-CSF (tipo de factor de crecimiento) y una proteína que se encuentra en las células del cáncer de próstata. Es posible que Provenge ayude al sistema inmunitario a destruir las células del cáncer de próstata.  Es un tipo de inmunoterapia celular autógena y de vacuna de células dendríticas. También se llama APC 8015 y sipuleucel-T.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-30</DateFirstPublished>
+  <DateLastModified>2021-06-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000672821" url="/about-cancer/treatment/drugs/sipuleucel-T">Sipuleucel-T</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

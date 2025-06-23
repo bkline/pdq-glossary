@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045844"><TermName>polyp</TermName><TermPronunciation>(PAH-lip)</TermPronunciation><TermDefinition><DefinitionText>A growth that protrudes from a mucous membrane.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707326" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;polyp&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pólipo&quot;" language="es" id="_4"/><SpanishTermName>pólipo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor o  bulto que sobresale de una membrana mucosa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2006-10-02</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045844">
+  <TermName>polyp</TermName>
+  <TermPronunciation>(PAH-lip)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A growth that protrudes from a mucous membrane.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707326" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;polyp&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707327" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pólipo&quot;" language="es" id="_4"/>
+  <SpanishTermName>pólipo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor o  bulto que sobresale de una membrana mucosa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2006-10-02</DateLastModified>
+</GlossaryTerm>

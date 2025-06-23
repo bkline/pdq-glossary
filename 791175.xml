@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000791175"><TermName>microenvironment</TermName><TermPronunciation>(MY-kroh-en-VY-run-ment)</TermPronunciation><TermDefinition><DefinitionText>In biology, the cells, molecules, and structures (such as blood vessels) that surround and support other cells and tissues. Abnormal cells, such as cancer cells, can change their microenvironment. Changes in the microenvironment can affect how cancer cells grow and spread. Studying the microenvironment may help researchers understand how cancer cells form and find new ways to treat cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792181" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microenvironment&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792180" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microambiente&quot;" language="es" id="_4"/><SpanishTermName>microambiente</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la biología, son las células, moléculas y estructuras (como los vasos sanguíneos) que rodean y sostienen otras células y tejidos. Las células anormales, como las cancerosas, pueden cambiar su microambiente. Los cambios en el microambiente influyen en el modo en que las células tumorales se multiplican y se diseminan. Es posible que estudiar el microambiente ayude a los investigadores a entender cómo se forman las células cancerosas y a encontrar nuevas maneras de tratar el cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-12-18</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000561725" UseWith="en" audience="Patients">tumor microenvironment</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000561725" UseWith="es" audience="Patients">microambiente tumoral</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791175">
+  <TermName>microenvironment</TermName>
+  <TermPronunciation>(MY-kroh-en-VY-run-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In biology, the cells, molecules, and structures (such as blood vessels) that surround and support other cells and tissues. Abnormal cells, such as cancer cells, can change their microenvironment. Changes in the microenvironment can affect how cancer cells grow and spread. Studying the microenvironment may help researchers understand how cancer cells form and find new ways to treat cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792181" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microenvironment&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792180" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;microambiente&quot;" language="es" id="_4"/>
+  <SpanishTermName>microambiente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la biología, son las células, moléculas y estructuras (como los vasos sanguíneos) que rodean y sostienen otras células y tejidos. Las células anormales, como las cancerosas, pueden cambiar su microambiente. Los cambios en el microambiente influyen en el modo en que las células tumorales se multiplican y se diseminan. Es posible que estudiar el microambiente ayude a los investigadores a entender cómo se forman las células cancerosas y a encontrar nuevas maneras de tratar el cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-12-18</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000561725" UseWith="en" audience="Patients">tumor microenvironment</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000561725" UseWith="es" audience="Patients">microambiente tumoral</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

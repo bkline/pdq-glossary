@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045980"><TermName>node-negative</TermName><TermPronunciation>(node-NEH-guh-tiv)</TermPronunciation><TermDefinition><DefinitionText>Cancer that has not spread to the lymph nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731332" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;node-negative&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ganglio linfático negativo&quot;" language="es" id="_4"/><SpanishTermName>ganglio linfático negativo</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que no se ha diseminado hasta los ganglios linfáticos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045980">
+  <TermName>node-negative</TermName>
+  <TermPronunciation>(node-NEH-guh-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that has not spread to the lymph nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731332" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;node-negative&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731333" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ganglio linfático negativo&quot;" language="es" id="_4"/>
+  <SpanishTermName>ganglio linfático negativo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que no se ha diseminado hasta los ganglios linfáticos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

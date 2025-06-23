@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000794132"><TermName>platinum sensitive cancer</TermName><TermPronunciation>(PLA-tih-num SEN-sih-tiv KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that responds to treatment with anticancer drugs that contain the metal platinum, such as cisplatin and carboplatin. Some cancers that respond to treatment but then come back after a certain period may also be considered platinum sensitive. For example, ovarian cancer that comes back 6 or more months after platinum-based treatment is considered platinum sensitive. Knowing whether cancer is platinum sensitive may help plan further treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000796114" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;platinum sensitive cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000796115" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer sensible a los derivados del platino&quot;" language="es" id="_4"/><SpanishTermName>cáncer sensible a los derivados del platino</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que responde al tratamiento con medicamentos contra el cáncer que contienen el metal platino, como el cisplatino y el carboplatino. Algunos cánceres que responden al tratamiento pero vuelven después de determinado período también se consideran sensibles a los derivados del platino. Por ejemplo, el cáncer de ovario que vuelve 6 meses o más después de terminado el tratamiento con derivados del platino, se considera que es sensible a estos medicamentos. Cuando se sabe que el cáncer es sensible a los derivados del platino, esto ayuda a planificar el tratamiento posterior.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-08-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794132">
+  <TermName>platinum sensitive cancer</TermName>
+  <TermPronunciation>(PLA-tih-num SEN-sih-tiv KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that responds to treatment with anticancer drugs that contain the metal platinum, such as cisplatin and carboplatin. Some cancers that respond to treatment but then come back after a certain period may also be considered platinum sensitive. For example, ovarian cancer that comes back 6 or more months after platinum-based treatment is considered platinum sensitive. Knowing whether cancer is platinum sensitive may help plan further treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000796114" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;platinum sensitive cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000796115" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer sensible a los derivados del platino&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer sensible a los derivados del platino</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que responde al tratamiento con medicamentos contra el cáncer que contienen el metal platino, como el cisplatino y el carboplatino. Algunos cánceres que responden al tratamiento pero vuelven después de determinado período también se consideran sensibles a los derivados del platino. Por ejemplo, el cáncer de ovario que vuelve 6 meses o más después de terminado el tratamiento con derivados del platino, se considera que es sensible a estos medicamentos. Cuando se sabe que el cáncer es sensible a los derivados del platino, esto ayuda a planificar el tratamiento posterior.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-08-17</DateFirstPublished>
+</GlossaryTerm>

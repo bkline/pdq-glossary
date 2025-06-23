@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000695185"><TermName>testicular germ cell tumor</TermName><TermPronunciation>(tes-TIH-kyoo-ler jerm sel TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A type of tumor that forms in a testicle from germ cells (cells that make sperm). Two main types of testicular germ cell tumors are seminomas and nonseminomas. Seminomas grow and spread slowly and are sensitive to radiation therapy. Nonseminomas grow and spread more quickly than seminomas. There are several different types of nonseminomas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733360" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;testicular germ cell tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733359" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de células germinativas de testículo&quot;" language="es" id="_4"/><SpanishTermName>tumor de células germinativas de testículo</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tumor que se forma en un testículo a partir de células germinativas (células germinales que se convierten en espermatozoides). Hay dos tipos principales de tumores de células germinativas: tumores seminomatosos (seminomas) y tumores no seminomatosos (no seminomas). Los seminomas crecen y se diseminan de forma más lenta y son sensibles a la radioterapia. Los tumores no seminomatosos crecen y se diseminan más rápido que los seminomas. Hay varios tipos de tumores no seminomatosos. También se llama tumor de células germinales de testículo, tumor germinal de testículo y tumor testicular de células germinales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-04-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000695185">
+  <TermName>testicular germ cell tumor</TermName>
+  <TermPronunciation>(tes-TIH-kyoo-ler jerm sel TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of tumor that forms in a testicle from germ cells (cells that make sperm). Two main types of testicular germ cell tumors are seminomas and nonseminomas. Seminomas grow and spread slowly and are sensitive to radiation therapy. Nonseminomas grow and spread more quickly than seminomas. There are several different types of nonseminomas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733360" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;testicular germ cell tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733359" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de células germinativas de testículo&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor de células germinativas de testículo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tumor que se forma en un testículo a partir de células germinativas (células germinales que se convierten en espermatozoides). Hay dos tipos principales de tumores de células germinativas: tumores seminomatosos (seminomas) y tumores no seminomatosos (no seminomas). Los seminomas crecen y se diseminan de forma más lenta y son sensibles a la radioterapia. Los tumores no seminomatosos crecen y se diseminan más rápido que los seminomas. Hay varios tipos de tumores no seminomatosos. También se llama tumor de células germinales de testículo, tumor germinal de testículo y tumor testicular de células germinales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-04-13</DateFirstPublished>
+</GlossaryTerm>

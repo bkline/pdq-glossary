@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000781155"><TermName>Tecentriq</TermName><TermPronunciation>(teh-SEN-trik)</TermPronunciation><TermDefinition><DefinitionText>A drug that
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781155">
+  <TermName>Tecentriq</TermName>
+  <TermPronunciation>(teh-SEN-trik)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that
           binds to the protein PD-L1 to help immune cells kill cancer
           cells better and is used to treat different types of
           cancer, including cancers that express PD-L1.
@@ -9,7 +14,15 @@
           types of cancer. Tecentriq may
           block PD-L1 and help the immune system kill cancer cells.
           It is a type of monoclonal antibody and a type of immune
-          checkpoint inhibitor. Also called atezolizumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782461" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tecentriq&quot;" language="en" id="_3"/><MediaLink ref="CDR0000782460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tecentriq&quot;" language="es" id="_4"/><SpanishTermName>Tecentriq</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se une a la
+          checkpoint inhibitor. Also called atezolizumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782461" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tecentriq&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000782460" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tecentriq&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tecentriq</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se une a la
 proteína PD-L1 para ayudar a las células inmunitarias a
 destruir más células cancerosas, y que se usa para el
 tratamiento de diferentes tipos de cáncer. Entre
@@ -21,4 +34,15 @@ estudio para el tratamiento de otros tipos de cáncer. Es
 posible que Tecentriq bloquee PD-L1 y ayude
 al sistema inmunitario a destruir células cancerosas. Es un
 tipo de anticuerpo monoclonal y de inhibidor de
-puntos de control inmunitario. También se llama atezolizumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-05-19</DateFirstPublished><DateLastModified>2023-01-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000781156" url="/about-cancer/treatment/drugs/atezolizumab">Atezolizumab</RelatedDrugSummaryRef><RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+puntos de control inmunitario. También se llama atezolizumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-05-19</DateFirstPublished>
+  <DateLastModified>2023-01-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000781156" url="/about-cancer/treatment/drugs/atezolizumab">Atezolizumab</RelatedDrugSummaryRef>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

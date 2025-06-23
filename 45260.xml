@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045260"><TermName>dacarbazine</TermName><TermPronunciation>(duh-KAR-buh-zeen)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat Hodgkin lymphoma that did not get better with other anticancer drugs and melanoma that has spread to other parts of the body. It is also being studied in the treatment of other types of cancer. Dacarbazine damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dacarbazine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dacarbazina&quot;" language="es" id="_4"/><SpanishTermName>dacarbazina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del linfoma de Hodgkin que no mejoró con otros medicamentos contra el cáncer, además se usa para el melanoma que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer. La dacarbazina daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-12-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000649947" url="/about-cancer/treatment/drugs/dacarbazine">Dacarbazine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045260">
+  <TermName>dacarbazine</TermName>
+  <TermPronunciation>(duh-KAR-buh-zeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat Hodgkin lymphoma that did not get better with other anticancer drugs and melanoma that has spread to other parts of the body. It is also being studied in the treatment of other types of cancer. Dacarbazine damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dacarbazine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dacarbazina&quot;" language="es" id="_4"/>
+  <SpanishTermName>dacarbazina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del linfoma de Hodgkin que no mejoró con otros medicamentos contra el cáncer, además se usa para el melanoma que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer. La dacarbazina daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-12-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000649947" url="/about-cancer/treatment/drugs/dacarbazine">Dacarbazine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

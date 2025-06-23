@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000809964"><TermName>TDR</TermName><TermDefinition><DefinitionText>A first cousin, great-grandparent, great-aunt, great-uncle, great-niece, great-nephew, great-grandchild, half-aunt, or half-uncle of an individual. Also called third-degree relative.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A way of describing how family members are related to each other when there are two other family members in the blood line between them. Examples of a TDR are a first cousin, great-grandparent, great-aunt, great-uncle, great-niece, great-nephew, great-grandchild, half-aunt, or half-uncle. Also called third-degree relative.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>FTG</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de pariente entre los que se incluyen los primos hermanos, bisabuelos, tíos abuelos, sobrinos nietos, bisnietos, o medio hermanos de ambos sexos de uno de los progenitores de una persona. También se llama familiar de tercer grado.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Forma de describir el vínculo familiar entre dos personas cuando en la línea sanguínea los separan otras dos personas. Algunos ejemplos de FTG son los primos hermanos, los bisabuelos, los tíos abuelos, los sobrinos nietos, los bisnietos, o los  medio hermanos de ambos sexos de uno de los progenitores de una persona. También se llama familiar de tercer grado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809964">
+  <TermName>TDR</TermName>
+  <TermDefinition>
+    <DefinitionText>A first cousin, great-grandparent, great-aunt, great-uncle, great-niece, great-nephew, great-grandchild, half-aunt, or half-uncle of an individual. Also called third-degree relative.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A way of describing how family members are related to each other when there are two other family members in the blood line between them. Examples of a TDR are a first cousin, great-grandparent, great-aunt, great-uncle, great-niece, great-nephew, great-grandchild, half-aunt, or half-uncle. Also called third-degree relative.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>FTG</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de pariente entre los que se incluyen los primos hermanos, bisabuelos, tíos abuelos, sobrinos nietos, bisnietos, o medio hermanos de ambos sexos de uno de los progenitores de una persona. También se llama familiar de tercer grado.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de describir el vínculo familiar entre dos personas cuando en la línea sanguínea los separan otras dos personas. Algunos ejemplos de FTG son los primos hermanos, los bisabuelos, los tíos abuelos, los sobrinos nietos, los bisnietos, o los  medio hermanos de ambos sexos de uno de los progenitores de una persona. También se llama familiar de tercer grado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-15</DateFirstPublished>
+</GlossaryTerm>

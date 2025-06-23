@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045874"><TermName>samarium Sm 153</TermName><TermPronunciation>(suh-MAYR-ee-um ...)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance used to treat  bone cancer and other cancers that have spread to the bone. Samarium Sm 153 is a radioactive form of the element samarium. It collects in bone, where it releases radiation that may kill cancer cells.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707369" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;samarium Sm 153&quot;" language="en" id="_5"/><MediaLink ref="CDR0000707370" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;samario Sm 153&quot;" language="es" id="_6"/><SpanishTermName>samario Sm 153</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva que se usa para tratar el cáncer de hueso y otros cánceres que se diseminaron al hueso. El samario Sm 153 es una forma radiactiva del elemento metálico samario. Se acumula en el hueso y allí libera radiación que en ocasiones destruye las células cancerosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045874">
+  <TermName>samarium Sm 153</TermName>
+  <TermPronunciation>(suh-MAYR-ee-um ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance used to treat  bone cancer and other cancers that have spread to the bone. Samarium Sm 153 is a radioactive form of the element samarium. It collects in bone, where it releases radiation that may kill cancer cells.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707369" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;samarium Sm 153&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000707370" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;samario Sm 153&quot;" language="es" id="_6"/>
+  <SpanishTermName>samario Sm 153</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva que se usa para tratar el cáncer de hueso y otros cánceres que se diseminaron al hueso. El samario Sm 153 es una forma radiactiva del elemento metálico samario. Se acumula en el hueso y allí libera radiación que en ocasiones destruye las células cancerosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

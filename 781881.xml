@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000781881"><TermName>Inderal</TermName><TermPronunciation>(IN-deh-ral)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient propranolol hydrochloride and is used to treat high blood pressure, including before surgery in patients with pheochromocytoma, and many other conditions.  It is also being studied in the treatment of other conditions and some types of cancer.  Inderal blocks certain receptors on nerve cells and causes blood vessels to relax and widen.  This improves blood flow and lowers blood pressure and heart rate. Inderal is a type of beta blocker.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Inderal&quot;" language="en" id="_3"/><MediaLink ref="CDR0000782434" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Inderal&quot;" language="es" id="_4"/><SpanishTermName>Inderal</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el principio activo clorhidrato de propranolol y se usa para el tratamiento de la presión arterial alta, incluso antes de una cirugía en los pacientes con un feocromocitoma, y muchas otras afecciones. También está en estudio para el tratamiento de otras afecciones y algunos tipos de cáncer. Inderal bloquea ciertos receptores en las células nerviosas y hace que los vasos sanguíneos se relajen y dilaten. Esto mejora la circulación sanguínea y disminuye la presión arterial y la frecuencia cardíaca. Inderal es un tipo de betabloqueante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-06-27</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000781904" url="/about-cancer/treatment/drugs/propranolol-hydrochloride">Propranolol Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781881">
+  <TermName>Inderal</TermName>
+  <TermPronunciation>(IN-deh-ral)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient propranolol hydrochloride and is used to treat high blood pressure, including before surgery in patients with pheochromocytoma, and many other conditions.  It is also being studied in the treatment of other conditions and some types of cancer.  Inderal blocks certain receptors on nerve cells and causes blood vessels to relax and widen.  This improves blood flow and lowers blood pressure and heart rate. Inderal is a type of beta blocker.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Inderal&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000782434" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Inderal&quot;" language="es" id="_4"/>
+  <SpanishTermName>Inderal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el principio activo clorhidrato de propranolol y se usa para el tratamiento de la presión arterial alta, incluso antes de una cirugía en los pacientes con un feocromocitoma, y muchas otras afecciones. También está en estudio para el tratamiento de otras afecciones y algunos tipos de cáncer. Inderal bloquea ciertos receptores en las células nerviosas y hace que los vasos sanguíneos se relajen y dilaten. Esto mejora la circulación sanguínea y disminuye la presión arterial y la frecuencia cardíaca. Inderal es un tipo de betabloqueante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-06-27</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000781904" url="/about-cancer/treatment/drugs/propranolol-hydrochloride">Propranolol Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000802863"><TermName>ACD gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in protecting and maintaining telomeres (the ends of chromosomes). Mutations (changes) in the <GeneName>ACD</GeneName> gene may cause damage to chromosomes and DNA, which may lead to abnormal cell growth. <GeneName>ACD</GeneName> gene mutations have been found in a rare, inherited condition called dyskeratosis congenita, which causes abnormal changes in the skin and nails and white patches inside the mouth. People with this condition have an increased risk of bone marrow failure (a condition in which the bone marrow does not make enough blood cells), myelodysplastic syndrome, pulmonary fibrosis (scarring of the lungs), and certain types of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805195" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ACD gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805196" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen ACD&quot;" language="es" id="_4"/><SpanishTermName>gen ACD</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la protección y el mantenimiento de los telómeros (extremos de los cromosomas). Es posible que las mutaciones (cambios) en el gen <GeneName>ACD</GeneName> dañen los cromosomas y el ADN, lo que quizás cause una multiplicación celular anormal. Se han encontrado mutaciones en el gen <GeneName>ACD</GeneName> en una afección hereditaria rara llamada disqueratosis congénita. Las personas con esta afección tienen un riesgo más alto de presentar insuficiencia de la médula ósea, síndrome mielodisplásico, fibrosis pulmonar y ciertos tipos de cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-23</DateFirstPublished><DateLastModified>2021-03-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802863">
+  <TermName>ACD gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in protecting and maintaining telomeres (the ends of chromosomes). Mutations (changes) in the 
+      <GeneName>ACD</GeneName>
+       gene may cause damage to chromosomes and DNA, which may lead to abnormal cell growth. 
+      <GeneName>ACD</GeneName>
+       gene mutations have been found in a rare, inherited condition called dyskeratosis congenita, which causes abnormal changes in the skin and nails and white patches inside the mouth. People with this condition have an increased risk of bone marrow failure (a condition in which the bone marrow does not make enough blood cells), myelodysplastic syndrome, pulmonary fibrosis (scarring of the lungs), and certain types of cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805195" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ACD gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805196" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen ACD&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen ACD</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la protección y el mantenimiento de los telómeros (extremos de los cromosomas). Es posible que las mutaciones (cambios) en el gen 
+      <GeneName>ACD</GeneName>
+       dañen los cromosomas y el ADN, lo que quizás cause una multiplicación celular anormal. Se han encontrado mutaciones en el gen 
+      <GeneName>ACD</GeneName>
+       en una afección hereditaria rara llamada disqueratosis congénita. Las personas con esta afección tienen un riesgo más alto de presentar insuficiencia de la médula ósea, síndrome mielodisplásico, fibrosis pulmonar y ciertos tipos de cáncer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-23</DateFirstPublished>
+  <DateLastModified>2021-03-12</DateLastModified>
+</GlossaryTerm>

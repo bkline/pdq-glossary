@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000728861"><TermName>CAPOX</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat advanced colorectal cancer. It is also being studied in the treatment of other types of cancer. It includes the drugs capecitabine and oxaliplatin. Also called CAPOX regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000738751" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CAPOX&quot;" language="en" id="_3"/><SpanishTermName>CAPOX</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer colorrectal en estadio avanzado. También está en estudio para el tratamiento de otros tipos de cáncer. Incluye los medicamentos capecitabina y oxaliplatino. También se llama régimen CAPOX.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-04-03</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000727225" url="/about-cancer/treatment/drugs/CAPOX">CAPOX</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000728861">
+  <TermName>CAPOX</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat advanced colorectal cancer. It is also being studied in the treatment of other types of cancer. It includes the drugs capecitabine and oxaliplatin. Also called CAPOX regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000738751" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CAPOX&quot;" language="en" id="_3"/>
+  <SpanishTermName>CAPOX</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer colorrectal en estadio avanzado. También está en estudio para el tratamiento de otros tipos de cáncer. Incluye los medicamentos capecitabina y oxaliplatino. También se llama régimen CAPOX.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-04-03</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000727225" url="/about-cancer/treatment/drugs/CAPOX">CAPOX</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

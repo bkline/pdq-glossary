@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797065"><TermName>gene signature</TermName><TermPronunciation>(jeen SIG-nuh-cher)</TermPronunciation><TermDefinition><DefinitionText>Information about the activity of a specific group of genes in a cell or tissue. In cancer, gene signatures can show how likely certain types of cancer are to grow and spread in the body or how likely they are to recur (come back). A gene signature may be used to help diagnose diseases, such as cancer, plan treatment, find out how well treatment is working, and make a prognosis.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gene signature&quot;" language="en" id="_5"/><MediaLink ref="CDR0000798838" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;firma de genes&quot;" language="es" id="_6"/><SpanishTermName>firma de genes</SpanishTermName><SpanishTermDefinition><DefinitionText>Información sobre la actividad de un grupo específico de genes que se encuentran en una célula o una muestra de tejido. En el ámbito del cáncer, las firmas de genes indican la probabilidad de que se formen y se diseminen ciertos tipos de cáncer en el cuerpo, o la probabilidad de que estos recidiven (vuelvan). Sirven para asistir en el diagnóstico de enfermedades como el cáncer, planificar el tratamiento, determinar la eficacia del tratamiento y dar un pronóstico. También se llama firma genética y firma génica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797065">
+  <TermName>gene signature</TermName>
+  <TermPronunciation>(jeen SIG-nuh-cher)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Information about the activity of a specific group of genes in a cell or tissue. In cancer, gene signatures can show how likely certain types of cancer are to grow and spread in the body or how likely they are to recur (come back). A gene signature may be used to help diagnose diseases, such as cancer, plan treatment, find out how well treatment is working, and make a prognosis.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gene signature&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000798838" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;firma de genes&quot;" language="es" id="_6"/>
+  <SpanishTermName>firma de genes</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Información sobre la actividad de un grupo específico de genes que se encuentran en una célula o una muestra de tejido. En el ámbito del cáncer, las firmas de genes indican la probabilidad de que se formen y se diseminen ciertos tipos de cáncer en el cuerpo, o la probabilidad de que estos recidiven (vuelvan). Sirven para asistir en el diagnóstico de enfermedades como el cáncer, planificar el tratamiento, determinar la eficacia del tratamiento y dar un pronóstico. También se llama firma genética y firma génica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-25</DateFirstPublished>
+</GlossaryTerm>

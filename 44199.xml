@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000044199"><TermName>cornea</TermName><TermPronunciation>(KOR-nee-uh)</TermPronunciation><TermDefinition><DefinitionText>The transparent part of the eye that covers the iris and the pupil and allows light to enter the inside.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cornea&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cornea&quot;" language="es" id="_4"/><MediaLink ref="CDR0000543553" type="image/jpeg" alt="Eye anatomy; two-panel drawing showing the outside and inside of the eye. The top panel shows the outside of the eye, including the eyelid, pupil, sclera, and iris. The bottom panel shows the inside of the eye, including the cornea, lens, ciliary body, retina, choroid, optic nerve, and vitreous humor." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Anatomy of the eye showing the outside and inside of the eye, including the eyelid, pupil, sclera, iris, cornea, lens, ciliary body, retina, choroid, optic nerve, and vitreous humor. </Caption></MediaLink><MediaLink ref="CDR0000562257" type="image/jpeg" alt="Anatomía del ojo. En la imagen de dos paneles se observa la parte exterior e interior del ojo. En el panel de arriba se muestra el exterior del ojo que incluye el párpado, la pupila, la esclerótica y el iris; en el panel de abajo se muestra el interior del ojo que incluye la córnea, el cristalino, el cuerpo ciliar, la retina, la coroides, el nervio óptico y el humor vítreo." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía del ojo. En la imagen se observa la parte exterior e interior del ojo que incluye el párpado, la pupila, la esclerótica, el iris, la córnea, el cristalino, el cuerpo ciliar, la retina, la coroides, el humor vítreo y el nervio óptico.</Caption></MediaLink><SpanishTermName>córnea</SpanishTermName><SpanishTermDefinition><DefinitionText>Parte transparente del ojo que recubre el iris y la pupila, y permite que la luz entre en su interior.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-09-28</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044199">
+  <TermName>cornea</TermName>
+  <TermPronunciation>(KOR-nee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The transparent part of the eye that covers the iris and the pupil and allows light to enter the inside.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cornea&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cornea&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000543553" type="image/jpeg" alt="Eye anatomy; two-panel drawing showing the outside and inside of the eye. The top panel shows the outside of the eye, including the eyelid, pupil, sclera, and iris. The bottom panel shows the inside of the eye, including the cornea, lens, ciliary body, retina, choroid, optic nerve, and vitreous humor." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Anatomy of the eye showing the outside and inside of the eye, including the eyelid, pupil, sclera, iris, cornea, lens, ciliary body, retina, choroid, optic nerve, and vitreous humor. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000562257" type="image/jpeg" alt="Anatomía del ojo. En la imagen de dos paneles se observa la parte exterior e interior del ojo. En el panel de arriba se muestra el exterior del ojo que incluye el párpado, la pupila, la esclerótica y el iris; en el panel de abajo se muestra el interior del ojo que incluye la córnea, el cristalino, el cuerpo ciliar, la retina, la coroides, el nervio óptico y el humor vítreo." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía del ojo. En la imagen se observa la parte exterior e interior del ojo que incluye el párpado, la pupila, la esclerótica, el iris, la córnea, el cristalino, el cuerpo ciliar, la retina, la coroides, el humor vítreo y el nervio óptico.</Caption>
+  </MediaLink>
+  <SpanishTermName>córnea</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parte transparente del ojo que recubre el iris y la pupila, y permite que la luz entre en su interior.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-09-28</DateLastModified>
+</GlossaryTerm>

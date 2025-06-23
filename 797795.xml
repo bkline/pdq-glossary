@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797795"><TermName>Vantas</TermName><TermPronunciation>(VAN-tus)</TermPronunciation><TermDefinition><DefinitionText>A drug used as palliative therapy for advanced prostate cancer. Vantas keeps the testicles from making the male hormone testosterone by blocking other hormones that are needed to make it. This may slow or stop the growth of cancer cells that need testosterone to grow. Vantas contains the active ingredient histrelin acetate. It is a type of LHRH (or GnRH) agonist and a type of androgen deprivation therapy that is reversible.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799605" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vantas&quot;" language="en" id="_3"/><MediaLink ref="CDR0000799604" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vantas&quot;" language="es" id="_4"/><SpanishTermName>Vantas</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa como terapia paliativa para el cáncer de próstata avanzado. Vantas impide que los testículos elaboren la hormona masculina testosterona al bloquear otras hormonas que se necesitan para producirla. Es posible que esto desacelere o detenga la multiplicación de las células que necesitan testosterona para multiplicarse. El ingrediente activo de Vantas es el acetato de histrelina. Es un tipo de agonista de LHRH (o GnRH) y una terapia reversible de privación de andrógeno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-08-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797795">
+  <TermName>Vantas</TermName>
+  <TermPronunciation>(VAN-tus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used as palliative therapy for advanced prostate cancer. Vantas keeps the testicles from making the male hormone testosterone by blocking other hormones that are needed to make it. This may slow or stop the growth of cancer cells that need testosterone to grow. Vantas contains the active ingredient histrelin acetate. It is a type of LHRH (or GnRH) agonist and a type of androgen deprivation therapy that is reversible.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799605" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vantas&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000799604" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Vantas&quot;" language="es" id="_4"/>
+  <SpanishTermName>Vantas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa como terapia paliativa para el cáncer de próstata avanzado. Vantas impide que los testículos elaboren la hormona masculina testosterona al bloquear otras hormonas que se necesitan para producirla. Es posible que esto desacelere o detenga la multiplicación de las células que necesitan testosterona para multiplicarse. El ingrediente activo de Vantas es el acetato de histrelina. Es un tipo de agonista de LHRH (o GnRH) y una terapia reversible de privación de andrógeno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-08-22</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000806166"><TermName>Tivdak</TermName><TermPronunciation>(TIV-dak)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with cervical cancer that has come back or has spread. It is used in patients whose cancer got worse during or after chemotherapy. It is also being studied in the treatment of other types of cancer. Tivdak contains a monoclonal antibody that binds to a protein called tissue factor, which is found on some cancer cells. It also contains an anticancer drug, which may help kill cancer cells. Tivdak may also prevent the growth of new blood vessels that tumors need to grow. It is a type of antibody-drug conjugate and a type of antiangiogenesis agent. Also called tisotumab vedotin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tivdak&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806889" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tivdak&quot;" language="es" id="_4"/><SpanishTermName>Tivdak</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultas con cáncer de cuello uterino que volvió o se diseminó. Se utiliza en pacientes cuyo cáncer empeoró durante la quimioterapia o después de esta. También está en estudio para el tratamiento de otros tipos de cáncer. Tivdak contiene un anticuerpo monoclonal que se une a una proteína llamada factor tisular, que se encuentra en algunas células cancerosas. Además, contiene un fármaco contra el cáncer, que quizás ayude a destruir células cancerosas. Es posible que  Tivdak impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de conjugado anticuerpo-fármaco y de antiangiogénico. También se llama tisotumab vedotina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-09-22</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000806188" url="/about-cancer/treatment/drugs/tisotumabvedotin-tftv">Tisotumab Vedotin-tftv</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806166">
+  <TermName>Tivdak</TermName>
+  <TermPronunciation>(TIV-dak)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with cervical cancer that has come back or has spread. It is used in patients whose cancer got worse during or after chemotherapy. It is also being studied in the treatment of other types of cancer. Tivdak contains a monoclonal antibody that binds to a protein called tissue factor, which is found on some cancer cells. It also contains an anticancer drug, which may help kill cancer cells. Tivdak may also prevent the growth of new blood vessels that tumors need to grow. It is a type of antibody-drug conjugate and a type of antiangiogenesis agent. Also called tisotumab vedotin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tivdak&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806889" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tivdak&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tivdak</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultas con cáncer de cuello uterino que volvió o se diseminó. Se utiliza en pacientes cuyo cáncer empeoró durante la quimioterapia o después de esta. También está en estudio para el tratamiento de otros tipos de cáncer. Tivdak contiene un anticuerpo monoclonal que se une a una proteína llamada factor tisular, que se encuentra en algunas células cancerosas. Además, contiene un fármaco contra el cáncer, que quizás ayude a destruir células cancerosas. Es posible que  Tivdak impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de conjugado anticuerpo-fármaco y de antiangiogénico. También se llama tisotumab vedotina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-09-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000806188" url="/about-cancer/treatment/drugs/tisotumabvedotin-tftv">Tisotumab Vedotin-tftv</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

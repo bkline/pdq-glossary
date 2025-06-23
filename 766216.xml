@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000766216"><TermName>splice-site mutation</TermName><TermPronunciation>(... myoo-TAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence. Also called splice-site variant.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000769335" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;splice-site mutation&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804302" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación en el sitio de empalme&quot;" language="es" id="_4"/><SpanishTermName>mutación en el sitio de empalme</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética en la secuencia de ADN que ocurre en el límite entre un exón y un intrón (sitio de empalme). Este cambio puede alterar el corte y empalme del ARN lo que conlleva la pérdida de exones o la inclusión de intrones que  alteran la secuencia de codificación de la proteína. También se llama mutación de ayuste, mutación en el sitio de corte y empalme y variante del sitio de empalme.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2014-11-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000766216">
+  <TermName>splice-site mutation</TermName>
+  <TermPronunciation>(... myoo-TAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence. Also called splice-site variant.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000769335" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;splice-site mutation&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804302" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mutación en el sitio de empalme&quot;" language="es" id="_4"/>
+  <SpanishTermName>mutación en el sitio de empalme</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración genética en la secuencia de ADN que ocurre en el límite entre un exón y un intrón (sitio de empalme). Este cambio puede alterar el corte y empalme del ARN lo que conlleva la pérdida de exones o la inclusión de intrones que  alteran la secuencia de codificación de la proteína. También se llama mutación de ayuste, mutación en el sitio de corte y empalme y variante del sitio de empalme.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-11-06</DateFirstPublished>
+</GlossaryTerm>

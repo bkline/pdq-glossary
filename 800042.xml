@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000800042"><TermName>Noonan syndrome with multiple lentigines</TermName><TermPronunciation>(NOO-nun SIN-drome … MUL-tih-pul len-TIH-jih-neez)</TermPronunciation><TermDefinition><DefinitionText>A rare genetic condition that affects many parts of the body, especially the skin, heart, inner ear, and genitals. It is marked by small, dark brown spots on the skin called lentigines, which usually appear on the face, neck, and upper body by age 4 or 5 years. The number of lentigines may increase to the thousands by puberty. Other signs and symptoms of this condition include heart defects, unusual facial features, genital abnormalities, and shorter-than-average height. People with this syndrome may also have hearing loss, an abnormally shaped chest, extra folds of skin on the back of the neck, mild learning problems, and fertility problems. Noonan syndrome with multiple lentigines is a type of disease called a RASopathy that is caused by mutations (changes) in the PTPN11, RAF1, BRAF, or MAP2K1 gene. These genes make proteins involved in a cell signaling pathway that controls many important cell functions. Noonan syndrome with multiple lentigines is sometimes called LEOPARD syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802581" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Noonan syndrome with multiple lentigines&quot;" language="en" id="_6"/><MediaLink ref="CDR0000802582" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Noonan con lentigos múltiples&quot;" language="es" id="_7"/><SpanishTermName>síndrome de Noonan con lentigos múltiples</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección genética rara que afecta muchas partes del cuerpo, en especial la piel, el corazón, el oído interno y los genitales. Se caracteriza por lentigos, unas manchas pequeñas de color marrón oscuro en la piel que  por lo general aparecen en la cara, el cuello y la parte superior del cuerpo a los 4 o 5 años de edad. Es posible que el número de lentigos aumente hasta miles en la pubertad. Otros signos y síntomas incluyen defectos cardíacos, rasgos faciales atípicos, alteraciones en los genitales, y una estatura más baja que lo normal. Las personas con este síndrome a veces tienen sordera, un tórax con  forma anormal, pliegues de la piel en la nuca,  problemas de aprendizaje leves y esterilidad. El síndrome de Noonan con lentigos múltiples es un tipo de rasopatía causada por mutaciones (cambios) en los genes <GeneName>PTPN11</GeneName>, <GeneName>RAF1</GeneName>, <GeneName>BRAF</GeneName> o <GeneName>MAP2K1</GeneName>, que elaboran proteínas de una vía de señalización celular que controla muchas funciones importantes de la célula.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800042">
+  <TermName>Noonan syndrome with multiple lentigines</TermName>
+  <TermPronunciation>(NOO-nun SIN-drome … MUL-tih-pul len-TIH-jih-neez)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare genetic condition that affects many parts of the body, especially the skin, heart, inner ear, and genitals. It is marked by small, dark brown spots on the skin called lentigines, which usually appear on the face, neck, and upper body by age 4 or 5 years. The number of lentigines may increase to the thousands by puberty. Other signs and symptoms of this condition include heart defects, unusual facial features, genital abnormalities, and shorter-than-average height. People with this syndrome may also have hearing loss, an abnormally shaped chest, extra folds of skin on the back of the neck, mild learning problems, and fertility problems. Noonan syndrome with multiple lentigines is a type of disease called a RASopathy that is caused by mutations (changes) in the PTPN11, RAF1, BRAF, or MAP2K1 gene. These genes make proteins involved in a cell signaling pathway that controls many important cell functions. Noonan syndrome with multiple lentigines is sometimes called LEOPARD syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802581" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Noonan syndrome with multiple lentigines&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000802582" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Noonan con lentigos múltiples&quot;" language="es" id="_7"/>
+  <SpanishTermName>síndrome de Noonan con lentigos múltiples</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Afección genética rara que afecta muchas partes del cuerpo, en especial la piel, el corazón, el oído interno y los genitales. Se caracteriza por lentigos, unas manchas pequeñas de color marrón oscuro en la piel que  por lo general aparecen en la cara, el cuello y la parte superior del cuerpo a los 4 o 5 años de edad. Es posible que el número de lentigos aumente hasta miles en la pubertad. Otros signos y síntomas incluyen defectos cardíacos, rasgos faciales atípicos, alteraciones en los genitales, y una estatura más baja que lo normal. Las personas con este síndrome a veces tienen sordera, un tórax con  forma anormal, pliegues de la piel en la nuca,  problemas de aprendizaje leves y esterilidad. El síndrome de Noonan con lentigos múltiples es un tipo de rasopatía causada por mutaciones (cambios) en los genes 
+      <GeneName>PTPN11</GeneName>
+      , 
+      <GeneName>RAF1</GeneName>
+      , 
+      <GeneName>BRAF</GeneName>
+       o 
+      <GeneName>MAP2K1</GeneName>
+      , que elaboran proteínas de una vía de señalización celular que controla muchas funciones importantes de la célula.
+    </DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-09</DateFirstPublished>
+</GlossaryTerm>

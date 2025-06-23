@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000730358"><TermName>orthopedic surgeon</TermName><TermPronunciation>(OR-thuh-PEE-dik SER-jun)</TermPronunciation><TermDefinition><DefinitionText>A surgeon who has special training in diagnosing and treating injuries and diseases of the musculoskeletal system. This includes the bones, joints, tendons, ligaments, and muscles.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000741054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;orthopedic surgeon&quot;" language="en" id="_3"/><MediaLink ref="CDR0000741055" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano ortopédico&quot;" language="es" id="_4"/><SpanishTermName>cirujano ortopédico</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento mediante cirugía de los traumatismos y las enfermedades del aparato locomotor. Esto incluye los huesos, las articulaciones, los tendones, los ligamentos y los músculos. También se llama especialista en cirugía ortopédica y ortopedista.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-08-14</DateFirstPublished><DateLastModified>2016-06-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000730358">
+  <TermName>orthopedic surgeon</TermName>
+  <TermPronunciation>(OR-thuh-PEE-dik SER-jun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A surgeon who has special training in diagnosing and treating injuries and diseases of the musculoskeletal system. This includes the bones, joints, tendons, ligaments, and muscles.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000741054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;orthopedic surgeon&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000741055" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cirujano ortopédico&quot;" language="es" id="_4"/>
+  <SpanishTermName>cirujano ortopédico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento mediante cirugía de los traumatismos y las enfermedades del aparato locomotor. Esto incluye los huesos, las articulaciones, los tendones, los ligamentos y los músculos. También se llama especialista en cirugía ortopédica y ortopedista.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-08-14</DateFirstPublished>
+  <DateLastModified>2016-06-17</DateLastModified>
+</GlossaryTerm>

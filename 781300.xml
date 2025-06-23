@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000781300"><TermName>human epidermal growth factor receptor 2 test</TermName><TermPronunciation>(HYOO-mun eh-pih-DER-mul grothe FAK-ter reh-SEP-ter 2 …)</TermPronunciation><TermDefinition><DefinitionText>A laboratory test that measures the amount of HER2 protein on cancer cells or how many copies of the HER2 gene are in the DNA of cancer cells. The HER2 protein helps control normal cell growth. Larger than normal amounts of the HER2 protein or too many copies of the HER2 gene may be made by some types of cancer, including breast, ovarian, bladder, pancreatic, and stomach cancers. This may cause cancer cells to grow more quickly and spread to other parts of the body. A human epidermal growth factor receptor 2 test may be done to help plan treatment, which may include drugs that target the HER2 protein. It is a type of tumor marker test. Also called HER2 test and HER2/neu test.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784445" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;human epidermal growth factor receptor 2 test&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784444" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prueba del receptor 2 del factor de crecimiento epidérmico humano&quot;" language="es" id="_4"/><SpanishTermName>prueba del receptor 2 del factor de crecimiento epidérmico humano</SpanishTermName><SpanishTermDefinition><DefinitionText>Prueba de laboratorio para medir la cantidad de proteína HER2 en las células cancerosas o el  número de copias del gen <GeneName>HER2</GeneName> en el ADN. La proteína HER2 participa en la multiplicación normal de las células. En algunos tipos de cáncer se produce en cantidades más altas que lo normal, como en el cáncer de mama, de ovario, de vejiga, de páncreas y de estómago. Es posible que lo  anterior haga que las células cancerosas se multipliquen más rápido y que se diseminen a otras partes del cuerpo. Se puede hacer una prueba del receptor 2 del factor de crecimiento epidérmico humano para ayudar a planificar el tratamiento. Es un tipo de prueba de marcador tumoral. También se llama prueba de HER2 y prueba de HER2/neu.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished><DateLastModified>2019-07-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781300">
+  <TermName>human epidermal growth factor receptor 2 test</TermName>
+  <TermPronunciation>(HYOO-mun eh-pih-DER-mul grothe FAK-ter reh-SEP-ter 2 …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory test that measures the amount of HER2 protein on cancer cells or how many copies of the HER2 gene are in the DNA of cancer cells. The HER2 protein helps control normal cell growth. Larger than normal amounts of the HER2 protein or too many copies of the HER2 gene may be made by some types of cancer, including breast, ovarian, bladder, pancreatic, and stomach cancers. This may cause cancer cells to grow more quickly and spread to other parts of the body. A human epidermal growth factor receptor 2 test may be done to help plan treatment, which may include drugs that target the HER2 protein. It is a type of tumor marker test. Also called HER2 test and HER2/neu test.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784445" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;human epidermal growth factor receptor 2 test&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784444" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prueba del receptor 2 del factor de crecimiento epidérmico humano&quot;" language="es" id="_4"/>
+  <SpanishTermName>prueba del receptor 2 del factor de crecimiento epidérmico humano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Prueba de laboratorio para medir la cantidad de proteína HER2 en las células cancerosas o el  número de copias del gen 
+      <GeneName>HER2</GeneName>
+       en el ADN. La proteína HER2 participa en la multiplicación normal de las células. En algunos tipos de cáncer se produce en cantidades más altas que lo normal, como en el cáncer de mama, de ovario, de vejiga, de páncreas y de estómago. Es posible que lo  anterior haga que las células cancerosas se multipliquen más rápido y que se diseminen a otras partes del cuerpo. Se puede hacer una prueba del receptor 2 del factor de crecimiento epidérmico humano para ayudar a planificar el tratamiento. Es un tipo de prueba de marcador tumoral. También se llama prueba de HER2 y prueba de HER2/neu.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+  <DateLastModified>2019-07-24</DateLastModified>
+</GlossaryTerm>

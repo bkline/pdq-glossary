@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000044591"><TermName>fusion protein</TermName><TermPronunciation>(FYOO-zhun PROH-teen)</TermPronunciation><TermDefinition><DefinitionText>A protein made from a fusion gene, which is created by joining parts of two different genes. Fusion genes may occur naturally in the body by transfer of DNA between chromosomes. For example, the <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> gene found in some types of leukemia is a fusion gene that makes the BCR::ABL1 fusion protein. Fusion genes and proteins can also be made in the laboratory by combining genes or parts of genes from the same or different organisms.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704814" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusion protein&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704813" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proteína de fusión&quot;" language="es" id="_4"/><SpanishTermName>proteína de fusión</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que se origina a partir de un gen de fusión que se crea al unirse partes de dos genes diferentes. Los genes de fusión se pueden presentar de forma natural en el cuerpo por la transferencia de ADN entre los cromosomas. Por ejemplo, el gen <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName>, que se encuentra en algunos tipos de leucemia, es un gen de fusión a partir del que se produce la proteína de fusión BCR::ABL1. También es posible producir genes y proteínas de fusión en el laboratorio al combinar genes o partes de los genes de un mismo organismo o de organismos diferentes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2024-10-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044591">
+  <TermName>fusion protein</TermName>
+  <TermPronunciation>(FYOO-zhun PROH-teen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A protein made from a fusion gene, which is created by joining parts of two different genes. Fusion genes may occur naturally in the body by transfer of DNA between chromosomes. For example, the 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+       gene found in some types of leukemia is a fusion gene that makes the BCR::ABL1 fusion protein. Fusion genes and proteins can also be made in the laboratory by combining genes or parts of genes from the same or different organisms.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704814" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusion protein&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704813" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proteína de fusión&quot;" language="es" id="_4"/>
+  <SpanishTermName>proteína de fusión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Proteína que se origina a partir de un gen de fusión que se crea al unirse partes de dos genes diferentes. Los genes de fusión se pueden presentar de forma natural en el cuerpo por la transferencia de ADN entre los cromosomas. Por ejemplo, el gen 
+      <GeneName>BCR</GeneName>
+      ::
+      <GeneName>ABL1</GeneName>
+      , que se encuentra en algunos tipos de leucemia, es un gen de fusión a partir del que se produce la proteína de fusión BCR::ABL1. También es posible producir genes y proteínas de fusión en el laboratorio al combinar genes o partes de los genes de un mismo organismo o de organismos diferentes.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2024-10-29</DateLastModified>
+</GlossaryTerm>

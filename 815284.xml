@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000815284"><TermName>Tevimbra</TermName><TermPronunciation>(teh-VIM-brah)</TermPronunciation><TermDefinition><DefinitionText>A drug that binds to the protein PD-L1 to help immune cells kill cancer cells better and is used to treat different types of cancer. Tevimbra is used with alone or with other drugs to treat adults with certain types of gastric adenocarcinoma, gastroesophageal junction adenocarcinoma, or squamous cell carcinoma of the esophagus. It is also being studied in the treatment of other types of cancer. Tevimbra may block PD-L1 and help the immune system kill cancer cells. Tevimbra is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called tislelizumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815709" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tevimbra&quot;" language="en" id="_3"/><MediaLink ref="CDR0000815710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tevimbra&quot;" language="es" id="_4"/><SpanishTermName>Tevimbra</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se une a la proteína PD-L1 para ayudar a las células inmunitarias a destruir las células cancerosas y que se utiliza para tratar diferentes tipos de cáncer. Tevimbra se usa para el tratamiento de adultos con ciertos tipos de adenocarcinoma gástrico, adenocarcinoma de unión gastroesofágica o carcinoma de células escamosas de esófago. También está en estudio para el tratamiento de otros tipos de cáncer. Tevimbra en ocasiones bloquea una proteína llamada PD-L1 y ayuda al sistema inmunitario a destruir células cancerosas. Tevimbra es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama tislelizumab.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-03-27</DateFirstPublished><DateLastModified>2025-04-07</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000815281" url="/about-cancer/treatment/drugs/tislelizumab-jsgr">Tislelizumab-jsgr</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000815284">
+  <TermName>Tevimbra</TermName>
+  <TermPronunciation>(teh-VIM-brah)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that binds to the protein PD-L1 to help immune cells kill cancer cells better and is used to treat different types of cancer. Tevimbra is used with alone or with other drugs to treat adults with certain types of gastric adenocarcinoma, gastroesophageal junction adenocarcinoma, or squamous cell carcinoma of the esophagus. It is also being studied in the treatment of other types of cancer. Tevimbra may block PD-L1 and help the immune system kill cancer cells. Tevimbra is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called tislelizumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815709" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tevimbra&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000815710" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Tevimbra&quot;" language="es" id="_4"/>
+  <SpanishTermName>Tevimbra</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se une a la proteína PD-L1 para ayudar a las células inmunitarias a destruir las células cancerosas y que se utiliza para tratar diferentes tipos de cáncer. Tevimbra se usa para el tratamiento de adultos con ciertos tipos de adenocarcinoma gástrico, adenocarcinoma de unión gastroesofágica o carcinoma de células escamosas de esófago. También está en estudio para el tratamiento de otros tipos de cáncer. Tevimbra en ocasiones bloquea una proteína llamada PD-L1 y ayuda al sistema inmunitario a destruir células cancerosas. Tevimbra es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama tislelizumab.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-03-27</DateFirstPublished>
+  <DateLastModified>2025-04-07</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000815281" url="/about-cancer/treatment/drugs/tislelizumab-jsgr">Tislelizumab-jsgr</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

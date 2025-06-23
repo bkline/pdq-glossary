@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000791790"><TermName>rare cancer</TermName><TermPronunciation>(rayr KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>As defined by the National Cancer Institute, cancer that occurs in fewer than 15 out of 100,000 people each year. Most types of cancer are considered rare, and they are often more difficult to prevent, diagnose, and treat than the more common cancers. Because there are fewer cases, research is difficult. Examples of rare cancers are anal, stomach, and laryngeal cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793336" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rare cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793335" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer raro&quot;" language="es" id="_6"/><SpanishTermName>cáncer raro</SpanishTermName><SpanishTermDefinition><DefinitionText>Según la definición del Instituto Nacional del Cáncer, tipo de cáncer que se presenta en menos de 15 de cada 100 000 personas al año. La mayoría de los tipos de cáncer se consideran raros o infrecuentes, y suelen ser más difíciles de prevenir, diagnosticar y tratar que los cánceres más comunes. Debido a que hay menos casos, es difícil realizar investigación sobre estos cánceres. Algunos ejemplos de cánceres raros son el cáncer de ano, el cáncer de estómago y el cáncer de laringe. También se llama cáncer poco común.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-03-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791790">
+  <TermName>rare cancer</TermName>
+  <TermPronunciation>(rayr KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>As defined by the National Cancer Institute, cancer that occurs in fewer than 15 out of 100,000 people each year. Most types of cancer are considered rare, and they are often more difficult to prevent, diagnose, and treat than the more common cancers. Because there are fewer cases, research is difficult. Examples of rare cancers are anal, stomach, and laryngeal cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793336" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;rare cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793335" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer raro&quot;" language="es" id="_6"/>
+  <SpanishTermName>cáncer raro</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Según la definición del Instituto Nacional del Cáncer, tipo de cáncer que se presenta en menos de 15 de cada 100 000 personas al año. La mayoría de los tipos de cáncer se consideran raros o infrecuentes, y suelen ser más difíciles de prevenir, diagnosticar y tratar que los cánceres más comunes. Debido a que hay menos casos, es difícil realizar investigación sobre estos cánceres. Algunos ejemplos de cánceres raros son el cáncer de ano, el cáncer de estómago y el cáncer de laringe. También se llama cáncer poco común.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-03-12</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044716"><TermName>psychologist</TermName><TermPronunciation>(sy-KAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A specialist who can talk with patients and their families about emotional and personal matters, and can help them make decisions.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705877" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705878" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psicólogo&quot;" language="es" id="_4"/><SpanishTermName>psicólogo</SpanishTermName><SpanishTermDefinition><DefinitionText>Especialista que habla con los pacientes y sus familias acerca de asuntos emocionales y personales, además los ayuda a tomar decisiones.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-03-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044716">
+  <TermName>psychologist</TermName>
+  <TermPronunciation>(sy-KAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A specialist who can talk with patients and their families about emotional and personal matters, and can help them make decisions.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705877" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psychologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705878" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psicólogo&quot;" language="es" id="_4"/>
+  <SpanishTermName>psicólogo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Especialista que habla con los pacientes y sus familias acerca de asuntos emocionales y personales, además los ayuda a tomar decisiones.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-03-29</DateLastModified>
+</GlossaryTerm>

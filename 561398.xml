@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000561398"><TermName>early-stage cancer</TermName><TermPronunciation>(ER-lee-stayj KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe cancer that is early in its growth, and may not have spread to other parts of the body. What is called early stage may differ between cancer types.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720520" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;early-stage cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720521" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer en estadio temprano&quot;" language="es" id="_4"/><SpanishTermName>cáncer en estadio temprano</SpanishTermName><SpanishTermDefinition><DefinitionText>Expresión que se usa para describir un cáncer que comienza a crecer y que quizás todavía no se ha diseminado a otras partes del cuerpo. La definición de estadio temprano puede ser diferente para cada tipo de cáncer. También se llama cáncer en etapa temprana.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561398">
+  <TermName>early-stage cancer</TermName>
+  <TermPronunciation>(ER-lee-stayj KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe cancer that is early in its growth, and may not have spread to other parts of the body. What is called early stage may differ between cancer types.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720520" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;early-stage cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720521" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer en estadio temprano&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer en estadio temprano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Expresión que se usa para describir un cáncer que comienza a crecer y que quizás todavía no se ha diseminado a otras partes del cuerpo. La definición de estadio temprano puede ser diferente para cada tipo de cáncer. También se llama cáncer en etapa temprana.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-06</DateFirstPublished>
+</GlossaryTerm>

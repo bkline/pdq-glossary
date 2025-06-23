@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000460146"><TermName>exon</TermName><TermPronunciation>(EK-son)</TermPronunciation><TermDefinition><DefinitionText>The sequence of DNA that is present in the final, mature messenger RNA transcript. Most exons code for amino acids, which link together to form a protein. Most genes are made up of many exons with introns in between them.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736946" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exon&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804218" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exón&quot;" language="es" id="_4"/><SpanishTermName>exón</SpanishTermName><SpanishTermDefinition><DefinitionText>Secuencia de ADN presente en el transcrito de ARN mensajero maduro final. La mayoría de los exones codifican aminoácidos, que se unen para formar las proteínas. Casi todos los genes están compuestos por numerosos exones separados entre sí por intrones.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=61">Exon (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Exon">Exón (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000660737" UseWith="en" audience="Health_professionals">intron</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000660737" UseWith="es" audience="Health_professionals">intrón</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460146">
+  <TermName>exon</TermName>
+  <TermPronunciation>(EK-son)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The sequence of DNA that is present in the final, mature messenger RNA transcript. Most exons code for amino acids, which link together to form a protein. Most genes are made up of many exons with introns in between them.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736946" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exon&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804218" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exón&quot;" language="es" id="_4"/>
+  <SpanishTermName>exón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Secuencia de ADN presente en el transcrito de ARN mensajero maduro final. La mayoría de los exones codifican aminoácidos, que se unen para formar las proteínas. Casi todos los genes están compuestos por numerosos exones separados entre sí por intrones.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=61">Exon (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Exon">Exón (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000660737" UseWith="en" audience="Health_professionals">intron</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000660737" UseWith="es" audience="Health_professionals">intrón</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

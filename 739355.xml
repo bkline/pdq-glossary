@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000739355"><TermName>stage I perihilar bile duct cancer</TermName><TermPronunciation>(... PAYR-ee-HY-ler bile dukt KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer has formed in the innermost layer of tissue lining the perihilar bile duct and has spread into the muscle layer or fibrous tissue layer of the perihilar bile duct wall.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000742075" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I perihilar bile duct cancer&quot;" language="en" id="_5"/><MediaLink ref="CDR0000742076" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares perihiliares en estadio I&quot;" language="es" id="_6"/><SpanishTermName>cáncer de vías biliares perihiliares en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer se formó en la capa de tejido que reviste la vía biliar perihiliar (conducto hepático común) y se diseminó a la capa muscular o a la capa de tejido fibroso de la pared de la vía biliar perihiliar. También se llama cáncer de conducto biliar perihiliar en estadio I.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-09-06</DateFirstPublished><DateLastModified>2018-02-28</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000739355">
+  <TermName>stage I perihilar bile duct cancer</TermName>
+  <TermPronunciation>(... PAYR-ee-HY-ler bile dukt KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer has formed in the innermost layer of tissue lining the perihilar bile duct and has spread into the muscle layer or fibrous tissue layer of the perihilar bile duct wall.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000742075" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I perihilar bile duct cancer&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000742076" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares perihiliares en estadio I&quot;" language="es" id="_6"/>
+  <SpanishTermName>cáncer de vías biliares perihiliares en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer se formó en la capa de tejido que reviste la vía biliar perihiliar (conducto hepático común) y se diseminó a la capa muscular o a la capa de tejido fibroso de la pared de la vía biliar perihiliar. También se llama cáncer de conducto biliar perihiliar en estadio I.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-09-06</DateFirstPublished>
+  <DateLastModified>2018-02-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

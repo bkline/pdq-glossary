@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000507648"><TermName>Thalomid</TermName><TermPronunciation>(THA-loh-MID)</TermPronunciation><TermDefinition><DefinitionText>A drug used with dexamethasone to treat multiple myeloma in patients who have been just diagnosed. It is also used to treat a painful skin disease related to leprosy. It is also being studied in the treatment of other types of cancer. Thalomid may help the immune system kill cancer cells. It may also prevent the growth of new blood vessels that tumors need to grow. Thalomid is a type of antiangiogenesis agent and a type of immunomodulating agent.  Also called thalidomide.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718714" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Thalomid&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Thalomid&quot;" language="es" id="_4"/><SpanishTermName>Thalomid</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con dexametasona para el tratamiento de pacientes con diagnóstico nuevo de mieloma múltiple. También se usa para el tratamiento de una enfermedad dolorosa de la piel relacionada con la lepra. Además, está en estudio para el tratamiento de otros tipos de cáncer. Es posible que  Thalomid ayude al sistema inmunitario a destruir células cancerosas. Asimismo, tal vez impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. Thalomid es un tipo de inhibidor de la angiogénesis y de inmunomodulador. También se llama talidomida.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2021-06-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000496418" url="/about-cancer/treatment/drugs/thalidomide">Thalidomide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000507648">
+  <TermName>Thalomid</TermName>
+  <TermPronunciation>(THA-loh-MID)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with dexamethasone to treat multiple myeloma in patients who have been just diagnosed. It is also used to treat a painful skin disease related to leprosy. It is also being studied in the treatment of other types of cancer. Thalomid may help the immune system kill cancer cells. It may also prevent the growth of new blood vessels that tumors need to grow. Thalomid is a type of antiangiogenesis agent and a type of immunomodulating agent.  Also called thalidomide.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718714" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Thalomid&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Thalomid&quot;" language="es" id="_4"/>
+  <SpanishTermName>Thalomid</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con dexametasona para el tratamiento de pacientes con diagnóstico nuevo de mieloma múltiple. También se usa para el tratamiento de una enfermedad dolorosa de la piel relacionada con la lepra. Además, está en estudio para el tratamiento de otros tipos de cáncer. Es posible que  Thalomid ayude al sistema inmunitario a destruir células cancerosas. Asimismo, tal vez impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer. Thalomid es un tipo de inhibidor de la angiogénesis y de inmunomodulador. También se llama talidomida.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2021-06-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000496418" url="/about-cancer/treatment/drugs/thalidomide">Thalidomide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

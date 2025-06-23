@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000756936"><TermName>LHRH</TermName><TermDefinition><DefinitionText>A hormone made by a part of the brain called the hypothalamus. LHRH causes the pituitary gland in the brain to make and secrete the hormones luteinizing hormone (LH) and follicle-stimulating hormone (FSH). In men, these hormones cause the testicles to make testosterone. In women, they cause the ovaries to make estrogen and progesterone. Also called GnRH, gonadotropin-releasing hormone, LH-RH, and luteinizing hormone-releasing hormone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>LHRH</SpanishTermName><SpanishTermDefinition><DefinitionText>Hormona elaborada por una parte del encéfalo que se llama hipotálamo. La hormona liberadora de hormona luteinizante (LHRH) hace que la hipófisis elabore y libere la hormona luteinizante  (LH) y la hormona foliculoestimulante (FSH). En los hombres, estas hormonas hacen que los testículos produzcan testosterona. En las mujeres, estas hormonas hacen que los ovarios produzcan estrógeno y progesterona. También se llama GnRH, HLHL, hormona liberadora de gonadotropina, hormona liberadora de hormona luteinizante y LH-RH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-01-21</DateFirstPublished><DateLastModified>2014-03-13</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/breast-hormone-therapy-fact-sheet">Hormone Therapy for Breast Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet">Hormone Therapy for Prostate Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-terapia-hormonal-seno" UseWith="es">Terapia hormonal para el cáncer de seno</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-terapia-hormonal">Terapia hormonal para el cáncer de próstata</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000756936">
+  <TermName>LHRH</TermName>
+  <TermDefinition>
+    <DefinitionText>A hormone made by a part of the brain called the hypothalamus. LHRH causes the pituitary gland in the brain to make and secrete the hormones luteinizing hormone (LH) and follicle-stimulating hormone (FSH). In men, these hormones cause the testicles to make testosterone. In women, they cause the ovaries to make estrogen and progesterone. Also called GnRH, gonadotropin-releasing hormone, LH-RH, and luteinizing hormone-releasing hormone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>LHRH</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hormona elaborada por una parte del encéfalo que se llama hipotálamo. La hormona liberadora de hormona luteinizante (LHRH) hace que la hipófisis elabore y libere la hormona luteinizante  (LH) y la hormona foliculoestimulante (FSH). En los hombres, estas hormonas hacen que los testículos produzcan testosterona. En las mujeres, estas hormonas hacen que los ovarios produzcan estrógeno y progesterona. También se llama GnRH, HLHL, hormona liberadora de gonadotropina, hormona liberadora de hormona luteinizante y LH-RH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-01-21</DateFirstPublished>
+  <DateLastModified>2014-03-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/breast-hormone-therapy-fact-sheet">Hormone Therapy for Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet">Hormone Therapy for Prostate Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-terapia-hormonal-seno" UseWith="es">Terapia hormonal para el cáncer de seno</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-terapia-hormonal">Terapia hormonal para el cáncer de próstata</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

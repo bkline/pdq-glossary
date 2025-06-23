@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000692084"><TermName>chlorambucil-prednisone regimen</TermName><TermPronunciation>(klor-AM-byoo-sil-PRED-nih-sone REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>A chemotherapy combination used to treat chronic lymphocytic leukemia (CLL). It includes the drugs chlorambucil hydrochloride and prednisone. Also called chlorambucil-prednisone, CP, and CP regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chlorambucil/prednisone regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen de clorambucilo y prednisona&quot;" language="es" id="_4"/><SpanishTermName>régimen de clorambucilo y prednisona</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de  la leucemia linfocítica crónica. Incluye los medicamentos clorhidrato de clorambucilo y prednisona. También se llama clorambucilo y prednisona, CP y régimen CP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-12-30</DateFirstPublished><DateLastModified>2010-12-28</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000686550" url="/about-cancer/treatment/drugs/CHLORAMBUCIL-PREDNISONE">CHLORAMBUCIL-PREDNISONE</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000692084">
+  <TermName>chlorambucil-prednisone regimen</TermName>
+  <TermPronunciation>(klor-AM-byoo-sil-PRED-nih-sone REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A chemotherapy combination used to treat chronic lymphocytic leukemia (CLL). It includes the drugs chlorambucil hydrochloride and prednisone. Also called chlorambucil-prednisone, CP, and CP regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chlorambucil/prednisone regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen de clorambucilo y prednisona&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen de clorambucilo y prednisona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de  la leucemia linfocítica crónica. Incluye los medicamentos clorhidrato de clorambucilo y prednisona. También se llama clorambucilo y prednisona, CP y régimen CP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-12-30</DateFirstPublished>
+  <DateLastModified>2010-12-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000686550" url="/about-cancer/treatment/drugs/CHLORAMBUCIL-PREDNISONE">CHLORAMBUCIL-PREDNISONE</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000813543"><TermName>AFLD</TermName><TermDefinition><DefinitionText>A condition in which fat builds up in the liver of people who drink large amounts of alcohol. AFLD can be reversed if it is diagnosed early and a person stops drinking alcohol.  In some people, the condition can get worse and cause liver inflammation and damage to the cells in the liver. This may lead to cirrhosis (scarring of the liver), liver failure, or liver cancer.  Also called alcoholic fatty liver disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>EHGA</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por  la que se acumula grasa en el hígado de las personas que consumen grandes cantidades de bebidas alcohólicas. La EHGA es reversible cuando se diagnostica temprano y se deja de consumir bebidas alcohólicas. En algunas personas esta afección empeora y produce inflamación hepática y daño en las células del hígado. Esto en ocasiones causa cirrosis (tejido cicatricial en el hígado), insuficiencia hepática o cáncer de hígado. También se llama enfermedad del hígado graso alcohólico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-20</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://medlineplus.gov/fattyliverdisease.html" UseWith="en">Fatty Liver Disease (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/fattyliverdisease.html">Hígado graso (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813543">
+  <TermName>AFLD</TermName>
+  <TermDefinition>
+    <DefinitionText>A condition in which fat builds up in the liver of people who drink large amounts of alcohol. AFLD can be reversed if it is diagnosed early and a person stops drinking alcohol.  In some people, the condition can get worse and cause liver inflammation and damage to the cells in the liver. This may lead to cirrhosis (scarring of the liver), liver failure, or liver cancer.  Also called alcoholic fatty liver disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>EHGA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por  la que se acumula grasa en el hígado de las personas que consumen grandes cantidades de bebidas alcohólicas. La EHGA es reversible cuando se diagnostica temprano y se deja de consumir bebidas alcohólicas. En algunas personas esta afección empeora y produce inflamación hepática y daño en las células del hígado. Esto en ocasiones causa cirrosis (tejido cicatricial en el hígado), insuficiencia hepática o cáncer de hígado. También se llama enfermedad del hígado graso alcohólico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-20</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://medlineplus.gov/fattyliverdisease.html" UseWith="en">Fatty Liver Disease (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/fattyliverdisease.html">Hígado graso (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

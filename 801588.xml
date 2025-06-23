@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000801588"><TermName>IDC-P</TermName><TermDefinition><DefinitionText>A type of cancer that usually begins in the glandular (secretory) tissue that lines the prostate and spreads to the ducts within the prostate. IDC-P tends to be large when it is found and tends to grow and spread quickly to other parts of the body. It usually has a poor prognosis (chance of recovery) and is likely to come back after treatment. Also called intraductal carcinoma of the prostate and intraductal prostate carcinoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CID-P</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer que por lo general comienza en el tejido  glandular (secretor) que recubre la próstata y se disemina a los conductos de la próstata. El CID-P  suele ser de gran tamaño cuando se diagnostica, además crece y se disemina rápido a otras partes del cuerpo. A menudo tiene un pronóstico (posibilidad de recuperación) precario y es probable que vuelva después del tratamiento. También se llama carcinoma intraductal de próstata y carcinoma intraductal prostático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801588">
+  <TermName>IDC-P</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of cancer that usually begins in the glandular (secretory) tissue that lines the prostate and spreads to the ducts within the prostate. IDC-P tends to be large when it is found and tends to grow and spread quickly to other parts of the body. It usually has a poor prognosis (chance of recovery) and is likely to come back after treatment. Also called intraductal carcinoma of the prostate and intraductal prostate carcinoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CID-P</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer que por lo general comienza en el tejido  glandular (secretor) que recubre la próstata y se disemina a los conductos de la próstata. El CID-P  suele ser de gran tamaño cuando se diagnostica, además crece y se disemina rápido a otras partes del cuerpo. A menudo tiene un pronóstico (posibilidad de recuperación) precario y es probable que vuelva después del tratamiento. También se llama carcinoma intraductal de próstata y carcinoma intraductal prostático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-07</DateFirstPublished>
+</GlossaryTerm>

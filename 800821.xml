@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800821"><TermName>abscopal effect</TermName><TermPronunciation>(ab-SKOH-pul eh-FEKT)</TermPronunciation><TermDefinition><DefinitionText>Describes the shrinking or disappearance of tumors in parts of the body that were not the direct target of local therapy, such as radiation therapy. It is thought that in the abscopal effect, the immune system is stimulated to fight cancer in the whole body as a result of the local therapy. Learning more about the abscopal effect may help in the development of new cancer treatments, especially for metastatic cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abscopal effect&quot;" language="en" id="_4"/><MediaLink ref="CDR0000802631" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efecto abscopal&quot;" language="es" id="_5"/><SpanishTermName>efecto abscopal</SpanishTermName><SpanishTermDefinition><DefinitionText>Achicamiento o desaparición de tumores en partes del cuerpo que no recibieron un tratamiento local, como la radioterapia. Se piensa que el efecto abscopal se produce cuando un tratamiento local estimula el sistema inmunitario para combatir el cáncer en todo el cuerpo. Tener más información sobre el efecto abscopal quizás ayude a encontrar nuevos tratamientos del cáncer, en especial del cáncer metastásico. También se llama efecto abscópico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800821">
+  <TermName>abscopal effect</TermName>
+  <TermPronunciation>(ab-SKOH-pul eh-FEKT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes the shrinking or disappearance of tumors in parts of the body that were not the direct target of local therapy, such as radiation therapy. It is thought that in the abscopal effect, the immune system is stimulated to fight cancer in the whole body as a result of the local therapy. Learning more about the abscopal effect may help in the development of new cancer treatments, especially for metastatic cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abscopal effect&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000802631" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;efecto abscopal&quot;" language="es" id="_5"/>
+  <SpanishTermName>efecto abscopal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Achicamiento o desaparición de tumores en partes del cuerpo que no recibieron un tratamiento local, como la radioterapia. Se piensa que el efecto abscopal se produce cuando un tratamiento local estimula el sistema inmunitario para combatir el cáncer en todo el cuerpo. Tener más información sobre el efecto abscopal quizás ayude a encontrar nuevos tratamientos del cáncer, en especial del cáncer metastásico. También se llama efecto abscópico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-06</DateFirstPublished>
+</GlossaryTerm>

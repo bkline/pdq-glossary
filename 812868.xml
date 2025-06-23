@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000812868"><TermName>early diagnosis</TermName><TermPronunciation>(ER-lee DY-ug-NOH-sis)</TermPronunciation><TermDefinition><DefinitionText>The identification of a disease or condition, such as cancer, as soon as the first signs and symptoms appear. When cancer is diagnosed early, it may be easier to treat or cure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814884" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;early diagnosis&quot;" language="en" id="_4"/><MediaLink ref="CDR0000814885" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnóstico temprano&quot;" language="es" id="_5"/><SpanishTermName>diagnóstico temprano</SpanishTermName><SpanishTermDefinition><DefinitionText>Detección de una enfermedad o afección, como el cáncer, en cuanto aparecen los primeros signos y síntomas. Cuando el cáncer se diagnostica en su fase inicial, a veces es más fácil de tratar o  curar. También se llama diagnóstico precoz.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-09-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000812868">
+  <TermName>early diagnosis</TermName>
+  <TermPronunciation>(ER-lee DY-ug-NOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The identification of a disease or condition, such as cancer, as soon as the first signs and symptoms appear. When cancer is diagnosed early, it may be easier to treat or cure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814884" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;early diagnosis&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000814885" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnóstico temprano&quot;" language="es" id="_5"/>
+  <SpanishTermName>diagnóstico temprano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Detección de una enfermedad o afección, como el cáncer, en cuanto aparecen los primeros signos y síntomas. Cuando el cáncer se diagnostica en su fase inicial, a veces es más fácil de tratar o  curar. También se llama diagnóstico precoz.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-09-13</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000599983"><TermName>high-intensity focused ultrasound therapy</TermName><TermPronunciation>(hy-in-TEN-sih-tee FOH-kust UL-truh-sownd THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which high-energy sound waves are aimed directly at an area of abnormal cells or tissue in the body. The waves create heat that kills the cells. High-intensity focused ultrasound therapy is being studied in the treatment of prostate cancer and some other types of cancer and other diseases. Also called HIFU.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721212" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;high-intensity focused ultrasound therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de ultrasonidos focalizados de alta intensidad&quot;" language="es" id="_8"/><SpanishTermName>terapia de ultrasonidos focalizados de alta intensidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento mediante el que se dirigen ondas de sonido de alta energía directamente a un área de células o tejidos anormales del cuerpo. Las ondas crean calor, que destruye las células. La terapia de ultrasonidos focalizados de alta intensidad está en estudio para el tratamiento del cáncer de próstata así como otros tipos de cáncer y enfermedades. También se llama HIFU, terapia de ultrasonidos concentrados de alta intensidad, terapia de ultrasonidos enfocados de alta intensidad y terapia ultrasónica focalizada de alta intensidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-07-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000599983">
+  <TermName>high-intensity focused ultrasound therapy</TermName>
+  <TermPronunciation>(hy-in-TEN-sih-tee FOH-kust UL-truh-sownd THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which high-energy sound waves are aimed directly at an area of abnormal cells or tissue in the body. The waves create heat that kills the cells. High-intensity focused ultrasound therapy is being studied in the treatment of prostate cancer and some other types of cancer and other diseases. Also called HIFU.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721212" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;high-intensity focused ultrasound therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721211" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;terapia de ultrasonidos focalizados de alta intensidad&quot;" language="es" id="_8"/>
+  <SpanishTermName>terapia de ultrasonidos focalizados de alta intensidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento mediante el que se dirigen ondas de sonido de alta energía directamente a un área de células o tejidos anormales del cuerpo. Las ondas crean calor, que destruye las células. La terapia de ultrasonidos focalizados de alta intensidad está en estudio para el tratamiento del cáncer de próstata así como otros tipos de cáncer y enfermedades. También se llama HIFU, terapia de ultrasonidos concentrados de alta intensidad, terapia de ultrasonidos enfocados de alta intensidad y terapia ultrasónica focalizada de alta intensidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-07-14</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000817238"><TermName>macular edema</TermName><TermPronunciation>(MA-kyoo-ler eh-DEE-muh)</TermPronunciation><TermDefinition><DefinitionText>A buildup of fluid in the macula, the part of the retina (the light-sensitive layers of tissue at the back of the eye) that helps people see things directly in front of them. Macular edema can cause blurry or wavy vision, colors to appear dull, and vision loss that worsens over time. Macular edema is usually caused by diabetic retinopathy, an eye condition that can cause vision loss and blindness in people with diabetes. It can also be caused by other eye conditions, eye tumors, eye surgery, trauma to the eye, or certain medications.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817801" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;macular edema&quot;" language="en" id="_4"/><MediaLink ref="CDR0000817802" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema macular&quot;" language="es" id="_5"/><SpanishTermName>edema macular</SpanishTermName><SpanishTermDefinition><DefinitionText>Acumulación de líquido en la mácula, la parte de la retina (capas de tejido sensibles a la luz situadas en la parte posterior del ojo) que ayuda a ver lo que se tiene delante. El edema macular puede provocar visión borrosa o distorsionada, colores apagados y pérdida de visión que empeora con el tiempo. El edema macular suele deberse a la retinopatía diabética, una afección ocular que provoca pérdida de visión y ceguera en las personas con diabetes. También puede producirse por otras enfermedades oculares, tumores, cirugía ocular, traumatismos o determinados medicamentos. También se llama edema de mácula.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2025-02-14</DateFirstPublished><DateLastModified>2025-02-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817238">
+  <TermName>macular edema</TermName>
+  <TermPronunciation>(MA-kyoo-ler eh-DEE-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A buildup of fluid in the macula, the part of the retina (the light-sensitive layers of tissue at the back of the eye) that helps people see things directly in front of them. Macular edema can cause blurry or wavy vision, colors to appear dull, and vision loss that worsens over time. Macular edema is usually caused by diabetic retinopathy, an eye condition that can cause vision loss and blindness in people with diabetes. It can also be caused by other eye conditions, eye tumors, eye surgery, trauma to the eye, or certain medications.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817801" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;macular edema&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000817802" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;edema macular&quot;" language="es" id="_5"/>
+  <SpanishTermName>edema macular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Acumulación de líquido en la mácula, la parte de la retina (capas de tejido sensibles a la luz situadas en la parte posterior del ojo) que ayuda a ver lo que se tiene delante. El edema macular puede provocar visión borrosa o distorsionada, colores apagados y pérdida de visión que empeora con el tiempo. El edema macular suele deberse a la retinopatía diabética, una afección ocular que provoca pérdida de visión y ceguera en las personas con diabetes. También puede producirse por otras enfermedades oculares, tumores, cirugía ocular, traumatismos o determinados medicamentos. También se llama edema de mácula.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2025-02-14</DateFirstPublished>
+  <DateLastModified>2025-02-12</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000812582"><TermName>FIGC</TermName><TermDefinition><DefinitionText>A rare, inherited disorder that increases the risk of developing a type of stomach cancer called intestinal gastric adenocarcinoma. This cancer begins in the mucus-producing cells in the innermost lining of the stomach and tends to grow and spread more slowly than other types of stomach cancer. FIGC runs in families, but the gene involved in this disorder is not known. Also called familial intestinal gastric cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>FIGC</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro que aumenta el riesgo de un tipo de cáncer de estómago llamado adenocarcinoma gástrico intestinal. Este cáncer comienza en las células que producen moco del revestimiento más interno del estómago y, por lo general, crece y se disemina más lento que otros tipos de cáncer de estómago. El FIGC es hereditario, pero se desconoce cuál es el gen que lo causa. También se llama cáncer gástrico intestinal familiar y CGIF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-09-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000812582">
+  <TermName>FIGC</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder that increases the risk of developing a type of stomach cancer called intestinal gastric adenocarcinoma. This cancer begins in the mucus-producing cells in the innermost lining of the stomach and tends to grow and spread more slowly than other types of stomach cancer. FIGC runs in families, but the gene involved in this disorder is not known. Also called familial intestinal gastric cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>FIGC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno hereditario raro que aumenta el riesgo de un tipo de cáncer de estómago llamado adenocarcinoma gástrico intestinal. Este cáncer comienza en las células que producen moco del revestimiento más interno del estómago y, por lo general, crece y se disemina más lento que otros tipos de cáncer de estómago. El FIGC es hereditario, pero se desconoce cuál es el gen que lo causa. También se llama cáncer gástrico intestinal familiar y CGIF.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-09-12</DateFirstPublished>
+</GlossaryTerm>

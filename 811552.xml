@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000811552"><TermName>Orserdu</TermName><TermPronunciation>(or-SER-doo)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat postmenopausal women and adult men with estrogen receptor-positive, HER2-negative breast cancer that has a mutation (change) in the <GeneName>ESR1</GeneName> gene and is advanced or has spread to other parts of the body. It is used in patients whose disease got worse after treatment with at least one type of hormone therapy. Orserdu binds to proteins called estrogen receptors, which are found on some breast cancer cells. These proteins may cause cancer cells to grow. Orserdu blocks these proteins and may keep cancer cells from growing. It is a type of estrogen receptor antagonist. Also called elacestrant dihydrochloride.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Orserdu&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Orserdu&quot;" language="es" id="_4"/><SpanishTermName>Orserdu</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de mujeres posmenopáusicas y hombres adultos con cáncer de mama positivo para el receptor de estrógeno y negativo para HER2, que tiene una mutación (cambio) en el gen <GeneName>ESR1</GeneName> y está en estadio avanzado o se diseminó a otras partes del cuerpo. Se utiliza en pacientes cuya enfermedad empeoró después de recibir por lo menos un tipo de terapia hormonal. Orserdu se une a unas proteínas llamadas receptores de estrógeno que se encuentran en algunas células de cáncer de mama. En ocasiones, estas proteínas hacen que las células cancerosas se multipliquen. Orserdu bloquea estas proteínas y quizás impida la multiplicación de células cancerosas. Es un tipo de antagonista del receptor de estrógeno. También se llama diclorhidrato de elacestrant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-02-03</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000811610" url="/about-cancer/treatment/drugs/elacestrant-dihydrochloride">Elacestrant Dihydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811552">
+  <TermName>Orserdu</TermName>
+  <TermPronunciation>(or-SER-doo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat postmenopausal women and adult men with estrogen receptor-positive, HER2-negative breast cancer that has a mutation (change) in the 
+      <GeneName>ESR1</GeneName>
+       gene and is advanced or has spread to other parts of the body. It is used in patients whose disease got worse after treatment with at least one type of hormone therapy. Orserdu binds to proteins called estrogen receptors, which are found on some breast cancer cells. These proteins may cause cancer cells to grow. Orserdu blocks these proteins and may keep cancer cells from growing. It is a type of estrogen receptor antagonist. Also called elacestrant dihydrochloride.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Orserdu&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Orserdu&quot;" language="es" id="_4"/>
+  <SpanishTermName>Orserdu</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de mujeres posmenopáusicas y hombres adultos con cáncer de mama positivo para el receptor de estrógeno y negativo para HER2, que tiene una mutación (cambio) en el gen 
+      <GeneName>ESR1</GeneName>
+       y está en estadio avanzado o se diseminó a otras partes del cuerpo. Se utiliza en pacientes cuya enfermedad empeoró después de recibir por lo menos un tipo de terapia hormonal. Orserdu se une a unas proteínas llamadas receptores de estrógeno que se encuentran en algunas células de cáncer de mama. En ocasiones, estas proteínas hacen que las células cancerosas se multipliquen. Orserdu bloquea estas proteínas y quizás impida la multiplicación de células cancerosas. Es un tipo de antagonista del receptor de estrógeno. También se llama diclorhidrato de elacestrant.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-02-03</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000811610" url="/about-cancer/treatment/drugs/elacestrant-dihydrochloride">Elacestrant Dihydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

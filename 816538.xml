@@ -1,1 +1,42 @@
-<GlossaryTerm id="CDR0000816538"><TermName>vorasidenib citrate</TermName><TermPronunciation>(vor-uh-SIH-deh-nib SIH-trayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults and children aged 12 years and older with grade 2 astrocytoma or oligodendroglioma (types of brain tumors) that has an abnormal <GeneName>IDH1</GeneName> or <GeneName>IDH2</GeneName> gene. It is used in patients who had a biopsy or surgery to remove the tumor. It is also being studied in the treatment of other types of cancer. Vorasidenib citrate blocks the proteins made by the mutated <GeneName>IDH1</GeneName> and <GeneName>IDH2</GeneName> genes, which may help keep cancer cells from growing. It is a type of enzyme inhibitor and a type of targeted therapy. Also called Voranigo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vorasidenib citrate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817406" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citrato de vorasidenib&quot;" language="es" id="_4"/><SpanishTermName>citrato de vorasidenib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento en adultos y niños de 12 años o más con astrocitoma u oligodendroglioma (tipos de tumores de encéfalo) de grado 2 que presentan un gen <GeneName>IDH1</GeneName> o <GeneName>IDH2</GeneName> anormal. Se usa en pacientes a los que se les hizo una biopsia o una cirugía para extirpar el tumor. También está en estudio para el tratamiento de otros tipos de cáncer. El citrato de vorasidenib bloquea las proteínas que se originan de los genes <GeneName>IDH1</GeneName> y <GeneName>IDH2</GeneName> mutados, lo que quizás ayude a impedir la multiplicación de células tumorales. Es un tipo de inhibidor enzimático y de terapia dirigida. También se llama Voranigo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-08-19</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000816536" url="/about-cancer/treatment/drugs/vorasidenib-citrate">Vorasidenib Citrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816538">
+  <TermName>vorasidenib citrate</TermName>
+  <TermPronunciation>(vor-uh-SIH-deh-nib SIH-trayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults and children aged 12 years and older with grade 2 astrocytoma or oligodendroglioma (types of brain tumors) that has an abnormal 
+      <GeneName>IDH1</GeneName>
+       or 
+      <GeneName>IDH2</GeneName>
+       gene. It is used in patients who had a biopsy or surgery to remove the tumor. It is also being studied in the treatment of other types of cancer. Vorasidenib citrate blocks the proteins made by the mutated 
+      <GeneName>IDH1</GeneName>
+       and 
+      <GeneName>IDH2</GeneName>
+       genes, which may help keep cancer cells from growing. It is a type of enzyme inhibitor and a type of targeted therapy. Also called Voranigo.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vorasidenib citrate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817406" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citrato de vorasidenib&quot;" language="es" id="_4"/>
+  <SpanishTermName>citrato de vorasidenib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento en adultos y niños de 12 años o más con astrocitoma u oligodendroglioma (tipos de tumores de encéfalo) de grado 2 que presentan un gen 
+      <GeneName>IDH1</GeneName>
+       o 
+      <GeneName>IDH2</GeneName>
+       anormal. Se usa en pacientes a los que se les hizo una biopsia o una cirugía para extirpar el tumor. También está en estudio para el tratamiento de otros tipos de cáncer. El citrato de vorasidenib bloquea las proteínas que se originan de los genes 
+      <GeneName>IDH1</GeneName>
+       y 
+      <GeneName>IDH2</GeneName>
+       mutados, lo que quizás ayude a impedir la multiplicación de células tumorales. Es un tipo de inhibidor enzimático y de terapia dirigida. También se llama Voranigo.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-08-19</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000816536" url="/about-cancer/treatment/drugs/vorasidenib-citrate">Vorasidenib Citrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

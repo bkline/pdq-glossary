@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000804667"><TermName>ANH</TermName><TermDefinition><DefinitionText>A form of nutrition that is given as liquids, including liquid foods, through a tube inserted into a vein, under the skin, or into the stomach or small intestine. ANH is given when a person is not able to eat or drink by mouth or has a disease or condition that affects their ability to absorb nutrients through the digestive system. For people near death,  it does not help prolong life and is usually not given because it can cause severe problems, such as infection, aspiration (the breathing in of fluid or food into the lungs), diarrhea, and cramping. Also called artificial nutrition and hydration.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>HNA</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de nutrición que se administra en forma líquida mediante un tubo que se coloca en una vena, debajo de la piel, en el estómago o en el intestino delgado. Se administra cuando una persona pierde la capacidad de comer o beber por la boca; o tiene una enfermedad o afección que afecta la absorción de nutrientes por el aparato digestivo. Este tipo de nutrición por lo general no se administra a las personas que están cerca de morir porque no ayuda a prolongar la vida y a veces causa problemas graves, como infección o aspiración (inhalación accidental de alimentos o líquidos hacia los pulmones). También se llama ANH e hidratación y nutrición artificiales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-04-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804667">
+  <TermName>ANH</TermName>
+  <TermDefinition>
+    <DefinitionText>A form of nutrition that is given as liquids, including liquid foods, through a tube inserted into a vein, under the skin, or into the stomach or small intestine. ANH is given when a person is not able to eat or drink by mouth or has a disease or condition that affects their ability to absorb nutrients through the digestive system. For people near death,  it does not help prolong life and is usually not given because it can cause severe problems, such as infection, aspiration (the breathing in of fluid or food into the lungs), diarrhea, and cramping. Also called artificial nutrition and hydration.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>HNA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de nutrición que se administra en forma líquida mediante un tubo que se coloca en una vena, debajo de la piel, en el estómago o en el intestino delgado. Se administra cuando una persona pierde la capacidad de comer o beber por la boca; o tiene una enfermedad o afección que afecta la absorción de nutrientes por el aparato digestivo. Este tipo de nutrición por lo general no se administra a las personas que están cerca de morir porque no ayuda a prolongar la vida y a veces causa problemas graves, como infección o aspiración (inhalación accidental de alimentos o líquidos hacia los pulmones). También se llama ANH e hidratación y nutrición artificiales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-04-07</DateFirstPublished>
+</GlossaryTerm>

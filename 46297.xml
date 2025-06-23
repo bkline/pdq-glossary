@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046297"><TermName>menstruation</TermName><TermPronunciation>(MEN-stroo-WAY-shun)</TermPronunciation><TermDefinition><DefinitionText>The normal monthly shedding of blood and tissue from the lining of the uterus (womb) when pregnancy does not occur. During menstruation, menstrual blood and tissue flow from the uterus through the cervix and pass out of the body through the vagina. Menstruation usually occurs about every 28 days (except during pregnancy) and lasts 3 to 5 days, but this can vary from person to person. It normally starts during puberty and ends at menopause. Also called menses and menstrual period.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;menstruation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;menstruación&quot;" language="es" id="_4"/><SpanishTermName>menstruación</SpanishTermName><SpanishTermDefinition><DefinitionText>Desprendimiento y eliminación normal de sangre y del tejido que reviste el útero (matriz), que ocurre cada mes. Durante la menstruación, el flujo menstrual (sangre y tejido) del útero pasa por el cuello uterino hasta la vagina y sale del cuerpo. La menstruación se suele presentar cada 28 días cuando no se produce un embarazo, y dura de 3 a 5 días, pero esto varía de una persona a otra. Por lo general, comienza en la pubertad y termina con la menopausia. También se llama menorrea, período menstrual y regla.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2024-03-07</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046297">
+  <TermName>menstruation</TermName>
+  <TermPronunciation>(MEN-stroo-WAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The normal monthly shedding of blood and tissue from the lining of the uterus (womb) when pregnancy does not occur. During menstruation, menstrual blood and tissue flow from the uterus through the cervix and pass out of the body through the vagina. Menstruation usually occurs about every 28 days (except during pregnancy) and lasts 3 to 5 days, but this can vary from person to person. It normally starts during puberty and ends at menopause. Also called menses and menstrual period.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;menstruation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;menstruación&quot;" language="es" id="_4"/>
+  <SpanishTermName>menstruación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Desprendimiento y eliminación normal de sangre y del tejido que reviste el útero (matriz), que ocurre cada mes. Durante la menstruación, el flujo menstrual (sangre y tejido) del útero pasa por el cuello uterino hasta la vagina y sale del cuerpo. La menstruación se suele presentar cada 28 días cuando no se produce un embarazo, y dura de 3 a 5 días, pero esto varía de una persona a otra. Por lo general, comienza en la pubertad y termina con la menopausia. También se llama menorrea, período menstrual y regla.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2024-03-07</DateLastModified>
+</GlossaryTerm>

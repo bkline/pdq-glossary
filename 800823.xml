@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800823"><TermName>artificial intelligence</TermName><TermPronunciation>(AR-tih-FIH-shul in-TEH-luh-jents)</TermPronunciation><TermDefinition><DefinitionText>The ability of a computer to perform functions that are usually thought of as intelligent human behavior, such as learning, reasoning, problem solving, and decision making. Artificial intelligence uses computer programs that analyze very large amounts of information to learn how to help make decisions or predictions. In medicine, the use of artificial intelligence may help improve cancer screening and diagnosis and plan treatment. It may also be used in research and in drug discovery and development. Also called AI.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802632" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;artificial intelligence&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802633" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inteligencia artificial&quot;" language="es" id="_4"/><SpanishTermName>inteligencia artificial</SpanishTermName><SpanishTermDefinition><DefinitionText>Capacidad de una computadora de ejecutar funciones que por lo general se consideran propias de la inteligencia del ser humano, como el aprendizaje, el razonamiento, la resolución de problemas y la toma de decisiones. La inteligencia artificial utiliza programas informáticos que analizan grandes cantidades de información para aprender a tomar decisiones u obtener predicciones. En el ámbito de la medicina, el uso de la inteligencia artificial quizás ayude a mejorar la detección y el diagnóstico del cáncer, y planificar el tratamiento. También se utiliza en la investigación y en el descubrimiento y formulación de medicamentos. También se llama IA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800823">
+  <TermName>artificial intelligence</TermName>
+  <TermPronunciation>(AR-tih-FIH-shul in-TEH-luh-jents)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The ability of a computer to perform functions that are usually thought of as intelligent human behavior, such as learning, reasoning, problem solving, and decision making. Artificial intelligence uses computer programs that analyze very large amounts of information to learn how to help make decisions or predictions. In medicine, the use of artificial intelligence may help improve cancer screening and diagnosis and plan treatment. It may also be used in research and in drug discovery and development. Also called AI.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802632" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;artificial intelligence&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802633" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inteligencia artificial&quot;" language="es" id="_4"/>
+  <SpanishTermName>inteligencia artificial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Capacidad de una computadora de ejecutar funciones que por lo general se consideran propias de la inteligencia del ser humano, como el aprendizaje, el razonamiento, la resolución de problemas y la toma de decisiones. La inteligencia artificial utiliza programas informáticos que analizan grandes cantidades de información para aprender a tomar decisiones u obtener predicciones. En el ámbito de la medicina, el uso de la inteligencia artificial quizás ayude a mejorar la detección y el diagnóstico del cáncer, y planificar el tratamiento. También se utiliza en la investigación y en el descubrimiento y formulación de medicamentos. También se llama IA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-06</DateFirstPublished>
+</GlossaryTerm>

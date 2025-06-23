@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000805180"><TermName>grade I DCIS</TermName><TermPronunciation>(grayd …)</TermPronunciation><TermDefinition><DefinitionText>A condition in which cells that look mostly like normal cells under a microscope are found in the lining of a breast duct. The abnormal cells have not spread outside the duct to other tissues in the breast.  Grade I DCIS tends to grow more slowly than grade II or grade III DCIS. It is also less likely to come back or become invasive breast cancer and spread to other tissues.  Also called grade I ductal carcinoma in situ, low-grade DCIS, and low-grade ductal carcinoma in situ.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;grade I DCIS&quot;" language="en" id="_3"/><SpanishTermName>CDIS de grado I</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un conducto de la mama. Estas células son muy parecidas a las células normales cuando se observan al microscopio. Las células anormales no se han diseminado a otros tejidos de la mama fuera del conducto.  El CDIS de grado I suele crecer más despacio que el CDIS de grado II o de grado III. Además, es menos probable que vuelva o se convierta en un cáncer de mama invasivo y se disemine a otros tejidos. También se llama carcinoma ductal in situ de grado bajo, carcinoma ductal in situ de grado I y CDIS de grado bajo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-10-12</DateFirstPublished><DateLastModified>2022-05-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000805180">
+  <TermName>grade I DCIS</TermName>
+  <TermPronunciation>(grayd …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which cells that look mostly like normal cells under a microscope are found in the lining of a breast duct. The abnormal cells have not spread outside the duct to other tissues in the breast.  Grade I DCIS tends to grow more slowly than grade II or grade III DCIS. It is also less likely to come back or become invasive breast cancer and spread to other tissues.  Also called grade I ductal carcinoma in situ, low-grade DCIS, and low-grade ductal carcinoma in situ.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;grade I DCIS&quot;" language="en" id="_3"/>
+  <SpanishTermName>CDIS de grado I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en el revestimiento de un conducto de la mama. Estas células son muy parecidas a las células normales cuando se observan al microscopio. Las células anormales no se han diseminado a otros tejidos de la mama fuera del conducto.  El CDIS de grado I suele crecer más despacio que el CDIS de grado II o de grado III. Además, es menos probable que vuelva o se convierta en un cáncer de mama invasivo y se disemine a otros tejidos. También se llama carcinoma ductal in situ de grado bajo, carcinoma ductal in situ de grado I y CDIS de grado bajo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-10-12</DateFirstPublished>
+  <DateLastModified>2022-05-04</DateLastModified>
+</GlossaryTerm>

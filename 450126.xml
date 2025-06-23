@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000450126"><TermName>JMML</TermName><TermDefinition><DefinitionText>A rare form of childhood leukemia in which cancer cells often spread into tissues such as the skin, lung, and intestines. Also called juvenile myelomonocytic leukemia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>LMMJ</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de leucemia infantil poco frecuente en la que las células cancerosas suelen diseminarse a tejidos como la piel, los pulmones y los intestinos. También se llama leucemia mielomonocítica juvenil.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2007-04-26</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000450126">
+  <TermName>JMML</TermName>
+  <TermDefinition>
+    <DefinitionText>A rare form of childhood leukemia in which cancer cells often spread into tissues such as the skin, lung, and intestines. Also called juvenile myelomonocytic leukemia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>LMMJ</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de leucemia infantil poco frecuente en la que las células cancerosas suelen diseminarse a tejidos como la piel, los pulmones y los intestinos. También se llama leucemia mielomonocítica juvenil.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2007-04-26</DateLastModified>
+</GlossaryTerm>

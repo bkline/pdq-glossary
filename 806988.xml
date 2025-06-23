@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000806988"><TermName>fibrous connective tissue</TermName><TermPronunciation>(FY-brus kuh-NEK-tiv TIH-shoo)</TermPronunciation><TermDefinition><DefinitionText>A type of tissue that is mostly made up of tough protein fibers called collagen and cells called fibroblasts. Fibrous connective tissue supports, protects, and holds bones, muscles, and other tissues and organs in place.  Ligaments, tendons, the inner layer of the skin, and the sclera (the white outer layer of the eye) are all types of fibrous connective tissue. Also called dense connective tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000809776" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrous connective tissue&quot;" language="en" id="_6"/><MediaLink ref="CDR0000809777" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido fibroso&quot;" language="es" id="_7"/><SpanishTermName>tejido fibroso</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tejido que se compone, en su mayor parte, de fibras proteicas resistentes llamadas colágeno y de células llamadas fibroblastos. El tejido fibroso sostiene, protege y mantiene en su lugar los huesos, los músculos y otros tejidos y órganos.  Los ligamentos, los tendones, la capa interna de la piel y la esclerótica (la capa blanca externa del ojo) son tipos de tejido fibroso. También se llama tejido conectivo fibroso, tejido conjuntivo denso, tejido conjuntivo fibroso y tejido fibroso denso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-03-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806988">
+  <TermName>fibrous connective tissue</TermName>
+  <TermPronunciation>(FY-brus kuh-NEK-tiv TIH-shoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of tissue that is mostly made up of tough protein fibers called collagen and cells called fibroblasts. Fibrous connective tissue supports, protects, and holds bones, muscles, and other tissues and organs in place.  Ligaments, tendons, the inner layer of the skin, and the sclera (the white outer layer of the eye) are all types of fibrous connective tissue. Also called dense connective tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000809776" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrous connective tissue&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000809777" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido fibroso&quot;" language="es" id="_7"/>
+  <SpanishTermName>tejido fibroso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tejido que se compone, en su mayor parte, de fibras proteicas resistentes llamadas colágeno y de células llamadas fibroblastos. El tejido fibroso sostiene, protege y mantiene en su lugar los huesos, los músculos y otros tejidos y órganos.  Los ligamentos, los tendones, la capa interna de la piel y la esclerótica (la capa blanca externa del ojo) son tipos de tejido fibroso. También se llama tejido conectivo fibroso, tejido conjuntivo denso, tejido conjuntivo fibroso y tejido fibroso denso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-03-16</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044734"><TermName>study agent</TermName><TermPronunciation>(STUH-dee AY-jent)</TermPronunciation><TermDefinition><DefinitionText>A medicine, vitamin, mineral, food supplement, or a combination of them that is being tested in a clinical trial.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705892" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;study agent&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705891" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sustancia en estudio&quot;" language="es" id="_4"/><SpanishTermName>sustancia en estudio</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento, vitamina, mineral, suplemento alimentario o una combinación de ellos que se prueba en un ensayo clínico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044734">
+  <TermName>study agent</TermName>
+  <TermPronunciation>(STUH-dee AY-jent)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A medicine, vitamin, mineral, food supplement, or a combination of them that is being tested in a clinical trial.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705892" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;study agent&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705891" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sustancia en estudio&quot;" language="es" id="_4"/>
+  <SpanishTermName>sustancia en estudio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento, vitamina, mineral, suplemento alimentario o una combinación de ellos que se prueba en un ensayo clínico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

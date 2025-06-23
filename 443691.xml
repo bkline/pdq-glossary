@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000443691"><TermName>primary ovarian insufficiency</TermName><TermPronunciation>(PRY-mayr-ee oh-VAYR-ee-un IN-suh-FIH-shen-see)</TermPronunciation><TermDefinition><DefinitionText>A condition in which the ovaries stop working and menstrual periods stop before age 40. This can cause fertility problems and symptoms of menopause. Primary ovarian insufficiency means the ovaries do not function normally. This may be because they have been removed by surgery, or it may be caused by some cancer treatments and certain diseases or genetic conditions. Some women with primary ovarian insufficiency sometimes have menstrual periods and may be able to have children. Also called premature ovarian failure.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714757" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary ovarian insufficiency&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714756" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;insuficiencia ovárica primaria&quot;" language="es" id="_4"/><SpanishTermName>insuficiencia ovárica primaria</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que los ovarios dejan de funcionar y se detiene la menstruación antes de los 40 años. Esto puede causar problemas de reproducción y síntomas de menopausia.  Cuando se presenta la insuficiencia ovárica primaria los ovarios no funcionan de manera normal, y es posible que esto se deba a que se extirparon mediante cirugía, o por efecto de algunos tratamientos contra el  cáncer, determinadas enfermedades o afecciones genéticas. Algunas mujeres con insuficiencia ovárica primaria tienen períodos menstruales y pueden tener hijos. También se llama insuficiencia ovárica prematura.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-24</DateFirstPublished><DateLastModified>2017-09-13</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women" UseWith="en">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-mujeres" UseWith="es">Cuestiones de fecundidad en las mujeres con cáncer: niñas y adultas</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000443691">
+  <TermName>primary ovarian insufficiency</TermName>
+  <TermPronunciation>(PRY-mayr-ee oh-VAYR-ee-un IN-suh-FIH-shen-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which the ovaries stop working and menstrual periods stop before age 40. This can cause fertility problems and symptoms of menopause. Primary ovarian insufficiency means the ovaries do not function normally. This may be because they have been removed by surgery, or it may be caused by some cancer treatments and certain diseases or genetic conditions. Some women with primary ovarian insufficiency sometimes have menstrual periods and may be able to have children. Also called premature ovarian failure.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714757" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;primary ovarian insufficiency&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714756" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;insuficiencia ovárica primaria&quot;" language="es" id="_4"/>
+  <SpanishTermName>insuficiencia ovárica primaria</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que los ovarios dejan de funcionar y se detiene la menstruación antes de los 40 años. Esto puede causar problemas de reproducción y síntomas de menopausia.  Cuando se presenta la insuficiencia ovárica primaria los ovarios no funcionan de manera normal, y es posible que esto se deba a que se extirparon mediante cirugía, o por efecto de algunos tratamientos contra el  cáncer, determinadas enfermedades o afecciones genéticas. Algunas mujeres con insuficiencia ovárica primaria tienen períodos menstruales y pueden tener hijos. También se llama insuficiencia ovárica prematura.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-24</DateFirstPublished>
+  <DateLastModified>2017-09-13</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women" UseWith="en">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-mujeres" UseWith="es">Cuestiones de fecundidad en las mujeres con cáncer: niñas y adultas</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

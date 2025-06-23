@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000460215"><TermName>genetic screening</TermName><TermPronunciation>(jeh-NEH-tik SKREE-ning)</TermPronunciation><TermDefinition><DefinitionText>The process of testing individuals in a given population to identify those who have an increased risk of having or developing a particular genetic disorder or carrying a genetic variant for a particular disorder.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736987" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetic screening&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804242" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;detección genética&quot;" language="es" id="_4"/><SpanishTermName>detección genética</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso que consiste en someter a pruebas genéticas a una población determinada para identificar a las personas con un riesgo más alto de presentar un trastorno genético específico o que son portadores de una variante genética asociada a un trastorno específico. También se llama cribado genético, despistaje genético, pesquisaje genético, tamizado genético y tamizaje genético.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=87">Genetic Screening (National Human Genome Research Institute)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460215">
+  <TermName>genetic screening</TermName>
+  <TermPronunciation>(jeh-NEH-tik SKREE-ning)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The process of testing individuals in a given population to identify those who have an increased risk of having or developing a particular genetic disorder or carrying a genetic variant for a particular disorder.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736987" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;genetic screening&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804242" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;detección genética&quot;" language="es" id="_4"/>
+  <SpanishTermName>detección genética</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso que consiste en someter a pruebas genéticas a una población determinada para identificar a las personas con un riesgo más alto de presentar un trastorno genético específico o que son portadores de una variante genética asociada a un trastorno específico. También se llama cribado genético, despistaje genético, pesquisaje genético, tamizado genético y tamizaje genético.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=87">Genetic Screening (National Human Genome Research Institute)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

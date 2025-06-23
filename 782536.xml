@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000782536"><TermName>extrarenal (extracranial) rhabdoid tumor</TermName><TermPronunciation>(EK-struh-REE-nul (EK-struh-KRAY-nee-ul) RAB-doyd TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare, fast-growing cancer that forms in the soft tissues of the liver, heart, peritoneum, or other areas of the body outside the kidney and brain. These tumors often have an abnormality of chromosome 22. They usually occur in infants and young children, but they can also occur in older children and adults.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785410" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extrarenal (extracranial) rhabdoid tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785411" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor rabdoide extrarrenal (extracraneal)&quot;" language="es" id="_4"/><SpanishTermName>tumor rabdoide extrarrenal (extracraneal)</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma poco frecuente de cáncer de crecimiento rápido que se forma en los tejidos blandos del hígado, el corazón, el peritoneo u otras áreas del cuerpo fuera del riñón y el encéfalo. A menudo, estos tumores tienen una anomalía en el cromosoma 22. Habitualmente se presentan en lactantes y niños pequeños, pero también se presentan en niños más grandes y en adultos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782536">
+  <TermName>extrarenal (extracranial) rhabdoid tumor</TermName>
+  <TermPronunciation>(EK-struh-REE-nul (EK-struh-KRAY-nee-ul) RAB-doyd TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, fast-growing cancer that forms in the soft tissues of the liver, heart, peritoneum, or other areas of the body outside the kidney and brain. These tumors often have an abnormality of chromosome 22. They usually occur in infants and young children, but they can also occur in older children and adults.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785410" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extrarenal (extracranial) rhabdoid tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785411" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor rabdoide extrarrenal (extracraneal)&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor rabdoide extrarrenal (extracraneal)</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma poco frecuente de cáncer de crecimiento rápido que se forma en los tejidos blandos del hígado, el corazón, el peritoneo u otras áreas del cuerpo fuera del riñón y el encéfalo. A menudo, estos tumores tienen una anomalía en el cromosoma 22. Habitualmente se presentan en lactantes y niños pequeños, pero también se presentan en niños más grandes y en adultos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+</GlossaryTerm>

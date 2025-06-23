@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000802931"><TermName>Yonsa</TermName><TermPronunciation>(YON-suh)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient abiraterone acetate and is used with methylprednisolone to treat prostate cancer that has spread to other parts of the body. It is used in patients whose cancer is castration resistant (has not responded to treatments that lower testosterone levels).  Yonsa lowers the amount of androgens (male hormones), such as testosterone, made by the body. This may stop the growth of cancer cells that need androgens to grow. Yonsa is a type of antiandrogen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804478" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yonsa&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804479" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yonsa&quot;" language="es" id="_4"/><SpanishTermName>Yonsa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el ingrediente activo acetato de abiraterona y que se usa con la metilprednisolona para el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo. Se utiliza en pacientes cuyo cáncer es resistente a la castración (que no respondió  a los tratamientos que disminuyen las concentraciones de testosterona). Yonsa disminuye la cantidad de andrógenos (hormonas masculinas) elaboradas por el cuerpo, como la testosterona. Es posible que esto impida la multiplicación de las células cancerosas que necesitan andrógenos para multiplicarse. Yonsa es un tipo de antiandrógeno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-10-20</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000700207" url="/about-cancer/treatment/drugs/abirateroneacetate">Abiraterone Acetate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802931">
+  <TermName>Yonsa</TermName>
+  <TermPronunciation>(YON-suh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient abiraterone acetate and is used with methylprednisolone to treat prostate cancer that has spread to other parts of the body. It is used in patients whose cancer is castration resistant (has not responded to treatments that lower testosterone levels).  Yonsa lowers the amount of androgens (male hormones), such as testosterone, made by the body. This may stop the growth of cancer cells that need androgens to grow. Yonsa is a type of antiandrogen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804478" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yonsa&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804479" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Yonsa&quot;" language="es" id="_4"/>
+  <SpanishTermName>Yonsa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el ingrediente activo acetato de abiraterona y que se usa con la metilprednisolona para el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo. Se utiliza en pacientes cuyo cáncer es resistente a la castración (que no respondió  a los tratamientos que disminuyen las concentraciones de testosterona). Yonsa disminuye la cantidad de andrógenos (hormonas masculinas) elaboradas por el cuerpo, como la testosterona. Es posible que esto impida la multiplicación de las células cancerosas que necesitan andrógenos para multiplicarse. Yonsa es un tipo de antiandrógeno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-10-20</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000700207" url="/about-cancer/treatment/drugs/abirateroneacetate">Abiraterone Acetate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

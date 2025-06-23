@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000046376"><TermName>GVHD</TermName><TermDefinition><DefinitionText>A condition that occurs when donated stem cells or bone marrow (the graft) see the healthy tissues in the patient’s body (the host) as foreign and attack them. It can also occur after an organ transplant. GVHD can cause damage to the host’s tissues and organs, especially the skin, liver, intestines, eyes, mouth, hair, nails, joints, muscles, lungs, kidneys, and genitals. The signs and symptoms may be severe and life threatening. GVHD can occur within the first few months after transplant (acute) or much later (chronic). Also called graft-versus-host disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>EICH</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección que se presenta cuando  el injerto (células madre o la médula ósea que provienen de un donante) ataca los tejidos sanos del huésped (paciente) porque los considera extraños. También se presenta luego de trasplantes de órganos. La EICH produce daño en los tejidos y órganos del huésped, en especial, en la piel, el hígado, los intestinos, los ojos, la boca, el pelo, las uñas, las articulaciones, los músculos, los pulmones, los riñones y los genitales. Los signos y síntomas a veces son graves y mortales. Esta afección se presenta en ocasiones en los primeros meses después del trasplante (aguda) o  mucho después (crónica). También se llama enfermedad de injerto contra huésped.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-04-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046376">
+  <TermName>GVHD</TermName>
+  <TermDefinition>
+    <DefinitionText>A condition that occurs when donated stem cells or bone marrow (the graft) see the healthy tissues in the patient’s body (the host) as foreign and attack them. It can also occur after an organ transplant. GVHD can cause damage to the host’s tissues and organs, especially the skin, liver, intestines, eyes, mouth, hair, nails, joints, muscles, lungs, kidneys, and genitals. The signs and symptoms may be severe and life threatening. GVHD can occur within the first few months after transplant (acute) or much later (chronic). Also called graft-versus-host disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>EICH</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección que se presenta cuando  el injerto (células madre o la médula ósea que provienen de un donante) ataca los tejidos sanos del huésped (paciente) porque los considera extraños. También se presenta luego de trasplantes de órganos. La EICH produce daño en los tejidos y órganos del huésped, en especial, en la piel, el hígado, los intestinos, los ojos, la boca, el pelo, las uñas, las articulaciones, los músculos, los pulmones, los riñones y los genitales. Los signos y síntomas a veces son graves y mortales. Esta afección se presenta en ocasiones en los primeros meses después del trasplante (aguda) o  mucho después (crónica). También se llama enfermedad de injerto contra huésped.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-04-15</DateLastModified>
+</GlossaryTerm>

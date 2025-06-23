@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000460141"><TermName>deletion</TermName><TermPronunciation>(deh-LEE-shun)</TermPronunciation><TermDefinition><DefinitionText>A type of genetic change that involves the absence of a segment of DNA. It may be as small as a single base but can vary significantly in size.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000736941" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;deletion&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;deleción&quot;" language="es" id="_4"/><SpanishTermName>deleción</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cambio genético que implica la pérdida de un segmento de ADN. Es de magnitud muy variable, puede ser tan pequeño como la eliminación de una sola base.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=45">Deletion (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Delecion">Deleción (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460141">
+  <TermName>deletion</TermName>
+  <TermPronunciation>(deh-LEE-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of genetic change that involves the absence of a segment of DNA. It may be as small as a single base but can vary significantly in size.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736941" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;deletion&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;deleción&quot;" language="es" id="_4"/>
+  <SpanishTermName>deleción</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cambio genético que implica la pérdida de un segmento de ADN. Es de magnitud muy variable, puede ser tan pequeño como la eliminación de una sola base.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=45">Deletion (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Delecion">Deleción (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

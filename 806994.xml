@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000806994"><TermName>computer-aided detection system</TermName><TermPronunciation>(kum-PYOO-ter-AY-ded deh-TEK-shun SIS-tem)</TermPronunciation><TermDefinition><DefinitionText>A computer-based system that uses special software to help look for suspicious areas of tissue on an x-ray image. A computer-aided detection system highlights these areas on the image so they can be looked at more closely. A  computer-aided detection system is used with certain types of imaging, such as mammography or chest x-ray, to help diagnose a disease, such as cancer. Also called CAD system.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000809782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;computer-aided detection system&quot;" language="en" id="_4"/><MediaLink ref="CDR0000809783" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sistema de detección asistido por computadora&quot;" language="es" id="_5"/><SpanishTermName>sistema de detección asistido por computadora</SpanishTermName><SpanishTermDefinition><DefinitionText>Sistema informático que utiliza un software especial para ayudar a buscar áreas de tejido sospechosas en una imagen de rayos X. Un sistema de detección asistido por computadora resalta estas áreas en la imagen para que sean observadas con más detalle. El sistema de detección asistido por computadora se usa con ciertos tipos de imágenes, como la mamografía o la radiografía del tórax, para ayudar a diagnosticar enfermedades como  el cáncer. También se llama sistema CAD y sistema de diagnóstico asistido por computadora.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-03-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806994">
+  <TermName>computer-aided detection system</TermName>
+  <TermPronunciation>(kum-PYOO-ter-AY-ded deh-TEK-shun SIS-tem)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A computer-based system that uses special software to help look for suspicious areas of tissue on an x-ray image. A computer-aided detection system highlights these areas on the image so they can be looked at more closely. A  computer-aided detection system is used with certain types of imaging, such as mammography or chest x-ray, to help diagnose a disease, such as cancer. Also called CAD system.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000809782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;computer-aided detection system&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000809783" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sistema de detección asistido por computadora&quot;" language="es" id="_5"/>
+  <SpanishTermName>sistema de detección asistido por computadora</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sistema informático que utiliza un software especial para ayudar a buscar áreas de tejido sospechosas en una imagen de rayos X. Un sistema de detección asistido por computadora resalta estas áreas en la imagen para que sean observadas con más detalle. El sistema de detección asistido por computadora se usa con ciertos tipos de imágenes, como la mamografía o la radiografía del tórax, para ayudar a diagnosticar enfermedades como  el cáncer. También se llama sistema CAD y sistema de diagnóstico asistido por computadora.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-03-16</DateFirstPublished>
+</GlossaryTerm>

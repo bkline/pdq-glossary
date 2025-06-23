@@ -1,1 +1,38 @@
-<GlossaryTerm id="CDR0000771540"><TermName>fibrofolliculoma</TermName><TermPronunciation>(FY-broh-fuh-LIH-kyoo-LOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare, benign (not cancer) tumor that forms in a hair follicle (the opening on the skin through which hair grows). Fibrofolliculomas appear as small, raised, whitish bumps that usually occur on the face, ears, neck, and chest. They tend to grow slowly but can increase in size and number over time. Fibrofolliculomas often occur in patients with an inherited condition called Birt-Hogg-Dubé syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>A benign tumor of the hair follicle that appears as a small, whitish papule. Fibrofolliculomas are typically found on the face, ears, neck, and upper torso. They are pathognomonic for Birt-Hogg-Dubé syndrome, a hereditary condition associated with the development of kidney cancer.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000773735" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrofolliculoma&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrofoliculoma&quot;" language="es" id="_5"/><MediaLink ref="CDR0000771541" type="image/jpeg" alt="Photograph of many small, whitish bumps on an individual’s face." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Fibrofolliculomas are benign (not cancer) tumors that form in a hair follicle. Here they are shown on the face. </Caption></MediaLink><MediaLink ref="CDR0000771541" type="image/jpeg" alt="Photograph of many small, whitish bumps on an individual’s face." language="en" audience="Health_professionals" placement="image-center" id="_2"><Caption language="en">Fibrofolliculomas are benign tumors of the hair follicle. They are commonly found on the face, as shown, but they are also often found on the ears, neck, and upper torso.</Caption></MediaLink><MediaLink ref="CDR0000771541" type="image/jpeg" alt="Fotografía de muchos bultos pequeños y blancuzcos en la cara de una persona." language="es" audience="Patients" placement="image-center" id="_6"><Caption language="es">Los fibrofoliculomas son tumores benignos (no cancerosos) que se forman en los folículos capilares. En la imagen se observan en la cara.</Caption></MediaLink><SpanishTermName>fibrofoliculoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor poco frecuente y benigno (no canceroso) que se forma en el folículo capilar (la abertura de la piel por donde crece el pelo). Los fibrofoliculomas son bultos pequeños, elevados y blancuzcos que se suelen presentar en la cara, las orejas, el cuello y el pecho. Tienden a crecer de forma lenta y aumentar de tamaño y número con el tiempo. A menudo se presentan en pacientes con una afección heredada que se llama síndrome de Birt-Hogg-Dubé. También se llama fibroma folicular.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Tumor benigno del folículo piloso en forma de pápula blanquecina pequeña. Los fibrofoliculomas por lo general se encuentran en la cara, las orejas, el cuello y la parte superior del tronco. Son patognomónicos del síndrome de Birt-Hogg-Dubé, una afección hereditaria relacionada con la formación de cáncer de riñón. También se llama fibroma folicular.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2015-04-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000771540">
+  <TermName>fibrofolliculoma</TermName>
+  <TermPronunciation>(FY-broh-fuh-LIH-kyoo-LOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, benign (not cancer) tumor that forms in a hair follicle (the opening on the skin through which hair grows). Fibrofolliculomas appear as small, raised, whitish bumps that usually occur on the face, ears, neck, and chest. They tend to grow slowly but can increase in size and number over time. Fibrofolliculomas often occur in patients with an inherited condition called Birt-Hogg-Dubé syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A benign tumor of the hair follicle that appears as a small, whitish papule. Fibrofolliculomas are typically found on the face, ears, neck, and upper torso. They are pathognomonic for Birt-Hogg-Dubé syndrome, a hereditary condition associated with the development of kidney cancer.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000773735" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrofolliculoma&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrofoliculoma&quot;" language="es" id="_5"/>
+  <MediaLink ref="CDR0000771541" type="image/jpeg" alt="Photograph of many small, whitish bumps on an individual’s face." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Fibrofolliculomas are benign (not cancer) tumors that form in a hair follicle. Here they are shown on the face. </Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000771541" type="image/jpeg" alt="Photograph of many small, whitish bumps on an individual’s face." language="en" audience="Health_professionals" placement="image-center" id="_2">
+    <Caption language="en">Fibrofolliculomas are benign tumors of the hair follicle. They are commonly found on the face, as shown, but they are also often found on the ears, neck, and upper torso.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000771541" type="image/jpeg" alt="Fotografía de muchos bultos pequeños y blancuzcos en la cara de una persona." language="es" audience="Patients" placement="image-center" id="_6">
+    <Caption language="es">Los fibrofoliculomas son tumores benignos (no cancerosos) que se forman en los folículos capilares. En la imagen se observan en la cara.</Caption>
+  </MediaLink>
+  <SpanishTermName>fibrofoliculoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor poco frecuente y benigno (no canceroso) que se forma en el folículo capilar (la abertura de la piel por donde crece el pelo). Los fibrofoliculomas son bultos pequeños, elevados y blancuzcos que se suelen presentar en la cara, las orejas, el cuello y el pecho. Tienden a crecer de forma lenta y aumentar de tamaño y número con el tiempo. A menudo se presentan en pacientes con una afección heredada que se llama síndrome de Birt-Hogg-Dubé. También se llama fibroma folicular.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor benigno del folículo piloso en forma de pápula blanquecina pequeña. Los fibrofoliculomas por lo general se encuentran en la cara, las orejas, el cuello y la parte superior del tronco. Son patognomónicos del síndrome de Birt-Hogg-Dubé, una afección hereditaria relacionada con la formación de cáncer de riñón. También se llama fibroma folicular.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-04-22</DateFirstPublished>
+</GlossaryTerm>

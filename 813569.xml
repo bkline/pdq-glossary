@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000813569"><TermName>tandem transplant</TermName><TermPronunciation>(TAN-dem TRANZ-plant)</TermPronunciation><TermDefinition><DefinitionText>A type of transplant in which a patient receives two courses of high-dose chemotherapy, each course followed by an infusion of their own healthy blood-forming stem cells. The stem cells are collected and stored before the first high-dose chemotherapy treatment. The treatments are given weeks or months apart but are usually completed within a 6-month period.  A tandem transplant is used to treat certain types of cancer, such as neuroblastoma and multiple myeloma. Also called double autologous transplant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000815661" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tandem transplant&quot;" language="en" id="_3"/><MediaLink ref="CDR0000815662" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trasplante en tándem&quot;" language="es" id="_4"/><SpanishTermName>trasplante en tándem</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de trasplante en el que un paciente recibe dos cursos de quimioterapia de dosis alta, cada uno de ellos seguido de una infusión de sus propias células madre formadoras de sangre sanas. Las células madre se extraen y almacenan antes del primer tratamiento de quimioterapia de dosis alta. Los tratamientos se administran con semanas o meses de diferencia, pero por lo general se completan en un período de 6 meses.  El trasplante en tándem se usa para tratar ciertos tipos de cáncer, como el neuroblastoma y el mieloma múltiple. También se llama doble trasplante autógeno.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-12-27</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/types/stem-cell-transplant" UseWith="en">Stem Cell Transplants in Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/trasplante-de-celulas-madre">Trasplantes de células madre en el tratamiento del cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813569">
+  <TermName>tandem transplant</TermName>
+  <TermPronunciation>(TAN-dem TRANZ-plant)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of transplant in which a patient receives two courses of high-dose chemotherapy, each course followed by an infusion of their own healthy blood-forming stem cells. The stem cells are collected and stored before the first high-dose chemotherapy treatment. The treatments are given weeks or months apart but are usually completed within a 6-month period.  A tandem transplant is used to treat certain types of cancer, such as neuroblastoma and multiple myeloma. Also called double autologous transplant.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000815661" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tandem transplant&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000815662" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trasplante en tándem&quot;" language="es" id="_4"/>
+  <SpanishTermName>trasplante en tándem</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de trasplante en el que un paciente recibe dos cursos de quimioterapia de dosis alta, cada uno de ellos seguido de una infusión de sus propias células madre formadoras de sangre sanas. Las células madre se extraen y almacenan antes del primer tratamiento de quimioterapia de dosis alta. Los tratamientos se administran con semanas o meses de diferencia, pero por lo general se completan en un período de 6 meses.  El trasplante en tándem se usa para tratar ciertos tipos de cáncer, como el neuroblastoma y el mieloma múltiple. También se llama doble trasplante autógeno.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-12-27</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/types/stem-cell-transplant" UseWith="en">Stem Cell Transplants in Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/trasplante-de-celulas-madre">Trasplantes de células madre en el tratamiento del cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

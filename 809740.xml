@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809740"><TermName>muscle relaxant</TermName><TermPronunciation>(MUH-sul ree-LAK-sunt)</TermPronunciation><TermDefinition><DefinitionText>A type of drug that is used to relax the muscles and reduce tension, stiffness, and pain caused by muscle spasms or muscle  spasticity (stiff, rigid muscles). Muscle relaxants are also used to prevent muscle movement during surgery. There are many different types of muscle relaxants. Some  work by blocking certain nerve receptors in the brain or spinal cord, while others act directly on the muscle fibers in the body to relax the muscles.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;muscle relaxant&quot;" language="en" id="_5"/><MediaLink ref="CDR0000811513" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;relajante muscular&quot;" language="es" id="_6"/><SpanishTermName>relajante muscular</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento que se usa para relajar los músculos y reducir la tensión, la rigidez y el dolor causados por los espasmos musculares o la espasticidad muscular (músculos rígidos e inflexibles). Los relajantes musculares también se utilizan para evitar el movimiento durante las cirugías. Hay muchos tipos diferentes de relajantes musculares. Algunos actúan bloqueando ciertos receptores nerviosos en el encéfalo o la médula espinal, mientras que otros actúan de manera directa sobre las fibras musculares del cuerpo para relajar los músculos. También se llama antiespástico y miorrelajante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809740">
+  <TermName>muscle relaxant</TermName>
+  <TermPronunciation>(MUH-sul ree-LAK-sunt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of drug that is used to relax the muscles and reduce tension, stiffness, and pain caused by muscle spasms or muscle  spasticity (stiff, rigid muscles). Muscle relaxants are also used to prevent muscle movement during surgery. There are many different types of muscle relaxants. Some  work by blocking certain nerve receptors in the brain or spinal cord, while others act directly on the muscle fibers in the body to relax the muscles.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811512" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;muscle relaxant&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000811513" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;relajante muscular&quot;" language="es" id="_6"/>
+  <SpanishTermName>relajante muscular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento que se usa para relajar los músculos y reducir la tensión, la rigidez y el dolor causados por los espasmos musculares o la espasticidad muscular (músculos rígidos e inflexibles). Los relajantes musculares también se utilizan para evitar el movimiento durante las cirugías. Hay muchos tipos diferentes de relajantes musculares. Algunos actúan bloqueando ciertos receptores nerviosos en el encéfalo o la médula espinal, mientras que otros actúan de manera directa sobre las fibras musculares del cuerpo para relajar los músculos. También se llama antiespástico y miorrelajante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-26</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000641862"><TermName>hydrocodone bitartrate</TermName><TermPronunciation>(HY-droh-KOH-done by-TAR-trayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat moderate to severe pain and cough. Hydrocodone bitartrate is made in a lab by modifying codeine, a natural substance found in the opium poppy plant. It works by binding to mu opioid receptors in the central nervous system, which blocks pain signals and changes how the body responds to pain. It also helps decrease activity in the part of the brain that causes coughing. Hydrocodone bitartrate is a type of antitussive (cough suppressant) and a type of semi-synthetic opioid agonist that works as an analgesic (pain reliever).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hydrocodone bitartrate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bitartrato de hidrocodona&quot;" language="es" id="_4"/><SpanishTermName>bitartrato de hidrocodona</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del dolor de moderado a grave y también la tos. El bitartrato de hidrocodona se elabora en el laboratorio al modificar la codeína, una sustancia natural que se encuentra en la planta del opio (adormidera). Se une a los receptores de opioides mi (μ) en el sistema nervioso central, lo que bloquea las señales de dolor y modifica la respuesta del cuerpo a este. También ayuda a disminuir la actividad en la parte del encéfalo que provoca la tos. El bitartrato de hidrocodona es un tipo de antitusivo (inhibidor de la tos) y de agonista opioide semisintético que actúa como analgésico (calmante del dolor).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-05-01</DateFirstPublished><DateLastModified>2025-04-23</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000641862">
+  <TermName>hydrocodone bitartrate</TermName>
+  <TermPronunciation>(HY-droh-KOH-done by-TAR-trayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat moderate to severe pain and cough. Hydrocodone bitartrate is made in a lab by modifying codeine, a natural substance found in the opium poppy plant. It works by binding to mu opioid receptors in the central nervous system, which blocks pain signals and changes how the body responds to pain. It also helps decrease activity in the part of the brain that causes coughing. Hydrocodone bitartrate is a type of antitussive (cough suppressant) and a type of semi-synthetic opioid agonist that works as an analgesic (pain reliever).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hydrocodone bitartrate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bitartrato de hidrocodona&quot;" language="es" id="_4"/>
+  <SpanishTermName>bitartrato de hidrocodona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del dolor de moderado a grave y también la tos. El bitartrato de hidrocodona se elabora en el laboratorio al modificar la codeína, una sustancia natural que se encuentra en la planta del opio (adormidera). Se une a los receptores de opioides mi (μ) en el sistema nervioso central, lo que bloquea las señales de dolor y modifica la respuesta del cuerpo a este. También ayuda a disminuir la actividad en la parte del encéfalo que provoca la tos. El bitartrato de hidrocodona es un tipo de antitusivo (inhibidor de la tos) y de agonista opioide semisintético que actúa como analgésico (calmante del dolor).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-05-01</DateFirstPublished>
+  <DateLastModified>2025-04-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

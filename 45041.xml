@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045041"><TermName>doxercalciferol</TermName><TermPronunciation>(DOK-ser-kal-SIH-feh-rol)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the prevention of recurrent prostate cancer. It is a type of vitamin D analog.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706285" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;doxercalciferol&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706284" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;doxercalciferol&quot;" language="es" id="_4"/><SpanishTermName>doxercalciferol</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para la prevención del cáncer de próstata recurrente. Es un tipo de análogo de la vitamina D.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-07-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045041">
+  <TermName>doxercalciferol</TermName>
+  <TermPronunciation>(DOK-ser-kal-SIH-feh-rol)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the prevention of recurrent prostate cancer. It is a type of vitamin D analog.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706285" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;doxercalciferol&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706284" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;doxercalciferol&quot;" language="es" id="_4"/>
+  <SpanishTermName>doxercalciferol</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para la prevención del cáncer de próstata recurrente. Es un tipo de análogo de la vitamina D.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-07-06</DateLastModified>
+</GlossaryTerm>

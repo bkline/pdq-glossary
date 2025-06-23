@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798609"><TermName>exocrine gland</TermName><TermPronunciation>(EK-soh-krin …)</TermPronunciation><TermDefinition><DefinitionText>A gland that makes substances such as sweat, tears, saliva, milk, and digestive juices, and releases them through a duct or opening to a body surface. Examples of exocrine glands include sweat glands, lacrimal glands, salivary glands, mammary glands, and digestive glands in the stomach, pancreas, and intestines.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000800993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exocrine gland&quot;" language="en" id="_6"/><MediaLink ref="CDR0000800994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glándula exocrina&quot;" language="es" id="_7"/><SpanishTermName>glándula exocrina</SpanishTermName><SpanishTermDefinition><DefinitionText>Glándula que produce sustancias como el sudor, las lágrimas, la saliva, la leche y los jugos digestivos, para liberarlas en una superficie del cuerpo a través de conductos o aberturas. Los ejemplos de glándulas exocrinas son las glándulas sudoríparas, las glándulas lagrimales,  las glándulas salivales, las glándulas mamarias, y las glándulas digestivas en el estómago, el páncreas y los intestinos. También se llama glándula de secreción externa y glándula excretora.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798609">
+  <TermName>exocrine gland</TermName>
+  <TermPronunciation>(EK-soh-krin …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gland that makes substances such as sweat, tears, saliva, milk, and digestive juices, and releases them through a duct or opening to a body surface. Examples of exocrine glands include sweat glands, lacrimal glands, salivary glands, mammary glands, and digestive glands in the stomach, pancreas, and intestines.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000800993" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;exocrine gland&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000800994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glándula exocrina&quot;" language="es" id="_7"/>
+  <SpanishTermName>glándula exocrina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Glándula que produce sustancias como el sudor, las lágrimas, la saliva, la leche y los jugos digestivos, para liberarlas en una superficie del cuerpo a través de conductos o aberturas. Los ejemplos de glándulas exocrinas son las glándulas sudoríparas, las glándulas lagrimales,  las glándulas salivales, las glándulas mamarias, y las glándulas digestivas en el estómago, el páncreas y los intestinos. También se llama glándula de secreción externa y glándula excretora.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-07</DateFirstPublished>
+</GlossaryTerm>

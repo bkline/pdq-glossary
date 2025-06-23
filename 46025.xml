@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046025"><TermName>nasopharynx</TermName><TermPronunciation>(NAY-zoh-FAYR-inx)</TermPronunciation><TermDefinition><DefinitionText>The upper part of the throat behind the nose. An opening on each side of the nasopharynx leads into the ear.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708033" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasopharynx&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasofaringe&quot;" language="es" id="_4"/><MediaLink ref="CDR0000713970" type="image/jpeg" alt="Anatomy of the pharynx; drawing shows the nasopharynx, oropharynx, and hypopharynx. Also shown are the nasal cavity, oral cavity, hyoid bone, larynx, esophagus, and trachea." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Anatomy of the pharynx. The pharynx is a hollow, muscular tube inside the neck that starts behind the nose and opens into the larynx and esophagus. The three parts of the pharynx are the nasopharynx, oropharynx, and hypopharynx.</Caption></MediaLink><MediaLink ref="CDR0000732292" type="image/jpeg" alt="Anatomía de la faringe. En el dibujo se observan la nasofaringe, la orofaringe y la hipofaringe. También se muestran la cavidad nasal, la cavidad oral, el hioides, la laringe, el esófago y la tráquea." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Anatomía de la faringe. La faringe es un tubo muscular hueco dentro del cuello que comienza detrás de la nariz y se comunica con la laringe y el esófago. Las tres partes de la faringe son la nasofaringe, la orofaringe y la hipofaringe.</Caption></MediaLink><SpanishTermName>nasofaringe</SpanishTermName><SpanishTermDefinition><DefinitionText>Parte superior de la garganta detrás de la nariz. Una abertura en cada lado de la nasofaringe conduce al oído. También se llama cavidad faringonasal, cavidad nasofaríngea, epifaringe, faringe nasal, porción nasal de la faringe y rinofaringe.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2014-10-28</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062966" url="/types/head-and-neck/patient/adult/nasopharyngeal-treatment-pdq">Nasopharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256817" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-nasofaringe-pdq">Tratamiento del cáncer de nasofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046025">
+  <TermName>nasopharynx</TermName>
+  <TermPronunciation>(NAY-zoh-FAYR-inx)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The upper part of the throat behind the nose. An opening on each side of the nasopharynx leads into the ear.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708033" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasopharynx&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasofaringe&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000713970" type="image/jpeg" alt="Anatomy of the pharynx; drawing shows the nasopharynx, oropharynx, and hypopharynx. Also shown are the nasal cavity, oral cavity, hyoid bone, larynx, esophagus, and trachea." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Anatomy of the pharynx. The pharynx is a hollow, muscular tube inside the neck that starts behind the nose and opens into the larynx and esophagus. The three parts of the pharynx are the nasopharynx, oropharynx, and hypopharynx.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000732292" type="image/jpeg" alt="Anatomía de la faringe. En el dibujo se observan la nasofaringe, la orofaringe y la hipofaringe. También se muestran la cavidad nasal, la cavidad oral, el hioides, la laringe, el esófago y la tráquea." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Anatomía de la faringe. La faringe es un tubo muscular hueco dentro del cuello que comienza detrás de la nariz y se comunica con la laringe y el esófago. Las tres partes de la faringe son la nasofaringe, la orofaringe y la hipofaringe.</Caption>
+  </MediaLink>
+  <SpanishTermName>nasofaringe</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parte superior de la garganta detrás de la nariz. Una abertura en cada lado de la nasofaringe conduce al oído. También se llama cavidad faringonasal, cavidad nasofaríngea, epifaringe, faringe nasal, porción nasal de la faringe y rinofaringe.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2014-10-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062966" url="/types/head-and-neck/patient/adult/nasopharyngeal-treatment-pdq">Nasopharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256817" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-nasofaringe-pdq">Tratamiento del cáncer de nasofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

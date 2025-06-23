@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000458091"><TermName>high blood pressure</TermName><TermPronunciation>(hy blud PREH-sher)</TermPronunciation><TermDefinition><DefinitionText>A blood pressure of 140/90 or higher. High blood pressure usually has no symptoms. It can harm the arteries and cause an increase in the risk of stroke, heart attack, kidney failure, and blindness. Also called hypertension.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716943" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;high blood pressure&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716942" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;presión arterial alta&quot;" language="es" id="_4"/><SpanishTermName>presión arterial alta</SpanishTermName><SpanishTermDefinition><DefinitionText>Presión arterial de 140/90 o más alta. Por lo general, la presión arterial alta no tiene síntomas. Puede dañar las arterias y causar un aumento del riesgo de accidente cerebrovascular, infarto de miocardio, insuficiencia renal y ceguera. También se llama hipertensión y tensión arterial alta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-04-14</DateFirstPublished><DateLastModified>2007-01-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000458091">
+  <TermName>high blood pressure</TermName>
+  <TermPronunciation>(hy blud PREH-sher)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A blood pressure of 140/90 or higher. High blood pressure usually has no symptoms. It can harm the arteries and cause an increase in the risk of stroke, heart attack, kidney failure, and blindness. Also called hypertension.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716943" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;high blood pressure&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716942" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;presión arterial alta&quot;" language="es" id="_4"/>
+  <SpanishTermName>presión arterial alta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presión arterial de 140/90 o más alta. Por lo general, la presión arterial alta no tiene síntomas. Puede dañar las arterias y causar un aumento del riesgo de accidente cerebrovascular, infarto de miocardio, insuficiencia renal y ceguera. También se llama hipertensión y tensión arterial alta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-04-14</DateFirstPublished>
+  <DateLastModified>2007-01-24</DateLastModified>
+</GlossaryTerm>

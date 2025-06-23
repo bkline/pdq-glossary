@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000560639"><TermName>yttrium Y 90-DOTA monoclonal antibody HuAFP31</TermName><TermPronunciation>(IH-tree-um … MAH-noh-KLOH-nul AN-tee-BAH-dee …)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of liver cancer. HuAFP31 is a monoclonal antibody that binds to a protein called alpha fetoprotein (AFP), which is found on some cancer cells. It is linked to a radioactive substance called yttrium Y 90, which may help kill cancer cells. Yttrium Y 90-DOTA monoclonal antibody HuAFP31 is a type of radioimmunoconjugate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721068" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yttrium Y 90 DOTA monoclonal antibody HuAFP31&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721067" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;itrio Y 90-DOTA-anticuerpo monoclonal HuAFP31&quot;" language="es" id="_4"/><SpanishTermName>itrio Y 90-DOTA-anticuerpo monoclonal HuAFP31</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento del cáncer de hígado. El HuAFP31 es un anticuerpo monoclonal que se une a una proteína: la alfaproteína (AFP), que se encuentra en algunas células cancerosas. Se la enlaza a una sustancia radiactiva, el itrio Y 90, que tal vez ayude a destruir las células cancerosas. El itrio Y 90-DOTA-anticuerpo monoclonal HuAFP31 es un tipo de radioinmunoconjugado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-03-10</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000560639">
+  <TermName>yttrium Y 90-DOTA monoclonal antibody HuAFP31</TermName>
+  <TermPronunciation>(IH-tree-um … MAH-noh-KLOH-nul AN-tee-BAH-dee …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of liver cancer. HuAFP31 is a monoclonal antibody that binds to a protein called alpha fetoprotein (AFP), which is found on some cancer cells. It is linked to a radioactive substance called yttrium Y 90, which may help kill cancer cells. Yttrium Y 90-DOTA monoclonal antibody HuAFP31 is a type of radioimmunoconjugate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721068" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yttrium Y 90 DOTA monoclonal antibody HuAFP31&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721067" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;itrio Y 90-DOTA-anticuerpo monoclonal HuAFP31&quot;" language="es" id="_4"/>
+  <SpanishTermName>itrio Y 90-DOTA-anticuerpo monoclonal HuAFP31</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento del cáncer de hígado. El HuAFP31 es un anticuerpo monoclonal que se une a una proteína: la alfaproteína (AFP), que se encuentra en algunas células cancerosas. Se la enlaza a una sustancia radiactiva, el itrio Y 90, que tal vez ayude a destruir las células cancerosas. El itrio Y 90-DOTA-anticuerpo monoclonal HuAFP31 es un tipo de radioinmunoconjugado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-03-10</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

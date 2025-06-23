@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000508934"><TermName>OSI-774</TermName><TermDefinition><DefinitionText>A drug used alone to treat certain types of non-small cell lung cancer and with gemcitabine hydrochloride to treat certain types of pancreatic cancer. It is also being studied in the treatment of other types of cancer. OSI-774 blocks a protein called EGFR, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called CP-358,774, erlotinib hydrochloride, and Tarceva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>OSI-774</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa sin otros medicamentos para el tratamiento de ciertos tipos de cáncer de pulmón de células no pequeñas, y con el clorhidrato de gemcitabina, para el tratamiento de ciertos tipos de cáncer de páncreas. Además, está en estudio para el tratamiento de otros tipos de cáncer. OSI-774 bloquea una proteína llamada EGFR, lo que quizás ayude a impedir la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama clorhidrato de erlotinib, CP-358,774 y Tarceva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2021-10-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492018" url="/about-cancer/treatment/drugs/erlotinibhydrochloride">Erlotinib Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000508934">
+  <TermName>OSI-774</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used alone to treat certain types of non-small cell lung cancer and with gemcitabine hydrochloride to treat certain types of pancreatic cancer. It is also being studied in the treatment of other types of cancer. OSI-774 blocks a protein called EGFR, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called CP-358,774, erlotinib hydrochloride, and Tarceva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>OSI-774</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa sin otros medicamentos para el tratamiento de ciertos tipos de cáncer de pulmón de células no pequeñas, y con el clorhidrato de gemcitabina, para el tratamiento de ciertos tipos de cáncer de páncreas. Además, está en estudio para el tratamiento de otros tipos de cáncer. OSI-774 bloquea una proteína llamada EGFR, lo que quizás ayude a impedir la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama clorhidrato de erlotinib, CP-358,774 y Tarceva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2021-10-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492018" url="/about-cancer/treatment/drugs/erlotinibhydrochloride">Erlotinib Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817297"><TermName>cosibelimab</TermName><TermPronunciation>(KOH-sih-BEH-lih-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with cutaneous squamous cell carcinoma (a type of skin cancer) that has spread and cannot be cured with surgery or radiation therapy. It is also being studied in the treatment of other types of cancer. Cosibelimab binds to a protein called PD-L1, which is found on some normal cells and some types of cancer cells. Blocking this protein may help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Unloxcyt.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817817" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cosibelimab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817818" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cosibelimab&quot;" language="es" id="_4"/><SpanishTermName>cosibelimab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con carcinoma de células escamosas cutáneo (tipo de cáncer de piel) que se diseminó y no se puede curar con cirugía o radioterapia. También está en estudio para el tratamiento de otros tipos de cáncer.  El cosibelimab se une a una proteína llamada PD-L1, que se encuentra en algunas células normales y algunos tipos de células cancerosas. Bloquear esta proteína quizás ayude  al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y un tipo de inhibidor de puntos de control inmunitario. También se llama Unloxcyt.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-12-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817297">
+  <TermName>cosibelimab</TermName>
+  <TermPronunciation>(KOH-sih-BEH-lih-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with cutaneous squamous cell carcinoma (a type of skin cancer) that has spread and cannot be cured with surgery or radiation therapy. It is also being studied in the treatment of other types of cancer. Cosibelimab binds to a protein called PD-L1, which is found on some normal cells and some types of cancer cells. Blocking this protein may help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Unloxcyt.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817817" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cosibelimab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817818" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cosibelimab&quot;" language="es" id="_4"/>
+  <SpanishTermName>cosibelimab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con carcinoma de células escamosas cutáneo (tipo de cáncer de piel) que se diseminó y no se puede curar con cirugía o radioterapia. También está en estudio para el tratamiento de otros tipos de cáncer.  El cosibelimab se une a una proteína llamada PD-L1, que se encuentra en algunas células normales y algunos tipos de células cancerosas. Bloquear esta proteína quizás ayude  al sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y un tipo de inhibidor de puntos de control inmunitario. También se llama Unloxcyt.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-12-20</DateFirstPublished>
+</GlossaryTerm>

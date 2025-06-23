@@ -1,1 +1,21 @@
-<GlossaryTerm id="CDR0000637766"><TermName>CBE</TermName><TermDefinition><DefinitionText>A physical exam of the breast performed by a health care provider to check for lumps or other changes. Also called clinical breast exam.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ECM</SpanishTermName><SpanishTermDefinition><DefinitionText>Examen físico de la mama (seno) que hace un proveedor de atención de la salud para verificar la presencia de bultos u otros cambios. También se llama EM y examen clínico de la mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-03-12</DateFirstPublished><DateLastModified>2009-03-12</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000257995" url="/types/breast/patient/breast-screening-pdq">Breast Cancer Screening</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000744471" url="/espanol/tipos/seno/paciente/deteccion-seno-pdq">Exámenes de detección del cáncer de seno (mama)</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000637766">
+  <TermName>CBE</TermName>
+  <TermDefinition>
+    <DefinitionText>A physical exam of the breast performed by a health care provider to check for lumps or other changes. Also called clinical breast exam.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ECM</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Examen físico de la mama (seno) que hace un proveedor de atención de la salud para verificar la presencia de bultos u otros cambios. También se llama EM y examen clínico de la mama.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-03-12</DateFirstPublished>
+  <DateLastModified>2009-03-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000257995" url="/types/breast/patient/breast-screening-pdq">Breast Cancer Screening</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000744471" url="/espanol/tipos/seno/paciente/deteccion-seno-pdq">Exámenes de detección del cáncer de seno (mama)</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

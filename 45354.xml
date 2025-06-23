@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045354"><TermName>bicalutamide</TermName><TermPronunciation>(BY-kuh-LOO-tuh-mide)</TermPronunciation><TermDefinition><DefinitionText>A drug used with another drug to treat prostate cancer that has spread to other parts of the body. It is also being studied in the treatment of other types of cancer. Bicalutamide binds to proteins called androgen receptors, which are found in some prostate cancer cells. These proteins bind to androgens (male hormones) and may cause cancer cells to grow. Bicalutamide blocks these proteins and may keep cancer cells from growing. It is a type of antiandrogen. Also called Casodex.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705363" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bicalutamide&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705362" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bicalutamida&quot;" language="es" id="_4"/><SpanishTermName>bicalutamida</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer. La bicalutamida se une a unas proteínas llamadas receptores de andrógenos, que se encuentran en algunas células de cáncer de próstata. Estas proteínas se unen a los andrógenos (hormonas masculinas) y a veces hacen que las células cancerosas se multipliquen.  La bicalutamida bloquea estas proteínas y es posible que impida la multiplicación de células cancerosas. Es un tipo de antiandrógeno. También se llama Casodex.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-10-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000756271" url="/about-cancer/treatment/drugs/bicalutamide">Bicalutamide</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045354">
+  <TermName>bicalutamide</TermName>
+  <TermPronunciation>(BY-kuh-LOO-tuh-mide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with another drug to treat prostate cancer that has spread to other parts of the body. It is also being studied in the treatment of other types of cancer. Bicalutamide binds to proteins called androgen receptors, which are found in some prostate cancer cells. These proteins bind to androgens (male hormones) and may cause cancer cells to grow. Bicalutamide blocks these proteins and may keep cancer cells from growing. It is a type of antiandrogen. Also called Casodex.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705363" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bicalutamide&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705362" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;bicalutamida&quot;" language="es" id="_4"/>
+  <SpanishTermName>bicalutamida</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con otros medicamentos para el tratamiento del cáncer de próstata que se diseminó a otras partes del cuerpo. También está en estudio para el tratamiento de otros tipos de cáncer. La bicalutamida se une a unas proteínas llamadas receptores de andrógenos, que se encuentran en algunas células de cáncer de próstata. Estas proteínas se unen a los andrógenos (hormonas masculinas) y a veces hacen que las células cancerosas se multipliquen.  La bicalutamida bloquea estas proteínas y es posible que impida la multiplicación de células cancerosas. Es un tipo de antiandrógeno. También se llama Casodex.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-10-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000756271" url="/about-cancer/treatment/drugs/bicalutamide">Bicalutamide</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

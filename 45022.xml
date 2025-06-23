@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045022"><TermName>symptom</TermName><TermPronunciation>(SIMP-tum)</TermPronunciation><TermDefinition><DefinitionText>Something that a person feels or experiences that may indicate that they have a disease or condition. Symptoms can only be reported by the person experiencing them. They cannot be observed by a health care provider or other person and do not show up on medical tests. Some examples of symptoms are pain, nausea, fatigue, and anxiety.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728241" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;symptom&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síntoma&quot;" language="es" id="_4"/><SpanishTermName>síntoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Algo que una persona siente o experimenta y que tal vez indique una enfermedad o afección. Los síntomas solo los puede notificar la persona que los presenta, no los observa  el proveedor de atención de la salud y no se manifiestan en los exámenes médicos. Algunos ejemplos de síntomas son el dolor, las náuseas, la fatiga y la ansiedad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2023-12-27</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045022">
+  <TermName>symptom</TermName>
+  <TermPronunciation>(SIMP-tum)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Something that a person feels or experiences that may indicate that they have a disease or condition. Symptoms can only be reported by the person experiencing them. They cannot be observed by a health care provider or other person and do not show up on medical tests. Some examples of symptoms are pain, nausea, fatigue, and anxiety.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728241" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;symptom&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síntoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>síntoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Algo que una persona siente o experimenta y que tal vez indique una enfermedad o afección. Los síntomas solo los puede notificar la persona que los presenta, no los observa  el proveedor de atención de la salud y no se manifiestan en los exámenes médicos. Algunos ejemplos de síntomas son el dolor, las náuseas, la fatiga y la ansiedad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2023-12-27</DateLastModified>
+</GlossaryTerm>

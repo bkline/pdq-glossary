@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800286"><TermName>clinical diagnosis</TermName><TermPronunciation>(KLIH-nih-kul DY-ug-NOH-sis)</TermPronunciation><TermDefinition><DefinitionText>The process of identifying a disease, condition, or injury based on the signs and symptoms a patient is having and the patient’s health history and physical exam. Further testing, such as blood tests, imaging tests, and biopsies, may be done after a clinical diagnosis is made.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clinical diagnosis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnóstico clínico&quot;" language="es" id="_4"/><SpanishTermName>diagnóstico clínico</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso para identificar una enfermedad, afección o lesión a partir de los signos y síntomas, la historia clínica y el examen físico del paciente. Después de establecer el diagnóstico clínico es posible que se obtengan otras pruebas, como análisis de sangre, imágenes y biopsias.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800286">
+  <TermName>clinical diagnosis</TermName>
+  <TermPronunciation>(KLIH-nih-kul DY-ug-NOH-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The process of identifying a disease, condition, or injury based on the signs and symptoms a patient is having and the patient’s health history and physical exam. Further testing, such as blood tests, imaging tests, and biopsies, may be done after a clinical diagnosis is made.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clinical diagnosis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802597" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;diagnóstico clínico&quot;" language="es" id="_4"/>
+  <SpanishTermName>diagnóstico clínico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso para identificar una enfermedad, afección o lesión a partir de los signos y síntomas, la historia clínica y el examen físico del paciente. Después de establecer el diagnóstico clínico es posible que se obtengan otras pruebas, como análisis de sangre, imágenes y biopsias.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-28</DateFirstPublished>
+</GlossaryTerm>

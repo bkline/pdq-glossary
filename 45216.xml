@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045216"><TermName>homoharringtonine</TermName><TermPronunciation>(hoh-moh-HAYR-ing-tuh-neen)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with certain types of chronic myelogenous leukemia that cannot be treated with tyrosine kinase inhibitors (a type of anticancer drug) or that have not gotten better after treatment with at least two tyrosine kinase inhibitors. It is also being studied in the treatment of other types of cancer. Homoharringtonine blocks certain proteins involved in cell growth and may kill cancer cells. It is a type of plant alkaloid and a type of protein synthesis inhibitor. Also called omacetaxine mepesuccinate and Synribo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730801" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;homoharringtonine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730800" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;homoharringtonina&quot;" language="es" id="_4"/><SpanishTermName>homoharringtonina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con  ciertos tipos de leucemia mielógena crónica que no se pueden tratar con inhibidores de tirosina–cinasas (tipo de medicamento contra el cáncer) o que no mejoraron después de tratarse con por lo menos dos inhibidores de tirosina–cinasas. También está en estudio para el tratamiento de otros tipos de cáncer. La homoharringtonina impide la acción de ciertas proteínas que participan en la multiplicación celular y es posible que destruya células cancerosas. Es un tipo de alcaloide vegetal y de inhibidor de la síntesis de proteínas. También se llama mepesuccinato de omacetaxina y Synribo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000742258" url="/about-cancer/treatment/drugs/omacetaxinemepesuccinate">Omacetaxine Mepesuccinate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045216">
+  <TermName>homoharringtonine</TermName>
+  <TermPronunciation>(hoh-moh-HAYR-ing-tuh-neen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with certain types of chronic myelogenous leukemia that cannot be treated with tyrosine kinase inhibitors (a type of anticancer drug) or that have not gotten better after treatment with at least two tyrosine kinase inhibitors. It is also being studied in the treatment of other types of cancer. Homoharringtonine blocks certain proteins involved in cell growth and may kill cancer cells. It is a type of plant alkaloid and a type of protein synthesis inhibitor. Also called omacetaxine mepesuccinate and Synribo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730801" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;homoharringtonine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730800" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;homoharringtonina&quot;" language="es" id="_4"/>
+  <SpanishTermName>homoharringtonina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con  ciertos tipos de leucemia mielógena crónica que no se pueden tratar con inhibidores de tirosina–cinasas (tipo de medicamento contra el cáncer) o que no mejoraron después de tratarse con por lo menos dos inhibidores de tirosina–cinasas. También está en estudio para el tratamiento de otros tipos de cáncer. La homoharringtonina impide la acción de ciertas proteínas que participan en la multiplicación celular y es posible que destruya células cancerosas. Es un tipo de alcaloide vegetal y de inhibidor de la síntesis de proteínas. También se llama mepesuccinato de omacetaxina y Synribo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000742258" url="/about-cancer/treatment/drugs/omacetaxinemepesuccinate">Omacetaxine Mepesuccinate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

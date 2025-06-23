@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044502"><TermName>nodule</TermName><TermPronunciation>(NAH-jool)</TermPronunciation><TermDefinition><DefinitionText>A growth or lump that may be malignant (cancer) or benign (not cancer).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nodule&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704671" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nódulo&quot;" language="es" id="_4"/><SpanishTermName>nódulo</SpanishTermName><SpanishTermDefinition><DefinitionText>Crecimiento o masa que puede ser maligna (cancerosa) o benigna (no cancerosa).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2009-06-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044502">
+  <TermName>nodule</TermName>
+  <TermPronunciation>(NAH-jool)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A growth or lump that may be malignant (cancer) or benign (not cancer).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nodule&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704671" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nódulo&quot;" language="es" id="_4"/>
+  <SpanishTermName>nódulo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Crecimiento o masa que puede ser maligna (cancerosa) o benigna (no cancerosa).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2009-06-04</DateLastModified>
+</GlossaryTerm>

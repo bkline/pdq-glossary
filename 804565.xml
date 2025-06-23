@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000804565"><TermName>WES</TermName><TermDefinition><DefinitionText>A laboratory process that is used to determine the nucleotide sequence primarily of the exonic (or protein-coding) regions of an individual’s genome and related sequences, representing approximately 1% of the complete DNA sequence. Also called whole exome sequencing and WXS.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A laboratory method that is used to learn the exact order of all the building blocks that make up the pieces of a person’s DNA that contain information for making proteins. These pieces, called exons, are thought to make up about 1% of a person’s genome (complete set of DNA). WES is used to find mutations (changes) in genes that may cause diseases, such as cancer.  Also called whole exome sequencing and WXS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>WES</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso de laboratorio para determinar la secuencia de nucleótidos de las regiones exónicas (codificadoras de proteínas) de un genoma y de secuencias relacionadas. Esto representa alrededor de 1 % de la secuencia completa del ADN. También se llama SEC, secuenciación del exoma completo y WXS.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Método de laboratorio que se usa para conocer el orden exacto de todas las porciones de componentes básicos del ADN que contienen la información para la elaboración de proteínas. Estas porciones de ADN se llaman exones y se piensa que conforman alrededor de 1 % del genoma de una persona (conjunto completo de ADN). La WES se usa para encontrar mutaciones (cambios) en genes que a veces causan enfermedades como el cáncer. También se llama SEC, secuenciación del exoma completo y WXS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804565">
+  <TermName>WES</TermName>
+  <TermDefinition>
+    <DefinitionText>A laboratory process that is used to determine the nucleotide sequence primarily of the exonic (or protein-coding) regions of an individual’s genome and related sequences, representing approximately 1% of the complete DNA sequence. Also called whole exome sequencing and WXS.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A laboratory method that is used to learn the exact order of all the building blocks that make up the pieces of a person’s DNA that contain information for making proteins. These pieces, called exons, are thought to make up about 1% of a person’s genome (complete set of DNA). WES is used to find mutations (changes) in genes that may cause diseases, such as cancer.  Also called whole exome sequencing and WXS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>WES</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso de laboratorio para determinar la secuencia de nucleótidos de las regiones exónicas (codificadoras de proteínas) de un genoma y de secuencias relacionadas. Esto representa alrededor de 1 % de la secuencia completa del ADN. También se llama SEC, secuenciación del exoma completo y WXS.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio que se usa para conocer el orden exacto de todas las porciones de componentes básicos del ADN que contienen la información para la elaboración de proteínas. Estas porciones de ADN se llaman exones y se piensa que conforman alrededor de 1 % del genoma de una persona (conjunto completo de ADN). La WES se usa para encontrar mutaciones (cambios) en genes que a veces causan enfermedades como el cáncer. También se llama SEC, secuenciación del exoma completo y WXS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-19</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000655258"><TermName>PFS</TermName><TermDefinition><DefinitionText>The length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. In a clinical trial, measuring the PFS is one way to see how well a new treatment works. Also called progression-free survival.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>SSP</SpanishTermName><SpanishTermDefinition><DefinitionText>Tiempo que pasa desde que comienza el tratamiento de una enfermedad (como el cáncer), y después del tratamiento, durante el cual un paciente convive con la enfermedad, pero esta no empeora. En un ensayo clínico, medir la SSP es una manera de determinar la eficacia de un tratamiento nuevo. También se llama supervivencia sin progresión.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-04-11</DateFirstPublished><DateLastModified>2012-04-11</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000655258">
+  <TermName>PFS</TermName>
+  <TermDefinition>
+    <DefinitionText>The length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. In a clinical trial, measuring the PFS is one way to see how well a new treatment works. Also called progression-free survival.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>SSP</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tiempo que pasa desde que comienza el tratamiento de una enfermedad (como el cáncer), y después del tratamiento, durante el cual un paciente convive con la enfermedad, pero esta no empeora. En un ensayo clínico, medir la SSP es una manera de determinar la eficacia de un tratamiento nuevo. También se llama supervivencia sin progresión.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-04-11</DateFirstPublished>
+  <DateLastModified>2012-04-11</DateLastModified>
+</GlossaryTerm>

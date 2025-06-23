@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000777027"><TermName>PD-1</TermName><TermDefinition><DefinitionText>A protein found on T cells (a type of immune cell) that helps keep the body’s immune responses in check. When PD-1 is bound to another protein called PD-L1, it helps keep T cells from killing other cells, including cancer cells. Some anticancer drugs, called immune checkpoint inhibitors, are used to block PD-1. When this protein is blocked, the “brakes” on the immune system are released and the ability of T cells to kill cancer cells is increased.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PD-1</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que se encuentra en las células T (un tipo de célula inmunitaria) que ayuda al cuerpo a mantener bajo control las respuestas inmunitarias. Cuando PD-1 se une a otra proteína llamada PD-L1, ayuda a evitar que las células T destruyan otras células, como las células cancerosas. Algunos medicamentos contra el cáncer, que se llaman inhibidores de  puntos de control inmunitario se usan para impedir la acción de PD-1. Cuando se bloquea esta proteína, se sueltan los "frenos" del sistema inmunitario y aumenta la capacidad de las células T de destruir células cancerosas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-03-14</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000777027">
+  <TermName>PD-1</TermName>
+  <TermDefinition>
+    <DefinitionText>A protein found on T cells (a type of immune cell) that helps keep the body’s immune responses in check. When PD-1 is bound to another protein called PD-L1, it helps keep T cells from killing other cells, including cancer cells. Some anticancer drugs, called immune checkpoint inhibitors, are used to block PD-1. When this protein is blocked, the “brakes” on the immune system are released and the ability of T cells to kill cancer cells is increased.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PD-1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que se encuentra en las células T (un tipo de célula inmunitaria) que ayuda al cuerpo a mantener bajo control las respuestas inmunitarias. Cuando PD-1 se une a otra proteína llamada PD-L1, ayuda a evitar que las células T destruyan otras células, como las células cancerosas. Algunos medicamentos contra el cáncer, que se llaman inhibidores de  puntos de control inmunitario se usan para impedir la acción de PD-1. Cuando se bloquea esta proteína, se sueltan los &quot;frenos&quot; del sistema inmunitario y aumenta la capacidad de las células T de destruir células cancerosas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-03-14</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

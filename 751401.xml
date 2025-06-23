@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000751401"><TermName>gemcitabine-oxaliplatin regimen</TermName><TermPronunciation>(jem-SY-tuh-been-ok-SA-lih-pla-tin REH-jih-men)</TermPronunciation><TermDefinition><DefinitionText>A chemotherapy combination used to treat pancreatic cancer and some other types of cancer. It includes the drugs gemcitabine hydrochloride and oxaliplatin. Also called gemcitabine-oxaliplatin and GEMOX.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000754455" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gemcitabine-oxaliplatin regimen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000754456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen de gemcitabina y oxaliplatino&quot;" language="es" id="_4"/><SpanishTermName>régimen de gemcitabina y oxaliplatino</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer de páncreas y otros tipos de cáncer. Incluye los medicamentos clorhidrato de gemcitabina y oxaliplatino. También se llama gemcitabina y oxaliplatino y GEMOX.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-10-23</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000750865" url="/about-cancer/treatment/drugs/GEMCITABINE-OXALIPLATIN">GEMCITABINE-OXALIPLATIN</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000751401">
+  <TermName>gemcitabine-oxaliplatin regimen</TermName>
+  <TermPronunciation>(jem-SY-tuh-been-ok-SA-lih-pla-tin REH-jih-men)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A chemotherapy combination used to treat pancreatic cancer and some other types of cancer. It includes the drugs gemcitabine hydrochloride and oxaliplatin. Also called gemcitabine-oxaliplatin and GEMOX.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000754455" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gemcitabine-oxaliplatin regimen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000754456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;régimen de gemcitabina y oxaliplatino&quot;" language="es" id="_4"/>
+  <SpanishTermName>régimen de gemcitabina y oxaliplatino</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer de páncreas y otros tipos de cáncer. Incluye los medicamentos clorhidrato de gemcitabina y oxaliplatino. También se llama gemcitabina y oxaliplatino y GEMOX.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-10-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000750865" url="/about-cancer/treatment/drugs/GEMCITABINE-OXALIPLATIN">GEMCITABINE-OXALIPLATIN</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

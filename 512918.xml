@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000512918"><TermName>stage I Merkel cell carcinoma</TermName><TermPronunciation>(stayj ... MER-kul sel KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>The tumor is 2 centimeters or smaller.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718364" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I Merkel cell carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718363" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células de Merkel en estadio I&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de células de Merkel en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor mide 2 cm o menos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-01-05</DateFirstPublished><DateLastModified>2018-01-09</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000441548" url="/types/skin/patient/merkel-cell-treatment-pdq">Merkel Cell Carcinoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000470863" url="/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq">Tratamiento del carcinoma de células de Merkel</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000512918">
+  <TermName>stage I Merkel cell carcinoma</TermName>
+  <TermPronunciation>(stayj ... MER-kul sel KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is 2 centimeters or smaller.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718364" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I Merkel cell carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718363" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células de Merkel en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de células de Merkel en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor mide 2 cm o menos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-01-05</DateFirstPublished>
+  <DateLastModified>2018-01-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000441548" url="/types/skin/patient/merkel-cell-treatment-pdq">Merkel Cell Carcinoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000470863" url="/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq">Tratamiento del carcinoma de células de Merkel</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

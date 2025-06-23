@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045483"><TermName>plasmapheresis</TermName><TermPronunciation>(PLAZ-muh-feh-REE-sis)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which a machine is used to separate the plasma (the liquid part of the blood) from the blood cells. After the plasma is separated from the blood cells, the blood cells are mixed with a liquid to replace the plasma and are returned to the body. Plasmapheresis is often done to remove extra antibodies, abnormal proteins, or other harmful substances from the blood. It may be used to treat certain types of blood disorders, autoimmune disorders, nervous system disorders, or other conditions. Also called plasma exchange.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705519" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;plasmapheresis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705518" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;plasmaféresis&quot;" language="es" id="_4"/><SpanishTermName>plasmaféresis</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se usa una máquina que separa el plasma (la parte líquida de la sangre) de las células sanguíneas. Luego, se mezclan estas células sanguíneas con un líquido que reemplaza el plasma y se devuelven al cuerpo. La plasmaféresis se realiza con frecuencia para extraer de la sangre el exceso de anticuerpos, proteínas anormales u otras sustancias dañinas. Se usa para el tratamiento de   ciertos tipos de trastornos sanguíneos, trastornos autoinmunitarios, trastornos del sistema inmunitario u otras afecciones. También se llama recambio plasmático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2019-05-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045483">
+  <TermName>plasmapheresis</TermName>
+  <TermPronunciation>(PLAZ-muh-feh-REE-sis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which a machine is used to separate the plasma (the liquid part of the blood) from the blood cells. After the plasma is separated from the blood cells, the blood cells are mixed with a liquid to replace the plasma and are returned to the body. Plasmapheresis is often done to remove extra antibodies, abnormal proteins, or other harmful substances from the blood. It may be used to treat certain types of blood disorders, autoimmune disorders, nervous system disorders, or other conditions. Also called plasma exchange.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705519" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;plasmapheresis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705518" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;plasmaféresis&quot;" language="es" id="_4"/>
+  <SpanishTermName>plasmaféresis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para el que se usa una máquina que separa el plasma (la parte líquida de la sangre) de las células sanguíneas. Luego, se mezclan estas células sanguíneas con un líquido que reemplaza el plasma y se devuelven al cuerpo. La plasmaféresis se realiza con frecuencia para extraer de la sangre el exceso de anticuerpos, proteínas anormales u otras sustancias dañinas. Se usa para el tratamiento de   ciertos tipos de trastornos sanguíneos, trastornos autoinmunitarios, trastornos del sistema inmunitario u otras afecciones. También se llama recambio plasmático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2019-05-24</DateLastModified>
+</GlossaryTerm>

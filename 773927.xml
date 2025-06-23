@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000773927"><TermName>PCV</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat certain types of brain tumors. It is often used with radiation therapy. It includes the drugs procarbazine hydrochloride, lomustine (CCNU), and vincristine sulfate. Also called PCV regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PCV</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de ciertos tipos de tumores de encéfalo. A menudo, se administra con radioterapia. Incluye los medicamentos clorhidrato de procarbazina, lomustina (CCNU) y sulfato de vincristina. También se llama régimen PCV.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-07-28</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000773884" url="/about-cancer/treatment/drugs/PCV">PCV</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000773927">
+  <TermName>PCV</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat certain types of brain tumors. It is often used with radiation therapy. It includes the drugs procarbazine hydrochloride, lomustine (CCNU), and vincristine sulfate. Also called PCV regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PCV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento de ciertos tipos de tumores de encéfalo. A menudo, se administra con radioterapia. Incluye los medicamentos clorhidrato de procarbazina, lomustina (CCNU) y sulfato de vincristina. También se llama régimen PCV.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-07-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000773884" url="/about-cancer/treatment/drugs/PCV">PCV</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

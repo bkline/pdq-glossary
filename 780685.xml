@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000780685"><TermName>double-hit lymphoma</TermName><TermPronunciation>(DUH-bul-hit lim-FOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare, aggressive (fast-growing) type of B-cell non-Hodgkin lymphoma caused by changes in the DNA that affect a gene called the MYC gene and either the BCL2 gene or the BCL6 gene. Double-hit lymphoma may be hard to treat and has a poor prognosis. It is a type of diffuse large B-cell lymphoma. Also called DHL.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784389" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;double-hit lymphoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784388" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma con mutación doble&quot;" language="es" id="_4"/><SpanishTermName>linfoma con mutación doble</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma poco frecuente y muy dinámica (de crecimiento rápido) de linfoma no Hodgkin de células B causada por cambios en el ADN que afectan un gen que se llama MYC junto con el gen BCL2 o el gen BCL6. El linfoma con mutación doble quizás sea difícil tratar y la enfermedad tiene un pronóstico precario. Es un tipo de linfoma difuso de células B grandes. También se llama DHL.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-08-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780685">
+  <TermName>double-hit lymphoma</TermName>
+  <TermPronunciation>(DUH-bul-hit lim-FOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, aggressive (fast-growing) type of B-cell non-Hodgkin lymphoma caused by changes in the DNA that affect a gene called the MYC gene and either the BCL2 gene or the BCL6 gene. Double-hit lymphoma may be hard to treat and has a poor prognosis. It is a type of diffuse large B-cell lymphoma. Also called DHL.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784389" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;double-hit lymphoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784388" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linfoma con mutación doble&quot;" language="es" id="_4"/>
+  <SpanishTermName>linfoma con mutación doble</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma poco frecuente y muy dinámica (de crecimiento rápido) de linfoma no Hodgkin de células B causada por cambios en el ADN que afectan un gen que se llama MYC junto con el gen BCL2 o el gen BCL6. El linfoma con mutación doble quizás sea difícil tratar y la enfermedad tiene un pronóstico precario. Es un tipo de linfoma difuso de células B grandes. También se llama DHL.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-08-15</DateFirstPublished>
+</GlossaryTerm>

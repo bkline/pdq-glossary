@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000689414"><TermName>Children's Oncology Group</TermName><TermPronunciation>(… on-KAH-loh-jee …)</TermPronunciation><TermDefinition><DefinitionText>A large group
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000689414">
+  <TermName>Children's Oncology Group</TermName>
+  <TermPronunciation>(… on-KAH-loh-jee …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A large group
           of researchers, hospitals, and cancer centers that get
           support from the National Cancer Institute (NCI) to study
           childhood cancers. The main goal of the
@@ -10,4 +15,18 @@
           has hospitals and cancer centers in the United States,
           Canada, Europe, Australia, and New Zealand. It is part of
           the National Clinical Trials Network
-          (NCTN). Also called COG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733121" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Children's Oncology Group&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733120" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Children's Oncology Group&quot;" language="es" id="_4"/><SpanishTermName>Children's Oncology Group</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo numeroso de investigadores, hospitales y centros oncológicos que obtienen apoyo del Instituto Nacional del Cáncer (NCI) para estudiar el cáncer infantil. El objetivo principal del Children's Oncology Group es llevar a cabo ensayos clínicos en los que se prueban nuevas formas de prevenir, diagnosticar y tratar el cáncer en niños y adolescentes. Estos ensayos clínicos también  incluyen estudios sobre cuidados médicos de apoyo y de supervivencia del cáncer infantil. El Children's Oncology Group tiene hospitales y centros oncológicos en los Estados Unidos, Canadá, Europa, Australia y Nueva Zelanda. Es parte de la Red Nacional de Ensayos Clínicos (National Clinical Trials Network, NCTN). También se llama COG.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-08-22</DateFirstPublished><DateLastModified>2018-06-26</DateLastModified></GlossaryTerm>
+          (NCTN). Also called COG.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733121" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Children's Oncology Group&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733120" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Children's Oncology Group&quot;" language="es" id="_4"/>
+  <SpanishTermName>Children's Oncology Group</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo numeroso de investigadores, hospitales y centros oncológicos que obtienen apoyo del Instituto Nacional del Cáncer (NCI) para estudiar el cáncer infantil. El objetivo principal del Children's Oncology Group es llevar a cabo ensayos clínicos en los que se prueban nuevas formas de prevenir, diagnosticar y tratar el cáncer en niños y adolescentes. Estos ensayos clínicos también  incluyen estudios sobre cuidados médicos de apoyo y de supervivencia del cáncer infantil. El Children's Oncology Group tiene hospitales y centros oncológicos en los Estados Unidos, Canadá, Europa, Australia y Nueva Zelanda. Es parte de la Red Nacional de Ensayos Clínicos (National Clinical Trials Network, NCTN). También se llama COG.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-08-22</DateFirstPublished>
+  <DateLastModified>2018-06-26</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000539104"><TermName>extranodal</TermName><TermPronunciation>(EK-struh-NOH-dul)</TermPronunciation><TermDefinition><DefinitionText>Refers to an area or organ outside of the lymph nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718190" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extranodal&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718191" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extraganglionar&quot;" language="es" id="_4"/><SpanishTermName>extraganglionar</SpanishTermName><SpanishTermDefinition><DefinitionText>Se refiere a un órgano o área del cuerpo que está fuera de los ganglios linfáticos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-08-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000539104">
+  <TermName>extranodal</TermName>
+  <TermPronunciation>(EK-struh-NOH-dul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Refers to an area or organ outside of the lymph nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718190" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extranodal&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718191" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extraganglionar&quot;" language="es" id="_4"/>
+  <SpanishTermName>extraganglionar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se refiere a un órgano o área del cuerpo que está fuera de los ganglios linfáticos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-08-21</DateFirstPublished>
+</GlossaryTerm>

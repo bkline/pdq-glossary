@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000789743"><TermName>intraepithelial neoplasia</TermName><TermPronunciation>(IN-truh-eh-pih-THEE-lee-ul NEE-oh-PLAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe the presence of abnormal cells on the surface of or in the tissue that lines an organ, such as the cervix, breast, prostate, anus, vagina, vulva, penis, and mouth. The changes in the cells may be low grade or high grade, depending on how abnormal the cells look under a microscope and how much of the tissue is affected. Sometimes, the abnormal cells may become cancer and spread to nearby normal tissue. Also called IEN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791494" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intraepithelial neoplasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791495" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia intraepitelial&quot;" language="es" id="_4"/><SpanishTermName>neoplasia intraepitelial</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para indicar que se encontraron células anormales en la superficie o  el tejido que recubre un órgano, como el cuello uterino, la mama, la próstata, el ano, la vagina, la vulva, el pene o la boca. Los cambios en las células son de grado bajo o de grado alto, según cuán anormales se vean las células al microscopio y cuánto tejido se encuentre afectado.  A veces, las células anormales se vuelven cancerosas y se diseminan al tejido normal cercano. También se llama NIE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-18</DateFirstPublished><DateLastModified>2023-10-26</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789743">
+  <TermName>intraepithelial neoplasia</TermName>
+  <TermPronunciation>(IN-truh-eh-pih-THEE-lee-ul NEE-oh-PLAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe the presence of abnormal cells on the surface of or in the tissue that lines an organ, such as the cervix, breast, prostate, anus, vagina, vulva, penis, and mouth. The changes in the cells may be low grade or high grade, depending on how abnormal the cells look under a microscope and how much of the tissue is affected. Sometimes, the abnormal cells may become cancer and spread to nearby normal tissue. Also called IEN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791494" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;intraepithelial neoplasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791495" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia intraepitelial&quot;" language="es" id="_4"/>
+  <SpanishTermName>neoplasia intraepitelial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para indicar que se encontraron células anormales en la superficie o  el tejido que recubre un órgano, como el cuello uterino, la mama, la próstata, el ano, la vagina, la vulva, el pene o la boca. Los cambios en las células son de grado bajo o de grado alto, según cuán anormales se vean las células al microscopio y cuánto tejido se encuentre afectado.  A veces, las células anormales se vuelven cancerosas y se diseminan al tejido normal cercano. También se llama NIE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-18</DateFirstPublished>
+  <DateLastModified>2023-10-26</DateLastModified>
+</GlossaryTerm>

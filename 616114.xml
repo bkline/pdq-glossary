@@ -1,6 +1,28 @@
-<GlossaryTerm id="CDR0000616114"><TermName>Nplate</TermName><TermPronunciation>(EN-playt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults and in certain children with immune thrombocytopenic purpura that did not get better with other treatment. It is also being studied in the treatment of other conditions and types of cancer.  Nplate binds to the thrombopoietin receptor, which causes the bone marrow to make more platelets. It is a type of thrombopoietin receptor agonist. Also called AMG 531 and romiplostim.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nplate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721161" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nplate&quot;" language="es" id="_4"/><SpanishTermName>Nplate</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000616114">
+  <TermName>Nplate</TermName>
+  <TermPronunciation>(EN-playt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults and in certain children with immune thrombocytopenic purpura that did not get better with other treatment. It is also being studied in the treatment of other conditions and types of cancer.  Nplate binds to the thrombopoietin receptor, which causes the bone marrow to make more platelets. It is a type of thrombopoietin receptor agonist. Also called AMG 531 and romiplostim.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nplate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721161" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nplate&quot;" language="es" id="_4"/>
+  <SpanishTermName>Nplate</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de la trombocitopenia (concentración baja de plaquetas en la sangre)
 en adultos y en determinados niños con púrpura trombocitopénica inmunitaria que no mejoró con otros tratamientos. También está en estudio para el tratamiento de otras afecciones o tipos de cáncer. Nplate se une al receptor de
 la trombopoyetina y hace que la médula ósea elabore más
 plaquetas. Es un tipo de agonista del receptor de la
-trombopoyetina. También se llama AMG 531 y romiplostim.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-29</DateFirstPublished><DateLastModified>2021-05-18</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000613094" url="/about-cancer/treatment/drugs/romiplostim">Romiplostim</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+trombopoyetina. También se llama AMG 531 y romiplostim.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-29</DateFirstPublished>
+  <DateLastModified>2021-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000613094" url="/about-cancer/treatment/drugs/romiplostim">Romiplostim</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

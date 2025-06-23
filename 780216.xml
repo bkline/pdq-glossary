@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000780216"><TermName>treatment summary</TermName><TermPronunciation>(TREET-ment SUH-muh-ree)</TermPronunciation><TermDefinition><DefinitionText>A detailed summary of a patient’s disease, the type of treatment the patient received, and any side effects or other problems caused by treatment. It usually includes results of laboratory tests (such as pathology reports and biomarker tests) and imaging tests (such as x-rays, CT scans, and MRIs), and whether a patient took part in a clinical trial. A treatment summary may be used to help plan follow-up care after treatment for a disease, such as cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782432" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;treatment summary&quot;" language="en" id="_3"/><MediaLink ref="CDR0000782433" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resumen de tratamiento&quot;" language="es" id="_4"/><SpanishTermName>resumen de tratamiento</SpanishTermName><SpanishTermDefinition><DefinitionText>Resumen detallado de la enfermedad del paciente, el tipo de tratamiento que recibió, y cualquier efecto secundario u otros problemas causados por el tratamiento. Habitualmente, incluye los resultados de las pruebas de laboratorio (como los informes de patología y los análisis de biomarcadores), las pruebas con imágenes (como radiografías, exploraciones por TC e IRM), y si el paciente participó en un ensayo clínico. El resumen de tratamiento se puede usar para ayudar a planificar la atención de seguimiento después del tratamiento de una enfermedad, como el cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-05-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780216">
+  <TermName>treatment summary</TermName>
+  <TermPronunciation>(TREET-ment SUH-muh-ree)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A detailed summary of a patient’s disease, the type of treatment the patient received, and any side effects or other problems caused by treatment. It usually includes results of laboratory tests (such as pathology reports and biomarker tests) and imaging tests (such as x-rays, CT scans, and MRIs), and whether a patient took part in a clinical trial. A treatment summary may be used to help plan follow-up care after treatment for a disease, such as cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782432" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;treatment summary&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000782433" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resumen de tratamiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>resumen de tratamiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Resumen detallado de la enfermedad del paciente, el tipo de tratamiento que recibió, y cualquier efecto secundario u otros problemas causados por el tratamiento. Habitualmente, incluye los resultados de las pruebas de laboratorio (como los informes de patología y los análisis de biomarcadores), las pruebas con imágenes (como radiografías, exploraciones por TC e IRM), y si el paciente participó en un ensayo clínico. El resumen de tratamiento se puede usar para ayudar a planificar la atención de seguimiento después del tratamiento de una enfermedad, como el cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-05-20</DateFirstPublished>
+</GlossaryTerm>

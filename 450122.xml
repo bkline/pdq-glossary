@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000450122"><TermName>stress</TermName><TermPronunciation>(stres)</TermPronunciation><TermDefinition><DefinitionText>In medicine,
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000450122">
+  <TermName>stress</TermName>
+  <TermPronunciation>(stres)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine,
           the body’s response to physical, mental, or emotional
           pressure. Stress causes chemical changes in the body that
           can raise blood pressure, heart rate, and blood sugar
@@ -6,4 +11,22 @@
           anxiety, anger, or depression. Stress can be caused by
           normal life activities or by an event, such as trauma or
           illness. Long-term stress or high levels of stress may lead
-          to mental and physical health problems.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732925" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stress&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732926" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estrés&quot;" language="es" id="_8"/><SpanishTermName>estrés</SpanishTermName><SpanishTermDefinition><DefinitionText>En el campo de la medicina, es la respuesta del cuerpo a una presión física, mental o emocional. El estrés produce cambios químicos que elevan la presión arterial, la frecuencia cardíaca y las concentraciones de azúcar en la sangre. También suele producir sentimientos de frustración, ansiedad, enojo o depresión. Las actividades de la vida cotidiana o determinadas situaciones, como un acontecimiento traumático o una enfermedad producen estrés. Es posible que el estrés intenso o que dura mucho tiempo produzca problemas de salud física y mental. También se llama tensión emocional, tensión nerviosa y tensión psíquica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-05-30</DateFirstPublished><DateLastModified>2013-01-15</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet">Stress and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres">Estrés y cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+          to mental and physical health problems.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732925" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stress&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732926" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estrés&quot;" language="es" id="_8"/>
+  <SpanishTermName>estrés</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la medicina, es la respuesta del cuerpo a una presión física, mental o emocional. El estrés produce cambios químicos que elevan la presión arterial, la frecuencia cardíaca y las concentraciones de azúcar en la sangre. También suele producir sentimientos de frustración, ansiedad, enojo o depresión. Las actividades de la vida cotidiana o determinadas situaciones, como un acontecimiento traumático o una enfermedad producen estrés. Es posible que el estrés intenso o que dura mucho tiempo produzca problemas de salud física y mental. También se llama tensión emocional, tensión nerviosa y tensión psíquica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-05-30</DateFirstPublished>
+  <DateLastModified>2013-01-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet">Stress and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres">Estrés y cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

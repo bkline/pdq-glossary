@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798619"><TermName>photosensitivity</TermName><TermPronunciation>(FOH-toh-SEN-sih-TIH-vih-tee)</TermPronunciation><TermDefinition><DefinitionText>A condition in which the skin becomes very sensitive to sunlight or other forms of ultraviolet light and may burn easily. Photosensitivity usually causes a rash or sunburn, especially on areas of the skin that are exposed to ultraviolet light. The affected areas may be painful and may itch, blister, or peel. Photosensitivity may be caused by certain medicines, such as antibiotics and anticancer drugs, radiation therapy, exposure to certain chemicals, and some medical conditions, such as lupus and xeroderma pigmentosum.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801004" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photosensitivity&quot;" language="en" id="_4"/><MediaLink ref="CDR0000801005" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fotosensibilidad&quot;" language="es" id="_5"/><SpanishTermName>fotosensibilidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que la piel se vuelve muy sensible a la luz solar u otras formas de luz ultravioleta por lo que se quema muy fácil. Por lo general, la fotosensibilidad produce un exantema o quemadura solar, en especial en áreas de la piel expuestas a la luz ultravioleta. Es posible que en las áreas afectadas se produzca dolor, comezón, ampollas o descamación. La causa de la fotosensibilidad quizás sean determinados medicamentos, como antibióticos y medicamentos contra el cáncer, radioterapia, exposición a ciertas sustancias químicas y algunas afecciones como el lupus y el xeroderma pigmentoso. También se llama hiperfotosensibilidad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798619">
+  <TermName>photosensitivity</TermName>
+  <TermPronunciation>(FOH-toh-SEN-sih-TIH-vih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which the skin becomes very sensitive to sunlight or other forms of ultraviolet light and may burn easily. Photosensitivity usually causes a rash or sunburn, especially on areas of the skin that are exposed to ultraviolet light. The affected areas may be painful and may itch, blister, or peel. Photosensitivity may be caused by certain medicines, such as antibiotics and anticancer drugs, radiation therapy, exposure to certain chemicals, and some medical conditions, such as lupus and xeroderma pigmentosum.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801004" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photosensitivity&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000801005" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fotosensibilidad&quot;" language="es" id="_5"/>
+  <SpanishTermName>fotosensibilidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que la piel se vuelve muy sensible a la luz solar u otras formas de luz ultravioleta por lo que se quema muy fácil. Por lo general, la fotosensibilidad produce un exantema o quemadura solar, en especial en áreas de la piel expuestas a la luz ultravioleta. Es posible que en las áreas afectadas se produzca dolor, comezón, ampollas o descamación. La causa de la fotosensibilidad quizás sean determinados medicamentos, como antibióticos y medicamentos contra el cáncer, radioterapia, exposición a ciertas sustancias químicas y algunas afecciones como el lupus y el xeroderma pigmentoso. También se llama hiperfotosensibilidad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-07</DateFirstPublished>
+</GlossaryTerm>

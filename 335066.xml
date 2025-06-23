@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000335066"><TermName>flow cytometry</TermName><TermPronunciation>(floh sy-TAH-meh-tree)</TermPronunciation><TermDefinition><DefinitionText>A laboratory method that measures the number of cells, the percentage of live cells, and certain characteristics of cells, such as size and shape, in a sample of blood, bone marrow, or other tissue. The presence of tumor markers, such as antigens, on the surface of the cells are also measured. The cells are stained with a light-sensitive dye, placed in a fluid, and then passed one at a time through a beam of light. The measurements are based on how the stained cells react to the beam of light. Flow cytometry is used in basic research and to help diagnose and manage certain diseases, including cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731528" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flow cytometry&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citometría de flujo&quot;" language="es" id="_4"/><SpanishTermName>citometría de flujo</SpanishTermName><SpanishTermDefinition><DefinitionText>Método de laboratorio para determinar el número de células, el porcentaje de células vivas y ciertas características de las células (como el tamaño y la forma) en una muestra de sangre, médula ósea u otro tejido. También sirve para identificar marcadores tumorales, como antígenos, en la superficie celular. Las células se tiñen con un tinte sensible a la luz, se colocan en un líquido y luego se pasan una a una por un haz de luz. Las mediciones se basan en la manera en que las células teñidas responden a la luz. La citometría de flujo se usa en investigación básica y para el diagnóstico y tratamiento de enfermedades, como el cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-09-24</DateFirstPublished><DateLastModified>2019-07-23</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000335066">
+  <TermName>flow cytometry</TermName>
+  <TermPronunciation>(floh sy-TAH-meh-tree)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A laboratory method that measures the number of cells, the percentage of live cells, and certain characteristics of cells, such as size and shape, in a sample of blood, bone marrow, or other tissue. The presence of tumor markers, such as antigens, on the surface of the cells are also measured. The cells are stained with a light-sensitive dye, placed in a fluid, and then passed one at a time through a beam of light. The measurements are based on how the stained cells react to the beam of light. Flow cytometry is used in basic research and to help diagnose and manage certain diseases, including cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731528" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flow cytometry&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731529" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;citometría de flujo&quot;" language="es" id="_4"/>
+  <SpanishTermName>citometría de flujo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Método de laboratorio para determinar el número de células, el porcentaje de células vivas y ciertas características de las células (como el tamaño y la forma) en una muestra de sangre, médula ósea u otro tejido. También sirve para identificar marcadores tumorales, como antígenos, en la superficie celular. Las células se tiñen con un tinte sensible a la luz, se colocan en un líquido y luego se pasan una a una por un haz de luz. Las mediciones se basan en la manera en que las células teñidas responden a la luz. La citometría de flujo se usa en investigación básica y para el diagnóstico y tratamiento de enfermedades, como el cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-09-24</DateFirstPublished>
+  <DateLastModified>2019-07-23</DateLastModified>
+</GlossaryTerm>

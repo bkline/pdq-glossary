@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000813766"><TermName>Ojjaara</TermName><TermPronunciation>(oh-JAR-uh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat intermediate-risk or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF, and post-essential thrombocythemia MF, in adults with anemia. Ojjaara blocks JAK and other proteins, which may help keep abnormal blood cells or cancer cells from growing. It is a type of kinase inhibitor. Also called momelotinib dihydrochloride monohydrate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814919" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ojjaara&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814920" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ojjaara&quot;" language="es" id="_4"/><SpanishTermName>Ojjaara</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la mielofibrosis de riesgo intermedio o alto, incluso la mielofibrosis primaria, la mielofibrosis pospolicitemia vera y la mielofibrosis postrombocitemia esencial, en adultos con anemia. Ojjaara bloquea JAK y otras proteínas, lo que quizás ayude a evitar la multiplicación de células sanguíneas anormales o células cancerosas. Es un tipo de inhibidor de cinasas. También se llama monohidrato de diclorhidrato de momelotinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-09-22</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000813846" url="/about-cancer/treatment/drugs/momelotinib-dihydrochloride-monohydrate">Momelotinib Dihydrochloride Monohydrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813766">
+  <TermName>Ojjaara</TermName>
+  <TermPronunciation>(oh-JAR-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat intermediate-risk or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF, and post-essential thrombocythemia MF, in adults with anemia. Ojjaara blocks JAK and other proteins, which may help keep abnormal blood cells or cancer cells from growing. It is a type of kinase inhibitor. Also called momelotinib dihydrochloride monohydrate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814919" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ojjaara&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814920" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Ojjaara&quot;" language="es" id="_4"/>
+  <SpanishTermName>Ojjaara</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de la mielofibrosis de riesgo intermedio o alto, incluso la mielofibrosis primaria, la mielofibrosis pospolicitemia vera y la mielofibrosis postrombocitemia esencial, en adultos con anemia. Ojjaara bloquea JAK y otras proteínas, lo que quizás ayude a evitar la multiplicación de células sanguíneas anormales o células cancerosas. Es un tipo de inhibidor de cinasas. También se llama monohidrato de diclorhidrato de momelotinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-09-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000813846" url="/about-cancer/treatment/drugs/momelotinib-dihydrochloride-monohydrate">Momelotinib Dihydrochloride Monohydrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

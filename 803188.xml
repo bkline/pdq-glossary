@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000803188"><TermName>risk-reducing mastectomy</TermName><TermPronunciation>(risk-ree-DOO-sing ma-STEK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery to reduce the risk of breast cancer by removing one or both breasts before disease develops. Risk-reducing mastectomy may be done in people who have a very high risk of developing breast cancer. Also called preventive mastectomy and prophylactic mastectomy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805249" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;risk-reducing mastectomy&quot;" language="en" id="_5"/><MediaLink ref="CDR0000805250" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastectomía para reducir el riesgo&quot;" language="es" id="_6"/><SpanishTermName>mastectomía para reducir el riesgo</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía para extirpar una o ambas mamas (senos) con el fin de reducir el riesgo de cáncer de mama. La mastectomía para reducir el riesgo se hace en personas con un riesgo muy alto de cáncer de mama. También se llama mastectomía preventiva, mastectomía profiláctica y mastectomía reductora del riesgo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished><DateLastModified>2021-02-09</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803188">
+  <TermName>risk-reducing mastectomy</TermName>
+  <TermPronunciation>(risk-ree-DOO-sing ma-STEK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery to reduce the risk of breast cancer by removing one or both breasts before disease develops. Risk-reducing mastectomy may be done in people who have a very high risk of developing breast cancer. Also called preventive mastectomy and prophylactic mastectomy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805249" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;risk-reducing mastectomy&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000805250" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mastectomía para reducir el riesgo&quot;" language="es" id="_6"/>
+  <SpanishTermName>mastectomía para reducir el riesgo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía para extirpar una o ambas mamas (senos) con el fin de reducir el riesgo de cáncer de mama. La mastectomía para reducir el riesgo se hace en personas con un riesgo muy alto de cáncer de mama. También se llama mastectomía preventiva, mastectomía profiláctica y mastectomía reductora del riesgo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+  <DateLastModified>2021-02-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

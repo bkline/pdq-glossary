@@ -1,2 +1,26 @@
-<GlossaryTerm id="CDR0000787903"><TermName>avelumab</TermName><TermPronunciation>(a-VEL-yoo-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug that binds to the protein PD-L1 to help immune cells kill cancer cells better and is used to treat different types of cancer. Avelumab is used alone or with other drugs to treat certain types of advanced renal cell carcinoma (a type of kidney cancer), urothelial cancer (a type of cancer in the bladder or urinary tract), and Merkel cell carcinoma (a rare type of skin cancer). It is also being studied in the treatment of other types of cancer. Avelumab may block PD-L1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor.  Also called Bavencio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788393" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;avelumab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788392" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;avelumab&quot;" language="es" id="_4"/><SpanishTermName>avelumab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se une a la proteína PD-L1 para ayudar a las células inmunitarias a destruir más células cancerosas, y que se usa para el tratamiento de tipos diferentes de cáncer. El avelumab se utiliza solo o con otros medicamentos para el tratamiento de ciertos tipos de carcinoma de células renales avanzado (tipo de cáncer de riñón), cáncer urotelial (tipo de cáncer de vejiga o aparato urinario) y carcinoma de células de Merkel (tipo de cáncer de piel raro). También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que el avelumab bloquee PD-L1 y ayude al
-sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Bavencio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-27</DateFirstPublished><DateLastModified>2021-07-16</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000787910" url="/about-cancer/treatment/drugs/avelumab">Avelumab</RelatedDrugSummaryRef><RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000787903">
+  <TermName>avelumab</TermName>
+  <TermPronunciation>(a-VEL-yoo-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that binds to the protein PD-L1 to help immune cells kill cancer cells better and is used to treat different types of cancer. Avelumab is used alone or with other drugs to treat certain types of advanced renal cell carcinoma (a type of kidney cancer), urothelial cancer (a type of cancer in the bladder or urinary tract), and Merkel cell carcinoma (a rare type of skin cancer). It is also being studied in the treatment of other types of cancer. Avelumab may block PD-L1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor.  Also called Bavencio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788393" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;avelumab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788392" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;avelumab&quot;" language="es" id="_4"/>
+  <SpanishTermName>avelumab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se une a la proteína PD-L1 para ayudar a las células inmunitarias a destruir más células cancerosas, y que se usa para el tratamiento de tipos diferentes de cáncer. El avelumab se utiliza solo o con otros medicamentos para el tratamiento de ciertos tipos de carcinoma de células renales avanzado (tipo de cáncer de riñón), cáncer urotelial (tipo de cáncer de vejiga o aparato urinario) y carcinoma de células de Merkel (tipo de cáncer de piel raro). También está en estudio para el tratamiento de otros tipos de cáncer. Es posible que el avelumab bloquee PD-L1 y ayude al
+sistema inmunitario a destruir células cancerosas. Es un tipo de anticuerpo monoclonal y de inhibidor de puntos de control inmunitario. También se llama Bavencio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-27</DateFirstPublished>
+  <DateLastModified>2021-07-16</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000787910" url="/about-cancer/treatment/drugs/avelumab">Avelumab</RelatedDrugSummaryRef>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="en" audience="Patients">immune checkpoint inhibitor</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000772606" UseWith="es" audience="Patients">inhibidor de puntos de control inmunitario</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000782476"><TermName>myopericytoma</TermName><TermPronunciation>(my-oh-PAYR-ih-sy-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare, slow-growing soft tissue tumor that begins in cells that wrap around blood vessels. Most myopericytomas are benign (not cancer).  They can occur anywhere in the body, but usually occur in the legs, trunk (chest and abdomen), or head and neck. They can occur in children, but are most common in middle-aged adults.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;myopericytoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785347" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;miopericitoma&quot;" language="es" id="_4"/><SpanishTermName>miopericitoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor de crecimiento lento poco frecuente del tejido blando que empieza en las células que envuelven los vasos sanguíneos. La mayoría de los miopericitomas son benignos (no cancerosos). Se pueden presentar en cualquier parte del cuerpo, pero por lo general aparecen en las piernas, el tronco (tórax y abdomen), o la cabeza y el cuello. Si bien es posible que se presenten en niños, son más comunes en los adultos de mediana edad.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-17</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000782476">
+  <TermName>myopericytoma</TermName>
+  <TermPronunciation>(my-oh-PAYR-ih-sy-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, slow-growing soft tissue tumor that begins in cells that wrap around blood vessels. Most myopericytomas are benign (not cancer).  They can occur anywhere in the body, but usually occur in the legs, trunk (chest and abdomen), or head and neck. They can occur in children, but are most common in middle-aged adults.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;myopericytoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785347" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;miopericitoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>miopericitoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de crecimiento lento poco frecuente del tejido blando que empieza en las células que envuelven los vasos sanguíneos. La mayoría de los miopericitomas son benignos (no cancerosos). Se pueden presentar en cualquier parte del cuerpo, pero por lo general aparecen en las piernas, el tronco (tórax y abdomen), o la cabeza y el cuello. Si bien es posible que se presenten en niños, son más comunes en los adultos de mediana edad.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-17</DateFirstPublished>
+</GlossaryTerm>

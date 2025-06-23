@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000407766"><TermName>soy</TermName><TermPronunciation>(soy)</TermPronunciation><TermDefinition><DefinitionText>A product from a plant of Asian origin that produces beans used in many food products. Soy contains isoflavones (estrogen-like substances) that are being studied for the prevention of cancer, hot flashes that occur with menopause, and osteoporosis (loss of bone density). Soy in the diet may lower cholesterol levels and reduce the risk of heart disease. Also called Glycine max, soya, and soybean.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;soy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;soja&quot;" language="es" id="_4"/><SpanishTermName>soja</SpanishTermName><SpanishTermDefinition><DefinitionText>Planta de origen asiático cuya semilla se usa en muchos productos alimenticios. La soja contiene isoflavonas (sustancias similares al estrógeno) que están en estudio para la prevención del cáncer, las crisis vasomotoras (sofocos) de la menopausia y la osteoporosis (pérdida de densidad ósea). Es posible que el consumo de productos de soja reduzca  las concentraciones de colesterol y el riesgo de enfermedad en el corazón. También se llama Glycine max, semilla de soja y soya.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><DateLastModified>2008-11-14</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000719565" url="/about-cancer/treatment/cam/patient/prostate-supplements-pdq">Prostate Cancer, Nutrition, and Dietary Supplements</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000773657" url="/espanol/cancer/tratamiento/mca/paciente/prostata-suplementos-pdq">Cáncer de próstata, nutrición y suplementos alimenticios</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000407766">
+  <TermName>soy</TermName>
+  <TermPronunciation>(soy)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A product from a plant of Asian origin that produces beans used in many food products. Soy contains isoflavones (estrogen-like substances) that are being studied for the prevention of cancer, hot flashes that occur with menopause, and osteoporosis (loss of bone density). Soy in the diet may lower cholesterol levels and reduce the risk of heart disease. Also called Glycine max, soya, and soybean.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;soy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;soja&quot;" language="es" id="_4"/>
+  <SpanishTermName>soja</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Planta de origen asiático cuya semilla se usa en muchos productos alimenticios. La soja contiene isoflavonas (sustancias similares al estrógeno) que están en estudio para la prevención del cáncer, las crisis vasomotoras (sofocos) de la menopausia y la osteoporosis (pérdida de densidad ósea). Es posible que el consumo de productos de soja reduzca  las concentraciones de colesterol y el riesgo de enfermedad en el corazón. También se llama Glycine max, semilla de soja y soya.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <DateLastModified>2008-11-14</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000719565" url="/about-cancer/treatment/cam/patient/prostate-supplements-pdq">Prostate Cancer, Nutrition, and Dietary Supplements</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000773657" url="/espanol/cancer/tratamiento/mca/paciente/prostata-suplementos-pdq">Cáncer de próstata, nutrición y suplementos alimenticios</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

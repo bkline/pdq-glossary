@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000616061"><TermName>expectant management</TermName><TermPronunciation>(ek-SPEK-tunt MA-nij-ment)</TermPronunciation><TermDefinition><DefinitionText>Closely watching a patient’s condition but not giving treatment unless symptoms appear or change, or there are changes in test results. Expectant management avoids problems that may be caused by treatments such as radiation or surgery. It is used to find early signs that the condition is getting worse.  During expectant management, patients may be given certain exams and tests. It is sometimes used in prostate cancer. Also called deferred therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000721152" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;expectant management&quot;" language="en" id="_3"/><MediaLink ref="CDR0000721151" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;conducta expectante&quot;" language="es" id="_4"/><SpanishTermName>conducta expectante</SpanishTermName><SpanishTermDefinition><DefinitionText>Observación minuciosa del estado del paciente sin administrar tratamiento, a menos que aparezcan síntomas, cambien los síntomas o cambien los resultados de las pruebas. La conducta expectante evita los problemas que a veces surgen con tratamientos como la radioterapia o  la cirugía. Este tipo de observación permite  identificar indicios tempranos de que la afección está empeorando. Durante la conducta expectante se suelen hacer pruebas y exámenes. En ocasiones se usa en pacientes con cáncer de próstata. También se llama actitud expectante y terapia diferida.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-26</DateFirstPublished><DateLastModified>2010-03-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000616061">
+  <TermName>expectant management</TermName>
+  <TermPronunciation>(ek-SPEK-tunt MA-nij-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Closely watching a patient’s condition but not giving treatment unless symptoms appear or change, or there are changes in test results. Expectant management avoids problems that may be caused by treatments such as radiation or surgery. It is used to find early signs that the condition is getting worse.  During expectant management, patients may be given certain exams and tests. It is sometimes used in prostate cancer. Also called deferred therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000721152" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;expectant management&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000721151" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;conducta expectante&quot;" language="es" id="_4"/>
+  <SpanishTermName>conducta expectante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Observación minuciosa del estado del paciente sin administrar tratamiento, a menos que aparezcan síntomas, cambien los síntomas o cambien los resultados de las pruebas. La conducta expectante evita los problemas que a veces surgen con tratamientos como la radioterapia o  la cirugía. Este tipo de observación permite  identificar indicios tempranos de que la afección está empeorando. Durante la conducta expectante se suelen hacer pruebas y exámenes. En ocasiones se usa en pacientes con cáncer de próstata. También se llama actitud expectante y terapia diferida.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-26</DateFirstPublished>
+  <DateLastModified>2010-03-15</DateLastModified>
+</GlossaryTerm>

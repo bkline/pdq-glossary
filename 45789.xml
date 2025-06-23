@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000045789"><TermName>mucositis</TermName><TermPronunciation>(myoo-koh-SY-tis)</TermPronunciation><TermDefinition><DefinitionText>A complication of some cancer therapies in which the lining of the digestive system becomes inflamed. Often seen as sores in the mouth.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mucositis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mucositis&quot;" language="es" id="_4"/><SpanishTermName>mucositis</SpanishTermName><SpanishTermDefinition><DefinitionText>Complicación producida por algunas terapias contra el cáncer en la que el revestimiento del aparato digestivo se inflama. Se observa a menudo en las llagas de la boca.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat">Mouth and Throat Problems: Cancer Treatment Side Effects</RelatedExternalRef><RelatedSummaryRef UseWith="en" href="CDR0000062871" url="/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq">Oral Complications of Cancer Therapies</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256665" url="/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta/complicaciones-orales-pdq">Complicaciones orales del tratamiento del cáncer</RelatedSummaryRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta">Problemas en la boca y en la garganta</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045789">
+  <TermName>mucositis</TermName>
+  <TermPronunciation>(myoo-koh-SY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A complication of some cancer therapies in which the lining of the digestive system becomes inflamed. Often seen as sores in the mouth.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mucositis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731216" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mucositis&quot;" language="es" id="_4"/>
+  <SpanishTermName>mucositis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Complicación producida por algunas terapias contra el cáncer en la que el revestimiento del aparato digestivo se inflama. Se observa a menudo en las llagas de la boca.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat">Mouth and Throat Problems: Cancer Treatment Side Effects</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062871" url="/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq">Oral Complications of Cancer Therapies</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256665" url="/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta/complicaciones-orales-pdq">Complicaciones orales del tratamiento del cáncer</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta">Problemas en la boca y en la garganta</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

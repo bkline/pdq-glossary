@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000659155"><TermName>BCOP</TermName><TermDefinition><DefinitionText>A licensed pharmacist with special training in how to design, give, monitor, and change chemotherapy for cancer patients. Also called board certified oncology pharmacy specialist and oncology pharmacy specialist.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BCOP</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional autorizado con título en farmacia que se especializa en el diseño, administración, vigilancia  y modificación de la quimioterapia en pacientes con cáncer. También se llama especialista certificado en oncología farmacéutica y especialista en farmacia oncológica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-13</DateFirstPublished><DateLastModified>2009-11-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000659155">
+  <TermName>BCOP</TermName>
+  <TermDefinition>
+    <DefinitionText>A licensed pharmacist with special training in how to design, give, monitor, and change chemotherapy for cancer patients. Also called board certified oncology pharmacy specialist and oncology pharmacy specialist.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BCOP</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional autorizado con título en farmacia que se especializa en el diseño, administración, vigilancia  y modificación de la quimioterapia en pacientes con cáncer. También se llama especialista certificado en oncología farmacéutica y especialista en farmacia oncológica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-13</DateFirstPublished>
+  <DateLastModified>2009-11-13</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797035"><TermName>existential therapy</TermName><TermPronunciation>(EK-sih-STEN-shul THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>A type of psychotherapy that helps people think about the problems in their lives in the context of larger issues related to being human. Existential therapy focuses on helping people make healthy choices by taking responsibility for their own decisions, recognizing both their potential and their limitations, developing better ways of communicating, and searching for meaning and purpose in their lives. It may be used to help treat certain conditions, such as anxiety, depression, substance use disorders, and post-traumatic stress disorder.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798882" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;existential therapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798883" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psicoterapia existencial&quot;" language="es" id="_4"/><SpanishTermName>psicoterapia existencial</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de psicoterapia que ayuda a una persona a pensar sobre los problemas de su vida como parte de la condición humana en general. La psicoterapia existencial se concentra en ayudar a que las personas elijan opciones sanas al asumir la responsabilidad por sus decisiones, reconocer sus posibilidades y limitaciones,  mejorar la forma en que se comunican, y buscar el significado y el propósito de su vida. Es posible que se use para el tratamiento de ciertas afecciones, como la ansiedad, la depresión, los  trastornos por consumo de sustancias y el trastorno por estrés postraumático.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-25</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797035">
+  <TermName>existential therapy</TermName>
+  <TermPronunciation>(EK-sih-STEN-shul THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of psychotherapy that helps people think about the problems in their lives in the context of larger issues related to being human. Existential therapy focuses on helping people make healthy choices by taking responsibility for their own decisions, recognizing both their potential and their limitations, developing better ways of communicating, and searching for meaning and purpose in their lives. It may be used to help treat certain conditions, such as anxiety, depression, substance use disorders, and post-traumatic stress disorder.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798882" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;existential therapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798883" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;psicoterapia existencial&quot;" language="es" id="_4"/>
+  <SpanishTermName>psicoterapia existencial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de psicoterapia que ayuda a una persona a pensar sobre los problemas de su vida como parte de la condición humana en general. La psicoterapia existencial se concentra en ayudar a que las personas elijan opciones sanas al asumir la responsabilidad por sus decisiones, reconocer sus posibilidades y limitaciones,  mejorar la forma en que se comunican, y buscar el significado y el propósito de su vida. Es posible que se use para el tratamiento de ciertas afecciones, como la ansiedad, la depresión, los  trastornos por consumo de sustancias y el trastorno por estrés postraumático.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-25</DateFirstPublished>
+</GlossaryTerm>

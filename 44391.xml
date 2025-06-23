@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000044391"><TermName>DRE</TermName><TermDefinition><DefinitionText>An examination in which a doctor inserts a lubricated, gloved finger into the rectum to feel for abnormalities. Also called digital rectal examination.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000457840" type="image/jpeg" alt="Digital rectal exam; drawing shows a side view of the male reproductive anatomy and the urinary anatomy, including the prostate, rectum, and bladder. Also shown is a gloved, lubricated finger inserted into the rectum to feel the rectum, anus, and prostate." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">Digital rectal exam (DRE). The doctor inserts a gloved, lubricated finger into the rectum and feels the rectum, anus, and prostate (in males) to check for anything abnormal.</Caption></MediaLink><MediaLink ref="CDR0000462223" type="image/jpeg" alt="Examen digital del recto; en la imagen se muestra una vista lateral de la anatomía del aparato reproductor y las vías urinarias en el hombre; se observan la próstata, el recto y la vejiga. También se muestra un dedo enguantado y lubricado que se introduce en el recto para palpar el recto, el ano y la próstata." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Examen digital del recto (EDR).  El médico introduce un dedo enguantado y lubricado en el recto y palpa el recto, el ano y la próstata (en los hombres) para detectar cualquier cosa que parezca anormal.</Caption></MediaLink><SpanishTermName>EDR</SpanishTermName><SpanishTermDefinition><DefinitionText>Examen en el que el médico introduce un dedo cubierto por un guante lubricado en el recto para palpar y detectar anomalías. También se llama ERD, examen digital del recto y TR.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-01-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044391">
+  <TermName>DRE</TermName>
+  <TermDefinition>
+    <DefinitionText>An examination in which a doctor inserts a lubricated, gloved finger into the rectum to feel for abnormalities. Also called digital rectal examination.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000457840" type="image/jpeg" alt="Digital rectal exam; drawing shows a side view of the male reproductive anatomy and the urinary anatomy, including the prostate, rectum, and bladder. Also shown is a gloved, lubricated finger inserted into the rectum to feel the rectum, anus, and prostate." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">Digital rectal exam (DRE). The doctor inserts a gloved, lubricated finger into the rectum and feels the rectum, anus, and prostate (in males) to check for anything abnormal.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000462223" type="image/jpeg" alt="Examen digital del recto; en la imagen se muestra una vista lateral de la anatomía del aparato reproductor y las vías urinarias en el hombre; se observan la próstata, el recto y la vejiga. También se muestra un dedo enguantado y lubricado que se introduce en el recto para palpar el recto, el ano y la próstata." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Examen digital del recto (EDR).  El médico introduce un dedo enguantado y lubricado en el recto y palpa el recto, el ano y la próstata (en los hombres) para detectar cualquier cosa que parezca anormal.</Caption>
+  </MediaLink>
+  <SpanishTermName>EDR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Examen en el que el médico introduce un dedo cubierto por un guante lubricado en el recto para palpar y detectar anomalías. También se llama ERD, examen digital del recto y TR.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-01-24</DateLastModified>
+</GlossaryTerm>

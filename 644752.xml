@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000644752"><TermName>anti-IGF1R recombinant monoclonal antibody MK-0646</TermName><TermPronunciation>(AN-tee … ree-KOM-bih-nunt MAH-noh-KLOH-nul AN-tee-BAH-dee …)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of many types of cancer. Anti-IGF1R recombinant monoclonal antibody MK-0646 binds to a protein called insulin-like growth factor receptor (IGFR) on the surface of cells. This may prevent the cells from growing when IGF is present. It may also kill cancer cells. Anti-IGF1R recombinant monoclonal antibody MK-0646 is a type of monoclonal antibody. Also called MK-0646.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anti-IGF1R recombinant monoclonal antibody MK-0646&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726266" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anticuerpo monoclonal recombinado anti-IGF1R MK-0646&quot;" language="es" id="_6"/><SpanishTermName>anticuerpo monoclonal recombinado anti-IGF1R MK-0646</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento de muchos tipos de cánceres. El anticuerpo monoclonal recombinado anti-IGF1R MK-0646 se une a una proteína llamada receptor del factor de crecimiento similar a la insulina (IGFR) en la superficie de las células. Es posible que esto evite la multiplicación de las células en presencia de IGF. Además, quizás destruya células cancerosas. El anticuerpo monoclonal recombinado anti-IGF1R MK-0646 es un tipo de anticuerpo monoclonal. También se llama anticuerpo monoclonal recombinante anti-IGF1R MK0646 y MK-0646.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-11-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644752">
+  <TermName>anti-IGF1R recombinant monoclonal antibody MK-0646</TermName>
+  <TermPronunciation>(AN-tee … ree-KOM-bih-nunt MAH-noh-KLOH-nul AN-tee-BAH-dee …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of many types of cancer. Anti-IGF1R recombinant monoclonal antibody MK-0646 binds to a protein called insulin-like growth factor receptor (IGFR) on the surface of cells. This may prevent the cells from growing when IGF is present. It may also kill cancer cells. Anti-IGF1R recombinant monoclonal antibody MK-0646 is a type of monoclonal antibody. Also called MK-0646.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anti-IGF1R recombinant monoclonal antibody MK-0646&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726266" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;anticuerpo monoclonal recombinado anti-IGF1R MK-0646&quot;" language="es" id="_6"/>
+  <SpanishTermName>anticuerpo monoclonal recombinado anti-IGF1R MK-0646</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento de muchos tipos de cánceres. El anticuerpo monoclonal recombinado anti-IGF1R MK-0646 se une a una proteína llamada receptor del factor de crecimiento similar a la insulina (IGFR) en la superficie de las células. Es posible que esto evite la multiplicación de las células en presencia de IGF. Además, quizás destruya células cancerosas. El anticuerpo monoclonal recombinado anti-IGF1R MK-0646 es un tipo de anticuerpo monoclonal. También se llama anticuerpo monoclonal recombinante anti-IGF1R MK0646 y MK-0646.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-11-09</DateFirstPublished>
+</GlossaryTerm>

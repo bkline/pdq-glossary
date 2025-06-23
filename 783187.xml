@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000783187"><TermName>HER2/neu test</TermName><TermDefinition><DefinitionText>A laboratory test that measures the amount of HER2/neu protein on cancer cells or how many copies of the HER2/neu gene are in the DNA of cancer cells. The HER2/neu protein helps control normal cell growth. Larger than normal amounts of the HER2/neu protein or too many copies of the HER2/neu gene may be made by some types of cancer, including breast, ovarian, bladder, pancreatic, and stomach cancers. This may cause cancer cells to grow more quickly and spread to other parts of the body. A HER2/neu test may be done to help plan treatment, which may include drugs that target the HER2/neu protein. It is a type of tumor marker test. Also called HER2 test and human epidermal growth factor receptor 2 test.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798050" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HER2/neu test&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798053" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prueba de HER2/neu&quot;" language="es" id="_4"/><SpanishTermName>prueba de HER2/neu</SpanishTermName><SpanishTermDefinition><DefinitionText>Prueba de laboratorio para medir la cantidad de proteína HER2/neu en las células cancerosas o el  número de copias del gen <GeneName>HER2</GeneName> en el ADN. La proteína HER2/neu participa en la multiplicación normal de las células. En algunos tipos de cáncer se produce en cantidades más altas que lo normal, como en el cáncer de mama, de ovario, de vejiga, de páncreas y de estómago. Es posible que lo  anterior haga que las células cancerosas se multipliquen más rápido y que se diseminen a otras partes del cuerpo. Se puede hacer una prueba de HER2/neu para ayudar a planificar el tratamiento. Es un tipo de prueba de marcador tumoral. También se llama prueba de HER2 y prueba del receptor 2 del factor de crecimiento epidérmico humano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished><DateLastModified>2019-07-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783187">
+  <TermName>HER2/neu test</TermName>
+  <TermDefinition>
+    <DefinitionText>A laboratory test that measures the amount of HER2/neu protein on cancer cells or how many copies of the HER2/neu gene are in the DNA of cancer cells. The HER2/neu protein helps control normal cell growth. Larger than normal amounts of the HER2/neu protein or too many copies of the HER2/neu gene may be made by some types of cancer, including breast, ovarian, bladder, pancreatic, and stomach cancers. This may cause cancer cells to grow more quickly and spread to other parts of the body. A HER2/neu test may be done to help plan treatment, which may include drugs that target the HER2/neu protein. It is a type of tumor marker test. Also called HER2 test and human epidermal growth factor receptor 2 test.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798050" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;HER2/neu test&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798053" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prueba de HER2/neu&quot;" language="es" id="_4"/>
+  <SpanishTermName>prueba de HER2/neu</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Prueba de laboratorio para medir la cantidad de proteína HER2/neu en las células cancerosas o el  número de copias del gen 
+      <GeneName>HER2</GeneName>
+       en el ADN. La proteína HER2/neu participa en la multiplicación normal de las células. En algunos tipos de cáncer se produce en cantidades más altas que lo normal, como en el cáncer de mama, de ovario, de vejiga, de páncreas y de estómago. Es posible que lo  anterior haga que las células cancerosas se multipliquen más rápido y que se diseminen a otras partes del cuerpo. Se puede hacer una prueba de HER2/neu para ayudar a planificar el tratamiento. Es un tipo de prueba de marcador tumoral. También se llama prueba de HER2 y prueba del receptor 2 del factor de crecimiento epidérmico humano.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+  <DateLastModified>2019-07-24</DateLastModified>
+</GlossaryTerm>

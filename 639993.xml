@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000639993"><TermName>collarbone</TermName><TermPronunciation>(KAH-ler-bone)</TermPronunciation><TermDefinition><DefinitionText>One of a pair of bones at the base of the front of the neck. The collarbones connect the breastbone to the shoulder blades. Also called clavicle.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722947" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;collarbone&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hueso clavicular&quot;" language="es" id="_4"/><SpanishTermName>hueso clavicular</SpanishTermName><SpanishTermDefinition><DefinitionText>Uno de un par de huesos de la base de la parte de adelante del cuello.   Las clavículas conectan el esternón con los omóplatos. También se llama clavícula.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-07-03</DateFirstPublished><DateLastModified>2014-12-04</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000639993">
+  <TermName>collarbone</TermName>
+  <TermPronunciation>(KAH-ler-bone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One of a pair of bones at the base of the front of the neck. The collarbones connect the breastbone to the shoulder blades. Also called clavicle.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722947" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;collarbone&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804267" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hueso clavicular&quot;" language="es" id="_4"/>
+  <SpanishTermName>hueso clavicular</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Uno de un par de huesos de la base de la parte de adelante del cuello.   Las clavículas conectan el esternón con los omóplatos. También se llama clavícula.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-07-03</DateFirstPublished>
+  <DateLastModified>2014-12-04</DateLastModified>
+</GlossaryTerm>

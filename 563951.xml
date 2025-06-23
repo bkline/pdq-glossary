@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000563951"><TermName>surgical biopsy</TermName><TermPronunciation>(SER-jih-kul BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which a cut is made through the skin to remove abnormal tissue so it can be checked under a microscope for signs of disease. The two types of surgical biopsy are incisional biopsy, in which part of a lump or a sample of tissue is removed, and excisional biopsy, in which an entire lump or suspicious area is removed. Also called open biopsy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surgical biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia quirúrgica&quot;" language="es" id="_4"/><SpanishTermName>biopsia quirúrgica</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento en el que se realiza una incisión en la piel para extraer el tejido anormal y observarlo al microscopio para verificar si hay signos de enfermedad. Los dos tipos de biopsia quirúrgica son la biopsia por incisión, en la que se extrae parte de un bulto o una muestra de tejido, y la biopsia por escisión, en la que se extrae todo el bulto o el área sospechosa. También se llama biopsia abierta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-08-20</DateFirstPublished><DateLastModified>2021-10-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000563951">
+  <TermName>surgical biopsy</TermName>
+  <TermPronunciation>(SER-jih-kul BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which a cut is made through the skin to remove abnormal tissue so it can be checked under a microscope for signs of disease. The two types of surgical biopsy are incisional biopsy, in which part of a lump or a sample of tissue is removed, and excisional biopsy, in which an entire lump or suspicious area is removed. Also called open biopsy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720712" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surgical biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720713" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia quirúrgica&quot;" language="es" id="_4"/>
+  <SpanishTermName>biopsia quirúrgica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento en el que se realiza una incisión en la piel para extraer el tejido anormal y observarlo al microscopio para verificar si hay signos de enfermedad. Los dos tipos de biopsia quirúrgica son la biopsia por incisión, en la que se extrae parte de un bulto o una muestra de tejido, y la biopsia por escisión, en la que se extrae todo el bulto o el área sospechosa. También se llama biopsia abierta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-08-20</DateFirstPublished>
+  <DateLastModified>2021-10-14</DateLastModified>
+</GlossaryTerm>

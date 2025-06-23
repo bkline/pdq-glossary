@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000748159"><TermName>chronic lung disease</TermName><TermPronunciation>(KRAH-nik … dih-ZEEZ)</TermPronunciation><TermDefinition><DefinitionText>A type of disorder that affects the lungs and other parts of the respiratory system. It usually develops slowly and may get worse over time. Chronic lung disease may be caused by smoking tobacco or by breathing in secondhand tobacco smoke, chemical fumes, dust, or other forms of air pollution. Types of chronic lung disease include asthma, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, asbestosis, pneumonitis, and other lung conditions. Also called CLD.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000752559" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chronic lung disease&quot;" language="en" id="_3"/><MediaLink ref="CDR0000752560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad pulmonar crónica&quot;" language="es" id="_4"/><SpanishTermName>enfermedad pulmonar crónica</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de trastorno de los pulmones y otras partes del aparato respiratorio que a menudo aparece y empeora lentamente. Este tipo de trastorno a veces se produce en las personas que fuman,  o por inhalación del humo de tabaco en el ambiente, vapores químicos, polvo u otras formas de contaminación del aire. Ejemplos de enfermedad pulmonar crónica son el asma, la enfermedad pulmonar obstructiva crónica (EPOC), la fibrosis pulmonar, la asbestosis, la neumonitis y otras afecciones pulmonares. También se llama EPC.</DefinitionText><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-07-17</DateFirstPublished><DateLastModified>2020-05-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000748159">
+  <TermName>chronic lung disease</TermName>
+  <TermPronunciation>(KRAH-nik … dih-ZEEZ)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of disorder that affects the lungs and other parts of the respiratory system. It usually develops slowly and may get worse over time. Chronic lung disease may be caused by smoking tobacco or by breathing in secondhand tobacco smoke, chemical fumes, dust, or other forms of air pollution. Types of chronic lung disease include asthma, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, asbestosis, pneumonitis, and other lung conditions. Also called CLD.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000752559" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chronic lung disease&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000752560" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad pulmonar crónica&quot;" language="es" id="_4"/>
+  <SpanishTermName>enfermedad pulmonar crónica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de trastorno de los pulmones y otras partes del aparato respiratorio que a menudo aparece y empeora lentamente. Este tipo de trastorno a veces se produce en las personas que fuman,  o por inhalación del humo de tabaco en el ambiente, vapores químicos, polvo u otras formas de contaminación del aire. Ejemplos de enfermedad pulmonar crónica son el asma, la enfermedad pulmonar obstructiva crónica (EPOC), la fibrosis pulmonar, la asbestosis, la neumonitis y otras afecciones pulmonares. También se llama EPC.</DefinitionText>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-07-17</DateFirstPublished>
+  <DateLastModified>2020-05-19</DateLastModified>
+</GlossaryTerm>

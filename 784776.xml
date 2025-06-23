@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000784776"><TermName>extremely dense breast tissue</TermName><TermPronunciation>(ek-STREEM-lee dents brest TIH-shoo)</TermPronunciation><TermDefinition><DefinitionText>A term used to describe breast tissue that is made up of almost all dense fibrous tissue and glandular tissue. On a mammogram, the dense areas of the breast make it harder to find tumors or other changes. Women who have extremely dense breast tissue have a higher risk of breast cancer than those who have little or no dense breast tissue. Extremely dense breast tissue is one of four categories used to describe a level of breast density seen on a mammogram.  About 10% of women have this type of breast tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000789248" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extremely dense breast tissue&quot;" language="en" id="_3"/><MediaLink ref="CDR0000789247" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido mamario extremadamente denso&quot;" language="es" id="_6"/><SpanishTermName>tejido mamario extremadamente denso</SpanishTermName><SpanishTermDefinition><DefinitionText>Término que se usa para describir el tejido mamario compuesto predominantemente por tejido fibroso denso y tejido glandular. En una mamografía, estas áreas de tejido denso hacen que sea más difícil encontrar tumores u otros cambios. Las mujeres con tejido mamario extremadamente denso tienen un riesgo más alto de presentar cáncer de mama que las mujeres con muy poco tejido denso o sin este. El tejido mamario extremadamente denso es una de las cuatro categorías que se usan para describir el grado de densidad mamaria que se observa en una mamografía. Casi el 10 % de las mujeres tienen este tipo de tejido de mama. También se llama tejido de mama extremadamente denso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-04-28</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000335487" UseWith="en" audience="Patients">breast density</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000335487" UseWith="es" audience="Patients">densidad de la mama</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784776">
+  <TermName>extremely dense breast tissue</TermName>
+  <TermPronunciation>(ek-STREEM-lee dents brest TIH-shoo)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A term used to describe breast tissue that is made up of almost all dense fibrous tissue and glandular tissue. On a mammogram, the dense areas of the breast make it harder to find tumors or other changes. Women who have extremely dense breast tissue have a higher risk of breast cancer than those who have little or no dense breast tissue. Extremely dense breast tissue is one of four categories used to describe a level of breast density seen on a mammogram.  About 10% of women have this type of breast tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000789248" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extremely dense breast tissue&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000789247" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tejido mamario extremadamente denso&quot;" language="es" id="_6"/>
+  <SpanishTermName>tejido mamario extremadamente denso</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa para describir el tejido mamario compuesto predominantemente por tejido fibroso denso y tejido glandular. En una mamografía, estas áreas de tejido denso hacen que sea más difícil encontrar tumores u otros cambios. Las mujeres con tejido mamario extremadamente denso tienen un riesgo más alto de presentar cáncer de mama que las mujeres con muy poco tejido denso o sin este. El tejido mamario extremadamente denso es una de las cuatro categorías que se usan para describir el grado de densidad mamaria que se observa en una mamografía. Casi el 10 % de las mujeres tienen este tipo de tejido de mama. También se llama tejido de mama extremadamente denso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-04-28</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000335487" UseWith="en" audience="Patients">breast density</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000335487" UseWith="es" audience="Patients">densidad de la mama</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

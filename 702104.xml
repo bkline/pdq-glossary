@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000702104"><TermName>gastric scirrhous carcinoma</TermName><TermPronunciation>(GAS-trik SKIR-us KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of stomach cancer that begins in the lining of the stomach and spreads to the muscles of the stomach wall. This causes the wall of the stomach to become thick, hard, and rubbery, which leads to trouble digesting food. Also called linitis plastica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000733015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastric scirrhous carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733016" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma escirroso gástrico&quot;" language="es" id="_4"/><SpanishTermName>carcinoma escirroso gástrico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo raro de cáncer de estómago que empieza en el tejido que reviste el estómago y se disemina a los músculos de la pared gástrica. Esta se vuelve gruesa, dura y gomosa, lo que ocasiona problemas para digerir los alimentos. También se llama carcinoma escirro de estómago, carcinoma gástrico escirro y linitis plástica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-10-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000702104">
+  <TermName>gastric scirrhous carcinoma</TermName>
+  <TermPronunciation>(GAS-trik SKIR-us KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of stomach cancer that begins in the lining of the stomach and spreads to the muscles of the stomach wall. This causes the wall of the stomach to become thick, hard, and rubbery, which leads to trouble digesting food. Also called linitis plastica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733015" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastric scirrhous carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733016" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma escirroso gástrico&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma escirroso gástrico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo raro de cáncer de estómago que empieza en el tejido que reviste el estómago y se disemina a los músculos de la pared gástrica. Esta se vuelve gruesa, dura y gomosa, lo que ocasiona problemas para digerir los alimentos. También se llama carcinoma escirro de estómago, carcinoma gástrico escirro y linitis plástica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-10-20</DateFirstPublished>
+</GlossaryTerm>

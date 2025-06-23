@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000701536"><TermName>Behçet disease</TermName><TermPronunciation>(beh-SHET dih-ZEEZ)</TermPronunciation><TermDefinition><DefinitionText>A rare disorder that causes the blood vessels to become inflamed. Symptoms include sores in the mouth and on the sex organs and other skin problems, inflammation in parts of the eye, and pain, swelling, and stiffness of the joints. Other serious symptoms include blood clots, blindness, and inflammation of the brain, spinal cord, and digestive system. The symptoms may come and go on their own. Behçet disease is most common in young adults and its cause is unknown.  Also called Behçet syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732952" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Behcet disease&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732951" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad de Behçet&quot;" language="es" id="_4"/><SpanishTermName>enfermedad de Behçet</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno raro que produce inflamación en los vasos sanguíneos. Los síntomas incluyen úlceras (llagas) en la boca y en los genitales, otros problemas en la piel, inflamación en partes del ojo, además de dolor, hinchazón y rigidez de las articulaciones. Otras manifestaciones graves son coágulos de sangre, ceguera e inflamación del encéfalo, la médula espinal y el aparato digestivo. Es posible que los síntomas aparezcan y desaparezcan por sí solos. La enfermedad de Behçet es más común en adultos jóvenes y no se conoce su causa. También se llama síndrome de Behçet.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-10-20</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/848/behcet-syndrome">Behçet disease (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/behcet-disease/">Behçet disease (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13141/enfermedad-de-behcet">Enfermedad de Behçet (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000701536">
+  <TermName>Behçet disease</TermName>
+  <TermPronunciation>(beh-SHET dih-ZEEZ)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare disorder that causes the blood vessels to become inflamed. Symptoms include sores in the mouth and on the sex organs and other skin problems, inflammation in parts of the eye, and pain, swelling, and stiffness of the joints. Other serious symptoms include blood clots, blindness, and inflammation of the brain, spinal cord, and digestive system. The symptoms may come and go on their own. Behçet disease is most common in young adults and its cause is unknown.  Also called Behçet syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732952" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Behcet disease&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732951" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad de Behçet&quot;" language="es" id="_4"/>
+  <SpanishTermName>enfermedad de Behçet</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno raro que produce inflamación en los vasos sanguíneos. Los síntomas incluyen úlceras (llagas) en la boca y en los genitales, otros problemas en la piel, inflamación en partes del ojo, además de dolor, hinchazón y rigidez de las articulaciones. Otras manifestaciones graves son coágulos de sangre, ceguera e inflamación del encéfalo, la médula espinal y el aparato digestivo. Es posible que los síntomas aparezcan y desaparezcan por sí solos. La enfermedad de Behçet es más común en adultos jóvenes y no se conoce su causa. También se llama síndrome de Behçet.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-10-20</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/848/behcet-syndrome">Behçet disease (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/behcet-disease/">Behçet disease (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13141/enfermedad-de-behcet">Enfermedad de Behçet (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

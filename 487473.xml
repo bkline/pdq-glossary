@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000487473"><TermName>Zometa</TermName><TermPronunciation>(ZOH-meh-tuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone to treat hypercalcemia (high blood levels of calcium) caused by cancer and with other anticancer drugs to treat multiple myeloma and cancers that have spread to the bone. It is also being studied in the treatment of other types of cancer. Zometa may help keep bone from breaking down and prevent the loss of calcium from the bones. It is a type of bisphosphonate. Also called zoledronate and zoledronic acid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718049" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zometa&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718048" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zometa&quot;" language="es" id="_4"/><SpanishTermName>Zometa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo para el tratamiento de la hipercalcemia (concentraciones altas de calcio en la sangre) que causa el cáncer. También se usa con otros medicamentos contra el cáncer para tratar el mieloma múltiple y los cánceres que se diseminaron al hueso. Además, está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Zometa impida las fracturas y prevenga la pérdida de calcio de los huesos. Es un tipo de bisfosfonato. También se llama ácido zoledrónico y zoledronato.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-06-16</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000505465" url="/about-cancer/treatment/drugs/zoledronicacid">Zoledronic Acid</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000487473">
+  <TermName>Zometa</TermName>
+  <TermPronunciation>(ZOH-meh-tuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone to treat hypercalcemia (high blood levels of calcium) caused by cancer and with other anticancer drugs to treat multiple myeloma and cancers that have spread to the bone. It is also being studied in the treatment of other types of cancer. Zometa may help keep bone from breaking down and prevent the loss of calcium from the bones. It is a type of bisphosphonate. Also called zoledronate and zoledronic acid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718049" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zometa&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718048" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zometa&quot;" language="es" id="_4"/>
+  <SpanishTermName>Zometa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo para el tratamiento de la hipercalcemia (concentraciones altas de calcio en la sangre) que causa el cáncer. También se usa con otros medicamentos contra el cáncer para tratar el mieloma múltiple y los cánceres que se diseminaron al hueso. Además, está en estudio para el tratamiento de otros tipos de cáncer. Es posible que Zometa impida las fracturas y prevenga la pérdida de calcio de los huesos. Es un tipo de bisfosfonato. También se llama ácido zoledrónico y zoledronato.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-06-16</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000505465" url="/about-cancer/treatment/drugs/zoledronicacid">Zoledronic Acid</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

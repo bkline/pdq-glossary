@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000440116"><TermName>social support</TermName><TermPronunciation>(SOH-shul suh-PORT)</TermPronunciation><TermDefinition><DefinitionText>A network of family, friends, neighbors, and community members that is available in times of need to give psychological, physical, and financial help.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713736" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;social support&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713737" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apoyo social&quot;" language="es" id="_4"/><SpanishTermName>apoyo social</SpanishTermName><SpanishTermDefinition><DefinitionText>Ayuda psicológica, física y financiera que proveen familiares, amigos, vecinos y miembros de la comunidad en momentos de necesidad. También se llama sostén social.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000440116">
+  <TermName>social support</TermName>
+  <TermPronunciation>(SOH-shul suh-PORT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A network of family, friends, neighbors, and community members that is available in times of need to give psychological, physical, and financial help.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713736" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;social support&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713737" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apoyo social&quot;" language="es" id="_4"/>
+  <SpanishTermName>apoyo social</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ayuda psicológica, física y financiera que proveen familiares, amigos, vecinos y miembros de la comunidad en momentos de necesidad. También se llama sostén social.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-24</DateFirstPublished>
+</GlossaryTerm>

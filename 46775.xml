@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000046775"><TermName>stage I Wilms tumor</TermName><TermPronunciation>(... wilmz TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>The tumor was completely removed by surgery and all of the following are true: (1) cancer was found only in the kidney and did not spread to blood vessels in the renal sinus (the part of the kidney where it joins the ureter) or to the lymph nodes; (2) no cancer cells were found at the edges of the area where the tumor was removed; (3) the outer layer of the kidney did not break open; (4) the tumor did not break open; and (5) a biopsy was not done before the tumor was removed. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I Wilms tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731783" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de Wilms en estadio I&quot;" language="es" id="_4"/><SpanishTermName>tumor de Wilms en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>Se extirpó todo el tumor mediante cirugía y se presentan las siguientes situaciones: 1) el cáncer se encontró solo en el riñón y no se diseminó a los vasos sanguíneos del seno renal (parte del riñón que se une con el uréter) o a los ganglios linfáticos; 2) no se encontraron células cancerosas en los bordes del área de donde se extirpó el tumor; 3) la capa externa del riñón no se rompió; 4) el tumor no se rompió; 5) no se hizo una biopsia antes de extirpar el tumor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-06-15</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000415235" url="/types/kidney/patient/wilms-treatment-pdq">Wilms Tumor</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000483772" url="/espanol/tipos/rinon/paciente/tratamiento-wilms-pdq">Tratamiento del tumor de Wilms y otros tumores renales infantiles</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046775">
+  <TermName>stage I Wilms tumor</TermName>
+  <TermPronunciation>(... wilmz TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor was completely removed by surgery and all of the following are true: (1) cancer was found only in the kidney and did not spread to blood vessels in the renal sinus (the part of the kidney where it joins the ureter) or to the lymph nodes; (2) no cancer cells were found at the edges of the area where the tumor was removed; (3) the outer layer of the kidney did not break open; (4) the tumor did not break open; and (5) a biopsy was not done before the tumor was removed. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I Wilms tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731783" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor de Wilms en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor de Wilms en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se extirpó todo el tumor mediante cirugía y se presentan las siguientes situaciones: 1) el cáncer se encontró solo en el riñón y no se diseminó a los vasos sanguíneos del seno renal (parte del riñón que se une con el uréter) o a los ganglios linfáticos; 2) no se encontraron células cancerosas en los bordes del área de donde se extirpó el tumor; 3) la capa externa del riñón no se rompió; 4) el tumor no se rompió; 5) no se hizo una biopsia antes de extirpar el tumor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-06-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000415235" url="/types/kidney/patient/wilms-treatment-pdq">Wilms Tumor</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000483772" url="/espanol/tipos/rinon/paciente/tratamiento-wilms-pdq">Tratamiento del tumor de Wilms y otros tumores renales infantiles</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

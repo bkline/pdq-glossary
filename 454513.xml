@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000454513"><TermName>gastric cancer</TermName><TermPronunciation>(GAS-trik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues lining the stomach. Also called stomach cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715188" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastric cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715189" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer gástrico&quot;" language="es" id="_4"/><MediaLink ref="CDR0000428446" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine." language="en" audience="Patients" placement="image-center" id="_2"><Caption language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</Caption></MediaLink><MediaLink ref="CDR0000445049" type="image/jpeg" alt="Anatomía del aparato gastrointestinal (digestivo); en la imagen se muestra el esófago, el hígado, el estómago, el intestino delgado y el intestino grueso." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El estómago y el esófago son partes del aparato gastrointestinal superior (digestivo).</Caption></MediaLink><SpanishTermName>cáncer gástrico</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos que revisten el estómago. También se llama cáncer de estómago.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2006-11-07</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/stomach">What Is Stomach Cancer?</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/estomago" UseWith="es">¿Qué es el cáncer de estómago?</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000454513">
+  <TermName>gastric cancer</TermName>
+  <TermPronunciation>(GAS-trik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues lining the stomach. Also called stomach cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715188" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastric cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715189" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer gástrico&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000428446" type="image/jpeg" alt="Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine." language="en" audience="Patients" placement="image-center" id="_2">
+    <Caption language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000445049" type="image/jpeg" alt="Anatomía del aparato gastrointestinal (digestivo); en la imagen se muestra el esófago, el hígado, el estómago, el intestino delgado y el intestino grueso." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El estómago y el esófago son partes del aparato gastrointestinal superior (digestivo).</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer gástrico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos que revisten el estómago. También se llama cáncer de estómago.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2006-11-07</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/stomach">What Is Stomach Cancer?</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/estomago" UseWith="es">¿Qué es el cáncer de estómago?</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

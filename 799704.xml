@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000799704"><TermName>SBRT</TermName><TermDefinition><DefinitionText>This technique uses external beam radiation therapy (EBRT) to deliver high doses of radiation very accurately to a target area that is outside the brain in one to several treatment fractions.  This is similar to stereotactic  radiation therapy (SRT) and stereotactic radiosurgery (SRS), except radiation is delivered outside the brain. Also called SABR, stereotactic ablative body radiation therapy, and stereotactic body radiation therapy.</DefinitionText><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A type of external radiation therapy that uses special equipment to position a patient and precisely deliver radiation to tumors in the body (except the brain). The total dose of radiation is divided into smaller doses given over several days. This type of radiation therapy helps spare normal tissue. Also called SABR, stereotactic ablative body radiation therapy, and stereotactic body radiation therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>RTCE</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de radioterapia externa para la que se usa un equipo especial a fin de colocar en posición al paciente y administrar con precisión radiación dirigida a tumores en el cuerpo (excepto al encéfalo). La dosis total de radiación se divide en dosis más pequeñas que se administran durante varios días. Este tipo de radioterapia ayuda a conservar el tejido normal. También se llama radioterapia corporal estereotáctica, radioterapia corporal estereotáctica ablativa y SABR.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Técnica de radioterapia externa para administrar, en una o más fracciones de tratamiento, dosis altas de radiación de manera muy  precisa a un área de tratamiento fuera del encéfalo.  Este tipo de radioterapia es similar a la radioterapia estereotáctica  y la radiocirugía estereotáctica, excepto que en este caso la radiación se administra fuera del encéfalo. También se llama radioterapia corporal estereotáctica, radioterapia corporal estereotáctica ablativa y SABR.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-15</DateFirstPublished><DateLastModified>2008-01-10</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799704">
+  <TermName>SBRT</TermName>
+  <TermDefinition>
+    <DefinitionText>This technique uses external beam radiation therapy (EBRT) to deliver high doses of radiation very accurately to a target area that is outside the brain in one to several treatment fractions.  This is similar to stereotactic  radiation therapy (SRT) and stereotactic radiosurgery (SRS), except radiation is delivered outside the brain. Also called SABR, stereotactic ablative body radiation therapy, and stereotactic body radiation therapy.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A type of external radiation therapy that uses special equipment to position a patient and precisely deliver radiation to tumors in the body (except the brain). The total dose of radiation is divided into smaller doses given over several days. This type of radiation therapy helps spare normal tissue. Also called SABR, stereotactic ablative body radiation therapy, and stereotactic body radiation therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>RTCE</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de radioterapia externa para la que se usa un equipo especial a fin de colocar en posición al paciente y administrar con precisión radiación dirigida a tumores en el cuerpo (excepto al encéfalo). La dosis total de radiación se divide en dosis más pequeñas que se administran durante varios días. Este tipo de radioterapia ayuda a conservar el tejido normal. También se llama radioterapia corporal estereotáctica, radioterapia corporal estereotáctica ablativa y SABR.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Técnica de radioterapia externa para administrar, en una o más fracciones de tratamiento, dosis altas de radiación de manera muy  precisa a un área de tratamiento fuera del encéfalo.  Este tipo de radioterapia es similar a la radioterapia estereotáctica  y la radiocirugía estereotáctica, excepto que en este caso la radiación se administra fuera del encéfalo. También se llama radioterapia corporal estereotáctica, radioterapia corporal estereotáctica ablativa y SABR.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-15</DateFirstPublished>
+  <DateLastModified>2008-01-10</DateLastModified>
+</GlossaryTerm>

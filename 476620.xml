@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000476620"><TermName>sexuality</TermName><TermPronunciation>(SEK-shoo-A-lih-tee)</TermPronunciation><TermDefinition><DefinitionText>A person's behaviors, desires, and attitudes related to sex and physical intimacy with others.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000717071" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sexuality&quot;" language="en" id="_3"/><MediaLink ref="CDR0000717070" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sexualidad&quot;" language="es" id="_4"/><SpanishTermName>sexualidad</SpanishTermName><SpanishTermDefinition><DefinitionText>Conductas, deseos y actitudes de una persona relacionados con el sexo y la intimidad física con otros.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/sexuality-men">Sexual Health Issues in Men with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/sexuality-women">Sexual Health Issues in Women with Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-hombres">Problemas de salud sexual en hombres con cáncer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/">Problemas de salud sexual en mujeres con cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000476620">
+  <TermName>sexuality</TermName>
+  <TermPronunciation>(SEK-shoo-A-lih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A person's behaviors, desires, and attitudes related to sex and physical intimacy with others.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000717071" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sexuality&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000717070" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sexualidad&quot;" language="es" id="_4"/>
+  <SpanishTermName>sexualidad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Conductas, deseos y actitudes de una persona relacionados con el sexo y la intimidad física con otros.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/sexuality-men">Sexual Health Issues in Men with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/sexuality-women">Sexual Health Issues in Women with Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-hombres">Problemas de salud sexual en hombres con cáncer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/">Problemas de salud sexual en mujeres con cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

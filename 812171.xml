@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000812171"><TermName>cutaneous HPV</TermName><TermPronunciation>(kyoo-TAY-nee us …)</TermPronunciation><TermDefinition><DefinitionText>A group of human papillomaviruses (HPV) that infect the cells on the surface of the skin and cause skin warts, usually on the hands and feet. These are considered common warts and are not transmitted sexually. Cutaneous HPV infections usually spread by casual skin-to-skin contact with an infected person or by sharing an item, such as a towel, with that person. Cutaneous HPVs do not cause genital warts or cancer. Also called cutaneous human papillomavirus.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813033" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cutaneous HPV&quot;" language="en" id="_4"/><MediaLink ref="CDR0000813034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VPH cutáneos&quot;" language="es" id="_5"/><SpanishTermName>VPH cutáneos</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de virus del papiloma humano (VPH) que infectan las células de la superficie de la piel y causan verrugas cutáneas, por lo general, en manos y pies. Se consideran verrugas comunes y no se transmiten por vía sexual. Las infecciones por VPH cutáneos se suelen contagiar mediante contacto casual piel a piel con una persona infectada o al compartir un objeto, como una toalla, con esa persona. Los VPH cutáneos no causan verrugas genitales ni cáncer. También se llama HPV cutáneos y virus del papiloma humano cutáneos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-04-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000812171">
+  <TermName>cutaneous HPV</TermName>
+  <TermPronunciation>(kyoo-TAY-nee us …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of human papillomaviruses (HPV) that infect the cells on the surface of the skin and cause skin warts, usually on the hands and feet. These are considered common warts and are not transmitted sexually. Cutaneous HPV infections usually spread by casual skin-to-skin contact with an infected person or by sharing an item, such as a towel, with that person. Cutaneous HPVs do not cause genital warts or cancer. Also called cutaneous human papillomavirus.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813033" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cutaneous HPV&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000813034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VPH cutáneos&quot;" language="es" id="_5"/>
+  <SpanishTermName>VPH cutáneos</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de virus del papiloma humano (VPH) que infectan las células de la superficie de la piel y causan verrugas cutáneas, por lo general, en manos y pies. Se consideran verrugas comunes y no se transmiten por vía sexual. Las infecciones por VPH cutáneos se suelen contagiar mediante contacto casual piel a piel con una persona infectada o al compartir un objeto, como una toalla, con esa persona. Los VPH cutáneos no causan verrugas genitales ni cáncer. También se llama HPV cutáneos y virus del papiloma humano cutáneos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-04-14</DateFirstPublished>
+</GlossaryTerm>

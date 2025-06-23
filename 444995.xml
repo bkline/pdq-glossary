@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000444995"><TermName>kidney cancer</TermName><TermPronunciation>(KID-nee KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that forms in tissues of the kidneys. There are many different types of kidney cancer, including renal cell carcinoma (RCC), transitional cell cancer (TCC) of the renal pelvis, and Wilms tumor.  RCC is the most common type of kidney cancer in adults. It forms in the lining of the tiny tubes in the kidney that return filtered substances that the body needs back to the blood and remove extra fluid and waste as urine. TCC of the renal pelvis is kidney cancer that forms in the center of the kidney where urine collects. Wilms tumor is a type of kidney cancer that usually develops in children.  </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714565" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;kidney cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714564" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de riñón&quot;" language="es" id="_4"/><SpanishTermName>cáncer de riñón</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se forma en los tejidos de los riñones. Hay muchos tipos de cáncer de riñón, como el carcinoma de células renales, el cáncer de células de transición de pelvis renal y el tumor de Wilms. El carcinoma de células renales es el tipo de cáncer de riñón más común en los adultos. Se forma en el revestimiento de los tubos diminutos que filtran la sangre en los riñones, de donde extraen el exceso de líquido y  desechos para evacuarlos por la orina, mientras devuelven a la sangre las sustancias filtradas que el cuerpo necesita. El cáncer de células de transición de pelvis renal  es un cáncer de riñón que se forma en el centro del riñón, donde se acumula la orina. El tumor de Wilms es un tipo de cáncer de riñón que suele presentarse en niños. También se llama cáncer renal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-10-24</DateFirstPublished><DateLastModified>2022-05-05</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/kidney">Kidney (Renal Cell) Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/rinon">Cáncer de riñón (células renales)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000444995">
+  <TermName>kidney cancer</TermName>
+  <TermPronunciation>(KID-nee KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that forms in tissues of the kidneys. There are many different types of kidney cancer, including renal cell carcinoma (RCC), transitional cell cancer (TCC) of the renal pelvis, and Wilms tumor.  RCC is the most common type of kidney cancer in adults. It forms in the lining of the tiny tubes in the kidney that return filtered substances that the body needs back to the blood and remove extra fluid and waste as urine. TCC of the renal pelvis is kidney cancer that forms in the center of the kidney where urine collects. Wilms tumor is a type of kidney cancer that usually develops in children.  </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714565" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;kidney cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714564" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de riñón&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de riñón</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se forma en los tejidos de los riñones. Hay muchos tipos de cáncer de riñón, como el carcinoma de células renales, el cáncer de células de transición de pelvis renal y el tumor de Wilms. El carcinoma de células renales es el tipo de cáncer de riñón más común en los adultos. Se forma en el revestimiento de los tubos diminutos que filtran la sangre en los riñones, de donde extraen el exceso de líquido y  desechos para evacuarlos por la orina, mientras devuelven a la sangre las sustancias filtradas que el cuerpo necesita. El cáncer de células de transición de pelvis renal  es un cáncer de riñón que se forma en el centro del riñón, donde se acumula la orina. El tumor de Wilms es un tipo de cáncer de riñón que suele presentarse en niños. También se llama cáncer renal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-10-24</DateFirstPublished>
+  <DateLastModified>2022-05-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/kidney">Kidney (Renal Cell) Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/rinon">Cáncer de riñón (células renales)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

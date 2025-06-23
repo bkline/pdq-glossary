@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000791168"><TermName>NUT gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that causes a rare type of cancer called NUT midline carcinoma, when it is mutated (changed). The mutation occurs when a piece of the chromosome containing the NUT gene breaks off and attaches to another chromosome. In its natural, unchanged form, the NUT gene codes for a protein found in germ cells (reproductive cells) in the testicles and ovaries.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792171" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NUT gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792170" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen NUT&quot;" language="es" id="_4"/><SpanishTermName>gen NUT</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que en su forma mutada (cambiada) produce un tipo de cáncer poco frecuente que se llama  carcinoma de línea media  NUT. La mutación ocurre cuando una parte del cromosoma que contiene el gen NUT se desprende y se une a otro cromosoma. La forma natural, sin cambio, del gen NUT  codifica una proteína que se encuentra en las células germinativas (células reproductoras) de los testículos y ovarios.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-12-18</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000791168">
+  <TermName>NUT gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene that causes a rare type of cancer called NUT midline carcinoma, when it is mutated (changed). The mutation occurs when a piece of the chromosome containing the NUT gene breaks off and attaches to another chromosome. In its natural, unchanged form, the NUT gene codes for a protein found in germ cells (reproductive cells) in the testicles and ovaries.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792171" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;NUT gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792170" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen NUT&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen NUT</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Gen que en su forma mutada (cambiada) produce un tipo de cáncer poco frecuente que se llama  carcinoma de línea media  NUT. La mutación ocurre cuando una parte del cromosoma que contiene el gen NUT se desprende y se une a otro cromosoma. La forma natural, sin cambio, del gen NUT  codifica una proteína que se encuentra en las células germinativas (células reproductoras) de los testículos y ovarios.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-12-18</DateFirstPublished>
+</GlossaryTerm>

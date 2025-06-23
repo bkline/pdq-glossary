@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044330"><TermName>comedo carcinoma</TermName><TermPronunciation>(KAH-meh-doh KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of ductal carcinoma in situ (very early-stage breast cancer).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704489" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;comedo carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704488" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;comedocarcinoma&quot;" language="es" id="_4"/><SpanishTermName>comedo carcinoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de carcinoma ductal in situ (estadio muy temprano del cáncer de mama).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044330">
+  <TermName>comedo carcinoma</TermName>
+  <TermPronunciation>(KAH-meh-doh KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of ductal carcinoma in situ (very early-stage breast cancer).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704489" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;comedo carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704488" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;comedocarcinoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>comedo carcinoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de carcinoma ductal in situ (estadio muy temprano del cáncer de mama).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

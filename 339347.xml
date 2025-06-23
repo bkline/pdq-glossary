@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000339347"><TermName>sporadic cancer</TermName><TermPronunciation>(spuh-RA-dik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer that occurs in people who do not have a family history of that cancer or an inherited change in their DNA that would increase their risk for that cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>Cancer that occurs in people who do not have an inherited genetic variant that would increase their risk for that cancer. Sporadic cancer is sometimes used to differentiate cancers that occur in these people from cancers that occur in people who are known or likely to carry a high-risk variant that increases their risk for cancer. Sporadic cancer is also sometimes used to describe cancer that occurs in people who do not have a family history of that cancer or other associated cancers.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000711601" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sporadic cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711600" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer esporádico&quot;" language="es" id="_4"/><SpanishTermName>cáncer esporádico</SpanishTermName><SpanishTermDefinition><DefinitionText>Cáncer que se presenta en personas que no tienen antecedentes familiares de ese cáncer ni un cambio heredado en el ADN que aumentaría el riesgo de padecer de ese cáncer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Cáncer que se presenta en personas que no tienen una variante genética hereditaria que confiere aumento   del riesgo de ese cáncer. El término cáncer esporádico a veces se usa para diferenciar el  cáncer que se presenta en estas personas de los casos de cáncer en personas que se sospecha o  se ha confirmado que son portadoras de una variante de riesgo alto de cáncer. Otras veces este término se usa para describir el cáncer que se presenta en personas que no tienen antecedentes de ese cáncer en la historia familiar, y tampoco tienen antecedentes de otros tipos de cáncer relacionados.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000339347">
+  <TermName>sporadic cancer</TermName>
+  <TermPronunciation>(spuh-RA-dik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer that occurs in people who do not have a family history of that cancer or an inherited change in their DNA that would increase their risk for that cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>Cancer that occurs in people who do not have an inherited genetic variant that would increase their risk for that cancer. Sporadic cancer is sometimes used to differentiate cancers that occur in these people from cancers that occur in people who are known or likely to carry a high-risk variant that increases their risk for cancer. Sporadic cancer is also sometimes used to describe cancer that occurs in people who do not have a family history of that cancer or other associated cancers.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711601" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sporadic cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711600" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer esporádico&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer esporádico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se presenta en personas que no tienen antecedentes familiares de ese cáncer ni un cambio heredado en el ADN que aumentaría el riesgo de padecer de ese cáncer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Cáncer que se presenta en personas que no tienen una variante genética hereditaria que confiere aumento   del riesgo de ese cáncer. El término cáncer esporádico a veces se usa para diferenciar el  cáncer que se presenta en estas personas de los casos de cáncer en personas que se sospecha o  se ha confirmado que son portadoras de una variante de riesgo alto de cáncer. Otras veces este término se usa para describir el cáncer que se presenta en personas que no tienen antecedentes de ese cáncer en la historia familiar, y tampoco tienen antecedentes de otros tipos de cáncer relacionados.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-03</DateFirstPublished>
+</GlossaryTerm>

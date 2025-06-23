@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817055"><TermName>alkaline diet</TermName><TermPronunciation>(AL-kuh-line DY-et)</TermPronunciation><TermDefinition><DefinitionText>A dietary approach that aims to reduce acidity within the body. The diet focuses on eating foods considered alkaline (with a pH above 7) and avoiding foods considered acidic (with a pH below 7). Examples of alkaline foods include fresh fruits, nuts, seeds, beans, and non-starchy vegetables. Examples of acidic foods include meat, cheese, eggs, grains, and processed foods. There is no proof that an alkaline diet can slow, cure, or keep diseases such as cancer from coming back.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817787" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alkaline diet&quot;" language="en" id="_6"/><MediaLink ref="CDR0000817788" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dieta alcalina&quot;" language="es" id="_7"/><SpanishTermName>dieta alcalina</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfoque dietético con el que se intenta reducir la acidez en el cuerpo. Esta dieta prioriza el consumo de alimentos alcalinos (con un pH superior a 7) y evita los alimentos ácidos (con un pH inferior a 7). Algunos ejemplos de alimentos alcalinos son las frutas frescas, los frutos secos, las semillas, las legumbres y las verduras sin almidón. Ejemplos de alimentos ácidos son la carne, el queso, los huevos, los cereales y los alimentos procesados. No se ha comprobado que una dieta alcalina  retrase, cure ni evite la reaparición de enfermedades como el cáncer. También se llama alimentación alcalinizante, dieta del pH y nutrición alcalina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-12-13</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817055">
+  <TermName>alkaline diet</TermName>
+  <TermPronunciation>(AL-kuh-line DY-et)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A dietary approach that aims to reduce acidity within the body. The diet focuses on eating foods considered alkaline (with a pH above 7) and avoiding foods considered acidic (with a pH below 7). Examples of alkaline foods include fresh fruits, nuts, seeds, beans, and non-starchy vegetables. Examples of acidic foods include meat, cheese, eggs, grains, and processed foods. There is no proof that an alkaline diet can slow, cure, or keep diseases such as cancer from coming back.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817787" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;alkaline diet&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000817788" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dieta alcalina&quot;" language="es" id="_7"/>
+  <SpanishTermName>dieta alcalina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfoque dietético con el que se intenta reducir la acidez en el cuerpo. Esta dieta prioriza el consumo de alimentos alcalinos (con un pH superior a 7) y evita los alimentos ácidos (con un pH inferior a 7). Algunos ejemplos de alimentos alcalinos son las frutas frescas, los frutos secos, las semillas, las legumbres y las verduras sin almidón. Ejemplos de alimentos ácidos son la carne, el queso, los huevos, los cereales y los alimentos procesados. No se ha comprobado que una dieta alcalina  retrase, cure ni evite la reaparición de enfermedades como el cáncer. También se llama alimentación alcalinizante, dieta del pH y nutrición alcalina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-12-13</DateFirstPublished>
+</GlossaryTerm>

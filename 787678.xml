@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000787678"><TermName>ribociclib succinate</TermName><TermPronunciation>(RY-boh-SY-klib SUK-sih-nayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used with an aromatase inhibitor or fulvestrant (a type of hormone therapy) to treat adults with certain types of hormone-receptor positive, HER2-negative breast cancer. It is also being studied in the treatment of other types of cancer. Ribociclib succinate blocks certain proteins, which may help keep cancer cells from growing. It is a type of cyclin-dependent kinase inhibitor. Also called Kisqali.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ribociclib succinate&quot;" language="en" id="_5"/><MediaLink ref="CDR0000788408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;succinato de ribociclib&quot;" language="es" id="_6"/><SpanishTermName>succinato de ribociclib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con un inhibidor de la aromatasa o con el fulvestrant (tipo de terapia hormonal) para el tratamiento de mujeres con ciertos tipos de  cáncer de mama positivo para receptores hormonales y negativo para HER2. También está en estudio para el tratamiento de otros tipos de cáncer. El succinato de ribociclib  bloquea ciertas proteínas, lo que quizás ayude a impedir la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas dependientes de ciclinas. También se llama Kisqali.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-14</DateFirstPublished><DateLastModified>2024-09-30</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000787676" url="/about-cancer/treatment/drugs/ribociclib">Ribociclib Succinate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000787678">
+  <TermName>ribociclib succinate</TermName>
+  <TermPronunciation>(RY-boh-SY-klib SUK-sih-nayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with an aromatase inhibitor or fulvestrant (a type of hormone therapy) to treat adults with certain types of hormone-receptor positive, HER2-negative breast cancer. It is also being studied in the treatment of other types of cancer. Ribociclib succinate blocks certain proteins, which may help keep cancer cells from growing. It is a type of cyclin-dependent kinase inhibitor. Also called Kisqali.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ribociclib succinate&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000788408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;succinato de ribociclib&quot;" language="es" id="_6"/>
+  <SpanishTermName>succinato de ribociclib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa con un inhibidor de la aromatasa o con el fulvestrant (tipo de terapia hormonal) para el tratamiento de mujeres con ciertos tipos de  cáncer de mama positivo para receptores hormonales y negativo para HER2. También está en estudio para el tratamiento de otros tipos de cáncer. El succinato de ribociclib  bloquea ciertas proteínas, lo que quizás ayude a impedir la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas dependientes de ciclinas. También se llama Kisqali.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-14</DateFirstPublished>
+  <DateLastModified>2024-09-30</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000787676" url="/about-cancer/treatment/drugs/ribociclib">Ribociclib Succinate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

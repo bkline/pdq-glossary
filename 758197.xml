@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000758197"><TermName>Busulfex</TermName><TermPronunciation>(byoo-SUL-fex)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient busulfan and is used with other drugs to prepare patients with chronic myelogenous leukemia for a donor stem cell transplant. It is also being studied in the treatment of other types of cancer. Busulfex damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000760860" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Busulfex&quot;" language="en" id="_3"/><MediaLink ref="CDR0000760859" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Busulfex&quot;" language="es" id="_4"/><SpanishTermName>Busulfex</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el ingrediente activo busulfano y se usa con otros medicamentos con el fin de preparar a los pacientes con leucemia mielógena crónica  para recibir un trasplante de células madre de un donante. También está en estudio para el tratamiento de otros tipos de cáncer. Busulfex daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2014-02-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000758197">
+  <TermName>Busulfex</TermName>
+  <TermPronunciation>(byoo-SUL-fex)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient busulfan and is used with other drugs to prepare patients with chronic myelogenous leukemia for a donor stem cell transplant. It is also being studied in the treatment of other types of cancer. Busulfex damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000760860" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Busulfex&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000760859" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Busulfex&quot;" language="es" id="_4"/>
+  <SpanishTermName>Busulfex</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el ingrediente activo busulfano y se usa con otros medicamentos con el fin de preparar a los pacientes con leucemia mielógena crónica  para recibir un trasplante de células madre de un donante. También está en estudio para el tratamiento de otros tipos de cáncer. Busulfex daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-02-24</DateFirstPublished>
+</GlossaryTerm>

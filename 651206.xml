@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000651206"><TermName>PSA velocity</TermName><TermPronunciation>(… veh-LAH-sih-tee)</TermPronunciation><TermDefinition><DefinitionText>A measurement of how fast PSA levels in the blood increase over time. A high PSA velocity may be a sign of prostate cancer and may help find fast-growing prostate cancers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726509" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PSA velocity&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726510" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;velocidad del PSA&quot;" language="es" id="_4"/><SpanishTermName>velocidad del PSA</SpanishTermName><SpanishTermDefinition><DefinitionText>Medición de la velocidad de aumento en el tiempo de las concentraciones de PSA. Es posible que una velocidad alta de PSA sea un signo de cáncer de próstata y sirva para encontrar cánceres de próstata de crecimiento rápido.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-08-26</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/prostate/psa-fact-sheet" UseWith="en">Prostate-Specific Antigen (PSA) Test</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-psa" UseWith="es">Prueba del antígeno prostático específico (PSA) </RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000651206">
+  <TermName>PSA velocity</TermName>
+  <TermPronunciation>(… veh-LAH-sih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A measurement of how fast PSA levels in the blood increase over time. A high PSA velocity may be a sign of prostate cancer and may help find fast-growing prostate cancers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726509" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PSA velocity&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726510" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;velocidad del PSA&quot;" language="es" id="_4"/>
+  <SpanishTermName>velocidad del PSA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medición de la velocidad de aumento en el tiempo de las concentraciones de PSA. Es posible que una velocidad alta de PSA sea un signo de cáncer de próstata y sirva para encontrar cánceres de próstata de crecimiento rápido.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-08-26</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/prostate/psa-fact-sheet" UseWith="en">Prostate-Specific Antigen (PSA) Test</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/prostata/hoja-informativa-psa" UseWith="es">Prueba del antígeno prostático específico (PSA) </RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

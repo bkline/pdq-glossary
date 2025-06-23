@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000512781"><TermName>Emend</TermName><TermPronunciation>(ee-MEND)</TermPronunciation><TermDefinition><DefinitionText>A drug used with other drugs to prevent nausea and vomiting caused by chemotherapy and nausea and vomiting after surgery. Emend blocks the action of a certain chemical in the central nervous system that may trigger nausea and vomiting. Blocking this chemical may help lessen nausea and vomiting. Emend is a type of antiemetic and a type of substance P/neurokinin 1 receptor antagonist. Also called aprepitant and Cinvanti.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718283" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Emend&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Emend&quot;" language="es" id="_4"/><SpanishTermName>Emend</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa junto con otros medicamentos para prevenir las náuseas y vómitos causados por la quimioterapia. También se utiliza para prevenir las náuseas y vómitos después de la cirugía. Emend impide la acción de cierta sustancia química en el sistema nervioso central que a veces provoca las náuseas y los vómitos. Es posible que el bloqueo de esta sustancia química disminuya las náuseas y los vómitos. Emend es un tipo de antiemético y de antagonista del receptor de neurocinina 1 y sustancia P. También se llama aprepitant y Cinvanti.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-14</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000500177" url="/about-cancer/treatment/drugs/aprepitant">Aprepitant</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000512781">
+  <TermName>Emend</TermName>
+  <TermPronunciation>(ee-MEND)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with other drugs to prevent nausea and vomiting caused by chemotherapy and nausea and vomiting after surgery. Emend blocks the action of a certain chemical in the central nervous system that may trigger nausea and vomiting. Blocking this chemical may help lessen nausea and vomiting. Emend is a type of antiemetic and a type of substance P/neurokinin 1 receptor antagonist. Also called aprepitant and Cinvanti.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718283" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Emend&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Emend&quot;" language="es" id="_4"/>
+  <SpanishTermName>Emend</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa junto con otros medicamentos para prevenir las náuseas y vómitos causados por la quimioterapia. También se utiliza para prevenir las náuseas y vómitos después de la cirugía. Emend impide la acción de cierta sustancia química en el sistema nervioso central que a veces provoca las náuseas y los vómitos. Es posible que el bloqueo de esta sustancia química disminuya las náuseas y los vómitos. Emend es un tipo de antiemético y de antagonista del receptor de neurocinina 1 y sustancia P. También se llama aprepitant y Cinvanti.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-14</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000500177" url="/about-cancer/treatment/drugs/aprepitant">Aprepitant</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,28 @@
-<GlossaryTerm id="CDR0000661987"><TermName>HRAS gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein that is involved in cell signaling pathways that control cell growth and cell death. Mutated (changed) forms of the <GeneName>HRAS</GeneName> gene may be found in some types of cancer. These changes may cause cancer cells to grow and spread in the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725757" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hras gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725758" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen HRAS&quot;" language="es" id="_4"/><SpanishTermName>gen HRAS</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en las vías de señalización celular que controlan la multiplicación y la destrucción de las células. En algunos tipos de cáncer, se encuentran formas mutadas (cambiadas) del gen <GeneName>HRAS</GeneName>. Es posible que estos cambios hagan que las células cancerosas se multipliquen y se diseminen por el cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-07</DateFirstPublished><DateLastModified>2020-11-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000661987">
+  <TermName>HRAS gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein that is involved in cell signaling pathways that control cell growth and cell death. Mutated (changed) forms of the 
+      <GeneName>HRAS</GeneName>
+       gene may be found in some types of cancer. These changes may cause cancer cells to grow and spread in the body.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725757" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Hras gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725758" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen HRAS&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen HRAS</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en las vías de señalización celular que controlan la multiplicación y la destrucción de las células. En algunos tipos de cáncer, se encuentran formas mutadas (cambiadas) del gen 
+      <GeneName>HRAS</GeneName>
+      . Es posible que estos cambios hagan que las células cancerosas se multipliquen y se diseminen por el cuerpo.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-07</DateFirstPublished>
+  <DateLastModified>2020-11-24</DateLastModified>
+</GlossaryTerm>

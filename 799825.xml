@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000799825"><TermName>stage IV HPV-positive oropharyngeal cancer</TermName><TermPronunciation>(… PAH-zih-tiv OR-oh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Cancer has spread to other parts of the body, such as the lung or bone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV HPV-positive oropharyngeal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801113" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de orofaringe positivo para el VPH en estadio IV&quot;" language="es" id="_4"/><SpanishTermName>cáncer de orofaringe positivo para el VPH en estadio IV</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio IV, el cáncer se diseminó a otras partes del cuerpo, como el pulmón o el hueso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-11-08</DateFirstPublished><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256822" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000799825">
+  <TermName>stage IV HPV-positive oropharyngeal cancer</TermName>
+  <TermPronunciation>(… PAH-zih-tiv OR-oh-fuh-RIN-jee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer has spread to other parts of the body, such as the lung or bone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IV HPV-positive oropharyngeal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801113" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de orofaringe positivo para el VPH en estadio IV&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de orofaringe positivo para el VPH en estadio IV</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio IV, el cáncer se diseminó a otras partes del cuerpo, como el pulmón o el hueso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-11-08</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258025" url="/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq">Oropharyngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256822" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq">Tratamiento del cáncer de orofaringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

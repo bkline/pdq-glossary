@@ -1,2 +1,20 @@
-<GlossaryTerm id="CDR0000655269"><TermName>event-free survival</TermName><TermPronunciation>(eh-VENT … ser-VY-vul)</TermPronunciation><TermDefinition><DefinitionText>In cancer, the length of time after primary treatment for a cancer ends that the patient remains free of certain complications or events that the treatment was intended to prevent or delay. These events may include the return of the cancer or the onset of certain symptoms, such as bone pain from cancer that has spread to the bone. In a clinical trial, measuring the
-          event-free survival is one way to see how well a new treatment works. Also called EFS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000740994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;event-free survival&quot;" language="en" id="_3"/><MediaLink ref="CDR0000740995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supervivencia sin complicaciones&quot;" language="es" id="_4"/><SpanishTermName>supervivencia sin complicaciones</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito del cáncer, tiempo que pasa después de terminar el tratamiento primario para un cáncer durante el cual el paciente no presenta determinadas complicaciones o situaciones que se esperaban prevenir o controlar con el tratamiento. Ejemplos de estas situaciones son el regreso  del cáncer o la aparición de determinados síntomas (como dolor óseo por un cáncer que se diseminó al hueso). En un ensayo clínico, medir la supervivencia sin complicaciones es una manera de determinar la eficacia de un tratamiento nuevo. También se llama SSC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-08-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000655269">
+  <TermName>event-free survival</TermName>
+  <TermPronunciation>(eh-VENT … ser-VY-vul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In cancer, the length of time after primary treatment for a cancer ends that the patient remains free of certain complications or events that the treatment was intended to prevent or delay. These events may include the return of the cancer or the onset of certain symptoms, such as bone pain from cancer that has spread to the bone. In a clinical trial, measuring the
+          event-free survival is one way to see how well a new treatment works. Also called EFS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000740994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;event-free survival&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000740995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supervivencia sin complicaciones&quot;" language="es" id="_4"/>
+  <SpanishTermName>supervivencia sin complicaciones</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito del cáncer, tiempo que pasa después de terminar el tratamiento primario para un cáncer durante el cual el paciente no presenta determinadas complicaciones o situaciones que se esperaban prevenir o controlar con el tratamiento. Ejemplos de estas situaciones son el regreso  del cáncer o la aparición de determinados síntomas (como dolor óseo por un cáncer que se diseminó al hueso). En un ensayo clínico, medir la supervivencia sin complicaciones es una manera de determinar la eficacia de un tratamiento nuevo. También se llama SSC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-08-15</DateFirstPublished>
+</GlossaryTerm>

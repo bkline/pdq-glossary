@@ -1,1 +1,33 @@
-<GlossaryTerm id="CDR0000460211"><TermName>proband</TermName><TermPronunciation>(PROH-band)</TermPronunciation><TermDefinition><DefinitionText>The first individual in a family to be identified as possibly having a genetic disorder or condition.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>The first person in a family to be identified as possibly having a genetic disorder and who may receive genetic counseling or testing. The person may have a condition that is thought to be inherited or may be concerned about the risk of developing a genetic condition or passing it to a child.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proband&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;probando&quot;" language="es" id="_4"/><SpanishTermName>probando</SpanishTermName><SpanishTermDefinition><DefinitionText>Es la primera persona de un grupo familiar en quien se sospecha la presencia de un trastorno o afección genética.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Es la primera persona de  una familia en quien se sospecha la presencia de un trastorno genético y que quizás reciba asesoramiento genético o se someta a pruebas. Esta persona a veces tiene una afección que se piensa que puede ser hereditaria, o está preocupada por el riesgo de presentar una afección genética o de pasarla a sus hijos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=164">Proband (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Probando">Probando (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460211">
+  <TermName>proband</TermName>
+  <TermPronunciation>(PROH-band)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The first individual in a family to be identified as possibly having a genetic disorder or condition.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>The first person in a family to be identified as possibly having a genetic disorder and who may receive genetic counseling or testing. The person may have a condition that is thought to be inherited or may be concerned about the risk of developing a genetic condition or passing it to a child.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736984" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proband&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;probando&quot;" language="es" id="_4"/>
+  <SpanishTermName>probando</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Es la primera persona de un grupo familiar en quien se sospecha la presencia de un trastorno o afección genética.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Es la primera persona de  una familia en quien se sospecha la presencia de un trastorno genético y que quizás reciba asesoramiento genético o se someta a pruebas. Esta persona a veces tiene una afección que se piensa que puede ser hereditaria, o está preocupada por el riesgo de presentar una afección genética o de pasarla a sus hijos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/glossary/index.cfm?id=164">Proband (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Probando">Probando (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,3 +1,25 @@
-<GlossaryTerm id="CDR0000470244"><TermName>Nexavar</TermName><TermPronunciation>(NEK-suh-var)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of hepatocellular carcinoma (a type of liver cancer), renal cell carcinoma (a type of kidney cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. Nexavar blocks certain proteins, which may help keep cancer cells from growing and dividing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Nexavar is a type of kinase inhibitor and a type of antiangiogenesis agent. Also called BAY 43-9006 and sorafenib tosylate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716723" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nexavar&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716722" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nexavar&quot;" language="es" id="_4"/><SpanishTermName>Nexavar</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000470244">
+  <TermName>Nexavar</TermName>
+  <TermPronunciation>(NEK-suh-var)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of hepatocellular carcinoma (a type of liver cancer), renal cell carcinoma (a type of kidney cancer), and thyroid cancer. It is also being studied in the treatment of other types of cancer. Nexavar blocks certain proteins, which may help keep cancer cells from growing and dividing and may kill them. It may also prevent the growth of new blood vessels that tumors need to grow. Nexavar is a type of kinase inhibitor and a type of antiangiogenesis agent. Also called BAY 43-9006 and sorafenib tosylate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716723" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nexavar&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716722" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Nexavar&quot;" language="es" id="_4"/>
+  <SpanishTermName>Nexavar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para
 el tratamiento de ciertos tipos de carcinoma hepatocelular (tipo de cáncer de hígado), carcinoma de células renales (tipo de cáncer de riñón), y cáncer de tiroides. También está en estudio para el tratamiento de otros tipos de
-cáncer. Nexavar bloquea ciertas proteínas, lo que quizás ayude a evitar la formación y multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. Nexavar es un tipo de antiangiogénico y de  inhibidor de cinasa. También se llama BAY 43-9006 y tosilato de sorafenib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-02-21</DateFirstPublished><DateLastModified>2021-06-11</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000492017" url="/about-cancer/treatment/drugs/sorafenibtosylate">Sorafenib Tosylate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+cáncer. Nexavar bloquea ciertas proteínas, lo que quizás ayude a evitar la formación y multiplicación de células cancerosas, y las destruya. Es posible que además impida la formación de nuevos vasos sanguíneos que los tumores necesitan para crecer. Nexavar es un tipo de antiangiogénico y de  inhibidor de cinasa. También se llama BAY 43-9006 y tosilato de sorafenib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-02-21</DateFirstPublished>
+  <DateLastModified>2021-06-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000492017" url="/about-cancer/treatment/drugs/sorafenibtosylate">Sorafenib Tosylate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

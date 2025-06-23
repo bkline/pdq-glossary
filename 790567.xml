@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000790567"><TermName>Besponsa</TermName><TermPronunciation>(beh-SPON-suh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults and children aged 1 year and older with B-cell acute lymphoblastic leukemia that is CD22 positive (expresses the protein CD22). It is used in patients whose cancer came back or did not get better with other treatment. It is also being studied in the treatment of other types of cancer. Besponsa contains a monoclonal antibody that binds to CD22, which is found on some leukemia cells. It also contains an anticancer drug, which may help kill cancer cells. Besponsa is a type of antibody-drug conjugate. Also called inotuzumab ozogamicin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791489" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Besponsa&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791488" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Besponsa&quot;" language="es" id="_4"/><SpanishTermName>Besponsa</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para tratar adultos, así como niños de 1 año o más, con leucemia linfoblástica aguda de células B  positiva para CD22 (expresa la proteína CD22). Se emplea en pacientes cuyo cáncer volvió o no mejoró con otros tratamientos. También está en estudio para el tratamiento de otros tipos de cáncer. Besponsa contiene un anticuerpo monoclonal que se une a una proteína llamada CD22, que se encuentra en algunas células leucémicas. Además contiene un fármaco contra el cáncer, que quizás ayude a destruir células cancerosas. Besponsa es un tipo de conjugado anticuerpo-fármaco. También se llama inotuzumab ozogamicina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-08-31</DateFirstPublished><DateLastModified>2024-03-25</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000790694" url="/about-cancer/treatment/drugs/inotuzumabozogamicin">Inotuzumab Ozogamicin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790567">
+  <TermName>Besponsa</TermName>
+  <TermPronunciation>(beh-SPON-suh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults and children aged 1 year and older with B-cell acute lymphoblastic leukemia that is CD22 positive (expresses the protein CD22). It is used in patients whose cancer came back or did not get better with other treatment. It is also being studied in the treatment of other types of cancer. Besponsa contains a monoclonal antibody that binds to CD22, which is found on some leukemia cells. It also contains an anticancer drug, which may help kill cancer cells. Besponsa is a type of antibody-drug conjugate. Also called inotuzumab ozogamicin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791489" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Besponsa&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791488" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Besponsa&quot;" language="es" id="_4"/>
+  <SpanishTermName>Besponsa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para tratar adultos, así como niños de 1 año o más, con leucemia linfoblástica aguda de células B  positiva para CD22 (expresa la proteína CD22). Se emplea en pacientes cuyo cáncer volvió o no mejoró con otros tratamientos. También está en estudio para el tratamiento de otros tipos de cáncer. Besponsa contiene un anticuerpo monoclonal que se une a una proteína llamada CD22, que se encuentra en algunas células leucémicas. Además contiene un fármaco contra el cáncer, que quizás ayude a destruir células cancerosas. Besponsa es un tipo de conjugado anticuerpo-fármaco. También se llama inotuzumab ozogamicina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-08-31</DateFirstPublished>
+  <DateLastModified>2024-03-25</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000790694" url="/about-cancer/treatment/drugs/inotuzumabozogamicin">Inotuzumab Ozogamicin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

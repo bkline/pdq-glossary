@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000462677"><TermName>essential oil</TermName><TermPronunciation>(eh-SENT-shul oyl)</TermPronunciation><TermDefinition><DefinitionText>The scented liquid taken from certain plants using steam or pressure. Essential oils contain the natural chemicals that give the plant its “essence” (specific odor and flavor). Essential oils are used in perfumes, food flavorings, medicine, and aromatherapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000716906" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;essential oil&quot;" language="en" id="_3"/><MediaLink ref="CDR0000716905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aceite esencial&quot;" language="es" id="_4"/><SpanishTermName>aceite esencial</SpanishTermName><SpanishTermDefinition><DefinitionText>Líquido con fragancia que se extrae de ciertas plantas mediante vapor o prensado. Los aceites esenciales contienen sustancias químicas naturales que le dan su "esencia" (olor y sabor específicos) a las plantas. Los aceites esenciales se emplean en los perfumes, los saborizantes de alimentos, los medicamentos y la aromaterapia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-10</DateFirstPublished><DateLastModified>2007-05-08</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000458089" url="/about-cancer/treatment/cam/patient/aromatherapy-pdq">Aromatherapy With Essential Oils</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000765470" url="/espanol/cancer/tratamiento/mca/paciente/aromaterapia-pdq">Aromaterapia con aceites esenciales</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000462677">
+  <TermName>essential oil</TermName>
+  <TermPronunciation>(eh-SENT-shul oyl)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The scented liquid taken from certain plants using steam or pressure. Essential oils contain the natural chemicals that give the plant its “essence” (specific odor and flavor). Essential oils are used in perfumes, food flavorings, medicine, and aromatherapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000716906" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;essential oil&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000716905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aceite esencial&quot;" language="es" id="_4"/>
+  <SpanishTermName>aceite esencial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Líquido con fragancia que se extrae de ciertas plantas mediante vapor o prensado. Los aceites esenciales contienen sustancias químicas naturales que le dan su &quot;esencia&quot; (olor y sabor específicos) a las plantas. Los aceites esenciales se emplean en los perfumes, los saborizantes de alimentos, los medicamentos y la aromaterapia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-10</DateFirstPublished>
+  <DateLastModified>2007-05-08</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000458089" url="/about-cancer/treatment/cam/patient/aromatherapy-pdq">Aromatherapy With Essential Oils</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000765470" url="/espanol/cancer/tratamiento/mca/paciente/aromaterapia-pdq">Aromaterapia con aceites esenciales</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

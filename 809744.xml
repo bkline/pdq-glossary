@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000809744"><TermName>blood circulation</TermName><TermPronunciation>(blud ser-kyoo-LAY-shun)</TermPronunciation><TermDefinition><DefinitionText>The flow or movement of blood throughout the body. Blood carries oxygen, nutrients, and other important substances from the heart, through the blood vessels, to the rest of the body’s cells, tissues, and organs. It also helps to get rid of waste products, such as carbon dioxide, from the body. Also called bloodstream.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811518" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;blood circulation&quot;" language="en" id="_4"/><MediaLink ref="CDR0000811519" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;circulación sanguínea&quot;" language="es" id="_5"/><SpanishTermName>circulación sanguínea</SpanishTermName><SpanishTermDefinition><DefinitionText>Flujo o movimiento de la sangre por todo el cuerpo. La sangre transporta oxígeno, nutrientes y otras sustancias importantes desde el corazón, a través de los vasos sanguíneos, al resto de las células, tejidos y órganos del cuerpo. También ayuda a eliminar del organismo los desechos, como el dióxido de carbono. También se llama circulación de la sangre y torrente sanguíneo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-08-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809744">
+  <TermName>blood circulation</TermName>
+  <TermPronunciation>(blud ser-kyoo-LAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The flow or movement of blood throughout the body. Blood carries oxygen, nutrients, and other important substances from the heart, through the blood vessels, to the rest of the body’s cells, tissues, and organs. It also helps to get rid of waste products, such as carbon dioxide, from the body. Also called bloodstream.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811518" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;blood circulation&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000811519" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;circulación sanguínea&quot;" language="es" id="_5"/>
+  <SpanishTermName>circulación sanguínea</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Flujo o movimiento de la sangre por todo el cuerpo. La sangre transporta oxígeno, nutrientes y otras sustancias importantes desde el corazón, a través de los vasos sanguíneos, al resto de las células, tejidos y órganos del cuerpo. También ayuda a eliminar del organismo los desechos, como el dióxido de carbono. También se llama circulación de la sangre y torrente sanguíneo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-08-26</DateFirstPublished>
+</GlossaryTerm>

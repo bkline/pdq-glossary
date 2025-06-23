@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044707"><TermName>physical therapist</TermName><TermPronunciation>(FIH-zih-kul THAYR-uh-pist)</TermPronunciation><TermDefinition><DefinitionText>A health professional trained to evaluate and treat people who have conditions or injuries that limit their ability to move and do physical activities. Physical therapists use methods such as exercise, massage, hot packs, ice, and electrical stimulation to help strengthen muscles, relieve pain, and improve movement. They also teach exercises to help prevent injury and loss of motion.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728098" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;physical therapist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728097" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fisioterapeuta&quot;" language="es" id="_4"/><SpanishTermName>fisioterapeuta</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la salud con formación para la evaluación y el tratamiento de personas con afecciones o lesiones que limitan la capacidad de moverse y realizar actividades físicas. Las personas que ejercen la profesión de fisioterapeuta usan métodos como ejercicio, masaje, compresas calientes, hielo y estimulación eléctrica, para ayudar a fortalecer los músculos, aliviar el dolor y mejorar el movimiento. También enseñan ejercicios con el fin de prevenir lesiones y pérdida de movimiento. También se llama fisioterapista, profesional en fisioterapia y terapeuta físico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2012-08-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044707">
+  <TermName>physical therapist</TermName>
+  <TermPronunciation>(FIH-zih-kul THAYR-uh-pist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A health professional trained to evaluate and treat people who have conditions or injuries that limit their ability to move and do physical activities. Physical therapists use methods such as exercise, massage, hot packs, ice, and electrical stimulation to help strengthen muscles, relieve pain, and improve movement. They also teach exercises to help prevent injury and loss of motion.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728098" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;physical therapist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728097" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fisioterapeuta&quot;" language="es" id="_4"/>
+  <SpanishTermName>fisioterapeuta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la salud con formación para la evaluación y el tratamiento de personas con afecciones o lesiones que limitan la capacidad de moverse y realizar actividades físicas. Las personas que ejercen la profesión de fisioterapeuta usan métodos como ejercicio, masaje, compresas calientes, hielo y estimulación eléctrica, para ayudar a fortalecer los músculos, aliviar el dolor y mejorar el movimiento. También enseñan ejercicios con el fin de prevenir lesiones y pérdida de movimiento. También se llama fisioterapista, profesional en fisioterapia y terapeuta físico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2012-08-14</DateLastModified>
+</GlossaryTerm>

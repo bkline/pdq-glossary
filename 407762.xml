@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000407762"><TermName>fibrocystic breast changes</TermName><TermPronunciation>(FY-broh-SIS-tik brest CHAYN-jiz)</TermPronunciation><TermDefinition><DefinitionText>A common condition marked by benign (not cancer) changes in breast tissue. These changes may include irregular lumps or cysts, breast swelling or discomfort, sensitive nipples, and itching. These symptoms may change throughout the menstrual cycle and usually stop after menopause. Fibrocystic breast changes can occur at any age but are most common in younger women. This condition does not increase the risk of breast cancer. Also called fibrocystic breasts.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713271" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrocystic breast changes&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713270" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cambios fibroquísticos de la mama&quot;" language="es" id="_4"/><SpanishTermName>cambios fibroquísticos de la mama</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección común que se caracteriza por cambios benignos (no cancerosos) en el tejido mamario. Estos cambios a veces incluyen bultos o quistes irregulares, hinchazón de la mama o incomodidad, sensibilidad en los pezones y picazón. Estos síntomas quizás cambien durante todo el ciclo menstrual y suelen desaparecen después de la menopausia. Es posible que los cambios fibroquísticos de la mama  aparezcan a cualquier edad, pero son más frecuentes en mujeres jóvenes. Esta afección no aumenta el riesgo de cáncer de mama. También se llama mamas fibroquísticas, mastopatía fibroquística y trastorno fibroquístico de la mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-01-24</DateFirstPublished><DateLastModified>2021-10-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000407762">
+  <TermName>fibrocystic breast changes</TermName>
+  <TermPronunciation>(FY-broh-SIS-tik brest CHAYN-jiz)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A common condition marked by benign (not cancer) changes in breast tissue. These changes may include irregular lumps or cysts, breast swelling or discomfort, sensitive nipples, and itching. These symptoms may change throughout the menstrual cycle and usually stop after menopause. Fibrocystic breast changes can occur at any age but are most common in younger women. This condition does not increase the risk of breast cancer. Also called fibrocystic breasts.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713271" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibrocystic breast changes&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713270" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cambios fibroquísticos de la mama&quot;" language="es" id="_4"/>
+  <SpanishTermName>cambios fibroquísticos de la mama</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección común que se caracteriza por cambios benignos (no cancerosos) en el tejido mamario. Estos cambios a veces incluyen bultos o quistes irregulares, hinchazón de la mama o incomodidad, sensibilidad en los pezones y picazón. Estos síntomas quizás cambien durante todo el ciclo menstrual y suelen desaparecen después de la menopausia. Es posible que los cambios fibroquísticos de la mama  aparezcan a cualquier edad, pero son más frecuentes en mujeres jóvenes. Esta afección no aumenta el riesgo de cáncer de mama. También se llama mamas fibroquísticas, mastopatía fibroquística y trastorno fibroquístico de la mama.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-01-24</DateFirstPublished>
+  <DateLastModified>2021-10-15</DateLastModified>
+</GlossaryTerm>

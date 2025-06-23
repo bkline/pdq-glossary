@@ -1,5 +1,33 @@
-<GlossaryTerm id="CDR0000046026"><TermName>larynx</TermName><TermPronunciation>(LAYR-inx)</TermPronunciation><TermDefinition><DefinitionText>The area of the
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046026">
+  <TermName>larynx</TermName>
+  <TermPronunciation>(LAYR-inx)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The area of the
           throat containing the vocal cords and used for breathing,
-          swallowing, and talking. Also called voice box.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708035" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;larynx&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708036" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laringe&quot;" language="es" id="_4"/><MediaLink ref="CDR0000786385" type="image/jpeg" alt="Drawing shows areas where laryngeal cancer may form or spread, including the supraglottis, glottis (vocal cords), subglottis, thyroid, trachea, and esophagus. Also shown are the epiglottis, the upper part of the spinal column, the carotid artery, the cartilage around the thyroid and trachea, lymph nodes in the neck, and the chest." language="en" audience="Patients" placement="image-center" id="_5"><Caption language="en">Laryngeal cancer forms in the tissues of the larynx (area of the throat that contains the vocal cords). The larynx includes the supraglottis, glottis (vocal cords), and subglottis. The cancer may spread to nearby tissues or to the thyroid, trachea, or esophagus. It may also spread to the lymph nodes in the neck, the carotid artery, the upper part of the spinal column, the chest, and to other parts of the body (not shown).</Caption></MediaLink><MediaLink ref="CDR0000788065" type="image/jpeg" alt="En la imagen se observan las áreas en donde es posible que se forme o disemine el cáncer de laringe: la supraglotis, la glotis (cuerdas vocales), la subglotis, la tiroides, la tráquea y el esófago. También se muestran la epiglotis, la parte superior de la columna vertebral, la arteria carótida, el cartílago que rodea la tiroides y la tráquea, los ganglios linfáticos del cuello, y el tórax." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">El cáncer de laringe se forma en los tejidos de la laringe (área de la garganta que contiene las cuerdas vocales). La laringe consta de la supraglotis, la glotis (cuerdas vocales) y la subglotis. Es posible que el cáncer se disemine a los tejidos cercanos o a la tiroides, la tráquea o el esófago. También es posible que el cáncer se disemine a los ganglios linfáticos del cuello, la arteria carótida, la parte superior de la columna vertebral, el tórax y otras partes del cuerpo (no se muestran en la imagen).</Caption></MediaLink><SpanishTermName>laringe</SpanishTermName><SpanishTermDefinition><DefinitionText>Área de la garganta que
+          swallowing, and talking. Also called voice box.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708035" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;larynx&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708036" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laringe&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000786385" type="image/jpeg" alt="Drawing shows areas where laryngeal cancer may form or spread, including the supraglottis, glottis (vocal cords), subglottis, thyroid, trachea, and esophagus. Also shown are the epiglottis, the upper part of the spinal column, the carotid artery, the cartilage around the thyroid and trachea, lymph nodes in the neck, and the chest." language="en" audience="Patients" placement="image-center" id="_5">
+    <Caption language="en">Laryngeal cancer forms in the tissues of the larynx (area of the throat that contains the vocal cords). The larynx includes the supraglottis, glottis (vocal cords), and subglottis. The cancer may spread to nearby tissues or to the thyroid, trachea, or esophagus. It may also spread to the lymph nodes in the neck, the carotid artery, the upper part of the spinal column, the chest, and to other parts of the body (not shown).</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000788065" type="image/jpeg" alt="En la imagen se observan las áreas en donde es posible que se forme o disemine el cáncer de laringe: la supraglotis, la glotis (cuerdas vocales), la subglotis, la tiroides, la tráquea y el esófago. También se muestran la epiglotis, la parte superior de la columna vertebral, la arteria carótida, el cartílago que rodea la tiroides y la tráquea, los ganglios linfáticos del cuello, y el tórax." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">El cáncer de laringe se forma en los tejidos de la laringe (área de la garganta que contiene las cuerdas vocales). La laringe consta de la supraglotis, la glotis (cuerdas vocales) y la subglotis. Es posible que el cáncer se disemine a los tejidos cercanos o a la tiroides, la tráquea o el esófago. También es posible que el cáncer se disemine a los ganglios linfáticos del cuello, la arteria carótida, la parte superior de la columna vertebral, el tórax y otras partes del cuerpo (no se muestran en la imagen).</Caption>
+  </MediaLink>
+  <SpanishTermName>laringe</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Área de la garganta que
 contiene las cuerdas vocales y que se usa para respirar,
-tragar y hablar. También se llama órgano fonador.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2017-04-11</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/head-and-neck">Head and Neck Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/cabeza-cuello">Cáncer de cabeza y cuello</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+tragar y hablar. También se llama órgano fonador.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2017-04-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/head-and-neck">Head and Neck Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/cabeza-cuello">Cáncer de cabeza y cuello</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

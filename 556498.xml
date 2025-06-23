@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000556498"><TermName>inconclusive result</TermName><TermPronunciation>(IN-kun-KLOO-siv reh-ZULT)</TermPronunciation><TermDefinition><DefinitionText>A negative test result in an individual where a clearly deleterious mutation has not been found in any family members. The genetic risk status of such an individual must be interpreted in the context of his or her personal and family history. Also called indeterminate result and uninformative result.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000733346" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inconclusive result&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804263" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resultado no concluyente&quot;" language="es" id="_4"/><SpanishTermName>resultado no concluyente</SpanishTermName><SpanishTermDefinition><DefinitionText>Resultado negativo de una prueba en un persona en quien no se identifica una mutación deletérea evidente, y  tampoco se encuentra este tipo de mutación en su familia. El estado del riesgo genético  para esa persona se debe interpretar en el contexto de los antecedentes personales y la historia familiar. También se llama resultado indeterminado y resultado no informativo.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000556498">
+  <TermName>inconclusive result</TermName>
+  <TermPronunciation>(IN-kun-KLOO-siv reh-ZULT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A negative test result in an individual where a clearly deleterious mutation has not been found in any family members. The genetic risk status of such an individual must be interpreted in the context of his or her personal and family history. Also called indeterminate result and uninformative result.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733346" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inconclusive result&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804263" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;resultado no concluyente&quot;" language="es" id="_4"/>
+  <SpanishTermName>resultado no concluyente</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Resultado negativo de una prueba en un persona en quien no se identifica una mutación deletérea evidente, y  tampoco se encuentra este tipo de mutación en su familia. El estado del riesgo genético  para esa persona se debe interpretar en el contexto de los antecedentes personales y la historia familiar. También se llama resultado indeterminado y resultado no informativo.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+</GlossaryTerm>

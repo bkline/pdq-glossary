@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000556483"><TermName>noncarrier</TermName><TermPronunciation>(non-KAYR-ee-er)</TermPronunciation><TermDefinition><DefinitionText>An individual who does not carry a mutation previously identified in his or her family.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>In genetics, a person who does not have a mutated (changed) disease-causing gene that has been previously identified in his or her family.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;noncarrier&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804256" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;no portador&quot;" language="es" id="_4"/><SpanishTermName>no portador</SpanishTermName><SpanishTermDefinition><DefinitionText>Persona no portadora de una mutación identificada antes en su familia.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>En el campo de la genética, una persona que no tiene un gen mutado (cambiado) causal de una enfermedad, que se identificó antes en su familia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000556483">
+  <TermName>noncarrier</TermName>
+  <TermPronunciation>(non-KAYR-ee-er)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An individual who does not carry a mutation previously identified in his or her family.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>In genetics, a person who does not have a mutated (changed) disease-causing gene that has been previously identified in his or her family.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736996" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;noncarrier&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804256" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;no portador&quot;" language="es" id="_4"/>
+  <SpanishTermName>no portador</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Persona no portadora de una mutación identificada antes en su familia.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>En el campo de la genética, una persona que no tiene un gen mutado (cambiado) causal de una enfermedad, que se identificó antes en su familia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+</GlossaryTerm>

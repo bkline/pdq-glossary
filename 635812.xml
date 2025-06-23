@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000635812"><TermName>Camptosar</TermName><TermPronunciation>(KAMP-toh-sar)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat colorectal cancer that has spread to other parts of the body. It is used in patients whose cancer has not already been treated or whose cancer has recurred (come back) or has gotten worse after treatment with anticancer drugs that included fluorouracil.  It is also being studied in the treatment of other types of cancer.  Camptosar blocks a certain enzyme needed for cell division and DNA repair, and it may kill cancer cells. It is a type of topoisomerase inhibitor and a type of camptothecin analog.  Also called CPT 11 and irinotecan hydrochloride.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Camptosar&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722887" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Camptosar&quot;" language="es" id="_4"/><SpanishTermName>Camptosar</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento del cáncer colorrectal que se diseminó a otras partes del cuerpo. Se utiliza en  pacientes cuyo cáncer no se ha tratado, o cuyo cáncer empeoró o recidivó (volvió) después de recibir tratamientos contra el cáncer que incluyeron el fluorouracilo. También está en estudio para el tratamiento de otros tipos de cáncer. Camptosar impide la acción de cierta enzima necesaria para la multiplicación celular y la reparación del ADN, y es posible que destruya células cancerosas. Es un tipo de inhibidor de la topoisomerasa y un análogo de la camptotecina.  También se llama clorhidrato de irinotecán y CPT 11.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-02-23</DateFirstPublished><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000537382" url="/about-cancer/treatment/drugs/irinotecanhydrochloride">Irinotecan Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000635812">
+  <TermName>Camptosar</TermName>
+  <TermPronunciation>(KAMP-toh-sar)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat colorectal cancer that has spread to other parts of the body. It is used in patients whose cancer has not already been treated or whose cancer has recurred (come back) or has gotten worse after treatment with anticancer drugs that included fluorouracil.  It is also being studied in the treatment of other types of cancer.  Camptosar blocks a certain enzyme needed for cell division and DNA repair, and it may kill cancer cells. It is a type of topoisomerase inhibitor and a type of camptothecin analog.  Also called CPT 11 and irinotecan hydrochloride.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722888" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Camptosar&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722887" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Camptosar&quot;" language="es" id="_4"/>
+  <SpanishTermName>Camptosar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento del cáncer colorrectal que se diseminó a otras partes del cuerpo. Se utiliza en  pacientes cuyo cáncer no se ha tratado, o cuyo cáncer empeoró o recidivó (volvió) después de recibir tratamientos contra el cáncer que incluyeron el fluorouracilo. También está en estudio para el tratamiento de otros tipos de cáncer. Camptosar impide la acción de cierta enzima necesaria para la multiplicación celular y la reparación del ADN, y es posible que destruya células cancerosas. Es un tipo de inhibidor de la topoisomerasa y un análogo de la camptotecina.  También se llama clorhidrato de irinotecán y CPT 11.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-02-23</DateFirstPublished>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000537382" url="/about-cancer/treatment/drugs/irinotecanhydrochloride">Irinotecan Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

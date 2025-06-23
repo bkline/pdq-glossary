@@ -1,2 +1,24 @@
-<GlossaryTerm id="CDR0000628803"><TermName>Promacta</TermName><TermPronunciation>(proh-MAK-tuh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults and children with chronic immune thrombocytopenic purpura that did not get better with other treatment. Promacta is also used to treat severe aplastic anemia. It is also being studied in the treatment of other conditions and types of cancer. Promacta binds to the thrombopoietin receptor, which causes the bone marrow to make more platelets. It is a type of thrombopoietin receptor agonist. Also called eltrombopag olamine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722498" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Promacta&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722497" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Promacta&quot;" language="es" id="_4"/><SpanishTermName>Promacta</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la trombocitopenia (concentración baja de plaquetas en la sangre) en adultos y en determinados niños con púrpura trombocitopénica inmunitaria crónica que no mejoró con otros tratamientos. Promacta también se usa para tratar la anemia aplásica grave. Asimismo, está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Promacta se une al receptor de
-la trombopoyetina y hace que la médula ósea elabore más plaquetas. Es un tipo de agonista del receptor de la trombopoyetina. También se llama eltrombopag olamina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-12-09</DateFirstPublished><DateLastModified>2021-05-18</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000626822" url="/about-cancer/treatment/drugs/eltrombopagolamine">Eltrombopag Olamine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000628803">
+  <TermName>Promacta</TermName>
+  <TermPronunciation>(proh-MAK-tuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat thrombocytopenia (a low blood platelet count) in adults and children with chronic immune thrombocytopenic purpura that did not get better with other treatment. Promacta is also used to treat severe aplastic anemia. It is also being studied in the treatment of other conditions and types of cancer. Promacta binds to the thrombopoietin receptor, which causes the bone marrow to make more platelets. It is a type of thrombopoietin receptor agonist. Also called eltrombopag olamine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722498" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Promacta&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722497" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Promacta&quot;" language="es" id="_4"/>
+  <SpanishTermName>Promacta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de la trombocitopenia (concentración baja de plaquetas en la sangre) en adultos y en determinados niños con púrpura trombocitopénica inmunitaria crónica que no mejoró con otros tratamientos. Promacta también se usa para tratar la anemia aplásica grave. Asimismo, está en estudio para el tratamiento de otras afecciones y tipos de cáncer. Promacta se une al receptor de
+la trombopoyetina y hace que la médula ósea elabore más plaquetas. Es un tipo de agonista del receptor de la trombopoyetina. También se llama eltrombopag olamina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-12-09</DateFirstPublished>
+  <DateLastModified>2021-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000626822" url="/about-cancer/treatment/drugs/eltrombopagolamine">Eltrombopag Olamine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

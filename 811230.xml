@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000811230"><TermName>mosunetuzumab</TermName><TermPronunciation>(moh-SUN-eh-TOO-zoo-mab)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with follicular lymphoma that came back or did not get better after treatment with at least two other types of systemic therapy. It is also being studied in the treatment of other types of cancer. Mosunetuzumab binds to a protein called CD3, which is found on T cells (a type of white blood cell). It also binds to a protein called CD20, which is found on B cells (another type of white blood cell) and some lymphoma cells. This may help the immune system kill cancer cells. Mosunetuzumab is a type of bispecific monoclonal antibody. Also called Lunsumio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812287" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mosunetuzumab&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812288" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mosunetuzumab&quot;" language="es" id="_4"/><SpanishTermName>mosunetuzumab</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con linfoma folicular que reapareció o no mejoró después del tratamiento con al menos otros dos  tipos de terapia sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. El mosunetuzumab se une a una proteína llamada CD3, que se encuentra en las células T (tipo de glóbulo blanco). También se une a una proteína llamada CD20, que se encuentra en las células  B  (otro tipo de glóbulo blanco) y en algunas células de linfoma. Esto quizás ayude al sistema inmunitario a destruir células cancerosas. El mosunetuzumab es un tipo de anticuerpo monoclonal biespecífico. También se llama Lunsumio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-12-29</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000811303" url="/about-cancer/treatment/drugs/mosunetuzumab-axgb">Mosunetuzumab-axgb</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811230">
+  <TermName>mosunetuzumab</TermName>
+  <TermPronunciation>(moh-SUN-eh-TOO-zoo-mab)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with follicular lymphoma that came back or did not get better after treatment with at least two other types of systemic therapy. It is also being studied in the treatment of other types of cancer. Mosunetuzumab binds to a protein called CD3, which is found on T cells (a type of white blood cell). It also binds to a protein called CD20, which is found on B cells (another type of white blood cell) and some lymphoma cells. This may help the immune system kill cancer cells. Mosunetuzumab is a type of bispecific monoclonal antibody. Also called Lunsumio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812287" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mosunetuzumab&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812288" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mosunetuzumab&quot;" language="es" id="_4"/>
+  <SpanishTermName>mosunetuzumab</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con linfoma folicular que reapareció o no mejoró después del tratamiento con al menos otros dos  tipos de terapia sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. El mosunetuzumab se une a una proteína llamada CD3, que se encuentra en las células T (tipo de glóbulo blanco). También se une a una proteína llamada CD20, que se encuentra en las células  B  (otro tipo de glóbulo blanco) y en algunas células de linfoma. Esto quizás ayude al sistema inmunitario a destruir células cancerosas. El mosunetuzumab es un tipo de anticuerpo monoclonal biespecífico. También se llama Lunsumio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-12-29</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000811303" url="/about-cancer/treatment/drugs/mosunetuzumab-axgb">Mosunetuzumab-axgb</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

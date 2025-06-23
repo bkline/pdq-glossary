@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000532134"><TermName>sleep apnea</TermName><TermPronunciation>(… AP-nee-uh)</TermPronunciation><TermDefinition><DefinitionText>A sleep disorder that is marked by pauses in breathing of 10 seconds or more during sleep, and causes unrestful sleep. Symptoms include loud or abnormal snoring, daytime sleepiness, irritability, and depression.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sleep apnea&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apnea del sueño&quot;" language="es" id="_4"/><SpanishTermName>apnea del sueño</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno del sueño que se caracteriza por interrupciones de la respiración que duran 10 segundos o más mientras se duerme. Los síntomas incluyen ronquidos fuertes o anormales, somnolencia diurna, irritabilidad y depresión.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders">Sleep Problems in People with Cancer</RelatedExternalRef><RelatedSummaryRef UseWith="en" href="CDR0000062814" url="/about-cancer/treatment/side-effects/sleep-disorders-pdq">Sleep Disorders</RelatedSummaryRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/insomnio">Problemas para dormir</RelatedExternalRef><RelatedSummaryRef UseWith="es" href="CDR0000256649" url="/espanol/cancer/tratamiento/efectos-secundarios/insomnio/trastornos-del-sueno-pdq">Trastornos del sueño</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000532134">
+  <TermName>sleep apnea</TermName>
+  <TermPronunciation>(… AP-nee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A sleep disorder that is marked by pauses in breathing of 10 seconds or more during sleep, and causes unrestful sleep. Symptoms include loud or abnormal snoring, daytime sleepiness, irritability, and depression.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sleep apnea&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;apnea del sueño&quot;" language="es" id="_4"/>
+  <SpanishTermName>apnea del sueño</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno del sueño que se caracteriza por interrupciones de la respiración que duran 10 segundos o más mientras se duerme. Los síntomas incluyen ronquidos fuertes o anormales, somnolencia diurna, irritabilidad y depresión.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders">Sleep Problems in People with Cancer</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062814" url="/about-cancer/treatment/side-effects/sleep-disorders-pdq">Sleep Disorders</RelatedSummaryRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/insomnio">Problemas para dormir</RelatedExternalRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256649" url="/espanol/cancer/tratamiento/efectos-secundarios/insomnio/trastornos-del-sueno-pdq">Trastornos del sueño</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

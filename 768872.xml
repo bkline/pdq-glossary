@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000768872"><TermName>palbociclib</TermName><TermPronunciation>(PAL-boh-SY-klib)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat women and men with certain types of hormone-receptor positive, HER2-negative breast cancer that is advanced or has spread. It is also being studied in the treatment of other types of cancer. Palbociclib blocks certain proteins, which may help keep cancer cells from growing. It is a type of cyclin-dependent kinase inhibitor. Also called Ibrance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000771240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palbociclib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000771239" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palbociclib&quot;" language="es" id="_4"/><SpanishTermName>palbociclib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de mujeres y hombres con ciertos tipos de cáncer de mama positivo para receptores hormonales, negativo para HER2  en estadio avanzado o que se diseminó. También está en estudio para el tratamiento de otros tipos de cáncer. El palbociclib  bloquea ciertas proteínas, lo que quizás ayude a impedir la multiplicación de células cancerosas.  Es un tipo de inhibidor de cinasas dependientes de ciclinas. También se llama Ibrance.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-02-09</DateFirstPublished><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000768870" url="/about-cancer/treatment/drugs/palbociclib">Palbociclib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000768872">
+  <TermName>palbociclib</TermName>
+  <TermPronunciation>(PAL-boh-SY-klib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat women and men with certain types of hormone-receptor positive, HER2-negative breast cancer that is advanced or has spread. It is also being studied in the treatment of other types of cancer. Palbociclib blocks certain proteins, which may help keep cancer cells from growing. It is a type of cyclin-dependent kinase inhibitor. Also called Ibrance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000771240" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palbociclib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000771239" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;palbociclib&quot;" language="es" id="_4"/>
+  <SpanishTermName>palbociclib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de mujeres y hombres con ciertos tipos de cáncer de mama positivo para receptores hormonales, negativo para HER2  en estadio avanzado o que se diseminó. También está en estudio para el tratamiento de otros tipos de cáncer. El palbociclib  bloquea ciertas proteínas, lo que quizás ayude a impedir la multiplicación de células cancerosas.  Es un tipo de inhibidor de cinasas dependientes de ciclinas. También se llama Ibrance.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-02-09</DateFirstPublished>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000768870" url="/about-cancer/treatment/drugs/palbociclib">Palbociclib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

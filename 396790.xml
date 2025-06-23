@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000396790"><TermName>stage 3 neuroblastoma</TermName><TermPronunciation>(... NOOR-oh-blas-TOH-muh)</TermPronunciation><TermDefinition><DefinitionText>In stage 3 neuroblastoma, one of the following is true: the cancer (1) cannot be completely removed during surgery and has spread from one side of the body to the other side and may also have spread to nearby lymph nodes; or (2) is on one side of the body and has spread to lymph nodes on the other side of the body; or (3) is in the middle of the body and has spread to tissues or lymph nodes on both sides of the body, and the cancer cannot be removed by surgery.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713543" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 3 neuroblastoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713544" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroblastoma en estadio 3&quot;" language="es" id="_4"/><SpanishTermName>neuroblastoma en estadio 3</SpanishTermName><SpanishTermDefinition><DefinitionText>En el neuroblastoma en estadio 3, se presenta una de las siguientes situaciones: 1) no esposible extirpar todo el cáncer durante una cirugía, el cáncer se diseminó al lado contrario del cuerpo y es posible que se haya diseminado a los ganglios linfáticos  cercanos; 2) el cáncer está en un lado del cuerpo y se diseminó  a los ganglios linfáticos del lado contrario; 3) el cáncer está en la parte media del cuerpo y se diseminó a los tejidos o ganglios linfáticos de ambos lados del cuerpo, y no es posible extirpar el cáncer mediante cirugía.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-04-23</DateFirstPublished><DateLastModified>2019-10-15</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258023" url="/types/neuroblastoma/patient/neuroblastoma-treatment-pdq">Neuroblastoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000391227" url="/espanol/tipos/neuroblastoma/paciente/tratamiento-neuroblastoma-pdq">Tratamiento del neuroblastoma</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000396790">
+  <TermName>stage 3 neuroblastoma</TermName>
+  <TermPronunciation>(... NOOR-oh-blas-TOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In stage 3 neuroblastoma, one of the following is true: the cancer (1) cannot be completely removed during surgery and has spread from one side of the body to the other side and may also have spread to nearby lymph nodes; or (2) is on one side of the body and has spread to lymph nodes on the other side of the body; or (3) is in the middle of the body and has spread to tissues or lymph nodes on both sides of the body, and the cancer cannot be removed by surgery.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713543" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 3 neuroblastoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713544" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neuroblastoma en estadio 3&quot;" language="es" id="_4"/>
+  <SpanishTermName>neuroblastoma en estadio 3</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el neuroblastoma en estadio 3, se presenta una de las siguientes situaciones: 1) no esposible extirpar todo el cáncer durante una cirugía, el cáncer se diseminó al lado contrario del cuerpo y es posible que se haya diseminado a los ganglios linfáticos  cercanos; 2) el cáncer está en un lado del cuerpo y se diseminó  a los ganglios linfáticos del lado contrario; 3) el cáncer está en la parte media del cuerpo y se diseminó a los tejidos o ganglios linfáticos de ambos lados del cuerpo, y no es posible extirpar el cáncer mediante cirugía.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-04-23</DateFirstPublished>
+  <DateLastModified>2019-10-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258023" url="/types/neuroblastoma/patient/neuroblastoma-treatment-pdq">Neuroblastoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000391227" url="/espanol/tipos/neuroblastoma/paciente/tratamiento-neuroblastoma-pdq">Tratamiento del neuroblastoma</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

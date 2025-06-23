@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000800193"><TermName>enfortumab vedotin</TermName><TermPronunciation>(en-FOR-too-mab veh-DOH-tin)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with pembrolizumab to treat adults with certain types of urothelial cancer (a type of cancer in the bladder or urinary tract) that have spread or cannot be removed by surgery. It is also being studied in the treatment of other types of cancer. Enfortumab vedotin contains a monoclonal antibody that binds to a protein called nectin-4, which is found on some cancer cells. It also contains an anticancer drug, which may help kill cancer cells. Enfortumab vedotin may also help the immune system kill cancer cells.   It is a type of antibody-drug conjugate. Also called Padcev.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801128" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfortumab vedotin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801129" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfortumab vedotina&quot;" language="es" id="_4"/><SpanishTermName>enfortumab vedotina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con pembrolizumab para el tratamiento de adultos con ciertos tipos de cáncer urotelial (tipo de cáncer de vejiga o aparato urinario) que se diseminaron o que no se pueden extirpar con cirugía. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. El enfortumab vedotina  contiene un anticuerpo monoclonal que se une a una proteína llamada nectina-4, que se encuentra en algunas células cancerosas. Además, contiene un fármaco contra el cáncer que quizás ayude a destruir las células cancerosas. Es posible que el enfortumab vedotina  también ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de conjugado anticuerpo-fármaco. También se llama Padcev.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-01-02</DateFirstPublished><DateLastModified>2023-04-04</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000800196" url="/about-cancer/treatment/drugs/enfortumabvedotin-ejfv">Enfortumab Vedotin-ejfv</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800193">
+  <TermName>enfortumab vedotin</TermName>
+  <TermPronunciation>(en-FOR-too-mab veh-DOH-tin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with pembrolizumab to treat adults with certain types of urothelial cancer (a type of cancer in the bladder or urinary tract) that have spread or cannot be removed by surgery. It is also being studied in the treatment of other types of cancer. Enfortumab vedotin contains a monoclonal antibody that binds to a protein called nectin-4, which is found on some cancer cells. It also contains an anticancer drug, which may help kill cancer cells. Enfortumab vedotin may also help the immune system kill cancer cells.   It is a type of antibody-drug conjugate. Also called Padcev.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801128" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfortumab vedotin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801129" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfortumab vedotina&quot;" language="es" id="_4"/>
+  <SpanishTermName>enfortumab vedotina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con pembrolizumab para el tratamiento de adultos con ciertos tipos de cáncer urotelial (tipo de cáncer de vejiga o aparato urinario) que se diseminaron o que no se pueden extirpar con cirugía. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. El enfortumab vedotina  contiene un anticuerpo monoclonal que se une a una proteína llamada nectina-4, que se encuentra en algunas células cancerosas. Además, contiene un fármaco contra el cáncer que quizás ayude a destruir las células cancerosas. Es posible que el enfortumab vedotina  también ayude al sistema inmunitario a destruir células cancerosas. Es un tipo de conjugado anticuerpo-fármaco. También se llama Padcev.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-01-02</DateFirstPublished>
+  <DateLastModified>2023-04-04</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000800196" url="/about-cancer/treatment/drugs/enfortumabvedotin-ejfv">Enfortumab Vedotin-ejfv</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

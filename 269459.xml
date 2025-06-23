@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000269459"><TermName>surgical excision</TermName><TermPronunciation>(SER-jih-kul ek-SIH-zhun)</TermPronunciation><TermDefinition><DefinitionText>The removal of tissue from the body using a scalpel (a sharp knife), laser, or other cutting tool. A surgical excision is usually done to remove a lump or other suspicious growth. Some normal tissue around the lump is usually removed at the same time.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710209" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surgical excision&quot;" language="en" id="_8"/><MediaLink ref="CDR0000710210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación quirúrgica&quot;" language="es" id="_9"/><SpanishTermName>extirpación quirúrgica</SpanishTermName><SpanishTermDefinition><DefinitionText>Extracción de tejido del cuerpo mediante un bisturí (cuchillo afilado), láser u otro instrumento cortante. Una extirpación quirúrgica suele usarse para extraer un bulto o cualquier masa sospechosa. Por lo general, durante el mismo procedimiento se extirpa un poco del tejido normal que rodea la masa. También se llama escisión quirúrgica, excisión quirúrgica y resección quirúrgica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2002-12-21</DateFirstPublished><DateLastModified>2021-10-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000269459">
+  <TermName>surgical excision</TermName>
+  <TermPronunciation>(SER-jih-kul ek-SIH-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The removal of tissue from the body using a scalpel (a sharp knife), laser, or other cutting tool. A surgical excision is usually done to remove a lump or other suspicious growth. Some normal tissue around the lump is usually removed at the same time.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710209" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;surgical excision&quot;" language="en" id="_8"/>
+  <MediaLink ref="CDR0000710210" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;extirpación quirúrgica&quot;" language="es" id="_9"/>
+  <SpanishTermName>extirpación quirúrgica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Extracción de tejido del cuerpo mediante un bisturí (cuchillo afilado), láser u otro instrumento cortante. Una extirpación quirúrgica suele usarse para extraer un bulto o cualquier masa sospechosa. Por lo general, durante el mismo procedimiento se extirpa un poco del tejido normal que rodea la masa. También se llama escisión quirúrgica, excisión quirúrgica y resección quirúrgica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2002-12-21</DateFirstPublished>
+  <DateLastModified>2021-10-13</DateLastModified>
+</GlossaryTerm>

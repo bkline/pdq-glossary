@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000715346"><TermName>linitis plastica</TermName><TermPronunciation>(lih-NY-tis plas-TIH-kuh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of stomach cancer that begins in the lining of the stomach and spreads to the muscles of the stomach wall. This causes the wall of the stomach to become thick, hard, and rubbery, which leads to trouble digesting food. Also called gastric scirrhous carcinoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732931" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linitis plastica&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732932" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linitis plástica&quot;" language="es" id="_4"/><SpanishTermName>linitis plástica</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo raro de cáncer de estómago que empieza en el tejido que reviste el estómago y se disemina a los músculos de la pared gástrica. Esta se vuelve gruesa, dura y gomosa, lo que ocasiona problemas para digerir los alimentos. También se llama carcinoma escirroso gástrico, linitis gástrica y linitis plástica gástrica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-10-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000715346">
+  <TermName>linitis plastica</TermName>
+  <TermPronunciation>(lih-NY-tis plas-TIH-kuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of stomach cancer that begins in the lining of the stomach and spreads to the muscles of the stomach wall. This causes the wall of the stomach to become thick, hard, and rubbery, which leads to trouble digesting food. Also called gastric scirrhous carcinoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732931" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linitis plastica&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732932" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;linitis plástica&quot;" language="es" id="_4"/>
+  <SpanishTermName>linitis plástica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo raro de cáncer de estómago que empieza en el tejido que reviste el estómago y se disemina a los músculos de la pared gástrica. Esta se vuelve gruesa, dura y gomosa, lo que ocasiona problemas para digerir los alimentos. También se llama carcinoma escirroso gástrico, linitis gástrica y linitis plástica gástrica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-10-20</DateFirstPublished>
+</GlossaryTerm>

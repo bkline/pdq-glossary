@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000810837"><TermName>abdominal wall</TermName><TermPronunciation>(ab-DAH-mih-nul …)</TermPronunciation><TermDefinition><DefinitionText>The layers of skin, muscles, fat, and other tissues that surround and protect the organs inside the abdomen. The abdomen is located between the chest and the pelvis and contains the stomach, intestines, liver, pancreas, gallbladder, and other organs. The muscles in the abdominal wall are used when a person sneezes, coughs, vomits, or has a bowel movement. The abdominal wall also helps support movement of the spine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812261" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abdominal wall&quot;" language="en" id="_4"/><MediaLink ref="CDR0000812262" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pared abdominal&quot;" language="es" id="_5"/><SpanishTermName>pared abdominal</SpanishTermName><SpanishTermDefinition><DefinitionText>Capas de piel, músculo, grasa y otros tejidos que rodean y protegen los órganos en el abdomen. El abdomen se encuentra entre el tórax y la pelvis y contiene el estómago, los intestinos, el hígado, el páncreas, la vesícula biliar y otros órganos. Una persona usa los músculos de la pared abdominal cuando estornuda, tose, vomita o durante las evacuaciones intestinales. La pared abdominal también sirve de sostén para el movimiento de la columna vertebral. También se llama pared del abdomen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-02-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810837">
+  <TermName>abdominal wall</TermName>
+  <TermPronunciation>(ab-DAH-mih-nul …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The layers of skin, muscles, fat, and other tissues that surround and protect the organs inside the abdomen. The abdomen is located between the chest and the pelvis and contains the stomach, intestines, liver, pancreas, gallbladder, and other organs. The muscles in the abdominal wall are used when a person sneezes, coughs, vomits, or has a bowel movement. The abdominal wall also helps support movement of the spine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812261" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;abdominal wall&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000812262" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pared abdominal&quot;" language="es" id="_5"/>
+  <SpanishTermName>pared abdominal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Capas de piel, músculo, grasa y otros tejidos que rodean y protegen los órganos en el abdomen. El abdomen se encuentra entre el tórax y la pelvis y contiene el estómago, los intestinos, el hígado, el páncreas, la vesícula biliar y otros órganos. Una persona usa los músculos de la pared abdominal cuando estornuda, tose, vomita o durante las evacuaciones intestinales. La pared abdominal también sirve de sostén para el movimiento de la columna vertebral. También se llama pared del abdomen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-02-24</DateFirstPublished>
+</GlossaryTerm>

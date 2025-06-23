@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000788029"><TermName>hormone receptor positive</TermName><TermPronunciation>(HOR-mone reh-SEP-ter PAH-zih-tiv)</TermPronunciation><TermDefinition><DefinitionText>Describes cells that have a group of proteins that bind to a specific hormone. For example, some breast cancer cells have receptors for the hormones estrogen or progesterone. These cells are hormone receptor positive and they need estrogen or progesterone to grow. This can affect how the cancer is treated. Knowing if the cancer is hormone receptor positive may help plan treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000790330" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone receptor positive&quot;" language="en" id="_3"/><MediaLink ref="CDR0000790331" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para receptores hormonales&quot;o para el receptor hormonal&quot;" language="es" id="_4"/><SpanishTermName>positiva para receptores hormonales</SpanishTermName><SpanishTermDefinition><DefinitionText>Característica de una célula que tiene un grupo de proteínas que se unen a una hormona específica. Por ejemplo, algunas células del cáncer de mama tienen receptores para las hormonas estrógeno o progesterona. Éstas células son positivas para receptores hormonales y necesitan estrógeno o progesterona para multiplicarse, lo que puede afectar la forma de tratamiento del cáncer. Saber si un cáncer es positivo para receptores hormonales quizás ayude a planificar el tratamiento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-06-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000788029">
+  <TermName>hormone receptor positive</TermName>
+  <TermPronunciation>(HOR-mone reh-SEP-ter PAH-zih-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes cells that have a group of proteins that bind to a specific hormone. For example, some breast cancer cells have receptors for the hormones estrogen or progesterone. These cells are hormone receptor positive and they need estrogen or progesterone to grow. This can affect how the cancer is treated. Knowing if the cancer is hormone receptor positive may help plan treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000790330" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormone receptor positive&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000790331" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;positiva para receptores hormonales&quot;o para el receptor hormonal&quot;" language="es" id="_4"/>
+  <SpanishTermName>positiva para receptores hormonales</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Característica de una célula que tiene un grupo de proteínas que se unen a una hormona específica. Por ejemplo, algunas células del cáncer de mama tienen receptores para las hormonas estrógeno o progesterona. Éstas células son positivas para receptores hormonales y necesitan estrógeno o progesterona para multiplicarse, lo que puede afectar la forma de tratamiento del cáncer. Saber si un cáncer es positivo para receptores hormonales quizás ayude a planificar el tratamiento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-06-05</DateFirstPublished>
+</GlossaryTerm>

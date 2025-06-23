@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000413960"><TermName>Zofran</TermName><TermPronunciation>(ZOH-fran)</TermPronunciation><TermDefinition><DefinitionText>A drug used to prevent nausea and vomiting caused by chemotherapy and radiation therapy and nausea and vomiting after surgery.  Zofran blocks the action of a chemical called serotonin, which binds to certain nerves and may trigger nausea and vomiting. Blocking serotonin may help lessen nausea and vomiting.  Zofran is a type of antiemetic and a type of serotonin receptor antagonist. Also called ondansetron hydrochloride.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713355" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zofran&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zofran&quot;" language="es" id="_4"/><SpanishTermName>Zofran</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para prevenir las náuseas y los vómitos que causan la quimioterapia y la radioterapia. También se usa para prevenir las náuseas y los vómitos después de una cirugía. Zofran bloquea la acción de la sustancia química serotonina, que se une a ciertos nervios,   y quizás provoque náuseas y vómitos. Es posible que el bloqueo de la serotonina ayude a disminuir las náuseas y los vómitos. Zofran es un tipo de antagonista del receptor de serotonina y un antiemético. También se llama clorhidrato de ondansetrón.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-11-13</DateFirstPublished><DateLastModified>2021-07-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000773001" url="/about-cancer/treatment/drugs/ondansetronhydrochloride">Ondansetron Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413960">
+  <TermName>Zofran</TermName>
+  <TermPronunciation>(ZOH-fran)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to prevent nausea and vomiting caused by chemotherapy and radiation therapy and nausea and vomiting after surgery.  Zofran blocks the action of a chemical called serotonin, which binds to certain nerves and may trigger nausea and vomiting. Blocking serotonin may help lessen nausea and vomiting.  Zofran is a type of antiemetic and a type of serotonin receptor antagonist. Also called ondansetron hydrochloride.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713355" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zofran&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713354" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zofran&quot;" language="es" id="_4"/>
+  <SpanishTermName>Zofran</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para prevenir las náuseas y los vómitos que causan la quimioterapia y la radioterapia. También se usa para prevenir las náuseas y los vómitos después de una cirugía. Zofran bloquea la acción de la sustancia química serotonina, que se une a ciertos nervios,   y quizás provoque náuseas y vómitos. Es posible que el bloqueo de la serotonina ayude a disminuir las náuseas y los vómitos. Zofran es un tipo de antagonista del receptor de serotonina y un antiemético. También se llama clorhidrato de ondansetrón.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-11-13</DateFirstPublished>
+  <DateLastModified>2021-07-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000773001" url="/about-cancer/treatment/drugs/ondansetronhydrochloride">Ondansetron Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,3 +1,26 @@
-<GlossaryTerm id="CDR0000428386"><TermName>stage IVC laryngeal cancer</TermName><TermPronunciation>(... luh-RIN-jee-ul KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage IV laryngeal cancer is divided into stages IVA, IVB, and IVC. In stage IVC, cancer has spread to other parts of the body, such as the lungs, liver, or bone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IVC laryngeal cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713434" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de laringe en estadio IVC&quot;" language="es" id="_4"/><SpanishTermName>cáncer de laringe en estadio IVC</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer de laringe en estadio IV se divide en los
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000428386">
+  <TermName>stage IVC laryngeal cancer</TermName>
+  <TermPronunciation>(... luh-RIN-jee-ul KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage IV laryngeal cancer is divided into stages IVA, IVB, and IVC. In stage IVC, cancer has spread to other parts of the body, such as the lungs, liver, or bone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713435" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IVC laryngeal cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713434" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de laringe en estadio IVC&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de laringe en estadio IVC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer de laringe en estadio IV se divide en los
 estadios IVA, IVB y IVC. En el estadio IVC, el cáncer se diseminó a otras partes del
-cuerpo, como el pulmón, el hígado o el hueso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-04-23</DateFirstPublished><DateLastModified>2019-10-02</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258016" url="/types/head-and-neck/patient/adult/laryngeal-treatment-pdq">Laryngeal Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000393556" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-laringe-pdq">Tratamiento del cáncer de laringe</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+cuerpo, como el pulmón, el hígado o el hueso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-04-23</DateFirstPublished>
+  <DateLastModified>2019-10-02</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258016" url="/types/head-and-neck/patient/adult/laryngeal-treatment-pdq">Laryngeal Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000393556" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-laringe-pdq">Tratamiento del cáncer de laringe</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

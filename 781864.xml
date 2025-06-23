@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000781864"><TermName>beta-adrenergic antagonist</TermName><TermPronunciation>(BAY-tuh-A-dreh-NER-jik an-TA-guh-nist)</TermPronunciation><TermDefinition><DefinitionText>A type of drug
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000781864">
+  <TermName>beta-adrenergic antagonist</TermName>
+  <TermPronunciation>(BAY-tuh-A-dreh-NER-jik an-TA-guh-nist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of drug
           that blocks the action of substances, such as adrenaline,
           on nerve cells and causes blood vessels to relax and dilate
           (widen). This allows blood to flow more easily and lowers
@@ -7,7 +12,15 @@
           high blood pressure, chest pain (angina), abnormal heart
           rate (arrhythmia), congestive heart failure, and several
           other conditions. They may also shrink certain types of
-          vascular tumors, such as hemangiomas. Also called beta-adrenergic blocking agent and beta-blocker.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785375" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;beta-adrenergic antagonist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785376" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antagonista adrenérgico beta&quot;" language="es" id="_4"/><SpanishTermName>antagonista adrenérgico beta</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de medicamento que impide
+          vascular tumors, such as hemangiomas. Also called beta-adrenergic blocking agent and beta-blocker.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785375" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;beta-adrenergic antagonist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785376" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antagonista adrenérgico beta&quot;" language="es" id="_4"/>
+  <SpanishTermName>antagonista adrenérgico beta</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de medicamento que impide
 la acción de sustancias, como la adrenalina, en las células
 nerviosas y hace que los vasos sanguíneos se relajen y se
 dilaten (ensanchen), lo que permite que la sangre fluya más
@@ -17,4 +30,9 @@ presión arterial alta, el dolor en el pecho (angina de pecho),
 el ritmo cardíaco anormal (arritmia), la insuficiencia
 cardíaca congestiva y varias otras afecciones. También
 pueden achicar ciertos tipos de tumores vasculares, como
-los hemangiomas. También se llama betabloqueante y bloqueador adrenérgico beta.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-23</DateFirstPublished></GlossaryTerm>
+los hemangiomas. También se llama betabloqueante y bloqueador adrenérgico beta.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-23</DateFirstPublished>
+</GlossaryTerm>

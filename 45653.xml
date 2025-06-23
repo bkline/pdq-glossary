@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000045653"><TermName>compression bandage</TermName><TermPronunciation>(kum-PREH-shun BAN-dij)</TermPronunciation><TermDefinition><DefinitionText>A bandage designed to provide pressure to a particular area.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;compression bandage&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vendaje de compresión&quot;" language="es" id="_4"/><SpanishTermName>vendaje de compresión</SpanishTermName><SpanishTermDefinition><DefinitionText>Vendaje diseñado para presionar o apretar un área en particular. También se llama apósito compresivo, venda compresora y vendaje compresivo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045653">
+  <TermName>compression bandage</TermName>
+  <TermPronunciation>(kum-PREH-shun BAN-dij)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A bandage designed to provide pressure to a particular area.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;compression bandage&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vendaje de compresión&quot;" language="es" id="_4"/>
+  <SpanishTermName>vendaje de compresión</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Vendaje diseñado para presionar o apretar un área en particular. También se llama apósito compresivo, venda compresora y vendaje compresivo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

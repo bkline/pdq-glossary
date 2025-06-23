@@ -1,1 +1,39 @@
-<GlossaryTerm id="CDR0000802447"><TermName>Gavreto</TermName><TermPronunciation>(gav-REH-toh)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with non-small cell lung cancer that has a <GeneName>RET </GeneName> fusion gene and has spread to other parts of the body and adults and children aged 12 years and older with thyroid cancer that has a <GeneName>RET </GeneName> fusion gene, has spread, and needs treatment with systemic therapy. This includes patients whose thyroid cancer did not respond to radioactive iodine.  It is also being studied in the treatment of other types of cancer. Gavreto blocks certain proteins made by the <GeneName>RET</GeneName> fusion gene, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called pralsetinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804470" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gavreto&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gavreto&quot;" language="es" id="_4"/><SpanishTermName>Gavreto</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que tiene un gen de fusión <GeneName>RET</GeneName> y que se diseminó a otras partes del cuerpo. También se usa para adultos y niños de 12 años o más con cáncer de tiroides que tiene un gen de fusión <GeneName>RET</GeneName>, se diseminó y necesita tratamiento con terapia sistémica. Esto incluye a pacientes cuyo cáncer de tiroides no respondió al yodo radiactivo. Además está en estudio para el tratamiento de otros tipos de cáncer. Gavreto bloquea ciertas proteínas que se producen a partir del gen de fusión <GeneName>RET</GeneName> y es posible que esto impida la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama pralsetinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-09-09</DateFirstPublished><DateLastModified>2023-07-06</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000802827" url="/about-cancer/treatment/drugs/pralsetinib">Pralsetinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802447">
+  <TermName>Gavreto</TermName>
+  <TermPronunciation>(gav-REH-toh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with non-small cell lung cancer that has a 
+      <GeneName>RET </GeneName>
+       fusion gene and has spread to other parts of the body and adults and children aged 12 years and older with thyroid cancer that has a 
+      <GeneName>RET </GeneName>
+       fusion gene, has spread, and needs treatment with systemic therapy. This includes patients whose thyroid cancer did not respond to radioactive iodine.  It is also being studied in the treatment of other types of cancer. Gavreto blocks certain proteins made by the 
+      <GeneName>RET</GeneName>
+       fusion gene, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called pralsetinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804470" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gavreto&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gavreto&quot;" language="es" id="_4"/>
+  <SpanishTermName>Gavreto</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con cáncer de pulmón de células no pequeñas que tiene un gen de fusión 
+      <GeneName>RET</GeneName>
+       y que se diseminó a otras partes del cuerpo. También se usa para adultos y niños de 12 años o más con cáncer de tiroides que tiene un gen de fusión 
+      <GeneName>RET</GeneName>
+      , se diseminó y necesita tratamiento con terapia sistémica. Esto incluye a pacientes cuyo cáncer de tiroides no respondió al yodo radiactivo. Además está en estudio para el tratamiento de otros tipos de cáncer. Gavreto bloquea ciertas proteínas que se producen a partir del gen de fusión 
+      <GeneName>RET</GeneName>
+       y es posible que esto impida la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama pralsetinib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-09-09</DateFirstPublished>
+  <DateLastModified>2023-07-06</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000802827" url="/about-cancer/treatment/drugs/pralsetinib">Pralsetinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

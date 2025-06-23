@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045417"><TermName>quality of life</TermName><TermPronunciation>(KWAH-lih-tee ... life)</TermPronunciation><TermDefinition><DefinitionText>The overall enjoyment of life. Many clinical trials assess the effects of cancer and its treatment on the quality of life. These studies measure aspects of an individual’s sense of well-being and ability to carry out activities of daily living.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730957" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quality of life&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730956" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;calidad de vida&quot;" language="es" id="_4"/><SpanishTermName>calidad de vida</SpanishTermName><SpanishTermDefinition><DefinitionText>Disfrute general de la vida. Muchos ensayos clínicos evalúan los efectos del cáncer y su tratamiento en la calidad de vida. En estos estudios se miden aspectos de la sensación de bienestar y la capacidad de una persona para llevar a cabo actividades de la vida diaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-01-30</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045417">
+  <TermName>quality of life</TermName>
+  <TermPronunciation>(KWAH-lih-tee ... life)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The overall enjoyment of life. Many clinical trials assess the effects of cancer and its treatment on the quality of life. These studies measure aspects of an individual’s sense of well-being and ability to carry out activities of daily living.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730957" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quality of life&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730956" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;calidad de vida&quot;" language="es" id="_4"/>
+  <SpanishTermName>calidad de vida</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Disfrute general de la vida. Muchos ensayos clínicos evalúan los efectos del cáncer y su tratamiento en la calidad de vida. En estos estudios se miden aspectos de la sensación de bienestar y la capacidad de una persona para llevar a cabo actividades de la vida diaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-01-30</DateLastModified>
+</GlossaryTerm>

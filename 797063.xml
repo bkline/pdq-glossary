@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000797063"><TermName>computational biology</TermName><TermPronunciation>(kom-pyoo-TAY-shuh-nul by-AH-loh-jee)</TermPronunciation><TermDefinition><DefinitionText>A field of science that uses computers, databases, math, and statistics to collect, store, organize, and analyze large amounts of biological, medical, and health information. Information may come from many sources, including genetic and molecular research studies, patient statistics, tissue specimens, clinical trials, and scientific journals. Also called bioinformatics.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;computational biology&quot;" language="en" id="_4"/><MediaLink ref="CDR0000798837" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biología computacional&quot;" language="es" id="_5"/><SpanishTermName>biología computacional</SpanishTermName><SpanishTermDefinition><DefinitionText>Ciencia que trata del uso de computadoras, bases de datos, matemáticas y estadísticas para reunir, almacenar, organizar y analizar grandes cantidades de información biológica, médica y de salud. La información se obtiene de muchas fuentes, incluso estudios de investigación genética y molecular, estadísticas sobre pacientes, muestras de tejido, ensayos clínicos y revistas científicas. También se llama bioinformática.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-25</DateFirstPublished><DateLastModified>2019-05-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797063">
+  <TermName>computational biology</TermName>
+  <TermPronunciation>(kom-pyoo-TAY-shuh-nul by-AH-loh-jee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A field of science that uses computers, databases, math, and statistics to collect, store, organize, and analyze large amounts of biological, medical, and health information. Information may come from many sources, including genetic and molecular research studies, patient statistics, tissue specimens, clinical trials, and scientific journals. Also called bioinformatics.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;computational biology&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000798837" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biología computacional&quot;" language="es" id="_5"/>
+  <SpanishTermName>biología computacional</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Ciencia que trata del uso de computadoras, bases de datos, matemáticas y estadísticas para reunir, almacenar, organizar y analizar grandes cantidades de información biológica, médica y de salud. La información se obtiene de muchas fuentes, incluso estudios de investigación genética y molecular, estadísticas sobre pacientes, muestras de tejido, ensayos clínicos y revistas científicas. También se llama bioinformática.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-25</DateFirstPublished>
+  <DateLastModified>2019-05-24</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000802378"><TermName>Onureg</TermName><TermPronunciation>(ON-yoo-reg)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient azacitidine and is used to treat adults with certain types of acute myeloid leukemia. It is used in patients whose cancer is in first complete remission after intensive induction chemotherapy and who were not able to finish intensive therapy that would cure their cancer. Onureg stops cells from making DNA and may kill cancer cells. It is a type of antimetabolite.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000804466" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Onureg&quot;" language="en" id="_3"/><MediaLink ref="CDR0000804467" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Onureg&quot;" language="es" id="_4"/><SpanishTermName>Onureg</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el ingrediente activo azacitidina y que se usa para el tratamiento de adultos con ciertos tipos de leucemia mieloide aguda. Se utiliza en pacientes cuyo cáncer  está en   primera remisión completa después de recibir quimioterapia de inducción intensiva y que no pudieron terminar el tratamiento intensivo para curar  el cáncer. Onureg impide que las células elaboren ADN y es posible que destruya células cancerosas. Es un tipo de antimetabolito.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-09-07</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000496239" url="/about-cancer/treatment/drugs/azacitidine">Azacitidine</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802378">
+  <TermName>Onureg</TermName>
+  <TermPronunciation>(ON-yoo-reg)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient azacitidine and is used to treat adults with certain types of acute myeloid leukemia. It is used in patients whose cancer is in first complete remission after intensive induction chemotherapy and who were not able to finish intensive therapy that would cure their cancer. Onureg stops cells from making DNA and may kill cancer cells. It is a type of antimetabolite.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000804466" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Onureg&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000804467" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Onureg&quot;" language="es" id="_4"/>
+  <SpanishTermName>Onureg</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el ingrediente activo azacitidina y que se usa para el tratamiento de adultos con ciertos tipos de leucemia mieloide aguda. Se utiliza en pacientes cuyo cáncer  está en   primera remisión completa después de recibir quimioterapia de inducción intensiva y que no pudieron terminar el tratamiento intensivo para curar  el cáncer. Onureg impide que las células elaboren ADN y es posible que destruya células cancerosas. Es un tipo de antimetabolito.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-09-07</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000496239" url="/about-cancer/treatment/drugs/azacitidine">Azacitidine</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000045490"><TermName>stage II pancreatic cancer</TermName><TermPronunciation>(... PAN-kree-A-tik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage II is divided into stages IIA and IIB, depending on the size of the tumor and where the cancer has spread. In stage IIA, the tumor is larger than 4 centimeters. In stage IIB, the tumor is any size and cancer has spread to 1 to 3 nearby lymph nodes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II pancreatic cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de páncreas en estadio II&quot;" language="es" id="_4"/><MediaLink ref="CDR0000687932" type="image/jpeg" alt="Stage IIA pancreatic cancer; drawing shows cancer in the pancreas and the tumor is larger than 4 centimeters. An inset shows 4 centimeters is about the size of a walnut." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Stage IIA pancreatic cancer. The tumor is larger than 4 centimeters.</Caption></MediaLink><MediaLink ref="CDR0000742418" type="image/jpeg" alt="Stage IIB pancreatic cancer; drawing shows cancer in the pancreas and in 1 to 3 nearby lymph nodes." language="en" audience="Patients" placement="image-center" id="_4"><Caption language="en">Stage IIB pancreatic cancer. The tumor is any size and cancer has spread to 1 to 3 nearby lymph nodes.</Caption></MediaLink><MediaLink ref="CDR0000743862" type="image/jpeg" alt="Cáncer de páncreas en estadio llA; en la imagen, se observa el cáncer en el páncreas y el tumor mide más de 4 cm. En el recuadro, se observa que 4 cm es casi el tamaño de una nuez." language="es" audience="Patients" placement="image-center" id="_5"><Caption language="es">Cáncer de páncreas en estadio llA. El tumor mide más de 4 cm.</Caption></MediaLink><MediaLink ref="CDR0000743864" type="image/jpeg" alt="Cáncer de páncreas en estadio llB; en la imagen, se observa cáncer en el páncreas y en 1 a 3 ganglios linfáticos cercanos." language="es" audience="Patients" placement="image-center" id="_6"><Caption language="es">Cáncer de páncreas en estadio IIB. El tumor es de cualquier tamaño y el cáncer se diseminó hasta 1 a 3  ganglios linfáticos cercanos.</Caption></MediaLink><SpanishTermName>cáncer de páncreas en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio II se divide en los estadios IIA y IIB de acuerdo con el tamaño del tumor y el lugar hasta donde se diseminó el cáncer. En el estadio IIA, el tumor mide más de 4 cm. En el estadio IIB, el tumor es de cualquier tamaño y el cáncer se diseminó hasta 1 a 3 ganglios linfáticos cercanos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-05-20</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062957" url="/types/pancreatic/patient/pancreatic-treatment-pdq">Pancreatic Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256768" url="/espanol/tipos/pancreas/paciente/tratamiento-pancreas-pdq">Tratamiento del cáncer de páncreas</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045490">
+  <TermName>stage II pancreatic cancer</TermName>
+  <TermPronunciation>(... PAN-kree-A-tik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage II is divided into stages IIA and IIB, depending on the size of the tumor and where the cancer has spread. In stage IIA, the tumor is larger than 4 centimeters. In stage IIB, the tumor is any size and cancer has spread to 1 to 3 nearby lymph nodes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705532" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II pancreatic cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705533" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de páncreas en estadio II&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000687932" type="image/jpeg" alt="Stage IIA pancreatic cancer; drawing shows cancer in the pancreas and the tumor is larger than 4 centimeters. An inset shows 4 centimeters is about the size of a walnut." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Stage IIA pancreatic cancer. The tumor is larger than 4 centimeters.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000742418" type="image/jpeg" alt="Stage IIB pancreatic cancer; drawing shows cancer in the pancreas and in 1 to 3 nearby lymph nodes." language="en" audience="Patients" placement="image-center" id="_4">
+    <Caption language="en">Stage IIB pancreatic cancer. The tumor is any size and cancer has spread to 1 to 3 nearby lymph nodes.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000743862" type="image/jpeg" alt="Cáncer de páncreas en estadio llA; en la imagen, se observa el cáncer en el páncreas y el tumor mide más de 4 cm. En el recuadro, se observa que 4 cm es casi el tamaño de una nuez." language="es" audience="Patients" placement="image-center" id="_5">
+    <Caption language="es">Cáncer de páncreas en estadio llA. El tumor mide más de 4 cm.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000743864" type="image/jpeg" alt="Cáncer de páncreas en estadio llB; en la imagen, se observa cáncer en el páncreas y en 1 a 3 ganglios linfáticos cercanos." language="es" audience="Patients" placement="image-center" id="_6">
+    <Caption language="es">Cáncer de páncreas en estadio IIB. El tumor es de cualquier tamaño y el cáncer se diseminó hasta 1 a 3  ganglios linfáticos cercanos.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de páncreas en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio II se divide en los estadios IIA y IIB de acuerdo con el tamaño del tumor y el lugar hasta donde se diseminó el cáncer. En el estadio IIA, el tumor mide más de 4 cm. En el estadio IIB, el tumor es de cualquier tamaño y el cáncer se diseminó hasta 1 a 3 ganglios linfáticos cercanos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-05-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062957" url="/types/pancreatic/patient/pancreatic-treatment-pdq">Pancreatic Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256768" url="/espanol/tipos/pancreas/paciente/tratamiento-pancreas-pdq">Tratamiento del cáncer de páncreas</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

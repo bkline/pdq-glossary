@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000662959"><TermName>CDK inhibitor SCH 727965</TermName><TermPronunciation>(… in-HIH-bih-ter …)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of advanced melanoma (a type of skin cancer) and other types of cancer. It blocks cell division and may cause cancer cells to die. It is a type of cyclin-dependent kinase inhibitor. Also called dinaciclib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000726182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CDK inhibitor SCH 727965&quot;" language="en" id="_3"/><MediaLink ref="CDR0000726183" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de CDK SCH 727965&quot;" language="es" id="_4"/><SpanishTermName>inhibidor de CDK SCH 727965</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento del melanoma (tipo de cáncer de piel) en estadio avanzado y otros tipos de cáncer. Impide la división de las células y es posible que destruya células cancerosas. Es un tipo de inhibidor de cinasas dependientes de ciclinas.  También se llama dinaciclib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-05-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000662959">
+  <TermName>CDK inhibitor SCH 727965</TermName>
+  <TermPronunciation>(… in-HIH-bih-ter …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of advanced melanoma (a type of skin cancer) and other types of cancer. It blocks cell division and may cause cancer cells to die. It is a type of cyclin-dependent kinase inhibitor. Also called dinaciclib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000726182" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CDK inhibitor SCH 727965&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000726183" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de CDK SCH 727965&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor de CDK SCH 727965</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento del melanoma (tipo de cáncer de piel) en estadio avanzado y otros tipos de cáncer. Impide la división de las células y es posible que destruya células cancerosas. Es un tipo de inhibidor de cinasas dependientes de ciclinas.  También se llama dinaciclib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-05-26</DateFirstPublished>
+</GlossaryTerm>

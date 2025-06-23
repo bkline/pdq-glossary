@@ -1,3 +1,26 @@
-<GlossaryTerm id="CDR0000446188"><TermName>stage II salivary gland cancer</TermName><TermPronunciation>(...SA-lih-VAYR-ee gland KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is in
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000446188">
+  <TermName>stage II salivary gland cancer</TermName>
+  <TermPronunciation>(...SA-lih-VAYR-ee gland KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is in
           the salivary gland only and is larger than 2 centimeters
-          but not larger than 4 centimeters.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000714704" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II salivary gland cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000714705" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de glándulas salivales en estadio II&quot;" language="es" id="_4"/><SpanishTermName>cáncer de glándulas salivales en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio II, el tumor solo está en las glándulas salivales y mide más de 2 cm, pero no más de 4 cm.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-06-30</DateFirstPublished><DateLastModified>2019-01-09</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258034" url="/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000530606" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq">Tratamiento del cáncer de glándulas salivales</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+          but not larger than 4 centimeters.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000714704" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II salivary gland cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000714705" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de glándulas salivales en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de glándulas salivales en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio II, el tumor solo está en las glándulas salivales y mide más de 2 cm, pero no más de 4 cm.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-06-30</DateFirstPublished>
+  <DateLastModified>2019-01-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258034" url="/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000530606" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq">Tratamiento del cáncer de glándulas salivales</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

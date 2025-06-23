@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044933"><TermName>ovulation</TermName><TermPronunciation>(ov-yoo-LAY-shun)</TermPronunciation><TermDefinition><DefinitionText>The release of an egg from an ovary during the menstrual cycle.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706164" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovulation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706165" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovulación&quot;" language="es" id="_4"/><SpanishTermName>ovulación</SpanishTermName><SpanishTermDefinition><DefinitionText>Liberación de un óvulo de un ovario durante el ciclo menstrual.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044933">
+  <TermName>ovulation</TermName>
+  <TermPronunciation>(ov-yoo-LAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The release of an egg from an ovary during the menstrual cycle.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706164" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovulation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706165" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovulación&quot;" language="es" id="_4"/>
+  <SpanishTermName>ovulación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Liberación de un óvulo de un ovario durante el ciclo menstrual.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

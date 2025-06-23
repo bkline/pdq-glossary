@@ -1,1 +1,32 @@
-<GlossaryTerm id="CDR0000321386"><TermName>pomegranate</TermName><TermPronunciation>(PAH-meh-GRA-nut)</TermPronunciation><TermDefinition><DefinitionText>A subtropical shrub or tree. Juice from the fruit may contain substances that decrease or slow the rise of prostate-specific antigen (PSA) levels. It is being studied for its ability to delay or prevent recurrent prostate cancer. The scientific name is <ScientificName>Punica granatum</ScientificName>.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731822" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pomegranate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731823" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;granado&quot;" language="es" id="_4"/><SpanishTermName>granado</SpanishTermName><SpanishTermDefinition><DefinitionText>Arbusto o árbol subtropical. Es posible que el jugo de la granada (fruto de este árbol) contenga sustancias que disminuyan la concentración del antígeno prostático específico o hagan que su aumento sea más lento. Está en estudio por su capacidad para demorar o prevenir la recidiva del cáncer de próstata. El nombre científico del granado es <ScientificName>Punica granatum</ScientificName>.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2008-01-10</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000719565" url="/about-cancer/treatment/cam/patient/prostate-supplements-pdq">Prostate Cancer, Nutrition, and Dietary Supplements</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000773657" url="/espanol/cancer/tratamiento/mca/paciente/prostata-suplementos-pdq">Cáncer de próstata, nutrición y suplementos alimenticios</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000321386">
+  <TermName>pomegranate</TermName>
+  <TermPronunciation>(PAH-meh-GRA-nut)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A subtropical shrub or tree. Juice from the fruit may contain substances that decrease or slow the rise of prostate-specific antigen (PSA) levels. It is being studied for its ability to delay or prevent recurrent prostate cancer. The scientific name is 
+      <ScientificName>Punica granatum</ScientificName>
+      .
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731822" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pomegranate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731823" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;granado&quot;" language="es" id="_4"/>
+  <SpanishTermName>granado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Arbusto o árbol subtropical. Es posible que el jugo de la granada (fruto de este árbol) contenga sustancias que disminuyan la concentración del antígeno prostático específico o hagan que su aumento sea más lento. Está en estudio por su capacidad para demorar o prevenir la recidiva del cáncer de próstata. El nombre científico del granado es 
+      <ScientificName>Punica granatum</ScientificName>
+      .
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2008-01-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000719565" url="/about-cancer/treatment/cam/patient/prostate-supplements-pdq">Prostate Cancer, Nutrition, and Dietary Supplements</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000773657" url="/espanol/cancer/tratamiento/mca/paciente/prostata-suplementos-pdq">Cáncer de próstata, nutrición y suplementos alimenticios</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

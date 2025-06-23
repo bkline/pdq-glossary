@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000373085"><TermName>laxative</TermName><TermPronunciation>(LAK-suh-tiv)</TermPronunciation><TermDefinition><DefinitionText>A substance that promotes bowel movements.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laxative&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711233" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laxante&quot;" language="es" id="_4"/><SpanishTermName>laxante</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que estimula las evacuaciones intestinales. También se llama evacuativo, laxativo, purgante y purgativo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-05-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000373085">
+  <TermName>laxative</TermName>
+  <TermPronunciation>(LAK-suh-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that promotes bowel movements.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711232" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laxative&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711233" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;laxante&quot;" language="es" id="_4"/>
+  <SpanishTermName>laxante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que estimula las evacuaciones intestinales. También se llama evacuativo, laxativo, purgante y purgativo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-05-28</DateFirstPublished>
+</GlossaryTerm>

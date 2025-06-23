@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045722"><TermName>immune response</TermName><TermPronunciation>(ih-MYOON reh-SPONTS)</TermPronunciation><TermDefinition><DefinitionText>The way the body defends itself against substances it sees as harmful or foreign. In an immune response, the immune system recognizes the antigens (usually proteins) on the surface of substances or microorganisms, such as bacteria or viruses, and attacks and destroys, or tries to destroy, them. Cancer cells also have antigens on their surface. Sometimes, the immune system sees these antigens as foreign and mounts an immune response against them. This helps the body fight cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707141" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immune response&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707142" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;respuesta inmunitaria&quot;" language="es" id="_4"/><SpanishTermName>respuesta inmunitaria</SpanishTermName><SpanishTermDefinition><DefinitionText>Mecanismo de defensa del cuerpo contra sustancias que considera  dañinas o extrañas. Durante esta respuesta el sistema inmunitario reconoce y ataca los antígenos superficiales (por lo general, proteínas) de sustancias o microorganismos, como bacterias o virus, de manera que los ataca y en ocasiones los  destruye. Las células cancerosas también tienen antígenos en su superficie, por ello el sistema inmunitario a veces los reconoce como antígenos extraños y produce una respuesta inmunitaria contra las células cancerosas que ayuda a combatir el cáncer. También se llama reacción inmunitaria y respuesta inmunológica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-04-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045722">
+  <TermName>immune response</TermName>
+  <TermPronunciation>(ih-MYOON reh-SPONTS)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The way the body defends itself against substances it sees as harmful or foreign. In an immune response, the immune system recognizes the antigens (usually proteins) on the surface of substances or microorganisms, such as bacteria or viruses, and attacks and destroys, or tries to destroy, them. Cancer cells also have antigens on their surface. Sometimes, the immune system sees these antigens as foreign and mounts an immune response against them. This helps the body fight cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707141" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;immune response&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707142" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;respuesta inmunitaria&quot;" language="es" id="_4"/>
+  <SpanishTermName>respuesta inmunitaria</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Mecanismo de defensa del cuerpo contra sustancias que considera  dañinas o extrañas. Durante esta respuesta el sistema inmunitario reconoce y ataca los antígenos superficiales (por lo general, proteínas) de sustancias o microorganismos, como bacterias o virus, de manera que los ataca y en ocasiones los  destruye. Las células cancerosas también tienen antígenos en su superficie, por ello el sistema inmunitario a veces los reconoce como antígenos extraños y produce una respuesta inmunitaria contra las células cancerosas que ayuda a combatir el cáncer. También se llama reacción inmunitaria y respuesta inmunológica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-04-21</DateLastModified>
+</GlossaryTerm>

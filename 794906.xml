@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000794906"><TermName>Marfan syndrome</TermName><TermPronunciation>(MAR-fan SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A genetic
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794906">
+  <TermName>Marfan syndrome</TermName>
+  <TermPronunciation>(MAR-fan SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic
           condition that affects the connective tissue in many organs
           and tissues in the body, especially the heart, eyes, bones,
           joints, and blood vessels, including the aorta. People with
@@ -9,5 +14,28 @@
           stretch marks in the skin, and chest abnormalities. Marfan
           syndrome may be inherited (passed from parent to child) and
           is caused by a mutation (change) in a gene called
-          FBN1.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Marfan syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797275" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Marfan&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Marfan</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética que afecta el tejido conjuntivo de muchos órganos del cuerpo; en especial, el corazón, los ojos, los huesos, las articulaciones y los vasos sanguíneos, como la aorta. Las personas con síndrome de Marfan suelen ser altas y delgadas; además, tienen brazos, piernas y dedos de pies y manos muy largos. También, presentan problemas cardiacos y visuales. Otros signos y síntomas comunes incluyen una cara larga y estrecha, dientes apiñados, columna vertebral curvada, articulaciones elásticas, estrías en la piel y anomalías en el tórax. El síndrome de Marfan a veces es hereditario (pasa de padres a hijos) y la causa es una mutación (cambio) en el gen <GeneName>FBN1</GeneName>.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-31</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6975/marfan-syndrome">Marfan syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/marfan-syndrome/">Marfan syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13207/sindrome-de-marfan">Síndrome de Marfan
- (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/marfansyndrome.html">Síndrome de Marfan (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+          FBN1.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Marfan syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797275" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Marfan&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Marfan</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Alteración genética que afecta el tejido conjuntivo de muchos órganos del cuerpo; en especial, el corazón, los ojos, los huesos, las articulaciones y los vasos sanguíneos, como la aorta. Las personas con síndrome de Marfan suelen ser altas y delgadas; además, tienen brazos, piernas y dedos de pies y manos muy largos. También, presentan problemas cardiacos y visuales. Otros signos y síntomas comunes incluyen una cara larga y estrecha, dientes apiñados, columna vertebral curvada, articulaciones elásticas, estrías en la piel y anomalías en el tórax. El síndrome de Marfan a veces es hereditario (pasa de padres a hijos) y la causa es una mutación (cambio) en el gen 
+      <GeneName>FBN1</GeneName>
+      .
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-31</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6975/marfan-syndrome">Marfan syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/marfan-syndrome/">Marfan syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13207/sindrome-de-marfan">Síndrome de Marfan
+ (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/marfansyndrome.html">Síndrome de Marfan (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

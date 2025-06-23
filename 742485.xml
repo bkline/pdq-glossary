@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000742485"><TermName>PET-CT scan</TermName><TermPronunciation>(… skan)</TermPronunciation><TermDefinition><DefinitionText>A procedure that combines the pictures from a positron emission tomography (PET) scan and a computed tomography (CT) scan. The PET and CT scans are done at the same time with the same machine. The combined scans give more detailed pictures of areas inside the body than either scan gives by itself. A PET-CT scan may be used to help diagnose disease, such as cancer, plan treatment, or find out how well treatment is working. Also called positron emission tomography-computed tomography scan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000746305" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PET-CT scan&quot;" language="en" id="_3"/><SpanishTermName>TEP-TC</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se combinan las imágenes de una tomografía por emisión de positrones (TEP) con las de una tomografía computarizada (TC). La TEP y la TC se realizan a la misma vez y con la misma máquina. Las tomografías combinadas producen imágenes más detalladas de áreas del interior del cuerpo que cuando se realizan por separado. Una TEP-TC se usa para ayudar en el diagnóstico de una enfermedad como el cáncer, planificar el tratamiento o determinar si este es eficaz. También se llama PET-CT, tomografía PET-CT y tomografía por emisión de positrones-tomografía computarizada.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-01-15</DateFirstPublished><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/diagnosis-staging/ct-scans-fact-sheet" UseWith="en">Computed Tomography (CT) Scans and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/hoja-informativa-tomografia-computarizada">Exploraciones con tomografía computarizada (TC) para el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000742485">
+  <TermName>PET-CT scan</TermName>
+  <TermPronunciation>(… skan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure that combines the pictures from a positron emission tomography (PET) scan and a computed tomography (CT) scan. The PET and CT scans are done at the same time with the same machine. The combined scans give more detailed pictures of areas inside the body than either scan gives by itself. A PET-CT scan may be used to help diagnose disease, such as cancer, plan treatment, or find out how well treatment is working. Also called positron emission tomography-computed tomography scan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000746305" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PET-CT scan&quot;" language="en" id="_3"/>
+  <SpanishTermName>TEP-TC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento para el que se combinan las imágenes de una tomografía por emisión de positrones (TEP) con las de una tomografía computarizada (TC). La TEP y la TC se realizan a la misma vez y con la misma máquina. Las tomografías combinadas producen imágenes más detalladas de áreas del interior del cuerpo que cuando se realizan por separado. Una TEP-TC se usa para ayudar en el diagnóstico de una enfermedad como el cáncer, planificar el tratamiento o determinar si este es eficaz. También se llama PET-CT, tomografía PET-CT y tomografía por emisión de positrones-tomografía computarizada.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-01-15</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/diagnosis-staging/ct-scans-fact-sheet" UseWith="en">Computed Tomography (CT) Scans and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/hoja-informativa-tomografia-computarizada">Exploraciones con tomografía computarizada (TC) para el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

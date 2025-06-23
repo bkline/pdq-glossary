@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000512797"><TermName>Doxil</TermName><TermPronunciation>(DOK-sil)</TermPronunciation><TermDefinition><DefinitionText>A form of the anticancer drug doxorubicin that is contained inside very tiny, fat-like particles and is used alone or with other drugs to treat certain types of ovarian cancer, AIDS-related Kaposi sarcoma, and multiple myeloma. Doxil  may have fewer side effects and work better than other forms of doxorubicin hydrochloride. It is also being studied in the treatment of other types of cancer.  Doxil is a type of anthracycline antibiotic and a type of topoisomerase inhibitor. Also called doxorubicin hydrochloride liposome and liposomal doxorubicin hydrochloride.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718293" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Doxil&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718292" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Doxil&quot;" language="es" id="_4"/><SpanishTermName>Doxil</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma del medicamento anticanceroso doxorrubicina que se empaca en partículas diminutas parecidas  a la grasa, y que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de ovario, sarcoma de Kaposi relacionado con el SIDA y mieloma múltiple. Es posible que Doxil produzca menos efectos secundarios y tal vez sea más eficaz que otras formas de clorhidrato de doxorrubicina. También está en estudio para el tratamiento de otros tipos de cáncer. Doxil es un antibiótico de tipo antraciclina y es un tipo de inhibidor de la topoisomerasa. También se llama clorhidrato de doxorrubicina liposomal y liposoma de clorhidrato de doxorrubicina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-10-14</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000544235" url="/about-cancer/treatment/drugs/doxorubicin-hydrochloride-liposome">Doxorubicin Hydrochloride Liposome</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000512797">
+  <TermName>Doxil</TermName>
+  <TermPronunciation>(DOK-sil)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A form of the anticancer drug doxorubicin that is contained inside very tiny, fat-like particles and is used alone or with other drugs to treat certain types of ovarian cancer, AIDS-related Kaposi sarcoma, and multiple myeloma. Doxil  may have fewer side effects and work better than other forms of doxorubicin hydrochloride. It is also being studied in the treatment of other types of cancer.  Doxil is a type of anthracycline antibiotic and a type of topoisomerase inhibitor. Also called doxorubicin hydrochloride liposome and liposomal doxorubicin hydrochloride.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718293" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Doxil&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718292" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Doxil&quot;" language="es" id="_4"/>
+  <SpanishTermName>Doxil</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma del medicamento anticanceroso doxorrubicina que se empaca en partículas diminutas parecidas  a la grasa, y que se usa solo o con otros medicamentos para el tratamiento de ciertos tipos de cáncer de ovario, sarcoma de Kaposi relacionado con el SIDA y mieloma múltiple. Es posible que Doxil produzca menos efectos secundarios y tal vez sea más eficaz que otras formas de clorhidrato de doxorrubicina. También está en estudio para el tratamiento de otros tipos de cáncer. Doxil es un antibiótico de tipo antraciclina y es un tipo de inhibidor de la topoisomerasa. También se llama clorhidrato de doxorrubicina liposomal y liposoma de clorhidrato de doxorrubicina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-10-14</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000544235" url="/about-cancer/treatment/drugs/doxorubicin-hydrochloride-liposome">Doxorubicin Hydrochloride Liposome</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

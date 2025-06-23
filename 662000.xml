@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000662000"><TermName>messenger RNA</TermName><TermPronunciation>(MEH-sen-jer …)</TermPronunciation><TermDefinition><DefinitionText>A type of RNA found in cells. Messenger RNA molecules carry the genetic information needed to make proteins.  They carry the information from the DNA in the nucleus of the cell to the cytoplasm where the proteins are made. Also called mRNA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725766" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;messenger RNA&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725765" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ARN mensajero&quot;" language="es" id="_5"/><SpanishTermName>ARN mensajero</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de ARN que se encuentra en las células. El ARN mensajero tiene la información genética que se necesita para elaborar las proteínas y lleva esta información desde el ADN en el núcleo de la célula al citoplasma donde se elaboran las proteínas. También se llama ARNm y RNA mensajero.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-04-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000662000">
+  <TermName>messenger RNA</TermName>
+  <TermPronunciation>(MEH-sen-jer …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of RNA found in cells. Messenger RNA molecules carry the genetic information needed to make proteins.  They carry the information from the DNA in the nucleus of the cell to the cytoplasm where the proteins are made. Also called mRNA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725766" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;messenger RNA&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725765" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ARN mensajero&quot;" language="es" id="_5"/>
+  <SpanishTermName>ARN mensajero</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de ARN que se encuentra en las células. El ARN mensajero tiene la información genética que se necesita para elaborar las proteínas y lleva esta información desde el ADN en el núcleo de la célula al citoplasma donde se elaboran las proteínas. También se llama ARNm y RNA mensajero.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-04-07</DateFirstPublished>
+</GlossaryTerm>

@@ -1,8 +1,41 @@
-<GlossaryTerm id="CDR0000802880"><TermName>CDK4 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802880">
+  <TermName>CDK4 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that
           makes a protein involved in the cell cycle (the process a
           cell goes through each time it divides). Mutations
-          (changes) in the <GeneName>CDK4</GeneName> gene may cause
+          (changes) in the 
+      <GeneName>CDK4</GeneName>
+       gene may cause
           cells to divide too quickly or in an uncontrolled way. This
           may cause abnormal cells, including cancer cells, to grow.
-          <GeneName>CDK4</GeneName> gene mutations have been found in
-          melanoma and in other types of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CDK4 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen CDK4&quot;" language="es" id="_4"/><SpanishTermName>gen CDK4</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en el ciclo celular (proceso por el que pasa una célula cada vez que se divide). Es posible que las mutaciones (cambios) en el gen <GeneName>CDK4</GeneName> hagan que las células se dividan demasiado rápido o de manera descontrolada. En ocasiones, esto causa la multiplicación de células anormales, incluso células cancerosas. Se han encontrado mutaciones del gen <GeneName>CDK4</GeneName> en el melanoma y en otros tipos de cáncer. El gen <GeneName>CDK4</GeneName> es un tipo de gen de proteína cinasa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-23</DateFirstPublished><DateLastModified>2021-02-19</DateLastModified></GlossaryTerm>
+          
+      <GeneName>CDK4</GeneName>
+       gene mutations have been found in
+          melanoma and in other types of cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805213" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CDK4 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805214" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen CDK4&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen CDK4</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en el ciclo celular (proceso por el que pasa una célula cada vez que se divide). Es posible que las mutaciones (cambios) en el gen 
+      <GeneName>CDK4</GeneName>
+       hagan que las células se dividan demasiado rápido o de manera descontrolada. En ocasiones, esto causa la multiplicación de células anormales, incluso células cancerosas. Se han encontrado mutaciones del gen 
+      <GeneName>CDK4</GeneName>
+       en el melanoma y en otros tipos de cáncer. El gen 
+      <GeneName>CDK4</GeneName>
+       es un tipo de gen de proteína cinasa.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-23</DateFirstPublished>
+  <DateLastModified>2021-02-19</DateLastModified>
+</GlossaryTerm>

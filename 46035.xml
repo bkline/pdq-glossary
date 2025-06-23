@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046035"><TermName>phyllodes tumor</TermName><TermPronunciation>(fih-LOH-deez TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A rare tumor that usually forms in the connective tissue of the breast. Phyllodes tumors tend to grow quickly and get large, but they rarely spread to other parts of the body. Most are benign (not cancer), but some may be malignant (cancer) or borderline (in between benign and malignant). Phyllodes tumors are usually removed by surgery, but they can come back. They are most common in women between 40 and 50 years of age. Also called CSP and cystosarcoma phyllodes of the breast.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708048" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phyllodes tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708047" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor filoides&quot;" language="es" id="_4"/><SpanishTermName>tumor filoides</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor raro que, por lo general, se forma en el tejido conjuntivo de la mama (seno). Aunque los tumores filoides tienden a crecer rápido y a aumentar de tamaño, es infrecuente que se diseminen a otras partes del cuerpo. La mayoría son benignos (no cancerosos), pero es posible que algunos sean malignos (cancerosos) o de escasa malignidad (entre benignos y malignos).  A pesar de que se suelen extirpar mediante cirugía,  pueden volver o reaparecer. Son más frecuentes en las mujeres de entre 40 y 50 años. También se llama cistosarcoma filoides de mama y CSF.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-10-13</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046035">
+  <TermName>phyllodes tumor</TermName>
+  <TermPronunciation>(fih-LOH-deez TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare tumor that usually forms in the connective tissue of the breast. Phyllodes tumors tend to grow quickly and get large, but they rarely spread to other parts of the body. Most are benign (not cancer), but some may be malignant (cancer) or borderline (in between benign and malignant). Phyllodes tumors are usually removed by surgery, but they can come back. They are most common in women between 40 and 50 years of age. Also called CSP and cystosarcoma phyllodes of the breast.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708048" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;phyllodes tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708047" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor filoides&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor filoides</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor raro que, por lo general, se forma en el tejido conjuntivo de la mama (seno). Aunque los tumores filoides tienden a crecer rápido y a aumentar de tamaño, es infrecuente que se diseminen a otras partes del cuerpo. La mayoría son benignos (no cancerosos), pero es posible que algunos sean malignos (cancerosos) o de escasa malignidad (entre benignos y malignos).  A pesar de que se suelen extirpar mediante cirugía,  pueden volver o reaparecer. Son más frecuentes en las mujeres de entre 40 y 50 años. También se llama cistosarcoma filoides de mama y CSF.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-10-13</DateLastModified>
+</GlossaryTerm>

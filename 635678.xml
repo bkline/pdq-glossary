@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000635678"><TermName>ABVD</TermName><TermDefinition><DefinitionText>An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vinblastine sulfate, and dacarbazine. Also called ABVD regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>ABVD</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del linfoma de Hodgkin. Incluye los medicamentos clorhidrato de doxorrubicina (Adriamycin), sulfato de bleomicina, sulfato de  vinblastina y dacarbazina. También se llama régimen ABVD.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-02-20</DateFirstPublished><DateLastModified>2010-05-05</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000632567" url="/about-cancer/treatment/drugs/ABVD">ABVD</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000635678">
+  <TermName>ABVD</TermName>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vinblastine sulfate, and dacarbazine. Also called ABVD regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>ABVD</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del linfoma de Hodgkin. Incluye los medicamentos clorhidrato de doxorrubicina (Adriamycin), sulfato de bleomicina, sulfato de  vinblastina y dacarbazina. También se llama régimen ABVD.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-02-20</DateFirstPublished>
+  <DateLastModified>2010-05-05</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000632567" url="/about-cancer/treatment/drugs/ABVD">ABVD</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

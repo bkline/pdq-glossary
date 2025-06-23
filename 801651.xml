@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000801651"><TermName>Qinlock</TermName><TermPronunciation>(KIN-lok)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with advanced gastrointestinal stromal tumor. It is used in patients whose cancer was already treated with at least three other kinase inhibitors, including imatinib mesylate. It is also being studied in the treatment of other types of cancer. Qinlock blocks certain proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called ripretinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802735" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Qinlock&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802736" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Qinlock&quot;" language="es" id="_4"/><SpanishTermName>Qinlock</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para  el tratamiento de adultos con tumor de estroma gastrointestinal en estadio avanzado. Se utiliza en pacientes cuyo cáncer se trató con por lo menos otros tres inhibidores de cinasas, entre ellos, el mesilato de imatinib. También está en estudio para el tratamiento de otros tipos de cáncer. Qinlock bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama ripretinib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-21</DateFirstPublished><DateLastModified>2021-10-22</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000801660" url="/about-cancer/treatment/drugs/ripretinib">Ripretinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000801651">
+  <TermName>Qinlock</TermName>
+  <TermPronunciation>(KIN-lok)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with advanced gastrointestinal stromal tumor. It is used in patients whose cancer was already treated with at least three other kinase inhibitors, including imatinib mesylate. It is also being studied in the treatment of other types of cancer. Qinlock blocks certain proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called ripretinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802735" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Qinlock&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802736" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Qinlock&quot;" language="es" id="_4"/>
+  <SpanishTermName>Qinlock</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para  el tratamiento de adultos con tumor de estroma gastrointestinal en estadio avanzado. Se utiliza en pacientes cuyo cáncer se trató con por lo menos otros tres inhibidores de cinasas, entre ellos, el mesilato de imatinib. También está en estudio para el tratamiento de otros tipos de cáncer. Qinlock bloquea ciertas proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama ripretinib.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-21</DateFirstPublished>
+  <DateLastModified>2021-10-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000801660" url="/about-cancer/treatment/drugs/ripretinib">Ripretinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

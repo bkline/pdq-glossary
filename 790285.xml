@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000790285"><TermName>daunorubicin hydrochloride and cytarabine liposome</TermName><TermPronunciation>(DAW-noh-ROO-bih-sin HY-droh-KLOR-ide … sy-TAYR-uh-been LY-poh-some)</TermPronunciation><TermDefinition><DefinitionText>A form of the
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790285">
+  <TermName>daunorubicin hydrochloride and cytarabine liposome</TermName>
+  <TermPronunciation>(DAW-noh-ROO-bih-sin HY-droh-KLOR-ide … sy-TAYR-uh-been LY-poh-some)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A form of the
           anticancer drugs daunorubicin hydrochloride and cytarabine
           that is contained inside very tiny, fat-like particles and
           is used to treat adults with certain types of newly
@@ -8,10 +13,27 @@
           is also being studied in the treatment of other types of
           cancer. Daunorubicin hydrochloride and cytarabine liposome is a type of
           anthracycline antibiotic, a type of topoisomerase
-          inhibitor, and a type of antimetabolite. Also called Vyxeos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791469" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;daunorubicin hydrochloride and cytarabine liposome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791468" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposoma de clorhidrato de daunorrubicina y citarabina&quot;" language="es" id="_4"/><SpanishTermName>liposoma de clorhidrato de daunorrubicina y citarabina</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma de los medicamentos
+          inhibitor, and a type of antimetabolite. Also called Vyxeos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791469" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;daunorubicin hydrochloride and cytarabine liposome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791468" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposoma de clorhidrato de daunorrubicina y citarabina&quot;" language="es" id="_4"/>
+  <SpanishTermName>liposoma de clorhidrato de daunorrubicina y citarabina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de los medicamentos
 anticancerosos clorhidrato de daunorrubicina y citarabina
 que se empaca  en partículas diminutas parecidas a la grasa. Se usa para el tratamiento de adultos con ciertos tipos de leucemia mieloide aguda recién
 diagnosticada. El liposoma de clorhidrato de daunorrubicina y citarabina quizás produzca menos efectos secundarios y es posible que sea más eficaz que otras formas del medicamento. También está en estudio para el tratamiento
 de otros tipos de cáncer. El liposoma de clorhidrato de daunorrubicina y citarabina es un antibiótico 
 de tipo antraciclina, un tipo de  inhibidor de la topoisomerasa y un tipo de
-antimetabolito. También se llama Vyxeos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-19</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000790948" url="/about-cancer/treatment/drugs/daunorubicinhydrochlorideandcytarabineliposome">Daunorubicin Hydrochloride and Cytarabine Liposome</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+antimetabolito. También se llama Vyxeos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-19</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000790948" url="/about-cancer/treatment/drugs/daunorubicinhydrochlorideandcytarabineliposome">Daunorubicin Hydrochloride and Cytarabine Liposome</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

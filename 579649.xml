@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000579649"><TermName>Zevalin</TermName><TermPronunciation>(ZEH-vuh-lin)</TermPronunciation><TermDefinition><DefinitionText>A drug used to
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000579649">
+  <TermName>Zevalin</TermName>
+  <TermPronunciation>(ZEH-vuh-lin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to
           treat adults with certain types of B-cell non-Hodgkin
           lymphoma. It is also being studied in the treatment of
           other types of cancer. Zevalin
@@ -9,7 +14,15 @@
           to the monoclonal antibody. This may help kill cancer
           cells. Zevalin is a type of
           monoclonal antibody and a type of
-          immunoconjugate. Also called ibritumomab tiuxetan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720463" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zevalin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720462" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zevalin&quot;" language="es" id="_4"/><SpanishTermName>Zevalin</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para tratar a adultos con ciertos tipos de linfoma no Hodgkin de
+          immunoconjugate. Also called ibritumomab tiuxetan.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720463" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zevalin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720462" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Zevalin&quot;" language="es" id="_4"/>
+  <SpanishTermName>Zevalin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para tratar a adultos con ciertos tipos de linfoma no Hodgkin de
 células B. También está en estudio para el tratamiento de otros tipos
 de cáncer. Zevalin contiene un anticuerpo
 monoclonal que se une a una proteína llamada CD20 en las células B y en algunos tipos de células de
@@ -18,4 +31,13 @@ permite unir ciertas sustancias radiactivas al
 anticuerpo monoclonal. Es posible que esto ayude a destruir
 las células cancerosas. Zevalin es un
 tipo de anticuerpo monoclonal y de
-inmunoconjugado. También se llama ibritumomab tiuxetán.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-29</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000562503" url="/about-cancer/treatment/drugs/ibritumomabtiuxetan">Ibritumomab Tiuxetan</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+inmunoconjugado. También se llama ibritumomab tiuxetán.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-29</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000562503" url="/about-cancer/treatment/drugs/ibritumomabtiuxetan">Ibritumomab Tiuxetan</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

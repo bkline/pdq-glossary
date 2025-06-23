@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000808594"><TermName>risk-reducing oophorectomy</TermName><TermPronunciation>(risk-ree-DOO-sing oh-oh-foh-REK-toh-mee)</TermPronunciation><TermDefinition><DefinitionText>Surgery done to reduce the risk of ovarian cancer and breast cancer by removing the ovaries before disease develops. Removing the ovaries lowers the amount of estrogen in the body, which may slow the growth of some types of breast cancer. Risk-reducing oophorectomy is usually done in women who have a high risk of developing breast cancer and/or ovarian cancer caused by certain genetic mutations.  Also called prophylactic oophorectomy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000810323" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;risk-reducing oophorectomy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000810999" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ooforectomía preventiva&quot;" language="es" id="_4"/><SpanishTermName>ooforectomía preventiva</SpanishTermName><SpanishTermDefinition><DefinitionText>Cirugía con la intención de reducir el riesgo de cáncer de ovario al extirpar los ovarios antes de que se presente la enfermedad. La extirpación de los ovarios disminuye la cantidad de estrógeno en el organismo, lo que quizás reduzca el crecimiento de algunos tipos de cáncer de mama. La ooforectomía preventiva suele hacerse en mujeres que tienen un riesgo alto de presentar cáncer de mama o de ovario causado por ciertas mutaciones genéticas. También se llama ooforectomía profiláctica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-05-31</DateFirstPublished><DateLastModified>2022-05-31</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet" UseWith="en">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva" UseWith="es">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000808594">
+  <TermName>risk-reducing oophorectomy</TermName>
+  <TermPronunciation>(risk-ree-DOO-sing oh-oh-foh-REK-toh-mee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Surgery done to reduce the risk of ovarian cancer and breast cancer by removing the ovaries before disease develops. Removing the ovaries lowers the amount of estrogen in the body, which may slow the growth of some types of breast cancer. Risk-reducing oophorectomy is usually done in women who have a high risk of developing breast cancer and/or ovarian cancer caused by certain genetic mutations.  Also called prophylactic oophorectomy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000810323" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;risk-reducing oophorectomy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000810999" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ooforectomía preventiva&quot;" language="es" id="_4"/>
+  <SpanishTermName>ooforectomía preventiva</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cirugía con la intención de reducir el riesgo de cáncer de ovario al extirpar los ovarios antes de que se presente la enfermedad. La extirpación de los ovarios disminuye la cantidad de estrógeno en el organismo, lo que quizás reduzca el crecimiento de algunos tipos de cáncer de mama. La ooforectomía preventiva suele hacerse en mujeres que tienen un riesgo alto de presentar cáncer de mama o de ovario causado por ciertas mutaciones genéticas. También se llama ooforectomía profiláctica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-05-31</DateFirstPublished>
+  <DateLastModified>2022-05-31</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet" UseWith="en">Surgery to Reduce the Risk of Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-mastectomia-preventiva" UseWith="es">Cirugía para reducir el riesgo de cáncer de seno</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

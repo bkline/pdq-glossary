@@ -1,1 +1,34 @@
-<GlossaryTerm id="CDR0000377717"><TermName>PJS</TermName><TermDefinition><DefinitionText>A rare genetic disorder in which many polyps (abnormal growths of tissue) form in the lining of the gastrointestinal tract, and  dark-colored spots appear on certain areas of the skin, such as around the mouth, eyes, and nose. People with PJS have a very high risk of developing gastrointestinal cancer and other types of cancer, including cancers of the breast, pancreas, ovary, lung, and cervix. PJS is usually caused by mutations (changes) in the <GeneName>STK11</GeneName> gene. Some people with PJS do not have a mutation in the <GeneName>STK11</GeneName> gene. In these cases, the cause of the disorder is unknown. Also called Peutz-Jeghers syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>SPJ</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno genético raro en el que se forman muchos pólipos (masas de tejido anormal) en el revestimiento del tubo digestivo  y aparecen manchas oscuras en ciertas áreas de la piel, como alrededor de la boca, los ojos y la nariz.  Las personas con SPJ tienen un riesgo muy alto de presentar cáncer gastrointestinal y otros tipos de cáncer, como los de mama, páncreas, ovario, pulmón o cuello uterino. Por lo general, la causa del SPJ    son mutaciones (cambios) en el gen <GeneName>STK11</GeneName>. Algunas personas con este síndrome  no presentan ninguna mutación en el gen <GeneName>STK11</GeneName>. En esos casos, la causa del trastorno es desconocida. También se llama síndrome de Peutz-Jeghers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-06-23</DateFirstPublished><DateLastModified>2023-05-18</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7378/peutz-jeghers-syndrome">Peutz-Jeghers syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/peutz-jeghers-syndrome/">Peutz-Jeghers syndrome (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/000244.htm">síndrome de Peutz-Jeghers (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000377717">
+  <TermName>PJS</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      A rare genetic disorder in which many polyps (abnormal growths of tissue) form in the lining of the gastrointestinal tract, and  dark-colored spots appear on certain areas of the skin, such as around the mouth, eyes, and nose. People with PJS have a very high risk of developing gastrointestinal cancer and other types of cancer, including cancers of the breast, pancreas, ovary, lung, and cervix. PJS is usually caused by mutations (changes) in the 
+      <GeneName>STK11</GeneName>
+       gene. Some people with PJS do not have a mutation in the 
+      <GeneName>STK11</GeneName>
+       gene. In these cases, the cause of the disorder is unknown. Also called Peutz-Jeghers syndrome.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>SPJ</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno genético raro en el que se forman muchos pólipos (masas de tejido anormal) en el revestimiento del tubo digestivo  y aparecen manchas oscuras en ciertas áreas de la piel, como alrededor de la boca, los ojos y la nariz.  Las personas con SPJ tienen un riesgo muy alto de presentar cáncer gastrointestinal y otros tipos de cáncer, como los de mama, páncreas, ovario, pulmón o cuello uterino. Por lo general, la causa del SPJ    son mutaciones (cambios) en el gen 
+      <GeneName>STK11</GeneName>
+      . Algunas personas con este síndrome  no presentan ninguna mutación en el gen 
+      <GeneName>STK11</GeneName>
+      . En esos casos, la causa del trastorno es desconocida. También se llama síndrome de Peutz-Jeghers.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-06-23</DateFirstPublished>
+  <DateLastModified>2023-05-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7378/peutz-jeghers-syndrome">Peutz-Jeghers syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/peutz-jeghers-syndrome/">Peutz-Jeghers syndrome (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://medlineplus.gov/spanish/ency/article/000244.htm">síndrome de Peutz-Jeghers (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

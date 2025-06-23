@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000783047"><TermName>pleomorphic liposarcoma</TermName><TermPronunciation>(PLEE-oh-MOR-fik LIH-poh-sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare, fast-growing type of cancer that begins in fat cells. It usually forms in the deep soft tissues of the arms or legs, but it may also form in the abdomen or chest. Pleomorphic liposarcoma often recurs (comes back) after treatment and spreads to other parts of the body, including the lungs. It usually occurs in older adults, and is rare in children and adolescents. Pleomorphic liposarcoma is a type of soft tissue sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000785409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleomorphic liposarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000785408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposarcoma pleomórfico&quot;" language="es" id="_4"/><SpanishTermName>liposarcoma pleomórfico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer poco frecuente y de crecimiento rápido que surge en las células del tejido graso. Por lo general, se forma en los tejidos blandos profundos de los  brazos y las piernas, pero a veces se forma también en el abdomen o el tórax. El liposarcoma pleomórfico a menudo recidiva (vuelve) después del tratamiento y se disemina a otras partes del cuerpo, como los pulmones. Se suele presentar en adultos de edad avanzada, y es infrecuente en niños y adolescentes. El liposarcoma pleomórfico es un tipo de  sarcoma de tejido blando.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-10-14</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783047">
+  <TermName>pleomorphic liposarcoma</TermName>
+  <TermPronunciation>(PLEE-oh-MOR-fik LIH-poh-sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, fast-growing type of cancer that begins in fat cells. It usually forms in the deep soft tissues of the arms or legs, but it may also form in the abdomen or chest. Pleomorphic liposarcoma often recurs (comes back) after treatment and spreads to other parts of the body, including the lungs. It usually occurs in older adults, and is rare in children and adolescents. Pleomorphic liposarcoma is a type of soft tissue sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785409" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleomorphic liposarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000785408" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;liposarcoma pleomórfico&quot;" language="es" id="_4"/>
+  <SpanishTermName>liposarcoma pleomórfico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer poco frecuente y de crecimiento rápido que surge en las células del tejido graso. Por lo general, se forma en los tejidos blandos profundos de los  brazos y las piernas, pero a veces se forma también en el abdomen o el tórax. El liposarcoma pleomórfico a menudo recidiva (vuelve) después del tratamiento y se disemina a otras partes del cuerpo, como los pulmones. Se suele presentar en adultos de edad avanzada, y es infrecuente en niños y adolescentes. El liposarcoma pleomórfico es un tipo de  sarcoma de tejido blando.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-10-14</DateFirstPublished>
+</GlossaryTerm>

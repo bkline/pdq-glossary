@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000768568"><TermName>noninferiority study</TermName><TermPronunciation>(non-in-FEER-ee-OR-ih-tee STUH-dee)</TermPronunciation><TermDefinition><DefinitionText>A research study that is designed to determine whether one intervention is not worse than another control intervention by a predetermined margin. An intervention that yields outcomes which are equivalent to or better than the control intervention is considered not inferior to the control intervention. Noninferiority studies are often conducted to examine whether a new, experimental treatment is not worse than an established standard of care.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000771217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;noninferiority study&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804304" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio de ausencia de inferioridad&quot;" language="es" id="_4"/><SpanishTermName>estudio de ausencia de inferioridad</SpanishTermName><SpanishTermDefinition><DefinitionText>Estudio de investigación diseñado para determinar si una intervención no es peor que otra intervención de control dentro de un margen predefinido. Se considera que una intervención no es inferior a la intervención de control cuando produce desenlaces equivalentes o mejores que la intervención de control. Los estudios de ausencia de inferioridad a menudo se hacen para  evaluar si un tratamiento nuevo en fase de investigación no es peor que el estándar de atención de uso consolidado.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2015-01-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000768568">
+  <TermName>noninferiority study</TermName>
+  <TermPronunciation>(non-in-FEER-ee-OR-ih-tee STUH-dee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A research study that is designed to determine whether one intervention is not worse than another control intervention by a predetermined margin. An intervention that yields outcomes which are equivalent to or better than the control intervention is considered not inferior to the control intervention. Noninferiority studies are often conducted to examine whether a new, experimental treatment is not worse than an established standard of care.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000771217" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;noninferiority study&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804304" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;estudio de ausencia de inferioridad&quot;" language="es" id="_4"/>
+  <SpanishTermName>estudio de ausencia de inferioridad</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Estudio de investigación diseñado para determinar si una intervención no es peor que otra intervención de control dentro de un margen predefinido. Se considera que una intervención no es inferior a la intervención de control cuando produce desenlaces equivalentes o mejores que la intervención de control. Los estudios de ausencia de inferioridad a menudo se hacen para  evaluar si un tratamiento nuevo en fase de investigación no es peor que el estándar de atención de uso consolidado.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-01-28</DateFirstPublished>
+</GlossaryTerm>

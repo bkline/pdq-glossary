@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000809975"><TermName>guided visualization</TermName><TermPronunciation>(GY-ded VIH-zhoo-ul-lih-ZAY-shun)</TermPronunciation><TermDefinition><DefinitionText>A technique in which a person visualizes positive images or scenarios in their mind. During guided visualization, a person uses all their senses in their imagination to help relax the body and develop a sense of well-being. Guided visualization may be used to help relieve stress, pain, anxiety, and depression and to help with symptoms related to disease, such as cancer. Also called guided imagery and imagery therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000812208" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;guided visualization&quot;" language="en" id="_3"/><MediaLink ref="CDR0000812209" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;visualización guiada&quot;" language="es" id="_4"/><SpanishTermName>visualización guiada</SpanishTermName><SpanishTermDefinition><DefinitionText>Técnica mediante la que una persona visualiza en su mente imágenes o escenarios positivos. Durante la visualización guiada, la persona utiliza todos los sentidos en la imaginación para ayudar a relajar el cuerpo y lograr una sensación de bienestar. La visualización guiada se usa para reducir el estrés, el dolor, la ansiedad y la depresión, así como para ayudar a controlar los síntomas de una enfermedad, como el cáncer. También se llama imágenes guiadas y terapia de imaginería.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-12-29</DateFirstPublished><DateLastModified>2022-12-28</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000809975">
+  <TermName>guided visualization</TermName>
+  <TermPronunciation>(GY-ded VIH-zhoo-ul-lih-ZAY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A technique in which a person visualizes positive images or scenarios in their mind. During guided visualization, a person uses all their senses in their imagination to help relax the body and develop a sense of well-being. Guided visualization may be used to help relieve stress, pain, anxiety, and depression and to help with symptoms related to disease, such as cancer. Also called guided imagery and imagery therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000812208" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;guided visualization&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000812209" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;visualización guiada&quot;" language="es" id="_4"/>
+  <SpanishTermName>visualización guiada</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Técnica mediante la que una persona visualiza en su mente imágenes o escenarios positivos. Durante la visualización guiada, la persona utiliza todos los sentidos en la imaginación para ayudar a relajar el cuerpo y lograr una sensación de bienestar. La visualización guiada se usa para reducir el estrés, el dolor, la ansiedad y la depresión, así como para ayudar a controlar los síntomas de una enfermedad, como el cáncer. También se llama imágenes guiadas y terapia de imaginería.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-12-29</DateFirstPublished>
+  <DateLastModified>2022-12-28</DateLastModified>
+</GlossaryTerm>

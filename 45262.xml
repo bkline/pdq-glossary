@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000045262"><TermName>dexamethasone</TermName><TermPronunciation>(DEK-suh-MEH-thuh-sone)</TermPronunciation><TermDefinition><DefinitionText>A drug used to reduce inflammation and lower the body’s immune response.  It is used with other drugs to treat leukemia, lymphoma, mycosis fungoides (a type of skin lymphoma), and multiple myeloma.  Dexamethasone is also used alone or with other drugs to prevent or treat many other diseases and conditions. These include conditions related to cancer and its treatment, such as anemia (a low level of red blood cells), allergic reactions,   swelling in the brain, and high levels of calcium in the blood. Dexamethasone is a type of corticosteroid.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705221" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dexamethasone&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705220" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dexametasona&quot;" language="es" id="_4"/><SpanishTermName>dexametasona</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para reducir la inflamación y la respuesta inmunitaria del cuerpo. Se utiliza con otros medicamentos para el tratamiento de la leucemia, el linfoma, la micosis fungoide (tipo de linfoma de piel) y el mieloma múltiple. La dexametasona también se usa sola o con otros medicamentos para prevenir o tratar muchas otras enfermedades o afecciones, como las relacionadas con el cáncer y su tratamiento, entre ellas, la anemia (concentración baja de glóbulos rojos), las reacciones alérgicas, el edema cerebral  y las concentraciones altas de calcio en la sangre. La dexametasona es un tipo de corticoesteroide.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2021-03-26</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000769031" url="/about-cancer/treatment/drugs/dexamethasone">Dexamethasone</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045262">
+  <TermName>dexamethasone</TermName>
+  <TermPronunciation>(DEK-suh-MEH-thuh-sone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to reduce inflammation and lower the body’s immune response.  It is used with other drugs to treat leukemia, lymphoma, mycosis fungoides (a type of skin lymphoma), and multiple myeloma.  Dexamethasone is also used alone or with other drugs to prevent or treat many other diseases and conditions. These include conditions related to cancer and its treatment, such as anemia (a low level of red blood cells), allergic reactions,   swelling in the brain, and high levels of calcium in the blood. Dexamethasone is a type of corticosteroid.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705221" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dexamethasone&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705220" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dexametasona&quot;" language="es" id="_4"/>
+  <SpanishTermName>dexametasona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para reducir la inflamación y la respuesta inmunitaria del cuerpo. Se utiliza con otros medicamentos para el tratamiento de la leucemia, el linfoma, la micosis fungoide (tipo de linfoma de piel) y el mieloma múltiple. La dexametasona también se usa sola o con otros medicamentos para prevenir o tratar muchas otras enfermedades o afecciones, como las relacionadas con el cáncer y su tratamiento, entre ellas, la anemia (concentración baja de glóbulos rojos), las reacciones alérgicas, el edema cerebral  y las concentraciones altas de calcio en la sangre. La dexametasona es un tipo de corticoesteroide.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2021-03-26</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000769031" url="/about-cancer/treatment/drugs/dexamethasone">Dexamethasone</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000340926"><TermName>BMS-354825</TermName><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat adults and children aged 1 year and older with certain types of chronic myeloid leukemia or acute lymphoblastic leukemia that are Philadelphia chromosome positive. It is also being studied in the treatment of other types of cancer. BMS-354825 blocks BCR::ABL1 and other proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called dasatinib and Sprycel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>BMS-354825</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos y niños de 1 año o más con ciertos tipos de leucemia mieloide crónica o leucemia linfoblástica aguda positivos para el cromosoma Filadelfia. También está en estudio para el tratamiento de otros tipos de cáncer. El BMS-354825 bloquea BCR::ABL1 y otras proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama dasatinib y Sprycel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-10-25</DateFirstPublished><DateLastModified>2024-10-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000495782" url="/about-cancer/treatment/drugs/dasatinib">Dasatinib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000340926">
+  <TermName>BMS-354825</TermName>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat adults and children aged 1 year and older with certain types of chronic myeloid leukemia or acute lymphoblastic leukemia that are Philadelphia chromosome positive. It is also being studied in the treatment of other types of cancer. BMS-354825 blocks BCR::ABL1 and other proteins, which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called dasatinib and Sprycel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>BMS-354825</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para el tratamiento de adultos y niños de 1 año o más con ciertos tipos de leucemia mieloide crónica o leucemia linfoblástica aguda positivos para el cromosoma Filadelfia. También está en estudio para el tratamiento de otros tipos de cáncer. El BMS-354825 bloquea BCR::ABL1 y otras proteínas, lo que quizás ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de tirosina–cinasas. También se llama dasatinib y Sprycel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-10-25</DateFirstPublished>
+  <DateLastModified>2024-10-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000495782" url="/about-cancer/treatment/drugs/dasatinib">Dasatinib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000671816"><TermName>modified FOLFOX-6</TermName><TermPronunciation>(MAH-dih-FIDE ...)</TermPronunciation><TermDefinition><DefinitionText>An abbreviation for a combination chemotherapy regimen that is used to treat colorectal cancer. It includes the drugs leucovorin calcium (folinic acid), fluorouracil, and oxaliplatin. There are several different FOLFOX regimens that differ in the doses and ways in which the three drugs are given. Also called modified FOLFOX-6 regimen.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736892" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;modified FOLFOX-6&quot;" language="en" id="_3"/><MediaLink ref="CDR0000736893" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;FOLFOX-6 modificado&quot;" language="es" id="_4"/><SpanishTermName>FOLFOX-6 modificado</SpanishTermName><SpanishTermDefinition><DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer colorrectal. Incluye los medicamentos leucovorina cálcica (ácido folínico), fluorouracilo y oxaliplatino.   Hay varios tipos de regímenes FOLFOX que se diferencian en las dosis y las formas de administración de los tres medicamentos. También se llama régimen FOLFOX-6 modificado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-05-03</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000671816">
+  <TermName>modified FOLFOX-6</TermName>
+  <TermPronunciation>(MAH-dih-FIDE ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>An abbreviation for a combination chemotherapy regimen that is used to treat colorectal cancer. It includes the drugs leucovorin calcium (folinic acid), fluorouracil, and oxaliplatin. There are several different FOLFOX regimens that differ in the doses and ways in which the three drugs are given. Also called modified FOLFOX-6 regimen.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736892" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;modified FOLFOX-6&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000736893" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;FOLFOX-6 modificado&quot;" language="es" id="_4"/>
+  <SpanishTermName>FOLFOX-6 modificado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Nombre de una quimioterapia combinada que se usa para el tratamiento del cáncer colorrectal. Incluye los medicamentos leucovorina cálcica (ácido folínico), fluorouracilo y oxaliplatino.   Hay varios tipos de regímenes FOLFOX que se diferencian en las dosis y las formas de administración de los tres medicamentos. También se llama régimen FOLFOX-6 modificado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-05-03</DateFirstPublished>
+</GlossaryTerm>

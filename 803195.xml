@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000803195"><TermName>antidiuretic hormone</TermName><TermPronunciation>(AN-tee-DY-yoo-REH-tik HOR-mone)</TermPronunciation><TermDefinition><DefinitionText>A hormone that helps blood vessels constrict and helps the kidneys control the amount of water and salt in the body. This helps control blood pressure and the amount of urine that is made. Antidiuretic hormone is made by a part of the brain called the hypothalamus and is secreted into the blood by the pituitary gland. Certain types of tumors may release high amounts of antidiuretic hormone, which can cause low levels of sodium in the blood and the body to retain water.  Also called arginine vasopressin and vasopressin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805255" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antidiuretic hormone&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805256" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormona antidiurética&quot;" language="es" id="_4"/><SpanishTermName>hormona antidiurética</SpanishTermName><SpanishTermDefinition><DefinitionText>Hormona que sirve para la contracción de los vasos sanguíneos y ayuda a que los riñones controlen la cantidad de agua y sal en el cuerpo. De esta manera  regula la presión arterial y la cantidad de orina que se produce. Una parte del encéfalo llamada hipotálamo elabora la hormona antidiurética, y la hipófisis se encarga de secretarla hacia la sangre. A veces, ciertos tipos de tumores liberan grandes cantidades de hormona antidiurética, lo que disminuye las concentraciones de sodio en la sangre y hace que el cuerpo acumule agua. También se llama arginina-vasopresina y vasopresina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803195">
+  <TermName>antidiuretic hormone</TermName>
+  <TermPronunciation>(AN-tee-DY-yoo-REH-tik HOR-mone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A hormone that helps blood vessels constrict and helps the kidneys control the amount of water and salt in the body. This helps control blood pressure and the amount of urine that is made. Antidiuretic hormone is made by a part of the brain called the hypothalamus and is secreted into the blood by the pituitary gland. Certain types of tumors may release high amounts of antidiuretic hormone, which can cause low levels of sodium in the blood and the body to retain water.  Also called arginine vasopressin and vasopressin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805255" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antidiuretic hormone&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805256" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hormona antidiurética&quot;" language="es" id="_4"/>
+  <SpanishTermName>hormona antidiurética</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hormona que sirve para la contracción de los vasos sanguíneos y ayuda a que los riñones controlen la cantidad de agua y sal en el cuerpo. De esta manera  regula la presión arterial y la cantidad de orina que se produce. Una parte del encéfalo llamada hipotálamo elabora la hormona antidiurética, y la hipófisis se encarga de secretarla hacia la sangre. A veces, ciertos tipos de tumores liberan grandes cantidades de hormona antidiurética, lo que disminuye las concentraciones de sodio en la sangre y hace que el cuerpo acumule agua. También se llama arginina-vasopresina y vasopresina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-09</DateFirstPublished>
+</GlossaryTerm>

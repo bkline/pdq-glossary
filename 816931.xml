@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000816931"><TermName>Itovebi</TermName><TermPronunciation>(i-TOV-bee)</TermPronunciation><TermDefinition><DefinitionText>A drug used with palbociclib and fulvestrant to treat adults with certain types of hormone-receptor positive, HER2-negative breast cancer that has a mutation (change) in the <GeneName>PIK3CA</GeneName> gene. It is also being studied in the treatment of other types of cancer. Itovebi works by blocking the activity of a protein called PI3K-alpha that signals cancer cells to multiply. It also helps break down mutant versions of this protein found in some cancer cells. This may keep cancer cells from growing and may kill them. Itovebi is a type of targeted therapy drug called an enzyme inhibitor. Also called inavolisib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Itovebi&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817450" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Itovebi&quot;" language="es" id="_4"/><SpanishTermName>Itovebi</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa con palbociclib y fulvestrant para el tratamiento de adultos con ciertos tipos de cáncer de mama positivo para receptores hormonales y negativo para HER2 que tiene una mutación (cambio) en el gen <GeneName>PIK3CA</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. Itovebi bloquea la actividad de una proteína llamada PI3K-α que indica a las células cancerosas que se multipliquen. También ayuda a descomponer versiones mutadas de esta proteína que se encuentran en algunas células cancerosas. Es posible que esto impida la multiplicación de células cancerosas y las destruya. Es un tipo de medicamento de terapia dirigida llamado inhibidor enzimático. También se llama inavolisib.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-21</DateFirstPublished><DateLastModified>2024-12-04</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000816968" url="/about-cancer/treatment/drugs/inavolisib">Inavolisib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816931">
+  <TermName>Itovebi</TermName>
+  <TermPronunciation>(i-TOV-bee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used with palbociclib and fulvestrant to treat adults with certain types of hormone-receptor positive, HER2-negative breast cancer that has a mutation (change) in the 
+      <GeneName>PIK3CA</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Itovebi works by blocking the activity of a protein called PI3K-alpha that signals cancer cells to multiply. It also helps break down mutant versions of this protein found in some cancer cells. This may keep cancer cells from growing and may kill them. Itovebi is a type of targeted therapy drug called an enzyme inhibitor. Also called inavolisib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Itovebi&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817450" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Itovebi&quot;" language="es" id="_4"/>
+  <SpanishTermName>Itovebi</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa con palbociclib y fulvestrant para el tratamiento de adultos con ciertos tipos de cáncer de mama positivo para receptores hormonales y negativo para HER2 que tiene una mutación (cambio) en el gen 
+      <GeneName>PIK3CA</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. Itovebi bloquea la actividad de una proteína llamada PI3K-α que indica a las células cancerosas que se multipliquen. También ayuda a descomponer versiones mutadas de esta proteína que se encuentran en algunas células cancerosas. Es posible que esto impida la multiplicación de células cancerosas y las destruya. Es un tipo de medicamento de terapia dirigida llamado inhibidor enzimático. También se llama inavolisib.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-21</DateFirstPublished>
+  <DateLastModified>2024-12-04</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000816968" url="/about-cancer/treatment/drugs/inavolisib">Inavolisib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

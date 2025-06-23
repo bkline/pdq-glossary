@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000046636"><TermName>tumor marker</TermName><TermPronunciation>(TOO-mer MAR-ker)</TermPronunciation><TermDefinition><DefinitionText>A substance
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046636">
+  <TermName>tumor marker</TermName>
+  <TermPronunciation>(TOO-mer MAR-ker)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance
           found in tissue, blood, bone marrow, or other body fluids
           that may be a sign of cancer or certain benign (noncancer)
           conditions. Many tumor markers are proteins made by both
@@ -14,7 +19,16 @@
           estrogen receptor and progesterone receptor (in breast
           cancer), CEA (in colon cancer), PCA3 mRNA and PSA (in
           prostate cancer), and EGFR gene mutation (in non-small cell
-          lung cancer).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000709841" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor marker&quot;" language="en" id="_3"/><MediaLink ref="CDR0000709842" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;marcador tumoral&quot;" language="es" id="_4"/><SpanishTermName>marcador tumoral</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que se encuentra en
+          lung cancer).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000709841" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor marker&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000709842" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;marcador tumoral&quot;" language="es" id="_4"/>
+  <SpanishTermName>marcador tumoral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Sustancia que se encuentra en
 tejidos, sangre, médula ósea u otros líquidos del cuerpo, y
 que a veces es un signo de cáncer o determinadas afecciones
 benignas (no cancerosas). Muchos marcadores tumorales son
@@ -32,7 +46,19 @@ regresó. Los ejemplos de marcadores tumorales son el CA-125
 (cáncer de ovario), los receptores de estrógeno y
 progesterona (cáncer de mama), el ACE (cáncer de colon), el
 ARNm de PCA3 y el PSA (cáncer de próstata), y la mutación
-en el gen <GeneName>EGFR</GeneName> (cáncer de pulmón de
-células no pequeñas).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-01-10</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet">Tumor
-Markers</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-marcadores-de-tumores">Marcadores
-tumorales</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+en el gen 
+      <GeneName>EGFR</GeneName>
+       (cáncer de pulmón de
+células no pequeñas).
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-01-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet">Tumor
+Markers</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-marcadores-de-tumores">Marcadores
+tumorales</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

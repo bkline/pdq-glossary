@@ -1,1 +1,30 @@
-<GlossaryTerm id="CDR0000780360"><TermName>reproductive endocrinologist</TermName><TermPronunciation>(REE-proh-DUK-tiv EN-doh-krih-NAH-loh-jist)</TermPronunciation><TermDefinition><DefinitionText>A doctor who has special training in the diagnosis and treatment of infertility. A reproductive endocrinologist may use surgery, medicine, or procedures, such as in vitro fertilization (IVF), to treat infertility. A reproductive endocrinologist may also use procedures, such as sperm banking and egg freezing, to help keep a person’s ability to have children. This is called fertility preservation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000782449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;reproductive endocrinologist&quot;" language="en" id="_3"/><MediaLink ref="CDR0000782448" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocrinólogo especializado en reproducción&quot;" language="es" id="_4"/><SpanishTermName>endocrinólogo especializado en reproducción</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la medicina que se especializa en el diagnóstico y tratamiento de la esterilidad. Las personas que se dedican a esta especialidad usan cirugías, medicamentos o procedimientos, como la fecundación <Emphasis>in vitro</Emphasis> (FIV), para el tratamiento de los problemas reproductivos. A veces, también se usan otros procedimientos, como el almacenamiento de espermatozoides y el congelamiento de óvulos para conservar la capacidad reproductiva de una persona (preservación de la fertilidad). También se llama especialista en endocrinología reproductiva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-06-02</DateFirstPublished><DateLastModified>2017-05-09</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women" UseWith="en">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men" UseWith="en">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-mujeres" UseWith="es">Cuestiones de fecundidad en las mujeres con cáncer: niñas y adultas</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres" UseWith="es">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000780360">
+  <TermName>reproductive endocrinologist</TermName>
+  <TermPronunciation>(REE-proh-DUK-tiv EN-doh-krih-NAH-loh-jist)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A doctor who has special training in the diagnosis and treatment of infertility. A reproductive endocrinologist may use surgery, medicine, or procedures, such as in vitro fertilization (IVF), to treat infertility. A reproductive endocrinologist may also use procedures, such as sperm banking and egg freezing, to help keep a person’s ability to have children. This is called fertility preservation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000782449" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;reproductive endocrinologist&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000782448" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;endocrinólogo especializado en reproducción&quot;" language="es" id="_4"/>
+  <SpanishTermName>endocrinólogo especializado en reproducción</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Profesional de la medicina que se especializa en el diagnóstico y tratamiento de la esterilidad. Las personas que se dedican a esta especialidad usan cirugías, medicamentos o procedimientos, como la fecundación 
+      <Emphasis>in vitro</Emphasis>
+       (FIV), para el tratamiento de los problemas reproductivos. A veces, también se usan otros procedimientos, como el almacenamiento de espermatozoides y el congelamiento de óvulos para conservar la capacidad reproductiva de una persona (preservación de la fertilidad). También se llama especialista en endocrinología reproductiva.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-06-02</DateFirstPublished>
+  <DateLastModified>2017-05-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women" UseWith="en">Fertility Issues in Girls and Women with Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men" UseWith="en">Fertility Issues in Boys and Men with Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-mujeres" UseWith="es">Cuestiones de fecundidad en las mujeres con cáncer: niñas y adultas</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres" UseWith="es">Cuestiones de fecundidad en los hombres con cáncer: niños y adultos</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

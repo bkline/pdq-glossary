@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796066"><TermName>poikiloderma</TermName><TermPronunciation>(POY-kih-loh-DER-muh)</TermPronunciation><TermDefinition><DefinitionText>Irregular patterns of reddish brown pigmentation of the skin associated with sun exposure, aging, or a genetic cause.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000797312" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poikiloderma&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804343" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poiquilodermia&quot;" language="es" id="_4"/><SpanishTermName>poiquilodermia</SpanishTermName><SpanishTermDefinition><DefinitionText>Lesiones cutáneas irregulares de pigmentación marrón rojiza vinculadas con la exposición a la luz solar, el envejecimiento o causas genéticas.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2019-01-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796066">
+  <TermName>poikiloderma</TermName>
+  <TermPronunciation>(POY-kih-loh-DER-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Irregular patterns of reddish brown pigmentation of the skin associated with sun exposure, aging, or a genetic cause.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797312" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poikiloderma&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804343" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poiquilodermia&quot;" language="es" id="_4"/>
+  <SpanishTermName>poiquilodermia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Lesiones cutáneas irregulares de pigmentación marrón rojiza vinculadas con la exposición a la luz solar, el envejecimiento o causas genéticas.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-01-15</DateFirstPublished>
+</GlossaryTerm>

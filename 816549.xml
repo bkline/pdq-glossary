@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000816549"><TermName>Lymphir</TermName><TermPronunciation>(LIM-fur)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with stage I, stage II, or stage III cutaneous T-cell lymphoma that came back or did not get better after treatment with at least one other systemic therapy. It is also being studied in the treatment of other types of cancer. Lymphir is made by combining interleukin-2 (IL-2) with a bacterial toxin. The IL-2 part of the drug attaches to the cancer cells and the toxin kills them. Lymphir is a type of immunotoxin and a type of recombinant fusion protein. Also called denileukin diftitox.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817413" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lymphir&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817414" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lymphir&quot;" language="es" id="_4"/><SpanishTermName>Lymphir</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con linfoma cutáneo de células T  en estadios I, II o III que recidivó (volvió) o no mejoró después del tratamiento con, al menos, otra terapia sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. Lymphir se elabora combinando la interleucina-2 (IL-2) con una toxina bacteriana.   La porción del medicamento formada por la IL-2 se adhiere a las células cancerosas y la toxina las destruye.  Lymphir es un tipo de inmunotoxina y de proteína de fusión recombinante. También se llama denileucina diftitox.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-08-20</DateFirstPublished><DateLastModified>2024-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000669854" url="/about-cancer/treatment/drugs/denileukindiftitox-cxdl">Denileukin Diftitox-cxdl</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816549">
+  <TermName>Lymphir</TermName>
+  <TermPronunciation>(LIM-fur)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat adults with stage I, stage II, or stage III cutaneous T-cell lymphoma that came back or did not get better after treatment with at least one other systemic therapy. It is also being studied in the treatment of other types of cancer. Lymphir is made by combining interleukin-2 (IL-2) with a bacterial toxin. The IL-2 part of the drug attaches to the cancer cells and the toxin kills them. Lymphir is a type of immunotoxin and a type of recombinant fusion protein. Also called denileukin diftitox.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817413" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lymphir&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817414" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Lymphir&quot;" language="es" id="_4"/>
+  <SpanishTermName>Lymphir</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de adultos con linfoma cutáneo de células T  en estadios I, II o III que recidivó (volvió) o no mejoró después del tratamiento con, al menos, otra terapia sistémica. También está en estudio para el tratamiento de otros tipos de cáncer. Lymphir se elabora combinando la interleucina-2 (IL-2) con una toxina bacteriana.   La porción del medicamento formada por la IL-2 se adhiere a las células cancerosas y la toxina las destruye.  Lymphir es un tipo de inmunotoxina y de proteína de fusión recombinante. También se llama denileucina diftitox.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-08-20</DateFirstPublished>
+  <DateLastModified>2024-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000669854" url="/about-cancer/treatment/drugs/denileukindiftitox-cxdl">Denileukin Diftitox-cxdl</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044616"><TermName>progeny</TermName><TermPronunciation>(PRAH-jeh-nee)</TermPronunciation><TermDefinition><DefinitionText>Offspring; the product of reproduction or replication.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728033" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;progeny&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;progenie&quot;" language="es" id="_4"/><SpanishTermName>progenie</SpanishTermName><SpanishTermDefinition><DefinitionText>Descendencia; producto de la reproducción o la replicación.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044616">
+  <TermName>progeny</TermName>
+  <TermPronunciation>(PRAH-jeh-nee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Offspring; the product of reproduction or replication.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728033" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;progeny&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728034" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;progenie&quot;" language="es" id="_4"/>
+  <SpanishTermName>progenie</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Descendencia; producto de la reproducción o la replicación.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

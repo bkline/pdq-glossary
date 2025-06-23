@@ -1,1 +1,28 @@
-<GlossaryTerm id="CDR0000789010"><TermName>FLT3 gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein that is involved in the formation and growth of new blood cells. Mutated (changed) forms of the <GeneName>FLT3 </GeneName> gene may cause an overactive FLT3 protein to be made. This may cause the body to make too many immature white blood cells. These changes have been found in some types of leukemia, including acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL). </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000791475" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;FLT3 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000791474" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen FLT3&quot;" language="es" id="_4"/><SpanishTermName>gen FLT3</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la formación y la multiplicación de células sanguíneas nuevas. Las formas mutadas (cambiadas) del gen <GeneName>FLT3 </GeneName> en ocasiones dan origen a una proteína FLT3 hiperactiva. Es posible que esto haga que el cuerpo elabore demasiados glóbulos blancos inmaduros. Estos cambios se encontraron en algunos tipos de leucemia, como la leucemia mieloide aguda (LMA) y la leucemia linfoblástica aguda (LLA).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-09-08</DateFirstPublished><DateLastModified>2020-11-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000789010">
+  <TermName>FLT3 gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein that is involved in the formation and growth of new blood cells. Mutated (changed) forms of the 
+      <GeneName>FLT3 </GeneName>
+       gene may cause an overactive FLT3 protein to be made. This may cause the body to make too many immature white blood cells. These changes have been found in some types of leukemia, including acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL). 
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000791475" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;FLT3 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000791474" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen FLT3&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen FLT3</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la formación y la multiplicación de células sanguíneas nuevas. Las formas mutadas (cambiadas) del gen 
+      <GeneName>FLT3 </GeneName>
+       en ocasiones dan origen a una proteína FLT3 hiperactiva. Es posible que esto haga que el cuerpo elabore demasiados glóbulos blancos inmaduros. Estos cambios se encontraron en algunos tipos de leucemia, como la leucemia mieloide aguda (LMA) y la leucemia linfoblástica aguda (LLA).
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-09-08</DateFirstPublished>
+  <DateLastModified>2020-11-24</DateLastModified>
+</GlossaryTerm>

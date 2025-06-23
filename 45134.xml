@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000045134"><TermName>Kaposi sarcoma</TermName><TermPronunciation>(kuh-POH-zee sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045134">
+  <TermName>Kaposi sarcoma</TermName>
+  <TermPronunciation>(kuh-POH-zee sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of
           cancer in which lesions (abnormal areas) grow in the skin,
           lymph nodes, lining of the mouth, nose, and throat, and
           other tissues of the body. The lesions are usually purple
@@ -10,7 +15,15 @@
           system caused by AIDS or by drugs used in organ
           transplants. It is also seen in older men of Jewish or
           Mediterranean descent, or in young men in
-          Africa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705055" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Kaposi sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de Kaposi&quot;" language="es" id="_4"/><SpanishTermName>sarcoma de Kaposi</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer en el que
+          Africa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705055" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Kaposi sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705054" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma de Kaposi&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma de Kaposi</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer en el que
 aparecen lesiones (áreas anormales) en la piel, los
 ganglios linfáticos, el revestimiento de la boca, la nariz
 y la garganta, y otros tejidos del cuerpo. Por lo general, las lesiones son de color púrpura y se componen de células
@@ -23,4 +36,13 @@ un sistema inmunitario débil como consecuencia del SIDA o de
 medicamentos que se usan en los trasplantes de órganos.
 También se observa en hombres de edad avanzada de
 ascendencia judía o mediterránea, o en hombres jóvenes en
-África.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-09-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000442381" url="/types/soft-tissue-sarcoma/patient/kaposi-treatment-pdq">Kaposi Sarcoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000529998" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-kaposi-pdq">Tratamiento del sarcoma de Kaposi</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+África.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-09-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000442381" url="/types/soft-tissue-sarcoma/patient/kaposi-treatment-pdq">Kaposi Sarcoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000529998" url="/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-kaposi-pdq">Tratamiento del sarcoma de Kaposi</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

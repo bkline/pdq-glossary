@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000800547"><TermName>MEK2 protein</TermName><TermPronunciation>(… PROH-teen)</TermPronunciation><TermDefinition><DefinitionText>A protein involved in a cell signaling pathway that helps control cell division, cell maturation, and cell death. Mutations (changes) in the gene that makes the MEK2 protein or in other genes in this signaling pathway may cause the MEK2 protein to become overactive in some types of cancer. This may increase the growth of cancer cells. Drugs that block the MEK2 protein are being used in the treatment of some cancers.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802610" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK2 protein&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802611" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proteína MEK2&quot;" language="es" id="_4"/><SpanishTermName>proteína MEK2</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que participa en una vía de señalización celular que ayuda a controlar la división, la maduración y la destrucción de las células. Es posible que mutaciones (cambios) en los genes que producen la proteína MEK2 o en otros  genes de esta vía de señalización hagan que la proteína MEK2 se vuelva muy activa en algunos tipos de cáncer. Esto quizás aumente la multiplicación de las células cancerosas. Los medicamentos que bloquean la proteína MEK2 se utilizan en el tratamiento de algunos cánceres.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-05</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000798994" UseWith="en" audience="Patients">cell signaling</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000798994" UseWith="es" audience="Patients">señalización celular</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800547">
+  <TermName>MEK2 protein</TermName>
+  <TermPronunciation>(… PROH-teen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A protein involved in a cell signaling pathway that helps control cell division, cell maturation, and cell death. Mutations (changes) in the gene that makes the MEK2 protein or in other genes in this signaling pathway may cause the MEK2 protein to become overactive in some types of cancer. This may increase the growth of cancer cells. Drugs that block the MEK2 protein are being used in the treatment of some cancers.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802610" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;MEK2 protein&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802611" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;proteína MEK2&quot;" language="es" id="_4"/>
+  <SpanishTermName>proteína MEK2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que participa en una vía de señalización celular que ayuda a controlar la división, la maduración y la destrucción de las células. Es posible que mutaciones (cambios) en los genes que producen la proteína MEK2 o en otros  genes de esta vía de señalización hagan que la proteína MEK2 se vuelva muy activa en algunos tipos de cáncer. Esto quizás aumente la multiplicación de las células cancerosas. Los medicamentos que bloquean la proteína MEK2 se utilizan en el tratamiento de algunos cánceres.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-05</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000798994" UseWith="en" audience="Patients">cell signaling</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000798994" UseWith="es" audience="Patients">señalización celular</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

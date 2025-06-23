@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000796819"><TermName>neurotrophic tyrosine receptor kinase gene fusion</TermName><TermPronunciation>(NOOR-oh-TROH-fik TY-ruh-seen reh-SEP-ter KY-nays jeen FYOO-zhun)</TermPronunciation><TermDefinition><DefinitionText>A mutation (change) that occurs when a piece of the chromosome containing a gene called NTRK breaks off and joins with a gene on another chromosome. Neurotrophic tyrosine receptor kinase gene fusions lead to abnormal proteins called TRK fusion proteins, which may cause cancer cells to grow. Neurotrophic tyrosine receptor kinase gene fusions may be found in some types of cancer, including cancers of the brain, head and neck, thyroid, soft tissue, lung, and colon. Also called NTRK gene fusion.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurotrophic tyrosine receptor kinase gene fusion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797979" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusión de gen de receptor tirosina–cinasa neurotrófico&quot;" language="es" id="_6"/><SpanishTermName>fusión de gen de receptor tirosina–cinasa neurotrófico</SpanishTermName><SpanishTermDefinition><DefinitionText>Mutación (cambio) que se presenta cuando se rompe una sección del cromosoma que contiene un gen <GeneName>NTRK</GeneName> y se une con un gen en otro cromosoma. Las fusiones de genes de receptores tirosina–cinasa neurotróficos hacen que se produzcan proteínas anormales llamadas proteínas de fusión  TRK, y es posible que estimulen la multiplicación de células cancerosas. A veces, se encuentran fusiones de genes de receptores tirosina–cinasa neurotróficos en algunos tipos de cáncer, como el cáncer de encéfalo, cabeza y cuello, tiroides, tejido blando, pulmón y colon. También se llama fusión de gen de receptor tirosina–cinasa dirigido a neurotrofina, fusión de gen del receptor tirosina–quinasa neurotrófico y fusión de gen NTRK.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796819">
+  <TermName>neurotrophic tyrosine receptor kinase gene fusion</TermName>
+  <TermPronunciation>(NOOR-oh-TROH-fik TY-ruh-seen reh-SEP-ter KY-nays jeen FYOO-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A mutation (change) that occurs when a piece of the chromosome containing a gene called NTRK breaks off and joins with a gene on another chromosome. Neurotrophic tyrosine receptor kinase gene fusions lead to abnormal proteins called TRK fusion proteins, which may cause cancer cells to grow. Neurotrophic tyrosine receptor kinase gene fusions may be found in some types of cancer, including cancers of the brain, head and neck, thyroid, soft tissue, lung, and colon. Also called NTRK gene fusion.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurotrophic tyrosine receptor kinase gene fusion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797979" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fusión de gen de receptor tirosina–cinasa neurotrófico&quot;" language="es" id="_6"/>
+  <SpanishTermName>fusión de gen de receptor tirosina–cinasa neurotrófico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Mutación (cambio) que se presenta cuando se rompe una sección del cromosoma que contiene un gen 
+      <GeneName>NTRK</GeneName>
+       y se une con un gen en otro cromosoma. Las fusiones de genes de receptores tirosina–cinasa neurotróficos hacen que se produzcan proteínas anormales llamadas proteínas de fusión  TRK, y es posible que estimulen la multiplicación de células cancerosas. A veces, se encuentran fusiones de genes de receptores tirosina–cinasa neurotróficos en algunos tipos de cáncer, como el cáncer de encéfalo, cabeza y cuello, tiroides, tejido blando, pulmón y colon. También se llama fusión de gen de receptor tirosina–cinasa dirigido a neurotrofina, fusión de gen del receptor tirosina–quinasa neurotrófico y fusión de gen NTRK.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

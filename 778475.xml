@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000778475"><TermName>buprenorphine hydrochloride</TermName><TermPronunciation>(BYOO-preh-NOR-feen HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat moderate to severe pain. It also reduces cravings and withdrawal symptoms in people with opioid use disorder. Buprenorphine hydrochloride works by binding to certain opioid receptors in the central nervous system. This blocks pain signals and changes how the body responds to pain. Buprenorphine hydrochloride is a type of synthetic opioid agonist that works as an analgesic (pain reliever).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000784437" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;buprenorphine hydrochloride&quot;" language="en" id="_3"/><MediaLink ref="CDR0000784436" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de buprenorfina&quot;" language="es" id="_4"/><SpanishTermName>clorhidrato de buprenorfina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento del dolor de moderado a intenso. También reduce las ansias de consumo y los síntomas de abstinencia en personas con trastorno por consumo de opioides. El clorhidrato de buprenorfina se une a determinados receptores de opioides en el sistema nervioso central.   Esto bloquea las señales de dolor y modifica la respuesta del cuerpo a este. El clorhidrato de buprenorfina es un agonista opioide sintético que actúa como analgésico (calmante del dolor). También se llama hidrocloruro de buprenorfina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-01</DateFirstPublished><DateLastModified>2025-04-23</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000778475">
+  <TermName>buprenorphine hydrochloride</TermName>
+  <TermPronunciation>(BYOO-preh-NOR-feen HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat moderate to severe pain. It also reduces cravings and withdrawal symptoms in people with opioid use disorder. Buprenorphine hydrochloride works by binding to certain opioid receptors in the central nervous system. This blocks pain signals and changes how the body responds to pain. Buprenorphine hydrochloride is a type of synthetic opioid agonist that works as an analgesic (pain reliever).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000784437" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;buprenorphine hydrochloride&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000784436" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;clorhidrato de buprenorfina&quot;" language="es" id="_4"/>
+  <SpanishTermName>clorhidrato de buprenorfina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento del dolor de moderado a intenso. También reduce las ansias de consumo y los síntomas de abstinencia en personas con trastorno por consumo de opioides. El clorhidrato de buprenorfina se une a determinados receptores de opioides en el sistema nervioso central.   Esto bloquea las señales de dolor y modifica la respuesta del cuerpo a este. El clorhidrato de buprenorfina es un agonista opioide sintético que actúa como analgésico (calmante del dolor). También se llama hidrocloruro de buprenorfina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-01</DateFirstPublished>
+  <DateLastModified>2025-04-23</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000062845" url="/about-cancer/treatment/side-effects/pain/pain-pdq">Cancer Pain</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256654" url="/espanol/cancer/tratamiento/efectos-secundarios/dolor/dolor-pdq">El dolor y el cáncer</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

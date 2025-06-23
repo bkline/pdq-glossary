@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000792400"><TermName>somatostatin receptor</TermName><TermPronunciation>(soh-MA-toh-STA-tin reh-SEP-ter)</TermPronunciation><TermDefinition><DefinitionText>A protein on the surface of cells that binds to a hormone called somatostatin, which helps control other hormones in the body. Somatostatin receptors are found on many different types of cells, and they may also be found in higher than normal amounts on some types of cancer cells. Knowing the amount of somatostatin receptor in tumor tissue may help diagnose cancer and plan treatment.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793636" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;somatostatin receptor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793637" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;receptor de la somatostatina&quot;" language="es" id="_4"/><SpanishTermName>receptor de la somatostatina</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína en la superficie de las células que se fija a una hormona llamada somatostatina, que ayuda a controlar otras hormonas en el cuerpo. Los receptores de la somatostatina se encuentran en muchos tipos distintos de células, y es posible que estén presentes en una cantidad mayor que la normal en algunos tipos de células cancerosas. Determinar la cantidad del receptor de la somatostatina tal vez sirva para diagnosticar el cáncer y planificar el tratamiento.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-04-26</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000792400">
+  <TermName>somatostatin receptor</TermName>
+  <TermPronunciation>(soh-MA-toh-STA-tin reh-SEP-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A protein on the surface of cells that binds to a hormone called somatostatin, which helps control other hormones in the body. Somatostatin receptors are found on many different types of cells, and they may also be found in higher than normal amounts on some types of cancer cells. Knowing the amount of somatostatin receptor in tumor tissue may help diagnose cancer and plan treatment.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793636" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;somatostatin receptor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793637" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;receptor de la somatostatina&quot;" language="es" id="_4"/>
+  <SpanishTermName>receptor de la somatostatina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína en la superficie de las células que se fija a una hormona llamada somatostatina, que ayuda a controlar otras hormonas en el cuerpo. Los receptores de la somatostatina se encuentran en muchos tipos distintos de células, y es posible que estén presentes en una cantidad mayor que la normal en algunos tipos de células cancerosas. Determinar la cantidad del receptor de la somatostatina tal vez sirva para diagnosticar el cáncer y planificar el tratamiento.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-04-26</DateFirstPublished>
+</GlossaryTerm>

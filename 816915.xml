@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000816915"><TermName>no treatment</TermName><TermPronunciation>(... TREET-ment)</TermPronunciation><TermDefinition><DefinitionText>In a clinical trial, a control group in which the participant receives no additional interventions.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817441" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;no treatment&quot;" language="en" id="_3"/><MediaLink ref="CDR0000817442" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ausencia de tratamiento&quot;" language="es" id="_4"/><SpanishTermName>ausencia de tratamiento</SpanishTermName><SpanishTermDefinition><DefinitionText>En un ensayo clínico, grupo de control en el que los participantes no reciben intervenciones adicionales.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000816915">
+  <TermName>no treatment</TermName>
+  <TermPronunciation>(... TREET-ment)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In a clinical trial, a control group in which the participant receives no additional interventions.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817441" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;no treatment&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000817442" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ausencia de tratamiento&quot;" language="es" id="_4"/>
+  <SpanishTermName>ausencia de tratamiento</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En un ensayo clínico, grupo de control en el que los participantes no reciben intervenciones adicionales.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-16</DateFirstPublished>
+</GlossaryTerm>

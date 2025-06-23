@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000795809"><TermName>glasdegib maleate</TermName><TermPronunciation>(glas-DEH-gib MAY-lee-AYT)</TermPronunciation><TermDefinition><DefinitionText>A drug used with
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000795809">
+  <TermName>glasdegib maleate</TermName>
+  <TermPronunciation>(glas-DEH-gib MAY-lee-AYT)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used with
           low-dose cytarabine to treat acute myeloid leukemia that is
           newly diagnosed. It is used in patients who are 75 years
           and older or in patients who cannot be treated with other
@@ -7,7 +12,15 @@
           Glasdegib maleate blocks a
           type of protein involved in cell growth and repair and may
           block the growth of cancer cells. It is a type of hedgehog
-          signaling pathway antagonist. Also called Daurismo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797282" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glasdegib maleate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;maleato de glasdegib&quot;" language="es" id="_4"/><SpanishTermName>maleato de glasdegib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que
+          signaling pathway antagonist. Also called Daurismo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797282" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glasdegib maleate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;maleato de glasdegib&quot;" language="es" id="_4"/>
+  <SpanishTermName>maleato de glasdegib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que
 se utiliza con una dosis baja de citarabina para tratar la
 leucemia mieloide aguda recién diagnosticada. Se utiliza en
 pacientes que tienen 75 años o más, o que no se pueden
@@ -17,4 +30,12 @@ cáncer. El maleato de glasdegib bloquea un
 tipo de proteína que participa en el crecimiento y la
 reparación celular, y es posible que bloquee la multiplicación de células cancerosas. Es un tipo de
 antagonista de la vía de señalización
-erizo o “hedgehog” (HH). También se llama Daurismo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-11</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000796042" url="/about-cancer/treatment/drugs/glasdegibmaleate">Glasdegib Maleate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+erizo o “hedgehog” (HH). También se llama Daurismo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-11</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000796042" url="/about-cancer/treatment/drugs/glasdegibmaleate">Glasdegib Maleate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

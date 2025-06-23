@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000779748"><TermName>azoospermia</TermName><TermPronunciation>(AY-zoh-oh-SPER-mee-uh)</TermPronunciation><TermDefinition><DefinitionText>A condition in which there are no sperm in the semen when a man ejaculates. This may be because the man does not make sperm or because the sperm is blocked from entering the semen.  Azoospermia may be caused by hormone problems, certain genetic conditions, previous vasectomy or other surgery, or other conditions. It may also be caused by certain cancer treatments. Azoospermia can cause infertility (the inability to produce children).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000781309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;azoospermia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000781308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;azoospermia&quot;" language="es" id="_4"/><SpanishTermName>azoospermia</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que no hay espermatozoides en el semen que eyacula un hombre. Esto se puede deber a que el hombre no produce espermatozoides o porque hay una obstrucción que impide que los espermatozoides pasen al semen. Las causas de la  azoospermia pueden ser problemas hormonales, ciertas afecciones genéticas, una vasectomía previa u otras cirugías, entre otras afecciones. Ciertos tratamientos contra el cáncer también pueden causarla. La azoospermia puede producir esterilidad (incapacidad de engendrar hijos).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2016-04-19</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000779748">
+  <TermName>azoospermia</TermName>
+  <TermPronunciation>(AY-zoh-oh-SPER-mee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which there are no sperm in the semen when a man ejaculates. This may be because the man does not make sperm or because the sperm is blocked from entering the semen.  Azoospermia may be caused by hormone problems, certain genetic conditions, previous vasectomy or other surgery, or other conditions. It may also be caused by certain cancer treatments. Azoospermia can cause infertility (the inability to produce children).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000781309" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;azoospermia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000781308" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;azoospermia&quot;" language="es" id="_4"/>
+  <SpanishTermName>azoospermia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que no hay espermatozoides en el semen que eyacula un hombre. Esto se puede deber a que el hombre no produce espermatozoides o porque hay una obstrucción que impide que los espermatozoides pasen al semen. Las causas de la  azoospermia pueden ser problemas hormonales, ciertas afecciones genéticas, una vasectomía previa u otras cirugías, entre otras afecciones. Ciertos tratamientos contra el cáncer también pueden causarla. La azoospermia puede producir esterilidad (incapacidad de engendrar hijos).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-04-19</DateFirstPublished>
+</GlossaryTerm>

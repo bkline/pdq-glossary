@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000817020"><TermName>acral lentiginous melanoma</TermName><TermPronunciation>(AK-rul len-TIH-jih-nus MEH-luh-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A rare type of melanoma that occurs in areas of the body that are usually not exposed to sunlight, such as the palms of the hands, bottoms of the feet, or under the nails. Melanoma is a type of cancer that begins in melanocytes (cells that make a substance called melanin, which gives color to skin and eyes). Acral lentiginous melanoma can occur in anyone, but it is more common in people with darker skin tones. Also called acral melanoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000817451" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acral lentiginous melanoma&quot;" language="en" id="_6"/><MediaLink ref="CDR0000817452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma lentiginoso acral&quot;" language="es" id="_7"/><SpanishTermName>melanoma lentiginoso acral</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo raro de melanoma que se presenta en partes del cuerpo que no suelen estar expuestas a la luz del sol, como las palmas de las manos, las plantas de los pies y en el lecho de las uñas. El melanoma es un tipo de cáncer que surge en los melanocitos (células productoras de una sustancia llamada melanina, que da el color a la piel y los ojos). Cualquier persona puede presentar un melanoma lentiginoso acral, pero es más frecuente en las personas de piel más oscura. También se llama melanoma acral, melanoma acral lentiginoso, melanoma acrolentiginoso y melanoma lentiginoso acro.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2024-10-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000817020">
+  <TermName>acral lentiginous melanoma</TermName>
+  <TermPronunciation>(AK-rul len-TIH-jih-nus MEH-luh-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare type of melanoma that occurs in areas of the body that are usually not exposed to sunlight, such as the palms of the hands, bottoms of the feet, or under the nails. Melanoma is a type of cancer that begins in melanocytes (cells that make a substance called melanin, which gives color to skin and eyes). Acral lentiginous melanoma can occur in anyone, but it is more common in people with darker skin tones. Also called acral melanoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000817451" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;acral lentiginous melanoma&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000817452" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;melanoma lentiginoso acral&quot;" language="es" id="_7"/>
+  <SpanishTermName>melanoma lentiginoso acral</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo raro de melanoma que se presenta en partes del cuerpo que no suelen estar expuestas a la luz del sol, como las palmas de las manos, las plantas de los pies y en el lecho de las uñas. El melanoma es un tipo de cáncer que surge en los melanocitos (células productoras de una sustancia llamada melanina, que da el color a la piel y los ojos). Cualquier persona puede presentar un melanoma lentiginoso acral, pero es más frecuente en las personas de piel más oscura. También se llama melanoma acral, melanoma acral lentiginoso, melanoma acrolentiginoso y melanoma lentiginoso acro.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2024-10-29</DateFirstPublished>
+</GlossaryTerm>

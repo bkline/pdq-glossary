@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000322861"><TermName>nasoscopy</TermName><TermPronunciation>(nay-ZOS-koh-pee)</TermPronunciation><TermDefinition><DefinitionText>Examination of the inside of the nose using a nasoscope (or rhinoscope). A nasoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue to be checked under a microscope for signs of disease. Also called rhinoscopy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711441" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasoscopy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasoscopia&quot;" language="es" id="_4"/><SpanishTermName>nasoscopia</SpanishTermName><SpanishTermDefinition><DefinitionText>Examen del interior de la nariz con un nasoscopio (o rinoscopio). Un nasoscopio  es un instrumento delgado en forma de tubo, con una luz y una lente para observar. A veces tiene una herramienta para extraer tejido que se observa al microscopio para verificar si hay signos de enfermedad. También se llama rinoscopia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2007-06-29</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000322861">
+  <TermName>nasoscopy</TermName>
+  <TermPronunciation>(nay-ZOS-koh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Examination of the inside of the nose using a nasoscope (or rhinoscope). A nasoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue to be checked under a microscope for signs of disease. Also called rhinoscopy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711441" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasoscopy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711440" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nasoscopia&quot;" language="es" id="_4"/>
+  <SpanishTermName>nasoscopia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Examen del interior de la nariz con un nasoscopio (o rinoscopio). Un nasoscopio  es un instrumento delgado en forma de tubo, con una luz y una lente para observar. A veces tiene una herramienta para extraer tejido que se observa al microscopio para verificar si hay signos de enfermedad. También se llama rinoscopia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2007-06-29</DateLastModified>
+</GlossaryTerm>

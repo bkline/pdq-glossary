@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000784119"><TermName>PDX</TermName><TermDefinition><DefinitionText>Tumor tissue that has been taken from a patient and implanted into mice for research purposes. Cancer drugs and other types of treatment may be tested on xenografts to see how well they work before they are given to the patient. PDXs may be used to help plan treatment and learn what the best treatment may be for a patient. They are also being used in the development of new cancer drugs. Also called patient-derived xenograft.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PDX</SpanishTermName><SpanishTermDefinition><DefinitionText>Tejido tumoral que se extrae de un paciente y se implanta en ratones con fines de investigación. Es posible probar la eficacia de los medicamentos contra el cáncer y otros tipos de tratamientos   en  los xenoinjertos antes de administrarlos al paciente. Los PDX (del ingl. "patient-derived xenograft") se pueden usar para ayudar a planificar el tratamiento y descubrir cuál parece ser el mejor tratamiento para un paciente. Estos injertos también se usan para formular nuevos medicamentos contra el cáncer. También se llama xenoinjerto derivado de paciente.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-02-15</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784119">
+  <TermName>PDX</TermName>
+  <TermDefinition>
+    <DefinitionText>Tumor tissue that has been taken from a patient and implanted into mice for research purposes. Cancer drugs and other types of treatment may be tested on xenografts to see how well they work before they are given to the patient. PDXs may be used to help plan treatment and learn what the best treatment may be for a patient. They are also being used in the development of new cancer drugs. Also called patient-derived xenograft.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PDX</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tejido tumoral que se extrae de un paciente y se implanta en ratones con fines de investigación. Es posible probar la eficacia de los medicamentos contra el cáncer y otros tipos de tratamientos   en  los xenoinjertos antes de administrarlos al paciente. Los PDX (del ingl. &quot;patient-derived xenograft&quot;) se pueden usar para ayudar a planificar el tratamiento y descubrir cuál parece ser el mejor tratamiento para un paciente. Estos injertos también se usan para formular nuevos medicamentos contra el cáncer. También se llama xenoinjerto derivado de paciente.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-02-15</DateFirstPublished>
+</GlossaryTerm>

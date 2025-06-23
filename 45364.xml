@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000045364"><TermName>infection</TermName><TermPronunciation>(in-FEK-shun)</TermPronunciation><TermDefinition><DefinitionText>The invasion
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045364">
+  <TermName>infection</TermName>
+  <TermPronunciation>(in-FEK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The invasion
           and growth of germs in the body. The germs may be bacteria,
           viruses, yeast, fungi, or other microorganisms. Infections
           can begin anywhere in the body and may spread all through
@@ -7,7 +12,15 @@
           immune system is strong, it can often fight the germs and
           cure an infection. Some cancer treatments can weaken the
           immune system, which may lead to
-          infection.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000730904" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infection&quot;" language="en" id="_3"/><MediaLink ref="CDR0000730905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infección&quot;" language="es" id="_4"/><SpanishTermName>infección</SpanishTermName><SpanishTermDefinition><DefinitionText>Invasión y multiplicación de
+          infection.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000730904" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infection&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000730905" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infección&quot;" language="es" id="_4"/>
+  <SpanishTermName>infección</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Invasión y multiplicación de
 gérmenes en el cuerpo. Los gérmenes pueden ser bacterias,
 virus, hongos u otros
 microorganismos. Las infecciones empiezan en
@@ -15,4 +28,13 @@ cualquier parte del cuerpo y a veces se diseminan por todo el cuerpo. Las infecc
 según cuál sea la parte del cuerpo afectada. Cuando el sistema inmunitario es
 fuerte, puede combatir los gérmenes y curar una infección.
 Algunos tratamientos del cáncer debilitan el sistema
-inmunitario y es posible  que se produzcan infecciones.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-04-15</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/infection">Infection and Neutropenia during Cancer Treatment</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/infecciones">Infección y neutropenia</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+inmunitario y es posible  que se produzcan infecciones.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-04-15</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/side-effects/infection">Infection and Neutropenia during Cancer Treatment</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/infecciones">Infección y neutropenia</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000800904"><TermName>pleomorphic lobular carcinoma in situ</TermName><TermPronunciation>(PLEE-oh-MOR-fik LAH-byoo-ler KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>A condition in which abnormal cells are found in the lobules (milk glands) of the breast. The cells tend to look larger and more abnormal under a microscope than cells from the more common classic lobular carcinoma in situ (LCIS). Pleomorphic lobular carcinoma in situ is more likely to become invasive breast cancer and spread to other tissues in the breast than the more common form is. Pleomorphic lobular carcinoma in situ usually occurs in postmenopausal women. Also called PLCIS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802642" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleomorphic lobular carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma lobulillar in situ pleomórfico&quot;" language="es" id="_4"/><SpanishTermName>carcinoma lobulillar in situ pleomórfico</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en los lobulillos (glándulas lácteas) de la mama. Cuando se las observa al microscopio, las células suelen ser más grandes y más anormales que las células del carcinoma lobulillar in situ (CLIS) clásico más frecuente. Es más probable que el carcinoma lobulillar in situ pleomórfico  se convierta en cáncer de mama invasivo  y se disemine a otros tejidos de la mama que la forma más frecuente. Por lo general, el carcinoma lobulillar in situ pleomórfico se presenta en mujeres posmenopáusicas. También se llama CLISP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-05-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800904">
+  <TermName>pleomorphic lobular carcinoma in situ</TermName>
+  <TermPronunciation>(PLEE-oh-MOR-fik LAH-byoo-ler KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which abnormal cells are found in the lobules (milk glands) of the breast. The cells tend to look larger and more abnormal under a microscope than cells from the more common classic lobular carcinoma in situ (LCIS). Pleomorphic lobular carcinoma in situ is more likely to become invasive breast cancer and spread to other tissues in the breast than the more common form is. Pleomorphic lobular carcinoma in situ usually occurs in postmenopausal women. Also called PLCIS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802642" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pleomorphic lobular carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma lobulillar in situ pleomórfico&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma lobulillar in situ pleomórfico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en los lobulillos (glándulas lácteas) de la mama. Cuando se las observa al microscopio, las células suelen ser más grandes y más anormales que las células del carcinoma lobulillar in situ (CLIS) clásico más frecuente. Es más probable que el carcinoma lobulillar in situ pleomórfico  se convierta en cáncer de mama invasivo  y se disemine a otros tejidos de la mama que la forma más frecuente. Por lo general, el carcinoma lobulillar in situ pleomórfico se presenta en mujeres posmenopáusicas. También se llama CLISP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-05-29</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000804937"><TermName>prostate-specific membrane antigen</TermName><TermPronunciation>(PROS-tayt-speh-SIH-fik MEM-brayn AN-tih-jen)</TermPronunciation><TermDefinition><DefinitionText>A protein that is usually found on the surface of normal prostate cells but is found in higher amounts on prostate cancer cells. Prostate-specific membrane antigen may be used as a target in imaging to help find prostate cancer cells, especially those that may have come back or  spread to other parts of the body. Research is  being done to learn more about prostate-specific membrane antigen and how it may also be used as a target for certain anticancer drugs. Also called PSMA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostate-specific membrane antigen&quot;" language="en" id="_4"/><MediaLink ref="CDR0000805981" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antígeno prostático específico de membrana&quot;" language="es" id="_5"/><SpanishTermName>antígeno prostático específico de membrana</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que normalmente se encuentra en la superficie de las células de la próstata, pero que es más abundante en las células del cáncer de próstata. Es posible usar  el   antígeno prostático específico de membrana para obtener imágenes que  ayudan a detectar células de cáncer de próstata, en especial cuando se piensa que el cáncer volvió o que se diseminó a otras partes del cuerpo. Se está investigando el antígeno prostático específico de membrana para saber más sobre esta sustancia y la manera de usarla como diana de ciertos medicamentos contra el cáncer. También se llama antígeno membranario específico de la próstata y PSMA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-05-27</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804937">
+  <TermName>prostate-specific membrane antigen</TermName>
+  <TermPronunciation>(PROS-tayt-speh-SIH-fik MEM-brayn AN-tih-jen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A protein that is usually found on the surface of normal prostate cells but is found in higher amounts on prostate cancer cells. Prostate-specific membrane antigen may be used as a target in imaging to help find prostate cancer cells, especially those that may have come back or  spread to other parts of the body. Research is  being done to learn more about prostate-specific membrane antigen and how it may also be used as a target for certain anticancer drugs. Also called PSMA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805980" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostate-specific membrane antigen&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000805981" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;antígeno prostático específico de membrana&quot;" language="es" id="_5"/>
+  <SpanishTermName>antígeno prostático específico de membrana</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que normalmente se encuentra en la superficie de las células de la próstata, pero que es más abundante en las células del cáncer de próstata. Es posible usar  el   antígeno prostático específico de membrana para obtener imágenes que  ayudan a detectar células de cáncer de próstata, en especial cuando se piensa que el cáncer volvió o que se diseminó a otras partes del cuerpo. Se está investigando el antígeno prostático específico de membrana para saber más sobre esta sustancia y la manera de usarla como diana de ciertos medicamentos contra el cáncer. También se llama antígeno membranario específico de la próstata y PSMA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-05-27</DateFirstPublished>
+</GlossaryTerm>

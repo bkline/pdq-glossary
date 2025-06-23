@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000806017"><TermName>furanocoumarin</TermName><TermPronunciation>(fyoor-A-noh-KOO-muh-rin)</TermPronunciation><TermDefinition><DefinitionText>A substance that comes from certain plants and is found in citrus fruits, such as grapefruits, Seville oranges, pomelos, and limes. Although citrus fruits have health benefits, furanocoumarins can affect how certain enzymes in the liver and small intestine break down drugs. This may change the way certain drugs, such as anticancer drugs, work in the body. </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000808482" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;furanocoumarin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000808483" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;furanocumarina&quot;" language="es" id="_4"/><SpanishTermName>furanocumarina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que proviene de ciertas plantas y que se encuentra en las frutas cítricas, como el pomelo, las naranjas amargas, el limonsón y la lima. Aunque las frutas cítricas brindan beneficios para la salud, las furanocumarinas a veces afectan la forma en que algunas enzimas del hígado y el intestino delgado descomponen los medicamentos. Es posible que esto altere el efecto que ciertos fármacos, como los medicamentos contra el cáncer, tienen en el cuerpo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-12-30</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000806017">
+  <TermName>furanocoumarin</TermName>
+  <TermPronunciation>(fyoor-A-noh-KOO-muh-rin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that comes from certain plants and is found in citrus fruits, such as grapefruits, Seville oranges, pomelos, and limes. Although citrus fruits have health benefits, furanocoumarins can affect how certain enzymes in the liver and small intestine break down drugs. This may change the way certain drugs, such as anticancer drugs, work in the body. </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000808482" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;furanocoumarin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000808483" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;furanocumarina&quot;" language="es" id="_4"/>
+  <SpanishTermName>furanocumarina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que proviene de ciertas plantas y que se encuentra en las frutas cítricas, como el pomelo, las naranjas amargas, el limonsón y la lima. Aunque las frutas cítricas brindan beneficios para la salud, las furanocumarinas a veces afectan la forma en que algunas enzimas del hígado y el intestino delgado descomponen los medicamentos. Es posible que esto altere el efecto que ciertos fármacos, como los medicamentos contra el cáncer, tienen en el cuerpo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-12-30</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000512921"><TermName>stage II Merkel cell carcinoma</TermName><TermPronunciation>(stayj ... MER-kul sel KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>Stage II Merkel cell carcinoma is divided into stages IIA and IIB. In stage IIA, the tumor is larger than 2 centimeters. In stage IIB, the tumor has spread to nearby connective tissue, muscle, cartilage, or bone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718365" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II Merkel cell carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718366" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células de Merkel en estadio II&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de células de Merkel en estadio II</SpanishTermName><SpanishTermDefinition><DefinitionText>El carcinoma de células de Merkel en estadio II se divide en los estadios IIA y IIB. En el estadio IIA, el tumor mide más de 2 cm. En el estadio IIB, el tumor se diseminó al tejido conjuntivo, el músculo, el cartílago o el hueso cercanos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-01-05</DateFirstPublished><DateLastModified>2018-01-09</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000441548" url="/types/skin/patient/merkel-cell-treatment-pdq">Merkel Cell Carcinoma Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000470863" url="/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq">Tratamiento del carcinoma de células de Merkel</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000512921">
+  <TermName>stage II Merkel cell carcinoma</TermName>
+  <TermPronunciation>(stayj ... MER-kul sel KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage II Merkel cell carcinoma is divided into stages IIA and IIB. In stage IIA, the tumor is larger than 2 centimeters. In stage IIB, the tumor has spread to nearby connective tissue, muscle, cartilage, or bone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718365" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage II Merkel cell carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718366" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células de Merkel en estadio II&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de células de Merkel en estadio II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El carcinoma de células de Merkel en estadio II se divide en los estadios IIA y IIB. En el estadio IIA, el tumor mide más de 2 cm. En el estadio IIB, el tumor se diseminó al tejido conjuntivo, el músculo, el cartílago o el hueso cercanos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-01-05</DateFirstPublished>
+  <DateLastModified>2018-01-09</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000441548" url="/types/skin/patient/merkel-cell-treatment-pdq">Merkel Cell Carcinoma Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000470863" url="/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq">Tratamiento del carcinoma de células de Merkel</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

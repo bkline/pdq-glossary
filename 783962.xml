@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000783962"><TermName>founder variant</TermName><TermPronunciation>(FOWN-der VAYR-ee-unt)</TermPronunciation><TermDefinition><DefinitionText>A genetic alteration observed with high frequency in a group that is or was geographically or culturally isolated, in which one or more of the ancestors was a carrier of the altered gene. This phenomenon is often called a founder effect. Also called founder mutation.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000785426" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;founder variant&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804331" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante con efecto fundador&quot;" language="es" id="_4"/><SpanishTermName>variante con efecto fundador</SpanishTermName><SpanishTermDefinition><DefinitionText>Alteración genética que se detecta con una frecuencia elevada en un grupo con aislamiento geográfico o cultural (presente o pasado) que desciende de uno o más antepasados portadores del gen alterado. A menudo este fenómeno se conoce como efecto fundador. También se llama mutación fundadora.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2016-09-28</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000783962">
+  <TermName>founder variant</TermName>
+  <TermPronunciation>(FOWN-der VAYR-ee-unt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A genetic alteration observed with high frequency in a group that is or was geographically or culturally isolated, in which one or more of the ancestors was a carrier of the altered gene. This phenomenon is often called a founder effect. Also called founder mutation.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000785426" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;founder variant&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804331" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;variante con efecto fundador&quot;" language="es" id="_4"/>
+  <SpanishTermName>variante con efecto fundador</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Alteración genética que se detecta con una frecuencia elevada en un grupo con aislamiento geográfico o cultural (presente o pasado) que desciende de uno o más antepasados portadores del gen alterado. A menudo este fenómeno se conoce como efecto fundador. También se llama mutación fundadora.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2016-09-28</DateFirstPublished>
+</GlossaryTerm>

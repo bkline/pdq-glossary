@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000045562"><TermName>sarcoma</TermName><TermPronunciation>(sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of cancer that begins in bone or in the soft tissues of the body, including cartilage, fat, muscle, blood vessels, fibrous tissue, or other connective or supportive tissue. Different types of sarcoma are based on where the cancer forms.  For example, osteosarcoma forms in bone, liposarcoma forms in fat, and rhabdomyosarcoma forms in muscle.  Treatment and prognosis depend on the type and grade of the cancer (how abnormal the cancer cells look under a microscope and how quickly the cancer is likely to grow and spread). Sarcoma occurs in both adults and children.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705595" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma&quot;" language="es" id="_4"/><SpanishTermName>sarcoma</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer que empieza en los huesos o en los tejidos blandos del cuerpo, como los cartílagos, las grasas, los músculos, los vasos sanguíneos, los tejidos fibrosos u otros tejidos conjuntivos o de sostén. Los diferentes tipos de sarcoma dependen del lugar donde se forma el cáncer. Por ejemplo, el osteosarcoma se forma en los huesos, el liposarcoma en las grasas y el rabdomiosarcoma en los músculos. El tratamiento y el pronóstico dependen del tipo y el grado del cáncer (cuán anormales se ven las células cancerosas al microscopio y la rapidez con que es probable que el cáncer crezca y se disemine). El sarcoma se presenta en adultos  y niños.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2014-02-17</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/soft-tissue-sarcoma" UseWith="en">Soft Tissue Sarcoma</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/types/bone" UseWith="en">Bone Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando">Sarcoma de tejido blando</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/hueso">Cáncer de hueso</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045562">
+  <TermName>sarcoma</TermName>
+  <TermPronunciation>(sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of cancer that begins in bone or in the soft tissues of the body, including cartilage, fat, muscle, blood vessels, fibrous tissue, or other connective or supportive tissue. Different types of sarcoma are based on where the cancer forms.  For example, osteosarcoma forms in bone, liposarcoma forms in fat, and rhabdomyosarcoma forms in muscle.  Treatment and prognosis depend on the type and grade of the cancer (how abnormal the cancer cells look under a microscope and how quickly the cancer is likely to grow and spread). Sarcoma occurs in both adults and children.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705596" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705595" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer que empieza en los huesos o en los tejidos blandos del cuerpo, como los cartílagos, las grasas, los músculos, los vasos sanguíneos, los tejidos fibrosos u otros tejidos conjuntivos o de sostén. Los diferentes tipos de sarcoma dependen del lugar donde se forma el cáncer. Por ejemplo, el osteosarcoma se forma en los huesos, el liposarcoma en las grasas y el rabdomiosarcoma en los músculos. El tratamiento y el pronóstico dependen del tipo y el grado del cáncer (cuán anormales se ven las células cancerosas al microscopio y la rapidez con que es probable que el cáncer crezca y se disemine). El sarcoma se presenta en adultos  y niños.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2014-02-17</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/soft-tissue-sarcoma" UseWith="en">Soft Tissue Sarcoma</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/bone" UseWith="en">Bone Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando">Sarcoma de tejido blando</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/hueso">Cáncer de hueso</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

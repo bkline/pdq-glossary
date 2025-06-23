@@ -1,7 +1,29 @@
-<GlossaryTerm id="CDR0000775863"><TermName>trifluridine and tipiracil hydrochloride</TermName><TermPronunciation>(try-FLOOR-ih-deen … ty-PEER-uh-sil HY-droh-KLOR-ide)</TermPronunciation><TermDefinition><DefinitionText>A combination of two drugs used alone or with bevacizumab to treat adults with certain types of colorectal cancer, stomach cancer, or gastroesophageal junction cancer. It is used in patients whose cancer has spread to other parts of the body and has already been treated with other anticancer treatments. It is also being studied in the treatment of other types of cancer. Trifluridine and tipiracil hydrochloride stops cells from making DNA, which may help keep cancer cells from growing and may kill them. It is a type of antimetabolite and a type of thymidine phosphorylase inhibitor. Also called Lonsurf.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000776471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trifluridine and tipiracil hydrochloride&quot;" language="en" id="_3"/><MediaLink ref="CDR0000776470" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trifluridina y clorhidrato de tipiracilo&quot;" language="es" id="_4"/><SpanishTermName>trifluridina y clorhidrato de tipiracilo</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento compuesto por una combinación de dos fármacos que se usa sola o con bevacizumab para el tratamiento de adultos con ciertos tipos de cáncer colorrectal, cáncer de estómago o cáncer de unión gastroesofágica.  Se usa en pacientes cuyo cáncer se diseminó a otras partes del cuerpo y
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000775863">
+  <TermName>trifluridine and tipiracil hydrochloride</TermName>
+  <TermPronunciation>(try-FLOOR-ih-deen … ty-PEER-uh-sil HY-droh-KLOR-ide)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A combination of two drugs used alone or with bevacizumab to treat adults with certain types of colorectal cancer, stomach cancer, or gastroesophageal junction cancer. It is used in patients whose cancer has spread to other parts of the body and has already been treated with other anticancer treatments. It is also being studied in the treatment of other types of cancer. Trifluridine and tipiracil hydrochloride stops cells from making DNA, which may help keep cancer cells from growing and may kill them. It is a type of antimetabolite and a type of thymidine phosphorylase inhibitor. Also called Lonsurf.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000776471" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trifluridine and tipiracil hydrochloride&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000776470" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trifluridina y clorhidrato de tipiracilo&quot;" language="es" id="_4"/>
+  <SpanishTermName>trifluridina y clorhidrato de tipiracilo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento compuesto por una combinación de dos fármacos que se usa sola o con bevacizumab para el tratamiento de adultos con ciertos tipos de cáncer colorrectal, cáncer de estómago o cáncer de unión gastroesofágica.  Se usa en pacientes cuyo cáncer se diseminó a otras partes del cuerpo y
 ya se trató con otros medicamentos
 contra el cáncer. Además está en estudio para el tratamiento de
 otros tipos de cáncer. Esta combinación de fármacos impide que las células
 elaboren ADN, lo que es posible que ayude a evitar la multiplicación
 de células cancerosas y  quizás las
-destruya. Este medicamento incluye un tipo de antimetabolito y de inhibidor de la timidina–fosforilasa. También se llama Lonsurf y trifluridina y tipiracilo hidrocloruro.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2015-09-25</DateFirstPublished><DateLastModified>2023-08-07</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000775869" url="/about-cancer/treatment/drugs/trifluridine-tipiracilhydrochloride">Trifluridine and Tipiracil Hydrochloride</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+destruya. Este medicamento incluye un tipo de antimetabolito y de inhibidor de la timidina–fosforilasa. También se llama Lonsurf y trifluridina y tipiracilo hidrocloruro.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2015-09-25</DateFirstPublished>
+  <DateLastModified>2023-08-07</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000775869" url="/about-cancer/treatment/drugs/trifluridine-tipiracilhydrochloride">Trifluridine and Tipiracil Hydrochloride</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

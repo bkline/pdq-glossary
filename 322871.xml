@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000322871"><TermName>neurological exam</TermName><TermPronunciation>(NOOR-oh-LAH-jih-kul eg-ZAM)</TermPronunciation><TermDefinition><DefinitionText>A series of questions and tests to check brain, spinal cord, and nerve function. The exam checks a person’s mental status, coordination, ability to walk, and how well the muscles, sensory systems, and deep tendon reflexes work.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurological exam&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711457" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;examen neurológico&quot;" language="es" id="_4"/><SpanishTermName>examen neurológico</SpanishTermName><SpanishTermDefinition><DefinitionText>Serie de preguntas y pruebas para revisar el funcionamiento del encéfalo (que incluye el cerebro), la médula espinal y los nervios. Durante el examen, se verifica el estado mental, la coordinación, la capacidad de caminar y el funcionamiento adecuado de los músculos, los sentidos y los reflejos profundos de los tendones. También se llama exploración neurológica, neuroexamen y reconocimiento neurológico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-07-26</DateFirstPublished><DateLastModified>2006-04-20</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000322871">
+  <TermName>neurological exam</TermName>
+  <TermPronunciation>(NOOR-oh-LAH-jih-kul eg-ZAM)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A series of questions and tests to check brain, spinal cord, and nerve function. The exam checks a person’s mental status, coordination, ability to walk, and how well the muscles, sensory systems, and deep tendon reflexes work.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711456" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurological exam&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711457" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;examen neurológico&quot;" language="es" id="_4"/>
+  <SpanishTermName>examen neurológico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Serie de preguntas y pruebas para revisar el funcionamiento del encéfalo (que incluye el cerebro), la médula espinal y los nervios. Durante el examen, se verifica el estado mental, la coordinación, la capacidad de caminar y el funcionamiento adecuado de los músculos, los sentidos y los reflejos profundos de los tendones. También se llama exploración neurológica, neuroexamen y reconocimiento neurológico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-07-26</DateFirstPublished>
+  <DateLastModified>2006-04-20</DateLastModified>
+</GlossaryTerm>

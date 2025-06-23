@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000637631"><TermName>vinblastine sulfate</TermName><TermPronunciation>(vin-BLAS-teen SUL-fayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat certain types of breast cancer, choriocarcinoma (a type of gestational trophoblastic tumor), Hodgkin lymphoma, non-Hodgkin lymphoma, Kaposi sarcoma, mycosis fungoides (a type of cutaneous T-cell lymphoma), and testicular cancer. It is also being studied in the treatment of other types of cancer. Vinblastine sulfate  stops cancer cells from growing and dividing and may kill them. It is a type of vinca alkaloid. The brand name Velban has been taken off the market and is no longer available.  </DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722781" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vinblastine sulfate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de vinblastina&quot;" language="es" id="_4"/><SpanishTermName>sulfato de vinblastina</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de mama, coriocarcinoma (tipo de tumor trofoblástico gestacional), linfoma de Hodgkin, linfoma no Hodgkin, sarcoma de Kaposi, micosis fungoide (tipo de linfoma cutáneo de células T) y cáncer de testículo. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de vinblastina detiene el crecimiento y la multiplicación  de células cancerosas y es posible que las destruya. Es un tipo de alcaloide de vinca. La marca Velban se retiró del mercado y ya no se consigue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-03-10</DateFirstPublished><DateLastModified>2020-12-21</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000688288" url="/about-cancer/treatment/drugs/vinblastinesulfate">Vinblastine Sulfate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000637631">
+  <TermName>vinblastine sulfate</TermName>
+  <TermPronunciation>(vin-BLAS-teen SUL-fayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat certain types of breast cancer, choriocarcinoma (a type of gestational trophoblastic tumor), Hodgkin lymphoma, non-Hodgkin lymphoma, Kaposi sarcoma, mycosis fungoides (a type of cutaneous T-cell lymphoma), and testicular cancer. It is also being studied in the treatment of other types of cancer. Vinblastine sulfate  stops cancer cells from growing and dividing and may kill them. It is a type of vinca alkaloid. The brand name Velban has been taken off the market and is no longer available.  </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722781" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vinblastine sulfate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722782" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sulfato de vinblastina&quot;" language="es" id="_4"/>
+  <SpanishTermName>sulfato de vinblastina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de ciertos tipos de cáncer de mama, coriocarcinoma (tipo de tumor trofoblástico gestacional), linfoma de Hodgkin, linfoma no Hodgkin, sarcoma de Kaposi, micosis fungoide (tipo de linfoma cutáneo de células T) y cáncer de testículo. También está en estudio para el tratamiento de otros tipos de cáncer. El sulfato de vinblastina detiene el crecimiento y la multiplicación  de células cancerosas y es posible que las destruya. Es un tipo de alcaloide de vinca. La marca Velban se retiró del mercado y ya no se consigue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-03-10</DateFirstPublished>
+  <DateLastModified>2020-12-21</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000688288" url="/about-cancer/treatment/drugs/vinblastinesulfate">Vinblastine Sulfate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

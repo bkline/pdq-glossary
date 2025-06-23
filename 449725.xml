@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000449725"><TermName>cupping</TermName><TermPronunciation>(KUP-ping)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which a rounded glass cup is warmed and placed upside down over an area of the body, creating suction that holds the cup to the skin. Cupping increases the flow of blood. In traditional Chinese medicine, it is also thought to increase the flow of qi (vital energy).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000715101" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cupping&quot;" language="en" id="_3"/><MediaLink ref="CDR0000715102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aplicación de ventosas&quot;" language="es" id="_4"/><SpanishTermName>aplicación de ventosas</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento para el que se calienta un vaso de vidrio redondo que se llama ventosa; esta se coloca boca abajo en una parte del cuerpo a fin de crear una succión que mantiene el vaso adherido a la piel. Las ventosas aumentan el flujo de la sangre. En la medicina tradicional china, también se cree que aumenta el flujo del <Emphasis>qi</Emphasis> (energía vital).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-02-21</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000449725">
+  <TermName>cupping</TermName>
+  <TermPronunciation>(KUP-ping)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which a rounded glass cup is warmed and placed upside down over an area of the body, creating suction that holds the cup to the skin. Cupping increases the flow of blood. In traditional Chinese medicine, it is also thought to increase the flow of qi (vital energy).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000715101" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cupping&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000715102" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aplicación de ventosas&quot;" language="es" id="_4"/>
+  <SpanishTermName>aplicación de ventosas</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Procedimiento para el que se calienta un vaso de vidrio redondo que se llama ventosa; esta se coloca boca abajo en una parte del cuerpo a fin de crear una succión que mantiene el vaso adherido a la piel. Las ventosas aumentan el flujo de la sangre. En la medicina tradicional china, también se cree que aumenta el flujo del 
+      <Emphasis>qi</Emphasis>
+       (energía vital).
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-02-21</DateFirstPublished>
+</GlossaryTerm>

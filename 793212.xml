@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000793212"><TermName>Epogen</TermName><TermPronunciation>(EE-poh-jen)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat anemia caused by chronic kidney disease, some types of chemotherapy, and an antiviral drug for HIV infection called zidovudine. It is also used to lower the number of donor blood transfusions needed during and after certain types of surgery. Epogen is a form of erythropoietin (a substance naturally made by the kidneys) that is made in the laboratory. It helps the bone marrow make more red blood cells. Epogen is a type of antianemic and a type of erythropoiesis-stimulating agent. Also called epoetin alfa, Procrit, and Retacrit.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000793663" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Epogen&quot;" language="en" id="_3"/><MediaLink ref="CDR0000793662" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Epogen&quot;" language="es" id="_4"/><SpanishTermName>Epogen</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la anemia causada por la enfermedad renal crónica, algunos tipos de quimioterapia y un antivírico para la infección por el VIH que se llama zidovudina. También se utiliza para disminuir el número de transfusiones de sangre donada que se necesitan antes de realizar ciertos tipos de cirugía y después de esta. Epogen es una forma de eritropoyetina (sustancia que los riñones elaboran de manera natural) que se produce en el laboratorio. Ayuda a la médula ósea a producir más glóbulos rojos. Epogen es un tipo de antianémico y de estimulante de la eritropoyesis. También se llama epoetina alfa, Procrit y Retacrit.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-05-08</DateFirstPublished><DateLastModified>2018-05-08</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000793173" url="/about-cancer/treatment/drugs/epoetinalfa">Epoetin Alfa</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000793212">
+  <TermName>Epogen</TermName>
+  <TermPronunciation>(EE-poh-jen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat anemia caused by chronic kidney disease, some types of chemotherapy, and an antiviral drug for HIV infection called zidovudine. It is also used to lower the number of donor blood transfusions needed during and after certain types of surgery. Epogen is a form of erythropoietin (a substance naturally made by the kidneys) that is made in the laboratory. It helps the bone marrow make more red blood cells. Epogen is a type of antianemic and a type of erythropoiesis-stimulating agent. Also called epoetin alfa, Procrit, and Retacrit.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000793663" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Epogen&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000793662" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Epogen&quot;" language="es" id="_4"/>
+  <SpanishTermName>Epogen</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de la anemia causada por la enfermedad renal crónica, algunos tipos de quimioterapia y un antivírico para la infección por el VIH que se llama zidovudina. También se utiliza para disminuir el número de transfusiones de sangre donada que se necesitan antes de realizar ciertos tipos de cirugía y después de esta. Epogen es una forma de eritropoyetina (sustancia que los riñones elaboran de manera natural) que se produce en el laboratorio. Ayuda a la médula ósea a producir más glóbulos rojos. Epogen es un tipo de antianémico y de estimulante de la eritropoyesis. También se llama epoetina alfa, Procrit y Retacrit.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-05-08</DateFirstPublished>
+  <DateLastModified>2018-05-08</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000793173" url="/about-cancer/treatment/drugs/epoetinalfa">Epoetin Alfa</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044449"><TermName>PR negative</TermName><TermPronunciation>(... NEH-guh-tiv)</TermPronunciation><TermDefinition><DefinitionText>Describes cells that do not have a protein that binds to the hormone progesterone. Cancer cells that are PR negative do not need progesterone to grow. This means that they will keep growing when progesterone is not present and do not stop growing when treated with substances that block progesterone from binding. Also called progesterone receptor negative.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000734701" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PR negative&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802504" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;negativa para PR&quot;" language="es" id="_4"/><SpanishTermName>negativa para PR</SpanishTermName><SpanishTermDefinition><DefinitionText>Característica de una célula que no tiene una proteína que se une a la hormona progesterona. Las células cancerosas negativas para PR no necesitan estrógeno para multiplicarse, de manera que se siguen multiplicando aunque no haya progesterona, y no dejan de multiplicarse cuando se tratan con sustancias que bloquean la unión de la progesterona. También se llama negativa para el receptor de progesterona.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2020-11-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044449">
+  <TermName>PR negative</TermName>
+  <TermPronunciation>(... NEH-guh-tiv)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes cells that do not have a protein that binds to the hormone progesterone. Cancer cells that are PR negative do not need progesterone to grow. This means that they will keep growing when progesterone is not present and do not stop growing when treated with substances that block progesterone from binding. Also called progesterone receptor negative.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000734701" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;PR negative&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802504" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;negativa para PR&quot;" language="es" id="_4"/>
+  <SpanishTermName>negativa para PR</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Característica de una célula que no tiene una proteína que se une a la hormona progesterona. Las células cancerosas negativas para PR no necesitan estrógeno para multiplicarse, de manera que se siguen multiplicando aunque no haya progesterona, y no dejan de multiplicarse cuando se tratan con sustancias que bloquean la unión de la progesterona. También se llama negativa para el receptor de progesterona.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2020-11-19</DateLastModified>
+</GlossaryTerm>

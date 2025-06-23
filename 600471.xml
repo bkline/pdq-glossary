@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000600471"><TermName>VEGFR-2 inhibitor CT-322</TermName><TermPronunciation>(... in-HIH-bih-ter ...)</TermPronunciation><TermDefinition><DefinitionText>A substance being studied in the treatment of cancer. VEGFR-2 inhibitor CT-322 may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of vascular endothelial growth factor receptor-2 (VEGFR-2) inhibitor and a type of antiangiogenesis agent. Also called Angiocept and CT-322.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720633" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VEGFR-2 inhibitor CT-322&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720632" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor del VEGFR-2 CT-322&quot;" language="es" id="_4"/><SpanishTermName>inhibidor del VEGFR-2 CT-322</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento del cáncer. El inhibidor del VEGFR-2 CT-322 quizás impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer y es posible que destruya células cancerosas. Es un tipo de antiangiogénico y de inhibidor del receptor del factor de crecimiento endotelial vascular-2 (VEGFR-2). También se llama Angiocept y CT-322.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-07-14</DateFirstPublished><DateLastModified>2009-04-21</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000600471">
+  <TermName>VEGFR-2 inhibitor CT-322</TermName>
+  <TermPronunciation>(... in-HIH-bih-ter ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance being studied in the treatment of cancer. VEGFR-2 inhibitor CT-322 may prevent the growth of new blood vessels that tumors need to grow and may kill cancer cells. It is a type of vascular endothelial growth factor receptor-2 (VEGFR-2) inhibitor and a type of antiangiogenesis agent. Also called Angiocept and CT-322.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720633" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;VEGFR-2 inhibitor CT-322&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720632" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor del VEGFR-2 CT-322&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor del VEGFR-2 CT-322</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento del cáncer. El inhibidor del VEGFR-2 CT-322 quizás impida la formación de vasos sanguíneos nuevos que los tumores necesitan para crecer y es posible que destruya células cancerosas. Es un tipo de antiangiogénico y de inhibidor del receptor del factor de crecimiento endotelial vascular-2 (VEGFR-2). También se llama Angiocept y CT-322.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-07-14</DateFirstPublished>
+  <DateLastModified>2009-04-21</DateLastModified>
+</GlossaryTerm>

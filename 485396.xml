@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000485396"><TermName>SDR</TermName><TermDefinition><DefinitionText>An aunt, uncle, grandparent, grandchild, niece, nephew, or half-sibling of an individual. Also called second-degree relative.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A way of describing how family members are related to each other when there is one other family member in the blood line between them. Examples of an SDR are an aunt, uncle, grandparent, grandchild, niece, nephew, or half-sibling. Also called second-degree relative.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>FSG</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma de describir el vínculo familiar entre dos personas cuando en la línea sanguínea los separa otra persona. Algunos ejemplos de FSG son los tíos, abuelos, nietos, sobrinos, o medio hermanos de ambos sexos de una persona. También se llama familiar de segundo grado.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Tipo de pariente entre los que se incluyen los tíos, abuelos, nietos, sobrinos o medio hermanos de ambos sexos de una persona. También se llama familiar de segundo grado.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2006-05-19</DateFirstPublished><DateLastModified>2023-03-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000485396">
+  <TermName>SDR</TermName>
+  <TermDefinition>
+    <DefinitionText>An aunt, uncle, grandparent, grandchild, niece, nephew, or half-sibling of an individual. Also called second-degree relative.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A way of describing how family members are related to each other when there is one other family member in the blood line between them. Examples of an SDR are an aunt, uncle, grandparent, grandchild, niece, nephew, or half-sibling. Also called second-degree relative.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>FSG</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma de describir el vínculo familiar entre dos personas cuando en la línea sanguínea los separa otra persona. Algunos ejemplos de FSG son los tíos, abuelos, nietos, sobrinos, o medio hermanos de ambos sexos de una persona. También se llama familiar de segundo grado.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de pariente entre los que se incluyen los tíos, abuelos, nietos, sobrinos o medio hermanos de ambos sexos de una persona. También se llama familiar de segundo grado.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-05-19</DateFirstPublished>
+  <DateLastModified>2023-03-06</DateLastModified>
+</GlossaryTerm>

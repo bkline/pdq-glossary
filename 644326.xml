@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000644326"><TermName>PA</TermName><TermDefinition><DefinitionText>A health professional who is licensed to do certain medical procedures under the guidance of a doctor.  A PA may take medical histories, do physical exams, take blood and urine samples, care for wounds, and give injections and immunizations. Also called physician assistant.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>PA</SpanishTermName><SpanishTermDefinition><DefinitionText>Profesional de la salud autorizado para llevar a cabo ciertos procedimientos médicos bajo la supervisión de un médico. Las personas que se dedican a la profesión de PA pueden llevar a cabo entrevistas clínicas, realizar exámenes físicos, tomar muestras de sangre y orina, curar heridas, aplicar inyecciones y administrar vacunas. También se llama asociado médico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-10-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000644326">
+  <TermName>PA</TermName>
+  <TermDefinition>
+    <DefinitionText>A health professional who is licensed to do certain medical procedures under the guidance of a doctor.  A PA may take medical histories, do physical exams, take blood and urine samples, care for wounds, and give injections and immunizations. Also called physician assistant.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>PA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Profesional de la salud autorizado para llevar a cabo ciertos procedimientos médicos bajo la supervisión de un médico. Las personas que se dedican a la profesión de PA pueden llevar a cabo entrevistas clínicas, realizar exámenes físicos, tomar muestras de sangre y orina, curar heridas, aplicar inyecciones y administrar vacunas. También se llama asociado médico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-10-05</DateFirstPublished>
+</GlossaryTerm>

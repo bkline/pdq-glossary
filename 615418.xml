@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000615418"><TermName>severe combined immunodeficiency disease</TermName><TermPronunciation>(seh-VEER kum-BIND IH-myoo-noh-deh-FIH-shun-see dih-ZEEZ)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disease that is marked by a lack of B lymphocytes (white blood cells that make antibodies and help fight infections) and a lack of T lymphocytes (white blood cells that attack virus-infected cells, foreign cells, and cancer cells). Patients with this disease have a high risk of developing viral, bacterial, and fungal infections. Also called SCID.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720845" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;severe combined immunodeficiency disease&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720844" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad de inmunodeficiencia combinada grave&quot;" language="es" id="_4"/><SpanishTermName>enfermedad de inmunodeficiencia combinada grave</SpanishTermName><SpanishTermDefinition><DefinitionText>Enfermedad hereditaria rara que se caracteriza por la falta de linfocitos B (glóbulos blancos que elaboran anticuerpos y ayudan a luchar contra las infecciones) y  linfocitos T (glóbulos blancos que atacan a las células infectadas por virus, células extrañas y células cancerosas). Los pacientes con esta enfermedad tienen un riesgo alto de contraer infecciones por virus, bacterias y hongos. También se llama IDCG e inmunodeficiencia combinada severa.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-23</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7628/severe-combined-immunodeficiency">Severe combined immunodeficiency (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13312/inmunodeficiencia-combinada-grave">Inmunodeficiencia combinada grave (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000615418">
+  <TermName>severe combined immunodeficiency disease</TermName>
+  <TermPronunciation>(seh-VEER kum-BIND IH-myoo-noh-deh-FIH-shun-see dih-ZEEZ)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disease that is marked by a lack of B lymphocytes (white blood cells that make antibodies and help fight infections) and a lack of T lymphocytes (white blood cells that attack virus-infected cells, foreign cells, and cancer cells). Patients with this disease have a high risk of developing viral, bacterial, and fungal infections. Also called SCID.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720845" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;severe combined immunodeficiency disease&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720844" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;enfermedad de inmunodeficiencia combinada grave&quot;" language="es" id="_4"/>
+  <SpanishTermName>enfermedad de inmunodeficiencia combinada grave</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Enfermedad hereditaria rara que se caracteriza por la falta de linfocitos B (glóbulos blancos que elaboran anticuerpos y ayudan a luchar contra las infecciones) y  linfocitos T (glóbulos blancos que atacan a las células infectadas por virus, células extrañas y células cancerosas). Los pacientes con esta enfermedad tienen un riesgo alto de contraer infecciones por virus, bacterias y hongos. También se llama IDCG e inmunodeficiencia combinada severa.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/7628/severe-combined-immunodeficiency">Severe combined immunodeficiency (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/13312/inmunodeficiencia-combinada-grave">Inmunodeficiencia combinada grave (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

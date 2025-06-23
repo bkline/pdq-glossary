@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044626"><TermName>synovial sarcoma</TermName><TermPronunciation>(sih-NOH-vee-ul sar-KOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of cancer that usually forms in the tissue around the joints in the arms or legs. It may also form in the trunk (chest and abdomen), or the head and neck and it may spread to the lungs, bones, and lymph nodes. Synovial sarcoma usually occurs in children and young adults.  It is a type of soft tissue sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;synovial sarcoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma sinovial&quot;" language="es" id="_4"/><SpanishTermName>sarcoma sinovial</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de cáncer que por lo  habitual se forma en el tejido que rodea las articulaciones de los brazos y las piernas. También se forma en el tronco (tórax y abdomen), o la cabeza y el cuello; se puede diseminar a los pulmones, los huesos y los ganglios linfáticos. El sarcoma sinovial se suele presentar en niños y adultos jóvenes. Es un tipo de sarcoma de tejido blando.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-10-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044626">
+  <TermName>synovial sarcoma</TermName>
+  <TermPronunciation>(sih-NOH-vee-ul sar-KOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of cancer that usually forms in the tissue around the joints in the arms or legs. It may also form in the trunk (chest and abdomen), or the head and neck and it may spread to the lungs, bones, and lymph nodes. Synovial sarcoma usually occurs in children and young adults.  It is a type of soft tissue sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704858" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;synovial sarcoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;sarcoma sinovial&quot;" language="es" id="_4"/>
+  <SpanishTermName>sarcoma sinovial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de cáncer que por lo  habitual se forma en el tejido que rodea las articulaciones de los brazos y las piernas. También se forma en el tronco (tórax y abdomen), o la cabeza y el cuello; se puede diseminar a los pulmones, los huesos y los ganglios linfáticos. El sarcoma sinovial se suele presentar en niños y adultos jóvenes. Es un tipo de sarcoma de tejido blando.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-10-06</DateLastModified>
+</GlossaryTerm>

@@ -1,4 +1,8 @@
-<GlossaryTerm id="CDR0000653120"><TermName>IGF</TermName><TermDefinition><DefinitionText>A protein made
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000653120">
+  <TermName>IGF</TermName>
+  <TermDefinition>
+    <DefinitionText>A protein made
           by the body that stimulates the growth of many types of
           cells. IGF is similar to
           insulin (a hormone made in the pancreas). There are two
@@ -6,7 +10,13 @@
           IGF-2. Higher than normal levels of IGF-1 may increase the
           risk of several types of cancer.
           IGF is a type of growth
-          factor and a type of cytokine. Also called insulin-like growth factor and somatomedin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>IGF</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína elaborada por el
+          factor and a type of cytokine. Also called insulin-like growth factor and somatomedin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>IGF</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína elaborada por el
 cuerpo que estimula el crecimiento de muchos tipos de
 células. El IGF es semejante a la
 insulina (una hormona elaborada en el páncreas). Hay dos
@@ -17,4 +27,9 @@ IGF-1 más altas que lo
 normal aumenten el riesgo de
 varios tipos
 de cáncer. El IGF es un tipo de citocina  y de factor
-de crecimiento. También se llama factor de crecimiento similar a la insulina y somatomedina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-09-30</DateFirstPublished></GlossaryTerm>
+de crecimiento. También se llama factor de crecimiento similar a la insulina y somatomedina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-09-30</DateFirstPublished>
+</GlossaryTerm>

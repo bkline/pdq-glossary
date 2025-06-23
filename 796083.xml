@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000796083"><TermName>Herzuma</TermName><TermPronunciation>(her-ZOO-muh)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat certain types of breast cancer, stomach cancer, and gastroesophageal junction cancer that are HER2 positive.  It is also being studied in the treatment of other types of cancer. Herzuma binds to a protein called HER2, which is found on some cancer cells. This may help the immune system kill cancer cells.  Herzuma is a type of monoclonal antibody and a type of HER2 receptor antagonist. Also called Herceptin, Hercessi, Kanjinti, Ogivri, Ontruzant, trastuzumab, and Trazimera.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herzuma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797295" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herzuma&quot;" language="es" id="_4"/><SpanishTermName>Herzuma</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con otros medicamentos para tratar ciertos tipos de cáncer de mama, cáncer de estómago y cáncer de unión gastroesofágica positivos para HER2.  También está en estudio para el tratamiento de otros tipos de cáncer. Herzuma se une a una proteína llamada HER2, que se encuentra en algunas células cancerosas, y ayuda al sistema inmunitario a destruir células cancerosas. Herzuma es un tipo de anticuerpo monoclonal y de antagonista del receptor de HER2. También se llama Herceptin, Hercessi, Kanjinti, Ogivri, Ontruzant, trastuzumab y Trazimera.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-19</DateFirstPublished><DateLastModified>2020-08-20</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000502211" url="/about-cancer/treatment/drugs/trastuzumab">Trastuzumab</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796083">
+  <TermName>Herzuma</TermName>
+  <TermPronunciation>(her-ZOO-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat certain types of breast cancer, stomach cancer, and gastroesophageal junction cancer that are HER2 positive.  It is also being studied in the treatment of other types of cancer. Herzuma binds to a protein called HER2, which is found on some cancer cells. This may help the immune system kill cancer cells.  Herzuma is a type of monoclonal antibody and a type of HER2 receptor antagonist. Also called Herceptin, Hercessi, Kanjinti, Ogivri, Ontruzant, trastuzumab, and Trazimera.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herzuma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797295" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Herzuma&quot;" language="es" id="_4"/>
+  <SpanishTermName>Herzuma</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con otros medicamentos para tratar ciertos tipos de cáncer de mama, cáncer de estómago y cáncer de unión gastroesofágica positivos para HER2.  También está en estudio para el tratamiento de otros tipos de cáncer. Herzuma se une a una proteína llamada HER2, que se encuentra en algunas células cancerosas, y ayuda al sistema inmunitario a destruir células cancerosas. Herzuma es un tipo de anticuerpo monoclonal y de antagonista del receptor de HER2. También se llama Herceptin, Hercessi, Kanjinti, Ogivri, Ontruzant, trastuzumab y Trazimera.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-19</DateFirstPublished>
+  <DateLastModified>2020-08-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000502211" url="/about-cancer/treatment/drugs/trastuzumab">Trastuzumab</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

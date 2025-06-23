@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000413921"><TermName>stage I transitional cell cancer of the renal pelvis and ureter</TermName><TermPronunciation>(... tran-ZIH-shuh-nul sel KAN-ser ... REE-nul PEL-vus ... YER-eh-ter)</TermPronunciation><TermDefinition><DefinitionText>Cancer has spread from the tissue lining the inside of the renal pelvis or ureter to the connective tissue layer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713294" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I transitional cell cancer of the renal pelvis and ureter&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713295" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de células de transición de pelvis renal y uréter en estadio I&quot;" language="es" id="_4"/><SpanishTermName>cáncer de células de transición de pelvis renal y uréter en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El cáncer se diseminó desde el tejido que reviste el interior de la pelvis renal o el uréter hasta la capa de tejido conjuntivo.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-04-23</DateFirstPublished><DateLastModified>2018-02-06</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000343585" url="/types/kidney/patient/transitional-cell-treatment-pdq">Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256834" url="/espanol/tipos/rinon/paciente/tratamiento-celulas-de-transicion-pdq">Tratamiento del cáncer de células de transición de pelvis renal y de uréter</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000413921">
+  <TermName>stage I transitional cell cancer of the renal pelvis and ureter</TermName>
+  <TermPronunciation>(... tran-ZIH-shuh-nul sel KAN-ser ... REE-nul PEL-vus ... YER-eh-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Cancer has spread from the tissue lining the inside of the renal pelvis or ureter to the connective tissue layer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713294" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I transitional cell cancer of the renal pelvis and ureter&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713295" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de células de transición de pelvis renal y uréter en estadio I&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de células de transición de pelvis renal y uréter en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El cáncer se diseminó desde el tejido que reviste el interior de la pelvis renal o el uréter hasta la capa de tejido conjuntivo.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-04-23</DateFirstPublished>
+  <DateLastModified>2018-02-06</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000343585" url="/types/kidney/patient/transitional-cell-treatment-pdq">Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256834" url="/espanol/tipos/rinon/paciente/tratamiento-celulas-de-transicion-pdq">Tratamiento del cáncer de células de transición de pelvis renal y de uréter</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

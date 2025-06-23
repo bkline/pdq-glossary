@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000643128"><TermName>radiosensitizing agent</TermName><TermPronunciation>(RAY-dee-oh-SEN-sih-TY-zing AY-jent)</TermPronunciation><TermDefinition><DefinitionText>Any substance that makes tumor cells easier to kill with radiation therapy. Some radiosensitizing agents are being studied in the treatment of cancer. Also called radiosensitizer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000749836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiosensitizing agent&quot;" language="en" id="_3"/><MediaLink ref="CDR0000749837" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiosensibilizante&quot;" language="es" id="_4"/><SpanishTermName>radiosensibilizante</SpanishTermName><SpanishTermDefinition><DefinitionText>Cualquier sustancia que sensibiliza las células tumorales a la radioterapia. Algunos radiosensibilizantes están en estudio para tratar el cáncer.  También se llama radiosensibilizador.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-02-12</DateFirstPublished><DateLastModified>2013-02-12</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000643128">
+  <TermName>radiosensitizing agent</TermName>
+  <TermPronunciation>(RAY-dee-oh-SEN-sih-TY-zing AY-jent)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Any substance that makes tumor cells easier to kill with radiation therapy. Some radiosensitizing agents are being studied in the treatment of cancer. Also called radiosensitizer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000749836" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiosensitizing agent&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000749837" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;radiosensibilizante&quot;" language="es" id="_4"/>
+  <SpanishTermName>radiosensibilizante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Cualquier sustancia que sensibiliza las células tumorales a la radioterapia. Algunos radiosensibilizantes están en estudio para tratar el cáncer.  También se llama radiosensibilizador.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-02-12</DateFirstPublished>
+  <DateLastModified>2013-02-12</DateLastModified>
+</GlossaryTerm>

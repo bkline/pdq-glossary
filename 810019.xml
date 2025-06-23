@@ -1,1 +1,14 @@
-<GlossaryTerm id="CDR0000810019"><TermName>Level of evidence A2</TermName><TermDefinition><DefinitionText>Meta-analysis of randomized controlled clinical trials with an endpoint of overall survival from a defined time, total mortality, or cause-specific mortality.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia A2</SpanishTermName><SpanishTermDefinition><DefinitionText>Metanálisis de ensayos clínicos controlados aleatorizados en el que se usa como un criterio de valoración la supervivencia general durante un periodo definido, la mortalidad total o la mortalidad por causa específica.</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2022-06-29</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810019">
+  <TermName>Level of evidence A2</TermName>
+  <TermDefinition>
+    <DefinitionText>Meta-analysis of randomized controlled clinical trials with an endpoint of overall survival from a defined time, total mortality, or cause-specific mortality.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia A2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Metanálisis de ensayos clínicos controlados aleatorizados en el que se usa como un criterio de valoración la supervivencia general durante un periodo definido, la mortalidad total o la mortalidad por causa específica.</DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-06-29</DateFirstPublished>
+</GlossaryTerm>

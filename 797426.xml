@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000797426"><TermName>mechanism of action</TermName><TermPronunciation>(MEH-kuh-nih-zum … AK-shun)</TermPronunciation><TermDefinition><DefinitionText>In medicine, a term used to describe how a drug or other substance produces an effect in the body. For example, a drug’s mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth.  Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment. Also called MOA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000799631" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mechanism of action&quot;" language="en" id="_4"/><MediaLink ref="CDR0000799630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mecanismo de acción&quot;" language="es" id="_5"/><SpanishTermName>mecanismo de acción</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito de la medicina, este término se usa para describir la manera en que un medicamento u otra sustancia produce un efecto en el cuerpo. Por ejemplo, el mecanismo de acción de un medicamento podría ser la forma  en que modifica un objetivo (diana) específico en la célula, es decir, una enzima o una función como la multiplicación celular. Conocer el mecanismo de acción proporciona información sobre la seguridad del medicamento y sus efectos en el cuerpo. Además, quizás ayude a identificar la dosis adecuada del medicamento y a los pacientes que es más probable que respondan al tratamiento. También se llama MA y modo de acción.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-07-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797426">
+  <TermName>mechanism of action</TermName>
+  <TermPronunciation>(MEH-kuh-nih-zum … AK-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In medicine, a term used to describe how a drug or other substance produces an effect in the body. For example, a drug’s mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth.  Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment. Also called MOA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000799631" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mechanism of action&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000799630" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mecanismo de acción&quot;" language="es" id="_5"/>
+  <SpanishTermName>mecanismo de acción</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito de la medicina, este término se usa para describir la manera en que un medicamento u otra sustancia produce un efecto en el cuerpo. Por ejemplo, el mecanismo de acción de un medicamento podría ser la forma  en que modifica un objetivo (diana) específico en la célula, es decir, una enzima o una función como la multiplicación celular. Conocer el mecanismo de acción proporciona información sobre la seguridad del medicamento y sus efectos en el cuerpo. Además, quizás ayude a identificar la dosis adecuada del medicamento y a los pacientes que es más probable que respondan al tratamiento. También se llama MA y modo de acción.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-07-24</DateFirstPublished>
+</GlossaryTerm>

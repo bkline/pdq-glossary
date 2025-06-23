@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000529988"><TermName>aromatherapy infusion</TermName><TermPronunciation>(uh-ROH-muh-THAYR-uh-pee in-FYOO-zhun)</TermPronunciation><TermDefinition><DefinitionText>The process of heating (without boiling) a mixture of water and an essential oil (scented liquid taken from a plant) to release a pleasant aroma. Aromatherapy infusion may also refer to the process of heating an herb in liquid to release the essential oils. Inhaled oxygen scented by aromatherapy infusion is being studied as a complementary therapy (used in addition to standard treatments) to relieve pain and shorten recovery time in patients undergoing colonoscopy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aromatherapy infusion&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718642" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infusión de aromaterapia&quot;" language="es" id="_4"/><SpanishTermName>infusión de aromaterapia</SpanishTermName><SpanishTermDefinition><DefinitionText>Proceso de calentar (sin hervir) una mezcla de agua y un aceite esencial (líquido perfumado que se extrae de una planta) para que produzca un aroma agradable. La infusión de aromaterapia también se refiere al proceso de calentar una hierba en un líquido para liberar los aceites esenciales. Se estudia si inhalar aire perfumado por la infusión de aromaterapia sirve como terapia complementaria (que se usa además de los tratamientos estándar) para aliviar el dolor y acelerar la recuperación de los pacientes sometidos a una colonoscopia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-05-04</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000529988">
+  <TermName>aromatherapy infusion</TermName>
+  <TermPronunciation>(uh-ROH-muh-THAYR-uh-pee in-FYOO-zhun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The process of heating (without boiling) a mixture of water and an essential oil (scented liquid taken from a plant) to release a pleasant aroma. Aromatherapy infusion may also refer to the process of heating an herb in liquid to release the essential oils. Inhaled oxygen scented by aromatherapy infusion is being studied as a complementary therapy (used in addition to standard treatments) to relieve pain and shorten recovery time in patients undergoing colonoscopy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;aromatherapy infusion&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718642" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;infusión de aromaterapia&quot;" language="es" id="_4"/>
+  <SpanishTermName>infusión de aromaterapia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proceso de calentar (sin hervir) una mezcla de agua y un aceite esencial (líquido perfumado que se extrae de una planta) para que produzca un aroma agradable. La infusión de aromaterapia también se refiere al proceso de calentar una hierba en un líquido para liberar los aceites esenciales. Se estudia si inhalar aire perfumado por la infusión de aromaterapia sirve como terapia complementaria (que se usa además de los tratamientos estándar) para aliviar el dolor y acelerar la recuperación de los pacientes sometidos a una colonoscopia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-05-04</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000512910"><TermName>stage IVC lip and oral cavity cancer</TermName><TermPronunciation>(... OR-ul KA-vih-tee KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>Stage IV is divided into stages IVA, IVB, and IVC. In stage IVC, the tumor has spread beyond the lip or oral cavity to other parts of the body, such as the lung, liver, or bone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718361" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IVC lip and oral cavity cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718362" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de labio y de cavidad oral en estadio IVC&quot;" language="es" id="_4"/><SpanishTermName>cáncer de labio y de cavidad oral en estadio IVC</SpanishTermName><SpanishTermDefinition><DefinitionText>El estadio IV se divide en los estadios IVA, IVB y IVC. En el estadio IVC, el tumor se diseminó fuera del labio o de la cavidad oral a otras partes del cuerpo, como el pulmón, el hígado o el hueso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-01-05</DateFirstPublished><DateLastModified>2019-09-04</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258017" url="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000486932" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq">Tratamiento del cáncer de labio y de cavidad oral en adultos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000512910">
+  <TermName>stage IVC lip and oral cavity cancer</TermName>
+  <TermPronunciation>(... OR-ul KA-vih-tee KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Stage IV is divided into stages IVA, IVB, and IVC. In stage IVC, the tumor has spread beyond the lip or oral cavity to other parts of the body, such as the lung, liver, or bone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718361" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage IVC lip and oral cavity cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718362" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de labio y de cavidad oral en estadio IVC&quot;" language="es" id="_4"/>
+  <SpanishTermName>cáncer de labio y de cavidad oral en estadio IVC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El estadio IV se divide en los estadios IVA, IVB y IVC. En el estadio IVC, el tumor se diseminó fuera del labio o de la cavidad oral a otras partes del cuerpo, como el pulmón, el hígado o el hueso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-01-05</DateFirstPublished>
+  <DateLastModified>2019-09-04</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258017" url="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000486932" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq">Tratamiento del cáncer de labio y de cavidad oral en adultos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

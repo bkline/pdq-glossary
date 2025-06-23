@@ -1,1 +1,39 @@
-<GlossaryTerm id="CDR0000802861"><TermName>CYLD gene</TermName><TermPronunciation>(… jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in controlling cell growth, cell division, and a type of cell death called apoptosis. Mutations (changes) in the <GeneName>CYLD</GeneName> gene may cause cells to grow and divide too quickly or in an uncontrolled way. This may cause abnormal cells, including cancer cells, to grow. <GeneName>CYLD</GeneName> gene mutations have been found in an inherited condition called Brooke-Spiegler syndrome and in some types of cancer, including multiple myeloma and cancers of the kidney, liver, uterus, and colon. The <GeneName>CYLD</GeneName> gene is a type of tumor suppressor gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805193" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CYLD gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805194" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen CYLD&quot;" language="es" id="_4"/><SpanishTermName>gen CYLD</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en el control de la diferenciación celular, la división celular y un  tipo de muerte celular llamada apoptosis. Es posible que las mutaciones (cambios) en el gen <GeneName>CYLD</GeneName> hagan que las células se formen y se dividan demasiado rápido o de una manera  descontrolada. En ocasiones, esto causa la multiplicación de células anormales, incluso células cancerosas. Se han encontrado mutaciones del gen <GeneName>CYLD</GeneName> en una afección hereditaria llamada síndrome de Brooke-Spiegler y en algunos tipos de cáncer, como el mieloma múltiple y los cánceres de riñón, hígado, útero y colon. El gen <GeneName>CYLD</GeneName> es un tipo de gen supresor de tumores.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-02-23</DateFirstPublished><DateLastModified>2021-02-19</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/cyld/">CYLD gene (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802861">
+  <TermName>CYLD gene</TermName>
+  <TermPronunciation>(… jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in controlling cell growth, cell division, and a type of cell death called apoptosis. Mutations (changes) in the 
+      <GeneName>CYLD</GeneName>
+       gene may cause cells to grow and divide too quickly or in an uncontrolled way. This may cause abnormal cells, including cancer cells, to grow. 
+      <GeneName>CYLD</GeneName>
+       gene mutations have been found in an inherited condition called Brooke-Spiegler syndrome and in some types of cancer, including multiple myeloma and cancers of the kidney, liver, uterus, and colon. The 
+      <GeneName>CYLD</GeneName>
+       gene is a type of tumor suppressor gene.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805193" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;CYLD gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805194" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen CYLD&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen CYLD</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en el control de la diferenciación celular, la división celular y un  tipo de muerte celular llamada apoptosis. Es posible que las mutaciones (cambios) en el gen 
+      <GeneName>CYLD</GeneName>
+       hagan que las células se formen y se dividan demasiado rápido o de una manera  descontrolada. En ocasiones, esto causa la multiplicación de células anormales, incluso células cancerosas. Se han encontrado mutaciones del gen 
+      <GeneName>CYLD</GeneName>
+       en una afección hereditaria llamada síndrome de Brooke-Spiegler y en algunos tipos de cáncer, como el mieloma múltiple y los cánceres de riñón, hígado, útero y colon. El gen 
+      <GeneName>CYLD</GeneName>
+       es un tipo de gen supresor de tumores.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-02-23</DateFirstPublished>
+  <DateLastModified>2021-02-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/gene/cyld/">CYLD gene (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

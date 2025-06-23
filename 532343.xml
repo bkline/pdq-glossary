@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000532343"><TermName>GI</TermName><TermDefinition><DefinitionText>Having to do with the gastrointestinal (GI) tract or GI system. The GI tract includes the mouth, throat, esophagus, stomach, small intestine, large intestine, rectum, and anus. Food and liquids travel through the GI tract as they are swallowed, digested, absorbed, and leave the body as feces. The GI system includes these organs as well as the salivary glands, liver, gallbladder, and pancreas, which make digestive juices and enzymes that help the body digest food and liquids. Also called gastrointestinal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813973" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastrointestinal&quot;" language="es" id="_4"/><SpanishTermName>gastrointestinal</SpanishTermName><SpanishTermDefinition><DefinitionText>Relacionado con el tubo gastrointestinal, el tubo digestivo  y el aparato digestivo. El tubo  gastrointestinal incluye el estómago y los intestinos. El tubo digestivo incluye la boca, la garganta, el esófago, el estómago, el intestino delgado, el intestino grueso, el recto y el ano. Los alimentos y líquidos pasan a través del tubo digestivo cuando se tragan, digieren, absorben y salen del cuerpo en forma de heces. El aparato digestivo incluye el tubo digestivo y otros órganos como las glándulas salivales, el hígado, la vesícula biliar y el páncreas, donde se elaboran los jugos digestivos y las enzimas que participan en la digestión de los alimentos y líquidos que una persona ingiere. También se llama digestivo y GI.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-02-05</DateFirstPublished><DateLastModified>2023-07-18</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/by-body-location">Cancers by Body Location/System: Digestive/Gastrointestinal</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/por-partes-cuerpo">El cáncer según su ubicación en el cuerpo: Digestivo y gastrointestinal</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000532343">
+  <TermName>GI</TermName>
+  <TermDefinition>
+    <DefinitionText>Having to do with the gastrointestinal (GI) tract or GI system. The GI tract includes the mouth, throat, esophagus, stomach, small intestine, large intestine, rectum, and anus. Food and liquids travel through the GI tract as they are swallowed, digested, absorbed, and leave the body as feces. The GI system includes these organs as well as the salivary glands, liver, gallbladder, and pancreas, which make digestive juices and enzymes that help the body digest food and liquids. Also called gastrointestinal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813973" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastrointestinal&quot;" language="es" id="_4"/>
+  <SpanishTermName>gastrointestinal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Relacionado con el tubo gastrointestinal, el tubo digestivo  y el aparato digestivo. El tubo  gastrointestinal incluye el estómago y los intestinos. El tubo digestivo incluye la boca, la garganta, el esófago, el estómago, el intestino delgado, el intestino grueso, el recto y el ano. Los alimentos y líquidos pasan a través del tubo digestivo cuando se tragan, digieren, absorben y salen del cuerpo en forma de heces. El aparato digestivo incluye el tubo digestivo y otros órganos como las glándulas salivales, el hígado, la vesícula biliar y el páncreas, donde se elaboran los jugos digestivos y las enzimas que participan en la digestión de los alimentos y líquidos que una persona ingiere. También se llama digestivo y GI.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-02-05</DateFirstPublished>
+  <DateLastModified>2023-07-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/by-body-location">Cancers by Body Location/System: Digestive/Gastrointestinal</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/por-partes-cuerpo">El cáncer según su ubicación en el cuerpo: Digestivo y gastrointestinal</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

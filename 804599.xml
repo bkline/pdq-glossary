@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000804599"><TermName>serotype</TermName><TermPronunciation>(SEER-oh-tipe)</TermPronunciation><TermDefinition><DefinitionText>Describes a way of grouping cells or microorganisms, such as bacteria or viruses, based on the antigens or other molecules found on their surfaces. For example, human papillomaviruses (HPVs) are a group of many related viruses, and each virus in the group has its own serotype. The serotypes can cause the viruses to behave differently when they infect people. For example, some HPV serotypes can cause benign (not cancer) tissue growth, such as warts, while others can cause certain types of cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotype&quot;" language="en" id="_5"/><MediaLink ref="CDR0000806840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotipo&quot;" language="es" id="_6"/><SpanishTermName>serotipo</SpanishTermName><SpanishTermDefinition><DefinitionText>Clasificación de células o microorganismos, como bacterias o virus, según los antígenos u otras moléculas que se encuentran en su superficie. Por ejemplo, los virus del papiloma humano (VPH) pertenecen a un grupo de muchos virus relacionados. Cada uno de ellos tiene su propio serotipo. Estos serotipos, a veces hacen que los virus se comporten diferente cuando infectan a las personas. Por ejemplo, es posible que algunos serotipos de VPH causen crecimiento de tejido benigno (no canceroso), como verrugas, mientras otros causan ciertos tipos de cáncer. También se llama serovariedad y tipo serológico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-09-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804599">
+  <TermName>serotype</TermName>
+  <TermPronunciation>(SEER-oh-tipe)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Describes a way of grouping cells or microorganisms, such as bacteria or viruses, based on the antigens or other molecules found on their surfaces. For example, human papillomaviruses (HPVs) are a group of many related viruses, and each virus in the group has its own serotype. The serotypes can cause the viruses to behave differently when they infect people. For example, some HPV serotypes can cause benign (not cancer) tissue growth, such as warts, while others can cause certain types of cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806839" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotype&quot;" language="en" id="_5"/>
+  <MediaLink ref="CDR0000806840" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;serotipo&quot;" language="es" id="_6"/>
+  <SpanishTermName>serotipo</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Clasificación de células o microorganismos, como bacterias o virus, según los antígenos u otras moléculas que se encuentran en su superficie. Por ejemplo, los virus del papiloma humano (VPH) pertenecen a un grupo de muchos virus relacionados. Cada uno de ellos tiene su propio serotipo. Estos serotipos, a veces hacen que los virus se comporten diferente cuando infectan a las personas. Por ejemplo, es posible que algunos serotipos de VPH causen crecimiento de tejido benigno (no canceroso), como verrugas, mientras otros causan ciertos tipos de cáncer. También se llama serovariedad y tipo serológico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-09-10</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000044861"><TermName>AFP</TermName><TermDefinition><DefinitionText>A protein normally produced by a fetus. AFP levels are usually undetectable in the blood of healthy adult men or women (who are not pregnant). An elevated level of AFP suggests the presence of either a primary liver cancer or germ cell tumor. Also called alpha-fetoprotein.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>AFP</SpanishTermName><SpanishTermDefinition><DefinitionText>Proteína que un feto produce normalmente. Por lo general, las concentraciones de AFP no se detectan en la sangre de adultos sanos (excepto en las mujeres embarazadas). Una concentración alta de AFP indica la presencia de cáncer primario de hígado o de un tumor de células germinativas. También se llama alfafetoproteína.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2014-02-06</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044861">
+  <TermName>AFP</TermName>
+  <TermDefinition>
+    <DefinitionText>A protein normally produced by a fetus. AFP levels are usually undetectable in the blood of healthy adult men or women (who are not pregnant). An elevated level of AFP suggests the presence of either a primary liver cancer or germ cell tumor. Also called alpha-fetoprotein.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>AFP</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Proteína que un feto produce normalmente. Por lo general, las concentraciones de AFP no se detectan en la sangre de adultos sanos (excepto en las mujeres embarazadas). Una concentración alta de AFP indica la presencia de cáncer primario de hígado o de un tumor de células germinativas. También se llama alfafetoproteína.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2014-02-06</DateLastModified>
+</GlossaryTerm>

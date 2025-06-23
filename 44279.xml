@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044279"><TermName>dysplastic nevus</TermName><TermPronunciation>(dis-PLAS-tik NEE-vus)</TermPronunciation><TermDefinition><DefinitionText>A specific type of nevus (mole) that looks different from a common mole. Dysplastic nevi are mostly flat and often larger than common moles and have borders that are irregular. A dysplastic nevus can contain different colors, which can range from pink to dark brown. Parts of the mole may be raised above the skin surface. A dysplastic nevus may develop into melanoma (a type of skin cancer), and the more dysplastic nevi a person has, the higher the risk of melanoma. A dysplastic nevus is sometimes called an atypical mole.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dysplastic nevus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nevo displásico&quot;" language="es" id="_4"/><SpanishTermName>nevo displásico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo específico de nevo (lunar) cuya apariencia es diferente a la de un lunar común. Los nevos displásicos son  en su mayor parte planos y, con frecuencia, son más grandes que los lunares comunes, además tienen bordes desiguales. Un nevo displásico puede tener diferentes colores, que van desde el rosado hasta el marrón oscuro. Hay partes del lunar  que pueden sobresalir de la superficie de la piel. Un nevo displásico puede volverse un melanoma  (un tipo de cáncer de piel) y, cuantos más nevos displásicos tenga una persona, mayor es el riesgo de melanoma. Un  nevo displásico también se conoce como lunar atípico o nevo atípico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-01-11</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/skin/moles-fact-sheet">Common Moles, Dysplastic Nevi, and Risk of Melanoma</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/piel/hoja-informativa-lunares">Lunares comunes, nevos displásicos y el riesgo de melanoma</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044279">
+  <TermName>dysplastic nevus</TermName>
+  <TermPronunciation>(dis-PLAS-tik NEE-vus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A specific type of nevus (mole) that looks different from a common mole. Dysplastic nevi are mostly flat and often larger than common moles and have borders that are irregular. A dysplastic nevus can contain different colors, which can range from pink to dark brown. Parts of the mole may be raised above the skin surface. A dysplastic nevus may develop into melanoma (a type of skin cancer), and the more dysplastic nevi a person has, the higher the risk of melanoma. A dysplastic nevus is sometimes called an atypical mole.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704404" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;dysplastic nevus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704405" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;nevo displásico&quot;" language="es" id="_4"/>
+  <SpanishTermName>nevo displásico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo específico de nevo (lunar) cuya apariencia es diferente a la de un lunar común. Los nevos displásicos son  en su mayor parte planos y, con frecuencia, son más grandes que los lunares comunes, además tienen bordes desiguales. Un nevo displásico puede tener diferentes colores, que van desde el rosado hasta el marrón oscuro. Hay partes del lunar  que pueden sobresalir de la superficie de la piel. Un nevo displásico puede volverse un melanoma  (un tipo de cáncer de piel) y, cuantos más nevos displásicos tenga una persona, mayor es el riesgo de melanoma. Un  nevo displásico también se conoce como lunar atípico o nevo atípico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-01-11</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/types/skin/moles-fact-sheet">Common Moles, Dysplastic Nevi, and Risk of Melanoma</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/tipos/piel/hoja-informativa-lunares">Lunares comunes, nevos displásicos y el riesgo de melanoma</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

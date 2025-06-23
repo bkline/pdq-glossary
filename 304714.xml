@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000304714"><TermName>breast self-exam</TermName><TermPronunciation>(brest self-eg-ZAM)</TermPronunciation><TermDefinition><DefinitionText>A way a person can check their own breasts by feeling for lumps or other changes. Breast self-exams can help a person learn how their breasts normally look and feel and notice when changes occur. Research has shown that doing breast self-exams does not lower the risk of dying from breast cancer and may lead to extra tests and procedures. Also called BSE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000710273" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;breast self-exam&quot;" language="en" id="_3"/><MediaLink ref="CDR0000710274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;autoexamen de la mama&quot;" language="es" id="_4"/><SpanishTermName>autoexamen de la mama</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma en la que una persona examina sus propias mamas (senos) para comprobar la presencia de bultos u otros cambios. El autoexamen de la mama ayuda a que las personas reconozcan cómo se ven y sienten las mamas en estado normal para que puedan notar cuando ocurren cambios. Las investigaciones han demostrado que el autoexamen de la mama no reduce el riesgo de morir por cáncer de mama y quizás lleve a pruebas y procedimientos adicionales. También se llama AEM, autoexamen de seno, autoexploración de la mama, autoexploración del pecho y autoexploración mamaria.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-05-23</DateFirstPublished><DateLastModified>2022-03-15</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000304714">
+  <TermName>breast self-exam</TermName>
+  <TermPronunciation>(brest self-eg-ZAM)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A way a person can check their own breasts by feeling for lumps or other changes. Breast self-exams can help a person learn how their breasts normally look and feel and notice when changes occur. Research has shown that doing breast self-exams does not lower the risk of dying from breast cancer and may lead to extra tests and procedures. Also called BSE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000710273" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;breast self-exam&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000710274" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;autoexamen de la mama&quot;" language="es" id="_4"/>
+  <SpanishTermName>autoexamen de la mama</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma en la que una persona examina sus propias mamas (senos) para comprobar la presencia de bultos u otros cambios. El autoexamen de la mama ayuda a que las personas reconozcan cómo se ven y sienten las mamas en estado normal para que puedan notar cuando ocurren cambios. Las investigaciones han demostrado que el autoexamen de la mama no reduce el riesgo de morir por cáncer de mama y quizás lleve a pruebas y procedimientos adicionales. También se llama AEM, autoexamen de seno, autoexploración de la mama, autoexploración del pecho y autoexploración mamaria.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-05-23</DateFirstPublished>
+  <DateLastModified>2022-03-15</DateLastModified>
+</GlossaryTerm>

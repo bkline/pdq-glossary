@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000739353"><TermName>stage 0 perihilar bile duct cancer (carcinoma in situ)</TermName><TermPronunciation>(... PAYR-ee-HY-ler bile dukt KAN-ser (KAR-sih-NOH-muh in SY-too))</TermPronunciation><TermDefinition><DefinitionText>Abnormal cells are found in the innermost layer of tissue lining the perihilar bile duct. These abnormal cells are not actually cancer but may become cancer and spread into nearby normal tissue. Stage 0 is also called high-grade dysplasia.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000742074" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 perihilar bile duct cancer (carcinoma in situ)&quot;" language="en" id="_6"/><MediaLink ref="CDR0000742073" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares perihiliares en estadio 0 (carcinoma in situ)&quot;" language="es" id="_7"/><SpanishTermName>cáncer de vías biliares perihiliares en estadio 0 (carcinoma in situ)</SpanishTermName><SpanishTermDefinition><DefinitionText>Se encuentran células anormales en la capa de tejido más interna que reviste la vía biliar perihiliar (conducto hepático común). Estas células no son cancerosas, pero a veces se vuelven  cancerosas y se diseminan al tejido normal cercano. El estadio 0 también se llama displasia de grado alto. También se llama cáncer de conducto biliar perihiliar en estadio 0 (carcinoma in situ).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2012-09-06</DateFirstPublished><DateLastModified>2023-05-25</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000739353">
+  <TermName>stage 0 perihilar bile duct cancer (carcinoma in situ)</TermName>
+  <TermPronunciation>(... PAYR-ee-HY-ler bile dukt KAN-ser (KAR-sih-NOH-muh in SY-too))</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal cells are found in the innermost layer of tissue lining the perihilar bile duct. These abnormal cells are not actually cancer but may become cancer and spread into nearby normal tissue. Stage 0 is also called high-grade dysplasia.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000742074" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 perihilar bile duct cancer (carcinoma in situ)&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000742073" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de vías biliares perihiliares en estadio 0 (carcinoma in situ)&quot;" language="es" id="_7"/>
+  <SpanishTermName>cáncer de vías biliares perihiliares en estadio 0 (carcinoma in situ)</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Se encuentran células anormales en la capa de tejido más interna que reviste la vía biliar perihiliar (conducto hepático común). Estas células no son cancerosas, pero a veces se vuelven  cancerosas y se diseminan al tejido normal cercano. El estadio 0 también se llama displasia de grado alto. También se llama cáncer de conducto biliar perihiliar en estadio 0 (carcinoma in situ).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2012-09-06</DateFirstPublished>
+  <DateLastModified>2023-05-25</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000809669" url="/types/liver/bile-duct-cancer/stages">Bile Duct Cancer Stages</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000809679" url="/espanol/tipos/higado/cancer-vias-biliares/estadios">Estadios del cáncer de vías biliares</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

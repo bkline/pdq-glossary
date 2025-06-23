@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044345"><TermName>prostatic intraepithelial neoplasia</TermName><TermPronunciation>(prah-STA-tik IN-truh-eh-pih-THEE-lee-ul NEE-oh-PLAY-zhuh)</TermPronunciation><TermDefinition><DefinitionText>Noncancerous growth of the cells lining the internal and external surfaces of the prostate gland. Having high-grade prostatic intraepithelial neoplasia may increase the risk of developing prostate cancer. Also called PIN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatic intraepithelial neoplasia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia  prostática intraepitelial&quot;" language="es" id="_4"/><SpanishTermName>neoplasia prostática intraepitelial</SpanishTermName><SpanishTermDefinition><DefinitionText>Crecimiento no canceroso de las células que revisten las superficies internas y externas de la glándula prostática. Padecer de una neoplasia prostática intraepitelial de grado alto puede aumentar el riesgo de presentar cáncer de próstata. También se llama NPI.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2008-01-16</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044345">
+  <TermName>prostatic intraepithelial neoplasia</TermName>
+  <TermPronunciation>(prah-STA-tik IN-truh-eh-pih-THEE-lee-ul NEE-oh-PLAY-zhuh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Noncancerous growth of the cells lining the internal and external surfaces of the prostate gland. Having high-grade prostatic intraepithelial neoplasia may increase the risk of developing prostate cancer. Also called PIN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704515" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;prostatic intraepithelial neoplasia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704514" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neoplasia  prostática intraepitelial&quot;" language="es" id="_4"/>
+  <SpanishTermName>neoplasia prostática intraepitelial</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Crecimiento no canceroso de las células que revisten las superficies internas y externas de la glándula prostática. Padecer de una neoplasia prostática intraepitelial de grado alto puede aumentar el riesgo de presentar cáncer de próstata. También se llama NPI.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2008-01-16</DateLastModified>
+</GlossaryTerm>

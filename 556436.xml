@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000556436"><TermName>thyroxin</TermName><TermPronunciation>(thy-ROK-sin)</TermPronunciation><TermDefinition><DefinitionText>A hormone that is made by the thyroid gland and contains iodine. Thyroxin increases the rate of chemical reactions in cells and helps control growth and development. Thyroxin can also be made in the laboratory and is used to treat thyroid disorders. Also called L-3,5,5’-tetraiodothyronine, T4, and thyroxine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;thyroxin&quot;" language="en" id="_2"/><MediaLink ref="CDR0000791281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tetrayodotironina&quot;" language="es" id="_4"/><SpanishTermName>tetrayodotironina</SpanishTermName><SpanishTermDefinition><DefinitionText>Hormona elaborada por la glándula tiroidea que contiene yodo. La La tetrayodotironina aumenta la tasa de reacciones químicas en las células y ayuda a controlar  crecimiento y desarrollo. La  también se puede producir en el laboratorio y se usa como tratamiento en los casos de trastornos tiroideos. También se llama L-3,5,5’-tetrayodotironina, T4 y tiroxina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-06-21</DateFirstPublished><DateLastModified>2008-11-14</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000556436">
+  <TermName>thyroxin</TermName>
+  <TermPronunciation>(thy-ROK-sin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A hormone that is made by the thyroid gland and contains iodine. Thyroxin increases the rate of chemical reactions in cells and helps control growth and development. Thyroxin can also be made in the laboratory and is used to treat thyroid disorders. Also called L-3,5,5’-tetraiodothyronine, T4, and thyroxine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720617" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;thyroxin&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000791281" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tetrayodotironina&quot;" language="es" id="_4"/>
+  <SpanishTermName>tetrayodotironina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Hormona elaborada por la glándula tiroidea que contiene yodo. La La tetrayodotironina aumenta la tasa de reacciones químicas en las células y ayuda a controlar  crecimiento y desarrollo. La  también se puede producir en el laboratorio y se usa como tratamiento en los casos de trastornos tiroideos. También se llama L-3,5,5’-tetrayodotironina, T4 y tiroxina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-06-21</DateFirstPublished>
+  <DateLastModified>2008-11-14</DateLastModified>
+</GlossaryTerm>

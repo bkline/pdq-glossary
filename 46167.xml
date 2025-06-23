@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000046167"><TermName>stage I kidney cancer</TermName><TermPronunciation>(... KID-nee KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>The tumor is 7 centimeters or smaller and is found in the kidney only. Also called stage I renal cell cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707772" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I kidney cancer&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707773" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de riñón en estadio I&quot;" language="es" id="_4"/><MediaLink ref="CDR0000789098" type="image/jpeg" alt="Stage I kidney cancer; drawing shows cancer in the left kidney and the tumor is 7 centimeters or smaller. An inset shows 7 centimeters is about the size of a peach. Also shown are fatty tissue and the right kidney." language="en" audience="Patients" placement="image-center" id="_3"><Caption language="en">Stage I kidney cancer. The tumor is 7 centimeters or smaller and is found in the kidney only.</Caption></MediaLink><MediaLink ref="CDR0000792272" type="image/jpeg" alt="Cáncer de riñón en estadio I; en la ilustración se muestra cáncer en el riñón izquierdo y que el tumor mide  7 cm o menos. En el recuadro se muestra que 7 cm es casi el tamaño de un durazno. También se observa el tejido adiposo y el riñón derecho." language="es" audience="Patients" placement="image-center" id="_4"><Caption language="es">Cáncer de riñón en estadio I. El tumor mide 7 cm o menos y se encuentra  solo en el riñón.</Caption></MediaLink><SpanishTermName>cáncer de riñón en estadio I</SpanishTermName><SpanishTermDefinition><DefinitionText>El tumor mide 7 cm o menos y se encuentra solo en el riñón. También se llama cáncer de células renales en estadio I.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2018-02-20</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000276462" url="/types/kidney/patient/kidney-treatment-pdq">Renal Cell Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000256795" url="/espanol/tipos/rinon/paciente/tratamiento-rinon-pdq">Tratamiento del cáncer de células renales</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046167">
+  <TermName>stage I kidney cancer</TermName>
+  <TermPronunciation>(... KID-nee KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The tumor is 7 centimeters or smaller and is found in the kidney only. Also called stage I renal cell cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707772" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage I kidney cancer&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707773" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer de riñón en estadio I&quot;" language="es" id="_4"/>
+  <MediaLink ref="CDR0000789098" type="image/jpeg" alt="Stage I kidney cancer; drawing shows cancer in the left kidney and the tumor is 7 centimeters or smaller. An inset shows 7 centimeters is about the size of a peach. Also shown are fatty tissue and the right kidney." language="en" audience="Patients" placement="image-center" id="_3">
+    <Caption language="en">Stage I kidney cancer. The tumor is 7 centimeters or smaller and is found in the kidney only.</Caption>
+  </MediaLink>
+  <MediaLink ref="CDR0000792272" type="image/jpeg" alt="Cáncer de riñón en estadio I; en la ilustración se muestra cáncer en el riñón izquierdo y que el tumor mide  7 cm o menos. En el recuadro se muestra que 7 cm es casi el tamaño de un durazno. También se observa el tejido adiposo y el riñón derecho." language="es" audience="Patients" placement="image-center" id="_4">
+    <Caption language="es">Cáncer de riñón en estadio I. El tumor mide 7 cm o menos y se encuentra  solo en el riñón.</Caption>
+  </MediaLink>
+  <SpanishTermName>cáncer de riñón en estadio I</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El tumor mide 7 cm o menos y se encuentra solo en el riñón. También se llama cáncer de células renales en estadio I.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2018-02-20</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000276462" url="/types/kidney/patient/kidney-treatment-pdq">Renal Cell Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000256795" url="/espanol/tipos/rinon/paciente/tratamiento-rinon-pdq">Tratamiento del cáncer de células renales</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

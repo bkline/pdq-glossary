@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000796908"><TermName>trunk</TermName><TermDefinition><DefinitionText>The main part of the body that contains the chest, abdomen, pelvis, and back. Most of the body’s organs and the backbone are found in the trunk. Also called torso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trunk&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tronco&quot;" language="es" id="_4"/><SpanishTermName>tronco</SpanishTermName><SpanishTermDefinition><DefinitionText>Parte principal del cuerpo que incluye el tórax, el abdomen, la pelvis y la espalda. La  mayoría de los órganos del cuerpo y la columna vertebral se encuentran en el tronco. También se llama torso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796908">
+  <TermName>trunk</TermName>
+  <TermDefinition>
+    <DefinitionText>The main part of the body that contains the chest, abdomen, pelvis, and back. Most of the body’s organs and the backbone are found in the trunk. Also called torso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797969" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trunk&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797968" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tronco&quot;" language="es" id="_4"/>
+  <SpanishTermName>tronco</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parte principal del cuerpo que incluye el tórax, el abdomen, la pelvis y la espalda. La  mayoría de los órganos del cuerpo y la columna vertebral se encuentran en el tronco. También se llama torso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

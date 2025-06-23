@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000044445"><TermName>ovarian suppression</TermName><TermPronunciation>(oh-VAYR-ee-un suh-PREH-shun)</TermPronunciation><TermDefinition><DefinitionText>Treatment that stops or lowers the amount of estrogen made by the ovaries. Types of ovarian suppression include surgery to remove both ovaries, radiation therapy, and the use of certain drugs. Ovarian suppression may be used to prevent and treat breast cancer.  Also called ovarian ablation.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704602" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian suppression&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704601" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supresión ovárica&quot;" language="es" id="_4"/><SpanishTermName>supresión ovárica</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento para interrumpir o disminuir la cantidad de estrógeno producido en los ovarios. Los tipos de supresión ovárica incluyen la cirugía para extraer ambos ovarios, la radioterapia y el uso de ciertos medicamentos. Es posible usar la supresión ovárica para prevenir y tratar el cáncer de mama. También se llama ablación ovárica e inhibición ovárica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-04-18</DateLastModified><RelatedInformation><RelatedExternalRef xref="https://www.cancer.gov/types/breast/breast-hormone-therapy-fact-sheet" UseWith="en">Hormone Therapy for Breast Cancer</RelatedExternalRef><RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-terapia-hormonal-seno" UseWith="es">Terapia hormonal para el cáncer de seno</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044445">
+  <TermName>ovarian suppression</TermName>
+  <TermPronunciation>(oh-VAYR-ee-un suh-PREH-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that stops or lowers the amount of estrogen made by the ovaries. Types of ovarian suppression include surgery to remove both ovaries, radiation therapy, and the use of certain drugs. Ovarian suppression may be used to prevent and treat breast cancer.  Also called ovarian ablation.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704602" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ovarian suppression&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704601" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;supresión ovárica&quot;" language="es" id="_4"/>
+  <SpanishTermName>supresión ovárica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento para interrumpir o disminuir la cantidad de estrógeno producido en los ovarios. Los tipos de supresión ovárica incluyen la cirugía para extraer ambos ovarios, la radioterapia y el uso de ciertos medicamentos. Es posible usar la supresión ovárica para prevenir y tratar el cáncer de mama. También se llama ablación ovárica e inhibición ovárica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-04-18</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef xref="https://www.cancer.gov/types/breast/breast-hormone-therapy-fact-sheet" UseWith="en">Hormone Therapy for Breast Cancer</RelatedExternalRef>
+    <RelatedExternalRef xref="https://www.cancer.gov/espanol/tipos/seno/hoja-informativa-terapia-hormonal-seno" UseWith="es">Terapia hormonal para el cáncer de seno</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

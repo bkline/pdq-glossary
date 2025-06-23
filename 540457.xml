@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000540457"><TermName>fluorine F 18-FEQA</TermName><TermPronunciation>(FLOOR-een …)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to diagnose cancer and to find out how well some types of cancer respond to treatment. Fluorine F 18-FEQA binds to the epidermal growth factor receptor (EGFR), which is found on some cancer cells. The PET scan forms an image that shows where cancer cells with EGFR can be found in the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718733" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 FEQA&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-FEQA&quot;" language="es" id="_4"/><SpanishTermName>flúor F 18-FEQA</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en estudio para usar con la tomografía con emisión de positrones (TEP) con el fin de diagnosticar el cáncer y vigilar la respuesta al tratamiento de algunos tipos de cáncer. El flúor F 18-FEQA se une al receptor del factor de crecimiento epidérmico (RFCE) que se encuentra en la superficie de algunas células cancerosas. La TEP forma una imagen que muestra el lugar del cuerpo donde se encuentran las células cancerosas con el RFCE.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-10-04</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000540457">
+  <TermName>fluorine F 18-FEQA</TermName>
+  <TermPronunciation>(FLOOR-een …)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to diagnose cancer and to find out how well some types of cancer respond to treatment. Fluorine F 18-FEQA binds to the epidermal growth factor receptor (EGFR), which is found on some cancer cells. The PET scan forms an image that shows where cancer cells with EGFR can be found in the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718733" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 FEQA&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718732" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-FEQA&quot;" language="es" id="_4"/>
+  <SpanishTermName>flúor F 18-FEQA</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en estudio para usar con la tomografía con emisión de positrones (TEP) con el fin de diagnosticar el cáncer y vigilar la respuesta al tratamiento de algunos tipos de cáncer. El flúor F 18-FEQA se une al receptor del factor de crecimiento epidérmico (RFCE) que se encuentra en la superficie de algunas células cancerosas. La TEP forma una imagen que muestra el lugar del cuerpo donde se encuentran las células cancerosas con el RFCE.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-10-04</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

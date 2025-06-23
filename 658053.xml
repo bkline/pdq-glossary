@@ -1,3 +1,22 @@
-<GlossaryTerm id="CDR0000658053"><TermName>poly (ADP-ribose) polymerase inhibitor</TermName><TermPronunciation>(PAH-lee (... RY-bose) puh-LIH-meh-rays in-HIH-bih-ter)</TermPronunciation><TermDefinition><DefinitionText>A substance that blocks an enzyme in cells called PARP. PARP  helps repair DNA when it becomes damaged. DNA damage may be caused by many things, including exposure to UV light, radiation, certain anticancer drugs, or other substances in the environment. In cancer treatment, blocking PARP may help keep cancer cells from repairing their damaged DNA, causing them to die. Poly (ADP-ribose) polymerase inhibitors are a type of targeted therapy. Also called PARP inhibitor.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poly (ADP-ribose) polymerase inhibitor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de la poli-(ADP-ribosa)–polimerasa&quot;" language="es" id="_4"/><SpanishTermName>inhibidor de la poli-(ADP-ribosa)–polimerasa</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia que
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000658053">
+  <TermName>poly (ADP-ribose) polymerase inhibitor</TermName>
+  <TermPronunciation>(PAH-lee (... RY-bose) puh-LIH-meh-rays in-HIH-bih-ter)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A substance that blocks an enzyme in cells called PARP. PARP  helps repair DNA when it becomes damaged. DNA damage may be caused by many things, including exposure to UV light, radiation, certain anticancer drugs, or other substances in the environment. In cancer treatment, blocking PARP may help keep cancer cells from repairing their damaged DNA, causing them to die. Poly (ADP-ribose) polymerase inhibitors are a type of targeted therapy. Also called PARP inhibitor.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725856" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;poly (ADP-ribose) polymerase inhibitor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725857" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;inhibidor de la poli-(ADP-ribosa)–polimerasa&quot;" language="es" id="_4"/>
+  <SpanishTermName>inhibidor de la poli-(ADP-ribosa)–polimerasa</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia que
           impide la acción de una enzima de las células que se llama PARP. Esta enzima ayuda a reparar el daño al ADN. Hay muchas causas del daño al ADN, como la exposición a los rayos UV, la radiación,  ciertos medicamentos contra el cáncer y sustancias del medio ambiente. En el tratamiento del cáncer, bloquear la acción de PARP quizás ayude a impedir que las células cancerosas reparen el daño a su ADN y esto las destruya. Los   inhibidores de la poli-(ADP-ribosa)–polimerasa son un tipo de
-          terapia dirigida. También se llama inhibidor de la poli-adenosina-difosfato-ribosa–polimerasa e inhibidor de PARP.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-12-01</DateFirstPublished><DateLastModified>2015-04-16</DateLastModified></GlossaryTerm>
+          terapia dirigida. También se llama inhibidor de la poli-adenosina-difosfato-ribosa–polimerasa e inhibidor de PARP.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-12-01</DateFirstPublished>
+  <DateLastModified>2015-04-16</DateLastModified>
+</GlossaryTerm>

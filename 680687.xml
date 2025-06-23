@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000680687"><TermName>fluorine F 18-fluoromethylcholine</TermName><TermPronunciation>(FLOOR-een … FLOOR-oh-MEH-thul-KOH-leen)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to find certain types of cancer. Fluorine F 18-fluoromethylcholine gets taken up by cells in the body and more of it is taken up by cancer cells than by normal cells. A PET scanner is used to find which cells in the body have taken up fluorine F 18-fluoromethylcholine. Also called 18F-choline, 18F-fluoromethylcholine, and 18F-FMCH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000727566" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 fluoromethylcholine&quot;" language="en" id="_3"/><MediaLink ref="CDR0000727565" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-fluorometilcolina&quot;" language="es" id="_4"/><SpanishTermName>flúor F 18-fluorometilcolina</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en estudio para usar en la tomografía con emisión de positrones  (TEP) con el fin de detectar ciertos tipos de cáncer. Las células del cuerpo absorben el flúor F 18-fluorometilcolina y las células tumorales absorben más de esta sustancia que las células normales. Se usa un escáner de TEP  para detectar las células del cuerpo que absorbieron el flúor F 18-fluorometilcolina. También se llama 18F-colina, 18F-fluorometilcolina y 18F-FMCH.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-12-14</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000680687">
+  <TermName>fluorine F 18-fluoromethylcholine</TermName>
+  <TermPronunciation>(FLOOR-een … FLOOR-oh-MEH-thul-KOH-leen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to find certain types of cancer. Fluorine F 18-fluoromethylcholine gets taken up by cells in the body and more of it is taken up by cancer cells than by normal cells. A PET scanner is used to find which cells in the body have taken up fluorine F 18-fluoromethylcholine. Also called 18F-choline, 18F-fluoromethylcholine, and 18F-FMCH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000727566" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 fluoromethylcholine&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000727565" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-fluorometilcolina&quot;" language="es" id="_4"/>
+  <SpanishTermName>flúor F 18-fluorometilcolina</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en estudio para usar en la tomografía con emisión de positrones  (TEP) con el fin de detectar ciertos tipos de cáncer. Las células del cuerpo absorben el flúor F 18-fluorometilcolina y las células tumorales absorben más de esta sustancia que las células normales. Se usa un escáner de TEP  para detectar las células del cuerpo que absorbieron el flúor F 18-fluorometilcolina. También se llama 18F-colina, 18F-fluorometilcolina y 18F-FMCH.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-12-14</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046079"><TermName>benign tumor</TermName><TermPronunciation>(beh-NINE TOO-mer)</TermPronunciation><TermDefinition><DefinitionText>A growth that is not cancer. It does not invade nearby tissue or spread to other parts of the body.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000708111" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;benign tumor&quot;" language="en" id="_3"/><MediaLink ref="CDR0000708112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor benigno&quot;" language="es" id="_4"/><SpanishTermName>tumor benigno</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumoración o masa que no es cancerosa. No invade el tejido cercano ni se disemina a otras partes del cuerpo. También se llama neoplasia benigna.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2009-06-18</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046079">
+  <TermName>benign tumor</TermName>
+  <TermPronunciation>(beh-NINE TOO-mer)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A growth that is not cancer. It does not invade nearby tissue or spread to other parts of the body.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000708111" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;benign tumor&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000708112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tumor benigno&quot;" language="es" id="_4"/>
+  <SpanishTermName>tumor benigno</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumoración o masa que no es cancerosa. No invade el tejido cercano ni se disemina a otras partes del cuerpo. También se llama neoplasia benigna.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2009-06-18</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000812581"><TermName>familial intestinal gastric cancer</TermName><TermPronunciation>(fuh-MIH-lee-ul in-TES-tih-nul GAS-trik KAN-ser)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder that increases the risk of developing a type of stomach cancer called intestinal gastric adenocarcinoma. This cancer begins in the mucus-producing cells in the innermost lining of the stomach and tends to grow and spread more slowly than other types of stomach cancer. Familial intestinal gastric cancer runs in families, but the gene involved in this disorder is not known. Also called FIGC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814868" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familial intestinal gastric cancer&quot;" language="en" id="_4"/><MediaLink ref="CDR0000814869" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer gástrico intestinal familiar&quot;" language="es" id="_5"/><SpanishTermName>cáncer gástrico intestinal familiar</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro que aumenta el riesgo de un tipo de cáncer de estómago llamado adenocarcinoma gástrico intestinal. Este cáncer comienza en las células que producen moco del revestimiento más interno del estómago y, por lo general, crece y se disemina más lento que otros tipos de cáncer de estómago. El cáncer gástrico intestinal familiar es hereditario, pero se desconoce cuál es el gen que lo causa. También se llama cáncer gástrico familiar de tipo intestinal y FIGC.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-09-12</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000812581">
+  <TermName>familial intestinal gastric cancer</TermName>
+  <TermPronunciation>(fuh-MIH-lee-ul in-TES-tih-nul GAS-trik KAN-ser)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder that increases the risk of developing a type of stomach cancer called intestinal gastric adenocarcinoma. This cancer begins in the mucus-producing cells in the innermost lining of the stomach and tends to grow and spread more slowly than other types of stomach cancer. Familial intestinal gastric cancer runs in families, but the gene involved in this disorder is not known. Also called FIGC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814868" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;familial intestinal gastric cancer&quot;" language="en" id="_4"/>
+  <MediaLink ref="CDR0000814869" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cáncer gástrico intestinal familiar&quot;" language="es" id="_5"/>
+  <SpanishTermName>cáncer gástrico intestinal familiar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno hereditario raro que aumenta el riesgo de un tipo de cáncer de estómago llamado adenocarcinoma gástrico intestinal. Este cáncer comienza en las células que producen moco del revestimiento más interno del estómago y, por lo general, crece y se disemina más lento que otros tipos de cáncer de estómago. El cáncer gástrico intestinal familiar es hereditario, pero se desconoce cuál es el gen que lo causa. También se llama cáncer gástrico familiar de tipo intestinal y FIGC.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-09-12</DateFirstPublished>
+</GlossaryTerm>

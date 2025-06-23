@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000803673"><TermName>coronavirus</TermName><TermPronunciation>(kuh-ROH-nuh-VY-rus)</TermPronunciation><TermDefinition><DefinitionText>One of a large family of viruses that can infect people and some animals and cause a respiratory illness. There are many different coronaviruses. Some cause mild diseases, such as the common cold, while others cause more serious respiratory illnesses, such as coronavirus disease 19 (COVID-19).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805347" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;coronavirus&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;coronavirus&quot;" language="es" id="_4"/><SpanishTermName>coronavirus</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de virus perteneciente a una gran familia de virus que infecta a seres humanos y algunos animales, y produce enfermedad respiratoria. Hay muchos tipos de coronavirus. Algunos causan enfermedad leve, como el resfriado común, y otros producen enfermedades respiratorias más graves, como la enfermedad por coronavirus de 2019 (COVID-19).</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-23</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/coronavirus">COVID-19 and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/coronavirus">El coronavirus y el cáncer</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000801481" UseWith="en" audience="Patients">COVID-19</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000801481" UseWith="es" audience="Patients">COVID-19</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000801478" UseWith="en" audience="Patients">SARS-CoV-2</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000801478" UseWith="es" audience="Patients">SARS-CoV-2</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803673">
+  <TermName>coronavirus</TermName>
+  <TermPronunciation>(kuh-ROH-nuh-VY-rus)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>One of a large family of viruses that can infect people and some animals and cause a respiratory illness. There are many different coronaviruses. Some cause mild diseases, such as the common cold, while others cause more serious respiratory illnesses, such as coronavirus disease 19 (COVID-19).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805347" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;coronavirus&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;coronavirus&quot;" language="es" id="_4"/>
+  <SpanishTermName>coronavirus</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de virus perteneciente a una gran familia de virus que infecta a seres humanos y algunos animales, y produce enfermedad respiratoria. Hay muchos tipos de coronavirus. Algunos causan enfermedad leve, como el resfriado común, y otros producen enfermedades respiratorias más graves, como la enfermedad por coronavirus de 2019 (COVID-19).</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-23</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/coronavirus">COVID-19 and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/coronavirus">El coronavirus y el cáncer</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000801481" UseWith="en" audience="Patients">COVID-19</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000801481" UseWith="es" audience="Patients">COVID-19</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000801478" UseWith="en" audience="Patients">SARS-CoV-2</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000801478" UseWith="es" audience="Patients">SARS-CoV-2</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

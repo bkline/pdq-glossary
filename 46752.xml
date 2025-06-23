@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000046752"><TermName>cone biopsy</TermName><TermPronunciation>(kone BY-op-see)</TermPronunciation><TermDefinition><DefinitionText>A procedure in which a cone-shaped piece of abnormal tissue is removed from the cervix. A scalpel, a laser knife, or a thin wire loop heated by an electric current may be used to remove the tissue. The tissue is then checked under a microscope for signs of disease. Cone biopsy may be used to check for cervical cancer or to treat certain cervical conditions. Types of cone biopsy are LEEP (loop electrosurgical excision procedure) and cold knife conization (cold knife cone biopsy). Also called conization.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731769" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cone biopsy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731768" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia de cono&quot;" language="es" id="_4"/><SpanishTermName>biopsia de cono</SpanishTermName><SpanishTermDefinition><DefinitionText>Procedimiento en el que se extrae una porción de tejido anormal, en forma de cono, del cuello uterino. Para extraer el tejido se puede usar un bisturí, un bisturí láser o un alambre fino en forma de asa con corriente eléctrica que se calienta. Luego, el tejido se examina al microscopio para determinar si hay signos de enfermedad. La biopsia de cono se puede usar para verificar si hay cáncer o para tratar ciertas afecciones del cuello uterino. Los tipos de biopsia de cono son el  procedimiento de escisión electroquirúrgica con asa (LEEP) y la conización quirúrgica (biopsia de cono con bisturí). También se llama conización.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2013-11-05</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000046752">
+  <TermName>cone biopsy</TermName>
+  <TermPronunciation>(kone BY-op-see)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A procedure in which a cone-shaped piece of abnormal tissue is removed from the cervix. A scalpel, a laser knife, or a thin wire loop heated by an electric current may be used to remove the tissue. The tissue is then checked under a microscope for signs of disease. Cone biopsy may be used to check for cervical cancer or to treat certain cervical conditions. Types of cone biopsy are LEEP (loop electrosurgical excision procedure) and cold knife conization (cold knife cone biopsy). Also called conization.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731769" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;cone biopsy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731768" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;biopsia de cono&quot;" language="es" id="_4"/>
+  <SpanishTermName>biopsia de cono</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Procedimiento en el que se extrae una porción de tejido anormal, en forma de cono, del cuello uterino. Para extraer el tejido se puede usar un bisturí, un bisturí láser o un alambre fino en forma de asa con corriente eléctrica que se calienta. Luego, el tejido se examina al microscopio para determinar si hay signos de enfermedad. La biopsia de cono se puede usar para verificar si hay cáncer o para tratar ciertas afecciones del cuello uterino. Los tipos de biopsia de cono son el  procedimiento de escisión electroquirúrgica con asa (LEEP) y la conización quirúrgica (biopsia de cono con bisturí). También se llama conización.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2013-11-05</DateLastModified>
+</GlossaryTerm>

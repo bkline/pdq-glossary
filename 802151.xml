@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000802151"><TermName>ORR</TermName><TermDefinition><DefinitionText>The percentage of people in a study or treatment group who have a partial response or complete response to the treatment within a certain period of time. A partial response is a decrease in the size of a tumor or in the amount of cancer in the body, and a complete response is the disappearance of all signs of cancer in the body. In a clinical trial, measuring the  ORR is one way to see how well a new treatment works. Also called objective response rate.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>TRO</SpanishTermName><SpanishTermDefinition><DefinitionText>Porcentaje de personas en un estudio o grupo de tratamiento que tienen una respuesta parcial o completa al tratamiento en un período de tiempo determinado. Una respuesta parcial es la disminución del tamaño del tumor o de la cantidad de cáncer en el cuerpo, y una respuesta completa es la desaparición de todos los signos de cáncer en el cuerpo. En un ensayo clínico, medir la TRO es una manera de determinar la eficacia de un tratamiento nuevo. También se llama tasa de respuesta objetiva.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-10-20</DateFirstPublished><DateLastModified>2022-12-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000802151">
+  <TermName>ORR</TermName>
+  <TermDefinition>
+    <DefinitionText>The percentage of people in a study or treatment group who have a partial response or complete response to the treatment within a certain period of time. A partial response is a decrease in the size of a tumor or in the amount of cancer in the body, and a complete response is the disappearance of all signs of cancer in the body. In a clinical trial, measuring the  ORR is one way to see how well a new treatment works. Also called objective response rate.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>TRO</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Porcentaje de personas en un estudio o grupo de tratamiento que tienen una respuesta parcial o completa al tratamiento en un período de tiempo determinado. Una respuesta parcial es la disminución del tamaño del tumor o de la cantidad de cáncer en el cuerpo, y una respuesta completa es la desaparición de todos los signos de cáncer en el cuerpo. En un ensayo clínico, medir la TRO es una manera de determinar la eficacia de un tratamiento nuevo. También se llama tasa de respuesta objetiva.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-10-20</DateFirstPublished>
+  <DateLastModified>2022-12-08</DateLastModified>
+</GlossaryTerm>

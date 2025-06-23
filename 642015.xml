@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000642015"><TermName>family medical history</TermName><TermPronunciation>(FA-mih-lee MEH-dih-kul HIH-stuh-ree)</TermPronunciation><TermDefinition><DefinitionText>A record of the relationships among family members along with their medical histories.  This includes current and past illnesses. A family medical history may show a pattern of certain diseases in a family. Also called family history.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000722925" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;family medical history&quot;" language="en" id="_3"/><MediaLink ref="CDR0000722926" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;historia médica familiar&quot;" language="es" id="_4"/><SpanishTermName>historia médica familiar</SpanishTermName><SpanishTermDefinition><DefinitionText>Registro de las relaciones entre los miembros de una familia junto con sus antecedentes médicos. Esto abarca las enfermedades actuales y pasadas. En la historia médica familiar a veces se observa la distribución de ciertas enfermedades en una familia. También se llama antecedentes médicos familiares e historia familiar.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-05-28</DateFirstPublished><DateLastModified>2009-05-19</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Family-History">Family History (National Human Genome Research Institute)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Historial-familiar">Historial familiar (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000642015">
+  <TermName>family medical history</TermName>
+  <TermPronunciation>(FA-mih-lee MEH-dih-kul HIH-stuh-ree)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A record of the relationships among family members along with their medical histories.  This includes current and past illnesses. A family medical history may show a pattern of certain diseases in a family. Also called family history.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000722925" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;family medical history&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000722926" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;historia médica familiar&quot;" language="es" id="_4"/>
+  <SpanishTermName>historia médica familiar</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Registro de las relaciones entre los miembros de una familia junto con sus antecedentes médicos. Esto abarca las enfermedades actuales y pasadas. En la historia médica familiar a veces se observa la distribución de ciertas enfermedades en una familia. También se llama antecedentes médicos familiares e historia familiar.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-05-28</DateFirstPublished>
+  <DateLastModified>2009-05-19</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.genome.gov/genetics-glossary/Family-History">Family History (National Human Genome Research Institute)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.genome.gov/es/genetics-glossary/Historial-familiar">Historial familiar (Instituto Nacional de Investigación del Genoma Humano)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

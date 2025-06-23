@@ -1,1 +1,27 @@
-<GlossaryTerm id="CDR0000803466"><TermName>TMC8 gene</TermName><TermPronunciation>(... jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that makes a protein involved in forming channels through which proteins and other molecules move inside cells. Mutations (changes) in the <GeneName>TMC8</GeneName> gene have been found in an inherited condition called epidermodysplasia verruciformis. People with this condition have a high risk of developing chronic infections with certain types of human papillomavirus (HPV) and skin cancer at an early age.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000805303" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;TMC8 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000805304" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen TMC8&quot;" language="es" id="_4"/><SpanishTermName>gen TMC8</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que da origen a una proteína que participa en la formación de canales a través de los que las proteínas y otras moléculas se mueven en las células. Se han encontrado mutaciones (cambios) del gen <GeneName>TMC8</GeneName> en una afección hereditaria llamada epidermodisplasia verruciforme. Las personas con esta afección tienen un riesgo alto de presentar infecciones crónicas por ciertos tipos de virus del papiloma humano (VPH), y cáncer de piel a una edad temprana.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-03-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000803466">
+  <TermName>TMC8 gene</TermName>
+  <TermPronunciation>(... jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A gene that makes a protein involved in forming channels through which proteins and other molecules move inside cells. Mutations (changes) in the 
+      <GeneName>TMC8</GeneName>
+       gene have been found in an inherited condition called epidermodysplasia verruciformis. People with this condition have a high risk of developing chronic infections with certain types of human papillomavirus (HPV) and skin cancer at an early age.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000805303" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;TMC8 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000805304" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen TMC8&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen TMC8</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Gen que da origen a una proteína que participa en la formación de canales a través de los que las proteínas y otras moléculas se mueven en las células. Se han encontrado mutaciones (cambios) del gen 
+      <GeneName>TMC8</GeneName>
+       en una afección hereditaria llamada epidermodisplasia verruciforme. Las personas con esta afección tienen un riesgo alto de presentar infecciones crónicas por ciertos tipos de virus del papiloma humano (VPH), y cáncer de piel a una edad temprana.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-03-10</DateFirstPublished>
+</GlossaryTerm>

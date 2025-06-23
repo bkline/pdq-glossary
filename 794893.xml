@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000794893"><TermName>stage 0 squamous cell carcinoma</TermName><TermPronunciation>(… SKWAY-mus sel KAR-sih-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A condition in which abnormal cells are found in the tissues that form the surface of the skin, the lining of the hollow organs of the body (such as the bladder and uterus), and the lining of the respiratory and digestive tracts. These abnormal cells may become cancer and spread into nearby normal tissue. Stage 0 squamous cell carcinoma occurs in the skin, anus, bladder, uterus, cervix, head and neck, lung, and vagina, and in other parts of the body. Also called squamous cell carcinoma in situ.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000797259" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 squamous cell carcinoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000797260" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células escamosas en estadio 0&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de células escamosas en estadio 0</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección por la que se encuentran células anormales en los tejidos que forman la superficie de la piel, el revestimiento de los órganos huecos del cuerpo (como la vejiga y el útero), y el revestimiento de las vías respiratorias y digestivas. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano. El carcinoma de células escamosas en estadio 0 se presenta en la piel, el ano, la vejiga, el útero, el cuello del útero, la cabeza y el cuello, los pulmones y la vagina, así como en otras partes del cuerpo. También se llama carcinoma de células escamosas in situ.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2018-12-31</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000794893">
+  <TermName>stage 0 squamous cell carcinoma</TermName>
+  <TermPronunciation>(… SKWAY-mus sel KAR-sih-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A condition in which abnormal cells are found in the tissues that form the surface of the skin, the lining of the hollow organs of the body (such as the bladder and uterus), and the lining of the respiratory and digestive tracts. These abnormal cells may become cancer and spread into nearby normal tissue. Stage 0 squamous cell carcinoma occurs in the skin, anus, bladder, uterus, cervix, head and neck, lung, and vagina, and in other parts of the body. Also called squamous cell carcinoma in situ.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000797259" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 squamous cell carcinoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000797260" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de células escamosas en estadio 0&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de células escamosas en estadio 0</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Afección por la que se encuentran células anormales en los tejidos que forman la superficie de la piel, el revestimiento de los órganos huecos del cuerpo (como la vejiga y el útero), y el revestimiento de las vías respiratorias y digestivas. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano. El carcinoma de células escamosas en estadio 0 se presenta en la piel, el ano, la vejiga, el útero, el cuello del útero, la cabeza y el cuello, los pulmones y la vagina, así como en otras partes del cuerpo. También se llama carcinoma de células escamosas in situ.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2018-12-31</DateFirstPublished>
+</GlossaryTerm>

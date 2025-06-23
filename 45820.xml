@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045820"><TermName>pathologic fracture</TermName><TermPronunciation>(PA-thuh-LAH-jik FRAK-sher)</TermPronunciation><TermDefinition><DefinitionText>A broken bone caused by disease, often by the spread of cancer to the bone.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000707297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pathologic fracture&quot;" language="en" id="_3"/><MediaLink ref="CDR0000707296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fractura patológica&quot;" language="es" id="_4"/><SpanishTermName>fractura patológica</SpanishTermName><SpanishTermDefinition><DefinitionText>Quebradura de un hueso causada por una enfermedad; con frecuencia por la diseminación del cáncer hasta el hueso.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-04-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045820">
+  <TermName>pathologic fracture</TermName>
+  <TermPronunciation>(PA-thuh-LAH-jik FRAK-sher)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A broken bone caused by disease, often by the spread of cancer to the bone.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000707297" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;pathologic fracture&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000707296" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fractura patológica&quot;" language="es" id="_4"/>
+  <SpanishTermName>fractura patológica</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Quebradura de un hueso causada por una enfermedad; con frecuencia por la diseminación del cáncer hasta el hueso.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-04-19</DateLastModified>
+</GlossaryTerm>

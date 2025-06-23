@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000784950"><TermName>ethnic group</TermName><TermPronunciation>(ETH-nik groop)</TermPronunciation><TermDefinition><DefinitionText>A group of people who share a similar culture (beliefs, values, and behaviors), language, religion, ancestry, or other characteristic that is often handed down from one generation to the next. They may come from the same country or live together in the same area. Examples of ethnic groups include Hispanics and Han Chinese. Some diseases or genetic conditions may be more common in certain ethnic groups than in others.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000788387" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ethnic group&quot;" language="en" id="_3"/><MediaLink ref="CDR0000788388" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;grupo étnico&quot;" language="es" id="_4"/><SpanishTermName>grupo étnico</SpanishTermName><SpanishTermDefinition><DefinitionText>Grupo de personas que comparten una cultura similar (creencias, valores y comportamientos), idioma, religión, antepasados y otras características que a menudo pasan de una generación a la siguiente. Las personas pueden venir del mismo país o vivir juntas en la misma zona. La población hispana y la población china son ejemplos de grupos étnicos. Algunas enfermedades o afecciones genéticas suelen ser más comunes en determinados grupos étnicos que en otros.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-03-20</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784950">
+  <TermName>ethnic group</TermName>
+  <TermPronunciation>(ETH-nik groop)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A group of people who share a similar culture (beliefs, values, and behaviors), language, religion, ancestry, or other characteristic that is often handed down from one generation to the next. They may come from the same country or live together in the same area. Examples of ethnic groups include Hispanics and Han Chinese. Some diseases or genetic conditions may be more common in certain ethnic groups than in others.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000788387" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ethnic group&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000788388" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;grupo étnico&quot;" language="es" id="_4"/>
+  <SpanishTermName>grupo étnico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Grupo de personas que comparten una cultura similar (creencias, valores y comportamientos), idioma, religión, antepasados y otras características que a menudo pasan de una generación a la siguiente. Las personas pueden venir del mismo país o vivir juntas en la misma zona. La población hispana y la población china son ejemplos de grupos étnicos. Algunas enfermedades o afecciones genéticas suelen ser más comunes en determinados grupos étnicos que en otros.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-03-20</DateFirstPublished>
+</GlossaryTerm>

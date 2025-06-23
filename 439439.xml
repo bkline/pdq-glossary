@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000439439"><TermName>fluorine F 18-EF5</TermName><TermPronunciation>(FLOOR-een ...)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to find cancer cells that have a low level of oxygen. This may help predict how well the cancer will respond to treatment. Also called 18F-EF5.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713702" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 EF5&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713703" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-EF5&quot;" language="es" id="_4"/><SpanishTermName>flúor F 18-EF5</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva en estudio para usar con las imágenes por tomografía con emisión de positrones (TEP) y detectar células con concentración baja de oxígeno. Es posible que esto ayude a predecir la respuesta del cáncer al tratamiento. También se llama 18F-EF5.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-07-08</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000439439">
+  <TermName>fluorine F 18-EF5</TermName>
+  <TermPronunciation>(FLOOR-een ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in positron emission tomography (PET) imaging to find cancer cells that have a low level of oxygen. This may help predict how well the cancer will respond to treatment. Also called 18F-EF5.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713702" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fluorine F 18 EF5&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713703" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;flúor F 18-EF5&quot;" language="es" id="_4"/>
+  <SpanishTermName>flúor F 18-EF5</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva en estudio para usar con las imágenes por tomografía con emisión de positrones (TEP) y detectar células con concentración baja de oxígeno. Es posible que esto ayude a predecir la respuesta del cáncer al tratamiento. También se llama 18F-EF5.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-07-08</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

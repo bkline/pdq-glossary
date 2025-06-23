@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000804978"><TermName>simple fibroadenoma</TermName><TermPronunciation>(SIM-pul FY-broh-a-deh-NOH-muh)</TermPronunciation><TermDefinition><DefinitionText>A type of benign (not cancer) tumor that usually forms in the breast and is made up of fibrous (connective) tissue and glandular tissue. When viewed under a microscope, all the cells in a simple fibroadenoma look the same and have clear, defined edges. Simple fibroadenomas are more common in younger women and do not increase the risk of breast cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000806849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;simple fibroadenoma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000806850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibroadenoma simple&quot;" language="es" id="_4"/><SpanishTermName>fibroadenoma simple</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de tumor benigno (no canceroso) que suele formarse en la mama y se compone de tejido fibroso (conjuntivo) y tejido glandular. Cuando se observa al microscopio, todas las células del fibroadenoma simple son iguales y tienen bordes bien definidos. Los fibroadenomas simples son más comunes en las mujeres jóvenes y no aumentan el riesgo de cáncer de mama.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2021-08-09</DateFirstPublished><RelatedInformation><RelatedGlossaryTermRef href="CDR0000523438" UseWith="en" audience="Patients">fibroadenoma</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000523438" UseWith="es" audience="Patients">fibroadenoma</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000804978">
+  <TermName>simple fibroadenoma</TermName>
+  <TermPronunciation>(SIM-pul FY-broh-a-deh-NOH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of benign (not cancer) tumor that usually forms in the breast and is made up of fibrous (connective) tissue and glandular tissue. When viewed under a microscope, all the cells in a simple fibroadenoma look the same and have clear, defined edges. Simple fibroadenomas are more common in younger women and do not increase the risk of breast cancer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000806849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;simple fibroadenoma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000806850" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fibroadenoma simple&quot;" language="es" id="_4"/>
+  <SpanishTermName>fibroadenoma simple</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de tumor benigno (no canceroso) que suele formarse en la mama y se compone de tejido fibroso (conjuntivo) y tejido glandular. Cuando se observa al microscopio, todas las células del fibroadenoma simple son iguales y tienen bordes bien definidos. Los fibroadenomas simples son más comunes en las mujeres jóvenes y no aumentan el riesgo de cáncer de mama.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2021-08-09</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000523438" UseWith="en" audience="Patients">fibroadenoma</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000523438" UseWith="es" audience="Patients">fibroadenoma</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

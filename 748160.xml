@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000748160"><TermName>CLD</TermName><TermDefinition><DefinitionText>A type of disorder that affects the lungs and other parts of the respiratory system. It usually develops slowly and may get worse over time. CLD may be caused by smoking tobacco or by breathing in secondhand tobacco smoke, chemical fumes, dust, or other forms of air pollution. Types of CLD include asthma, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, asbestosis, pneumonitis, and other lung conditions. Also called chronic lung disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>EPC</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de trastorno de los pulmones y otras partes del aparato respiratorio que a menudo aparece y empeora lentamente. Este tipo de trastorno a veces se produce en las personas que fuman,  o por inhalación del humo de tabaco en el ambiente, vapores químicos, polvo u otras formas de contaminación del aire. Ejemplos de EPC son el asma, la enfermedad pulmonar obstructiva crónica (EPOC), la fibrosis pulmonar, la asbestosis, la neumonitis y otras afecciones pulmonares. También se llama enfermedad pulmonar crónica.</DefinitionText><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-07-17</DateFirstPublished><DateLastModified>2020-05-19</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000748160">
+  <TermName>CLD</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of disorder that affects the lungs and other parts of the respiratory system. It usually develops slowly and may get worse over time. CLD may be caused by smoking tobacco or by breathing in secondhand tobacco smoke, chemical fumes, dust, or other forms of air pollution. Types of CLD include asthma, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, asbestosis, pneumonitis, and other lung conditions. Also called chronic lung disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>EPC</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de trastorno de los pulmones y otras partes del aparato respiratorio que a menudo aparece y empeora lentamente. Este tipo de trastorno a veces se produce en las personas que fuman,  o por inhalación del humo de tabaco en el ambiente, vapores químicos, polvo u otras formas de contaminación del aire. Ejemplos de EPC son el asma, la enfermedad pulmonar obstructiva crónica (EPOC), la fibrosis pulmonar, la asbestosis, la neumonitis y otras afecciones pulmonares. También se llama enfermedad pulmonar crónica.</DefinitionText>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-07-17</DateFirstPublished>
+  <DateLastModified>2020-05-19</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000666218"><TermName>iodine I 131-ethiodized oil</TermName><TermPronunciation>(I-oh-dine … eh-THY-oh-dized oyl)</TermPronunciation><TermDefinition><DefinitionText>A radioactive substance being studied in the treatment of liver cancer. It is a form of poppy seed oil that contains iodine, some of which is the radioactive substance iodine I 131. Iodine I 131-ethiodized oil builds up in the blood and lymph vessels in the liver and may kill cancer cells. Also called iodine I 131-Lipiodol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000725834" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iodine I 131 ethiodized oil&quot;" language="en" id="_3"/><MediaLink ref="CDR0000725835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yodo I 131-aceite etiodado&quot;" language="es" id="_4"/><SpanishTermName>yodo I 131-aceite etiodado</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia radiactiva que se estudia para el tratamiento del cáncer de hígado. Es una forma de aceite de semilla de amapola que contiene yodo, parte en forma de la sustancia radiactiva yodo I 131. El yodo I 131-aceite etiodado se acumula en los vasos sanguíneos y linfáticos del hígado y, es posible que destruya las células cancerosas. También se llama yodo I 131-Lipiodol.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2010-06-15</DateFirstPublished><DateLastModified>2017-10-24</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000666218">
+  <TermName>iodine I 131-ethiodized oil</TermName>
+  <TermPronunciation>(I-oh-dine … eh-THY-oh-dized oyl)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A radioactive substance being studied in the treatment of liver cancer. It is a form of poppy seed oil that contains iodine, some of which is the radioactive substance iodine I 131. Iodine I 131-ethiodized oil builds up in the blood and lymph vessels in the liver and may kill cancer cells. Also called iodine I 131-Lipiodol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000725834" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;iodine I 131 ethiodized oil&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000725835" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;yodo I 131-aceite etiodado&quot;" language="es" id="_4"/>
+  <SpanishTermName>yodo I 131-aceite etiodado</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia radiactiva que se estudia para el tratamiento del cáncer de hígado. Es una forma de aceite de semilla de amapola que contiene yodo, parte en forma de la sustancia radiactiva yodo I 131. El yodo I 131-aceite etiodado se acumula en los vasos sanguíneos y linfáticos del hígado y, es posible que destruya las células cancerosas. También se llama yodo I 131-Lipiodol.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-06-15</DateFirstPublished>
+  <DateLastModified>2017-10-24</DateLastModified>
+</GlossaryTerm>

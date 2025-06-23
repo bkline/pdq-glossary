@@ -1,1 +1,35 @@
-<GlossaryTerm id="CDR0000702051"><TermName>vemurafenib</TermName><TermPronunciation>(VEH-myoo-RA-feh-nib)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat Erdheim-Chester disease (a very rare type of histiocytosis) and advanced melanoma that have a certain mutation (change) in the <GeneName>BRAF</GeneName> gene. It is also being studied in the treatment of other types of cancer. Vemurafenib blocks certain proteins made by the mutated <GeneName>BRAF</GeneName> gene, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called BRAF (V600E) kinase inhibitor RO5185426, PLX4032, RG7204, and Zelboraf.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000732954" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vemurafenib&quot;" language="en" id="_3"/><MediaLink ref="CDR0000732953" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vemurafenib&quot;" language="es" id="_4"/><SpanishTermName>vemurafenib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de  la enfermedad de Erdheim-Chester (tipo muy raro de histiocitosis) y el melanoma en estadio avanzado que tiene cierta mutación (cambio) en el gen <GeneName>BRAF</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer.  El vemurafenib bloquea ciertas proteínas que se originan del gen <GeneName>BRAF</GeneName> mutado, lo que tal vez ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama inhibidor de la cinasa BRAF (V600E) RO5185426, PLX4032, RG7204 y Zelboraf.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2011-06-10</DateFirstPublished><DateLastModified>2021-09-29</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000709542" url="/about-cancer/treatment/drugs/vemurafenib">Vemurafenib</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000702051">
+  <TermName>vemurafenib</TermName>
+  <TermPronunciation>(VEH-myoo-RA-feh-nib)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat Erdheim-Chester disease (a very rare type of histiocytosis) and advanced melanoma that have a certain mutation (change) in the 
+      <GeneName>BRAF</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Vemurafenib blocks certain proteins made by the mutated 
+      <GeneName>BRAF</GeneName>
+       gene, which may help keep cancer cells from growing. It is a type of kinase inhibitor. Also called BRAF (V600E) kinase inhibitor RO5185426, PLX4032, RG7204, and Zelboraf.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000732954" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vemurafenib&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000732953" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vemurafenib&quot;" language="es" id="_4"/>
+  <SpanishTermName>vemurafenib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de  la enfermedad de Erdheim-Chester (tipo muy raro de histiocitosis) y el melanoma en estadio avanzado que tiene cierta mutación (cambio) en el gen 
+      <GeneName>BRAF</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer.  El vemurafenib bloquea ciertas proteínas que se originan del gen 
+      <GeneName>BRAF</GeneName>
+       mutado, lo que tal vez ayude a evitar la multiplicación de células cancerosas. Es un tipo de inhibidor de cinasas. También se llama inhibidor de la cinasa BRAF (V600E) RO5185426, PLX4032, RG7204 y Zelboraf.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2011-06-10</DateFirstPublished>
+  <DateLastModified>2021-09-29</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000709542" url="/about-cancer/treatment/drugs/vemurafenib">Vemurafenib</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000763033"><TermName>facies</TermName><TermPronunciation>(FAY-sheez)</TermPronunciation><TermDefinition><DefinitionText>A distinctive facial feature or expression that is characteristic of a specific condition.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000764451" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;facies&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;facies&quot;" language="es" id="_4"/><SpanishTermName>facies</SpanishTermName><SpanishTermDefinition><DefinitionText>Rasgo o expresión facial distintiva que caracteriza una afección específica.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2014-07-16</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000763033">
+  <TermName>facies</TermName>
+  <TermPronunciation>(FAY-sheez)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A distinctive facial feature or expression that is characteristic of a specific condition.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000764451" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;facies&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804298" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;facies&quot;" language="es" id="_4"/>
+  <SpanishTermName>facies</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Rasgo o expresión facial distintiva que caracteriza una afección específica.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2014-07-16</DateFirstPublished>
+</GlossaryTerm>

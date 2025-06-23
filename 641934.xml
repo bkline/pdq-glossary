@@ -1,1 +1,16 @@
-<GlossaryTerm id="CDR0000641934"><TermName>ASPS</TermName><TermDefinition><DefinitionText>A soft tissue tumor that is most common in older children and teenagers. It begins in the soft supporting tissue that connects and surrounds the organs and other tissues. ASPS usually occurs in the legs, but can also occur in the arms, hands, head, or neck. It can cause the growth of new blood vessels that help the tumor grow and spread. Also called alveolar soft part sarcoma.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>SAPB</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor de tejido blando que es más frecuente en niños mayores y adolescentes.   Surge en el tejido conjuntivo blando que rodea y conecta los órganos y otros tejidos.   El SAPB suele presentarse en las piernas, pero también se presenta en los brazos, las manos, la cabeza o el cuello.   Es capaz de producir  vasos sanguíneos nuevos que ayudan a que el tumor crezca y se disemine. También se llama sarcoma alveolar de partes blandas.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2009-10-05</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000641934">
+  <TermName>ASPS</TermName>
+  <TermDefinition>
+    <DefinitionText>A soft tissue tumor that is most common in older children and teenagers. It begins in the soft supporting tissue that connects and surrounds the organs and other tissues. ASPS usually occurs in the legs, but can also occur in the arms, hands, head, or neck. It can cause the growth of new blood vessels that help the tumor grow and spread. Also called alveolar soft part sarcoma.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>SAPB</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de tejido blando que es más frecuente en niños mayores y adolescentes.   Surge en el tejido conjuntivo blando que rodea y conecta los órganos y otros tejidos.   El SAPB suele presentarse en las piernas, pero también se presenta en los brazos, las manos, la cabeza o el cuello.   Es capaz de producir  vasos sanguíneos nuevos que ayudan a que el tumor crezca y se disemine. También se llama sarcoma alveolar de partes blandas.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2009-10-05</DateFirstPublished>
+</GlossaryTerm>

@@ -1,1 +1,26 @@
-<GlossaryTerm id="CDR0000797076"><TermName>Gardner syndrome</TermName><TermPronunciation>(GARD-ner SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder in which many polyps (abnormal growths of tissue) form on the inner walls of the colon and rectum. Other signs and symptoms of Gardner syndrome include dental problems and benign (not cancer) growths or tumors in the bone, soft tissue, skin, adrenal glands, stomach, and small intestine. People with Gardner syndrome have a very high risk of developing colorectal cancer at an early age. They are also at risk of developing cancers of the small bowel, stomach, pancreas, thyroid, central nervous system, liver, bile ducts, and adrenal gland. Gardner syndrome is caused by a mutation (change) in a gene called APC. It is a type of familial adenomatous polyposis and a type of autosomal dominant genetic disease.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gardner syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Gardner&quot;" language="es" id="_4"/><SpanishTermName>síndrome de Gardner</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro por el que se forman muchos pólipos (masas de tejido anormal) en las paredes internas del colon y el recto. Otros signos y síntomas del síndrome de Gardner son los problemas dentales y las masas o tumores benignos (no cancerosos) de hueso, tejido blando, piel, glándula suprarrenal, estómago e intestino delgado. Las personas con síndrome de Gardner presentan un riesgo muy alto de tener cáncer colorrectal a una edad temprana. También tienen riesgo de cáncer de intestino delgado, estómago, páncreas, tiroides, sistema nervioso central, hígado, vías biliares y glándula suprarrenal. El síndrome de Gardner se produce debido a una mutación (cambio) en un gen que se llama <GeneName>APC</GeneName>. Es un tipo de poliposis adenomatosa familiar y de enfermedad genética autosómica dominante.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-05-25</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6482/gardner-syndrome">Gardner syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000797076">
+  <TermName>Gardner syndrome</TermName>
+  <TermPronunciation>(GARD-ner SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder in which many polyps (abnormal growths of tissue) form on the inner walls of the colon and rectum. Other signs and symptoms of Gardner syndrome include dental problems and benign (not cancer) growths or tumors in the bone, soft tissue, skin, adrenal glands, stomach, and small intestine. People with Gardner syndrome have a very high risk of developing colorectal cancer at an early age. They are also at risk of developing cancers of the small bowel, stomach, pancreas, thyroid, central nervous system, liver, bile ducts, and adrenal gland. Gardner syndrome is caused by a mutation (change) in a gene called APC. It is a type of familial adenomatous polyposis and a type of autosomal dominant genetic disease.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798849" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Gardner syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798848" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome de Gardner&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome de Gardner</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario raro por el que se forman muchos pólipos (masas de tejido anormal) en las paredes internas del colon y el recto. Otros signos y síntomas del síndrome de Gardner son los problemas dentales y las masas o tumores benignos (no cancerosos) de hueso, tejido blando, piel, glándula suprarrenal, estómago e intestino delgado. Las personas con síndrome de Gardner presentan un riesgo muy alto de tener cáncer colorrectal a una edad temprana. También tienen riesgo de cáncer de intestino delgado, estómago, páncreas, tiroides, sistema nervioso central, hígado, vías biliares y glándula suprarrenal. El síndrome de Gardner se produce debido a una mutación (cambio) en un gen que se llama 
+      <GeneName>APC</GeneName>
+      . Es un tipo de poliposis adenomatosa familiar y de enfermedad genética autosómica dominante.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-05-25</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/6482/gardner-syndrome">Gardner syndrome (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

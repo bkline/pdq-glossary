@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000784094"><TermName>ELF-EMF</TermName><TermDefinition><DefinitionText>A type of very low-energy radiation that travels in long waves. Although there have been health concerns, it is not known to cause harmful health effects, including cancer. The most common sources of ELF-EMFs are power lines, electrical wiring, and electrical appliances, such as shavers, hair dryers, and electric blankets.  Also called extremely low frequency electromagnetic field.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CEM-FEB</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de radiación de energía muy baja que se desplaza en ondas largas. Aunque ha habido preocupación por sus efectos en la salud, no produce efectos  dañinos para la salud, como en el caso del cáncer. Las fuentes más comunes de los CEM-FEB son los cables eléctricos, las redes eléctricas y los electrodomésticos, como las máquinas de afeitar, secadoras de pelo y mantas eléctricas. También se llama campo electromagnético de frecuencia extremadamente baja.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-02-15</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet">Electromagnetic Fields and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-campos-electromagneticos">Campos electromagnéticos y cáncer</RelatedExternalRef><RelatedGlossaryTermRef href="CDR0000784091" UseWith="en" audience="Patients">electromagnetic spectrum</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000784091" UseWith="es" audience="Patients">espectro electromagnético</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000784094">
+  <TermName>ELF-EMF</TermName>
+  <TermDefinition>
+    <DefinitionText>A type of very low-energy radiation that travels in long waves. Although there have been health concerns, it is not known to cause harmful health effects, including cancer. The most common sources of ELF-EMFs are power lines, electrical wiring, and electrical appliances, such as shavers, hair dryers, and electric blankets.  Also called extremely low frequency electromagnetic field.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CEM-FEB</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de radiación de energía muy baja que se desplaza en ondas largas. Aunque ha habido preocupación por sus efectos en la salud, no produce efectos  dañinos para la salud, como en el caso del cáncer. Las fuentes más comunes de los CEM-FEB son los cables eléctricos, las redes eléctricas y los electrodomésticos, como las máquinas de afeitar, secadoras de pelo y mantas eléctricas. También se llama campo electromagnético de frecuencia extremadamente baja.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-02-15</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet">Electromagnetic Fields and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-campos-electromagneticos">Campos electromagnéticos y cáncer</RelatedExternalRef>
+    <RelatedGlossaryTermRef href="CDR0000784091" UseWith="en" audience="Patients">electromagnetic spectrum</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000784091" UseWith="es" audience="Patients">espectro electromagnético</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

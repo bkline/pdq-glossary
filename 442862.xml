@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000442862"><TermName>photosensitizing agent</TermName><TermPronunciation>(FOH-toh-SEN-sih-ty-zing AY-jent)</TermPronunciation><TermDefinition><DefinitionText>A drug used in photodynamic therapy. When absorbed by cancer cells and exposed to light, the drug becomes active and kills the cancer cells. Also called photosensitizer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000713700" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photosensitizing agent&quot;" language="en" id="_3"/><MediaLink ref="CDR0000713701" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fotosensibilizante&quot;" language="es" id="_4"/><SpanishTermName>fotosensibilizante</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para la terapia fotodinámica. Cuando las células cancerosas lo absorben y se exponen a la luz, el medicamento se activa y destruye las células cancerosas. También se llama fotosensibilizador.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-05</DateFirstPublished><DateLastModified>2005-08-03</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000442862">
+  <TermName>photosensitizing agent</TermName>
+  <TermPronunciation>(FOH-toh-SEN-sih-ty-zing AY-jent)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used in photodynamic therapy. When absorbed by cancer cells and exposed to light, the drug becomes active and kills the cancer cells. Also called photosensitizer.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000713700" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;photosensitizing agent&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000713701" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;fotosensibilizante&quot;" language="es" id="_4"/>
+  <SpanishTermName>fotosensibilizante</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para la terapia fotodinámica. Cuando las células cancerosas lo absorben y se exponen a la luz, el medicamento se activa y destruye las células cancerosas. También se llama fotosensibilizador.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-05</DateFirstPublished>
+  <DateLastModified>2005-08-03</DateLastModified>
+</GlossaryTerm>

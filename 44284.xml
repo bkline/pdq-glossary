@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000044284"><TermName>irradiation</TermName><TermPronunciation>(ih-RAY-dee-AY-shun)</TermPronunciation><TermDefinition><DefinitionText>The use of
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044284">
+  <TermName>irradiation</TermName>
+  <TermPronunciation>(ih-RAY-dee-AY-shun)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The use of
           high-energy radiation from x-rays, gamma rays, neutrons,
           protons, and other sources to kill cancer cells and shrink
           tumors. Radiation may come from a machine outside the body
@@ -7,7 +12,15 @@
           (internal radiation therapy or brachytherapy). Systemic
           irradiation uses a radioactive substance,
           such as a radiolabeled monoclonal antibody, that travels in
-          the blood to tissues throughout the body. Also called radiation therapy and radiotherapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000704411" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;irradiation&quot;" language="en" id="_3"/><MediaLink ref="CDR0000704410" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;irradiación&quot;" language="es" id="_4"/><SpanishTermName>irradiación</SpanishTermName><SpanishTermDefinition><DefinitionText>Uso de radiación de energía alta de rayos X, rayos gamma, neutrones,
+          the blood to tissues throughout the body. Also called radiation therapy and radiotherapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000704411" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;irradiation&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000704410" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;irradiación&quot;" language="es" id="_4"/>
+  <SpanishTermName>irradiación</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Uso de radiación de energía alta de rayos X, rayos gamma, neutrones,
 protones y otras fuentes para destruir células cancerosas y
 reducir el tamaño de los tumores. La radiación se envía desde una máquina fuera del cuerpo (radioterapia de haz
 externo) o la libera un material radiactivo colocado en el cuerpo
@@ -15,9 +28,20 @@ cerca de las células cancerosas (radioterapia interna o braquiterapia). Para la
 irradiación sistémica se usa una sustancia
 radiactiva, como un anticuerpo monoclonal radiomarcado, que
 circula por la sangre y llega a los tejidos de todo el
-cuerpo. También se llama radioterapia y radioterapia oncológica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-03-14</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy">Radiation Therapy to Treat Cancer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/radiation-therapy-and-you">Radiation
+cuerpo. También se llama radioterapia y radioterapia oncológica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-03-14</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy">Radiation Therapy to Treat Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/radiation-therapy-and-you">Radiation
 Therapy and You: Support for People With Cancer
-</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia">Radioterapia
-para tratar el cáncer </RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/radioterapia-y-usted">La
+</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia">Radioterapia
+para tratar el cáncer </RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/radioterapia-y-usted">La
 radioterapia y usted: Apoyo para las personas con
-cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

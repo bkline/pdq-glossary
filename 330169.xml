@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000330169"><TermName>gastritis</TermName><TermPronunciation>(gas-TRY-tis)</TermPronunciation><TermDefinition><DefinitionText>Inflammation of the lining of the stomach.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711642" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis&quot;" language="es" id="_4"/><SpanishTermName>gastritis</SpanishTermName><SpanishTermDefinition><DefinitionText>Inflamación del revestimiento del estómago.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2003-08-24</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000330169">
+  <TermName>gastritis</TermName>
+  <TermPronunciation>(gas-TRY-tis)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Inflammation of the lining of the stomach.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711643" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711642" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gastritis&quot;" language="es" id="_4"/>
+  <SpanishTermName>gastritis</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Inflamación del revestimiento del estómago.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2003-08-24</DateFirstPublished>
+</GlossaryTerm>

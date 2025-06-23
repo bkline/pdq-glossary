@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000044959"><TermName>perfusion magnetic resonance imaging</TermName><TermPronunciation>(per-FYOO-zhun mag-NEH-tik REH-zuh-nunts IH-muh-jing)</TermPronunciation><TermDefinition><DefinitionText>A special type of magnetic resonance imaging (MRI) that uses an injected dye in order to see blood flow through tissues. Also called magnetic resonance perfusion imaging.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000706203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfusion magnetic resonance imaging&quot;" language="en" id="_3"/><MediaLink ref="CDR0000706202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfusión por resonancia magnética&quot;" language="es" id="_4"/><SpanishTermName>perfusión por resonancia magnética</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo especial de imágenes por resonancia magnética (IRM) para la que se inyecta un tinte que permite observar el flujo sanguíneo por los tejidos. También se llama resonancia magnética con perfusión.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2008-04-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044959">
+  <TermName>perfusion magnetic resonance imaging</TermName>
+  <TermPronunciation>(per-FYOO-zhun mag-NEH-tik REH-zuh-nunts IH-muh-jing)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A special type of magnetic resonance imaging (MRI) that uses an injected dye in order to see blood flow through tissues. Also called magnetic resonance perfusion imaging.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000706203" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfusion magnetic resonance imaging&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000706202" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;perfusión por resonancia magnética&quot;" language="es" id="_4"/>
+  <SpanishTermName>perfusión por resonancia magnética</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo especial de imágenes por resonancia magnética (IRM) para la que se inyecta un tinte que permite observar el flujo sanguíneo por los tejidos. También se llama resonancia magnética con perfusión.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2008-04-17</DateLastModified>
+</GlossaryTerm>

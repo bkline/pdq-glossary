@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000798624"><TermName>colloidal oatmeal</TermName><TermPronunciation>(kuh-LOY-dul … meel)</TermPronunciation><TermDefinition><DefinitionText>A special form of oatmeal that helps soothe, soften, and increase moisture in the skin. It may be used in a cream or lotion or as a powder that is added to a soaking bath to help treat rashes and burns, and dry, rough, scaly, or itchy skin. Colloidal oatmeal may also be used to help protect the skin against irritation or inflammation caused by certain skin conditions or skin damage.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000801006" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;colloidal oatmeal&quot;" language="en" id="_3"/><MediaLink ref="CDR0000801007" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;avena coloidal&quot;" language="es" id="_4"/><SpanishTermName>avena coloidal</SpanishTermName><SpanishTermDefinition><DefinitionText>Forma especial de la avena que ayuda a aliviar, suavizar e hidratar la piel. Se puede usar en pomadas, cremas y lociones,   o como  polvo que se añade al agua de baño para el tratamiento de exantemas y quemaduras, además de la piel seca, áspera, con descamación o comezón. La avena coloidal también se usa para proteger la piel contra la irritación o inflamación causadas por afecciones o lesiones de la piel.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-10-07</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798624">
+  <TermName>colloidal oatmeal</TermName>
+  <TermPronunciation>(kuh-LOY-dul … meel)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A special form of oatmeal that helps soothe, soften, and increase moisture in the skin. It may be used in a cream or lotion or as a powder that is added to a soaking bath to help treat rashes and burns, and dry, rough, scaly, or itchy skin. Colloidal oatmeal may also be used to help protect the skin against irritation or inflammation caused by certain skin conditions or skin damage.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000801006" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;colloidal oatmeal&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000801007" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;avena coloidal&quot;" language="es" id="_4"/>
+  <SpanishTermName>avena coloidal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Forma especial de la avena que ayuda a aliviar, suavizar e hidratar la piel. Se puede usar en pomadas, cremas y lociones,   o como  polvo que se añade al agua de baño para el tratamiento de exantemas y quemaduras, además de la piel seca, áspera, con descamación o comezón. La avena coloidal también se usa para proteger la piel contra la irritación o inflamación causadas por afecciones o lesiones de la piel.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-10-07</DateFirstPublished>
+</GlossaryTerm>

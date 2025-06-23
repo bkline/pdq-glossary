@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000615325"><TermName>Oncovin</TermName><TermPronunciation>(ON-koh-vin)</TermPronunciation><TermDefinition><DefinitionText>A drug that contains the active ingredient vincristine sulfate, which is used to treat many types of cancer. Oncovin brand has been taken off the market and is no longer available.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720805" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Oncovin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720804" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Oncovin&quot;" language="es" id="_4"/><SpanishTermName>Oncovin</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que contiene el ingrediente activo sulfato de vincristina, que se usa para el tratamiento de muchos tipos de cáncer. La marca Oncovin se retiró del mercado y ya no se consigue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-09-19</DateFirstPublished><DateLastModified>2020-12-22</DateLastModified><RelatedInformation><RelatedGlossaryTermRef href="CDR0000615324" UseWith="en" audience="Patients">vincristine sulfate</RelatedGlossaryTermRef><RelatedGlossaryTermRef href="CDR0000615324" UseWith="es" audience="Patients">sulfato de vincristina</RelatedGlossaryTermRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000615325">
+  <TermName>Oncovin</TermName>
+  <TermPronunciation>(ON-koh-vin)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug that contains the active ingredient vincristine sulfate, which is used to treat many types of cancer. Oncovin brand has been taken off the market and is no longer available.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720805" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Oncovin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720804" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Oncovin&quot;" language="es" id="_4"/>
+  <SpanishTermName>Oncovin</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que contiene el ingrediente activo sulfato de vincristina, que se usa para el tratamiento de muchos tipos de cáncer. La marca Oncovin se retiró del mercado y ya no se consigue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-09-19</DateFirstPublished>
+  <DateLastModified>2020-12-22</DateLastModified>
+  <RelatedInformation>
+    <RelatedGlossaryTermRef href="CDR0000615324" UseWith="en" audience="Patients">vincristine sulfate</RelatedGlossaryTermRef>
+    <RelatedGlossaryTermRef href="CDR0000615324" UseWith="es" audience="Patients">sulfato de vincristina</RelatedGlossaryTermRef>
+  </RelatedInformation>
+</GlossaryTerm>

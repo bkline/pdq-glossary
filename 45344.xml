@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045344"><TermName>mixed glioma</TermName><TermPronunciation>(mikst glee-OH-muh)</TermPronunciation><TermDefinition><DefinitionText>A brain tumor that forms from more than one type of brain cell, usually astrocytes and oligodendrocytes.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mixed glioma&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705349" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glioma mixto&quot;" language="es" id="_4"/><SpanishTermName>glioma mixto</SpanishTermName><SpanishTermDefinition><DefinitionText>Tumor de encéfalo que se forma a partir de más de un tipo de célula, por lo general, astrocitos y oligodendrocitos.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-10-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045344">
+  <TermName>mixed glioma</TermName>
+  <TermPronunciation>(mikst glee-OH-muh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A brain tumor that forms from more than one type of brain cell, usually astrocytes and oligodendrocytes.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705348" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;mixed glioma&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705349" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;glioma mixto&quot;" language="es" id="_4"/>
+  <SpanishTermName>glioma mixto</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tumor de encéfalo que se forma a partir de más de un tipo de célula, por lo general, astrocitos y oligodendrocitos.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-10-08</DateLastModified>
+</GlossaryTerm>

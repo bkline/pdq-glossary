@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000798933"><TermName>HDGC</TermName><TermDefinition><DefinitionText>A rare, inherited disorder that increases the risk of developing a type of stomach cancer called diffuse gastric cancer. This cancer grows in the lining of the stomach, which causes the lining to become thick and hard. The cancer is also likely to spread to other parts of the body, such as the liver or bone. Women with HDGC also have an increased risk of developing a type of breast cancer that begins in the lobules (milk glands) of the breast. HDGC is usually caused by mutations (changes) in the <GeneName>CDH1</GeneName> gene that are inherited in an autosomal dominant manner. It is a type hereditary cancer syndrome.  Also called familial diffuse gastric cancer and hereditary diffuse gastric cancer.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>CGDH</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro que aumenta el riesgo de un tipo de cáncer de estómago llamado cáncer gástrico difuso. Este cáncer aparece en el revestimiento del estómago y hace que el revestimiento se vuelva grueso y duro. Es probable que este cáncer se disemine a otras partes del cuerpo, como el hígado o el hueso. Las mujeres con CGDH también tienen un riesgo alto de presentar cáncer de mama en los lobulillos (glándulas  mamarias). La causa del CGDH por lo general son mutaciones (cambios) en el gen  <GeneName>CDH1</GeneName> que se heredan de manera autosómica dominante. Es un tipo de síndrome de cáncer  hereditario. También se llama cáncer gástrico difuso familiar y cáncer gástrico difuso hereditario.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-01-13</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/10900/hereditary-diffuse-gastric-cancer">Hereditary diffuse gastric cancer (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/hereditary-diffuse-gastric-cancer/">Hereditary diffuse gastric cancer (MedlinePlus)</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11889/cancer-gastrico-difuso-hereditario">Cáncer gástrico difuso hereditario (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000798933">
+  <TermName>HDGC</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      A rare, inherited disorder that increases the risk of developing a type of stomach cancer called diffuse gastric cancer. This cancer grows in the lining of the stomach, which causes the lining to become thick and hard. The cancer is also likely to spread to other parts of the body, such as the liver or bone. Women with HDGC also have an increased risk of developing a type of breast cancer that begins in the lobules (milk glands) of the breast. HDGC is usually caused by mutations (changes) in the 
+      <GeneName>CDH1</GeneName>
+       gene that are inherited in an autosomal dominant manner. It is a type hereditary cancer syndrome.  Also called familial diffuse gastric cancer and hereditary diffuse gastric cancer.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>CGDH</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Trastorno hereditario raro que aumenta el riesgo de un tipo de cáncer de estómago llamado cáncer gástrico difuso. Este cáncer aparece en el revestimiento del estómago y hace que el revestimiento se vuelva grueso y duro. Es probable que este cáncer se disemine a otras partes del cuerpo, como el hígado o el hueso. Las mujeres con CGDH también tienen un riesgo alto de presentar cáncer de mama en los lobulillos (glándulas  mamarias). La causa del CGDH por lo general son mutaciones (cambios) en el gen  
+      <GeneName>CDH1</GeneName>
+       que se heredan de manera autosómica dominante. Es un tipo de síndrome de cáncer  hereditario. También se llama cáncer gástrico difuso familiar y cáncer gástrico difuso hereditario.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-01-13</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/10900/hereditary-diffuse-gastric-cancer">Hereditary diffuse gastric cancer (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/hereditary-diffuse-gastric-cancer/">Hereditary diffuse gastric cancer (MedlinePlus)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://rarediseases.info.nih.gov/espanol/11889/cancer-gastrico-difuso-hereditario">Cáncer gástrico difuso hereditario (Centro de Información sobre Enfermedades Genéticas y Raras)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

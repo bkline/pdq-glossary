@@ -1,2 +1,20 @@
-<GlossaryTerm id="CDR0000811588"><TermName>downstaging</TermName><TermPronunciation>(…STAY-jing)</TermPronunciation><TermDefinition><DefinitionText>In cancer, changing the stage used to describe the extent of cancer in the body from a higher stage (indicating more extensive disease) to a lower stage (indicating less extensive disease). Staging is usually based on the size of the tumor and whether the cancer has spread. Downstaging may occur as a result of treatment that shrinks a tumor so it can be removed by surgery that otherwise could not have been done.
-</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000813998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;downstaging&quot;" language="en" id="_6"/><MediaLink ref="CDR0000813999" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;descenso de estadio&quot;" language="es" id="_7"/><SpanishTermName>descenso de estadio</SpanishTermName><SpanishTermDefinition><DefinitionText>En el ámbito del cáncer, cambio del estadio que se usa para describir la extensión del cáncer en el cuerpo desde un estadio superior (que indica una enfermedad más extensa) a un estadio inferior (que indica una enfermedad menos extensa). Por lo general, para  la estadificación se tiene en cuenta el tamaño del tumor y si el cáncer se diseminó. Es posible que el descenso de estadio sea resultado de un tratamiento que reduce el tamaño de un tumor para que pueda extirparse mediante una cirugía que, de otro modo, no podría realizarse. También se llama descenso de estadificación, disminución de estadio y reducción de estadio.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-06-23</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000811588">
+  <TermName>downstaging</TermName>
+  <TermPronunciation>(…STAY-jing)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>In cancer, changing the stage used to describe the extent of cancer in the body from a higher stage (indicating more extensive disease) to a lower stage (indicating less extensive disease). Staging is usually based on the size of the tumor and whether the cancer has spread. Downstaging may occur as a result of treatment that shrinks a tumor so it can be removed by surgery that otherwise could not have been done.
+</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000813998" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;downstaging&quot;" language="en" id="_6"/>
+  <MediaLink ref="CDR0000813999" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;descenso de estadio&quot;" language="es" id="_7"/>
+  <SpanishTermName>descenso de estadio</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el ámbito del cáncer, cambio del estadio que se usa para describir la extensión del cáncer en el cuerpo desde un estadio superior (que indica una enfermedad más extensa) a un estadio inferior (que indica una enfermedad menos extensa). Por lo general, para  la estadificación se tiene en cuenta el tamaño del tumor y si el cáncer se diseminó. Es posible que el descenso de estadio sea resultado de un tratamiento que reduce el tamaño de un tumor para que pueda extirparse mediante una cirugía que, de otro modo, no podría realizarse. También se llama descenso de estadificación, disminución de estadio y reducción de estadio.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-06-23</DateFirstPublished>
+</GlossaryTerm>

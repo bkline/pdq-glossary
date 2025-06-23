@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000561402"><TermName>germline DNA</TermName><TermPronunciation>(JERM-line ...)</TermPronunciation><TermDefinition><DefinitionText>The DNA in germ cells (egg and sperm cells that join to form an embryo). Germline DNA is the source of DNA for all other cells in the body. Also called constitutional DNA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><TermDefinition><DefinitionText>Germline DNA refers to tissue derived from reproductive cells (egg or sperm) that become incorporated into the DNA of every cell in the body of the offspring. A germline mutation may be passed from parent to offspring. Also called constitutional DNA.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><MediaLink ref="CDR0000733107" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;germline DNA&quot;" language="en" id="_3"/><MediaLink ref="CDR0000733106" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ADN de la línea germinal&quot;" language="es" id="_4"/><SpanishTermName>ADN de la línea germinal</SpanishTermName><SpanishTermDefinition><DefinitionText>El ADN en las células germinativas (óvulos y espermatozoides que se unen para formar un embrión). El ADN de la línea germinal es la fuente de ADN para todas las otras células del cuerpo. También se llama ADN constitucional, ADN germinal y DNA germinal.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Se refiere al ADN de los tejidos derivados de las células reproductoras (óvulos o espermatozoides) que se incorpora en el ADN de todas las células de la descendencia. Una mutación en la línea germinal pasa del progenitor a su descendencia. También se llama ADN constitucional, ADN germinal y DNA germinal.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2007-11-06</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000561402">
+  <TermName>germline DNA</TermName>
+  <TermPronunciation>(JERM-line ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The DNA in germ cells (egg and sperm cells that join to form an embryo). Germline DNA is the source of DNA for all other cells in the body. Also called constitutional DNA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>Germline DNA refers to tissue derived from reproductive cells (egg or sperm) that become incorporated into the DNA of every cell in the body of the offspring. A germline mutation may be passed from parent to offspring. Also called constitutional DNA.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000733107" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;germline DNA&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000733106" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ADN de la línea germinal&quot;" language="es" id="_4"/>
+  <SpanishTermName>ADN de la línea germinal</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>El ADN en las células germinativas (óvulos y espermatozoides que se unen para formar un embrión). El ADN de la línea germinal es la fuente de ADN para todas las otras células del cuerpo. También se llama ADN constitucional, ADN germinal y DNA germinal.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Se refiere al ADN de los tejidos derivados de las células reproductoras (óvulos o espermatozoides) que se incorpora en el ADN de todas las células de la descendencia. Una mutación en la línea germinal pasa del progenitor a su descendencia. También se llama ADN constitucional, ADN germinal y DNA germinal.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-11-06</DateFirstPublished>
+</GlossaryTerm>

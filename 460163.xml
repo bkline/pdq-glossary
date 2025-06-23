@@ -1,1 +1,29 @@
-<GlossaryTerm id="CDR0000460163"><TermName>locus heterogeneity</TermName><TermPronunciation>(LOH-kus HEH-teh-roh-jeh-NEE-ih-tee)</TermPronunciation><TermDefinition><DefinitionText>The presence of variants at different gene loci that cause the same or similar phenotypic expressions of a disease or condition.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></TermDefinition><TermDefinition><DefinitionText>A term that describes when mutations (changes) in different genes cause the same disease or condition. Each mutation by itself is enough to cause the disease or condition. For example, xeroderma pigmentosum (a rare, inherited disorder with a very high risk of developing skin cancer and other types of cancer) is caused by having a mutation in one of at least nine different genes involved in repairing damaged DNA.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000736919" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;locus heterogeneity&quot;" language="en" id="_2"/><MediaLink ref="CDR0000804226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;heterogeneidad de locus&quot;" language="es" id="_4"/><SpanishTermName>heterogeneidad de locus</SpanishTermName><SpanishTermDefinition><DefinitionText>Presencia de variantes en diferentes locus génicos que causan  la misma expresión fenotípica de una enfermedad o afección, o una expresión fenotípica similar.</DefinitionText><Dictionary>Genetics</Dictionary><Audience>Health professional</Audience></SpanishTermDefinition><SpanishTermDefinition><DefinitionText>Término que se usa cuando mutaciones (cambios) en diferentes genes causan la misma enfermedad o afección. Cada mutación por sí sola es suficiente para causar la enfermedad o afección. Por ejemplo, la causa del   xeroderma pigmentoso (trastorno hereditario raro que acarrea un riesgo muy alto de cáncer de piel y otros tipos de cáncer) es una mutación en 1 de por lo menos 9 genes diferentes que participan en la reparación del daño al ADN.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-12-22</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000460163">
+  <TermName>locus heterogeneity</TermName>
+  <TermPronunciation>(LOH-kus HEH-teh-roh-jeh-NEE-ih-tee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>The presence of variants at different gene loci that cause the same or similar phenotypic expressions of a disease or condition.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <TermDefinition>
+    <DefinitionText>A term that describes when mutations (changes) in different genes cause the same disease or condition. Each mutation by itself is enough to cause the disease or condition. For example, xeroderma pigmentosum (a rare, inherited disorder with a very high risk of developing skin cancer and other types of cancer) is caused by having a mutation in one of at least nine different genes involved in repairing damaged DNA.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000736919" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;locus heterogeneity&quot;" language="en" id="_2"/>
+  <MediaLink ref="CDR0000804226" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;heterogeneidad de locus&quot;" language="es" id="_4"/>
+  <SpanishTermName>heterogeneidad de locus</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Presencia de variantes en diferentes locus génicos que causan  la misma expresión fenotípica de una enfermedad o afección, o una expresión fenotípica similar.</DefinitionText>
+    <Dictionary>Genetics</Dictionary>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <SpanishTermDefinition>
+    <DefinitionText>Término que se usa cuando mutaciones (cambios) en diferentes genes causan la misma enfermedad o afección. Cada mutación por sí sola es suficiente para causar la enfermedad o afección. Por ejemplo, la causa del   xeroderma pigmentoso (trastorno hereditario raro que acarrea un riesgo muy alto de cáncer de piel y otros tipos de cáncer) es una mutación en 1 de por lo menos 9 genes diferentes que participan en la reparación del daño al ADN.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-12-22</DateFirstPublished>
+</GlossaryTerm>

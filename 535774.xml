@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000535774"><TermName>stage 0 lip and oral cavity carcinoma in situ</TermName><TermPronunciation>(... OR-ul KA-vih-tee KAR-sih-NOH-muh in SY-too)</TermPronunciation><TermDefinition><DefinitionText>Abnormal cells are found in the lining of the lips and oral cavity. These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718556" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 lip and oral cavity carcinoma in situ&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718554" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de labio y de cavidad oral in situ en estadio 0&quot;" language="es" id="_4"/><SpanishTermName>carcinoma de labio y de cavidad oral in situ en estadio 0</SpanishTermName><SpanishTermDefinition><DefinitionText>En el estadio 0, se encuentran células anormales en el revestimiento de los labios y la cavidad oral. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-09-21</DateFirstPublished><DateLastModified>2010-11-24</DateLastModified><RelatedInformation><RelatedSummaryRef UseWith="en" href="CDR0000258017" url="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment</RelatedSummaryRef><RelatedSummaryRef UseWith="es" href="CDR0000486932" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq">Tratamiento del cáncer de labio y de cavidad oral en adultos</RelatedSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000535774">
+  <TermName>stage 0 lip and oral cavity carcinoma in situ</TermName>
+  <TermPronunciation>(... OR-ul KA-vih-tee KAR-sih-NOH-muh in SY-too)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Abnormal cells are found in the lining of the lips and oral cavity. These abnormal cells may become cancer and spread into nearby normal tissue.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718556" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;stage 0 lip and oral cavity carcinoma in situ&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718554" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;carcinoma de labio y de cavidad oral in situ en estadio 0&quot;" language="es" id="_4"/>
+  <SpanishTermName>carcinoma de labio y de cavidad oral in situ en estadio 0</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>En el estadio 0, se encuentran células anormales en el revestimiento de los labios y la cavidad oral. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-09-21</DateFirstPublished>
+  <DateLastModified>2010-11-24</DateLastModified>
+  <RelatedInformation>
+    <RelatedSummaryRef UseWith="en" href="CDR0000258017" url="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment</RelatedSummaryRef>
+    <RelatedSummaryRef UseWith="es" href="CDR0000486932" url="/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq">Tratamiento del cáncer de labio y de cavidad oral en adultos</RelatedSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

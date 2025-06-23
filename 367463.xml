@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000367463"><TermName>ixabepilone</TermName><TermPronunciation>(IK-suh-BEH-pih-lone)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with capecitabine to treat breast cancer that is locally advanced or has spread to other parts of the body and did not get better after treatment with other anticancer drugs.  It is also being studied in the treatment of other types of cancer.  Ixabepilone blocks cell growth by stopping cell division and may kill cancer cells. It is a type of epothilone analog and a type of  antimicrotubule agent. Also called BMS-247550 and Ixempra.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000711224" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ixabepilone&quot;" language="en" id="_3"/><MediaLink ref="CDR0000711225" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ixabepilona&quot;" language="es" id="_4"/><SpanishTermName>ixabepilona</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa solo o con capecitabina para el tratamiento del cáncer de mama localmente avanzado, o que se diseminó a otras partes del cuerpo y que no mejoró después del tratamiento con otros medicamentos anticancerosos. También está en estudio para el tratamiento de otros tipos de cáncer. La ixabepilona evita la multiplicación de las células al impedir la división celular y es posible que destruya células cancerosas. Es un tipo de antimicrotúbulo y de análogo de la epotilona. También se llama BMS-247550 e Ixempra.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2004-04-23</DateFirstPublished><DateLastModified>2021-02-12</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000573900" url="/about-cancer/treatment/drugs/ixabepilone">Ixabepilone</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000367463">
+  <TermName>ixabepilone</TermName>
+  <TermPronunciation>(IK-suh-BEH-pih-lone)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with capecitabine to treat breast cancer that is locally advanced or has spread to other parts of the body and did not get better after treatment with other anticancer drugs.  It is also being studied in the treatment of other types of cancer.  Ixabepilone blocks cell growth by stopping cell division and may kill cancer cells. It is a type of epothilone analog and a type of  antimicrotubule agent. Also called BMS-247550 and Ixempra.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000711224" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ixabepilone&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000711225" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ixabepilona&quot;" language="es" id="_4"/>
+  <SpanishTermName>ixabepilona</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa solo o con capecitabina para el tratamiento del cáncer de mama localmente avanzado, o que se diseminó a otras partes del cuerpo y que no mejoró después del tratamiento con otros medicamentos anticancerosos. También está en estudio para el tratamiento de otros tipos de cáncer. La ixabepilona evita la multiplicación de las células al impedir la división celular y es posible que destruya células cancerosas. Es un tipo de antimicrotúbulo y de análogo de la epotilona. También se llama BMS-247550 e Ixempra.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2004-04-23</DateFirstPublished>
+  <DateLastModified>2021-02-12</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000573900" url="/about-cancer/treatment/drugs/ixabepilone">Ixabepilone</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

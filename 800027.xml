@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000800027"><TermName>neurofibromatosis type 1-like syndrome</TermName><TermPronunciation>(NOOR-oh-FY-broh-muh-TOH-sis … SIN-drome)</TermPronunciation><TermDefinition><DefinitionText>A rare genetic condition marked by flat brown spots on the skin. The number of brown spots on the skin tends to increase throughout childhood. Other signs and symptoms include an abnormally large head, unusual facial features, and freckling in the armpits and groin. People with this syndrome may have mild learning and developmental delays. Neurofibromatosis type 1-like syndrome is a type of disease called a RASopathy that is caused by mutations (changes) in the SPRED1 gene. This gene makes a protein involved in a cell signaling pathway that controls many important cell functions. Also called Legius syndrome.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000802571" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurofibromatosis type 1-like syndrome&quot;" language="en" id="_3"/><MediaLink ref="CDR0000802572" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome similar a la neurofibromatosis de tipo 1&quot;" language="es" id="_4"/><SpanishTermName>síndrome similar a la neurofibromatosis de tipo 1</SpanishTermName><SpanishTermDefinition><DefinitionText>Afección genética rara que se caracteriza por manchas planas de color marrón en la piel. El número de manchas suele aumentar durante la niñez. Otros signos y síntomas  incluyen una cabeza más grande de lo normal, rasgos faciales atípicos y pecas en las axilas o la región inguinal. Las personas con este síndrome a veces tienen retrasos leves en el desarrollo y el aprendizaje. El síndrome similar a la neurofibromatosis de tipo 1 es un tipo de rasopatía causada por mutaciones (cambios) en el gen <GeneName>SPRED1</GeneName> que elabora una proteína de una vía de señalización que controla muchas funciones importantes de la célula. También se llama síndrome de Legius.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2020-04-09</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000800027">
+  <TermName>neurofibromatosis type 1-like syndrome</TermName>
+  <TermPronunciation>(NOOR-oh-FY-broh-muh-TOH-sis … SIN-drome)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare genetic condition marked by flat brown spots on the skin. The number of brown spots on the skin tends to increase throughout childhood. Other signs and symptoms include an abnormally large head, unusual facial features, and freckling in the armpits and groin. People with this syndrome may have mild learning and developmental delays. Neurofibromatosis type 1-like syndrome is a type of disease called a RASopathy that is caused by mutations (changes) in the SPRED1 gene. This gene makes a protein involved in a cell signaling pathway that controls many important cell functions. Also called Legius syndrome.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000802571" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;neurofibromatosis type 1-like syndrome&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000802572" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;síndrome similar a la neurofibromatosis de tipo 1&quot;" language="es" id="_4"/>
+  <SpanishTermName>síndrome similar a la neurofibromatosis de tipo 1</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Afección genética rara que se caracteriza por manchas planas de color marrón en la piel. El número de manchas suele aumentar durante la niñez. Otros signos y síntomas  incluyen una cabeza más grande de lo normal, rasgos faciales atípicos y pecas en las axilas o la región inguinal. Las personas con este síndrome a veces tienen retrasos leves en el desarrollo y el aprendizaje. El síndrome similar a la neurofibromatosis de tipo 1 es un tipo de rasopatía causada por mutaciones (cambios) en el gen 
+      <GeneName>SPRED1</GeneName>
+       que elabora una proteína de una vía de señalización que controla muchas funciones importantes de la célula. También se llama síndrome de Legius.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2020-04-09</DateFirstPublished>
+</GlossaryTerm>

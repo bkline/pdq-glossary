@@ -1,1 +1,20 @@
-<GlossaryTerm id="CDR0000560347"><TermName>water-soluble vitamin</TermName><TermPronunciation>(… SOL-yoo-bul VY-tuh-min)</TermPronunciation><TermDefinition><DefinitionText>A vitamin that can dissolve in water. Vitamins are nutrients that the body needs in small amounts to stay healthy and work the way it should. Water-soluble vitamins are carried to the body's tissues but are not stored in the body. They are found in many plant and animal foods and in dietary supplements and must be taken in daily. Vitamin C and members of the vitamin B complex are water-soluble.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000720995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;water-soluble vitamin&quot;" language="en" id="_3"/><MediaLink ref="CDR0000720994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vitamina soluble en agua&quot;" language="es" id="_4"/><SpanishTermName>vitamina soluble en agua</SpanishTermName><SpanishTermDefinition><DefinitionText>Vitamina que se disuelve en agua.  Las vitaminas son nutrientes que el cuerpo necesita en pequeñas cantidades para estar sano y funcionar como se debe. Las vitaminas solubles en agua van a los tejidos pero no se almacenan en el cuerpo. Se encuentran en muchos alimentos de origen vegetal y animal, también se encuentran en suplementos alimentarios y se deben consumir diariamente. La vitamina C y los miembros del complejo de la vitamina B son solubles en agua. También se llama vitamina hidrosoluble.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2008-03-10</DateFirstPublished><DateLastModified>2020-11-10</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000560347">
+  <TermName>water-soluble vitamin</TermName>
+  <TermPronunciation>(… SOL-yoo-bul VY-tuh-min)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A vitamin that can dissolve in water. Vitamins are nutrients that the body needs in small amounts to stay healthy and work the way it should. Water-soluble vitamins are carried to the body's tissues but are not stored in the body. They are found in many plant and animal foods and in dietary supplements and must be taken in daily. Vitamin C and members of the vitamin B complex are water-soluble.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000720995" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;water-soluble vitamin&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000720994" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;vitamina soluble en agua&quot;" language="es" id="_4"/>
+  <SpanishTermName>vitamina soluble en agua</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Vitamina que se disuelve en agua.  Las vitaminas son nutrientes que el cuerpo necesita en pequeñas cantidades para estar sano y funcionar como se debe. Las vitaminas solubles en agua van a los tejidos pero no se almacenan en el cuerpo. Se encuentran en muchos alimentos de origen vegetal y animal, también se encuentran en suplementos alimentarios y se deben consumir diariamente. La vitamina C y los miembros del complejo de la vitamina B son solubles en agua. También se llama vitamina hidrosoluble.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2008-03-10</DateFirstPublished>
+  <DateLastModified>2020-11-10</DateLastModified>
+</GlossaryTerm>

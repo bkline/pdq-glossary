@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000509002"><TermName>Mylotarg</TermName><TermPronunciation>(MY-loh-targ)</TermPronunciation><TermDefinition><DefinitionText>A drug used alone or with other drugs to treat acute myeloid leukemia that is CD33 positive (expresses the protein CD33). It is used in adults and in children aged 1 month and older whose disease is newly diagnosed. It is also used in adults and in children  aged 2 years and older whose disease has come back or has not gotten better with other treatment. It is also being studied in the treatment of other types of cancer. Mylotarg contains a monoclonal antibody that binds to CD33, which is found on some leukemia cells. It also contains an anticancer drug, which may help kill cancer cells. Mylotarg is a type of antibody-drug conjugate. Also called gemtuzumab ozogamicin.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718503" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Mylotarg&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Mylotarg&quot;" language="es" id="_4"/><SpanishTermName>Mylotarg</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se utiliza solo o con otros medicamentos para el tratamiento de la leucemia mieloide aguda que da positivo para CD33 (expresa la proteína CD33). Se usa en adultos y niños de 1 mes o más cuya enfermedad recién se diagnosticó. También se usa en adultos y niños de 2 años o más cuya enfermedad volvió o no mejoró con otros tratamientos. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. Mylotarg contiene un anticuerpo monoclonal que se une a la proteína CD33 en algunas células cancerosas. También contiene un fármaco contra el cáncer,  que quizás ayude a destruir células cancerosas. Mylotarg es un tipo de conjugado anticuerpo-fármaco. También se llama gemtuzumab ozogamicina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2006-09-15</DateFirstPublished><DateLastModified>2021-06-03</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000505269" url="/about-cancer/treatment/drugs/gemtuzumabozogamicin">Gemtuzumab Ozogamicin</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000509002">
+  <TermName>Mylotarg</TermName>
+  <TermPronunciation>(MY-loh-targ)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used alone or with other drugs to treat acute myeloid leukemia that is CD33 positive (expresses the protein CD33). It is used in adults and in children aged 1 month and older whose disease is newly diagnosed. It is also used in adults and in children  aged 2 years and older whose disease has come back or has not gotten better with other treatment. It is also being studied in the treatment of other types of cancer. Mylotarg contains a monoclonal antibody that binds to CD33, which is found on some leukemia cells. It also contains an anticancer drug, which may help kill cancer cells. Mylotarg is a type of antibody-drug conjugate. Also called gemtuzumab ozogamicin.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718503" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Mylotarg&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718502" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;Mylotarg&quot;" language="es" id="_4"/>
+  <SpanishTermName>Mylotarg</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se utiliza solo o con otros medicamentos para el tratamiento de la leucemia mieloide aguda que da positivo para CD33 (expresa la proteína CD33). Se usa en adultos y niños de 1 mes o más cuya enfermedad recién se diagnosticó. También se usa en adultos y niños de 2 años o más cuya enfermedad volvió o no mejoró con otros tratamientos. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. Mylotarg contiene un anticuerpo monoclonal que se une a la proteína CD33 en algunas células cancerosas. También contiene un fármaco contra el cáncer,  que quizás ayude a destruir células cancerosas. Mylotarg es un tipo de conjugado anticuerpo-fármaco. También se llama gemtuzumab ozogamicina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2006-09-15</DateFirstPublished>
+  <DateLastModified>2021-06-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000505269" url="/about-cancer/treatment/drugs/gemtuzumabozogamicin">Gemtuzumab Ozogamicin</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

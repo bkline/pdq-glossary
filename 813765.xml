@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000813765"><TermName>momelotinib dihydrochloride monohydrate</TermName><TermPronunciation>(MOH-meh-LOH-tih-nib dy-HY-droh-KLOR-ide MAH-noh-HY-drayt)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat intermediate-risk or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF, and post-essential thrombocythemia MF, in adults with anemia. Momelotinib dihydrochloride monohydrate blocks JAK and other proteins, which may help keep abnormal blood cells or cancer cells from growing. It is a type of kinase inhibitor. Also called Ojjaara.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000814917" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;momelotinib dihydrochloride monohydrate&quot;" language="en" id="_3"/><MediaLink ref="CDR0000814918" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;monohidrato de diclorhidrato de momelotinib&quot;" language="es" id="_4"/><SpanishTermName>monohidrato de diclorhidrato de momelotinib</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de la mielofibrosis de riesgo intermedio o alto, incluso la mielofibrosis primaria, la mielofibrosis pospolicitemia vera y la mielofibrosis postrombocitemia esencial, en adultos con anemia. El monohidrato de diclorhidrato de momelotinib bloquea JAK y otras proteínas, lo que quizás ayude a evitar la multiplicación de células sanguíneas anormales o células cancerosas. Es un tipo de inhibidor de cinasas. También se llama Ojjaara.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2023-09-22</DateFirstPublished><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000813846" url="/about-cancer/treatment/drugs/momelotinib-dihydrochloride-monohydrate">Momelotinib Dihydrochloride Monohydrate</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000813765">
+  <TermName>momelotinib dihydrochloride monohydrate</TermName>
+  <TermPronunciation>(MOH-meh-LOH-tih-nib dy-HY-droh-KLOR-ide MAH-noh-HY-drayt)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A drug used to treat intermediate-risk or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF, and post-essential thrombocythemia MF, in adults with anemia. Momelotinib dihydrochloride monohydrate blocks JAK and other proteins, which may help keep abnormal blood cells or cancer cells from growing. It is a type of kinase inhibitor. Also called Ojjaara.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000814917" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;momelotinib dihydrochloride monohydrate&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000814918" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;monohidrato de diclorhidrato de momelotinib&quot;" language="es" id="_4"/>
+  <SpanishTermName>monohidrato de diclorhidrato de momelotinib</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Medicamento que se usa para el tratamiento de la mielofibrosis de riesgo intermedio o alto, incluso la mielofibrosis primaria, la mielofibrosis pospolicitemia vera y la mielofibrosis postrombocitemia esencial, en adultos con anemia. El monohidrato de diclorhidrato de momelotinib bloquea JAK y otras proteínas, lo que quizás ayude a evitar la multiplicación de células sanguíneas anormales o células cancerosas. Es un tipo de inhibidor de cinasas. También se llama Ojjaara.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2023-09-22</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000813846" url="/about-cancer/treatment/drugs/momelotinib-dihydrochloride-monohydrate">Momelotinib Dihydrochloride Monohydrate</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

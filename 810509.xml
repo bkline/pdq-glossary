@@ -1,1 +1,31 @@
-<GlossaryTerm id="CDR0000810509"><TermName>trastuzumab deruxtecan</TermName><TermPronunciation>(tras-TOO-zoo-mab DEH-rux-TEE-kan)</TermPronunciation><TermDefinition><DefinitionText>A drug used to treat adults with certain types of HER2-positive or HER2-low breast cancer, HER2-positive stomach cancer, gastroesophageal junction cancer, or other solid tumor, or non-small cell lung cancer that has a certain mutation in the <GeneName>HER2</GeneName> gene. It is also being studied in the treatment of other types of cancer. Trastuzumab deruxtecan contains a monoclonal antibody called trastuzumab that binds to a protein called HER2, which is found on some cancer cells. It also contains an anticancer drug called deruxtecan, which may help kill cancer cells. Trastuzumab deruxtecan is a type of antibody-drug conjugate. Also called Enhertu and fam-trastuzumab deruxtecan.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000811530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastuzumab deruxtecan&quot;" language="en" id="_3"/><MediaLink ref="CDR0000811531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastuzumab deruxtecán&quot;" language="es" id="_4"/><SpanishTermName>trastuzumab deruxtecán</SpanishTermName><SpanishTermDefinition><DefinitionText>Medicamento que se usa para el tratamiento de adultos con ciertos tipos de cáncer de mama positivo para HER2 o con HER2 bajo,  cáncer de estómago, cáncer de unión gastroesofágica u otro tumor sólido positivos para HER2, o cáncer de pulmón de células no pequeñas que tiene determinada mutación en el gen <GeneName>HER2</GeneName>. También está en estudio para el tratamiento de otros tipos de cáncer. El trastuzumab deruxtecán contiene un anticuerpo monoclonal llamado trastuzumab que se une a una proteína llamada HER2, presente en algunas células cancerosas. Además contiene un medicamento contra el cáncer llamado deruxtecán, que quizás ayude a destruir células cancerosas. El trastuzumab deruxtecán es un tipo de conjugado anticuerpo-fármaco. También se llama Enhertu y fam-trastuzumab deruxtecán.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2022-09-19</DateFirstPublished><DateLastModified>2024-04-10</DateLastModified><RelatedInformation><RelatedDrugSummaryRef UseWith="en" href="CDR0000800219" url="/about-cancer/treatment/drugs/famtrastuzumabderuxtecan-nxki">Fam-Trastuzumab Deruxtecan-nxki</RelatedDrugSummaryRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000810509">
+  <TermName>trastuzumab deruxtecan</TermName>
+  <TermPronunciation>(tras-TOO-zoo-mab DEH-rux-TEE-kan)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>
+      A drug used to treat adults with certain types of HER2-positive or HER2-low breast cancer, HER2-positive stomach cancer, gastroesophageal junction cancer, or other solid tumor, or non-small cell lung cancer that has a certain mutation in the 
+      <GeneName>HER2</GeneName>
+       gene. It is also being studied in the treatment of other types of cancer. Trastuzumab deruxtecan contains a monoclonal antibody called trastuzumab that binds to a protein called HER2, which is found on some cancer cells. It also contains an anticancer drug called deruxtecan, which may help kill cancer cells. Trastuzumab deruxtecan is a type of antibody-drug conjugate. Also called Enhertu and fam-trastuzumab deruxtecan.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000811530" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastuzumab deruxtecan&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000811531" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;trastuzumab deruxtecán&quot;" language="es" id="_4"/>
+  <SpanishTermName>trastuzumab deruxtecán</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Medicamento que se usa para el tratamiento de adultos con ciertos tipos de cáncer de mama positivo para HER2 o con HER2 bajo,  cáncer de estómago, cáncer de unión gastroesofágica u otro tumor sólido positivos para HER2, o cáncer de pulmón de células no pequeñas que tiene determinada mutación en el gen 
+      <GeneName>HER2</GeneName>
+      . También está en estudio para el tratamiento de otros tipos de cáncer. El trastuzumab deruxtecán contiene un anticuerpo monoclonal llamado trastuzumab que se une a una proteína llamada HER2, presente en algunas células cancerosas. Además contiene un medicamento contra el cáncer llamado deruxtecán, que quizás ayude a destruir células cancerosas. El trastuzumab deruxtecán es un tipo de conjugado anticuerpo-fármaco. También se llama Enhertu y fam-trastuzumab deruxtecán.
+    </DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2022-09-19</DateFirstPublished>
+  <DateLastModified>2024-04-10</DateLastModified>
+  <RelatedInformation>
+    <RelatedDrugSummaryRef UseWith="en" href="CDR0000800219" url="/about-cancer/treatment/drugs/famtrastuzumabderuxtecan-nxki">Fam-Trastuzumab Deruxtecan-nxki</RelatedDrugSummaryRef>
+  </RelatedInformation>
+</GlossaryTerm>

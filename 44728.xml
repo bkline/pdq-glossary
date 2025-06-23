@@ -1,1 +1,18 @@
-<GlossaryTerm id="CDR0000044728"><TermName>skin patch</TermName><TermPronunciation>(skin pach)</TermPronunciation><TermDefinition><DefinitionText>A bandage-like patch that releases medicine into the body through the skin. The medicine enters the blood slowly and steadily.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000728112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;skin patch&quot;" language="en" id="_3"/><MediaLink ref="CDR0000728111" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;parche transdérmico&quot;" language="es" id="_7"/><SpanishTermName>parche transdérmico</SpanishTermName><SpanishTermDefinition><DefinitionText>Parche parecido a un vendaje que libera medicamentos en el cuerpo a través de la piel. El medicamento entra en la sangre de forma lenta y sostenida. También se llama parche cutáneo y parche dérmico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000044728">
+  <TermName>skin patch</TermName>
+  <TermPronunciation>(skin pach)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A bandage-like patch that releases medicine into the body through the skin. The medicine enters the blood slowly and steadily.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000728112" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;skin patch&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000728111" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;parche transdérmico&quot;" language="es" id="_7"/>
+  <SpanishTermName>parche transdérmico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Parche parecido a un vendaje que libera medicamentos en el cuerpo a través de la piel. El medicamento entra en la sangre de forma lenta y sostenida. También se llama parche cutáneo y parche dérmico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+</GlossaryTerm>

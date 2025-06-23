@@ -1,1 +1,17 @@
-<GlossaryTerm id="CDR0000438726"><TermName>TTI-237</TermName><TermDefinition><DefinitionText>A substance that is being studied in the treatment of cancer. It belongs to the family of drugs called mitotic inhibitors.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><SpanishTermName>TTI-237</SpanishTermName><SpanishTermDefinition><DefinitionText>Sustancia en estudio para el tratamiento del cáncer. Es un tipo de inhibidor mitótico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2005-08-24</DateFirstPublished><DateLastModified>2006-11-08</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000438726">
+  <TermName>TTI-237</TermName>
+  <TermDefinition>
+    <DefinitionText>A substance that is being studied in the treatment of cancer. It belongs to the family of drugs called mitotic inhibitors.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <SpanishTermName>TTI-237</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Sustancia en estudio para el tratamiento del cáncer. Es un tipo de inhibidor mitótico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2005-08-24</DateFirstPublished>
+  <DateLastModified>2006-11-08</DateLastModified>
+</GlossaryTerm>

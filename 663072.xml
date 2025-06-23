@@ -1,1 +1,22 @@
-<GlossaryTerm id="CDR0000663072"><TermName>Level of evidence II</TermName><TermDefinition><DefinitionText>Prospective, nonrandomized, controlled trials; prospective cohort studies; prospective case series; and cross-sectional studies. See <SummaryRef href="CDR0000660468" url="/publications/pdq/levels-evidence/supportive-care">Levels of Evidence for Supportive and Palliative Care Studies</SummaryRef> (PDQ®) for more information.</DefinitionText><Audience>Health professional</Audience></TermDefinition><SpanishTermName>Nivel de evidencia científica II</SpanishTermName><SpanishTermDefinition><DefinitionText>Ensayos  prospectivos controlados no aleatorizados, estudios prospectivos de cohortes, series de casos prospectivos y estudios  transversales. Para obtener más información, consultar el resumen <SummaryRef href="CDR0000663162" url="/espanol/publicaciones/pdq/niveles-de-evidencia/cuidados-medicos-apoyo">Niveles de evidencia de los estudios sobre los cuidados médicos de apoyo  y los cuidados paliativos</SummaryRef>  (PDQ®).</DefinitionText><Audience>Health professional</Audience></SpanishTermDefinition><DateFirstPublished>2010-01-11</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000663072">
+  <TermName>Level of evidence II</TermName>
+  <TermDefinition>
+    <DefinitionText>
+      Prospective, nonrandomized, controlled trials; prospective cohort studies; prospective case series; and cross-sectional studies. See 
+      <SummaryRef href="CDR0000660468" url="/publications/pdq/levels-evidence/supportive-care">Levels of Evidence for Supportive and Palliative Care Studies</SummaryRef>
+       (PDQ®) for more information.
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </TermDefinition>
+  <SpanishTermName>Nivel de evidencia científica II</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>
+      Ensayos  prospectivos controlados no aleatorizados, estudios prospectivos de cohortes, series de casos prospectivos y estudios  transversales. Para obtener más información, consultar el resumen 
+      <SummaryRef href="CDR0000663162" url="/espanol/publicaciones/pdq/niveles-de-evidencia/cuidados-medicos-apoyo">Niveles de evidencia de los estudios sobre los cuidados médicos de apoyo  y los cuidados paliativos</SummaryRef>
+        (PDQ®).
+    </DefinitionText>
+    <Audience>Health professional</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2010-01-11</DateFirstPublished>
+</GlossaryTerm>

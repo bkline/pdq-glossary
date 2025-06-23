@@ -1,1 +1,25 @@
-<GlossaryTerm id="CDR0000045214"><TermName>chemotherapy</TermName><TermPronunciation>(KEE-moh-THAYR-uh-pee)</TermPronunciation><TermDefinition><DefinitionText>Treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Chemotherapy may be given by mouth, injection, or infusion, or on the skin, depending on the type and stage of the cancer being treated. It may be given alone or with other treatments, such as surgery, radiation therapy, or biologic therapy.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000705162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chemotherapy&quot;" language="en" id="_3"/><MediaLink ref="CDR0000705163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia&quot;" language="es" id="_4"/><SpanishTermName>quimioterapia</SpanishTermName><SpanishTermDefinition><DefinitionText>Tratamiento con medicamentos para interrumpir la formación de células cancerosas, ya sea mediante su destrucción o al impedir su multiplicación. La quimioterapia se administra por la boca, en inyección, por infusión o sobre la piel, según el tipo de cáncer y el estadio en que este se encuentra. Se administra sola o con otros tratamientos como cirugía, radioterapia o terapia biológica.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2016-03-28</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/chemo-and-you">Chemotherapy and You: Support for People With Cancer </RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/quimioterapia-y-usted">La quimioterapia y usted: Apoyo para las personas con cáncer</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/chemotherapy?redirect=true">Chemotherapy to Treat Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia">Quimioterapia</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045214">
+  <TermName>chemotherapy</TermName>
+  <TermPronunciation>(KEE-moh-THAYR-uh-pee)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Chemotherapy may be given by mouth, injection, or infusion, or on the skin, depending on the type and stage of the cancer being treated. It may be given alone or with other treatments, such as surgery, radiation therapy, or biologic therapy.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000705162" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;chemotherapy&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000705163" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;quimioterapia&quot;" language="es" id="_4"/>
+  <SpanishTermName>quimioterapia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tratamiento con medicamentos para interrumpir la formación de células cancerosas, ya sea mediante su destrucción o al impedir su multiplicación. La quimioterapia se administra por la boca, en inyección, por infusión o sobre la piel, según el tipo de cáncer y el estadio en que este se encuentra. Se administra sola o con otros tratamientos como cirugía, radioterapia o terapia biológica.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2016-03-28</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/publications/patient-education/chemo-and-you">Chemotherapy and You: Support for People With Cancer </RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/quimioterapia-y-usted">La quimioterapia y usted: Apoyo para las personas con cáncer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/treatment/types/chemotherapy?redirect=true">Chemotherapy to Treat Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia">Quimioterapia</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

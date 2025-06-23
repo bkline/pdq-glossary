@@ -1,4 +1,9 @@
-<GlossaryTerm id="CDR0000790621"><TermName>isocitrate dehydrogenase-2 gene</TermName><TermPronunciation>(I-soh-SIH-trayt dee-hy-DRAH-jeh-nays … jeen)</TermPronunciation><TermDefinition><DefinitionText>A gene that
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000790621">
+  <TermName>isocitrate dehydrogenase-2 gene</TermName>
+  <TermPronunciation>(I-soh-SIH-trayt dee-hy-DRAH-jeh-nays … jeen)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A gene that
           makes a protein that is found inside small structures in
           cells called mitochondria and that helps the mitochondria
           make energy for many cell functions. Mutations (changes) in
@@ -6,7 +11,15 @@
           certain genetic conditions and in some types of cancer,
           including acute myelogenous leukemia and brain cancer.
           These changes may cause abnormal cells, including cancer
-          cells, to grow and spread in the body.  Also called IDH2 gene.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000792228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;isocitrate dehydrogenase-2 gene&quot;" language="en" id="_3"/><MediaLink ref="CDR0000792229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen de la isocitrato deshidrogenasa 2&quot;" language="es" id="_4"/><SpanishTermName>gen de la isocitrato deshidrogenasa 2</SpanishTermName><SpanishTermDefinition><DefinitionText>Gen que
+          cells, to grow and spread in the body.  Also called IDH2 gene.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000792228" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;isocitrate dehydrogenase-2 gene&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000792229" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;gen de la isocitrato deshidrogenasa 2&quot;" language="es" id="_4"/>
+  <SpanishTermName>gen de la isocitrato deshidrogenasa 2</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Gen que
 da origen a una
 proteína
 que se encuentra en el
@@ -25,4 +38,10 @@ mielógena aguda y el cáncer de encéfalo. Es posible que estos cambios hagan
 que
 se formen células anormales,
 incluso células cancerosas, y se diseminen por el
-cuerpo. También se llama gen IDH2.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2017-11-15</DateFirstPublished><DateLastModified>2020-12-02</DateLastModified></GlossaryTerm>
+cuerpo. También se llama gen IDH2.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2017-11-15</DateFirstPublished>
+  <DateLastModified>2020-12-02</DateLastModified>
+</GlossaryTerm>

@@ -1,1 +1,24 @@
-<GlossaryTerm id="CDR0000538647"><TermName>secondhand smoke</TermName><TermPronunciation>(SEH-kund-hand ...)</TermPronunciation><TermDefinition><DefinitionText>Smoke that comes from the burning of a tobacco product and smoke that is exhaled by smokers. Inhaling secondhand smoke is called involuntary or passive smoking. Also called environmental tobacco smoke and ETS.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000718040" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;secondhand smoke&quot;" language="en" id="_3"/><MediaLink ref="CDR0000718041" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;humo de segunda mano&quot;" language="es" id="_6"/><SpanishTermName>humo de segunda mano</SpanishTermName><SpanishTermDefinition><DefinitionText>Humo que se produce al quemarse un producto de tabaco y también el humo que los fumadores exhalan al fumar. La inhalación de este humo se llama tabaquismo involuntario o pasivo, o exposición pasiva al humo de tabaco. También se llama HSM, humo ajeno, humo de otros fumadores y humo de tabaco en el ambiente.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2007-07-06</DateFirstPublished><DateLastModified>2007-07-03</DateLastModified><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/second-hand-smoke-fact-sheet">Secondhand Smoke and Cancer</RelatedExternalRef><RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/tabaco/hoja-informativa-humo-tabaco-ambiente">Humo de tabaco en el ambiente y el cáncer</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000538647">
+  <TermName>secondhand smoke</TermName>
+  <TermPronunciation>(SEH-kund-hand ...)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>Smoke that comes from the burning of a tobacco product and smoke that is exhaled by smokers. Inhaling secondhand smoke is called involuntary or passive smoking. Also called environmental tobacco smoke and ETS.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000718040" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;secondhand smoke&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000718041" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;humo de segunda mano&quot;" language="es" id="_6"/>
+  <SpanishTermName>humo de segunda mano</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Humo que se produce al quemarse un producto de tabaco y también el humo que los fumadores exhalan al fumar. La inhalación de este humo se llama tabaquismo involuntario o pasivo, o exposición pasiva al humo de tabaco. También se llama HSM, humo ajeno, humo de otros fumadores y humo de tabaco en el ambiente.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2007-07-06</DateFirstPublished>
+  <DateLastModified>2007-07-03</DateLastModified>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/second-hand-smoke-fact-sheet">Secondhand Smoke and Cancer</RelatedExternalRef>
+    <RelatedExternalRef UseWith="es" xref="https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/tabaco/hoja-informativa-humo-tabaco-ambiente">Humo de tabaco en el ambiente y el cáncer</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>

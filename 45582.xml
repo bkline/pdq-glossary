@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000045582"><TermName>3-dimensional</TermName><TermPronunciation>(3-dih-MEN-shuh-nul)</TermPronunciation><TermDefinition><DefinitionText>A graphic display of depth, width, and height. Also called 3-D.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000731107" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;3-dimensional&quot;" language="en" id="_3"/><MediaLink ref="CDR0000731106" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tridimensional&quot;" language="es" id="_4"/><SpanishTermName>tridimensional</SpanishTermName><SpanishTermDefinition><DefinitionText>Representación visual de algo en tres dimensiones: longitud (profundidad), anchura y altura. También se llama 3D.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateLastModified>2007-01-17</DateLastModified></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000045582">
+  <TermName>3-dimensional</TermName>
+  <TermPronunciation>(3-dih-MEN-shuh-nul)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A graphic display of depth, width, and height. Also called 3-D.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000731107" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;3-dimensional&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000731106" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tridimensional&quot;" language="es" id="_4"/>
+  <SpanishTermName>tridimensional</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Representación visual de algo en tres dimensiones: longitud (profundidad), anchura y altura. También se llama 3D.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateLastModified>2007-01-17</DateLastModified>
+</GlossaryTerm>

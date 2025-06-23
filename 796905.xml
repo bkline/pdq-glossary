@@ -1,1 +1,19 @@
-<GlossaryTerm id="CDR0000796905"><TermName>hemorrhagic stroke</TermName><TermPronunciation>(HEH-muh-RA-jik stroke)</TermPronunciation><TermDefinition><DefinitionText>A type of stroke that occurs when a blood vessel in the brain or on the surface of the brain leaks or breaks open, causing bleeding in or around the brain. This leads to swelling and pressure, which can damage cells and tissue in the brain. Hemorrhagic stroke is usually caused by high blood pressure, aneurysm, arteriovenous malformation, head injury, or a bleeding disorder. Also called hemorrhagic cerebrovascular accident.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000798086" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemorrhagic stroke&quot;" language="en" id="_3"/><MediaLink ref="CDR0000798084" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ictus hemorrágico&quot;" language="es" id="_4"/><SpanishTermName>ictus hemorrágico</SpanishTermName><SpanishTermDefinition><DefinitionText>Tipo de accidente cerebrovascular que se presenta cuando se rompe un vaso sanguíneo dentro del encéfalo o en su superficie, y hay hemorragia dentro del encéfalo o alrededor de este. La hinchazón y el aumento de la presión a causa de la hemorragia dañan las células y el tejido del encéfalo. El ictus hemorrágico a menudo se produce a causa de  presión arterial alta, aneurisma, anomalía arteriovenosa, traumatismo en la cabeza o trastorno hemorrágico. También se llama accidente cerebrovascular hemorrágico, apoplejía hemorrágica, ataque cerebral hemorrágico y derrame cerebral hemorrágico.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2019-04-10</DateFirstPublished></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000796905">
+  <TermName>hemorrhagic stroke</TermName>
+  <TermPronunciation>(HEH-muh-RA-jik stroke)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A type of stroke that occurs when a blood vessel in the brain or on the surface of the brain leaks or breaks open, causing bleeding in or around the brain. This leads to swelling and pressure, which can damage cells and tissue in the brain. Hemorrhagic stroke is usually caused by high blood pressure, aneurysm, arteriovenous malformation, head injury, or a bleeding disorder. Also called hemorrhagic cerebrovascular accident.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000798086" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;hemorrhagic stroke&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000798084" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;ictus hemorrágico&quot;" language="es" id="_4"/>
+  <SpanishTermName>ictus hemorrágico</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Tipo de accidente cerebrovascular que se presenta cuando se rompe un vaso sanguíneo dentro del encéfalo o en su superficie, y hay hemorragia dentro del encéfalo o alrededor de este. La hinchazón y el aumento de la presión a causa de la hemorragia dañan las células y el tejido del encéfalo. El ictus hemorrágico a menudo se produce a causa de  presión arterial alta, aneurisma, anomalía arteriovenosa, traumatismo en la cabeza o trastorno hemorrágico. También se llama accidente cerebrovascular hemorrágico, apoplejía hemorrágica, ataque cerebral hemorrágico y derrame cerebral hemorrágico.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2019-04-10</DateFirstPublished>
+</GlossaryTerm>

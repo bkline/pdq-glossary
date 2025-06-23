@@ -1,1 +1,23 @@
-<GlossaryTerm id="CDR0000748977"><TermName>tyrosinemia</TermName><TermPronunciation>(TY-roh-sih-NEE-mee-uh)</TermPronunciation><TermDefinition><DefinitionText>A rare, inherited disorder marked by high blood levels of a protein building block called tyrosine. This can cause a harmful buildup of tyrosine and other substances in the body’s tissues and organs, especially in the liver, kidney, and nervous system. This can lead to serious medical problems and may increase the risk of liver cancer. Tyrosinemia is caused by mutations (changes) in certain genes that make enzymes needed to break down tyrosine.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></TermDefinition><MediaLink ref="CDR0000752669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tyrosinemia&quot;" language="en" id="_3"/><MediaLink ref="CDR0000752670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tirosinemia&quot;" language="es" id="_4"/><SpanishTermName>tirosinemia</SpanishTermName><SpanishTermDefinition><DefinitionText>Trastorno hereditario raro que se caracteriza por concentraciones altas de tirosina (componente básico de las proteínas)  en la sangre. Esto a veces causa una acumulación dañina de tirosina y otras sustancias en los tejidos y órganos, en especial, en el hígado, los riñones y el sistema nervioso. Dicha acumulación puede dar lugar a problemas médicos graves y aumentar el riesgo de cáncer de hígado. La causa de la tirosinemia son mutaciones (cambios) en ciertos genes que dan origen a las enzimas necesarias para descomponer la tirosina.</DefinitionText><Dictionary>Cancer.gov</Dictionary><Audience>Patient</Audience></SpanishTermDefinition><DateFirstPublished>2013-06-20</DateFirstPublished><RelatedInformation><RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/2658/tyrosinemia-type-1">Tyrosinemia type 1 (Genetic and Rare Diseases Information Center)</RelatedExternalRef><RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/tyrosinemia/">Tyrosinemia (MedlinePlus)</RelatedExternalRef></RelatedInformation></GlossaryTerm>
+<?xml version="1.0" ?>
+<GlossaryTerm id="CDR0000748977">
+  <TermName>tyrosinemia</TermName>
+  <TermPronunciation>(TY-roh-sih-NEE-mee-uh)</TermPronunciation>
+  <TermDefinition>
+    <DefinitionText>A rare, inherited disorder marked by high blood levels of a protein building block called tyrosine. This can cause a harmful buildup of tyrosine and other substances in the body’s tissues and organs, especially in the liver, kidney, and nervous system. This can lead to serious medical problems and may increase the risk of liver cancer. Tyrosinemia is caused by mutations (changes) in certain genes that make enzymes needed to break down tyrosine.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </TermDefinition>
+  <MediaLink ref="CDR0000752669" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tyrosinemia&quot;" language="en" id="_3"/>
+  <MediaLink ref="CDR0000752670" type="audio/mpeg" alt="Pronunciation of dictionary term &quot;tirosinemia&quot;" language="es" id="_4"/>
+  <SpanishTermName>tirosinemia</SpanishTermName>
+  <SpanishTermDefinition>
+    <DefinitionText>Trastorno hereditario raro que se caracteriza por concentraciones altas de tirosina (componente básico de las proteínas)  en la sangre. Esto a veces causa una acumulación dañina de tirosina y otras sustancias en los tejidos y órganos, en especial, en el hígado, los riñones y el sistema nervioso. Dicha acumulación puede dar lugar a problemas médicos graves y aumentar el riesgo de cáncer de hígado. La causa de la tirosinemia son mutaciones (cambios) en ciertos genes que dan origen a las enzimas necesarias para descomponer la tirosina.</DefinitionText>
+    <Dictionary>Cancer.gov</Dictionary>
+    <Audience>Patient</Audience>
+  </SpanishTermDefinition>
+  <DateFirstPublished>2013-06-20</DateFirstPublished>
+  <RelatedInformation>
+    <RelatedExternalRef UseWith="en" xref="https://rarediseases.info.nih.gov/diseases/2658/tyrosinemia-type-1">Tyrosinemia type 1 (Genetic and Rare Diseases Information Center)</RelatedExternalRef>
+    <RelatedExternalRef UseWith="en" xref="https://medlineplus.gov/genetics/condition/tyrosinemia/">Tyrosinemia (MedlinePlus)</RelatedExternalRef>
+  </RelatedInformation>
+</GlossaryTerm>
